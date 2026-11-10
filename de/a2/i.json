@@ -1,0 +1,294 @@
+[
+  {
+    "word": "Idee",
+    "level": "a2",
+    "zipf": 5.2,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Ideen",
+      "genitive": "Idee"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "idea",
+        "ko": "아이디어, 생각",
+        "examples": [
+          {
+            "text": "Das ist eine gute Idee.",
+            "ko": "그거 좋은 생각이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "informieren",
+    "level": "a2",
+    "zipf": 4.48,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "informiert",
+      "past": "informierte",
+      "pp": "informiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to inform, to update",
+        "ko": "알리다",
+        "examples": [
+          {
+            "text": "Ich informiere dich morgen.",
+            "ko": "내일 너한테 알려 줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to read up on, to find out, to research, to look into, (rare) to inform oneself",
+        "ko": "알아보다, 정보를 얻다",
+        "examples": [
+          {
+            "text": "Ich informiere mich über den Kurs.",
+            "ko": "나는 그 강좌에 대해 알아봐.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Insel",
+    "level": "a2",
+    "zipf": 4.77,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Inseln",
+      "genitive": "Insel"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "an island, an isle",
+        "ko": "섬",
+        "examples": [
+          {
+            "text": "Wir machen Urlaub auf einer Insel.",
+            "ko": "우리는 섬에서 휴가를 보내.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Instrument",
+    "level": "a2",
+    "zipf": 4.25,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Instrumente",
+      "genitive": "Instrumentes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "instrument",
+        "ko": "악기, 도구",
+        "examples": [
+          {
+            "text": "Ich spiele ein Instrument.",
+            "ko": "나는 악기를 하나 연주해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "intelligent",
+    "level": "a2",
+    "zipf": 3.91,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "intelligenter",
+      "superlative": "am intelligentesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "intelligent",
+        "ko": "똑똑한, 지능이 높은",
+        "examples": [
+          {
+            "text": "Sie ist sehr intelligent.",
+            "ko": "그녀는 아주 똑똑해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "interessant",
+    "level": "a2",
+    "zipf": 4.8,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "interessanter",
+      "superlative": "am interessantesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "interesting",
+        "ko": "흥미로운, 재미있는",
+        "examples": [
+          {
+            "text": "Das Buch ist sehr interessant.",
+            "ko": "그 책은 아주 흥미로워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Interesse",
+    "level": "a2",
+    "zipf": 5.02,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Interessen",
+      "genitive": "Interesses"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "interest (attention and concern)",
+        "ko": "관심",
+        "examples": [
+          {
+            "text": "Ich habe Interesse an Musik.",
+            "ko": "나는 음악에 관심이 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "interessieren",
+    "level": "a2",
+    "zipf": 4.45,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "interessiert",
+      "past": "interessierte",
+      "pp": "interessiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to interest",
+        "ko": "관심을 끌다",
+        "examples": [
+          {
+            "text": "Das Thema interessiert mich.",
+            "ko": "그 주제는 내 관심을 끌어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be interested in",
+        "ko": "~에 관심이 있다",
+        "examples": [
+          {
+            "text": "Ich interessiere mich für Fußball.",
+            "ko": "나는 축구에 관심이 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Interview",
+    "level": "a2",
+    "zipf": 4.76,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Interviews",
+      "genitive": "Interviews"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "interview (journalistic dialogue)",
+        "ko": "인터뷰",
+        "examples": [
+          {
+            "text": "Die Zeitung macht ein Interview mit ihm.",
+            "ko": "신문사가 그와 인터뷰를 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

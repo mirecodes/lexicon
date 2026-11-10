@@ -1,0 +1,2653 @@
+[
+  {
+    "word": "Sache",
+    "level": "a2",
+    "zipf": 5.24,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Sachen",
+      "genitive": "Sache"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "thing, object",
+        "ko": "물건, 것",
+        "examples": [
+          {
+            "text": "Ich packe meine Sachen.",
+            "ko": "나는 내 짐을 챙겨요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "matter, affair, case, question, issue",
+        "ko": "일, 사안",
+        "examples": [
+          {
+            "text": "Das ist eine wichtige Sache.",
+            "ko": "그건 중요한 일이에요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sammeln",
+    "level": "a2",
+    "zipf": 4.47,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "sammelt",
+      "past": "sammelte",
+      "pp": "gesammelt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to gather; to assemble; to collect",
+        "ko": "모으다, 수집하다",
+        "examples": [
+          {
+            "text": "Mein Bruder sammelt Briefmarken.",
+            "ko": "내 남동생은 우표를 모아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to collect money",
+        "ko": "모금하다",
+        "examples": [
+          {
+            "text": "Die Schüler sammeln Geld für die Reise.",
+            "ko": "학생들이 여행 경비를 모아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sauber",
+    "level": "a2",
+    "zipf": 4.46,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "sauberer",
+      "superlative": "am saubersten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "clean",
+        "ko": "깨끗한",
+        "examples": [
+          {
+            "text": "Das Zimmer ist sauber.",
+            "ko": "방이 깨끗해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "neat, tidy",
+        "ko": "단정한, 말끔한",
+        "examples": [
+          {
+            "text": "Sie schreibt sehr sauber.",
+            "ko": "그녀는 글씨를 아주 단정하게 써요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sauer",
+    "level": "a2",
+    "zipf": 4.33,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sour; acid; acidic",
+        "ko": "신, 시큼한",
+        "examples": [
+          {
+            "text": "Die Zitrone ist sauer.",
+            "ko": "레몬은 시어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "upset; annoyed; angry",
+        "ko": "화난, 짜증난",
+        "examples": [
+          {
+            "text": "Er ist sauer auf mich.",
+            "ko": "그는 나한테 화가 났어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schade",
+    "level": "a2",
+    "zipf": 4.78,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a pity, a shame; bummer; unfortunate; disappointing",
+        "ko": "아쉬운, 안타까운",
+        "examples": [
+          {
+            "text": "Schade, dass du nicht kommst.",
+            "ko": "네가 못 와서 아쉽다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "too good",
+        "ko": "~하기에는 아까운",
+        "examples": [
+          {
+            "text": "Das ist zu schade zum Wegwerfen.",
+            "ko": "그건 버리기에는 아깝다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schaffen",
+    "level": "a2",
+    "zipf": 5.1,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "schafft",
+      "past": "schuf",
+      "pp": "geschaffen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to create, to call into being",
+        "ko": "창조하다, 만들어 내다",
+        "examples": [
+          {
+            "text": "Der Künstler schafft ein neues Bild.",
+            "ko": "예술가가 새 그림을 만들어 내요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to create, produce, bring about, establish",
+        "ko": "만들다, 이루다",
+        "examples": [
+          {
+            "text": "Die Stadt schafft neue Arbeitsplätze.",
+            "ko": "그 도시는 새 일자리를 만들어 내요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "scharf",
+    "level": "a2",
+    "zipf": 4.43,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "schärfer",
+      "superlative": "am schärfsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hot; spicy; pungent (of food)",
+        "ko": "매운",
+        "examples": [
+          {
+            "text": "Die Suppe ist mir zu scharf.",
+            "ko": "이 수프는 나한테 너무 매워요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "sharp; able to cut (of a knife, edge)",
+        "ko": "날카로운",
+        "examples": [
+          {
+            "text": "Das Messer ist sehr scharf.",
+            "ko": "칼이 아주 날카로워요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schenken",
+    "level": "a2",
+    "zipf": 4.25,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "schenkt",
+      "past": "schenkte",
+      "pp": "geschenkt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to give as a present, to gift",
+        "ko": "선물하다",
+        "examples": [
+          {
+            "text": "Ich schenke dir ein Buch zum Geburtstag.",
+            "ko": "생일 선물로 너에게 책을 줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schere",
+    "level": "a2",
+    "zipf": 3.78,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Scheren",
+      "genitive": "Schere"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a pair of scissors, shears",
+        "ko": "가위",
+        "examples": [
+          {
+            "text": "Ich brauche eine Schere.",
+            "ko": "가위가 필요해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schiff",
+    "level": "a2",
+    "zipf": 4.67,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Schiffe",
+      "genitive": "Schiffes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ship",
+        "ko": "배, 선박",
+        "examples": [
+          {
+            "text": "Das Schiff fährt nach Schweden.",
+            "ko": "배는 스웨덴으로 가요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schimpfen",
+    "level": "a2",
+    "zipf": 3.47,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "schimpft",
+      "past": "schimpfte",
+      "pp": "geschimpft",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to tell off, to scold, to yell at",
+        "ko": "꾸짖다, 야단치다",
+        "examples": [
+          {
+            "text": "Die Mutter schimpft mit dem Kind.",
+            "ko": "엄마가 아이를 야단쳐요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to complain, to grouse, to bitch, to curse",
+        "ko": "불평하다, 욕하다",
+        "examples": [
+          {
+            "text": "Er schimpft über das Wetter.",
+            "ko": "그는 날씨에 대해 불평해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schirm",
+    "level": "a2",
+    "zipf": 3.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Schirme",
+      "genitive": "Schirmes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "umbrella (thin fabric cover stretched on a frame with a longer shaft)",
+        "ko": "우산",
+        "examples": [
+          {
+            "text": "Nimm einen Schirm mit, es regnet!",
+            "ko": "비 오니까 우산 가져가!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "clipping of Bildschirm (“screen, monitor”)",
+        "ko": "화면, 모니터",
+        "examples": [
+          {
+            "text": "Der Schirm ist kaputt.",
+            "ko": "화면이 고장 났어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schlafzimmer",
+    "level": "a2",
+    "zipf": 4.19,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Schlafzimmer",
+      "genitive": "Schlafzimmers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Schlaf|stem",
+      "Zimmer|stem"
+    ],
+    "senses": [
+      {
+        "en": "bedroom (bed-room), bedchamber (bed-chamber)",
+        "ko": "침실",
+        "examples": [
+          {
+            "text": "Mein Schlafzimmer ist klein.",
+            "ko": "내 침실은 작아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schlimm",
+    "level": "a2",
+    "zipf": 4.78,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "schlimmer",
+      "superlative": "am schlimmsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "bad, terrible, serious (seriously bad), dire, horrible, awful",
+        "ko": "나쁜, 심한",
+        "examples": [
+          {
+            "text": "Das ist nicht so schlimm.",
+            "ko": "그렇게 심각한 건 아니에요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schloss",
+    "level": "a2",
+    "zipf": 4.84,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Schlösser",
+      "genitive": "Schlosses"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "castle (château, palace, not fortified)",
+        "ko": "성, 궁전",
+        "examples": [
+          {
+            "text": "Wir besuchen ein altes Schloss.",
+            "ko": "우리는 오래된 성을 방문해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "lock, padlock (something used for fastening)",
+        "ko": "자물쇠",
+        "examples": [
+          {
+            "text": "Das Schloss ist kaputt.",
+            "ko": "자물쇠가 고장 났어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schmerz",
+    "level": "a2",
+    "zipf": 4.37,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Schmerzen",
+      "genitive": "Schmerzes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "physical pain, ache (practically, as a sensation)",
+        "ko": "통증, 아픔",
+        "examples": [
+          {
+            "text": "Ich habe starke Schmerzen im Bein.",
+            "ko": "다리에 심한 통증이 있어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "emotional pain, sorrow, heartache",
+        "ko": "슬픔, 마음의 아픔",
+        "examples": [
+          {
+            "text": "Der Abschied bringt Schmerz.",
+            "ko": "이별은 마음의 아픔을 가져와요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schmutzig",
+    "level": "a2",
+    "zipf": 3.7,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "schmutziger",
+      "superlative": "am schmutzigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Schmutz|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "dirty, filthy, grimy",
+        "ko": "더러운",
+        "examples": [
+          {
+            "text": "Meine Hände sind schmutzig.",
+            "ko": "내 손이 더러워요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schnee",
+    "level": "a2",
+    "zipf": 4.45,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Schnees"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "snow",
+        "ko": "눈",
+        "examples": [
+          {
+            "text": "Im Januar liegt viel Schnee.",
+            "ko": "1월에는 눈이 많이 쌓여요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schneiden",
+    "level": "a2",
+    "zipf": 4.3,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": true,
+      "present3": "schneidet",
+      "past": "schnitt",
+      "pp": "geschnitten",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to cut; to carve; to slice",
+        "ko": "자르다, 썰다",
+        "examples": [
+          {
+            "text": "Ich schneide das Brot.",
+            "ko": "나는 빵을 썰어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to cut (oneself)",
+        "ko": "베이다",
+        "examples": [
+          {
+            "text": "Ich schneide mich in den Finger.",
+            "ko": "나는 손가락을 베었어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schneien",
+    "level": "a2",
+    "zipf": 2.96,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "mixed",
+      "reflexive": false,
+      "present3": "schneit",
+      "past": "schneite",
+      "pp": "geschneit",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to snow",
+        "ko": "눈이 오다",
+        "examples": [
+          {
+            "text": "Es schneit seit gestern.",
+            "ko": "어제부터 눈이 와요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schokolade",
+    "level": "a2",
+    "zipf": 4.2,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Schokolade"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "chocolate (food made from ground roasted cocoa beans)",
+        "ko": "초콜릿",
+        "examples": [
+          {
+            "text": "Die Kinder essen gern Schokolade.",
+            "ko": "아이들은 초콜릿을 즐겨 먹어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schrecklich",
+    "level": "a2",
+    "zipf": 4.22,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "schrecklicher",
+      "superlative": "am schrecklichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Schreck|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "awful, terrible, horrible",
+        "ko": "끔찍한, 무서운",
+        "examples": [
+          {
+            "text": "Das Wetter ist heute schrecklich.",
+            "ko": "오늘 날씨가 끔찍해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schriftlich",
+    "level": "a2",
+    "zipf": 4.08,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Schrift|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "written",
+        "ko": "서면의, 글로 쓴",
+        "examples": [
+          {
+            "text": "Die Prüfung ist schriftlich.",
+            "ko": "시험은 필기예요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schwach",
+    "level": "a2",
+    "zipf": 4.43,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "schwächer",
+      "superlative": "am schwächsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "weak, lacking in strength",
+        "ko": "약한, 힘이 없는",
+        "examples": [
+          {
+            "text": "Nach der Krankheit bin ich noch schwach.",
+            "ko": "병을 앓은 뒤라 아직 힘이 없어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schwanger",
+    "level": "a2",
+    "zipf": 4.15,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pregnant (of humans)",
+        "ko": "임신한",
+        "examples": [
+          {
+            "text": "Meine Schwester ist schwanger.",
+            "ko": "내 언니는 임신했어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schwein",
+    "level": "a2",
+    "zipf": 4.11,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Schweine",
+      "genitive": "Schweines"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "swine, pig",
+        "ko": "돼지",
+        "examples": [
+          {
+            "text": "Auf dem Bauernhof gibt es viele Schweine.",
+            "ko": "농장에는 돼지가 많아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "luck, good fortune",
+        "ko": "행운",
+        "examples": [
+          {
+            "text": "Da hast du Schwein gehabt!",
+            "ko": "운이 좋았네!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schwierig",
+    "level": "a2",
+    "zipf": 4.69,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "schwieriger",
+      "superlative": "am schwierigsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "difficult, hard, challenging, tough",
+        "ko": "어려운, 힘든",
+        "examples": [
+          {
+            "text": "Die Aufgabe ist schwierig.",
+            "ko": "이 과제는 어려워요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schädlich",
+    "level": "a2",
+    "zipf": 3.71,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "schädlicher",
+      "superlative": "am schädlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Schaden|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "harmful",
+        "ko": "해로운",
+        "examples": [
+          {
+            "text": "Rauchen ist schädlich.",
+            "ko": "흡연은 해로워요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Seife",
+    "level": "a2",
+    "zipf": 3.67,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Seifen",
+      "genitive": "Seife"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "soap (substance)",
+        "ko": "비누",
+        "examples": [
+          {
+            "text": "Ich wasche mir die Hände mit Seife.",
+            "ko": "나는 비누로 손을 씻어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Seite",
+    "level": "a2",
+    "zipf": 5.49,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Seiten",
+      "genitive": "Seite"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "page (single leaf of any manuscript or book)",
+        "ko": "쪽, 페이지",
+        "examples": [
+          {
+            "text": "Bitte öffnen Sie das Buch auf Seite zehn.",
+            "ko": "책 10쪽을 펴 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "side (a bounding straight edge of a two-dimensional shape)",
+        "ko": "옆, 측면",
+        "examples": [
+          {
+            "text": "Die Bank steht auf der linken Seite.",
+            "ko": "벤치는 왼쪽에 있어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "a certain aspect of a concept",
+        "ko": "면, 측면",
+        "examples": [
+          {
+            "text": "Er hat auch eine nette Seite.",
+            "ko": "그에게는 친절한 면도 있어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "selbst",
+    "level": "a2",
+    "zipf": 5.9,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "even",
+        "ko": "~조차, 스스로",
+        "examples": [
+          {
+            "text": "Selbst die Kinder helfen mit.",
+            "ko": "아이들조차 도와줘요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Sendung",
+    "level": "a2",
+    "zipf": 4.68,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Sendungen",
+      "genitive": "Sendung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "senden|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "programme (performance of a show or other broadcast on radio or television)",
+        "ko": "방송 프로그램",
+        "examples": [
+          {
+            "text": "Diese Sendung läuft jeden Abend.",
+            "ko": "이 프로그램은 매일 저녁 방송돼요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "delivery (by a postal service)",
+        "ko": "우편물, 배송",
+        "examples": [
+          {
+            "text": "Die Sendung kommt morgen an.",
+            "ko": "우편물이 내일 도착해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Service",
+    "level": "a2",
+    "zipf": 4.61,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Service"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "service (e.g. in a restaurant)",
+        "ko": "서비스",
+        "examples": [
+          {
+            "text": "Der Service im Restaurant ist gut.",
+            "ko": "식당 서비스가 좋아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "setzen",
+    "level": "a2",
+    "zipf": 5.1,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "setzt",
+      "past": "setzte",
+      "pp": "gesetzt",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "causative of sitzen: to set; to put",
+        "ko": "앉히다, 놓다",
+        "examples": [
+          {
+            "text": "Ich setze das Kind auf den Stuhl.",
+            "ko": "나는 아이를 의자에 앉혀요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to sit down",
+        "ko": "앉다",
+        "examples": [
+          {
+            "text": "Bitte setzen Sie sich.",
+            "ko": "앉으세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sicher",
+    "level": "a2",
+    "zipf": 5.54,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "sicherer",
+      "superlative": "am sichersten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "safe, secure (not dangerous or in danger)",
+        "ko": "안전한",
+        "examples": [
+          {
+            "text": "Hier ist es sicher.",
+            "ko": "여기는 안전해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "sure, certain (convinced)",
+        "ko": "확실한, 확신하는",
+        "examples": [
+          {
+            "text": "Ich bin ganz sicher.",
+            "ko": "나는 완전히 확신해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "singen",
+    "level": "a2",
+    "zipf": 4.56,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "singt",
+      "past": "sang",
+      "pp": "gesungen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to sing",
+        "ko": "노래하다",
+        "examples": [
+          {
+            "text": "Sie singt jeden Morgen unter der Dusche.",
+            "ko": "그녀는 매일 아침 샤워하며 노래해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Situation",
+    "level": "a2",
+    "zipf": 5.01,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Situationen",
+      "genitive": "Situation"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "situation, circumstances",
+        "ko": "상황",
+        "examples": [
+          {
+            "text": "Die Situation ist schwierig.",
+            "ko": "상황이 어려워요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ski",
+    "level": "a2",
+    "zipf": 4.1,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Skier",
+      "genitive": "Skis"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ski",
+        "ko": "스키",
+        "examples": [
+          {
+            "text": "Im Winter fahre ich Ski.",
+            "ko": "겨울에는 스키를 타요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sogar",
+    "level": "a2",
+    "zipf": 5.52,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "even, actually, in fact",
+        "ko": "심지어, ~조차",
+        "examples": [
+          {
+            "text": "Er spricht sogar drei Sprachen.",
+            "ko": "그는 심지어 세 가지 언어를 말해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sonnig",
+    "level": "a2",
+    "zipf": 3.35,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "sonniger",
+      "superlative": "am sonnigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Sonne|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "sunny",
+        "ko": "화창한, 햇볕이 좋은",
+        "examples": [
+          {
+            "text": "Morgen wird es sonnig.",
+            "ko": "내일은 화창할 거예요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sonst",
+    "level": "a2",
+    "zipf": 5.43,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "otherwise (under different circumstances)",
+        "ko": "그렇지 않으면",
+        "examples": [
+          {
+            "text": "Beeil dich, sonst kommen wir zu spät.",
+            "ko": "서둘러, 안 그러면 늦어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "else",
+        "ko": "그 밖에, 달리",
+        "examples": [
+          {
+            "text": "Möchten Sie sonst noch etwas?",
+            "ko": "그 밖에 더 필요하세요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "normally, usually (as opposed to a particular case)",
+        "ko": "평소에",
+        "examples": [
+          {
+            "text": "Sonst trinke ich Tee.",
+            "ko": "평소에는 차를 마셔요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "spannend",
+    "level": "a2",
+    "zipf": 4.43,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "spannender",
+      "superlative": "am spannendsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "thrilling, exciting, gripping, enthralling, spellbinding",
+        "ko": "긴장감 있는, 흥미진진한",
+        "examples": [
+          {
+            "text": "Der Krimi ist sehr spannend.",
+            "ko": "그 추리 소설은 아주 흥미진진해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "interesting",
+        "ko": "재미있는",
+        "examples": [
+          {
+            "text": "Das ist ein spannendes Thema.",
+            "ko": "그건 흥미로운 주제야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sparen",
+    "level": "a2",
+    "zipf": 4.65,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "spart",
+      "past": "sparte",
+      "pp": "gespart",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to save up; to accumulate, to put aside (for a specific purpose)",
+        "ko": "저축하다, 아끼다",
+        "examples": [
+          {
+            "text": "Ich spare Geld für ein Auto.",
+            "ko": "나는 자동차를 사려고 돈을 모아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to save, to conserve (for example energy)",
+        "ko": "절약하다",
+        "examples": [
+          {
+            "text": "Wir sparen Strom.",
+            "ko": "우리는 전기를 절약해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Spaß",
+    "level": "a2",
+    "zipf": 5.22,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Spaßes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fun",
+        "ko": "재미",
+        "examples": [
+          {
+            "text": "Deutsch lernen macht mir Spaß.",
+            "ko": "독일어 공부는 재미있어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "joke",
+        "ko": "농담",
+        "examples": [
+          {
+            "text": "Das war nur ein Spaß.",
+            "ko": "그냥 농담이었어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "spazieren gehen",
+    "level": "a2",
+    "zipf": 3.98,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "geht spazieren",
+      "past": "ging spazieren",
+      "pp": "spazieren gegangen",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "spazieren|stem",
+      "gehen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to go for a walk, to stroll, to take a stroll",
+        "ko": "산책하다",
+        "examples": [
+          {
+            "text": "Am Sonntag gehen wir im Wald spazieren.",
+            "ko": "일요일에 우리는 숲에서 산책해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Spaziergang",
+    "level": "a2",
+    "zipf": 3.98,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Spaziergänge",
+      "genitive": "Spazierganges"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "spazieren|stem",
+      "Gang|stem"
+    ],
+    "senses": [
+      {
+        "en": "walk (trip made by walking)",
+        "ko": "산책",
+        "examples": [
+          {
+            "text": "Nach dem Essen machen wir einen Spaziergang.",
+            "ko": "식사 후에 우리는 산책을 해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "speichern",
+    "level": "a2",
+    "zipf": 3.89,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "speichert",
+      "past": "speicherte",
+      "pp": "gespeichert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to save (write data to a storage medium)",
+        "ko": "저장하다",
+        "examples": [
+          {
+            "text": "Ich speichere die Datei auf dem Computer.",
+            "ko": "나는 파일을 컴퓨터에 저장해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to store, save (keep safe for future use)",
+        "ko": "보관하다, 비축하다",
+        "examples": [
+          {
+            "text": "Der Tank speichert Wasser.",
+            "ko": "탱크는 물을 저장해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Spiel",
+    "level": "a2",
+    "zipf": 5.49,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Spiele",
+      "genitive": "Spiels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a game (instance or way of playing)",
+        "ko": "게임, 경기",
+        "examples": [
+          {
+            "text": "Das Spiel beginnt um acht Uhr.",
+            "ko": "경기는 8시에 시작해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sportlich",
+    "level": "a2",
+    "zipf": 4.02,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "sportlicher",
+      "superlative": "am sportlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Sport|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "athletic, fit, sporty (physically strong, good at sports)",
+        "ko": "운동을 잘하는, 탄탄한",
+        "examples": [
+          {
+            "text": "Meine Schwester ist sehr sportlich.",
+            "ko": "내 언니는 운동을 아주 잘해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "sport; sporting, athletic (of or pertaining to sports)",
+        "ko": "스포츠의, 운동의",
+        "examples": [
+          {
+            "text": "Er hat große sportliche Erfolge.",
+            "ko": "그는 스포츠에서 큰 성공을 거뒀어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Sportplatz",
+    "level": "a2",
+    "zipf": 3.51,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Sportplätze",
+      "genitive": "Sportplatzes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Sport|stem",
+      "Platz|stem"
+    ],
+    "senses": [
+      {
+        "en": "sports field",
+        "ko": "운동장",
+        "examples": [
+          {
+            "text": "Die Kinder spielen auf dem Sportplatz.",
+            "ko": "아이들이 운동장에서 놀아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Sprechstunde",
+    "level": "a2",
+    "zipf": 3.33,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Sprechstunden",
+      "genitive": "Sprechstunde"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "sprechen|stem",
+      "Stunde|stem"
+    ],
+    "senses": [
+      {
+        "en": "office hours",
+        "ko": "상담 시간",
+        "examples": [
+          {
+            "text": "Die Sprechstunde ist von neun bis zwölf.",
+            "ko": "상담 시간은 9시부터 12시까지예요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "consultation-hour, surgery",
+        "ko": "진료 시간",
+        "examples": [
+          {
+            "text": "Die Ärztin hat heute keine Sprechstunde.",
+            "ko": "의사 선생님은 오늘 진료가 없어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Stadtplan",
+    "level": "a2",
+    "zipf": 3.2,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Stadtpläne",
+      "genitive": "Stadtplanes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Stadt|stem",
+      "Plan|stem"
+    ],
+    "senses": [
+      {
+        "en": "street map, city map",
+        "ko": "시내 지도",
+        "examples": [
+          {
+            "text": "Ich brauche einen Stadtplan von Wien.",
+            "ko": "나는 빈 시내 지도가 필요해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Star",
+    "level": "a2",
+    "zipf": 4.74,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Stare",
+      "genitive": "Stars"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "starling",
+        "ko": "찌르레기",
+        "examples": [
+          {
+            "text": "Ein Star sitzt auf dem Baum.",
+            "ko": "찌르레기 한 마리가 나무에 앉아 있어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "stark",
+    "level": "a2",
+    "zipf": 5.28,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "stärker",
+      "superlative": "am stärksten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "strong (intense, powerful, unyielding)",
+        "ko": "강한, 힘센",
+        "examples": [
+          {
+            "text": "Mein Vater ist sehr stark.",
+            "ko": "우리 아버지는 아주 힘이 세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "good, great, skilled",
+        "ko": "훌륭한, 대단한",
+        "examples": [
+          {
+            "text": "Das war eine starke Leistung.",
+            "ko": "대단한 성과였어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "stattfinden",
+    "level": "a2",
+    "zipf": 4.37,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "findet statt",
+      "past": "fand statt",
+      "pp": "stattgefunden",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "statt"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "statt|sep",
+      "finden|stem"
+    ],
+    "senses": [
+      {
+        "en": "to take place, to happen",
+        "ko": "열리다, 개최되다",
+        "examples": [
+          {
+            "text": "Das Konzert findet morgen statt.",
+            "ko": "콘서트는 내일 열려요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sterben",
+    "level": "a2",
+    "zipf": 4.81,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "stirbt",
+      "past": "starb",
+      "pp": "gestorben",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to die",
+        "ko": "죽다",
+        "examples": [
+          {
+            "text": "Die Blumen sterben ohne Wasser.",
+            "ko": "꽃은 물이 없으면 죽어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Stiefel",
+    "level": "a2",
+    "zipf": 3.94,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Stiefel",
+      "genitive": "Stiefels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "boot (shoe)",
+        "ko": "부츠, 장화",
+        "examples": [
+          {
+            "text": "Im Schnee trage ich Stiefel.",
+            "ko": "눈 속에서는 부츠를 신어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Stift",
+    "level": "a2",
+    "zipf": 4.08,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Stifte",
+      "genitive": "Stiftes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pencil, pen, stylus (includes all rod-shaped writing implements other than fountain pens, though even these may be included informally)",
+        "ko": "필기구, 펜",
+        "examples": [
+          {
+            "text": "Hast du einen Stift für mich?",
+            "ko": "나한테 빌려줄 펜 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Stipendium",
+    "level": "a2",
+    "zipf": 3.61,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Stipendien",
+      "genitive": "Stipendiums"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "scholarship (grant-in-aid to a student)",
+        "ko": "장학금",
+        "examples": [
+          {
+            "text": "Sie bekommt ein Stipendium für das Studium.",
+            "ko": "그녀는 학업을 위한 장학금을 받아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Stockwerk",
+    "level": "a2",
+    "zipf": 3.62,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Stockwerke",
+      "genitive": "Stockwerkes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Stock|stem",
+      "Werk|stem"
+    ],
+    "senses": [
+      {
+        "en": "floor, storey, level (of a building)",
+        "ko": "층",
+        "examples": [
+          {
+            "text": "Wir wohnen im dritten Stockwerk.",
+            "ko": "우리는 3층에 살아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Strand",
+    "level": "a2",
+    "zipf": 4.44,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Strände",
+      "genitive": "Strandes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "beach",
+        "ko": "해변",
+        "examples": [
+          {
+            "text": "Wir liegen den ganzen Tag am Strand.",
+            "ko": "우리는 하루 종일 해변에 누워 있어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "streiten",
+    "level": "a2",
+    "zipf": 4.23,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": true,
+      "present3": "streitet",
+      "past": "stritt",
+      "pp": "gestritten",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to argue; to fight; to quarrel",
+        "ko": "다투다, 싸우다",
+        "examples": [
+          {
+            "text": "Die Kinder streiten oft.",
+            "ko": "아이들은 자주 다퉈요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "streng",
+    "level": "a2",
+    "zipf": 4.33,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "strenger",
+      "superlative": "am strengsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "strict, rigorous",
+        "ko": "엄격한",
+        "examples": [
+          {
+            "text": "Unser Lehrer ist sehr streng.",
+            "ko": "우리 선생님은 아주 엄격해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Stress",
+    "level": "a2",
+    "zipf": 4.49,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Stresses"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "stress (emotional pressure)",
+        "ko": "스트레스",
+        "examples": [
+          {
+            "text": "Ich habe viel Stress bei der Arbeit.",
+            "ko": "나는 직장에서 스트레스가 많아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "stressig",
+    "level": "a2",
+    "zipf": 3.47,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "stressiger",
+      "superlative": "am stressigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Stress|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "stressful",
+        "ko": "스트레스가 많은",
+        "examples": [
+          {
+            "text": "Die Woche war sehr stressig.",
+            "ko": "이번 주는 정말 스트레스가 많았어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Stuhl",
+    "level": "a2",
+    "zipf": 4.28,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Stühle",
+      "genitive": "Stuhles"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a chair (to sit on)",
+        "ko": "의자",
+        "examples": [
+          {
+            "text": "Bring bitte noch einen Stuhl.",
+            "ko": "의자 하나 더 가져와 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "stören",
+    "level": "a2",
+    "zipf": 4.25,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "stört",
+      "past": "störte",
+      "pp": "gestört",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to disturb, to interfere, to bother",
+        "ko": "방해하다, 귀찮게 하다",
+        "examples": [
+          {
+            "text": "Entschuldigung, störe ich?",
+            "ko": "실례합니다, 제가 방해가 되나요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Stück",
+    "level": "a2",
+    "zipf": 5.09,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Stücke",
+      "genitive": "Stückes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "piece (portion of something bigger or of an uncountable mass)",
+        "ko": "조각, 한 조각",
+        "examples": [
+          {
+            "text": "Möchtest du ein Stück Kuchen?",
+            "ko": "케이크 한 조각 먹을래?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "one, item, piece, unit(of something countable; often untranslated in English)",
+        "ko": "개, 점",
+        "examples": [
+          {
+            "text": "Die Äpfel kosten einen Euro pro Stück.",
+            "ko": "사과는 한 개에 1유로예요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "Something of artistic or historic value; piece of art (of any kind, but less common of novels and films)",
+        "ko": "작품, 연극",
+        "examples": [
+          {
+            "text": "Wir sehen ein Stück im Theater.",
+            "ko": "우리는 극장에서 연극을 봐요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "super",
+    "level": "a2",
+    "zipf": 5.19,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "super, great, awesome",
+        "ko": "아주 좋은, 멋진",
+        "examples": [
+          {
+            "text": "Das Essen schmeckt super.",
+            "ko": "음식이 아주 맛있어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Supermarkt",
+    "level": "a2",
+    "zipf": 4.17,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Supermärkte",
+      "genitive": "Supermarktes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "super|stem",
+      "Markt|stem"
+    ],
+    "senses": [
+      {
+        "en": "supermarket",
+        "ko": "슈퍼마켓",
+        "examples": [
+          {
+            "text": "Ich kaufe im Supermarkt ein.",
+            "ko": "나는 슈퍼마켓에서 장을 봐요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Suppe",
+    "level": "a2",
+    "zipf": 3.99,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Suppen",
+      "genitive": "Suppe"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "soup",
+        "ko": "수프",
+        "examples": [
+          {
+            "text": "Die Suppe ist heiß.",
+            "ko": "수프가 뜨거워요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "surfen",
+    "level": "a2",
+    "zipf": 3.73,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "surft",
+      "past": "surfte",
+      "pp": "gesurft",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to surf (the Web)",
+        "ko": "인터넷 서핑을 하다",
+        "examples": [
+          {
+            "text": "Abends surfe ich im Internet.",
+            "ko": "저녁에 나는 인터넷 서핑을 해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to surf",
+        "ko": "파도타기를 하다",
+        "examples": [
+          {
+            "text": "Im Urlaub surfen wir am Meer.",
+            "ko": "휴가 때 우리는 바다에서 서핑을 해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sympathisch",
+    "level": "a2",
+    "zipf": 3.93,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "sympathischer",
+      "superlative": "am sympathischsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "friendly, likable even at a first impression",
+        "ko": "호감 가는, 정감 있는",
+        "examples": [
+          {
+            "text": "Dein Freund ist mir sehr sympathisch.",
+            "ko": "네 친구는 정말 호감이 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "süß",
+    "level": "a2",
+    "zipf": 4.48,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "süßer",
+      "superlative": "am süßesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sweet",
+        "ko": "달콤한, 단",
+        "examples": [
+          {
+            "text": "Der Kuchen ist sehr süß.",
+            "ko": "케이크가 아주 달아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "cute",
+        "ko": "귀여운",
+        "examples": [
+          {
+            "text": "Der Hund ist so süß!",
+            "ko": "강아지가 정말 귀여워요!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Süßigkeiten",
+    "level": "a2",
+    "zipf": 3.87,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "süß|stem",
+      "-keit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "plural of Süßigkeit",
+        "ko": "단 과자류, 사탕과 과자",
+        "examples": [
+          {
+            "text": "Die Kinder essen gern Süßigkeiten.",
+            "ko": "아이들은 단것을 즐겨 먹어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

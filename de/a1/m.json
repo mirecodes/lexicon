@@ -1,0 +1,1017 @@
+[
+  {
+    "word": "machen",
+    "level": "a1",
+    "zipf": 5.98,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "macht",
+      "past": "machte",
+      "pp": "gemacht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to do, perform, carry out (an action) (to execute; to put into operation)",
+        "ko": "하다",
+        "examples": [
+          {
+            "text": "Was machst du heute?",
+            "ko": "너 오늘 뭐 해?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to make, prepare (food, drinks, etc.)",
+        "ko": "만들다, 준비하다",
+        "examples": [
+          {
+            "text": "Ich mache einen Kuchen.",
+            "ko": "나는 케이크를 만들어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "man",
+    "level": "a1",
+    "zipf": 6.46,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "one, you, people (impersonal pronoun)",
+        "ko": "사람들은, 누구나",
+        "examples": [
+          {
+            "text": "Hier spricht man Deutsch.",
+            "ko": "여기서는 독일어를 써.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mann",
+    "level": "a1",
+    "zipf": 5.73,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Männer",
+      "genitive": "Mannes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "man, male human being",
+        "ko": "남자",
+        "examples": [
+          {
+            "text": "Der Mann liest die Zeitung.",
+            "ko": "그 남자는 신문을 읽어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "husband",
+        "ko": "남편",
+        "examples": [
+          {
+            "text": "Mein Mann arbeitet heute.",
+            "ko": "내 남편은 오늘 일해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Maschine",
+    "level": "a1",
+    "zipf": 4.54,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Maschinen",
+      "genitive": "Maschine"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "machine",
+        "ko": "기계",
+        "examples": [
+          {
+            "text": "Die Maschine ist kaputt.",
+            "ko": "그 기계는 고장 났어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "airplane",
+        "ko": "비행기",
+        "examples": [
+          {
+            "text": "Die Maschine nach Berlin startet um acht.",
+            "ko": "베를린행 비행기는 여덟 시에 떠나.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Meer",
+    "level": "a1",
+    "zipf": 4.72,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Meere",
+      "genitive": "Meeres"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sea",
+        "ko": "바다",
+        "examples": [
+          {
+            "text": "Wir fahren ans Meer.",
+            "ko": "우리는 바다에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mehr",
+    "level": "a1",
+    "zipf": 6.33,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "more",
+        "ko": "더, 더 많이",
+        "examples": [
+          {
+            "text": "Ich möchte mehr Wasser.",
+            "ko": "나는 물을 더 원해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "no longer, never again, nothing more, not anymore",
+        "ko": "더 이상 ~않다",
+        "examples": [
+          {
+            "text": "Er wohnt nicht mehr hier.",
+            "ko": "그는 더 이상 여기 살지 않아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mein",
+    "level": "a1",
+    "zipf": 5.92,
+    "pos": "det",
+    "grammar": {
+      "type": "det"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "my",
+        "ko": "나의",
+        "examples": [
+          {
+            "text": "Das ist mein Bruder.",
+            "ko": "이 사람은 내 형(동생)이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "meist",
+    "level": "a1",
+    "zipf": 5.15,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "mostly, most often, usually",
+        "ko": "대개, 주로",
+        "examples": [
+          {
+            "text": "Am Sonntag schlafe ich meist lange.",
+            "ko": "일요일에는 대개 늦게까지 자.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "most (superlative of viel, as in die meisten)",
+        "ko": "가장 많은",
+        "examples": [
+          {
+            "text": "Die meisten Leute arbeiten hier.",
+            "ko": "대부분의 사람들이 여기서 일해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mensch",
+    "level": "a1",
+    "zipf": 5.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Menschen",
+      "genitive": "Menschen"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "human, human being, person, man",
+        "ko": "사람, 인간",
+        "examples": [
+          {
+            "text": "Er ist ein netter Mensch.",
+            "ko": "그는 좋은 사람이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Miete",
+    "level": "a1",
+    "zipf": 4.35,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mieten",
+      "genitive": "Miete"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "rent",
+        "ko": "집세, 월세",
+        "examples": [
+          {
+            "text": "Die Miete ist hoch.",
+            "ko": "월세가 비싸.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mieten",
+    "level": "a1",
+    "zipf": 4.25,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "mietet",
+      "past": "mietete",
+      "pp": "gemietet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to hire, to rent",
+        "ko": "빌리다, 임차하다",
+        "examples": [
+          {
+            "text": "Wir mieten eine Wohnung.",
+            "ko": "우리는 집을 빌려.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Milch",
+    "level": "a1",
+    "zipf": 4.51,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Milch"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "milk (white liquid produced by female mammals for their young to consume)",
+        "ko": "우유",
+        "examples": [
+          {
+            "text": "Ich trinke Milch.",
+            "ko": "나는 우유를 마셔.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mit",
+    "level": "a1",
+    "zipf": 6.98,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "with, together with",
+        "ko": "~와 함께, ~으로",
+        "examples": [
+          {
+            "text": "Ich gehe mit dir ins Kino.",
+            "ko": "나는 너랑 영화관에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "also, too (in addition; besides; as well)",
+        "ko": "같이, 함께",
+        "examples": [
+          {
+            "text": "Anna ist auch mit dabei.",
+            "ko": "안나도 같이 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mitbringen",
+    "level": "a1",
+    "zipf": 4.04,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "bringt mit",
+      "past": "brachte mit",
+      "pp": "mitgebracht",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "mit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "mit|sep",
+      "bringen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to bring (something, especially as a gift)",
+        "ko": "가져오다, 사 오다",
+        "examples": [
+          {
+            "text": "Ich bringe Kuchen mit.",
+            "ko": "나는 케이크를 가져갈게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to bring (along, with), to accompany",
+        "ko": "데려오다",
+        "examples": [
+          {
+            "text": "Bringst du deinen Freund mit?",
+            "ko": "네 친구도 데려올 거야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mitkommen",
+    "level": "a1",
+    "zipf": 3.31,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "kommt mit",
+      "past": "kam mit",
+      "pp": "mitgekommen",
+      "aux": "sein",
+      "separable": true,
+      "prefix": "mit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "mit|sep",
+      "kommen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to come with, to join and come along with (another person)",
+        "ko": "같이 가다, 같이 오다",
+        "examples": [
+          {
+            "text": "Kommst du heute Abend mit?",
+            "ko": "너 오늘 저녁에 같이 갈래?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to understand (something)",
+        "ko": "따라가다, 이해하다",
+        "examples": [
+          {
+            "text": "Ich komme nicht mit.",
+            "ko": "나는 못 따라가겠어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mitmachen",
+    "level": "a1",
+    "zipf": 4.26,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "macht mit",
+      "past": "machte mit",
+      "pp": "mitgemacht",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "mit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "mit|sep",
+      "machen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to take part, to participate, to join in",
+        "ko": "참여하다, 함께 하다",
+        "examples": [
+          {
+            "text": "Machst du beim Spiel mit?",
+            "ko": "너 게임에 같이 할래?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mitnehmen",
+    "level": "a1",
+    "zipf": 4.32,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "nimmt mit",
+      "past": "nahm mit",
+      "pp": "mitgenommen",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "mit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "mit|sep",
+      "nehmen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to take with; to carry along",
+        "ko": "가져가다, 데려가다",
+        "examples": [
+          {
+            "text": "Ich nehme einen Schirm mit.",
+            "ko": "나는 우산을 가져가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mitte",
+    "level": "a1",
+    "zipf": 5.12,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mitten",
+      "genitive": "Mitte"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "middle",
+        "ko": "가운데, 중간",
+        "examples": [
+          {
+            "text": "Der Tisch steht in der Mitte.",
+            "ko": "탁자는 가운데에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "center",
+        "ko": "중심, 중앙",
+        "examples": [
+          {
+            "text": "Das Hotel liegt in der Mitte der Stadt.",
+            "ko": "그 호텔은 시내 중심에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Moment",
+    "level": "a1",
+    "zipf": 5.13,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Momente",
+      "genitive": "Momentes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "moment",
+        "ko": "순간, 잠깐",
+        "examples": [
+          {
+            "text": "Einen Moment, bitte.",
+            "ko": "잠시만요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "morgen",
+    "level": "a1",
+    "zipf": 5.43,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "tomorrow",
+        "ko": "내일",
+        "examples": [
+          {
+            "text": "Morgen habe ich Zeit.",
+            "ko": "내일은 시간이 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mund",
+    "level": "a1",
+    "zipf": 4.75,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Münder",
+      "genitive": "Mundes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "mouth of a person",
+        "ko": "입",
+        "examples": [
+          {
+            "text": "Mach bitte den Mund auf.",
+            "ko": "입을 벌려 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mutter",
+    "level": "a1",
+    "zipf": 5.26,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Muttern",
+      "genitive": "Mutter"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "mother",
+        "ko": "어머니, 엄마",
+        "examples": [
+          {
+            "text": "Meine Mutter kocht gern.",
+            "ko": "우리 엄마는 요리하는 걸 좋아해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mädchen",
+    "level": "a1",
+    "zipf": 5.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Mädchen",
+      "genitive": "Mädchens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "girl",
+        "ko": "소녀, 여자아이",
+        "examples": [
+          {
+            "text": "Das Mädchen spielt im Garten.",
+            "ko": "그 여자아이는 정원에서 놀아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "männlich",
+    "level": "a1",
+    "zipf": 4.01,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "männlicher",
+      "superlative": "am männlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Mann|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "male",
+        "ko": "남성의, 수컷의",
+        "examples": [
+          {
+            "text": "Das Formular fragt: männlich oder weiblich?",
+            "ko": "양식에서 남성인지 여성인지 물어봐.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Möbel",
+    "level": "a1",
+    "zipf": 4.07,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n",
+        "f"
+      ],
+      "plural": "Möbel",
+      "number": "pl",
+      "genitive": "Möbels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "furniture",
+        "ko": "가구",
+        "examples": [
+          {
+            "text": "Wir kaufen neue Möbel.",
+            "ko": "우리는 새 가구를 사.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "möchten",
+    "level": "a1",
+    "zipf": 4.79,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": false
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "would like (to), to want (polite)",
+        "ko": "~하고 싶다, ~을 원하다",
+        "examples": [
+          {
+            "text": "Ich möchte einen Kaffee.",
+            "ko": "저는 커피 한 잔 원해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mögen",
+    "level": "a1",
+    "zipf": 4.7,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "modal",
+      "reflexive": false,
+      "present3": "mag",
+      "past": "mochte",
+      "pp": "gemocht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to like (something or someone)",
+        "ko": "좋아하다",
+        "examples": [
+          {
+            "text": "Ich mag Schokolade.",
+            "ko": "나는 초콜릿을 좋아해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "möglich",
+    "level": "a1",
+    "zipf": 5.4,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "mögen|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "possible (what can be done or achieved)",
+        "ko": "가능한",
+        "examples": [
+          {
+            "text": "Ist das möglich?",
+            "ko": "그게 가능해?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "müde",
+    "level": "a1",
+    "zipf": 4.5,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "müder",
+      "superlative": "am müdesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "tired",
+        "ko": "피곤한",
+        "examples": [
+          {
+            "text": "Ich bin müde.",
+            "ko": "나는 피곤해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "müssen",
+    "level": "a1",
+    "zipf": 5.78,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "modal",
+      "reflexive": false,
+      "present3": "muss",
+      "past": "musste",
+      "pp": "gemusst",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to have to (do something); must; to be obliged (to do something); to need (to do something).",
+        "ko": "~해야 하다",
+        "examples": [
+          {
+            "text": "Ich muss jetzt gehen.",
+            "ko": "나는 이제 가야 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

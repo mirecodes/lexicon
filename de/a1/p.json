@@ -1,0 +1,699 @@
+[
+  {
+    "word": "Papier",
+    "level": "a1",
+    "zipf": 4.59,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Papiere",
+      "genitive": "Papieres"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "paper (material)",
+        "ko": "종이",
+        "examples": [
+          {
+            "text": "Ich brauche Papier und einen Stift.",
+            "ko": "나는 종이와 펜이 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "a sheet of paper",
+        "ko": "종이 한 장",
+        "examples": [
+          {
+            "text": "Gibst du mir ein Papier?",
+            "ko": "종이 한 장 줄래?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Papiere",
+    "level": "a1",
+    "zipf": 4.08,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "number": "pl"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "official documents; driver's license",
+        "ko": "서류, 신분증",
+        "examples": [
+          {
+            "text": "Haben Sie Ihre Papiere dabei?",
+            "ko": "신분증 가지고 계세요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Partner",
+    "level": "a1",
+    "zipf": 4.8,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Partner",
+      "genitive": "Partners"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "partner, associate (male or of unspecified gender)",
+        "ko": "파트너, 짝, 배우자",
+        "examples": [
+          {
+            "text": "Mein Partner kocht gern.",
+            "ko": "내 파트너는 요리를 좋아해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Party",
+    "level": "a1",
+    "zipf": 4.8,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Partys",
+      "genitive": "Party"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "party (social gathering)",
+        "ko": "파티",
+        "examples": [
+          {
+            "text": "Wir machen am Samstag eine Party.",
+            "ko": "우리는 토요일에 파티를 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pass",
+    "level": "a1",
+    "zipf": 4.56,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Pässe",
+      "genitive": "Passes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "passport (short for Reisepass)",
+        "ko": "여권",
+        "examples": [
+          {
+            "text": "Ich brauche meinen Pass.",
+            "ko": "나는 여권이 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "pass, mountain pass",
+        "ko": "고갯길",
+        "examples": [
+          {
+            "text": "Der Pass ist im Winter gesperrt.",
+            "ko": "그 고갯길은 겨울에 막혀.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pause",
+    "level": "a1",
+    "zipf": 4.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Pausen",
+      "genitive": "Pause"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "break (brief planned free or rest time during an activity or event, such as in school or during a hike)",
+        "ko": "쉬는 시간, 휴식",
+        "examples": [
+          {
+            "text": "Wir machen eine Pause.",
+            "ko": "우리 좀 쉬자.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "pause (temporary interruption in speech or an activity)",
+        "ko": "잠시 멈춤",
+        "examples": [
+          {
+            "text": "Der Redner macht eine kurze Pause.",
+            "ko": "연설자는 잠깐 멈춰.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Plan",
+    "level": "a1",
+    "zipf": 4.87,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Pläne",
+      "genitive": "Planes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "plan (way of procedure)",
+        "ko": "계획",
+        "examples": [
+          {
+            "text": "Ich habe einen Plan für morgen.",
+            "ko": "나는 내일 계획이 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "detailed map",
+        "ko": "(시내) 지도",
+        "examples": [
+          {
+            "text": "Hier ist ein Plan der Stadt.",
+            "ko": "여기 시내 지도가 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Platz",
+    "level": "a1",
+    "zipf": 5.46,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Plätze",
+      "genitive": "Platzes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "place, seat, spot, position (precise location someone or something occupies)",
+        "ko": "자리",
+        "examples": [
+          {
+            "text": "Ist hier noch ein Platz frei?",
+            "ko": "여기 자리 아직 비어 있어요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "square, plaza, piazza",
+        "ko": "광장",
+        "examples": [
+          {
+            "text": "Der Markt ist auf dem Platz.",
+            "ko": "시장은 광장에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "space, room",
+        "ko": "공간",
+        "examples": [
+          {
+            "text": "Im Auto ist viel Platz.",
+            "ko": "차 안에 공간이 많아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Polizei",
+    "level": "a1",
+    "zipf": 5.39,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Polizei"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "police; law enforcement",
+        "ko": "경찰",
+        "examples": [
+          {
+            "text": "Ruf bitte die Polizei!",
+            "ko": "경찰을 불러 줘!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pommes frites",
+    "level": "a1",
+    "zipf": 2.95,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "number": "pl"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "French fries, chips",
+        "ko": "감자튀김",
+        "examples": [
+          {
+            "text": "Ich möchte Pommes frites.",
+            "ko": "저는 감자튀김 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Post",
+    "level": "a1",
+    "zipf": 4.89,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Post"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "mail, post (sent and received letters etc.)",
+        "ko": "우편물",
+        "examples": [
+          {
+            "text": "Die Post kommt um zehn.",
+            "ko": "우편물은 열 시에 와.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "post office",
+        "ko": "우체국",
+        "examples": [
+          {
+            "text": "Ich gehe zur Post.",
+            "ko": "나는 우체국에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Postleitzahl",
+    "level": "a1",
+    "zipf": 3.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Postleitzahlen",
+      "genitive": "Postleitzahl"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Post|stem",
+      "leiten|stem",
+      "Zahl|stem"
+    ],
+    "senses": [
+      {
+        "en": "postal code",
+        "ko": "우편번호",
+        "examples": [
+          {
+            "text": "Wie ist Ihre Postleitzahl?",
+            "ko": "우편번호가 어떻게 되세요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Praktikum",
+    "level": "a1",
+    "zipf": 4.03,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Praktika",
+      "genitive": "Praktikums"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "internship (job taken by a student), apprenticeship",
+        "ko": "인턴십, 실습",
+        "examples": [
+          {
+            "text": "Ich mache ein Praktikum in einer Firma.",
+            "ko": "나는 회사에서 인턴을 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Praxis",
+    "level": "a1",
+    "zipf": 4.76,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Praxen",
+      "genitive": "Praxis"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "surgery (UK), doctor's office (US), practice (UK, South Africa) (workplace of a self-employed doctor)",
+        "ko": "(개인) 병원, 진료소",
+        "examples": [
+          {
+            "text": "Die Praxis ist am Montag geöffnet.",
+            "ko": "병원은 월요일에 열어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "practice, experience",
+        "ko": "경험, 실무",
+        "examples": [
+          {
+            "text": "Ihm fehlt die Praxis.",
+            "ko": "그는 실무 경험이 부족해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Preis",
+    "level": "a1",
+    "zipf": 5.16,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Preise",
+      "genitive": "Preises"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "price",
+        "ko": "가격",
+        "examples": [
+          {
+            "text": "Der Preis ist niedrig.",
+            "ko": "가격이 낮아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "prize, award",
+        "ko": "상",
+        "examples": [
+          {
+            "text": "Sie gewinnt den ersten Preis.",
+            "ko": "그녀는 1등상을 받아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Problem",
+    "level": "a1",
+    "zipf": 5.37,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Probleme",
+      "genitive": "Problems"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "problem",
+        "ko": "문제",
+        "examples": [
+          {
+            "text": "Das ist kein Problem.",
+            "ko": "그건 문제 없어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Prospekt",
+    "level": "a1",
+    "zipf": 3.36,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Prospekte",
+      "genitive": "Prospektes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "brochure",
+        "ko": "안내 책자, 브로슈어",
+        "examples": [
+          {
+            "text": "Ich nehme einen Prospekt mit.",
+            "ko": "나는 안내 책자를 하나 가져가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Prüfung",
+    "level": "a1",
+    "zipf": 4.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Prüfungen",
+      "genitive": "Prüfung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "prüfen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "an official test or examination on a subject",
+        "ko": "시험",
+        "examples": [
+          {
+            "text": "Morgen habe ich eine Prüfung.",
+            "ko": "내일 나는 시험이 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "pünktlich",
+    "level": "a1",
+    "zipf": 4.24,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "pünktlicher",
+      "superlative": "am pünktlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Punkt|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "punctual, on time",
+        "ko": "시간을 잘 지키는, 정시에",
+        "examples": [
+          {
+            "text": "Der Zug ist pünktlich.",
+            "ko": "기차가 정시에 와.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

@@ -1,0 +1,536 @@
+[
+  {
+    "word": "umsteigen",
+    "level": "a2",
+    "zipf": 3.6,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "steigt um",
+      "past": "stieg um",
+      "pp": "umgestiegen",
+      "aux": "sein",
+      "separable": true,
+      "prefix": "um"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "um|sep",
+      "steigen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to change, to interchange, to switch (from one means of transport to another)",
+        "ko": "갈아타다, 환승하다",
+        "examples": [
+          {
+            "text": "Wir steigen in Köln um.",
+            "ko": "우리는 쾰른에서 갈아탄다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Umzug",
+    "level": "a2",
+    "zipf": 4.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Umzüge",
+      "genitive": "Umzuges"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "um|stem",
+      "Zug|stem"
+    ],
+    "senses": [
+      {
+        "en": "move, removal, relocation (change of residence)",
+        "ko": "이사",
+        "examples": [
+          {
+            "text": "Nächste Woche ist unser Umzug.",
+            "ko": "다음 주에 우리 이사해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "parade",
+        "ko": "행렬, 퍼레이드",
+        "examples": [
+          {
+            "text": "Der Umzug geht durch die Stadt.",
+            "ko": "행렬이 시내를 지나간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unbedingt",
+    "level": "a2",
+    "zipf": 4.98,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "absolute",
+        "ko": "반드시, 무조건",
+        "examples": [
+          {
+            "text": "Du musst unbedingt kommen.",
+            "ko": "너 꼭 와야 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Unfall",
+    "level": "a2",
+    "zipf": 4.7,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Unfälle",
+      "genitive": "Unfalles"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Un|stem",
+      "Fall|stem"
+    ],
+    "senses": [
+      {
+        "en": "accident",
+        "ko": "사고",
+        "examples": [
+          {
+            "text": "Es gab einen Unfall auf der Straße.",
+            "ko": "길에서 사고가 났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Universität",
+    "level": "a2",
+    "zipf": 4.9,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Universitäten",
+      "genitive": "Universität"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "university",
+        "ko": "대학교",
+        "examples": [
+          {
+            "text": "Ich studiere an der Universität.",
+            "ko": "나는 대학교에서 공부한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unterhalten",
+    "level": "a2",
+    "zipf": 4.41,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": true,
+      "present3": "unterhält",
+      "past": "unterhielt",
+      "pp": "unterhalten",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "unter|insep",
+      "halten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to converse",
+        "ko": "대화하다, 이야기를 나누다",
+        "examples": [
+          {
+            "text": "Wir unterhalten uns oft am Telefon.",
+            "ko": "우리는 자주 전화로 이야기를 나눈다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to entertain",
+        "ko": "즐겁게 하다",
+        "examples": [
+          {
+            "text": "Der Clown unterhält die Kinder.",
+            "ko": "광대가 아이들을 즐겁게 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Unterkunft",
+    "level": "a2",
+    "zipf": 4.05,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Unterkünfte",
+      "genitive": "Unterkunft"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "accommodation (lodging)",
+        "ko": "숙소",
+        "examples": [
+          {
+            "text": "Wir suchen eine Unterkunft für zwei Nächte.",
+            "ko": "우리는 이틀 밤 묵을 숙소를 찾고 있어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unternehmen",
+    "level": "a2",
+    "zipf": 5.38,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "unternimmt",
+      "past": "unternahm",
+      "pp": "unternommen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "unter|insep",
+      "nehmen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to undertake",
+        "ko": "시도하다, 하다",
+        "examples": [
+          {
+            "text": "Was unternehmen wir heute?",
+            "ko": "오늘 우리 뭐 할까?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Unterschied",
+    "level": "a2",
+    "zipf": 4.84,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Unterschiede",
+      "genitive": "Unterschiedes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "difference",
+        "ko": "차이",
+        "examples": [
+          {
+            "text": "Was ist der Unterschied?",
+            "ko": "차이가 뭐예요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "untersuchen",
+    "level": "a2",
+    "zipf": 4.25,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "untersucht",
+      "past": "untersuchte",
+      "pp": "untersucht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "unter|insep",
+      "suchen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to examine, investigate (inspect or study carefully in order to reach a conclusion)",
+        "ko": "검사하다, 조사하다",
+        "examples": [
+          {
+            "text": "Der Arzt untersucht mich.",
+            "ko": "의사가 나를 진찰한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unterwegs sein",
+    "level": "a2",
+    "zipf": 4.96,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to be on the way, to be out and about",
+        "ko": "가는 중이다, 밖에 나가 있다",
+        "examples": [
+          {
+            "text": "Ich bin gerade unterwegs.",
+            "ko": "나 지금 가는 중이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "üben",
+    "level": "a2",
+    "zipf": 4.34,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "übt",
+      "past": "übte",
+      "pp": "geübt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to practice, to drill, to train",
+        "ko": "연습하다",
+        "examples": [
+          {
+            "text": "Ich übe jeden Tag Klavier.",
+            "ko": "나는 매일 피아노를 연습한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "überall",
+    "level": "a2",
+    "zipf": 5.05,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|stem",
+      "all|stem"
+    ],
+    "senses": [
+      {
+        "en": "everywhere",
+        "ko": "어디에나, 곳곳에",
+        "examples": [
+          {
+            "text": "Hier liegt überall Schnee.",
+            "ko": "여기는 곳곳에 눈이 쌓여 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "übermorgen",
+    "level": "a2",
+    "zipf": 3.61,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|stem",
+      "morgen|stem"
+    ],
+    "senses": [
+      {
+        "en": "overmorrow, the day after tomorrow",
+        "ko": "모레",
+        "examples": [
+          {
+            "text": "Übermorgen habe ich Geburtstag.",
+            "ko": "모레가 내 생일이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "übersetzen",
+    "level": "a2",
+    "zipf": 3.9,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "übersetzt",
+      "past": "übersetzte",
+      "pp": "übersetzt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|insep",
+      "setzen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to translate, to interpret",
+        "ko": "번역하다",
+        "examples": [
+          {
+            "text": "Kannst du diesen Satz übersetzen?",
+            "ko": "이 문장 번역해 줄 수 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Übersetzung",
+    "level": "a2",
+    "zipf": 4.54,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Übersetzungen",
+      "genitive": "Übersetzung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "übersetzen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "translation",
+        "ko": "번역",
+        "examples": [
+          {
+            "text": "Die Übersetzung ist sehr gut.",
+            "ko": "번역이 아주 좋다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

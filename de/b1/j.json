@@ -1,0 +1,314 @@
+[
+  {
+    "word": "je",
+    "level": "b1",
+    "zipf": 5.4,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ever",
+        "ko": "언제든, 일찍이",
+        "examples": [
+          {
+            "text": "Hast du je Sushi gegessen?",
+            "ko": "스시를 먹어 본 적 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "per",
+        "ko": "~마다, ~당",
+        "examples": [
+          {
+            "text": "Das kostet drei Euro je Stück.",
+            "ko": "한 개당 3유로이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "je … desto …",
+    "level": "b1",
+    "zipf": 4.54,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "the ... the ... (the more ... the more ...)",
+        "ko": "~할수록 더 ~하다",
+        "examples": [
+          {
+            "text": "Je mehr ich lerne, desto besser verstehe ich.",
+            "ko": "공부하면 할수록 더 잘 이해한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "jederzeit",
+    "level": "b1",
+    "zipf": 4.42,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "jeder|stem",
+      "Zeit|stem"
+    ],
+    "senses": [
+      {
+        "en": "anytime",
+        "ko": "언제든지",
+        "examples": [
+          {
+            "text": "Du kannst mich jederzeit anrufen.",
+            "ko": "언제든지 나한테 전화해도 돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "jedes Mal",
+    "level": "b1",
+    "zipf": 5.16,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "every time",
+        "ko": "매번",
+        "examples": [
+          {
+            "text": "Jedes Mal kommt er zu spät.",
+            "ko": "그는 매번 지각한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "jedoch",
+    "level": "b1",
+    "zipf": 5.56,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "however, yet, nevertheless",
+        "ko": "그러나, 하지만",
+        "examples": [
+          {
+            "text": "Ich wollte kommen, jedoch war ich krank.",
+            "ko": "가고 싶었지만 몸이 아팠다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "jemals",
+    "level": "b1",
+    "zipf": 4.57,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ever",
+        "ko": "한 번이라도, 언젠가",
+        "examples": [
+          {
+            "text": "Warst du jemals in Berlin?",
+            "ko": "베를린에 가 본 적 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "jeweils",
+    "level": "b1",
+    "zipf": 5.03,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "in each case",
+        "ko": "각각의 경우에",
+        "examples": [
+          {
+            "text": "Es gibt jeweils zwei Plätze pro Auto.",
+            "ko": "차마다 각각 두 자리가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "each",
+        "ko": "각각, 매번",
+        "examples": [
+          {
+            "text": "Wir treffen uns jeweils am Montag.",
+            "ko": "우리는 매번 월요일에 만난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Journalist",
+    "level": "b1",
+    "zipf": 4.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Journalisten",
+      "genitive": "Journalisten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "journalist (male or of unspecified gender)",
+        "ko": "기자",
+        "examples": [
+          {
+            "text": "Der Journalist schreibt einen Artikel.",
+            "ko": "기자가 기사를 쓴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Journalistin",
+    "level": "b1",
+    "zipf": 3.81,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Journalistinnen",
+      "genitive": "Journalistin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Journalist|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "journalist (female)",
+        "ko": "여기자",
+        "examples": [
+          {
+            "text": "Die Journalistin stellt viele Fragen.",
+            "ko": "여기자가 질문을 많이 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Jugend",
+    "level": "b1",
+    "zipf": 4.82,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Jugend"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "youth (quality or state of being young; part of life following childhood)",
+        "ko": "젊은 시절, 청춘",
+        "examples": [
+          {
+            "text": "In meiner Jugend habe ich viel Sport gemacht.",
+            "ko": "젊은 시절에 나는 운동을 많이 했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "youth (young people collectively)",
+        "ko": "젊은이들",
+        "examples": [
+          {
+            "text": "Die Jugend trifft sich im Park.",
+            "ko": "젊은이들이 공원에서 만난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

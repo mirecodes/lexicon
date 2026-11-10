@@ -1,0 +1,668 @@
+[
+  {
+    "word": "Zahl",
+    "level": "a2",
+    "zipf": 5.08,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zahlen",
+      "genitive": "Zahl"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "number, numeral, figure",
+        "ko": "숫자, 수",
+        "examples": [
+          {
+            "text": "Die Zahl sieben ist mein Glück.",
+            "ko": "숫자 7은 나의 행운이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zahn",
+    "level": "a2",
+    "zipf": 3.98,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zähne",
+      "genitive": "Zahnes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "tooth",
+        "ko": "이, 치아",
+        "examples": [
+          {
+            "text": "Ich putze mir die Zähne.",
+            "ko": "나는 이를 닦는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zeichnen",
+    "level": "a2",
+    "zipf": 4.26,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "zeichnet",
+      "past": "zeichnete",
+      "pp": "gezeichnet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to draw, to sketch",
+        "ko": "그리다",
+        "examples": [
+          {
+            "text": "Das Kind zeichnet ein Haus.",
+            "ko": "아이가 집을 그린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zeigen",
+    "level": "a2",
+    "zipf": 5.29,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "zeigt",
+      "past": "zeigte",
+      "pp": "gezeigt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to exhibit, allow to see",
+        "ko": "보여 주다",
+        "examples": [
+          {
+            "text": "Zeig mir bitte dein Foto.",
+            "ko": "네 사진 좀 보여 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to point",
+        "ko": "가리키다",
+        "examples": [
+          {
+            "text": "Er zeigt auf die Tür.",
+            "ko": "그는 문을 가리킨다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to demonstrate, explain by doing",
+        "ko": "시범을 보이다, 알려 주다",
+        "examples": [
+          {
+            "text": "Sie zeigt mir den Weg.",
+            "ko": "그녀가 나에게 길을 알려 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zeitschrift",
+    "level": "a2",
+    "zipf": 4.48,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zeitschriften",
+      "genitive": "Zeitschrift"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Zeit|stem",
+      "Schrift|stem"
+    ],
+    "senses": [
+      {
+        "en": "magazine (published in regular intervals)",
+        "ko": "잡지",
+        "examples": [
+          {
+            "text": "Ich lese eine Zeitschrift.",
+            "ko": "나는 잡지를 읽는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zelt",
+    "level": "a2",
+    "zipf": 4.04,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Zelte",
+      "genitive": "Zeltes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "tent, marquee",
+        "ko": "텐트",
+        "examples": [
+          {
+            "text": "Wir schlafen im Zelt.",
+            "ko": "우리는 텐트에서 잔다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zentrum",
+    "level": "a2",
+    "zipf": 4.69,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Zentren",
+      "genitive": "Zentrums"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "central point, the middle, e.g. of a circle",
+        "ko": "중심",
+        "examples": [
+          {
+            "text": "Das Zentrum des Kreises ist hier.",
+            "ko": "원의 중심은 여기다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "a place (or group of people) that dominates and influences its surroundings, e.g. a capital",
+        "ko": "중심지, 시내",
+        "examples": [
+          {
+            "text": "Das Hotel liegt im Zentrum.",
+            "ko": "호텔은 시내 중심에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "a place set aside for some function or activity",
+        "ko": "센터",
+        "examples": [
+          {
+            "text": "Das Einkaufszentrum ist neu.",
+            "ko": "쇼핑센터는 새로 생겼다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zettel",
+    "level": "a2",
+    "zipf": 4.06,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zettel",
+      "genitive": "Zettels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a small or loose piece of paper, slip",
+        "ko": "종이쪽지",
+        "examples": [
+          {
+            "text": "Ich schreibe es auf einen Zettel.",
+            "ko": "나는 그걸 쪽지에 적는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "note, message, letter",
+        "ko": "메모",
+        "examples": [
+          {
+            "text": "Auf dem Tisch liegt ein Zettel von Mama.",
+            "ko": "탁자 위에 엄마가 쓴 메모가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zeugnis",
+    "level": "a2",
+    "zipf": 3.92,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Zeugnisse",
+      "genitive": "Zeugnisses"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zeugen|stem",
+      "-nis|suffix"
+    ],
+    "senses": [
+      {
+        "en": "certificate, affidavit, report card",
+        "ko": "성적표, 증명서",
+        "examples": [
+          {
+            "text": "Ich bekomme heute mein Zeugnis.",
+            "ko": "나는 오늘 성적표를 받는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ziel",
+    "level": "a2",
+    "zipf": 5.18,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Ziele",
+      "genitive": "Zieles"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "destination",
+        "ko": "목적지",
+        "examples": [
+          {
+            "text": "Wir erreichen bald unser Ziel.",
+            "ko": "우리는 곧 목적지에 도착한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "goal (not in football, see Tor)",
+        "ko": "목표",
+        "examples": [
+          {
+            "text": "Mein Ziel ist ein guter Job.",
+            "ko": "내 목표는 좋은 직장이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zirkus",
+    "level": "a2",
+    "zipf": 3.86,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zirkusse",
+      "genitive": "Zirkus"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "circus (kind of entertainment show)",
+        "ko": "서커스",
+        "examples": [
+          {
+            "text": "Die Kinder lieben den Zirkus.",
+            "ko": "아이들은 서커스를 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zitrone",
+    "level": "a2",
+    "zipf": 3.56,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zitronen",
+      "genitive": "Zitrone"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "lemon (fruit)",
+        "ko": "레몬",
+        "examples": [
+          {
+            "text": "Ich brauche eine Zitrone.",
+            "ko": "나는 레몬이 하나 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zoo",
+    "level": "a2",
+    "zipf": 4.15,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zoos",
+      "genitive": "Zoos"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "zoo",
+        "ko": "동물원",
+        "examples": [
+          {
+            "text": "Am Sonntag gehen wir in den Zoo.",
+            "ko": "일요일에 우리는 동물원에 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zucker",
+    "level": "a2",
+    "zipf": 4.43,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Zuckers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sugar",
+        "ko": "설탕",
+        "examples": [
+          {
+            "text": "Ich nehme keinen Zucker im Kaffee.",
+            "ko": "나는 커피에 설탕을 안 넣는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zuerst",
+    "level": "a2",
+    "zipf": 4.97,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|stem",
+      "erst|stem"
+    ],
+    "senses": [
+      {
+        "en": "first, firstly",
+        "ko": "먼저, 우선",
+        "examples": [
+          {
+            "text": "Zuerst esse ich, dann lerne ich.",
+            "ko": "먼저 먹고, 그다음에 공부한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "at first",
+        "ko": "처음에는",
+        "examples": [
+          {
+            "text": "Zuerst war alles schwer.",
+            "ko": "처음에는 모든 게 어려웠다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zuhören",
+    "level": "a2",
+    "zipf": 4.02,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "hört zu",
+      "past": "hörte zu",
+      "pp": "zugehört",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "zu"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|sep",
+      "hören|stem"
+    ],
+    "senses": [
+      {
+        "en": "to listen",
+        "ko": "귀 기울여 듣다",
+        "examples": [
+          {
+            "text": "Hör mir bitte zu.",
+            "ko": "내 말 좀 들어 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zuletzt",
+    "level": "a2",
+    "zipf": 4.88,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|stem",
+      "letzt|stem"
+    ],
+    "senses": [
+      {
+        "en": "finally; lastly; in the end",
+        "ko": "마지막으로, 결국",
+        "examples": [
+          {
+            "text": "Zuletzt kommt der Nachtisch.",
+            "ko": "마지막으로 디저트가 나온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "recently; the other day",
+        "ko": "최근에",
+        "examples": [
+          {
+            "text": "Wann hast du ihn zuletzt gesehen?",
+            "ko": "그를 마지막으로 본 게 언제야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zumachen",
+    "level": "a2",
+    "zipf": 3.39,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "macht zu",
+      "past": "machte zu",
+      "pp": "zugemacht",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "zu"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|sep",
+      "machen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to close; to shut",
+        "ko": "닫다",
+        "examples": [
+          {
+            "text": "Mach bitte das Fenster zu.",
+            "ko": "창문 좀 닫아 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

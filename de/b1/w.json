@@ -1,0 +1,2186 @@
+[
+  {
+    "word": "waagerecht",
+    "level": "b1",
+    "zipf": 2.98,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Waage|stem",
+      "recht|stem"
+    ],
+    "senses": [
+      {
+        "en": "horizontal (parallel to the plane of the horizon)",
+        "ko": "수평의",
+        "examples": [
+          {
+            "text": "Die Linie ist waagerecht.",
+            "ko": "그 선은 수평이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wachsen",
+    "level": "b1",
+    "zipf": 4.46,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "wächst",
+      "past": "wuchs",
+      "pp": "gewachsen",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to grow",
+        "ko": "자라다",
+        "examples": [
+          {
+            "text": "Die Blumen wachsen schnell.",
+            "ko": "꽃들이 빨리 자란다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to grow, to increase",
+        "ko": "늘어나다, 증가하다",
+        "examples": [
+          {
+            "text": "Die Stadt wächst jedes Jahr.",
+            "ko": "도시는 해마다 커진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wahl",
+    "level": "b1",
+    "zipf": 5.19,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wahlen",
+      "genitive": "Wahl"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "choice, selection",
+        "ko": "선택",
+        "examples": [
+          {
+            "text": "Du hast die Wahl.",
+            "ko": "네가 선택할 수 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "election (process of choosing a leader or representatives)",
+        "ko": "선거",
+        "examples": [
+          {
+            "text": "Im Herbst ist die Wahl.",
+            "ko": "가을에 선거가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wahnsinnig",
+    "level": "b1",
+    "zipf": 4.18,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "wahnsinniger",
+      "superlative": "am wahnsinnigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Wahnsinn|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "mad, insane",
+        "ko": "미친, 제정신이 아닌",
+        "examples": [
+          {
+            "text": "Der Lärm macht mich wahnsinnig.",
+            "ko": "소음 때문에 미칠 것 같다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "incredible, unbelievable",
+        "ko": "엄청난, 믿기 힘든",
+        "examples": [
+          {
+            "text": "Das Essen war wahnsinnig gut.",
+            "ko": "음식이 엄청나게 맛있었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wahrheit",
+    "level": "b1",
+    "zipf": 4.94,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wahrheiten",
+      "genitive": "Wahrheit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wahr|stem",
+      "-heit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "truth",
+        "ko": "진실, 사실",
+        "examples": [
+          {
+            "text": "Sag mir bitte die Wahrheit.",
+            "ko": "제발 진실을 말해 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wand",
+    "level": "b1",
+    "zipf": 4.68,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wände",
+      "genitive": "Wand"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "wall, partition",
+        "ko": "벽",
+        "examples": [
+          {
+            "text": "Ein Bild hängt an der Wand.",
+            "ko": "그림이 벽에 걸려 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "vertical face of a precipice, any large vertical surface",
+        "ko": "절벽, 가파른 면",
+        "examples": [
+          {
+            "text": "Die Bergsteiger klettern die steile Wand hinauf.",
+            "ko": "등산객들이 가파른 암벽을 오른다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wanderung",
+    "level": "b1",
+    "zipf": 3.89,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wanderungen",
+      "genitive": "Wanderung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wandern|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "walk, hike",
+        "ko": "도보 여행, 하이킹",
+        "examples": [
+          {
+            "text": "Am Sonntag machen wir eine Wanderung.",
+            "ko": "일요일에 우리는 하이킹을 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "migration",
+        "ko": "이동, 이주",
+        "examples": [
+          {
+            "text": "Die Wanderung der Vögel beginnt im Herbst.",
+            "ko": "새들의 이동은 가을에 시작된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ware",
+    "level": "b1",
+    "zipf": 4.28,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Waren",
+      "genitive": "Ware"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "goods, merchandise, ware, commodity",
+        "ko": "상품, 물건",
+        "examples": [
+          {
+            "text": "Die Ware kommt morgen an.",
+            "ko": "상품은 내일 도착한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "warnen",
+    "level": "b1",
+    "zipf": 4.08,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "warnt",
+      "past": "warnte",
+      "pp": "gewarnt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to warn, to caution, to admonish",
+        "ko": "경고하다, 주의를 주다",
+        "examples": [
+          {
+            "text": "Ich warne dich vor dem Hund.",
+            "ko": "그 개를 조심하라고 경고할게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Waschmittel",
+    "level": "b1",
+    "zipf": 3.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Waschmittel",
+      "genitive": "Waschmittels"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "waschen|stem",
+      "Mittel|stem"
+    ],
+    "senses": [
+      {
+        "en": "laundry detergent",
+        "ko": "세제",
+        "examples": [
+          {
+            "text": "Wir brauchen neues Waschmittel.",
+            "ko": "우리는 새 세제가 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wecker",
+    "level": "b1",
+    "zipf": 3.75,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Wecker",
+      "genitive": "Weckers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wecken|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "alarm clock",
+        "ko": "알람 시계",
+        "examples": [
+          {
+            "text": "Der Wecker klingelt um sechs Uhr.",
+            "ko": "알람이 6시에 울린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "weder … noch",
+    "level": "b1",
+    "zipf": 4.98,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "neither ... nor",
+        "ko": "~도 ~도 아닌",
+        "examples": [
+          {
+            "text": "Ich habe weder Zeit noch Geld.",
+            "ko": "나는 시간도 돈도 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "weigern",
+    "level": "b1",
+    "zipf": 3.46,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "weigert",
+      "past": "weigerte",
+      "pp": "geweigert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to refuse",
+        "ko": "거부하다, 거절하다",
+        "examples": [
+          {
+            "text": "Er weigert sich, das Formular zu unterschreiben.",
+            "ko": "그는 서류에 서명하기를 거부한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "weise",
+    "level": "b1",
+    "zipf": 5.07,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "weiser",
+      "superlative": "am weisesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "wise",
+        "ko": "현명한, 지혜로운",
+        "examples": [
+          {
+            "text": "Meine Oma ist sehr weise.",
+            "ko": "우리 할머니는 아주 지혜로우셔.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Weiterbildung",
+    "level": "b1",
+    "zipf": 4.18,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Weiterbildungen",
+      "genitive": "Weiterbildung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "weiterbilden|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "further education",
+        "ko": "평생 교육, 직업 연수",
+        "examples": [
+          {
+            "text": "Die Firma bezahlt meine Weiterbildung.",
+            "ko": "회사가 내 연수 비용을 낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "weltweit",
+    "level": "b1",
+    "zipf": 4.78,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Welt|stem",
+      "weit|stem"
+    ],
+    "senses": [
+      {
+        "en": "worldwide",
+        "ko": "전 세계의, 세계적으로",
+        "examples": [
+          {
+            "text": "Das Produkt ist weltweit bekannt.",
+            "ko": "그 제품은 전 세계에 알려져 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wenden",
+    "level": "b1",
+    "zipf": 4.36,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "wendet",
+      "past": "wendete",
+      "pp": "gewendet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to turn something (in general)",
+        "ko": "돌리다, 뒤집다",
+        "examples": [
+          {
+            "text": "Bitte wende das Fleisch in der Pfanne.",
+            "ko": "팬에 있는 고기를 뒤집어 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to turn to; to consult",
+        "ko": "~에게 문의하다",
+        "examples": [
+          {
+            "text": "Bei Fragen wenden Sie sich an den Lehrer.",
+            "ko": "질문이 있으면 선생님께 문의하세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to make a u-turn; to turn around one’s car or vehicle",
+        "ko": "차를 돌리다, 유턴하다",
+        "examples": [
+          {
+            "text": "Hier darf man nicht wenden.",
+            "ko": "여기서는 유턴하면 안 된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Werbung",
+    "level": "b1",
+    "zipf": 4.83,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Werbungen",
+      "genitive": "Werbung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "werben|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "advertising",
+        "ko": "광고",
+        "examples": [
+          {
+            "text": "Im Fernsehen gibt es viel Werbung.",
+            "ko": "텔레비전에는 광고가 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "promotion, solicitation, recruitment",
+        "ko": "홍보, 모집",
+        "examples": [
+          {
+            "text": "Die Firma macht Werbung für neue Mitarbeiter.",
+            "ko": "회사는 신입 직원을 모집하기 위해 홍보한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "werfen",
+    "level": "b1",
+    "zipf": 4.61,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "wirft",
+      "past": "warf",
+      "pp": "geworfen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to throw",
+        "ko": "던지다",
+        "examples": [
+          {
+            "text": "Er wirft den Ball zu mir.",
+            "ko": "그는 나에게 공을 던진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Werk",
+    "level": "b1",
+    "zipf": 4.89,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Werke",
+      "genitive": "Werkes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "work, piece (of art, literature, or the like)",
+        "ko": "작품",
+        "examples": [
+          {
+            "text": "Dieses Werk ist sehr berühmt.",
+            "ko": "이 작품은 매우 유명하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "factory, plant, works",
+        "ko": "공장",
+        "examples": [
+          {
+            "text": "Mein Vater arbeitet im Werk.",
+            "ko": "아버지는 공장에서 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Werkzeug",
+    "level": "b1",
+    "zipf": 4.07,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Werkzeuge",
+      "genitive": "Werkzeuges"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Werk|stem",
+      "Zeug|stem"
+    ],
+    "senses": [
+      {
+        "en": "tool",
+        "ko": "도구, 공구",
+        "examples": [
+          {
+            "text": "Ich brauche das richtige Werkzeug.",
+            "ko": "나는 알맞은 공구가 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wert",
+    "level": "b1",
+    "zipf": 5.19,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Werte",
+      "genitive": "Wertes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "worth, value (state or degree of being estimated)",
+        "ko": "가치",
+        "examples": [
+          {
+            "text": "Das Bild hat einen hohen Wert.",
+            "ko": "그 그림은 가치가 높다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "value (determinable numerical quantity)",
+        "ko": "수치, 값",
+        "examples": [
+          {
+            "text": "Der Wert liegt bei zehn Prozent.",
+            "ko": "수치는 10퍼센트 정도다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "value (moral ideal or norm)",
+        "ko": "가치관, 덕목",
+        "examples": [
+          {
+            "text": "Ehrlichkeit ist ein wichtiger Wert.",
+            "ko": "정직은 중요한 가치다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wert",
+    "level": "b1",
+    "zipf": 5.19,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "worth (adjective)",
+        "ko": "~할 가치가 있는",
+        "examples": [
+          {
+            "text": "Dieser Film ist einen Besuch wert.",
+            "ko": "이 영화는 볼 가치가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wertlos",
+    "level": "b1",
+    "zipf": 3.57,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "wertloser",
+      "superlative": "am wertlosesten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Wert|stem",
+      "-los|suffix"
+    ],
+    "senses": [
+      {
+        "en": "worthless",
+        "ko": "가치 없는",
+        "examples": [
+          {
+            "text": "Die alte Münze ist wertlos.",
+            "ko": "그 오래된 동전은 가치가 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wertvoll",
+    "level": "b1",
+    "zipf": 3.96,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "wertvoller",
+      "superlative": "am wertvollsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Wert|stem",
+      "voll|stem"
+    ],
+    "senses": [
+      {
+        "en": "valuable",
+        "ko": "값진, 소중한",
+        "examples": [
+          {
+            "text": "Dieser Ring ist sehr wertvoll.",
+            "ko": "이 반지는 매우 값지다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "weshalb",
+    "level": "b1",
+    "zipf": 4.61,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "why",
+        "ko": "왜, 무슨 이유로",
+        "examples": [
+          {
+            "text": "Weshalb kommst du so spät?",
+            "ko": "너 왜 이렇게 늦게 와?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "which is why",
+        "ko": "그래서, 그 때문에",
+        "examples": [
+          {
+            "text": "Er ist krank, weshalb er heute fehlt.",
+            "ko": "그는 아파서 오늘 결석한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wetten",
+    "level": "b1",
+    "zipf": 4.28,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "wettet",
+      "past": "wettete",
+      "pp": "gewettet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to bet",
+        "ko": "내기하다, 돈을 걸다",
+        "examples": [
+          {
+            "text": "Ich wette mit dir um ein Eis.",
+            "ko": "너랑 아이스크림 내기할래.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to bet, guess (that something is the case with certainty)",
+        "ko": "장담하다, 단언하다",
+        "examples": [
+          {
+            "text": "Ich wette, dass er zu spät kommt.",
+            "ko": "그는 분명 늦게 올 거야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wetterbericht",
+    "level": "b1",
+    "zipf": 3.22,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Wetterberichte",
+      "genitive": "Wetterberichts"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Wetter|stem",
+      "Bericht|stem"
+    ],
+    "senses": [
+      {
+        "en": "weather report (description of past and/or forecast weather)",
+        "ko": "일기 예보",
+        "examples": [
+          {
+            "text": "Laut Wetterbericht regnet es morgen.",
+            "ko": "일기 예보에 따르면 내일 비가 온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wettervorhersage",
+    "level": "b1",
+    "zipf": 3.18,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wettervorhersagen",
+      "genitive": "Wettervorhersage"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Wetter|stem",
+      "Vorhersage|stem"
+    ],
+    "senses": [
+      {
+        "en": "weather forecast",
+        "ko": "일기 예보",
+        "examples": [
+          {
+            "text": "Die Wettervorhersage ist heute gut.",
+            "ko": "오늘 일기 예보는 좋다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "widersprechen",
+    "level": "b1",
+    "zipf": 4.01,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "widerspricht",
+      "past": "widersprach",
+      "pp": "widersprochen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wider|insep",
+      "sprechen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to object; to disagree",
+        "ko": "반대하다, 이의를 제기하다",
+        "examples": [
+          {
+            "text": "Ich muss dir leider widersprechen.",
+            "ko": "유감이지만 네 말에 반대해야겠어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to contradict",
+        "ko": "모순되다, 반박하다",
+        "examples": [
+          {
+            "text": "Die Aussagen widersprechen sich.",
+            "ko": "진술들이 서로 모순된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wiederholung",
+    "level": "b1",
+    "zipf": 3.99,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wiederholungen",
+      "genitive": "Wiederholung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wiederholen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "repetition, reiteration",
+        "ko": "반복, 복습",
+        "examples": [
+          {
+            "text": "Die Wiederholung hilft beim Lernen.",
+            "ko": "복습은 공부에 도움이 된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wiegen",
+    "level": "b1",
+    "zipf": 3.71,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "wiegt",
+      "past": "wog",
+      "pp": "gewogen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to weigh; to be of a certain weight",
+        "ko": "무게가 나가다",
+        "examples": [
+          {
+            "text": "Das Paket wiegt zwei Kilo.",
+            "ko": "그 소포는 2킬로그램이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to weigh; to measure the weight of",
+        "ko": "무게를 재다",
+        "examples": [
+          {
+            "text": "Die Verkäuferin wiegt den Käse.",
+            "ko": "판매원이 치즈의 무게를 잰다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wiese",
+    "level": "b1",
+    "zipf": 4.08,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wiesen",
+      "genitive": "Wiese"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "meadow",
+        "ko": "풀밭, 초원",
+        "examples": [
+          {
+            "text": "Die Kinder spielen auf der Wiese.",
+            "ko": "아이들이 풀밭에서 논다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wieso",
+    "level": "b1",
+    "zipf": 5.17,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "why",
+        "ko": "왜, 어째서",
+        "examples": [
+          {
+            "text": "Wieso bist du so müde?",
+            "ko": "너 왜 이렇게 피곤해?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wild",
+    "level": "b1",
+    "zipf": 4.5,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "wilder",
+      "superlative": "am wildesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "wild (of animals, etc.)",
+        "ko": "야생의",
+        "examples": [
+          {
+            "text": "Im Wald leben wilde Tiere.",
+            "ko": "숲에는 야생 동물이 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "wild, unrestrained, raucous (of behavior, parties, etc.)",
+        "ko": "거친, 난폭한, 요란한",
+        "examples": [
+          {
+            "text": "Die Party war ziemlich wild.",
+            "ko": "파티는 꽤 요란했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "winken",
+    "level": "b1",
+    "zipf": 3.52,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "winkt",
+      "past": "winkte",
+      "pp": "gewunken",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to wave one's hand",
+        "ko": "손을 흔들다",
+        "examples": [
+          {
+            "text": "Das Kind winkt dem Zug nach.",
+            "ko": "아이가 기차에 손을 흔든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to beckon",
+        "ko": "손짓으로 부르다",
+        "examples": [
+          {
+            "text": "Der Kellner winkt mich zu sich.",
+            "ko": "종업원이 나에게 손짓한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wirken",
+    "level": "b1",
+    "zipf": 4.75,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "wirkt",
+      "past": "wirkte",
+      "pp": "gewirkt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to appear, to seem",
+        "ko": "~처럼 보이다",
+        "examples": [
+          {
+            "text": "Du wirkst heute müde.",
+            "ko": "너 오늘 피곤해 보여.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to take effect, to be effective",
+        "ko": "효과가 있다",
+        "examples": [
+          {
+            "text": "Die Medizin wirkt schnell.",
+            "ko": "그 약은 빨리 듣는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wirklichkeit",
+    "level": "b1",
+    "zipf": 4.4,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wirklichkeiten",
+      "genitive": "Wirklichkeit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wirklich|stem",
+      "-keit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "reality",
+        "ko": "현실",
+        "examples": [
+          {
+            "text": "In Wirklichkeit ist er sehr nett.",
+            "ko": "사실은 그는 아주 친절하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wirkung",
+    "level": "b1",
+    "zipf": 4.72,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wirkungen",
+      "genitive": "Wirkung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wirken|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "effect",
+        "ko": "효과, 영향",
+        "examples": [
+          {
+            "text": "Die Tablette hat keine Wirkung.",
+            "ko": "그 알약은 효과가 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "appeal, impression",
+        "ko": "인상",
+        "examples": [
+          {
+            "text": "Sie hat eine starke Wirkung auf andere.",
+            "ko": "그녀는 다른 사람들에게 강한 인상을 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wirt",
+    "level": "b1",
+    "zipf": 3.86,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Wirte",
+      "genitive": "Wirtes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pubkeeper; innkeeper",
+        "ko": "식당 주인, 여관 주인",
+        "examples": [
+          {
+            "text": "Der Wirt bringt das Bier.",
+            "ko": "주인이 맥주를 가져온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "host (someone who receives a guest)",
+        "ko": "손님을 맞는 주인",
+        "examples": [
+          {
+            "text": "Der Wirt begrüßt alle Gäste.",
+            "ko": "주인이 모든 손님을 맞이한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wirtin",
+    "level": "b1",
+    "zipf": 3.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wirtinnen",
+      "genitive": "Wirtin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Wirt|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female innkeeper",
+        "ko": "여주인, 식당 여주인",
+        "examples": [
+          {
+            "text": "Die Wirtin kocht selbst.",
+            "ko": "여주인이 직접 요리한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "landlady",
+        "ko": "여자 집주인",
+        "examples": [
+          {
+            "text": "Meine Wirtin wohnt im ersten Stock.",
+            "ko": "내 집주인 아주머니는 2층에 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wirtschaft",
+    "level": "b1",
+    "zipf": 5.01,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wirtschaften",
+      "genitive": "Wirtschaft"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Wirt|stem",
+      "-schaft|suffix"
+    ],
+    "senses": [
+      {
+        "en": "economy",
+        "ko": "경제",
+        "examples": [
+          {
+            "text": "Die Wirtschaft wächst langsam.",
+            "ko": "경제가 천천히 성장한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "inn, pub",
+        "ko": "식당, 술집",
+        "examples": [
+          {
+            "text": "Wir essen in einer Wirtschaft.",
+            "ko": "우리는 식당에서 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wissen",
+    "level": "b1",
+    "zipf": 5.55,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Wissens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "knowledge",
+        "ko": "지식",
+        "examples": [
+          {
+            "text": "Wissen ist wichtig.",
+            "ko": "지식은 중요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wissenschaft",
+    "level": "b1",
+    "zipf": 4.68,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wissenschaften",
+      "genitive": "Wissenschaft"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Wissen|stem",
+      "-schaft|suffix"
+    ],
+    "senses": [
+      {
+        "en": "science (a branch of knowledge or academic discipline dealing with a systematic body of facts or truths)",
+        "ko": "과학, 학문",
+        "examples": [
+          {
+            "text": "Die Wissenschaft hilft vielen Menschen.",
+            "ko": "과학은 많은 사람을 돕는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wissenschaftler",
+    "level": "b1",
+    "zipf": 4.43,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Wissenschaftler",
+      "genitive": "Wissenschaftlers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Wissenschaft|stem",
+      "-ler|suffix"
+    ],
+    "senses": [
+      {
+        "en": "scientist",
+        "ko": "과학자, 학자",
+        "examples": [
+          {
+            "text": "Mein Bruder ist Wissenschaftler.",
+            "ko": "내 형은 과학자다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wissenschaftlerin",
+    "level": "b1",
+    "zipf": 3.08,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wissenschaftlerinnen",
+      "genitive": "Wissenschaftlerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Wissenschaftler|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "scientist, scholar, researcher, academic (female)",
+        "ko": "여성 과학자, 여성 학자",
+        "examples": [
+          {
+            "text": "Meine Schwester ist Wissenschaftlerin.",
+            "ko": "내 언니는 과학자다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wohl",
+    "level": "b1",
+    "zipf": 5.73,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "possibly, probably; as I was told (modal particle expressing an assumption, often like English must + infinitive, or (US) guess + clause)",
+        "ko": "아마, ~일 것이다",
+        "examples": [
+          {
+            "text": "Er ist wohl schon zu Hause.",
+            "ko": "그는 아마 벌써 집에 있을 거야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "well, very well",
+        "ko": "잘, 편안하게",
+        "examples": [
+          {
+            "text": "Hier fühle ich mich wohl.",
+            "ko": "여기서는 마음이 편하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wohnort",
+    "level": "b1",
+    "zipf": 3.83,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Wohnorte",
+      "genitive": "Wohnortes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wohnen|stem",
+      "Ort|stem"
+    ],
+    "senses": [
+      {
+        "en": "place of residence",
+        "ko": "거주지",
+        "examples": [
+          {
+            "text": "Bitte schreiben Sie Ihren Wohnort auf.",
+            "ko": "거주지를 적어 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wohnsitz",
+    "level": "b1",
+    "zipf": 3.86,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Wohnsitze",
+      "genitive": "Wohnsitzes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wohnen|stem",
+      "Sitz|stem"
+    ],
+    "senses": [
+      {
+        "en": "domicile, residence (place where one lives)",
+        "ko": "주소지, 거주지",
+        "examples": [
+          {
+            "text": "Mein Wohnsitz ist in München.",
+            "ko": "내 주소지는 뮌헨이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wolle",
+    "level": "b1",
+    "zipf": 4.5,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wollen",
+      "genitive": "Wolle"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "wool",
+        "ko": "양모, 털실",
+        "examples": [
+          {
+            "text": "Der Pullover ist aus Wolle.",
+            "ko": "그 스웨터는 양모로 만들어졌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "worum",
+    "level": "b1",
+    "zipf": 4.02,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wo|stem",
+      "um|stem"
+    ],
+    "senses": [
+      {
+        "en": "about what",
+        "ko": "무엇에 대해",
+        "examples": [
+          {
+            "text": "Worum geht es in dem Film?",
+            "ko": "그 영화는 무슨 내용이야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "worüber",
+    "level": "b1",
+    "zipf": 3.99,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wo|stem",
+      "über|stem"
+    ],
+    "senses": [
+      {
+        "en": "about what",
+        "ko": "무엇에 대해",
+        "examples": [
+          {
+            "text": "Worüber sprecht ihr?",
+            "ko": "너희 무슨 얘기 해?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wunde",
+    "level": "b1",
+    "zipf": 3.95,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wunden",
+      "genitive": "Wunde"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sore, wound",
+        "ko": "상처",
+        "examples": [
+          {
+            "text": "Die Wunde blutet noch.",
+            "ko": "상처에서 아직 피가 난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wunder",
+    "level": "b1",
+    "zipf": 4.68,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Wunder",
+      "genitive": "Wunders"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "miracle",
+        "ko": "기적",
+        "examples": [
+          {
+            "text": "Das ist ein Wunder!",
+            "ko": "이건 기적이야!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "wonder",
+        "ko": "경이, 놀라운 일",
+        "examples": [
+          {
+            "text": "Die Natur ist voller Wunder.",
+            "ko": "자연은 경이로 가득하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wundern",
+    "level": "b1",
+    "zipf": 4.13,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "wundert",
+      "past": "wunderte",
+      "pp": "gewundert",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to be surprised, to wonder",
+        "ko": "놀라다, 의아해하다",
+        "examples": [
+          {
+            "text": "Ich wundere mich über sein Verhalten.",
+            "ko": "나는 그의 행동에 놀란다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wunderschön",
+    "level": "b1",
+    "zipf": 4.27,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "wunderschöner",
+      "superlative": "am wunderschönsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Wunder|stem",
+      "schön|stem"
+    ],
+    "senses": [
+      {
+        "en": "gorgeous, very beautiful",
+        "ko": "아주 아름다운",
+        "examples": [
+          {
+            "text": "Der Garten ist wunderschön.",
+            "ko": "정원이 정말 아름답다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "während",
+    "level": "b1",
+    "zipf": 5.68,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "during, at the time of",
+        "ko": "~하는 동안",
+        "examples": [
+          {
+            "text": "Während des Essens sprechen wir nicht.",
+            "ko": "식사하는 동안 우리는 말하지 않는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wärme",
+    "level": "b1",
+    "zipf": 4.26,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Wärme"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "warm|stem"
+    ],
+    "senses": [
+      {
+        "en": "warmth",
+        "ko": "따뜻함, 온기",
+        "examples": [
+          {
+            "text": "Ich mag die Wärme der Sonne.",
+            "ko": "나는 햇볕의 따뜻함이 좋다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "heat",
+        "ko": "열",
+        "examples": [
+          {
+            "text": "Die Heizung gibt viel Wärme ab.",
+            "ko": "난방기가 열을 많이 낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wörterbuch",
+    "level": "b1",
+    "zipf": 3.9,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Wörterbücher",
+      "genitive": "Wörterbuches"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Wort|stem",
+      "Buch|stem"
+    ],
+    "senses": [
+      {
+        "en": "dictionary (reference work with a list of words from one or more languages, and their definitions or translations)",
+        "ko": "사전",
+        "examples": [
+          {
+            "text": "Ich suche das Wort im Wörterbuch.",
+            "ko": "나는 사전에서 그 단어를 찾는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wütend",
+    "level": "b1",
+    "zipf": 4.17,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "wütender",
+      "superlative": "am wütendsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "furious, angry",
+        "ko": "몹시 화난",
+        "examples": [
+          {
+            "text": "Er ist wütend auf mich.",
+            "ko": "그는 나에게 화가 났어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

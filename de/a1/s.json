@@ -1,0 +1,2438 @@
+[
+  {
+    "word": "S-Bahn",
+    "level": "a1",
+    "zipf": 4.96,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "S-Bahnen",
+      "genitive": "S-Bahn"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "A commuter rail/metro system (generally overground) serving a metropolitan area or A train in such systems (S-train)",
+        "ko": "도시 근교 전철",
+        "examples": [
+          {
+            "text": "Ich fahre mit der S-Bahn zur Arbeit.",
+            "ko": "나는 S-Bahn을 타고 출근해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Saft",
+    "level": "a1",
+    "zipf": 4.02,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Säfte",
+      "genitive": "Saftes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "juice",
+        "ko": "주스, 즙",
+        "examples": [
+          {
+            "text": "Möchtest du ein Glas Saft?",
+            "ko": "주스 한 잔 마실래?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sagen",
+    "level": "a1",
+    "zipf": 5.68,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "sagt",
+      "past": "sagte",
+      "pp": "gesagt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to say (to pronounce; communicate verbally)",
+        "ko": "말하다",
+        "examples": [
+          {
+            "text": "Was sagst du?",
+            "ko": "뭐라고 했어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to tell (to inform (someone) verbally)",
+        "ko": "알려 주다, 말해 주다",
+        "examples": [
+          {
+            "text": "Sag mir bitte deinen Namen.",
+            "ko": "네 이름을 말해 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Salat",
+    "level": "a1",
+    "zipf": 4.1,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Salate",
+      "genitive": "Salats"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "salad (mixed, usually cold dish)",
+        "ko": "샐러드",
+        "examples": [
+          {
+            "text": "Ich esse einen Salat.",
+            "ko": "나는 샐러드를 먹어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "lettuce and related leaf vegetables",
+        "ko": "상추, 잎채소",
+        "examples": [
+          {
+            "text": "Der Salat im Garten wächst schnell.",
+            "ko": "정원의 상추는 빨리 자라.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Salz",
+    "level": "a1",
+    "zipf": 4.33,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Salze",
+      "genitive": "Salzes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "salt, table salt, sal",
+        "ko": "소금",
+        "examples": [
+          {
+            "text": "Gib mir bitte das Salz.",
+            "ko": "소금 좀 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Satz",
+    "level": "a1",
+    "zipf": 4.93,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Sätze",
+      "genitive": "Satzes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sentence",
+        "ko": "문장",
+        "examples": [
+          {
+            "text": "Schreib bitte einen Satz.",
+            "ko": "문장 하나를 써 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "jump, leap",
+        "ko": "도약, 껑충 뜀",
+        "examples": [
+          {
+            "text": "Die Katze macht einen Satz.",
+            "ko": "고양이가 껑충 뛰어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schalter",
+    "level": "a1",
+    "zipf": 3.84,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Schalter",
+      "genitive": "Schalters"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "information window, ticket window, box office (staffed cabin)",
+        "ko": "창구, 매표소",
+        "examples": [
+          {
+            "text": "Die Fahrkarten gibt es am Schalter.",
+            "ko": "승차권은 창구에서 팔아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "switch (device to turn electric current on and off or direct its flow)",
+        "ko": "스위치",
+        "examples": [
+          {
+            "text": "Wo ist der Schalter für das Licht?",
+            "ko": "전등 스위치가 어디 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "scheinen",
+    "level": "a1",
+    "zipf": 4.55,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "scheint",
+      "past": "schien",
+      "pp": "geschienen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to shine; to gleam",
+        "ko": "빛나다, 비치다",
+        "examples": [
+          {
+            "text": "Die Sonne scheint.",
+            "ko": "해가 비쳐.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to seem; to appear; to look",
+        "ko": "~인 것 같다",
+        "examples": [
+          {
+            "text": "Er scheint müde zu sein.",
+            "ko": "그는 피곤한 것 같아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schicken",
+    "level": "a1",
+    "zipf": 4.7,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "schickt",
+      "past": "schickte",
+      "pp": "geschickt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to send, to dispatch (a person, letter, money etc. to a destination or a person)",
+        "ko": "보내다",
+        "examples": [
+          {
+            "text": "Ich schicke dir eine E-Mail.",
+            "ko": "내가 너한테 이메일을 보낼게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schild",
+    "level": "a1",
+    "zipf": 4.26,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Schilder",
+      "genitive": "Schildes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sign, plate (flat surface bearing information)",
+        "ko": "표지판, 간판",
+        "examples": [
+          {
+            "text": "Das Schild zeigt den Weg.",
+            "ko": "표지판이 길을 알려 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "label, tag (piece of paper etc. on a product)",
+        "ko": "라벨, 태그",
+        "examples": [
+          {
+            "text": "Auf dem Schild steht der Preis.",
+            "ko": "태그에 가격이 적혀 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schinken",
+    "level": "a1",
+    "zipf": 3.73,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Schinken",
+      "genitive": "Schinkens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ham, pork from the hindquarter",
+        "ko": "햄",
+        "examples": [
+          {
+            "text": "Ich möchte ein Brot mit Schinken.",
+            "ko": "저는 햄을 넣은 빵을 먹고 싶어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schlafen",
+    "level": "a1",
+    "zipf": 4.82,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "schläft",
+      "past": "schlief",
+      "pp": "geschlafen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to sleep",
+        "ko": "자다",
+        "examples": [
+          {
+            "text": "Das Baby schläft.",
+            "ko": "아기가 자고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schlecht",
+    "level": "a1",
+    "zipf": 5.13,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "schlechter",
+      "superlative": "am schlechtesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "bad, evil, wicked (the opposite of good; immoral)",
+        "ko": "나쁜",
+        "examples": [
+          {
+            "text": "Das ist eine schlechte Idee.",
+            "ko": "그건 나쁜 생각이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "bad, off (spoiled, rotten, overripe)",
+        "ko": "상한",
+        "examples": [
+          {
+            "text": "Die Milch ist schlecht.",
+            "ko": "우유가 상했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "sick, nauseated",
+        "ko": "메스꺼운, 몸이 안 좋은",
+        "examples": [
+          {
+            "text": "Mir ist schlecht.",
+            "ko": "나 속이 안 좋아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schließen",
+    "level": "a1",
+    "zipf": 4.73,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "schließt",
+      "past": "schloss",
+      "pp": "geschlossen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to shut; to close; to shut down",
+        "ko": "닫다",
+        "examples": [
+          {
+            "text": "Das Geschäft schließt um sechs Uhr.",
+            "ko": "가게는 여섯 시에 닫아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to lock",
+        "ko": "잠그다",
+        "examples": [
+          {
+            "text": "Er schließt die Tür mit dem Schlüssel.",
+            "ko": "그는 열쇠로 문을 잠가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schluss",
+    "level": "a1",
+    "zipf": 4.92,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Schlüsse",
+      "genitive": "Schlusses"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "end, ending, conclusion, finish",
+        "ko": "끝, 마지막",
+        "examples": [
+          {
+            "text": "Um fünf Uhr ist Schluss.",
+            "ko": "다섯 시에 끝나.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schlüssel",
+    "level": "a1",
+    "zipf": 4.42,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Schlüssel",
+      "genitive": "Schlüssels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a key",
+        "ko": "열쇠",
+        "examples": [
+          {
+            "text": "Wo ist mein Schlüssel?",
+            "ko": "내 열쇠 어디 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schmecken",
+    "level": "a1",
+    "zipf": 4.17,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "schmeckt",
+      "past": "schmeckte",
+      "pp": "geschmeckt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to taste good",
+        "ko": "맛있다",
+        "examples": [
+          {
+            "text": "Das Essen schmeckt mir.",
+            "ko": "음식이 내 입에 맞아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to taste",
+        "ko": "~한 맛이 나다",
+        "examples": [
+          {
+            "text": "Der Kaffee schmeckt bitter.",
+            "ko": "커피가 쓴맛이 나.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schnell",
+    "level": "a1",
+    "zipf": 5.51,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "schneller",
+      "superlative": "am schnellsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "quick, fast",
+        "ko": "빠른",
+        "examples": [
+          {
+            "text": "Der Zug ist schnell.",
+            "ko": "기차는 빨라.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schon",
+    "level": "a1",
+    "zipf": 6.34,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "already (happening rather early, continuing rather long)",
+        "ko": "벌써, 이미",
+        "examples": [
+          {
+            "text": "Es ist schon acht Uhr.",
+            "ko": "벌써 여덟 시야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "previously, before (at some time in the past; but not: before a certain event)",
+        "ko": "이미 전에, ~한 적이 있는",
+        "examples": [
+          {
+            "text": "Warst du schon in Wien?",
+            "ko": "너 빈에 가 본 적 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "expresses a weighing of arguments, contrast between two statements, partial agreement, concession; admittedly; sure(ly); definitely; indeed",
+        "ko": "확실히, 분명히",
+        "examples": [
+          {
+            "text": "Das stimmt schon, aber es ist teuer.",
+            "ko": "그건 맞긴 한데, 비싸.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schrank",
+    "level": "a1",
+    "zipf": 4.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Schränke",
+      "genitive": "Schrankes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cupboard (cabinet, often built into a wall, with shelves intended for storage)",
+        "ko": "찬장, 수납장",
+        "examples": [
+          {
+            "text": "Die Teller sind im Schrank.",
+            "ko": "접시는 찬장에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "wardrobe, closet (cupboard or cabinet designed for storing clothes)",
+        "ko": "옷장",
+        "examples": [
+          {
+            "text": "Meine Jacke hängt im Schrank.",
+            "ko": "내 재킷은 옷장에 걸려 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schreiben",
+    "level": "a1",
+    "zipf": 5.25,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to write",
+        "ko": "쓰다",
+        "examples": [
+          {
+            "text": "Ich schreibe eine Postkarte.",
+            "ko": "나는 엽서를 써.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "writing, letter",
+        "ko": "글, 서신",
+        "examples": [
+          {
+            "text": "Ich habe Ihr Schreiben erhalten.",
+            "ko": "보내 주신 서신을 받았습니다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schuh",
+    "level": "a1",
+    "zipf": 4.06,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Schuhe",
+      "genitive": "Schuhes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "shoe",
+        "ko": "신발",
+        "examples": [
+          {
+            "text": "Meine Schuhe sind neu.",
+            "ko": "내 신발은 새 거야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schule",
+    "level": "a1",
+    "zipf": 5.34,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Schulen",
+      "genitive": "Schule"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "school (an institution dedicated to teaching and learning (especially before university); department/institute at a college or university; art movement; followers of a particular doctrine)",
+        "ko": "학교",
+        "examples": [
+          {
+            "text": "Die Kinder gehen zur Schule.",
+            "ko": "아이들이 학교에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schwer",
+    "level": "a1",
+    "zipf": 5.29,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "schwerer",
+      "superlative": "am schwersten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "heavy, weighty",
+        "ko": "무거운",
+        "examples": [
+          {
+            "text": "Der Koffer ist schwer.",
+            "ko": "여행 가방이 무거워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "difficult, hard",
+        "ko": "어려운",
+        "examples": [
+          {
+            "text": "Die Prüfung war schwer.",
+            "ko": "시험이 어려웠어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schwester",
+    "level": "a1",
+    "zipf": 4.77,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Schwestern",
+      "genitive": "Schwester"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sister",
+        "ko": "자매, 언니, 누나, 여동생",
+        "examples": [
+          {
+            "text": "Meine Schwester ist Lehrerin.",
+            "ko": "내 자매는 선생님이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "nurse; by extension used to refer to any medical staff that is not a doctor (usually, but not necessarily, confined to female staff)",
+        "ko": "간호사",
+        "examples": [
+          {
+            "text": "Die Schwester misst das Fieber.",
+            "ko": "간호사가 열을 재.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schwimmbad",
+    "level": "a1",
+    "zipf": 3.83,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Schwimmbäder",
+      "genitive": "Schwimmbads"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "schwimmen|stem",
+      "Bad|stem"
+    ],
+    "senses": [
+      {
+        "en": "public pool, public swimming pool, baths, swimming bath",
+        "ko": "수영장",
+        "examples": [
+          {
+            "text": "Wir gehen ins Schwimmbad.",
+            "ko": "우리는 수영장에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schwimmen",
+    "level": "a1",
+    "zipf": 4.38,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "schwimmt",
+      "past": "schwamm",
+      "pp": "geschwommen",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to swim (to use swimming motions to move in the water)",
+        "ko": "수영하다",
+        "examples": [
+          {
+            "text": "Ich schwimme jeden Samstag.",
+            "ko": "나는 매주 토요일에 수영해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schön",
+    "level": "a1",
+    "zipf": 5.52,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "schöner",
+      "superlative": "am schönsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "beautiful, lovely, pretty, handsome",
+        "ko": "아름다운, 예쁜",
+        "examples": [
+          {
+            "text": "Das Kleid ist schön.",
+            "ko": "그 원피스는 예뻐.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "nice, pleasant",
+        "ko": "좋은, 즐거운",
+        "examples": [
+          {
+            "text": "Wir haben ein schönes Wochenende.",
+            "ko": "우리는 즐거운 주말을 보내.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Schüler",
+    "level": "a1",
+    "zipf": 4.98,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Schüler",
+      "genitive": "Schülers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pupil, student, schoolboy (male or of unspecified gender)",
+        "ko": "학생",
+        "examples": [
+          {
+            "text": "Der Schüler macht seine Hausaufgaben.",
+            "ko": "그 학생은 숙제를 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "See",
+    "level": "a1",
+    "zipf": 4.8,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m",
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Sees"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "lake",
+        "ko": "호수",
+        "examples": [
+          {
+            "text": "Wir schwimmen im See.",
+            "ko": "우리는 호수에서 수영해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sehen",
+    "level": "a1",
+    "zipf": 5.69,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "sieht",
+      "past": "sah",
+      "pp": "gesehen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to see (something); to perceive by vision",
+        "ko": "보다",
+        "examples": [
+          {
+            "text": "Ich sehe einen Vogel.",
+            "ko": "나는 새 한 마리를 봐.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to realize; to notice; to see; to find out",
+        "ko": "알아차리다, 깨닫다",
+        "examples": [
+          {
+            "text": "Ich sehe, dass du müde bist.",
+            "ko": "네가 피곤한 게 보여.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Sehenswürdigkeit",
+    "level": "a1",
+    "zipf": 3.16,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Sehenswürdigkeiten",
+      "genitive": "Sehenswürdigkeit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "sehenswürdig|stem",
+      "-keit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "something worth seeing, a sight, tourist attraction",
+        "ko": "볼거리, 명소",
+        "examples": [
+          {
+            "text": "Der Dom ist eine Sehenswürdigkeit.",
+            "ko": "대성당은 명소야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sehr",
+    "level": "a1",
+    "zipf": 6.14,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "very",
+        "ko": "매우, 아주",
+        "examples": [
+          {
+            "text": "Das Essen ist sehr gut.",
+            "ko": "음식이 아주 맛있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "a lot, much",
+        "ko": "많이, 대단히",
+        "examples": [
+          {
+            "text": "Ich freue mich sehr.",
+            "ko": "나는 정말 기뻐.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sein",
+    "level": "a1",
+    "zipf": 6.32,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "ist",
+      "past": "war",
+      "pp": "gewesen",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to be",
+        "ko": "~이다, ~있다",
+        "examples": [
+          {
+            "text": "Ich bin müde.",
+            "ko": "나는 피곤해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "forms the present perfect and past perfect tenses of certain verbs",
+        "ko": "완료형을 만드는 조동사",
+        "examples": [
+          {
+            "text": "Ich bin nach Hause gegangen.",
+            "ko": "나는 집에 갔어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "seit",
+    "level": "a1",
+    "zipf": 5.91,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "since",
+        "ko": "~이래로",
+        "examples": [
+          {
+            "text": "Ich wohne seit 2020 hier.",
+            "ko": "나는 2020년부터 여기 살아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "for (some past period of time)",
+        "ko": "~ 동안",
+        "examples": [
+          {
+            "text": "Ich lerne seit zwei Monaten Deutsch.",
+            "ko": "나는 두 달째 독일어를 배우고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "selbstständig",
+    "level": "a1",
+    "zipf": 4.0,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "selbstständiger",
+      "superlative": "am selbstständigsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "independent",
+        "ko": "독립적인",
+        "examples": [
+          {
+            "text": "Das Kind ist schon selbstständig.",
+            "ko": "그 아이는 벌써 독립적이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "self-employed",
+        "ko": "자영업의",
+        "examples": [
+          {
+            "text": "Meine Tante ist selbstständig.",
+            "ko": "우리 이모는 자영업자야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sich",
+    "level": "a1",
+    "zipf": 6.79,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "Reflexive pronoun of the third person singular or plural: herself, himself, itself, oneself, themselves (in both dative and accusative)",
+        "ko": "자신을, 자기에게",
+        "examples": [
+          {
+            "text": "Sie freut sich auf die Ferien.",
+            "ko": "그녀는 방학을 기대해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "Reciprocal pronoun of the third person plural: each other (in both dative and accusative)",
+        "ko": "서로",
+        "examples": [
+          {
+            "text": "Sie sehen sich jeden Tag.",
+            "ko": "그들은 매일 서로 만나.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Sie",
+    "level": "a1",
+    "zipf": 6.82,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "you (polite, singular and plural)",
+        "ko": "당신(존칭)",
+        "examples": [
+          {
+            "text": "Wie heißen Sie?",
+            "ko": "성함이 어떻게 되세요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sie",
+    "level": "a1",
+    "zipf": 6.82,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "she, her",
+        "ko": "그녀는, 그녀를",
+        "examples": [
+          {
+            "text": "Sie ist meine Schwester.",
+            "ko": "그녀는 내 여동생이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "they, them",
+        "ko": "그들은, 그들을",
+        "examples": [
+          {
+            "text": "Sie wohnen in Berlin.",
+            "ko": "그들은 베를린에 살아.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sitzen",
+    "level": "a1",
+    "zipf": 4.9,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "sitzt",
+      "past": "saß",
+      "pp": "gesessen",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to sit; to perch",
+        "ko": "앉아 있다",
+        "examples": [
+          {
+            "text": "Er sitzt am Fenster.",
+            "ko": "그는 창가에 앉아 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to stay (in one place); to remain; to be (in a particular place or state)",
+        "ko": "(~에) 있다, 머물다",
+        "examples": [
+          {
+            "text": "Sie sitzt den ganzen Tag im Büro.",
+            "ko": "그녀는 하루 종일 사무실에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "so",
+    "level": "a1",
+    "zipf": 6.69,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "so, such, that",
+        "ko": "그렇게, 너무",
+        "examples": [
+          {
+            "text": "Das Wetter ist so schön!",
+            "ko": "날씨가 너무 좋아!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "so, thus, like this/that, in this/that way, in this/that manner",
+        "ko": "이렇게, 그렇게",
+        "examples": [
+          {
+            "text": "Mach es bitte so.",
+            "ko": "이렇게 해 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "as (followed by an adjective or adverb plus wie in a statement of equality)",
+        "ko": "~만큼",
+        "examples": [
+          {
+            "text": "Er ist so groß wie ich.",
+            "ko": "그는 나만큼 커.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Sofa",
+    "level": "a1",
+    "zipf": 4.15,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Sofas",
+      "genitive": "Sofas"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sofa, couch (upholstered seat with a raised back that accommodates at least two people)",
+        "ko": "소파",
+        "examples": [
+          {
+            "text": "Das Sofa steht im Wohnzimmer.",
+            "ko": "소파는 거실에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sofort",
+    "level": "a1",
+    "zipf": 5.31,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "immediately, at once",
+        "ko": "즉시, 당장",
+        "examples": [
+          {
+            "text": "Komm bitte sofort her!",
+            "ko": "당장 이리 와!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Sohn",
+    "level": "a1",
+    "zipf": 5.22,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Söhne",
+      "genitive": "Sohnes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "son",
+        "ko": "아들",
+        "examples": [
+          {
+            "text": "Mein Sohn geht in die Schule.",
+            "ko": "내 아들은 학교에 다녀.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sollen",
+    "level": "a1",
+    "zipf": 5.51,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "modal",
+      "reflexive": false,
+      "present3": "soll",
+      "past": "sollte",
+      "pp": "gesollt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "should; to be obligated (to do something); ought; shall",
+        "ko": "~해야 한다",
+        "examples": [
+          {
+            "text": "Du sollst mehr schlafen.",
+            "ko": "너는 더 자야 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be recommended (to do something); to be asked (to do something)",
+        "ko": "~하라고 들었다",
+        "examples": [
+          {
+            "text": "Ich soll dich anrufen.",
+            "ko": "너한테 전화하라고 했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Sonne",
+    "level": "a1",
+    "zipf": 4.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Sonnen",
+      "genitive": "Sonne"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a sun (a star, especially when being the center of a solar system)",
+        "ko": "태양, 해",
+        "examples": [
+          {
+            "text": "Die Sonne ist heiß.",
+            "ko": "해가 뜨거워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "sunshine, sunlight (the light and warmth we receive on Earth from the sun)",
+        "ko": "햇빛, 햇볕",
+        "examples": [
+          {
+            "text": "Wir sitzen in der Sonne.",
+            "ko": "우리는 햇볕 아래 앉아 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Speisekarte",
+    "level": "a1",
+    "zipf": 3.38,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Speisekarten",
+      "genitive": "Speisekarte"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Speise|stem",
+      "Karte|stem"
+    ],
+    "senses": [
+      {
+        "en": "menu (list of what meals are available at a restaurant)",
+        "ko": "메뉴판",
+        "examples": [
+          {
+            "text": "Die Speisekarte, bitte.",
+            "ko": "메뉴판 좀 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "spielen",
+    "level": "a1",
+    "zipf": 5.42,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "spielt",
+      "past": "spielte",
+      "pp": "gespielt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to play (engage in some activity for fun or entertainment)",
+        "ko": "놀다",
+        "examples": [
+          {
+            "text": "Die Kinder spielen im Garten.",
+            "ko": "아이들이 정원에서 놀아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to play, to engage in (a game, a sport, etc.)",
+        "ko": "(게임·운동을) 하다",
+        "examples": [
+          {
+            "text": "Ich spiele gern Fußball.",
+            "ko": "나는 축구하는 걸 좋아해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to play, to perform on (a musical instrument)",
+        "ko": "연주하다",
+        "examples": [
+          {
+            "text": "Er spielt Gitarre.",
+            "ko": "그는 기타를 쳐.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Sport",
+    "level": "a1",
+    "zipf": 4.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Sports"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sport (athletic activity that uses physical skills competitively under a set of rules)",
+        "ko": "스포츠, 운동",
+        "examples": [
+          {
+            "text": "Ich mache viel Sport.",
+            "ko": "나는 운동을 많이 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "physical education, phys ed (element of an educational curriculum concerned with bodily development, physical health etc.)",
+        "ko": "체육",
+        "examples": [
+          {
+            "text": "Wir haben heute Sport.",
+            "ko": "우리는 오늘 체육이 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Sprache",
+    "level": "a1",
+    "zipf": 5.07,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Sprachen",
+      "genitive": "Sprache"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "language (body of words, and set of methods of combining them)",
+        "ko": "언어, 말",
+        "examples": [
+          {
+            "text": "Ich lerne eine neue Sprache.",
+            "ko": "나는 새 언어를 배워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "sprechen",
+    "level": "a1",
+    "zipf": 5.13,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "spricht",
+      "past": "sprach",
+      "pp": "gesprochen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to speak (some language, the truth, etc.)",
+        "ko": "(언어를) 말하다",
+        "examples": [
+          {
+            "text": "Sprichst du Deutsch?",
+            "ko": "너 독일어 할 줄 알아?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to speak, to talk, to give a speech",
+        "ko": "이야기하다",
+        "examples": [
+          {
+            "text": "Ich möchte mit dir sprechen.",
+            "ko": "너와 이야기하고 싶어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "spät",
+    "level": "a1",
+    "zipf": 4.81,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "später",
+      "superlative": "am spätesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "late",
+        "ko": "늦은",
+        "examples": [
+          {
+            "text": "Es ist schon spät.",
+            "ko": "벌써 늦었어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "später",
+    "level": "a1",
+    "zipf": 5.5,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "later, afterwards",
+        "ko": "나중에, 더 늦은",
+        "examples": [
+          {
+            "text": "Ich rufe dich später an.",
+            "ko": "내가 나중에 전화할게.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Stadt",
+    "level": "a1",
+    "zipf": 5.66,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Städte",
+      "genitive": "Stadt"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "city (a large settlement)",
+        "ko": "도시",
+        "examples": [
+          {
+            "text": "Berlin ist eine große Stadt.",
+            "ko": "베를린은 큰 도시야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "city center (a central business area of a city)",
+        "ko": "시내",
+        "examples": [
+          {
+            "text": "Ich fahre in die Stadt.",
+            "ko": "나는 시내에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "stehen",
+    "level": "a1",
+    "zipf": 5.5,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "steht",
+      "past": "stand",
+      "pp": "gestanden",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to stand (to be upright, support oneself in an erect position)",
+        "ko": "서 있다",
+        "examples": [
+          {
+            "text": "Er steht an der Haltestelle.",
+            "ko": "그는 정류장에 서 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be, to stand (to be placed or located somewhere in an upright position)",
+        "ko": "(세워져) 있다, 놓여 있다",
+        "examples": [
+          {
+            "text": "Die Flasche steht auf dem Tisch.",
+            "ko": "병이 탁자 위에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be written, it says (in a book, on a sign, etc.)",
+        "ko": "쓰여 있다",
+        "examples": [
+          {
+            "text": "In der Zeitung steht nichts Neues.",
+            "ko": "신문에 새로운 내용은 없어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Stelle",
+    "level": "a1",
+    "zipf": 5.22,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Stellen",
+      "genitive": "Stelle"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "location, spot (specific location in space, relevant in context but typically otherwise unmarked)",
+        "ko": "곳, 지점",
+        "examples": [
+          {
+            "text": "An dieser Stelle ist der Unfall passiert.",
+            "ko": "이 지점에서 사고가 났어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "position, job (set of tasks or responsibilities meant to be filled by the employment of one person)",
+        "ko": "일자리, 직위",
+        "examples": [
+          {
+            "text": "Er sucht eine neue Stelle.",
+            "ko": "그는 새 일자리를 찾고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "stellen",
+    "level": "a1",
+    "zipf": 5.38,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "stellt",
+      "past": "stellte",
+      "pp": "gestellt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "causative of stehen: to put, place, position (someone or something) such that it stands upright",
+        "ko": "세워 놓다, 놓다",
+        "examples": [
+          {
+            "text": "Ich stelle die Flasche auf den Tisch.",
+            "ko": "나는 병을 탁자 위에 세워 놓아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to pose, to lodge",
+        "ko": "(질문을) 하다",
+        "examples": [
+          {
+            "text": "Darf ich eine Frage stellen?",
+            "ko": "질문 하나 해도 될까요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Stock",
+    "level": "a1",
+    "zipf": 4.34,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Stöcke",
+      "genitive": "Stockes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "floor, storey, level",
+        "ko": "층",
+        "examples": [
+          {
+            "text": "Ich wohne im dritten Stock.",
+            "ko": "나는 4층에 살아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "stick, staff (length of wood or other hard material that is being used as an aid in movement, e.g. in hiking or skiiing)",
+        "ko": "지팡이, 막대기",
+        "examples": [
+          {
+            "text": "Er geht mit einem Stock.",
+            "ko": "그는 지팡이를 짚고 걸어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Straße",
+    "level": "a1",
+    "zipf": 5.27,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Straßen",
+      "genitive": "Straße"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "street; road (a way wide enough to be passable for vehicles, generally paved, in or outside a settlement)",
+        "ko": "길, 거리, 도로",
+        "examples": [
+          {
+            "text": "Die Straße ist sehr laut.",
+            "ko": "그 거리는 아주 시끄러워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Straßenbahn",
+    "level": "a1",
+    "zipf": 3.92,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Straßenbahnen",
+      "genitive": "Straßenbahn"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Straße|stem",
+      "Bahn|stem"
+    ],
+    "senses": [
+      {
+        "en": "streetcar, tramway",
+        "ko": "트램, 노면 전차",
+        "examples": [
+          {
+            "text": "Ich fahre mit der Straßenbahn.",
+            "ko": "나는 트램을 타고 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Student",
+    "level": "a1",
+    "zipf": 4.13,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Studenten",
+      "genitive": "Studenten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "student (person attending lectures at a university; male or of unspecified sex)",
+        "ko": "대학생",
+        "examples": [
+          {
+            "text": "Er ist Student in München.",
+            "ko": "그는 뮌헨의 대학생이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "studieren",
+    "level": "a1",
+    "zipf": 4.24,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "studiert",
+      "past": "studierte",
+      "pp": "studiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to study at university or college level; to be a student (of)",
+        "ko": "대학에서 공부하다, 전공하다",
+        "examples": [
+          {
+            "text": "Ich studiere Medizin.",
+            "ko": "나는 의학을 전공해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Studium",
+    "level": "a1",
+    "zipf": 4.84,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Studiums"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "studies (higher education to get a degree at a university)",
+        "ko": "대학 공부, 학업",
+        "examples": [
+          {
+            "text": "Das Studium dauert drei Jahre.",
+            "ko": "대학 과정은 3년 걸려.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Stunde",
+    "level": "a1",
+    "zipf": 5.08,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Stunden",
+      "genitive": "Stunde"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hour (unit of time consisting of 60 minutes)",
+        "ko": "시간",
+        "examples": [
+          {
+            "text": "Ich warte eine Stunde.",
+            "ko": "나는 한 시간 기다려.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "lesson; class (teaching unit, usually between 45 and 90 minutes)",
+        "ko": "수업",
+        "examples": [
+          {
+            "text": "Die Stunde beginnt um neun Uhr.",
+            "ko": "수업은 아홉 시에 시작해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "suchen",
+    "level": "a1",
+    "zipf": 5.18,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "sucht",
+      "past": "suchte",
+      "pp": "gesucht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to search, to look for",
+        "ko": "찾다",
+        "examples": [
+          {
+            "text": "Ich suche meinen Schlüssel.",
+            "ko": "나는 내 열쇠를 찾고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

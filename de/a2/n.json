@@ -1,0 +1,716 @@
+[
+  {
+    "word": "Nachbar",
+    "level": "a2",
+    "zipf": 4.13,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Nachbarn",
+      "genitive": "Nachbarn"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "neighbour",
+        "ko": "이웃, 이웃 사람",
+        "examples": [
+          {
+            "text": "Mein Nachbar ist sehr nett.",
+            "ko": "내 이웃은 아주 친절해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nachricht",
+    "level": "a2",
+    "zipf": 4.8,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Nachrichten",
+      "genitive": "Nachricht"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "message (information which is sent from a source to a receiver)",
+        "ko": "메시지, 소식",
+        "examples": [
+          {
+            "text": "Ich schicke dir eine Nachricht.",
+            "ko": "너에게 메시지를 보낼게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "news (kind of broadcast)",
+        "ko": "뉴스",
+        "examples": [
+          {
+            "text": "Abends sehe ich die Nachrichten.",
+            "ko": "저녁에 나는 뉴스를 봐요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nass",
+    "level": "a2",
+    "zipf": 4.13,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "nasser",
+      "superlative": "am nassesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "wet (soaked with liquid)",
+        "ko": "젖은, 축축한",
+        "examples": [
+          {
+            "text": "Meine Schuhe sind nass.",
+            "ko": "내 신발이 젖었어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Natur",
+    "level": "a2",
+    "zipf": 4.94,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Natur"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "nature (the natural world)",
+        "ko": "자연",
+        "examples": [
+          {
+            "text": "Ich liebe die Natur.",
+            "ko": "나는 자연을 사랑해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "disposition, constitution, essence",
+        "ko": "천성, 본성",
+        "examples": [
+          {
+            "text": "Er hat eine ruhige Natur.",
+            "ko": "그는 차분한 천성을 가졌어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "natürlich",
+    "level": "a2",
+    "zipf": 5.62,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "natürlicher",
+      "superlative": "am natürlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Natur|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "natural, normal",
+        "ko": "자연스러운, 당연한",
+        "examples": [
+          {
+            "text": "Das ist ganz natürlich.",
+            "ko": "그건 아주 자연스러운 일이에요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "neben",
+    "level": "a2",
+    "zipf": 5.47,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "next to, beside, alongside, adjacent to, near, near to",
+        "ko": "~옆에",
+        "examples": [
+          {
+            "text": "Das Buch liegt neben dem Telefon.",
+            "ko": "책은 전화기 옆에 있어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "in addition to, besides, alongside, apart from, aside from, among, amongst, on top of",
+        "ko": "~외에, ~말고도",
+        "examples": [
+          {
+            "text": "Neben Deutsch lerne ich Englisch.",
+            "ko": "독일어 외에 영어도 배워요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nebenan",
+    "level": "a2",
+    "zipf": 3.99,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "neben|stem",
+      "an|stem"
+    ],
+    "senses": [
+      {
+        "en": "next door",
+        "ko": "옆집에, 바로 옆에",
+        "examples": [
+          {
+            "text": "Meine Freundin wohnt nebenan.",
+            "ko": "내 친구는 옆집에 살아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "neblig",
+    "level": "a2",
+    "zipf": 2.66,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "nebliger",
+      "superlative": "am nebligsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Nebel|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "foggy",
+        "ko": "안개 낀",
+        "examples": [
+          {
+            "text": "Heute ist es neblig.",
+            "ko": "오늘은 안개가 꼈어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nennen",
+    "level": "a2",
+    "zipf": 4.91,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "nennt",
+      "past": "nannte",
+      "pp": "genannt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to name (to give a name to)",
+        "ko": "이름 짓다, 부르다",
+        "examples": [
+          {
+            "text": "Sie nennen das Baby Anna.",
+            "ko": "그들은 아기를 안나라고 불러요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to say, to speak, to state (a name)",
+        "ko": "말하다, 대다",
+        "examples": [
+          {
+            "text": "Bitte nennen Sie Ihren Namen.",
+            "ko": "성함을 말씀해 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nervös",
+    "level": "a2",
+    "zipf": 4.06,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "nervöser",
+      "superlative": "am nervösesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "nervous (anxious)",
+        "ko": "긴장한, 불안한",
+        "examples": [
+          {
+            "text": "Ich bin vor der Prüfung nervös.",
+            "ko": "나는 시험 전에 긴장돼요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nett",
+    "level": "a2",
+    "zipf": 4.7,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "netter",
+      "superlative": "am nettesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "nice; friendly; likable",
+        "ko": "친절한, 좋은",
+        "examples": [
+          {
+            "text": "Die Lehrerin ist sehr nett.",
+            "ko": "선생님은 아주 친절해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "kind; sweet; helpful",
+        "ko": "상냥한, 다정한",
+        "examples": [
+          {
+            "text": "Das ist nett von dir.",
+            "ko": "그렇게 해주다니 친절하네.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "niemand",
+    "level": "a2",
+    "zipf": 5.24,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "nie|stem",
+      "Mann|stem"
+    ],
+    "senses": [
+      {
+        "en": "nobody, no one",
+        "ko": "아무도 ~않다",
+        "examples": [
+          {
+            "text": "Niemand ist zu Hause.",
+            "ko": "집에 아무도 없어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nirgends",
+    "level": "a2",
+    "zipf": 4.13,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "nowhere (in no place)",
+        "ko": "어디에도 ~없다",
+        "examples": [
+          {
+            "text": "Ich finde meinen Schlüssel nirgends.",
+            "ko": "열쇠가 어디에도 없어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Note",
+    "level": "a2",
+    "zipf": 4.3,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Noten",
+      "genitive": "Note"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "grade, mark",
+        "ko": "성적, 점수",
+        "examples": [
+          {
+            "text": "Ich habe eine gute Note bekommen.",
+            "ko": "나는 좋은 성적을 받았어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "note (character indicating the length and pitch of a tone)",
+        "ko": "음표",
+        "examples": [
+          {
+            "text": "Sie liest die Noten am Klavier.",
+            "ko": "그녀는 피아노 앞에서 악보를 읽어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "notieren",
+    "level": "a2",
+    "zipf": 3.46,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "notiert",
+      "past": "notierte",
+      "pp": "notiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to note, to note down, to write down, to jot down",
+        "ko": "메모하다, 적어 두다",
+        "examples": [
+          {
+            "text": "Ich notiere seine Adresse.",
+            "ko": "나는 그의 주소를 적어 둬요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Notiz",
+    "level": "a2",
+    "zipf": 3.65,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Notizen",
+      "genitive": "Notiz"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "note (memorandum)",
+        "ko": "메모, 쪽지",
+        "examples": [
+          {
+            "text": "Ich schreibe mir eine Notiz.",
+            "ko": "나는 메모를 하나 써요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "notwendig",
+    "level": "a2",
+    "zipf": 4.74,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "notwendiger",
+      "superlative": "am notwendigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Not|stem",
+      "wenden|stem"
+    ],
+    "senses": [
+      {
+        "en": "necessary; essential; indispensable",
+        "ko": "필요한, 꼭 필요한",
+        "examples": [
+          {
+            "text": "Ein Pass ist notwendig.",
+            "ko": "여권이 꼭 필요해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nudel",
+    "level": "a2",
+    "zipf": 3.25,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Nudeln",
+      "genitive": "Nudel"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pasta",
+        "ko": "파스타, 국수",
+        "examples": [
+          {
+            "text": "Heute koche ich Nudeln.",
+            "ko": "오늘은 파스타를 요리해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "a noodle, a string or lump of pasta",
+        "ko": "면발",
+        "examples": [
+          {
+            "text": "Diese Nudel ist zu lang.",
+            "ko": "이 면발은 너무 길어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nächste",
+    "level": "a2",
+    "zipf": 5.08,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "strong/mixed nominative/accusative feminine singular superlative degree",
+        "ko": "다음의, 가장 가까운",
+        "examples": [
+          {
+            "text": "Die nächste Haltestelle ist hier.",
+            "ko": "다음 정류장은 여기예요.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nähe",
+    "level": "a2",
+    "zipf": 5.03,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Nähe"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "vicinity, neighbourhood, the area close by",
+        "ko": "근처, 가까운 곳",
+        "examples": [
+          {
+            "text": "Wir wohnen in der Nähe vom Bahnhof.",
+            "ko": "우리는 기차역 근처에 살아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "nearness, closeness",
+        "ko": "가까움",
+        "examples": [
+          {
+            "text": "Ich mag die Nähe zur Natur.",
+            "ko": "나는 자연과 가까운 게 좋아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nützlich",
+    "level": "a2",
+    "zipf": 4.12,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "nützlicher",
+      "superlative": "am nützlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Nutzen|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "useful; helpful",
+        "ko": "유용한, 도움이 되는",
+        "examples": [
+          {
+            "text": "Das Wörterbuch ist sehr nützlich.",
+            "ko": "사전이 아주 유용해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

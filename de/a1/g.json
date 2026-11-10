@@ -1,0 +1,1685 @@
+[
+  {
+    "word": "Garten",
+    "level": "a1",
+    "zipf": 4.73,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Gärten",
+      "genitive": "Gartens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "garden, yard (grounds at the front or back of a house)",
+        "ko": "마당, 정원",
+        "examples": [
+          {
+            "text": "Die Kinder spielen im Garten.",
+            "ko": "아이들이 정원에서 논다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gast",
+    "level": "a1",
+    "zipf": 4.59,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Gäste",
+      "genitive": "Gastes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "guest",
+        "ko": "손님",
+        "examples": [
+          {
+            "text": "Heute Abend kommen Gäste.",
+            "ko": "오늘 저녁에 손님이 온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "geben",
+    "level": "a1",
+    "zipf": 5.6,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "gibt",
+      "past": "gab",
+      "pp": "gegeben",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to give (changing ownership)",
+        "ko": "주다",
+        "examples": [
+          {
+            "text": "Ich gebe dir das Buch.",
+            "ko": "그 책을 너에게 줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "Used to indicate that something exists (often with a certain property and/or in a certain location). Usually translated as there is/are or there exist(s)",
+        "ko": "~이 있다 (es gibt)",
+        "examples": [
+          {
+            "text": "Hier gibt es einen Supermarkt.",
+            "ko": "여기에 슈퍼마켓이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "geboren",
+    "level": "a1",
+    "zipf": 4.81,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "born",
+        "ko": "태어난",
+        "examples": [
+          {
+            "text": "Ich bin in Seoul geboren.",
+            "ko": "나는 서울에서 태어났어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "by birth, née",
+        "ko": "결혼 전 성이 ~인",
+        "examples": [
+          {
+            "text": "Anna Müller, geboren Schmidt.",
+            "ko": "안나 뮐러, 결혼 전 성은 슈미트.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Geburtsjahr",
+    "level": "a1",
+    "zipf": 3.09,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Geburtsjahre",
+      "genitive": "Geburtsjahres"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Geburt|stem",
+      "Jahr|stem"
+    ],
+    "senses": [
+      {
+        "en": "year of birth",
+        "ko": "출생 연도",
+        "examples": [
+          {
+            "text": "Mein Geburtsjahr ist 1995.",
+            "ko": "내 출생 연도는 1995년이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Geburtsort",
+    "level": "a1",
+    "zipf": 3.35,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Geburtsorte",
+      "genitive": "Geburtsortes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Geburt|stem",
+      "Ort|stem"
+    ],
+    "senses": [
+      {
+        "en": "birthplace, place of birth",
+        "ko": "출생지",
+        "examples": [
+          {
+            "text": "Mein Geburtsort ist Busan.",
+            "ko": "내 출생지는 부산이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Geburtstag",
+    "level": "a1",
+    "zipf": 4.77,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Geburtstage",
+      "genitive": "Geburtstages"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Geburt|stem",
+      "Tag|stem"
+    ],
+    "senses": [
+      {
+        "en": "birthday",
+        "ko": "생일",
+        "examples": [
+          {
+            "text": "Morgen habe ich Geburtstag.",
+            "ko": "내일은 내 생일이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gefallen",
+    "level": "a1",
+    "zipf": 4.98,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "gefällt",
+      "past": "gefiel",
+      "pp": "gefallen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ge|insep",
+      "fallen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to please; to appeal to [with dative ‘someone’] (idiomatically translated by English like with the dative object as the subject)",
+        "ko": "마음에 들다",
+        "examples": [
+          {
+            "text": "Das Kleid gefällt mir.",
+            "ko": "이 원피스가 마음에 든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gegen",
+    "level": "a1",
+    "zipf": 6.03,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "against",
+        "ko": "~에 반대하여, ~에 맞서",
+        "examples": [
+          {
+            "text": "Ich bin gegen den Plan.",
+            "ko": "나는 그 계획에 반대한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "approximately, around",
+        "ko": "대략 ~쯤",
+        "examples": [
+          {
+            "text": "Wir kommen gegen acht Uhr.",
+            "ko": "우리는 여덟 시쯤 온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gehen",
+    "level": "a1",
+    "zipf": 5.65,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "geht",
+      "past": "ging",
+      "pp": "gegangen",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to go, to walk",
+        "ko": "가다, 걷다",
+        "examples": [
+          {
+            "text": "Ich gehe zu Fuß zur Schule.",
+            "ko": "나는 걸어서 학교에 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be going; to be all right [with dative ‘for someone’ and predicate adjective ‘in a particular way’] (idiomatically translated by English be doing or similar, with the dative object as the subject)",
+        "ko": "~하게 지내다",
+        "examples": [
+          {
+            "text": "Wie geht es dir?",
+            "ko": "어떻게 지내?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to leave",
+        "ko": "떠나다",
+        "examples": [
+          {
+            "text": "Der Gast geht um zehn Uhr.",
+            "ko": "손님은 열 시에 떠난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gehören",
+    "level": "a1",
+    "zipf": 5.03,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "gehört",
+      "past": "gehörte",
+      "pp": "gehört",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ge|insep",
+      "hören|stem"
+    ],
+    "senses": [
+      {
+        "en": "to belong to, be the property of",
+        "ko": "~의 것이다",
+        "examples": [
+          {
+            "text": "Das Buch gehört mir.",
+            "ko": "이 책은 내 것이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to belong to, be a part of",
+        "ko": "~에 속하다",
+        "examples": [
+          {
+            "text": "Er gehört zu unserer Gruppe.",
+            "ko": "그는 우리 그룹에 속한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Geld",
+    "level": "a1",
+    "zipf": 5.59,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Geldes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "money",
+        "ko": "돈",
+        "examples": [
+          {
+            "text": "Ich habe kein Geld dabei.",
+            "ko": "나는 돈을 안 갖고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gemüse",
+    "level": "a1",
+    "zipf": 4.33,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Gemüses"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "vegetable; vegetables (kinds of plants)",
+        "ko": "채소",
+        "examples": [
+          {
+            "text": "Ich kaufe Gemüse auf dem Markt.",
+            "ko": "나는 시장에서 채소를 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gepäck",
+    "level": "a1",
+    "zipf": 4.07,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Gepäcks"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "luggage, baggage",
+        "ko": "짐, 수하물",
+        "examples": [
+          {
+            "text": "Wo ist mein Gepäck?",
+            "ko": "제 짐이 어디 있죠?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gerade",
+    "level": "a1",
+    "zipf": 5.77,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "just now, at this moment",
+        "ko": "지금 막, 방금",
+        "examples": [
+          {
+            "text": "Ich esse gerade.",
+            "ko": "나는 지금 먹고 있는 중이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "straight",
+        "ko": "곧은, 똑바른",
+        "examples": [
+          {
+            "text": "Die Straße ist gerade.",
+            "ko": "그 길은 곧게 뻗어 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gern",
+    "level": "a1",
+    "zipf": 5.15,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "willingly; gladly; with pleasure; usually expressed with a verb in English, as in like, enjoy etc.",
+        "ko": "기꺼이, 즐겨",
+        "examples": [
+          {
+            "text": "Ich trinke gern Kaffee.",
+            "ko": "나는 커피 마시는 걸 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Geschenk",
+    "level": "a1",
+    "zipf": 4.55,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Geschenke",
+      "genitive": "Geschenkes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "present, gift",
+        "ko": "선물",
+        "examples": [
+          {
+            "text": "Das Geschenk ist für meine Mutter.",
+            "ko": "이 선물은 어머니께 드릴 것이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "geschlossen",
+    "level": "a1",
+    "zipf": 4.72,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "geschlossener",
+      "superlative": "am geschlossensten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "shut; closed; locked",
+        "ko": "닫힌, 잠긴",
+        "examples": [
+          {
+            "text": "Die Bank ist am Sonntag geschlossen.",
+            "ko": "은행은 일요일에 문을 닫아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "cohesive; solidary",
+        "ko": "일치단결한",
+        "examples": [
+          {
+            "text": "Das Team spielte geschlossen.",
+            "ko": "팀은 하나로 뭉쳐 경기했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Geschwister",
+    "level": "a1",
+    "zipf": 4.07,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Geschwister",
+      "number": "pl",
+      "genitive": "Geschwisters"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sibling",
+        "ko": "형제자매",
+        "examples": [
+          {
+            "text": "Ich habe zwei Geschwister.",
+            "ko": "나는 형제자매가 둘 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Geschäft",
+    "level": "a1",
+    "zipf": 4.69,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Geschäfte",
+      "genitive": "Geschäftes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "shop, store (establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well)",
+        "ko": "가게",
+        "examples": [
+          {
+            "text": "Das Geschäft öffnet um neun Uhr.",
+            "ko": "가게는 아홉 시에 연다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "business",
+        "ko": "사업, 장사",
+        "examples": [
+          {
+            "text": "Sein Geschäft läuft gut.",
+            "ko": "그의 사업은 잘 된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gespräch",
+    "level": "a1",
+    "zipf": 4.8,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Gespräche",
+      "genitive": "Gespräches"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "conversation, chat, talk (conversing between people or parties, either for pleasure or for business)",
+        "ko": "대화",
+        "examples": [
+          {
+            "text": "Wir haben ein langes Gespräch.",
+            "ko": "우리는 오랫동안 이야기를 나눈다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gestern",
+    "level": "a1",
+    "zipf": 5.15,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "yesterday",
+        "ko": "어제",
+        "examples": [
+          {
+            "text": "Gestern war ich im Kino.",
+            "ko": "어제 나는 영화관에 갔다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gestorben",
+    "level": "a1",
+    "zipf": 4.78,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "deceased (no longer alive)",
+        "ko": "죽은, 사망한",
+        "examples": [
+          {
+            "text": "Mein Opa ist letztes Jahr gestorben.",
+            "ko": "우리 할아버지는 작년에 돌아가셨어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Getränk",
+    "level": "a1",
+    "zipf": 3.83,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Getränke",
+      "genitive": "Getränkes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "drink, beverage (liquid for consumption)",
+        "ko": "음료",
+        "examples": [
+          {
+            "text": "Welches Getränk möchten Sie?",
+            "ko": "어떤 음료를 드시겠어요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gewicht",
+    "level": "a1",
+    "zipf": 4.57,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Gewichte",
+      "genitive": "Gewichtes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "weight",
+        "ko": "무게, 체중",
+        "examples": [
+          {
+            "text": "Das Gewicht des Koffers ist zu hoch.",
+            "ko": "가방의 무게가 너무 많이 나간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gewinnen",
+    "level": "a1",
+    "zipf": 5.0,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "gewinnt",
+      "past": "gewann",
+      "pp": "gewonnen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to win; to be victorious",
+        "ko": "이기다",
+        "examples": [
+          {
+            "text": "Unsere Mannschaft gewinnt das Spiel.",
+            "ko": "우리 팀이 경기에서 이긴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to win something; to gain",
+        "ko": "따다, 얻다",
+        "examples": [
+          {
+            "text": "Er gewinnt einen Preis.",
+            "ko": "그는 상을 탄다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "geöffnet",
+    "level": "a1",
+    "zipf": 4.49,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "open",
+        "ko": "열려 있는",
+        "examples": [
+          {
+            "text": "Das Geschäft ist bis acht Uhr geöffnet.",
+            "ko": "그 가게는 여덟 시까지 열려 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Glas",
+    "level": "a1",
+    "zipf": 4.61,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Gläser",
+      "genitive": "Glases"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "glass",
+        "ko": "유리",
+        "examples": [
+          {
+            "text": "Das Fenster ist aus Glas.",
+            "ko": "창문은 유리로 되어 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "glass",
+        "ko": "유리잔, 컵",
+        "examples": [
+          {
+            "text": "Ich trinke ein Glas Wasser.",
+            "ko": "나는 물 한 잔을 마신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "jar (made of glass)",
+        "ko": "유리병",
+        "examples": [
+          {
+            "text": "Im Schrank steht ein Glas Marmelade.",
+            "ko": "찬장에 잼 한 병이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "glauben",
+    "level": "a1",
+    "zipf": 5.12,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "glaubt",
+      "past": "glaubte",
+      "pp": "geglaubt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to think, to believe",
+        "ko": "~라고 생각하다",
+        "examples": [
+          {
+            "text": "Ich glaube, er kommt später.",
+            "ko": "그는 나중에 올 거라고 생각해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to believe (to trust in someone's statement)",
+        "ko": "믿다",
+        "examples": [
+          {
+            "text": "Ich glaube dir.",
+            "ko": "나는 너를 믿어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gleich",
+    "level": "a1",
+    "zipf": 5.59,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "same; identical",
+        "ko": "같은, 동일한",
+        "examples": [
+          {
+            "text": "Wir haben die gleiche Jacke.",
+            "ko": "우리는 같은 재킷을 갖고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "equal",
+        "ko": "동등한",
+        "examples": [
+          {
+            "text": "Alle Menschen sind gleich.",
+            "ko": "모든 사람은 평등하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gleis",
+    "level": "a1",
+    "zipf": 3.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Gleise",
+      "genitive": "Gleises"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "railway (track on which trains run)",
+        "ko": "선로, 승강장 번호",
+        "examples": [
+          {
+            "text": "Der Zug fährt auf Gleis drei ab.",
+            "ko": "기차는 3번 승강장에서 출발한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Glück",
+    "level": "a1",
+    "zipf": 5.24,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Glückes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "luck, success (mostly when seen as dependant on unearned, accidental factors)",
+        "ko": "행운",
+        "examples": [
+          {
+            "text": "Viel Glück bei der Prüfung!",
+            "ko": "시험 잘 봐!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "happiness, joy, bliss (state or emotion)",
+        "ko": "행복",
+        "examples": [
+          {
+            "text": "Familie ist für mich das größte Glück.",
+            "ko": "나에게 가족은 가장 큰 행복이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "glücklich",
+    "level": "a1",
+    "zipf": 4.89,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "glücklicher",
+      "superlative": "am glücklichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Glück|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "happy; both momentarily and generally in life",
+        "ko": "행복한",
+        "examples": [
+          {
+            "text": "Ich bin heute sehr glücklich.",
+            "ko": "나는 오늘 아주 행복하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "lucky; fortunate",
+        "ko": "운 좋은",
+        "examples": [
+          {
+            "text": "Du bist ein glücklicher Mensch.",
+            "ko": "너는 운이 좋은 사람이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Glückwunsch",
+    "level": "a1",
+    "zipf": 4.36,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Glückwünsche",
+      "genitive": "Glückwunsches"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Glück|stem",
+      "Wunsch|stem"
+    ],
+    "senses": [
+      {
+        "en": "congratulation(s)",
+        "ko": "축하",
+        "examples": [
+          {
+            "text": "Herzlichen Glückwunsch zum Geburtstag!",
+            "ko": "생일 진심으로 축하해!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Grad",
+    "level": "a1",
+    "zipf": 4.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Grade",
+      "genitive": "Grades"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "degree",
+        "ko": "도 (온도 단위)",
+        "examples": [
+          {
+            "text": "Heute sind es zwanzig Grad.",
+            "ko": "오늘은 20도이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gratulieren",
+    "level": "a1",
+    "zipf": 3.75,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "gratuliert",
+      "past": "gratulierte",
+      "pp": "gratuliert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to congratulate",
+        "ko": "축하하다",
+        "examples": [
+          {
+            "text": "Ich gratuliere dir zum Geburtstag.",
+            "ko": "생일 축하해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "grillen",
+    "level": "a1",
+    "zipf": 3.86,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "grillt",
+      "past": "grillte",
+      "pp": "gegrillt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to grill",
+        "ko": "굽다, 바비큐를 하다",
+        "examples": [
+          {
+            "text": "Im Sommer grillen wir oft im Garten.",
+            "ko": "여름에 우리는 자주 정원에서 고기를 굽는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "groß",
+    "level": "a1",
+    "zipf": 5.21,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "big, large (in size)",
+        "ko": "큰",
+        "examples": [
+          {
+            "text": "Das Haus ist groß.",
+            "ko": "그 집은 커.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "tall (of a person)",
+        "ko": "키가 큰",
+        "examples": [
+          {
+            "text": "Mein Bruder ist sehr groß.",
+            "ko": "내 형은 키가 아주 커.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "grown-up, adult; great, important",
+        "ko": "어른이 된, 대단한",
+        "examples": [
+          {
+            "text": "Wenn ich groß bin, werde ich Ärztin.",
+            "ko": "나는 크면 의사가 될 거야.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Großeltern",
+    "level": "a1",
+    "zipf": 3.93,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "number": "pl"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "groß|stem",
+      "Eltern|stem"
+    ],
+    "senses": [
+      {
+        "en": "grandparents",
+        "ko": "조부모",
+        "examples": [
+          {
+            "text": "Meine Großeltern wohnen auf dem Land.",
+            "ko": "내 조부모님은 시골에 사신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Großmutter",
+    "level": "a1",
+    "zipf": 3.98,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Großmütter",
+      "genitive": "Großmutter"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "groß|stem",
+      "Mutter|stem"
+    ],
+    "senses": [
+      {
+        "en": "grandmother",
+        "ko": "할머니",
+        "examples": [
+          {
+            "text": "Meine Großmutter backt gern Kuchen.",
+            "ko": "할머니는 케이크 굽는 걸 좋아하신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Großvater",
+    "level": "a1",
+    "zipf": 4.07,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Großväter",
+      "genitive": "Großvaters"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "groß|stem",
+      "Vater|stem"
+    ],
+    "senses": [
+      {
+        "en": "grandfather",
+        "ko": "할아버지",
+        "examples": [
+          {
+            "text": "Mein Großvater ist achtzig Jahre alt.",
+            "ko": "할아버지는 여든 살이시다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gruppe",
+    "level": "a1",
+    "zipf": 5.25,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Gruppen",
+      "genitive": "Gruppe"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "group",
+        "ko": "그룹, 모둠",
+        "examples": [
+          {
+            "text": "Unsere Gruppe hat zehn Leute.",
+            "ko": "우리 그룹은 열 명이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gruß",
+    "level": "a1",
+    "zipf": 4.03,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Grüße",
+      "genitive": "Grußes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "greeting",
+        "ko": "인사",
+        "examples": [
+          {
+            "text": "Viele Grüße aus Berlin!",
+            "ko": "베를린에서 안부를 전해요!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Größe",
+    "level": "a1",
+    "zipf": 4.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Größen",
+      "genitive": "Größe"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "size, height",
+        "ko": "크기, 키",
+        "examples": [
+          {
+            "text": "Welche Größe haben Sie?",
+            "ko": "사이즈가 어떻게 되세요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "greatness",
+        "ko": "위대함",
+        "examples": [
+          {
+            "text": "Man spricht von der Größe dieses Künstlers.",
+            "ko": "사람들은 이 예술가의 위대함을 이야기한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gut",
+    "level": "a1",
+    "zipf": 6.09,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "besser",
+      "superlative": "am besten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "good (effective; useful)",
+        "ko": "좋은",
+        "examples": [
+          {
+            "text": "Das ist eine gute Idee.",
+            "ko": "그거 좋은 생각이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "good (having a particularly pleasant taste)",
+        "ko": "맛있는",
+        "examples": [
+          {
+            "text": "Die Suppe ist sehr gut.",
+            "ko": "이 수프는 아주 맛있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "all right, fair, proper (satisfactory)",
+        "ko": "괜찮은",
+        "examples": [
+          {
+            "text": "Gut, dann bis morgen.",
+            "ko": "좋아, 그럼 내일 보자.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gültig",
+    "level": "a1",
+    "zipf": 4.05,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "valid, validated, legal",
+        "ko": "유효한",
+        "examples": [
+          {
+            "text": "Die Fahrkarte ist zwei Tage gültig.",
+            "ko": "이 승차권은 이틀간 유효하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "günstig",
+    "level": "a1",
+    "zipf": 4.44,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "günstiger",
+      "superlative": "am günstigsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "good value, cheap, inexpensive",
+        "ko": "저렴한",
+        "examples": [
+          {
+            "text": "Das Hotel ist sehr günstig.",
+            "ko": "그 호텔은 아주 저렴하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "convenient, expedient",
+        "ko": "편리한, 알맞은",
+        "examples": [
+          {
+            "text": "Der Termin ist für mich günstig.",
+            "ko": "그 일정은 나에게 괜찮다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

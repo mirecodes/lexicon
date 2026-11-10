@@ -1,0 +1,425 @@
+[
+  {
+    "word": "nach",
+    "level": "a1",
+    "zipf": 6.56,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "after (time)",
+        "ko": "~ 후에",
+        "examples": [
+          {
+            "text": "Nach dem Essen trinke ich Tee.",
+            "ko": "식사 후에 나는 차를 마셔.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to, toward (direction)",
+        "ko": "~로, ~ 쪽으로",
+        "examples": [
+          {
+            "text": "Wir fahren nach Berlin.",
+            "ko": "우리는 베를린으로 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Name",
+    "level": "a1",
+    "zipf": 5.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Namen",
+      "genitive": "Namens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "name (forename, Christian name, given name)",
+        "ko": "이름",
+        "examples": [
+          {
+            "text": "Mein Name ist Anna.",
+            "ko": "내 이름은 안나야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "name (surname, family name)",
+        "ko": "성",
+        "examples": [
+          {
+            "text": "Wie lautet Ihr Name?",
+            "ko": "성함이 어떻게 되세요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nehmen",
+    "level": "a1",
+    "zipf": 5.45,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "nimmt",
+      "past": "nahm",
+      "pp": "genommen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to take (something into one's possession or on one's body)",
+        "ko": "가지다, 받다, 타다",
+        "examples": [
+          {
+            "text": "Ich nehme den Bus.",
+            "ko": "나는 버스를 타.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to ingest (e.g. a pill)",
+        "ko": "먹다, 복용하다",
+        "examples": [
+          {
+            "text": "Er nimmt jeden Tag eine Tablette.",
+            "ko": "그는 매일 알약을 한 알 먹어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nein",
+    "level": "a1",
+    "zipf": 5.52,
+    "pos": "intj",
+    "grammar": {
+      "type": "intj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "no",
+        "ko": "아니요",
+        "examples": [
+          {
+            "text": "Nein, danke.",
+            "ko": "아니요, 괜찮아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "neu",
+    "level": "a1",
+    "zipf": 5.36,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "neuer",
+      "superlative": "am neuesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "new",
+        "ko": "새로운, 새",
+        "examples": [
+          {
+            "text": "Ich habe ein neues Handy.",
+            "ko": "나는 새 휴대폰이 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "modern, recent, latest",
+        "ko": "최신의, 최근의",
+        "examples": [
+          {
+            "text": "Das ist die neueste Version.",
+            "ko": "이게 최신 버전이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nicht",
+    "level": "a1",
+    "zipf": 7.01,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "not, non- (negates the meaning of a verb, adjective, or adverb)",
+        "ko": "~않다, ~아니다",
+        "examples": [
+          {
+            "text": "Ich komme heute nicht.",
+            "ko": "나는 오늘 안 와.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nichts",
+    "level": "a1",
+    "zipf": 5.88,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "nothing",
+        "ko": "아무것도 ~없다",
+        "examples": [
+          {
+            "text": "Ich habe nichts.",
+            "ko": "나는 아무것도 없어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nie",
+    "level": "a1",
+    "zipf": 5.67,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "never, never at all (referring to an indefinite period of time)",
+        "ko": "결코 ~않다, 한 번도 ~않다",
+        "examples": [
+          {
+            "text": "Ich trinke nie Kaffee.",
+            "ko": "나는 커피를 절대 안 마셔.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "noch",
+    "level": "a1",
+    "zipf": 6.55,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "still, yet (up to and including a given time)",
+        "ko": "아직, 여전히",
+        "examples": [
+          {
+            "text": "Er schläft noch.",
+            "ko": "그는 아직 자고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "additionally, in addition, besides, else; more often expressed in English with another, more",
+        "ko": "더, 또",
+        "examples": [
+          {
+            "text": "Möchtest du noch einen Kaffee?",
+            "ko": "커피 한 잔 더 할래?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "normal",
+    "level": "a1",
+    "zipf": 4.77,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "normaler",
+      "superlative": "am normalsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ordinary, normal",
+        "ko": "보통의, 정상적인",
+        "examples": [
+          {
+            "text": "Das ist ganz normal.",
+            "ko": "그건 아주 정상이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nummer",
+    "level": "a1",
+    "zipf": 4.9,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Nummern",
+      "genitive": "Nummer"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "number; see usage notes below",
+        "ko": "번호",
+        "examples": [
+          {
+            "text": "Ich gebe dir meine Nummer.",
+            "ko": "내 번호를 줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "size (of shoes or clothes)",
+        "ko": "사이즈, 치수",
+        "examples": [
+          {
+            "text": "Welche Nummer haben Ihre Schuhe?",
+            "ko": "신발 사이즈가 어떻게 되세요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nur",
+    "level": "a1",
+    "zipf": 6.52,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "only, just, merely, simply",
+        "ko": "오직, 단지, 겨우",
+        "examples": [
+          {
+            "text": "Ich habe nur fünf Euro.",
+            "ko": "나는 5유로밖에 없어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nächst",
+    "level": "a1",
+    "zipf": 3.2,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "next, nearest",
+        "ko": "다음의, 가장 가까운",
+        "examples": [
+          {
+            "text": "Die nächste Haltestelle ist hier.",
+            "ko": "다음 정류장이 여기야.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

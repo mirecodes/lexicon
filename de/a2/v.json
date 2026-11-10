@@ -1,0 +1,1062 @@
+[
+  {
+    "word": "verabredet sein",
+    "level": "a2",
+    "zipf": 3.51,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to have an appointment, to have plans to meet",
+        "ko": "약속이 있다",
+        "examples": [
+          {
+            "text": "Heute Abend bin ich verabredet.",
+            "ko": "오늘 저녁에 나는 약속이 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Veranstaltung",
+    "level": "a2",
+    "zipf": 4.65,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Veranstaltungen",
+      "genitive": "Veranstaltung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "veranstalten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "public event or community gathering with a specific theme or purpose and a specific duration",
+        "ko": "행사",
+        "examples": [
+          {
+            "text": "Die Veranstaltung beginnt um acht Uhr.",
+            "ko": "행사는 여덟 시에 시작한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verbieten",
+    "level": "a2",
+    "zipf": 4.16,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "verbietet",
+      "past": "verbot",
+      "pp": "verboten",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "bieten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to forbid, prohibit (someone from doing something)",
+        "ko": "금지하다",
+        "examples": [
+          {
+            "text": "Meine Eltern verbieten mir das.",
+            "ko": "부모님이 나에게 그걸 금지하신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vereinbaren",
+    "level": "a2",
+    "zipf": 3.8,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "vereinbart",
+      "past": "vereinbarte",
+      "pp": "vereinbart",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to arrange",
+        "ko": "정하다, 약속하다",
+        "examples": [
+          {
+            "text": "Wir vereinbaren einen Termin.",
+            "ko": "우리는 약속 시간을 정한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to agree upon",
+        "ko": "합의하다",
+        "examples": [
+          {
+            "text": "Sie vereinbaren einen Preis.",
+            "ko": "그들은 가격에 합의한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vergessen",
+    "level": "a2",
+    "zipf": 5.15,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "vergisst",
+      "past": "vergaß",
+      "pp": "vergessen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to forget (lose remembrance of)",
+        "ko": "잊다",
+        "examples": [
+          {
+            "text": "Ich vergesse dein Geburtstag nie.",
+            "ko": "나는 네 생일을 절대 안 잊어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to leave (forget to take)",
+        "ko": "두고 오다",
+        "examples": [
+          {
+            "text": "Er vergisst oft seinen Schlüssel.",
+            "ko": "그는 자주 열쇠를 두고 온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vergleichen",
+    "level": "a2",
+    "zipf": 4.44,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "vergleicht",
+      "past": "verglich",
+      "pp": "verglichen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "gleich|stem"
+    ],
+    "senses": [
+      {
+        "en": "to compare",
+        "ko": "비교하다",
+        "examples": [
+          {
+            "text": "Ich vergleiche die Preise.",
+            "ko": "나는 가격을 비교한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verkehr",
+    "level": "a2",
+    "zipf": 4.75,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Verkehres"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ellipsis of Straßenverkehr (“road traffic”)",
+        "ko": "교통",
+        "examples": [
+          {
+            "text": "Am Morgen ist viel Verkehr.",
+            "ko": "아침에는 교통량이 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verkehrsmittel",
+    "level": "a2",
+    "zipf": 3.66,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Verkehrsmittel",
+      "genitive": "Verkehrsmittels"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Verkehr|stem",
+      "Mittel|stem"
+    ],
+    "senses": [
+      {
+        "en": "transport",
+        "ko": "교통수단",
+        "examples": [
+          {
+            "text": "Der Bus ist ein öffentliches Verkehrsmittel.",
+            "ko": "버스는 대중교통 수단이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verletzen",
+    "level": "a2",
+    "zipf": 4.03,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "verletzt",
+      "past": "verletzte",
+      "pp": "verletzt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to hurt, to injure (cause bodily harm to someone)",
+        "ko": "다치게 하다",
+        "examples": [
+          {
+            "text": "Der Hund hat ihn verletzt.",
+            "ko": "개가 그를 다치게 했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to hurt oneself, to sustain an injury (in the process of an activity)",
+        "ko": "다치다",
+        "examples": [
+          {
+            "text": "Ich habe mich beim Sport verletzt.",
+            "ko": "나는 운동하다가 다쳤다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to hurt (someone's feelings)",
+        "ko": "상처를 주다",
+        "examples": [
+          {
+            "text": "Deine Worte verletzen mich.",
+            "ko": "네 말이 나에게 상처가 돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verlieben",
+    "level": "a2",
+    "zipf": 3.72,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "verliebt",
+      "past": "verliebte",
+      "pp": "verliebt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "lieben|stem"
+    ],
+    "senses": [
+      {
+        "en": "to fall in love",
+        "ko": "사랑에 빠지다",
+        "examples": [
+          {
+            "text": "Sie verliebt sich in ihn.",
+            "ko": "그녀는 그와 사랑에 빠진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verlieren",
+    "level": "a2",
+    "zipf": 4.8,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "verliert",
+      "past": "verlor",
+      "pp": "verloren",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to lose (something, or a game)",
+        "ko": "잃어버리다, 지다",
+        "examples": [
+          {
+            "text": "Ich verliere oft meinen Schlüssel.",
+            "ko": "나는 자주 열쇠를 잃어버린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to get lost",
+        "ko": "길을 잃다",
+        "examples": [
+          {
+            "text": "Das Kind verliert sich in der Menge.",
+            "ko": "아이가 인파 속에서 길을 잃는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verpassen",
+    "level": "a2",
+    "zipf": 4.17,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verpasst",
+      "past": "verpasste",
+      "pp": "verpasst",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "passen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to miss (be late for; be unable to use or attend)",
+        "ko": "놓치다",
+        "examples": [
+          {
+            "text": "Ich verpasse den Bus.",
+            "ko": "나는 버스를 놓친다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verreisen",
+    "level": "a2",
+    "zipf": 3.28,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verreist",
+      "past": "verreiste",
+      "pp": "verreist",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "reisen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to take a trip, travel, go out of town",
+        "ko": "여행을 떠나다",
+        "examples": [
+          {
+            "text": "Im Sommer verreisen wir.",
+            "ko": "여름에 우리는 여행을 떠난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verschieben",
+    "level": "a2",
+    "zipf": 4.05,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "verschiebt",
+      "past": "verschob",
+      "pp": "verschoben",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "schieben|stem"
+    ],
+    "senses": [
+      {
+        "en": "to postpone, to adjourn",
+        "ko": "미루다, 연기하다",
+        "examples": [
+          {
+            "text": "Wir verschieben das Treffen auf Montag.",
+            "ko": "우리는 모임을 월요일로 미룬다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to move, to shift",
+        "ko": "옮기다",
+        "examples": [
+          {
+            "text": "Er verschiebt den Tisch.",
+            "ko": "그는 탁자를 옮긴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verschieden",
+    "level": "a2",
+    "zipf": 4.03,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "verschiedener",
+      "superlative": "am verschiedensten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "different",
+        "ko": "다른, 서로 다른",
+        "examples": [
+          {
+            "text": "Wir haben verschiedene Meinungen.",
+            "ko": "우리는 서로 의견이 달라.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "several, various, miscellaneous",
+        "ko": "여러 가지의",
+        "examples": [
+          {
+            "text": "Es gibt verschiedene Sorten Brot.",
+            "ko": "여러 종류의 빵이 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verspätung",
+    "level": "a2",
+    "zipf": 3.98,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Verspätungen",
+      "genitive": "Verspätung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "verspäten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "delay, lateness, late arrival",
+        "ko": "지연, 연착",
+        "examples": [
+          {
+            "text": "Der Zug hat zehn Minuten Verspätung.",
+            "ko": "기차가 10분 연착됐다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "versuchen",
+    "level": "a2",
+    "zipf": 5.04,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "versucht",
+      "past": "versuchte",
+      "pp": "versucht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "suchen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to try, to attempt (often with an uncertain result)",
+        "ko": "시도하다, 해 보다",
+        "examples": [
+          {
+            "text": "Ich versuche, früh aufzustehen.",
+            "ko": "나는 일찍 일어나려고 해 본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to try, to taste",
+        "ko": "맛보다",
+        "examples": [
+          {
+            "text": "Möchtest du die Suppe versuchen?",
+            "ko": "수프 맛볼래?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vertrag",
+    "level": "a2",
+    "zipf": 4.87,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Verträge",
+      "genitive": "Vertrages"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "contract, agreement",
+        "ko": "계약, 계약서",
+        "examples": [
+          {
+            "text": "Ich unterschreibe den Vertrag.",
+            "ko": "나는 계약서에 서명한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "treaty",
+        "ko": "조약",
+        "examples": [
+          {
+            "text": "Die Länder machen einen Vertrag.",
+            "ko": "나라들이 조약을 맺는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vogel",
+    "level": "a2",
+    "zipf": 4.45,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Vögel",
+      "genitive": "Vogels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a bird",
+        "ko": "새",
+        "examples": [
+          {
+            "text": "Der Vogel singt im Baum.",
+            "ko": "새가 나무에서 노래한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "voll",
+    "level": "a2",
+    "zipf": 5.17,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "voller",
+      "superlative": "am vollsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "full; filled",
+        "ko": "가득 찬",
+        "examples": [
+          {
+            "text": "Das Glas ist voll.",
+            "ko": "잔이 가득 차 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "full (not hungry anymore)",
+        "ko": "배부른",
+        "examples": [
+          {
+            "text": "Danke, ich bin schon voll.",
+            "ko": "고마워요, 저 벌써 배불러요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Volleyball",
+    "level": "a2",
+    "zipf": 3.83,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Volleybälle",
+      "genitive": "Volleyballes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Volley|stem",
+      "Ball|stem"
+    ],
+    "senses": [
+      {
+        "en": "volleyball (game)",
+        "ko": "배구",
+        "examples": [
+          {
+            "text": "Wir spielen am Strand Volleyball.",
+            "ko": "우리는 해변에서 배구를 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "volleyball (ball)",
+        "ko": "배구공",
+        "examples": [
+          {
+            "text": "Der Volleyball liegt im Garten.",
+            "ko": "배구공이 정원에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vorbei",
+    "level": "a2",
+    "zipf": 5.15,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|stem",
+      "bei|stem"
+    ],
+    "senses": [
+      {
+        "en": "over, past, up (of time)",
+        "ko": "끝난, 지나간",
+        "examples": [
+          {
+            "text": "Der Sommer ist vorbei.",
+            "ko": "여름이 끝났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vorbereiten",
+    "level": "a2",
+    "zipf": 4.13,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "bereitet vor",
+      "past": "bereitete vor",
+      "pp": "vorbereitet",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "vor"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|sep",
+      "bereiten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to prepare",
+        "ko": "준비하다",
+        "examples": [
+          {
+            "text": "Ich bereite das Essen vor.",
+            "ko": "나는 음식을 준비한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vorgestern",
+    "level": "a2",
+    "zipf": 3.64,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|stem",
+      "gestern|stem"
+    ],
+    "senses": [
+      {
+        "en": "ereyesterday, the day before yesterday",
+        "ko": "그저께",
+        "examples": [
+          {
+            "text": "Vorgestern war ich im Kino.",
+            "ko": "그저께 나는 영화관에 있었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vorher",
+    "level": "a2",
+    "zipf": 5.03,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|stem",
+      "her|stem"
+    ],
+    "senses": [
+      {
+        "en": "beforehand, previously, before (a previously mentioned point or action)",
+        "ko": "그전에, 미리",
+        "examples": [
+          {
+            "text": "Ruf mich vorher an.",
+            "ko": "그전에 나한테 전화해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vorn",
+    "level": "a2",
+    "zipf": 4.44,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "in front",
+        "ko": "앞에",
+        "examples": [
+          {
+            "text": "Der Lehrer steht vorn.",
+            "ko": "선생님은 앞에 서 계신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vorschlag",
+    "level": "a2",
+    "zipf": 4.57,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Vorschläge",
+      "genitive": "Vorschlages"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|stem",
+      "Schlag|stem"
+    ],
+    "senses": [
+      {
+        "en": "suggestion, proposal (something proposed)",
+        "ko": "제안",
+        "examples": [
+          {
+            "text": "Das ist ein guter Vorschlag.",
+            "ko": "좋은 제안이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vorsichtig",
+    "level": "a2",
+    "zipf": 4.44,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "vorsichtiger",
+      "superlative": "am vorsichtigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Vorsicht|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "deliberate (not hasty or sudden); careful, cautious, wary, circumspect",
+        "ko": "조심스러운, 신중한",
+        "examples": [
+          {
+            "text": "Fahr bitte vorsichtig!",
+            "ko": "조심해서 운전해!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vorwärts",
+    "level": "a2",
+    "zipf": 4.11,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|stem",
+      "-wärts|suffix"
+    ],
+    "senses": [
+      {
+        "en": "forwards, forward; onwards, onward",
+        "ko": "앞으로",
+        "examples": [
+          {
+            "text": "Gehen Sie bitte vorwärts.",
+            "ko": "앞으로 가 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

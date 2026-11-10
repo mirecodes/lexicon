@@ -1,0 +1,1916 @@
+[
+  {
+    "word": "Lage",
+    "level": "b1",
+    "zipf": 5.17,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Lagen",
+      "genitive": "Lage"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "location, position",
+        "ko": "위치",
+        "examples": [
+          {
+            "text": "Die Wohnung hat eine ruhige Lage.",
+            "ko": "그 집은 위치가 조용하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "situation, condition",
+        "ko": "상황, 형편",
+        "examples": [
+          {
+            "text": "Die Lage ist ernst.",
+            "ko": "상황이 심각하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lager",
+    "level": "b1",
+    "zipf": 4.65,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Lager",
+      "genitive": "Lagers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "stock; storage; warehouse; depot; repository (building or room used for keeping goods)",
+        "ko": "창고, 재고",
+        "examples": [
+          {
+            "text": "Die Ware liegt im Lager.",
+            "ko": "물건은 창고에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "camp (accommodation of tents or quickly built houses)",
+        "ko": "캠프, 야영지",
+        "examples": [
+          {
+            "text": "Die Kinder fahren im Sommer ins Lager.",
+            "ko": "아이들은 여름에 캠프에 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "landen",
+    "level": "b1",
+    "zipf": 4.33,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "landet",
+      "past": "landete",
+      "pp": "gelandet",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to land (to reach solid ground in an air, water or space vessel)",
+        "ko": "착륙하다",
+        "examples": [
+          {
+            "text": "Das Flugzeug landet um zehn Uhr.",
+            "ko": "비행기가 10시에 착륙한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to end up (somewhere)",
+        "ko": "(어떤 곳에) 이르게 되다",
+        "examples": [
+          {
+            "text": "Mein Brief ist im falschen Briefkasten gelandet.",
+            "ko": "내 편지가 엉뚱한 우편함에 들어가 버렸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Landung",
+    "level": "b1",
+    "zipf": 3.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Landungen",
+      "genitive": "Landung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "landen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "landing",
+        "ko": "착륙",
+        "examples": [
+          {
+            "text": "Die Landung war sehr ruhig.",
+            "ko": "착륙은 아주 부드러웠다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Landwirtschaft",
+    "level": "b1",
+    "zipf": 4.45,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Landwirtschaften",
+      "genitive": "Landwirtschaft"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Land|stem",
+      "Wirtschaft|stem"
+    ],
+    "senses": [
+      {
+        "en": "agriculture",
+        "ko": "농업",
+        "examples": [
+          {
+            "text": "Mein Onkel arbeitet in der Landwirtschaft.",
+            "ko": "삼촌은 농업에 종사한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Langeweile",
+    "level": "b1",
+    "zipf": 3.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Langeweile"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "lang|stem",
+      "Weile|stem"
+    ],
+    "senses": [
+      {
+        "en": "boredom, ennui, tedium",
+        "ko": "지루함, 심심함",
+        "examples": [
+          {
+            "text": "Ich habe Langeweile.",
+            "ko": "나는 심심하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "langweilen",
+    "level": "b1",
+    "zipf": 3.34,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "langweilt",
+      "past": "langweilte",
+      "pp": "gelangweilt",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to be bored",
+        "ko": "지루해하다",
+        "examples": [
+          {
+            "text": "Die Kinder langweilen sich im Auto.",
+            "ko": "아이들이 차 안에서 지루해한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Laster",
+    "level": "b1",
+    "zipf": 3.73,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Laster",
+      "genitive": "Lasters"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "vice (bad habit)",
+        "ko": "악습, 나쁜 버릇",
+        "examples": [
+          {
+            "text": "Rauchen ist sein einziges Laster.",
+            "ko": "담배가 그의 유일한 나쁜 버릇이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Laufwerk",
+    "level": "b1",
+    "zipf": 3.13,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Laufwerke",
+      "genitive": "Laufwerkes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "laufen|stem",
+      "Werk|stem"
+    ],
+    "senses": [
+      {
+        "en": "drive",
+        "ko": "드라이브 (저장 장치)",
+        "examples": [
+          {
+            "text": "Mein Computer hat kein CD-Laufwerk.",
+            "ko": "내 컴퓨터에는 CD 드라이브가 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Laune",
+    "level": "b1",
+    "zipf": 4.28,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Launen",
+      "genitive": "Laune"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "mood, humor",
+        "ko": "기분",
+        "examples": [
+          {
+            "text": "Heute hat er gute Laune.",
+            "ko": "오늘 그는 기분이 좋다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "whim",
+        "ko": "변덕, 일시적인 기분",
+        "examples": [
+          {
+            "text": "Aus einer Laune heraus kaufte sie einen Hut.",
+            "ko": "그녀는 문득 변덕이 생겨 모자를 샀다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lautsprecher",
+    "level": "b1",
+    "zipf": 3.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Lautsprecher",
+      "genitive": "Lautsprechers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "laut|stem",
+      "Sprecher|stem"
+    ],
+    "senses": [
+      {
+        "en": "loudspeaker",
+        "ko": "스피커",
+        "examples": [
+          {
+            "text": "Der Lautsprecher ist zu laut.",
+            "ko": "스피커 소리가 너무 크다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lebenslauf",
+    "level": "b1",
+    "zipf": 4.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Lebensläufe",
+      "genitive": "Lebenslaufes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Leben|stem",
+      "Lauf|stem"
+    ],
+    "senses": [
+      {
+        "en": "curriculum vitae (UK), résumé (US)",
+        "ko": "이력서",
+        "examples": [
+          {
+            "text": "Bitte schicken Sie uns Ihren Lebenslauf.",
+            "ko": "이력서를 보내 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "lecker",
+    "level": "b1",
+    "zipf": 4.32,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "yummy, tasty",
+        "ko": "맛있는",
+        "examples": [
+          {
+            "text": "Der Kuchen schmeckt lecker.",
+            "ko": "케이크가 맛있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Leder",
+    "level": "b1",
+    "zipf": 4.1,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Leder",
+      "genitive": "Leders"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "leather",
+        "ko": "가죽",
+        "examples": [
+          {
+            "text": "Meine Schuhe sind aus Leder.",
+            "ko": "내 신발은 가죽으로 되어 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lehre",
+    "level": "b1",
+    "zipf": 4.46,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Lehren",
+      "genitive": "Lehre"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "apprenticeship",
+        "ko": "견습, 직업 수련",
+        "examples": [
+          {
+            "text": "Er macht eine Lehre als Bäcker.",
+            "ko": "그는 제빵사 견습 과정을 밟고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "teaching, tenet",
+        "ko": "가르침, 교리",
+        "examples": [
+          {
+            "text": "Die Lehre des Buddha ist weltbekannt.",
+            "ko": "부처의 가르침은 전 세계에 알려져 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "lesson",
+        "ko": "교훈",
+        "examples": [
+          {
+            "text": "Das war mir eine Lehre.",
+            "ko": "그것은 내게 교훈이 되었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lehrling",
+    "level": "b1",
+    "zipf": 3.39,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Lehrlinge",
+      "genitive": "Lehrlinges"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "lehren|stem",
+      "-ling|suffix"
+    ],
+    "senses": [
+      {
+        "en": "apprentice",
+        "ko": "견습생, 수습생",
+        "examples": [
+          {
+            "text": "Der Lehrling lernt den Beruf im Betrieb.",
+            "ko": "견습생은 회사에서 직업을 배운다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lehrstelle",
+    "level": "b1",
+    "zipf": 2.96,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Lehrstellen",
+      "genitive": "Lehrstelle"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Lehre|stem",
+      "Stelle|stem"
+    ],
+    "senses": [
+      {
+        "en": "apprenticeship position",
+        "ko": "견습 자리",
+        "examples": [
+          {
+            "text": "Ich suche eine Lehrstelle als Elektriker.",
+            "ko": "나는 전기공 견습 자리를 찾고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "leid tun",
+    "level": "b1",
+    "zipf": 4.76,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": false,
+      "present3": "tut leid",
+      "past": "tat leid",
+      "pp": "leidgetan",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "leid|stem",
+      "tun|stem"
+    ],
+    "senses": [
+      {
+        "en": "to be sorry (es tut mir leid: I am sorry)",
+        "ko": "미안하다, 유감이다",
+        "examples": [
+          {
+            "text": "Es tut mir leid.",
+            "ko": "미안해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to feel pity for someone",
+        "ko": "안쓰럽다, 안됐다",
+        "examples": [
+          {
+            "text": "Der Hund tut mir leid.",
+            "ko": "그 개가 안쓰러워.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "leiden",
+    "level": "b1",
+    "zipf": 4.68,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "leidet",
+      "past": "litt",
+      "pp": "gelitten",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to suffer, to experience pain, sorrow, etc.",
+        "ko": "괴로워하다, 앓다",
+        "examples": [
+          {
+            "text": "Er leidet an einer schweren Krankheit.",
+            "ko": "그는 중병을 앓고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to like, tolerate, stand",
+        "ko": "좋아하다, 참아 주다",
+        "examples": [
+          {
+            "text": "Ich kann ihn nicht leiden.",
+            "ko": "나는 그가 싫다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "leisten",
+    "level": "b1",
+    "zipf": 4.79,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "leistet",
+      "past": "leistete",
+      "pp": "geleistet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to perform (a task, work), to accomplish (a task), to achieve (a goal)",
+        "ko": "해내다, 성취하다",
+        "examples": [
+          {
+            "text": "Sie leistet jeden Tag viel Arbeit.",
+            "ko": "그녀는 매일 많은 일을 해낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to afford, to pay for",
+        "ko": "(경제적으로) 감당하다",
+        "examples": [
+          {
+            "text": "Ich kann mir kein neues Auto leisten.",
+            "ko": "나는 새 차를 살 여유가 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Leistung",
+    "level": "b1",
+    "zipf": 4.87,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Leistungen",
+      "genitive": "Leistung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "leisten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "performance, accomplishment, achievement",
+        "ko": "성과, 실적",
+        "examples": [
+          {
+            "text": "Seine Leistung in der Schule ist gut.",
+            "ko": "학교에서 그의 성적은 좋다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "service",
+        "ko": "서비스, 급부",
+        "examples": [
+          {
+            "text": "Im Preis sind alle Leistungen enthalten.",
+            "ko": "가격에 모든 서비스가 포함되어 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "leiten",
+    "level": "b1",
+    "zipf": 4.17,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "leitet",
+      "past": "leitete",
+      "pp": "geleitet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to lead",
+        "ko": "이끌다, 인도하다",
+        "examples": [
+          {
+            "text": "Der Lehrer leitet die Gruppe durch das Museum.",
+            "ko": "선생님이 그룹을 이끌고 박물관을 돈다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to manage (an organization)",
+        "ko": "운영하다, 책임지다",
+        "examples": [
+          {
+            "text": "Sie leitet eine kleine Firma.",
+            "ko": "그녀는 작은 회사를 운영한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Leiter",
+    "level": "b1",
+    "zipf": 4.72,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Leitern",
+      "genitive": "Leiter"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ladder",
+        "ko": "사다리",
+        "examples": [
+          {
+            "text": "Steig bitte auf die Leiter.",
+            "ko": "사다리에 올라가 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Leitung",
+    "level": "b1",
+    "zipf": 4.73,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Leitungen",
+      "genitive": "Leitung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "leiten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "management",
+        "ko": "경영진, 지도부",
+        "examples": [
+          {
+            "text": "Die Leitung der Schule ist neu.",
+            "ko": "학교 경영진이 새로 바뀌었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "cable, line, wire",
+        "ko": "선, 배관, 회선",
+        "examples": [
+          {
+            "text": "Die Leitung ist besetzt.",
+            "ko": "통화 중이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lerner",
+    "level": "b1",
+    "zipf": 3.02,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Lerner",
+      "genitive": "Lerners"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "lernen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "agent noun of lernen; learner (usually of a language) (male or of unspecified gender)",
+        "ko": "학습자",
+        "examples": [
+          {
+            "text": "Jeder Lerner braucht viel Übung.",
+            "ko": "모든 학습자는 연습이 많이 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lernerin",
+    "level": "b1",
+    "zipf": 0.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Lernerinnen",
+      "genitive": "Lernerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Lerner|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Lerner",
+        "ko": "여자 학습자",
+        "examples": [
+          {
+            "text": "Die Lernerin macht schnell Fortschritte.",
+            "ko": "그 여자 학습자는 빠르게 발전한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Leser",
+    "level": "b1",
+    "zipf": 4.55,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Leser",
+      "genitive": "Lesers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "lesen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "agent noun of lesen; reader",
+        "ko": "독자, 읽는 사람",
+        "examples": [
+          {
+            "text": "Die Zeitung hat viele Leser.",
+            "ko": "그 신문은 독자가 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lexikon",
+    "level": "b1",
+    "zipf": 3.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Lexika",
+      "genitive": "Lexikons"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "reference book (a book, usually alphabetically ordered, in which definitions and facts can be looked up, such as an encyclopaedia, dictionary, etc.)",
+        "ko": "사전, 백과사전",
+        "examples": [
+          {
+            "text": "Ich schlage das Wort im Lexikon nach.",
+            "ko": "나는 그 단어를 사전에서 찾아본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Liebe",
+    "level": "b1",
+    "zipf": 5.48,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Lieben",
+      "genitive": "Liebe"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "love (tender feeling of affection)",
+        "ko": "사랑",
+        "examples": [
+          {
+            "text": "Die Liebe zu meiner Familie ist wichtig.",
+            "ko": "가족에 대한 사랑은 중요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "a love relationship",
+        "ko": "연애, 사랑 관계",
+        "examples": [
+          {
+            "text": "Ihre Liebe hat zehn Jahre gehalten.",
+            "ko": "그들의 사랑은 10년간 이어졌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lieferung",
+    "level": "b1",
+    "zipf": 4.13,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Lieferungen",
+      "genitive": "Lieferung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "liefern|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "delivery, shipment",
+        "ko": "배달, 배송",
+        "examples": [
+          {
+            "text": "Die Lieferung kommt morgen.",
+            "ko": "배송은 내일 온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lift",
+    "level": "b1",
+    "zipf": 3.46,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Lifte",
+      "genitive": "Liftes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "lift; elevator (mechanical device for vertically transporting goods or people)",
+        "ko": "엘리베이터",
+        "examples": [
+          {
+            "text": "Der Lift ist leider kaputt.",
+            "ko": "엘리베이터가 안타깝게도 고장 났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Limonade",
+    "level": "b1",
+    "zipf": 3.1,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Limonaden",
+      "genitive": "Limonade"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "lemonade",
+        "ko": "레모네이드",
+        "examples": [
+          {
+            "text": "Die Kinder trinken kalte Limonade.",
+            "ko": "아이들이 차가운 레모네이드를 마신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "any carbonated soft drink, soda pop, fizzy drink (particularly kinds other than cola, though it may also be included)",
+        "ko": "탄산음료",
+        "examples": [
+          {
+            "text": "Im Restaurant bestelle ich eine Limonade.",
+            "ko": "식당에서 나는 탄산음료를 주문한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Linie",
+    "level": "b1",
+    "zipf": 4.94,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Linien",
+      "genitive": "Linie"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "line",
+        "ko": "선, 노선",
+        "examples": [
+          {
+            "text": "Mit der Linie 5 kommst du zum Bahnhof.",
+            "ko": "5번 노선을 타면 역에 갈 수 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "link",
+    "level": "b1",
+    "zipf": 4.75,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hyperlink",
+        "ko": "링크",
+        "examples": [
+          {
+            "text": "Ich schicke dir den Link per E-Mail.",
+            "ko": "링크를 이메일로 보내 줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "left (side, adjective link-)",
+        "ko": "왼쪽의",
+        "examples": [
+          {
+            "text": "Mein linker Fuß tut weh.",
+            "ko": "내 왼발이 아프다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lippe",
+    "level": "b1",
+    "zipf": 3.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Lippen",
+      "genitive": "Lippe"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "lip",
+        "ko": "입술",
+        "examples": [
+          {
+            "text": "Meine Lippen sind trocken.",
+            "ko": "입술이 건조하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Liste",
+    "level": "b1",
+    "zipf": 4.96,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Listen",
+      "genitive": "Liste"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "list",
+        "ko": "목록, 리스트",
+        "examples": [
+          {
+            "text": "Ich schreibe eine Liste für den Einkauf.",
+            "ko": "나는 장보기 목록을 쓴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Literatur",
+    "level": "b1",
+    "zipf": 4.78,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Literaturen",
+      "genitive": "Literatur"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "literature (written works collectively, often about a certain topic, in a certain language etc.)",
+        "ko": "문학, 문헌",
+        "examples": [
+          {
+            "text": "Sie studiert deutsche Literatur.",
+            "ko": "그녀는 독문학을 공부한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "loben",
+    "level": "b1",
+    "zipf": 3.78,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "lobt",
+      "past": "lobte",
+      "pp": "gelobt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to praise",
+        "ko": "칭찬하다",
+        "examples": [
+          {
+            "text": "Die Lehrerin lobt die Schüler.",
+            "ko": "선생님이 학생들을 칭찬한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Loch",
+    "level": "b1",
+    "zipf": 4.43,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Löcher",
+      "genitive": "Loches"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hole; perforation",
+        "ko": "구멍",
+        "examples": [
+          {
+            "text": "In meiner Socke ist ein Loch.",
+            "ko": "내 양말에 구멍이 났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "hole in the ground; pit",
+        "ko": "땅의 구덩이",
+        "examples": [
+          {
+            "text": "Die Arbeiter graben ein tiefes Loch.",
+            "ko": "인부들이 깊은 구덩이를 판다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "locker",
+    "level": "b1",
+    "zipf": 4.45,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "lockerer",
+      "superlative": "am lockersten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "loose",
+        "ko": "느슨한, 헐거운",
+        "examples": [
+          {
+            "text": "Die Schraube ist locker.",
+            "ko": "나사가 헐거워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "relaxed",
+        "ko": "느긋한, 여유로운",
+        "examples": [
+          {
+            "text": "Er ist immer sehr locker.",
+            "ko": "그는 항상 아주 느긋해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lohn",
+    "level": "b1",
+    "zipf": 4.25,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Löhne",
+      "genitive": "Lohnes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "wage",
+        "ko": "임금, 급료",
+        "examples": [
+          {
+            "text": "Der Lohn wird am Monatsende bezahlt.",
+            "ko": "임금은 월말에 지급된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "reward",
+        "ko": "보상, 대가",
+        "examples": [
+          {
+            "text": "Das ist der Lohn für deine Mühe.",
+            "ko": "이것이 네 수고의 대가야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "lohnen",
+    "level": "b1",
+    "zipf": 3.79,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "lohnt",
+      "past": "lohnte",
+      "pp": "gelohnt",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to be worth it",
+        "ko": "보람이 있다, 가치가 있다",
+        "examples": [
+          {
+            "text": "Der Ausflug lohnt sich.",
+            "ko": "소풍은 갈 만한 가치가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "los",
+    "level": "b1",
+    "zipf": 5.26,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "rid of, free of",
+        "ko": "벗어난, 없는",
+        "examples": [
+          {
+            "text": "Ich bin das Problem endlich los.",
+            "ko": "나는 그 문제에서 드디어 벗어났어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "going on",
+        "ko": "(무슨 일이) 일어나는",
+        "examples": [
+          {
+            "text": "Was ist los?",
+            "ko": "무슨 일이야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "off, out, used to indicate leaving motion.",
+        "ko": "출발해서, 떠나서",
+        "examples": [
+          {
+            "text": "Los, wir gehen!",
+            "ko": "자, 가자!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "losfahren",
+    "level": "b1",
+    "zipf": 3.23,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "fährt los",
+      "past": "fuhr los",
+      "pp": "losgefahren",
+      "aux": "sein",
+      "separable": true,
+      "prefix": "los"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "los|sep",
+      "fahren|stem"
+    ],
+    "senses": [
+      {
+        "en": "to set off, to hit the road",
+        "ko": "출발하다",
+        "examples": [
+          {
+            "text": "Wir fahren morgen früh los.",
+            "ko": "우리는 내일 아침 일찍 출발한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Luft",
+    "level": "b1",
+    "zipf": 5.02,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Lüfte",
+      "genitive": "Luft"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "air, atmosphere",
+        "ko": "공기",
+        "examples": [
+          {
+            "text": "Im Wald ist die Luft frisch.",
+            "ko": "숲의 공기는 신선하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "breeze, zephyr, breath",
+        "ko": "바람, 숨",
+        "examples": [
+          {
+            "text": "Ich bekomme keine Luft.",
+            "ko": "숨을 쉴 수가 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "lächeln",
+    "level": "b1",
+    "zipf": 4.48,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "lächelt",
+      "past": "lächelte",
+      "pp": "gelächelt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to smile",
+        "ko": "미소 짓다",
+        "examples": [
+          {
+            "text": "Sie lächelt mich freundlich an.",
+            "ko": "그녀가 나를 보며 다정하게 미소 짓는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Länge",
+    "level": "b1",
+    "zipf": 4.64,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Längen",
+      "genitive": "Länge"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "lang|stem",
+      "-e|suffix"
+    ],
+    "senses": [
+      {
+        "en": "length",
+        "ko": "길이",
+        "examples": [
+          {
+            "text": "Die Länge des Tisches beträgt zwei Meter.",
+            "ko": "탁자의 길이는 2미터이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "longitude",
+        "ko": "경도",
+        "examples": [
+          {
+            "text": "Die Länge und die Breite zeigen den Ort.",
+            "ko": "경도와 위도가 장소를 알려 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "längst",
+    "level": "b1",
+    "zipf": 4.75,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "long ago, long",
+        "ko": "훨씬 전에, 벌써",
+        "examples": [
+          {
+            "text": "Das habe ich längst vergessen.",
+            "ko": "그건 벌써 오래전에 잊었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lärm",
+    "level": "b1",
+    "zipf": 4.12,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Lärmes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "noise, din, racket",
+        "ko": "소음, 시끄러움",
+        "examples": [
+          {
+            "text": "Der Lärm von der Straße stört mich.",
+            "ko": "길거리 소음이 나를 방해한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "löschen",
+    "level": "b1",
+    "zipf": 4.38,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "löscht",
+      "past": "löschte",
+      "pp": "gelöscht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to delete, to erase (remembrance, memory, data)",
+        "ko": "지우다, 삭제하다",
+        "examples": [
+          {
+            "text": "Ich lösche die alten Fotos vom Handy.",
+            "ko": "나는 휴대폰에서 옛 사진들을 지운다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to quench (fire, thirst, or lime)",
+        "ko": "(불, 갈증을) 끄다",
+        "examples": [
+          {
+            "text": "Die Feuerwehr löscht den Brand.",
+            "ko": "소방대가 화재를 진압한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "lösen",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "löst",
+      "past": "löste",
+      "pp": "gelöst",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to solve; to resolve; to answer",
+        "ko": "풀다, 해결하다",
+        "examples": [
+          {
+            "text": "Kannst du diese Aufgabe lösen?",
+            "ko": "이 문제를 풀 수 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to buy",
+        "ko": "(표를) 사다",
+        "examples": [
+          {
+            "text": "Ich löse eine Fahrkarte am Automaten.",
+            "ko": "나는 자동판매기에서 차표를 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to dissolve",
+        "ko": "녹이다",
+        "examples": [
+          {
+            "text": "Er löst Zucker im Tee.",
+            "ko": "그는 차에 설탕을 녹인다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

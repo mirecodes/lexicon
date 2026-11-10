@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Qualität",
+    "level": "a2",
+    "zipf": 4.8,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Qualitäten",
+      "genitive": "Qualität"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "quality (level of excellence, level of being free from defects)",
+        "ko": "품질",
+        "examples": [
+          {
+            "text": "Die Qualität ist sehr gut.",
+            "ko": "품질이 아주 좋아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Quiz",
+    "level": "a2",
+    "zipf": 3.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Quiz"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "quiz, trivia",
+        "ko": "퀴즈",
+        "examples": [
+          {
+            "text": "Wir machen ein Quiz im Deutschkurs.",
+            "ko": "우리는 독일어 수업에서 퀴즈를 해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

@@ -1,0 +1,535 @@
+[
+  {
+    "word": "Uhr",
+    "level": "a1",
+    "zipf": 5.67,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Uhren",
+      "genitive": "Uhr"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hours, o'clock (indicates the time within a twelve- or twenty-four-hour period)",
+        "ko": "~시",
+        "examples": [
+          {
+            "text": "Es ist drei Uhr.",
+            "ko": "세 시야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "clock, watch (instrument used to measure or keep track of time)",
+        "ko": "시계",
+        "examples": [
+          {
+            "text": "Die Uhr geht falsch.",
+            "ko": "시계가 틀려.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "um",
+    "level": "a1",
+    "zipf": 6.46,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "at, around (time)",
+        "ko": "~시에",
+        "examples": [
+          {
+            "text": "Der Kurs beginnt um neun Uhr.",
+            "ko": "수업은 아홉 시에 시작해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "around (a place)",
+        "ko": "~ 둘레에",
+        "examples": [
+          {
+            "text": "Wir sitzen um den Tisch.",
+            "ko": "우리는 탁자 둘레에 앉아 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "up, in the sense of finished",
+        "ko": "끝난",
+        "examples": [
+          {
+            "text": "Die Zeit ist um.",
+            "ko": "시간이 다 됐어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "umziehen",
+    "level": "a1",
+    "zipf": 3.83,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "zieht um",
+      "past": "zog um",
+      "pp": "umgezogen",
+      "aux": "haben/sein",
+      "separable": true,
+      "prefix": "um"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "um|sep",
+      "ziehen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to move",
+        "ko": "이사하다",
+        "examples": [
+          {
+            "text": "Wir ziehen nächste Woche um.",
+            "ko": "우리는 다음 주에 이사해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to change clothes, to get changed",
+        "ko": "옷을 갈아입다",
+        "examples": [
+          {
+            "text": "Ich ziehe mich schnell um.",
+            "ko": "나는 빨리 옷을 갈아입어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "und",
+    "level": "a1",
+    "zipf": 7.42,
+    "pos": "conj",
+    "grammar": {
+      "type": "conj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "and",
+        "ko": "그리고, ~와",
+        "examples": [
+          {
+            "text": "Ich trinke Tee und Wasser.",
+            "ko": "나는 차와 물을 마셔.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unser",
+    "level": "a1",
+    "zipf": 5.43,
+    "pos": "det",
+    "grammar": {
+      "type": "det"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "our",
+        "ko": "우리의",
+        "examples": [
+          {
+            "text": "Unser Lehrer ist nett.",
+            "ko": "우리 선생님은 친절해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unten",
+    "level": "a1",
+    "zipf": 5.01,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "below",
+        "ko": "아래에",
+        "examples": [
+          {
+            "text": "Das Bad ist unten.",
+            "ko": "욕실은 아래층에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "at a later point in a text",
+        "ko": "(글의) 아래쪽에",
+        "examples": [
+          {
+            "text": "Die Antwort steht unten auf der Seite.",
+            "ko": "답은 페이지 아래쪽에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unter",
+    "level": "a1",
+    "zipf": 6.1,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "under",
+        "ko": "~ 아래에",
+        "examples": [
+          {
+            "text": "Die Katze sitzt unter dem Tisch.",
+            "ko": "고양이가 탁자 밑에 앉아 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "among, between",
+        "ko": "~ 가운데, ~ 사이에",
+        "examples": [
+          {
+            "text": "Unter den Gästen ist auch mein Chef.",
+            "ko": "손님들 중에 내 상사도 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Unterricht",
+    "level": "a1",
+    "zipf": 4.57,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Unterrichtes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "lesson, class, instruction, education",
+        "ko": "수업",
+        "examples": [
+          {
+            "text": "Der Unterricht beginnt um acht Uhr.",
+            "ko": "수업은 여덟 시에 시작해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unterschreiben",
+    "level": "a1",
+    "zipf": 4.17,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "unterschreibt",
+      "past": "unterschrieb",
+      "pp": "unterschrieben",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "unter|insep",
+      "schreiben|stem"
+    ],
+    "senses": [
+      {
+        "en": "to sign (write one’s signature)",
+        "ko": "서명하다",
+        "examples": [
+          {
+            "text": "Bitte unterschreiben Sie hier.",
+            "ko": "여기에 서명해 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Unterschrift",
+    "level": "a1",
+    "zipf": 4.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Unterschriften",
+      "genitive": "Unterschrift"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "unter|stem",
+      "Schrift|stem"
+    ],
+    "senses": [
+      {
+        "en": "signature",
+        "ko": "서명",
+        "examples": [
+          {
+            "text": "Hier fehlt noch Ihre Unterschrift.",
+            "ko": "여기에 서명이 아직 없어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Urlaub",
+    "level": "a1",
+    "zipf": 4.83,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Urlaube",
+      "genitive": "Urlaubes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "holiday, vacation",
+        "ko": "휴가",
+        "examples": [
+          {
+            "text": "Ich habe nächste Woche Urlaub.",
+            "ko": "나는 다음 주에 휴가야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "leave",
+        "ko": "휴가, 말미",
+        "examples": [
+          {
+            "text": "Sie nimmt drei Tage Urlaub.",
+            "ko": "그녀는 사흘 휴가를 낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "über",
+    "level": "a1",
+    "zipf": 6.39,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "over, above",
+        "ko": "~위에, ~위로",
+        "examples": [
+          {
+            "text": "Die Lampe hängt über dem Tisch.",
+            "ko": "전등이 탁자 위에 걸려 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "about, concerning",
+        "ko": "~에 대해",
+        "examples": [
+          {
+            "text": "Wir sprechen über das Wetter.",
+            "ko": "우리는 날씨에 대해 이야기해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "across, via",
+        "ko": "~을 건너, ~을 거쳐",
+        "examples": [
+          {
+            "text": "Ich gehe über die Straße.",
+            "ko": "나는 길을 건넌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "übernachten",
+    "level": "a1",
+    "zipf": 3.74,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "übernachtet",
+      "past": "übernachtete",
+      "pp": "übernachtet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|insep",
+      "Nacht|stem"
+    ],
+    "senses": [
+      {
+        "en": "to stay overnight, to overnight, stay the night, sleep over",
+        "ko": "묵다, 하룻밤 자다",
+        "examples": [
+          {
+            "text": "Wir übernachten im Hotel.",
+            "ko": "우리는 호텔에서 묵는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "überweisen",
+    "level": "a1",
+    "zipf": 3.65,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "überweist",
+      "past": "überwies",
+      "pp": "überwiesen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|insep",
+      "weisen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to transfer, to wire",
+        "ko": "송금하다, 이체하다",
+        "examples": [
+          {
+            "text": "Ich überweise dir das Geld morgen.",
+            "ko": "내일 너에게 돈을 송금할게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

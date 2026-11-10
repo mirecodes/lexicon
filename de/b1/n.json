@@ -1,0 +1,1413 @@
+[
+  {
+    "word": "nachdem",
+    "level": "b1",
+    "zipf": 5.31,
+    "pos": "conj",
+    "grammar": {
+      "type": "conj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "after (that)",
+        "ko": "~한 후에",
+        "examples": [
+          {
+            "text": "Nachdem ich gegessen habe, gehe ich spazieren.",
+            "ko": "밥을 먹은 후에 나는 산책하러 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nachdenken",
+    "level": "b1",
+    "zipf": 4.43,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "denkt nach",
+      "past": "dachte nach",
+      "pp": "nachgedacht",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "nach"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "nach|sep",
+      "denken|stem"
+    ],
+    "senses": [
+      {
+        "en": "to think, to reflect, to ponder",
+        "ko": "곰곰이 생각하다",
+        "examples": [
+          {
+            "text": "Ich denke noch über deine Frage nach.",
+            "ko": "나는 아직 네 질문에 대해 생각 중이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nachfrage",
+    "level": "b1",
+    "zipf": 4.44,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Nachfragen",
+      "genitive": "Nachfrage"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "nach|stem",
+      "Frage|stem"
+    ],
+    "senses": [
+      {
+        "en": "request, inquiry",
+        "ko": "문의",
+        "examples": [
+          {
+            "text": "Vielen Dank für Ihre Nachfrage.",
+            "ko": "문의해 주셔서 대단히 감사합니다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "demand",
+        "ko": "수요",
+        "examples": [
+          {
+            "text": "Die Nachfrage nach Wohnungen ist hoch.",
+            "ko": "주택 수요가 높다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nachher",
+    "level": "b1",
+    "zipf": 4.4,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "afterwards, later (after something has finished)",
+        "ko": "나중에, 그 후에",
+        "examples": [
+          {
+            "text": "Ich koche jetzt und räume nachher auf.",
+            "ko": "나는 지금 요리하고 나중에 정리한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nachhilfe",
+    "level": "b1",
+    "zipf": 3.65,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Nachhilfen",
+      "genitive": "Nachhilfe"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "nach|stem",
+      "Hilfe|stem"
+    ],
+    "senses": [
+      {
+        "en": "private lessons, coaching, tuition, tutoring",
+        "ko": "과외",
+        "examples": [
+          {
+            "text": "Mein Sohn bekommt Nachhilfe in Mathe.",
+            "ko": "내 아들은 수학 과외를 받는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nachschlagen",
+    "level": "b1",
+    "zipf": 3.13,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "schlägt nach",
+      "past": "schlug nach",
+      "pp": "nachgeschlagen",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "nach"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "nach|sep",
+      "schlagen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to look up",
+        "ko": "찾아보다",
+        "examples": [
+          {
+            "text": "Ich schlage das Wort im Wörterbuch nach.",
+            "ko": "나는 그 단어를 사전에서 찾아본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nachspeise",
+    "level": "b1",
+    "zipf": 2.77,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Nachspeisen",
+      "genitive": "Nachspeise"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "nach|stem",
+      "Speise|stem"
+    ],
+    "senses": [
+      {
+        "en": "dessert",
+        "ko": "디저트, 후식",
+        "examples": [
+          {
+            "text": "Als Nachspeise gibt es Eis.",
+            "ko": "디저트로는 아이스크림이 나온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nachteil",
+    "level": "b1",
+    "zipf": 4.08,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Nachteile",
+      "genitive": "Nachteiles"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "nach|stem",
+      "Teil|stem"
+    ],
+    "senses": [
+      {
+        "en": "disadvantage, demerit",
+        "ko": "단점, 불리한 점",
+        "examples": [
+          {
+            "text": "Das hat auch einen Nachteil.",
+            "ko": "이것은 단점도 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nachwuchs",
+    "level": "b1",
+    "zipf": 4.11,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Nachwüchse",
+      "genitive": "Nachwuchses"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "offspring, progeny (collective of biological descendants)",
+        "ko": "자녀, 새 식구",
+        "examples": [
+          {
+            "text": "Bei Müllers gibt es Nachwuchs.",
+            "ko": "뮐러 씨 집에 아기가 생겼다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "juniors, new blood (collectively), youngsters, next generation (the collective of young people that will supersede the current generation (in a particular domain))",
+        "ko": "후진, 차세대",
+        "examples": [
+          {
+            "text": "Der Verein sucht neuen Nachwuchs.",
+            "ko": "그 동호회는 새로운 젊은 회원을 찾고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nadel",
+    "level": "b1",
+    "zipf": 3.77,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Nadeln",
+      "genitive": "Nadel"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "needle; hook (implement for sewing, knitting, or crocheting)",
+        "ko": "바늘",
+        "examples": [
+          {
+            "text": "Ich brauche Nadel und Faden.",
+            "ko": "나는 바늘과 실이 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "pin (implement for fixing something)",
+        "ko": "핀",
+        "examples": [
+          {
+            "text": "Sie befestigt den Zettel mit einer Nadel.",
+            "ko": "그녀는 쪽지를 핀으로 고정한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nagel",
+    "level": "b1",
+    "zipf": 3.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Nägel",
+      "genitive": "Nagels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "A nail, the horny plate on fingers and toes of humans and certain animals which mostly consists of keratin.",
+        "ko": "손톱, 발톱",
+        "examples": [
+          {
+            "text": "Ich schneide mir die Nägel.",
+            "ko": "나는 손톱을 깎는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "A nail, a man-made pointed fastener used for joining different materials by penetrating them.",
+        "ko": "못",
+        "examples": [
+          {
+            "text": "Er schlägt einen Nagel in die Wand.",
+            "ko": "그는 벽에 못을 박는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nah",
+    "level": "b1",
+    "zipf": 4.55,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "näher",
+      "superlative": "am nächsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "near (in space or time or in an abstract sense), close, nearby",
+        "ko": "가까운",
+        "examples": [
+          {
+            "text": "Der Bahnhof ist ganz nah.",
+            "ko": "기차역은 아주 가깝다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nahrungsmittel",
+    "level": "b1",
+    "zipf": 3.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Nahrungsmittel",
+      "genitive": "Nahrungsmittels"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Nahrung|stem",
+      "Mittel|stem"
+    ],
+    "senses": [
+      {
+        "en": "item of sustenance; a foodstuff or beverage that is mainly consumed for nourishment",
+        "ko": "식료품, 식품",
+        "examples": [
+          {
+            "text": "Im Supermarkt kauft man Nahrungsmittel.",
+            "ko": "슈퍼마켓에서 식료품을 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nase",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Nasen",
+      "genitive": "Nase"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "nose",
+        "ko": "코",
+        "examples": [
+          {
+            "text": "Meine Nase ist verstopft.",
+            "ko": "내 코가 막혔다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "national",
+    "level": "b1",
+    "zipf": 4.29,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "nationaler",
+      "superlative": "am nationalsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "national (being part of a nation's identity or character)",
+        "ko": "국가의, 민족의",
+        "examples": [
+          {
+            "text": "Das ist ein nationales Fest.",
+            "ko": "이것은 국가적인 축제이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "nationwide, national (covering a country, as opposed to regional and international levels; see usage note below)",
+        "ko": "전국적인",
+        "examples": [
+          {
+            "text": "Das Spiel wird im nationalen Fernsehen gezeigt.",
+            "ko": "그 경기는 전국 방송으로 중계된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nebel",
+    "level": "b1",
+    "zipf": 4.12,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Nebel",
+      "genitive": "Nebels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fog, mist, haze",
+        "ko": "안개",
+        "examples": [
+          {
+            "text": "Bei Nebel fahre ich langsam.",
+            "ko": "안개가 끼면 나는 천천히 운전한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nebenbei",
+    "level": "b1",
+    "zipf": 4.27,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "besides, additionally, along the way",
+        "ko": "곁들여, 부수적으로",
+        "examples": [
+          {
+            "text": "Er arbeitet nebenbei als Taxifahrer.",
+            "ko": "그는 부업으로 택시 기사로 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "by the way",
+        "ko": "그런데, 덧붙여 말하면",
+        "examples": [
+          {
+            "text": "Nebenbei gesagt, ich komme morgen später.",
+            "ko": "덧붙여 말하면, 나는 내일 더 늦게 와.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Neffe",
+    "level": "b1",
+    "zipf": 3.73,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Neffen",
+      "genitive": "Neffen"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "nephew (son of one's sibling or sibling-in-law)",
+        "ko": "남자 조카",
+        "examples": [
+          {
+            "text": "Mein Neffe ist fünf Jahre alt.",
+            "ko": "내 조카는 다섯 살이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "negativ",
+    "level": "b1",
+    "zipf": 4.4,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "negativer",
+      "superlative": "am negativsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "negative (undesirable)",
+        "ko": "부정적인, 나쁜",
+        "examples": [
+          {
+            "text": "Er hat nur negative Erfahrungen gemacht.",
+            "ko": "그는 나쁜 경험만 했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "negative (less than zero)",
+        "ko": "음의, 마이너스의",
+        "examples": [
+          {
+            "text": "Minus drei ist eine negative Zahl.",
+            "ko": "마이너스 3은 음수이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nerv",
+    "level": "b1",
+    "zipf": 3.71,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Nerven",
+      "genitive": "Nervs"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "nerve",
+        "ko": "신경",
+        "examples": [
+          {
+            "text": "Der Lärm geht mir auf die Nerven.",
+            "ko": "소음 때문에 신경이 거슬린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Netz",
+    "level": "b1",
+    "zipf": 4.77,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Netze",
+      "genitive": "Netzes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "net; web; mesh (construction of interwoven fibres, e.g. that of a fisher, a spider, etc.)",
+        "ko": "그물",
+        "examples": [
+          {
+            "text": "Der Fischer wirft das Netz aus.",
+            "ko": "어부가 그물을 던진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "network; grid (a system, often interconnected, that covers a certain area)",
+        "ko": "망, 네트워크",
+        "examples": [
+          {
+            "text": "Das Stromnetz ist ausgefallen.",
+            "ko": "전력망이 고장 났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "the internet",
+        "ko": "인터넷",
+        "examples": [
+          {
+            "text": "Das Video ist jetzt im Netz.",
+            "ko": "그 영상은 지금 인터넷에 올라와 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Netzwerk",
+    "level": "b1",
+    "zipf": 4.42,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Netzwerke",
+      "genitive": "Netzwerkes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Netz|stem",
+      "Werk|stem"
+    ],
+    "senses": [
+      {
+        "en": "network",
+        "ko": "네트워크, 망",
+        "examples": [
+          {
+            "text": "Das Netzwerk im Büro funktioniert nicht.",
+            "ko": "사무실 네트워크가 작동하지 않는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "neugierig",
+    "level": "b1",
+    "zipf": 4.15,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "neugieriger",
+      "superlative": "am neugierigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "neu|stem",
+      "gierig|stem"
+    ],
+    "senses": [
+      {
+        "en": "nosy, curious, inquisitive, prying",
+        "ko": "호기심 많은",
+        "examples": [
+          {
+            "text": "Die Kinder sind sehr neugierig.",
+            "ko": "아이들은 호기심이 아주 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Neuigkeit",
+    "level": "b1",
+    "zipf": 3.37,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Neuigkeiten",
+      "genitive": "Neuigkeit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "neu|stem",
+      "-ig|suffix",
+      "-keit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "news (item of)",
+        "ko": "소식, 새로운 소식",
+        "examples": [
+          {
+            "text": "Hast du Neuigkeiten für mich?",
+            "ko": "나한테 알려 줄 새 소식 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "neulich",
+    "level": "b1",
+    "zipf": 4.21,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "neu|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "recently (in the recent past)",
+        "ko": "최근에, 얼마 전에",
+        "examples": [
+          {
+            "text": "Ich habe ihn neulich gesehen.",
+            "ko": "나는 얼마 전에 그를 봤다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nichte",
+    "level": "b1",
+    "zipf": 3.7,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Nichten",
+      "genitive": "Nichte"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "niece",
+        "ko": "여자 조카",
+        "examples": [
+          {
+            "text": "Meine Nichte spielt gern mit Puppen.",
+            "ko": "내 조카딸은 인형 놀이를 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Nichtraucher",
+    "level": "b1",
+    "zipf": 3.42,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Nichtraucher",
+      "genitive": "Nichtrauchers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "nicht|stem",
+      "Raucher|stem"
+    ],
+    "senses": [
+      {
+        "en": "non-smoker (person who does not smoke tobacco)",
+        "ko": "비흡연자",
+        "examples": [
+          {
+            "text": "Ich bin Nichtraucher.",
+            "ko": "나는 비흡연자입니다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "niedrig",
+    "level": "b1",
+    "zipf": 4.15,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "niedriger",
+      "superlative": "am niedrigsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "low",
+        "ko": "낮은",
+        "examples": [
+          {
+            "text": "Die Preise sind sehr niedrig.",
+            "ko": "가격이 아주 낮다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nirgendwo",
+    "level": "b1",
+    "zipf": 4.12,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "nowhere (in no place)",
+        "ko": "어디에도 (없다)",
+        "examples": [
+          {
+            "text": "Ich finde meinen Schlüssel nirgendwo.",
+            "ko": "내 열쇠가 어디에도 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "noch mal",
+    "level": "b1",
+    "zipf": 6.09,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "again, once more",
+        "ko": "한 번 더, 다시",
+        "examples": [
+          {
+            "text": "Sagen Sie das bitte noch mal.",
+            "ko": "그걸 한 번 더 말씀해 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nochmals",
+    "level": "b1",
+    "zipf": 4.43,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "again, once more",
+        "ko": "다시 한번",
+        "examples": [
+          {
+            "text": "Ich erkläre es nochmals.",
+            "ko": "제가 다시 한번 설명할게요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "normalerweise",
+    "level": "b1",
+    "zipf": 4.51,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "normally",
+        "ko": "보통, 일반적으로",
+        "examples": [
+          {
+            "text": "Normalerweise stehe ich um sieben Uhr auf.",
+            "ko": "보통 나는 7시에 일어난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Not",
+    "level": "b1",
+    "zipf": 4.68,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Nöte",
+      "genitive": "Not"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "emergency, crisis",
+        "ko": "비상, 곤경",
+        "examples": [
+          {
+            "text": "In der Not helfen Freunde.",
+            "ko": "곤경에 처했을 때 친구들이 돕는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "necessity, poverty",
+        "ko": "궁핍, 가난",
+        "examples": [
+          {
+            "text": "Viele Menschen leben in großer Not.",
+            "ko": "많은 사람들이 극심한 궁핍 속에 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Notruf",
+    "level": "b1",
+    "zipf": 3.76,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Notrufe",
+      "genitive": "Notrufes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Not|stem",
+      "Ruf|stem"
+    ],
+    "senses": [
+      {
+        "en": "emergency call",
+        "ko": "긴급 전화, 구조 요청",
+        "examples": [
+          {
+            "text": "Die Nummer für den Notruf ist 112.",
+            "ko": "긴급 전화 번호는 112이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nun",
+    "level": "b1",
+    "zipf": 5.88,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "now, at this moment",
+        "ko": "지금, 이제",
+        "examples": [
+          {
+            "text": "Nun müssen wir gehen.",
+            "ko": "이제 우리는 가야 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "now, then; expressing a logical or temporal consequence",
+        "ko": "그럼, 자",
+        "examples": [
+          {
+            "text": "Nun, was machen wir jetzt?",
+            "ko": "자, 이제 우리 뭐 할까?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nutzen",
+    "level": "b1",
+    "zipf": 5.03,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "nutzt",
+      "past": "nutzte",
+      "pp": "genutzt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to make use of; to deploy; to exploit; to harness; to take (the opportunity of)",
+        "ko": "이용하다, 활용하다",
+        "examples": [
+          {
+            "text": "Ich nutze die Zeit zum Lernen.",
+            "ko": "나는 그 시간을 공부에 활용한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be useful, to be of use, to do good",
+        "ko": "도움이 되다",
+        "examples": [
+          {
+            "text": "Das nutzt dir nichts.",
+            "ko": "그건 너한테 도움이 안 돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nähen",
+    "level": "b1",
+    "zipf": 3.65,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "näht",
+      "past": "nähte",
+      "pp": "genäht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to sew",
+        "ko": "바느질하다, 꿰매다",
+        "examples": [
+          {
+            "text": "Meine Oma näht ein Kleid.",
+            "ko": "우리 할머니는 원피스를 바느질하신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nähern",
+    "level": "b1",
+    "zipf": 3.81,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "nähert",
+      "past": "näherte",
+      "pp": "genähert",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to approach, to come closer",
+        "ko": "다가가다, 접근하다",
+        "examples": [
+          {
+            "text": "Der Zug nähert sich dem Bahnhof.",
+            "ko": "기차가 역에 가까이 온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nämlich",
+    "level": "b1",
+    "zipf": 5.1,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "namely, you see (giving a reason)",
+        "ko": "왜냐하면, 즉",
+        "examples": [
+          {
+            "text": "Ich komme später, ich habe nämlich noch Unterricht.",
+            "ko": "나는 늦게 갈게, 아직 수업이 있거든.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "(the) very same, selfsame (as was mentioned or described previously; either the same object by identity, or sometimes just the same in type or appearance)",
+        "ko": "바로 그, 동일한",
+        "examples": [
+          {
+            "text": "Der nämliche Mann war gestern wieder da.",
+            "ko": "바로 그 남자가 어제 또 왔다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nötig",
+    "level": "b1",
+    "zipf": 4.8,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "nötiger",
+      "superlative": "am nötigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Not|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "necessary",
+        "ko": "필요한",
+        "examples": [
+          {
+            "text": "Ist das wirklich nötig?",
+            "ko": "그게 정말 필요해?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "nützen",
+    "level": "b1",
+    "zipf": 3.67,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": false,
+      "present3": "nützt",
+      "past": "nützte",
+      "pp": "genützt",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to be of use, to help",
+        "ko": "도움이 되다, 쓸모 있다",
+        "examples": [
+          {
+            "text": "Das nützt mir nichts.",
+            "ko": "그건 나한테 아무 도움이 안 돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to use, to make use of",
+        "ko": "이용하다",
+        "examples": [
+          {
+            "text": "Ich nütze die Zeit zum Lernen.",
+            "ko": "나는 그 시간을 공부에 이용해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

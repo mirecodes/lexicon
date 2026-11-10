@@ -1,0 +1,1293 @@
+[
+  {
+    "word": "Kaffee",
+    "level": "a1",
+    "zipf": 4.84,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kaffees",
+      "genitive": "Kaffees"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "coffee (beverage made by infusing coffee beans in hot water)",
+        "ko": "커피",
+        "examples": [
+          {
+            "text": "Ich trinke jeden Morgen Kaffee.",
+            "ko": "나는 매일 아침 커피를 마신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kaputt",
+    "level": "a1",
+    "zipf": 4.57,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "kaputter",
+      "superlative": "am kaputtesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "destroyed, broken, out of order",
+        "ko": "고장 난, 망가진",
+        "examples": [
+          {
+            "text": "Mein Handy ist kaputt.",
+            "ko": "내 휴대폰이 고장 났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "tired, exhausted",
+        "ko": "녹초가 된",
+        "examples": [
+          {
+            "text": "Nach dem Training bin ich kaputt.",
+            "ko": "훈련 후에 나는 녹초가 된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Karte",
+    "level": "a1",
+    "zipf": 4.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Karten",
+      "genitive": "Karte"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "card (flat, normally rectangular piece of stiff paper, plastic etc.)",
+        "ko": "카드",
+        "examples": [
+          {
+            "text": "Kann ich mit Karte bezahlen?",
+            "ko": "카드로 계산할 수 있나요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "ellipsis of Eintrittskarte or Fahrkarte: ticket",
+        "ko": "표, 티켓",
+        "examples": [
+          {
+            "text": "Wir haben zwei Karten für das Konzert.",
+            "ko": "우리는 콘서트 표가 두 장 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "ellipsis of Landkarte: map",
+        "ko": "지도",
+        "examples": [
+          {
+            "text": "Hast du eine Karte von der Stadt?",
+            "ko": "이 도시 지도를 갖고 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kartoffel",
+    "level": "a1",
+    "zipf": 3.74,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kartoffeln",
+      "genitive": "Kartoffel"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "potato",
+        "ko": "감자",
+        "examples": [
+          {
+            "text": "Zum Fleisch gibt es Kartoffeln.",
+            "ko": "고기에 감자가 곁들여 나온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kasse",
+    "level": "a1",
+    "zipf": 4.28,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kassen",
+      "genitive": "Kasse"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cash desk, (supermarket) checkout, (film etc.) box office",
+        "ko": "계산대, 매표소",
+        "examples": [
+          {
+            "text": "Bitte zahlen Sie an der Kasse.",
+            "ko": "계산대에서 지불해 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "cash register, cash box",
+        "ko": "금전 등록기",
+        "examples": [
+          {
+            "text": "Die Kasse ist leer.",
+            "ko": "금전 등록기가 비어 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kaufen",
+    "level": "a1",
+    "zipf": 5.14,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "kauft",
+      "past": "kaufte",
+      "pp": "gekauft",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to buy, to purchase",
+        "ko": "사다",
+        "examples": [
+          {
+            "text": "Ich kaufe ein Brot.",
+            "ko": "나는 빵을 하나 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to buy, to purchase for someone",
+        "ko": "~에게 사 주다",
+        "examples": [
+          {
+            "text": "Ich kaufe dir einen Kaffee.",
+            "ko": "내가 너에게 커피를 사 줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kein",
+    "level": "a1",
+    "zipf": 5.91,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "no; not a(n); not one; not any",
+        "ko": "~이 없는, 하나도 ~않는",
+        "examples": [
+          {
+            "text": "Ich habe heute keine Zeit.",
+            "ko": "나는 오늘 시간이 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kennen",
+    "level": "a1",
+    "zipf": 5.07,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "kennt",
+      "past": "kannte",
+      "pp": "gekannt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to know; to be acquainted with; to be familiar with",
+        "ko": "알다, 안면이 있다",
+        "examples": [
+          {
+            "text": "Kennst du diesen Mann?",
+            "ko": "이 남자 알아?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kennenlernen",
+    "level": "a1",
+    "zipf": 4.23,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "lernt kennen",
+      "past": "lernte kennen",
+      "pp": "kennengelernt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "kennen"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "kennen|stem",
+      "lernen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to get to know, become acquainted with (a person, place, thing); to befriend.",
+        "ko": "알게 되다, 사귀다",
+        "examples": [
+          {
+            "text": "Ich lerne neue Leute kennen.",
+            "ko": "나는 새로운 사람들을 알게 된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kind",
+    "level": "a1",
+    "zipf": 5.27,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Kinder",
+      "genitive": "Kindes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "kid; child (young person)",
+        "ko": "아이, 어린이",
+        "examples": [
+          {
+            "text": "Das Kind spielt mit dem Ball.",
+            "ko": "아이가 공을 가지고 논다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "child; offspring (person with regard to his or her parents; also a baby animal or young animal, especially as the second component in numerous compound nouns)",
+        "ko": "자식",
+        "examples": [
+          {
+            "text": "Sie haben zwei Kinder.",
+            "ko": "그들에게는 자녀가 둘 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kindergarten",
+    "level": "a1",
+    "zipf": 4.28,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kindergärten",
+      "genitive": "Kindergartens"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Kind|stem",
+      "Garten|stem"
+    ],
+    "senses": [
+      {
+        "en": "nursery school; kindergarten; day care center (institution where children below school age play and are looked after during the day)",
+        "ko": "유치원",
+        "examples": [
+          {
+            "text": "Meine Tochter geht in den Kindergarten.",
+            "ko": "내 딸은 유치원에 다닌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kino",
+    "level": "a1",
+    "zipf": 4.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Kinos",
+      "genitive": "Kinos"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cinema",
+        "ko": "영화관",
+        "examples": [
+          {
+            "text": "Wir gehen heute Abend ins Kino.",
+            "ko": "우리는 오늘 저녁에 영화관에 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kiosk",
+    "level": "a1",
+    "zipf": 3.66,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kioske",
+      "genitive": "Kiosks"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "kiosk",
+        "ko": "매점, 가판대",
+        "examples": [
+          {
+            "text": "Am Kiosk kaufe ich eine Zeitung.",
+            "ko": "나는 가판대에서 신문을 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "klar",
+    "level": "a1",
+    "zipf": 5.56,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "klarer",
+      "superlative": "am klarsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "clear; unambiguous; understood",
+        "ko": "분명한, 확실한",
+        "examples": [
+          {
+            "text": "Ist alles klar?",
+            "ko": "다 이해됐어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "clear; transparent; bright",
+        "ko": "맑은, 투명한",
+        "examples": [
+          {
+            "text": "Das Wasser ist klar.",
+            "ko": "물이 맑다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Klasse",
+    "level": "a1",
+    "zipf": 5.16,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Klassen",
+      "genitive": "Klasse"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "form; grade; year",
+        "ko": "학급, 학년",
+        "examples": [
+          {
+            "text": "Meine Tochter geht in die dritte Klasse.",
+            "ko": "내 딸은 3학년이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "class; excellence",
+        "ko": "최고, 훌륭함",
+        "examples": [
+          {
+            "text": "Das Essen war Klasse!",
+            "ko": "음식이 최고였어!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kleidung",
+    "level": "a1",
+    "zipf": 4.46,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Kleidung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Kleid|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "clothing; apparel",
+        "ko": "옷, 의류",
+        "examples": [
+          {
+            "text": "Die Kleidung ist hier günstig.",
+            "ko": "여기는 옷이 저렴하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "klein",
+    "level": "a1",
+    "zipf": 4.94,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "kleiner",
+      "superlative": "am kleinsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "small, little, wee (in physical size or extent)",
+        "ko": "작은",
+        "examples": [
+          {
+            "text": "Meine Wohnung ist klein.",
+            "ko": "내 집은 작다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "small, little, young (not grown up)",
+        "ko": "어린",
+        "examples": [
+          {
+            "text": "Ich habe einen kleinen Bruder.",
+            "ko": "나에게는 어린 남동생이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kochen",
+    "level": "a1",
+    "zipf": 4.52,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "kocht",
+      "past": "kochte",
+      "pp": "gekocht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to cook, to prepare food (chiefly hot food for lunch or supper)",
+        "ko": "요리하다",
+        "examples": [
+          {
+            "text": "Mein Vater kocht heute Abend.",
+            "ko": "아버지가 오늘 저녁을 요리하신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to cook something (in a) liquid (e.g. soup, chili, spaghetti)",
+        "ko": "끓이다, 삶다",
+        "examples": [
+          {
+            "text": "Ich koche Kartoffeln.",
+            "ko": "나는 감자를 삶는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Koffer",
+    "level": "a1",
+    "zipf": 4.19,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Koffer",
+      "genitive": "Koffers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a case; a suitcase or briefcase",
+        "ko": "여행 가방, 트렁크",
+        "examples": [
+          {
+            "text": "Mein Koffer ist sehr schwer.",
+            "ko": "내 여행 가방은 아주 무겁다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kollege",
+    "level": "a1",
+    "zipf": 4.31,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kollegen",
+      "genitive": "Kollegen"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "colleague, coworker, workmate, fellow worker or member",
+        "ko": "동료",
+        "examples": [
+          {
+            "text": "Mein Kollege hilft mir bei der Arbeit.",
+            "ko": "동료가 내 일을 도와준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kommen",
+    "level": "a1",
+    "zipf": 5.71,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "kommt",
+      "past": "kam",
+      "pp": "gekommen",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to come; to arrive",
+        "ko": "오다, 도착하다",
+        "examples": [
+          {
+            "text": "Er kommt um acht Uhr.",
+            "ko": "그는 여덟 시에 온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to come to; to come over (go somewhere so as to join someone else)",
+        "ko": "~로 오다, 놀러 오다",
+        "examples": [
+          {
+            "text": "Kommst du zu mir?",
+            "ko": "우리 집에 올래?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to occur; to happen; to come to be",
+        "ko": "일어나다",
+        "examples": [
+          {
+            "text": "Wie kommt das?",
+            "ko": "그건 어떻게 된 거야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Konto",
+    "level": "a1",
+    "zipf": 4.44,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Konten",
+      "genitive": "Kontos"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "bank account",
+        "ko": "은행 계좌",
+        "examples": [
+          {
+            "text": "Ich habe ein Konto bei dieser Bank.",
+            "ko": "나는 이 은행에 계좌가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "account",
+        "ko": "계정",
+        "examples": [
+          {
+            "text": "Ich brauche ein Konto für die Webseite.",
+            "ko": "그 웹사이트에 쓸 계정이 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kopf",
+    "level": "a1",
+    "zipf": 5.3,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Köpfe",
+      "genitive": "Kopfes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "head",
+        "ko": "머리",
+        "examples": [
+          {
+            "text": "Mein Kopf tut weh.",
+            "ko": "머리가 아프다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kosten",
+    "level": "a1",
+    "zipf": 5.18,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "kostet",
+      "past": "kostete",
+      "pp": "gekostet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to cost",
+        "ko": "값이 ~이다",
+        "examples": [
+          {
+            "text": "Was kostet das Brot?",
+            "ko": "이 빵은 얼마예요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "krank",
+    "level": "a1",
+    "zipf": 4.69,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "kränker",
+      "superlative": "am kränksten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ill, sick (in bad health)",
+        "ko": "아픈",
+        "examples": [
+          {
+            "text": "Ich bin seit gestern krank.",
+            "ko": "나는 어제부터 아프다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kriegen",
+    "level": "a1",
+    "zipf": 4.64,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "kriegt",
+      "past": "kriegte",
+      "pp": "gekriegt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to get",
+        "ko": "받다, 얻다",
+        "examples": [
+          {
+            "text": "Ich kriege morgen Besuch.",
+            "ko": "내일 손님이 온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to catch, to come down with",
+        "ko": "(병에) 걸리다",
+        "examples": [
+          {
+            "text": "Ich kriege bestimmt eine Erkältung.",
+            "ko": "나는 분명 감기에 걸릴 거야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kuchen",
+    "level": "a1",
+    "zipf": 4.48,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kuchen",
+      "genitive": "Kuchens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pie; cake; tart (foodstuff made of baked dough, other than bread)",
+        "ko": "케이크",
+        "examples": [
+          {
+            "text": "Ich esse gern Kuchen.",
+            "ko": "나는 케이크 먹는 걸 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kugelschreiber",
+    "level": "a1",
+    "zipf": 3.41,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kugelschreiber",
+      "genitive": "Kugelschreibers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Kugel|stem",
+      "Schreiber|stem"
+    ],
+    "senses": [
+      {
+        "en": "ballpoint pen, biro",
+        "ko": "볼펜",
+        "examples": [
+          {
+            "text": "Hast du einen Kugelschreiber?",
+            "ko": "볼펜 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kulturell",
+    "level": "a1",
+    "zipf": 3.66,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "kultureller",
+      "superlative": "am kulturellsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cultural",
+        "ko": "문화의, 문화적인",
+        "examples": [
+          {
+            "text": "Berlin hat ein großes kulturelles Angebot.",
+            "ko": "베를린에는 문화 행사가 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kunde",
+    "level": "a1",
+    "zipf": 4.44,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kunden",
+      "genitive": "Kunden"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "customer, patron, client",
+        "ko": "고객, 손님",
+        "examples": [
+          {
+            "text": "Der Kunde wartet an der Kasse.",
+            "ko": "고객이 계산대에서 기다린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kurs",
+    "level": "a1",
+    "zipf": 4.65,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kurse",
+      "genitive": "Kurses"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "course (learning program), class",
+        "ko": "강좌, 수업",
+        "examples": [
+          {
+            "text": "Ich mache einen Deutschkurs.",
+            "ko": "나는 독일어 강좌를 듣는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "exchange rate, market price",
+        "ko": "환율, 시세",
+        "examples": [
+          {
+            "text": "Der Kurs des Euro ist heute hoch.",
+            "ko": "오늘 유로 환율이 높다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kurz",
+    "level": "a1",
+    "zipf": 5.43,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "kürzer",
+      "superlative": "am kürzesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "short, quick, brief",
+        "ko": "짧은, 잠깐의",
+        "examples": [
+          {
+            "text": "Ich habe nur eine kurze Frage.",
+            "ko": "짧은 질문이 하나 있어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "short",
+        "ko": "짧은",
+        "examples": [
+          {
+            "text": "Der Rock ist zu kurz.",
+            "ko": "치마가 너무 짧다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "können",
+    "level": "a1",
+    "zipf": 6.12,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "modal",
+      "reflexive": false,
+      "present3": "kann",
+      "past": "konnte",
+      "pp": "gekonnt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to be able (to do or be something), to have the possibility of, can.",
+        "ko": "~할 수 있다",
+        "examples": [
+          {
+            "text": "Ich kann gut schwimmen.",
+            "ko": "나는 수영을 잘 할 수 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be allowed (to do something); to be permitted (to do something); may.",
+        "ko": "~해도 된다",
+        "examples": [
+          {
+            "text": "Kann ich hier sitzen?",
+            "ko": "여기 앉아도 될까요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Küche",
+    "level": "a1",
+    "zipf": 4.67,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Küchen",
+      "genitive": "Küche"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "kitchen (room)",
+        "ko": "부엌",
+        "examples": [
+          {
+            "text": "Meine Mutter ist in der Küche.",
+            "ko": "어머니는 부엌에 계신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "cuisine (cooking traditions)",
+        "ko": "요리, 음식 문화",
+        "examples": [
+          {
+            "text": "Ich mag die italienische Küche.",
+            "ko": "나는 이탈리아 요리를 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kühlschrank",
+    "level": "a1",
+    "zipf": 4.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kühlschränke",
+      "genitive": "Kühlschrankes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "kühl|stem",
+      "Schrank|stem"
+    ],
+    "senses": [
+      {
+        "en": "refrigerator",
+        "ko": "냉장고",
+        "examples": [
+          {
+            "text": "Die Milch steht im Kühlschrank.",
+            "ko": "우유는 냉장고에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

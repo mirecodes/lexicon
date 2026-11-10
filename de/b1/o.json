@@ -1,0 +1,718 @@
+[
+  {
+    "word": "ob",
+    "level": "b1",
+    "zipf": 5.84,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "whether, if",
+        "ko": "~인지 아닌지",
+        "examples": [
+          {
+            "text": "Ich weiß nicht, ob er kommt.",
+            "ko": "나는 그가 올지 모르겠다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ober",
+    "level": "b1",
+    "zipf": 4.11,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "upper, top (as a prefix)",
+        "ko": "위쪽의, 상부의",
+        "examples": [
+          {
+            "text": "Mein Zimmer ist im Obergeschoss.",
+            "ko": "내 방은 위층에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "obwohl",
+    "level": "b1",
+    "zipf": 5.18,
+    "pos": "conj",
+    "grammar": {
+      "type": "conj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ob|stem",
+      "wohl|stem"
+    ],
+    "senses": [
+      {
+        "en": "although, though, while",
+        "ko": "비록 ~이지만",
+        "examples": [
+          {
+            "text": "Ich gehe spazieren, obwohl es regnet.",
+            "ko": "비가 오는데도 나는 산책하러 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ofen",
+    "level": "b1",
+    "zipf": 4.12,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Öfen",
+      "genitive": "Ofens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "oven",
+        "ko": "오븐",
+        "examples": [
+          {
+            "text": "Der Kuchen ist im Ofen.",
+            "ko": "케이크가 오븐 안에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "stove",
+        "ko": "난로, 스토브",
+        "examples": [
+          {
+            "text": "Im Winter heizen wir mit einem Ofen.",
+            "ko": "겨울에는 난로로 난방을 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "offenbar",
+    "level": "b1",
+    "zipf": 4.89,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "offenbarer",
+      "superlative": "am offenbarsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "offen|stem",
+      "-bar|suffix"
+    ],
+    "senses": [
+      {
+        "en": "apparent (evident)",
+        "ko": "분명한, 명백한",
+        "examples": [
+          {
+            "text": "Es ist offenbar, dass er lügt.",
+            "ko": "그가 거짓말하는 것은 분명하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "offiziell",
+    "level": "b1",
+    "zipf": 4.66,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "offizieller",
+      "superlative": "am offiziellsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "official",
+        "ko": "공식적인",
+        "examples": [
+          {
+            "text": "Das ist eine offizielle Einladung.",
+            "ko": "이것은 공식 초대장이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Onkel",
+    "level": "b1",
+    "zipf": 4.28,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Onkel",
+      "genitive": "Onkels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "uncle",
+        "ko": "삼촌, 아저씨",
+        "examples": [
+          {
+            "text": "Mein Onkel wohnt in Berlin.",
+            "ko": "내 삼촌은 베를린에 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Oper",
+    "level": "b1",
+    "zipf": 4.24,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Opern",
+      "genitive": "Oper"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "opera (theatrical work, combining drama, music, song and sometimes dance)",
+        "ko": "오페라",
+        "examples": [
+          {
+            "text": "Ich liebe italienische Opern.",
+            "ko": "나는 이탈리아 오페라를 아주 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "opera house, opera (theatre, or similar building, primarily used for staging opera)",
+        "ko": "오페라 극장",
+        "examples": [
+          {
+            "text": "Wir gehen heute Abend in die Oper.",
+            "ko": "우리는 오늘 저녁에 오페라 극장에 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Operation",
+    "level": "b1",
+    "zipf": 4.49,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Operationen",
+      "genitive": "Operation"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "operation",
+        "ko": "수술, 작전",
+        "examples": [
+          {
+            "text": "Die Operation dauert zwei Stunden.",
+            "ko": "수술은 두 시간 걸린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "operieren",
+    "level": "b1",
+    "zipf": 3.54,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "operiert",
+      "past": "operierte",
+      "pp": "operiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to operate (perform operation)",
+        "ko": "수술하다",
+        "examples": [
+          {
+            "text": "Der Arzt operiert den Patienten morgen.",
+            "ko": "의사는 내일 환자를 수술한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Opfer",
+    "level": "b1",
+    "zipf": 5.01,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Opfer",
+      "genitive": "Opfers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "victim",
+        "ko": "피해자, 희생자",
+        "examples": [
+          {
+            "text": "Die Opfer des Unfalls kommen ins Krankenhaus.",
+            "ko": "사고 피해자들은 병원으로 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "sacrifice",
+        "ko": "희생, 제물",
+        "examples": [
+          {
+            "text": "Sie bringt viele Opfer für ihre Kinder.",
+            "ko": "그녀는 자녀들을 위해 많은 희생을 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "optimistisch",
+    "level": "b1",
+    "zipf": 3.79,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "optimistischer",
+      "superlative": "am optimistischsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "optimistic",
+        "ko": "낙관적인",
+        "examples": [
+          {
+            "text": "Ich bin optimistisch.",
+            "ko": "나는 낙관적이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Orchester",
+    "level": "b1",
+    "zipf": 4.15,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Orchester",
+      "genitive": "Orchesters"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "orchestra",
+        "ko": "오케스트라",
+        "examples": [
+          {
+            "text": "Das Orchester spielt Mozart.",
+            "ko": "오케스트라가 모차르트를 연주한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ordentlich",
+    "level": "b1",
+    "zipf": 4.46,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "ordentlicher",
+      "superlative": "am ordentlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "tidy, orderly",
+        "ko": "단정한, 정돈된",
+        "examples": [
+          {
+            "text": "Sein Zimmer ist immer ordentlich.",
+            "ko": "그의 방은 항상 정돈되어 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "good, proper, big, large, considerable",
+        "ko": "제대로 된, 꽤 많은",
+        "examples": [
+          {
+            "text": "Das war ein ordentliches Essen.",
+            "ko": "그것은 제대로 된 식사였다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ordnen",
+    "level": "b1",
+    "zipf": 3.53,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "ordnet",
+      "past": "ordnete",
+      "pp": "geordnet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to put in order, to order, to arrange",
+        "ko": "정리하다, 정돈하다",
+        "examples": [
+          {
+            "text": "Ich ordne die Papiere nach Datum.",
+            "ko": "나는 서류를 날짜순으로 정리한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ordner",
+    "level": "b1",
+    "zipf": 3.83,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Ordner",
+      "genitive": "Ordners"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "binder, folder",
+        "ko": "바인더, 파일철",
+        "examples": [
+          {
+            "text": "Die Rechnungen sind im Ordner.",
+            "ko": "계산서는 파일철 안에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Original",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Originale",
+      "genitive": "Originals"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "original",
+        "ko": "원본",
+        "examples": [
+          {
+            "text": "Ich habe nur eine Kopie, nicht das Original.",
+            "ko": "나는 복사본만 있고 원본은 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "character; original (one who is charismatic and funny, especially in a way considered typical of a region or a social group)",
+        "ko": "개성 강한 사람",
+        "examples": [
+          {
+            "text": "Unser Nachbar ist ein echtes Original.",
+            "ko": "우리 이웃은 정말 개성 강한 사람이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "original",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "original",
+        "ko": "원래의, 진짜의",
+        "examples": [
+          {
+            "text": "Ist die Uhr original?",
+            "ko": "이 시계는 진품이에요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ozean",
+    "level": "b1",
+    "zipf": 3.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Ozeane",
+      "genitive": "Ozeanes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ocean",
+        "ko": "대양, 바다",
+        "examples": [
+          {
+            "text": "Der Pazifik ist der größte Ozean.",
+            "ko": "태평양은 가장 큰 대양이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "öffentlich",
+    "level": "b1",
+    "zipf": 4.72,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "öffentlicher",
+      "superlative": "am öffentlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "offen|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "public",
+        "ko": "공공의, 공개적인",
+        "examples": [
+          {
+            "text": "Ich fahre mit öffentlichen Verkehrsmitteln.",
+            "ko": "나는 대중교통으로 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Öffentlichkeit",
+    "level": "b1",
+    "zipf": 4.69,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Öffentlichkeit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "öffentlich|stem",
+      "-keit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "public",
+        "ko": "대중, 일반 사람들",
+        "examples": [
+          {
+            "text": "Die Polizei informiert die Öffentlichkeit.",
+            "ko": "경찰이 일반 대중에게 알린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "publicity",
+        "ko": "세간의 관심, 공개",
+        "examples": [
+          {
+            "text": "Der Politiker meidet die Öffentlichkeit.",
+            "ko": "그 정치인은 세간의 시선을 피한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Öko",
+    "level": "b1",
+    "zipf": 3.77,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "eco-, organic (prefix)",
+        "ko": "친환경의, 생태의",
+        "examples": [
+          {
+            "text": "Ich kaufe gern Öko-Gemüse.",
+            "ko": "나는 친환경 채소를 즐겨 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

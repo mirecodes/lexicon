@@ -1,0 +1,817 @@
+[
+  {
+    "word": "Gabel",
+    "level": "a2",
+    "zipf": 3.64,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Gabeln",
+      "genitive": "Gabel"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fork",
+        "ko": "포크",
+        "examples": [
+          {
+            "text": "Ich esse mit Messer und Gabel.",
+            "ko": "나는 나이프와 포크로 먹어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ganz",
+    "level": "a2",
+    "zipf": 5.98,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "entire, whole, complete",
+        "ko": "전체의, 온",
+        "examples": [
+          {
+            "text": "Ich habe den ganzen Tag gearbeitet.",
+            "ko": "나는 하루 종일 일했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "quite, rather",
+        "ko": "꽤, 상당히",
+        "examples": [
+          {
+            "text": "Der Film war ganz gut.",
+            "ko": "그 영화는 꽤 괜찮았어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "whole, intact",
+        "ko": "온전한, 멀쩡한",
+        "examples": [
+          {
+            "text": "Die Tasse ist noch ganz.",
+            "ko": "컵이 아직 멀쩡해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Garage",
+    "level": "a2",
+    "zipf": 4.05,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Garagen",
+      "genitive": "Garage"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "garage (building used to store cars, tools, etc.)",
+        "ko": "차고",
+        "examples": [
+          {
+            "text": "Das Auto steht in der Garage.",
+            "ko": "자동차는 차고에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "geehrt",
+    "level": "a2",
+    "zipf": 3.97,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "honored, esteemed (in letter greetings: Sehr geehrte Damen und Herren)",
+        "ko": "존경하는, 귀하의",
+        "examples": [
+          {
+            "text": "Sehr geehrte Frau Müller, vielen Dank für Ihre Mail.",
+            "ko": "뮐러 님께, 메일 감사합니다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gefährlich",
+    "level": "a2",
+    "zipf": 4.6,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "gefährlicher",
+      "superlative": "am gefährlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Gefahr|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "dangerous, hazardous",
+        "ko": "위험한",
+        "examples": [
+          {
+            "text": "Der Weg ist nachts gefährlich.",
+            "ko": "그 길은 밤에 위험해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gegenteil",
+    "level": "a2",
+    "zipf": 4.59,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Gegenteile",
+      "genitive": "Gegenteiles"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "gegen|stem",
+      "Teil|stem"
+    ],
+    "senses": [
+      {
+        "en": "opposite (contrary thing)",
+        "ko": "반대",
+        "examples": [
+          {
+            "text": "Das Gegenteil von groß ist klein.",
+            "ko": "'크다'의 반대는 '작다'야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gegenüber",
+    "level": "a2",
+    "zipf": 5.27,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "gegen|stem",
+      "über|stem"
+    ],
+    "senses": [
+      {
+        "en": "on the opposite side",
+        "ko": "맞은편에",
+        "examples": [
+          {
+            "text": "Die Bank ist gleich gegenüber.",
+            "ko": "은행은 바로 맞은편에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "opposite, across from (preposition)",
+        "ko": "~의 맞은편에",
+        "examples": [
+          {
+            "text": "Gegenüber dem Bahnhof ist ein Café.",
+            "ko": "역 맞은편에 카페가 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gehalt",
+    "level": "a2",
+    "zipf": 4.38,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Gehalte",
+      "genitive": "Gehalts"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "salary, pay",
+        "ko": "월급, 급여",
+        "examples": [
+          {
+            "text": "Mein Gehalt kommt am Monatsende.",
+            "ko": "내 월급은 월말에 들어와.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Geldbörse",
+    "level": "a2",
+    "zipf": 3.44,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Geldbörsen",
+      "genitive": "Geldbörse"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Geld|stem",
+      "Börse|stem"
+    ],
+    "senses": [
+      {
+        "en": "wallet, purse",
+        "ko": "지갑",
+        "examples": [
+          {
+            "text": "Meine Geldbörse ist weg.",
+            "ko": "내 지갑이 없어졌어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "genau",
+    "level": "a2",
+    "zipf": 5.65,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "genauer",
+      "superlative": "am genauesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "exact",
+        "ko": "정확한",
+        "examples": [
+          {
+            "text": "Die Uhr geht genau.",
+            "ko": "시계가 정확해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "exactly, that's right (as agreement)",
+        "ko": "맞아, 정확히",
+        "examples": [
+          {
+            "text": "Genau, so machen wir das.",
+            "ko": "맞아, 그렇게 하자.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "genug",
+    "level": "a2",
+    "zipf": 5.35,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "enough, sufficient, in an adequate way",
+        "ko": "충분한, 충분히",
+        "examples": [
+          {
+            "text": "Ich habe genug Geld.",
+            "ko": "나는 돈이 충분해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "geradeaus",
+    "level": "a2",
+    "zipf": 3.57,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "gerade|stem",
+      "aus|stem"
+    ],
+    "senses": [
+      {
+        "en": "straight ahead, straightforward (in a forward direction)",
+        "ko": "곧장, 똑바로",
+        "examples": [
+          {
+            "text": "Gehen Sie geradeaus bis zur Ampel.",
+            "ko": "신호등까지 곧장 가세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gericht",
+    "level": "a2",
+    "zipf": 4.82,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Gerichte",
+      "genitive": "Gerichtes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "dish, meal",
+        "ko": "요리, 음식",
+        "examples": [
+          {
+            "text": "Das Gericht schmeckt super.",
+            "ko": "이 요리는 아주 맛있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "court (of justice)",
+        "ko": "법원, 재판",
+        "examples": [
+          {
+            "text": "Der Fall kommt vor Gericht.",
+            "ko": "그 사건은 재판에 넘겨진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gerät",
+    "level": "a2",
+    "zipf": 4.6,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Geräte",
+      "genitive": "Gerätes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "device, tool, appliance, machine",
+        "ko": "기기, 도구",
+        "examples": [
+          {
+            "text": "Dieses Gerät ist kaputt.",
+            "ko": "이 기기는 고장 났어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "equipment, tools",
+        "ko": "장비, 용구",
+        "examples": [
+          {
+            "text": "Das Gerät für den Garten liegt im Keller.",
+            "ko": "정원용 장비는 지하실에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Geschichte",
+    "level": "a2",
+    "zipf": 5.45,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Geschichten",
+      "genitive": "Geschichte"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "story",
+        "ko": "이야기",
+        "examples": [
+          {
+            "text": "Er erzählt eine lustige Geschichte.",
+            "ko": "그는 재미있는 이야기를 해 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "history",
+        "ko": "역사",
+        "examples": [
+          {
+            "text": "In der Schule mag ich Geschichte.",
+            "ko": "학교에서 나는 역사를 좋아해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Geschirr",
+    "level": "a2",
+    "zipf": 3.67,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Geschirres"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "dishware",
+        "ko": "식기",
+        "examples": [
+          {
+            "text": "Ich wasche das Geschirr ab.",
+            "ko": "나는 설거지를 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gesicht",
+    "level": "a2",
+    "zipf": 5.04,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Gesichter",
+      "genitive": "Gesichtes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "face",
+        "ko": "얼굴",
+        "examples": [
+          {
+            "text": "Sie hat ein freundliches Gesicht.",
+            "ko": "그녀는 친절한 얼굴이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "a facial expression, a look",
+        "ko": "표정",
+        "examples": [
+          {
+            "text": "Er macht ein trauriges Gesicht.",
+            "ko": "그는 슬픈 표정을 짓고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gesund",
+    "level": "a2",
+    "zipf": 4.56,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "gesünder",
+      "superlative": "am gesündesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "healthy (enjoying health)",
+        "ko": "건강한",
+        "examples": [
+          {
+            "text": "Ich bin wieder gesund.",
+            "ko": "나는 다시 건강해졌어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "healthy (conducive to health)",
+        "ko": "몸에 좋은",
+        "examples": [
+          {
+            "text": "Obst ist gesund.",
+            "ko": "과일은 몸에 좋아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gesundheit",
+    "level": "a2",
+    "zipf": 4.68,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Gesundheit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "gesund|stem",
+      "-heit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "health (state of being in good physical condition and free from illness)",
+        "ko": "건강",
+        "examples": [
+          {
+            "text": "Gesundheit ist sehr wichtig.",
+            "ko": "건강은 아주 중요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "bless you (said after a sneeze)",
+        "ko": "건강하세요 (재채기 후)",
+        "examples": [
+          {
+            "text": "Hatschi! – Gesundheit!",
+            "ko": "에취! – 건강하세요!",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gewitter",
+    "level": "a2",
+    "zipf": 3.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Gewitter",
+      "genitive": "Gewitters"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "thunderstorm, lightning storm",
+        "ko": "뇌우, 천둥 번개",
+        "examples": [
+          {
+            "text": "Heute Abend gibt es ein Gewitter.",
+            "ko": "오늘 저녁에 뇌우가 와.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Gitarre",
+    "level": "a2",
+    "zipf": 4.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Gitarren",
+      "genitive": "Gitarre"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "guitar",
+        "ko": "기타",
+        "examples": [
+          {
+            "text": "Er spielt Gitarre.",
+            "ko": "그는 기타를 쳐.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Grippe",
+    "level": "a2",
+    "zipf": 3.73,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Grippe"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "flu; influenza; grippe",
+        "ko": "독감",
+        "examples": [
+          {
+            "text": "Ich habe die Grippe.",
+            "ko": "나는 독감에 걸렸어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gültig sein",
+    "level": "a2",
+    "zipf": 4.05,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": false,
+      "present3": "ist gültig",
+      "past": "war gültig",
+      "pp": "gültig gewesen",
+      "aux": "sein"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "gültig|stem",
+      "sein|stem"
+    ],
+    "senses": [
+      {
+        "en": "to be valid",
+        "ko": "유효하다",
+        "examples": [
+          {
+            "text": "Die Fahrkarte ist drei Tage gültig.",
+            "ko": "승차권은 3일간 유효해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

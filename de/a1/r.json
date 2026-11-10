@@ -1,0 +1,691 @@
+[
+  {
+    "word": "Rad fahren",
+    "level": "a1",
+    "zipf": 4.35,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "fährt Rad",
+      "past": "fuhr Rad",
+      "pp": "Rad gefahren",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Rad|stem",
+      "fahren|stem"
+    ],
+    "senses": [
+      {
+        "en": "to cycle, to ride a bike",
+        "ko": "자전거를 타다",
+        "examples": [
+          {
+            "text": "Ich fahre gern Rad.",
+            "ko": "나는 자전거 타는 걸 좋아해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "rauchen",
+    "level": "a1",
+    "zipf": 4.39,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "raucht",
+      "past": "rauchte",
+      "pp": "geraucht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to smoke (tobacco etc.)",
+        "ko": "담배를 피우다",
+        "examples": [
+          {
+            "text": "Hier darf man nicht rauchen.",
+            "ko": "여기서는 담배를 피우면 안 돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to smoke, give off smoke",
+        "ko": "연기를 내다",
+        "examples": [
+          {
+            "text": "Der Schornstein raucht.",
+            "ko": "굴뚝에서 연기가 나.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Raum",
+    "level": "a1",
+    "zipf": 5.11,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Räume",
+      "genitive": "Raumes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "room, chamber",
+        "ko": "방, 실",
+        "examples": [
+          {
+            "text": "Der Raum ist groß und hell.",
+            "ko": "그 방은 크고 밝아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "space",
+        "ko": "공간",
+        "examples": [
+          {
+            "text": "Im Auto ist viel Raum.",
+            "ko": "차 안에 공간이 많아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Rechnung",
+    "level": "a1",
+    "zipf": 4.61,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Rechnungen",
+      "genitive": "Rechnung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "rechnen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "bill, restaurant bill",
+        "ko": "계산서",
+        "examples": [
+          {
+            "text": "Die Rechnung, bitte!",
+            "ko": "계산서 주세요!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "invoice",
+        "ko": "청구서",
+        "examples": [
+          {
+            "text": "Die Rechnung kommt per Post.",
+            "ko": "청구서는 우편으로 와.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "rechts",
+    "level": "a1",
+    "zipf": 5.09,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "on the right",
+        "ko": "오른쪽에",
+        "examples": [
+          {
+            "text": "Das Hotel ist rechts.",
+            "ko": "호텔은 오른쪽에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to the right",
+        "ko": "오른쪽으로",
+        "examples": [
+          {
+            "text": "Gehen Sie bitte rechts.",
+            "ko": "오른쪽으로 가세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Regen",
+    "level": "a1",
+    "zipf": 4.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Regens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "rain",
+        "ko": "비",
+        "examples": [
+          {
+            "text": "Der Regen ist stark.",
+            "ko": "비가 세게 와.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "regnen",
+    "level": "a1",
+    "zipf": 3.59,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "regnet",
+      "past": "regnete",
+      "pp": "geregnet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to rain",
+        "ko": "비가 오다",
+        "examples": [
+          {
+            "text": "Heute regnet es.",
+            "ko": "오늘은 비가 와.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Reis",
+    "level": "a1",
+    "zipf": 4.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Reises"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "rice",
+        "ko": "쌀, 밥",
+        "examples": [
+          {
+            "text": "Ich esse Reis mit Gemüse.",
+            "ko": "나는 채소와 함께 밥을 먹어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Reise",
+    "level": "a1",
+    "zipf": 4.9,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Reisen",
+      "genitive": "Reise"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "journey, travel",
+        "ko": "여행",
+        "examples": [
+          {
+            "text": "Gute Reise!",
+            "ko": "즐거운 여행 되세요!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Reisebüro",
+    "level": "a1",
+    "zipf": 3.29,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Reisebüros",
+      "genitive": "Reisebüros"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Reise|stem",
+      "Büro|stem"
+    ],
+    "senses": [
+      {
+        "en": "travel agency",
+        "ko": "여행사",
+        "examples": [
+          {
+            "text": "Wir buchen die Reise im Reisebüro.",
+            "ko": "우리는 여행사에서 여행을 예약해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Reiseführer",
+    "level": "a1",
+    "zipf": 3.47,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Reiseführer",
+      "genitive": "Reiseführers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Reise|stem",
+      "Führer|stem"
+    ],
+    "senses": [
+      {
+        "en": "tourist guide, tour guide",
+        "ko": "여행 가이드",
+        "examples": [
+          {
+            "text": "Der Reiseführer zeigt uns die Stadt.",
+            "ko": "가이드가 우리에게 도시를 보여 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "travel guide",
+        "ko": "여행 안내서",
+        "examples": [
+          {
+            "text": "Ich lese einen Reiseführer über Wien.",
+            "ko": "나는 빈 여행 안내서를 읽어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "reisen",
+    "level": "a1",
+    "zipf": 4.68,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "reist",
+      "past": "reiste",
+      "pp": "gereist",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to travel",
+        "ko": "여행하다",
+        "examples": [
+          {
+            "text": "Wir reisen gern.",
+            "ko": "우리는 여행하는 걸 좋아해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Reparatur",
+    "level": "a1",
+    "zipf": 3.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Reparaturen",
+      "genitive": "Reparatur"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "repair, mending",
+        "ko": "수리",
+        "examples": [
+          {
+            "text": "Die Reparatur kostet fünfzig Euro.",
+            "ko": "수리비는 50유로야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "reparieren",
+    "level": "a1",
+    "zipf": 3.87,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "repariert",
+      "past": "reparierte",
+      "pp": "repariert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to repair",
+        "ko": "수리하다, 고치다",
+        "examples": [
+          {
+            "text": "Er repariert mein Fahrrad.",
+            "ko": "그가 내 자전거를 고쳐 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Restaurant",
+    "level": "a1",
+    "zipf": 4.53,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Restaurants",
+      "genitive": "Restaurants"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "restaurant",
+        "ko": "식당, 레스토랑",
+        "examples": [
+          {
+            "text": "Wir essen im Restaurant.",
+            "ko": "우리는 식당에서 먹어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Rezeption",
+    "level": "a1",
+    "zipf": 3.9,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Rezeptionen",
+      "genitive": "Rezeption"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "reception (desk of a hotel or office where guests are received)",
+        "ko": "접수처, 프런트",
+        "examples": [
+          {
+            "text": "Fragen Sie bitte an der Rezeption.",
+            "ko": "프런트에 물어보세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "richtig",
+    "level": "a1",
+    "zipf": 5.58,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "richtiger",
+      "superlative": "am richtigsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "correct, accurate, right",
+        "ko": "맞는, 정확한",
+        "examples": [
+          {
+            "text": "Die Antwort ist richtig.",
+            "ko": "답이 맞아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "proper, real, actual",
+        "ko": "진짜의, 제대로 된",
+        "examples": [
+          {
+            "text": "Das ist ein richtiges Problem.",
+            "ko": "이건 진짜 문제야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "riechen",
+    "level": "a1",
+    "zipf": 3.86,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "riecht",
+      "past": "roch",
+      "pp": "gerochen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to smell (something); to sniff (something)",
+        "ko": "냄새를 맡다",
+        "examples": [
+          {
+            "text": "Ich rieche an der Blume.",
+            "ko": "나는 꽃 냄새를 맡아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to smell",
+        "ko": "냄새가 나다",
+        "examples": [
+          {
+            "text": "Die Suppe riecht gut.",
+            "ko": "수프에서 좋은 냄새가 나.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ruhig",
+    "level": "a1",
+    "zipf": 4.76,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "ruhiger",
+      "superlative": "am ruhigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Ruhe|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "quiet",
+        "ko": "조용한",
+        "examples": [
+          {
+            "text": "Die Straße ist ruhig.",
+            "ko": "그 거리는 조용해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "calm",
+        "ko": "차분한, 침착한",
+        "examples": [
+          {
+            "text": "Bleib ruhig!",
+            "ko": "침착해!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

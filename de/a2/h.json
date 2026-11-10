@@ -1,0 +1,951 @@
+[
+  {
+    "word": "Hals",
+    "level": "a2",
+    "zipf": 4.46,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Hälse",
+      "genitive": "Halses"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "neck",
+        "ko": "목",
+        "examples": [
+          {
+            "text": "Der Pullover hat einen hohen Hals.",
+            "ko": "그 스웨터는 목이 높아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "throat",
+        "ko": "목구멍, 목",
+        "examples": [
+          {
+            "text": "Mein Hals tut weh.",
+            "ko": "목이 아파.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Hamburger",
+    "level": "a2",
+    "zipf": 4.6,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Hamburger",
+      "genitive": "Hamburgers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hamburger (food)",
+        "ko": "햄버거",
+        "examples": [
+          {
+            "text": "Ich esse einen Hamburger.",
+            "ko": "나는 햄버거를 먹어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "Hamburger (person)",
+        "ko": "함부르크 사람",
+        "examples": [
+          {
+            "text": "Der Hamburger liebt seinen Hafen.",
+            "ko": "그 함부르크 사람은 자기 항구를 사랑해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Handtuch",
+    "level": "a2",
+    "zipf": 3.75,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Handtücher",
+      "genitive": "Handtuches"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Hand|stem",
+      "Tuch|stem"
+    ],
+    "senses": [
+      {
+        "en": "towel (cloth for wiping)",
+        "ko": "수건",
+        "examples": [
+          {
+            "text": "Ich brauche ein Handtuch.",
+            "ko": "나는 수건이 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hart",
+    "level": "a2",
+    "zipf": 4.89,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "härter",
+      "superlative": "am härtesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hard",
+        "ko": "딱딱한, 단단한",
+        "examples": [
+          {
+            "text": "Das Brot ist hart.",
+            "ko": "빵이 딱딱해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "severe, harsh",
+        "ko": "가혹한, 혹독한",
+        "examples": [
+          {
+            "text": "Das war ein harter Winter.",
+            "ko": "혹독한 겨울이었어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Hauptstadt",
+    "level": "a2",
+    "zipf": 4.56,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Hauptstädte",
+      "genitive": "Hauptstadt"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Haupt|stem",
+      "Stadt|stem"
+    ],
+    "senses": [
+      {
+        "en": "capital (city)",
+        "ko": "수도",
+        "examples": [
+          {
+            "text": "Berlin ist die Hauptstadt von Deutschland.",
+            "ko": "베를린은 독일의 수도야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Haushalt",
+    "level": "a2",
+    "zipf": 4.35,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Haushalte",
+      "genitive": "Haushaltes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Haus|stem",
+      "halten|stem"
+    ],
+    "senses": [
+      {
+        "en": "household (collectively, all the persons who live in a given home)",
+        "ko": "가구, 가정",
+        "examples": [
+          {
+            "text": "In unserem Haushalt leben vier Personen.",
+            "ko": "우리 집에는 네 명이 살아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "housework (domestic chores)",
+        "ko": "집안일",
+        "examples": [
+          {
+            "text": "Er macht den Haushalt allein.",
+            "ko": "그는 집안일을 혼자 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "budget (itemized summary of intended expenditure and expected revenue)",
+        "ko": "예산",
+        "examples": [
+          {
+            "text": "Der Haushalt der Stadt ist klein.",
+            "ko": "그 도시의 예산은 적어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Heft",
+    "level": "a2",
+    "zipf": 4.33,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Hefte",
+      "genitive": "Heftes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "notebook, writing booklet, cahier, composition book (book in which notes or memoranda are written)",
+        "ko": "공책",
+        "examples": [
+          {
+            "text": "Schreib das bitte in dein Heft.",
+            "ko": "이걸 네 공책에 써 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "number, issue (single edition of a periodical publication)",
+        "ko": "(잡지) 호",
+        "examples": [
+          {
+            "text": "Das neue Heft erscheint im Mai.",
+            "ko": "새 호는 5월에 나와.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "heiß",
+    "level": "a2",
+    "zipf": 4.61,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "heißer",
+      "superlative": "am heißesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hot (having a high temperature)",
+        "ko": "뜨거운, 더운",
+        "examples": [
+          {
+            "text": "Der Tee ist sehr heiß.",
+            "ko": "차가 아주 뜨거워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Heizung",
+    "level": "a2",
+    "zipf": 4.01,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Heizungen",
+      "genitive": "Heizung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "heizen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "heating (a system that raises the temperature of a room or building)",
+        "ko": "난방",
+        "examples": [
+          {
+            "text": "Die Heizung ist kaputt.",
+            "ko": "난방이 고장 났어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "radiator",
+        "ko": "라디에이터, 난방기",
+        "examples": [
+          {
+            "text": "Die Heizung unter dem Fenster ist warm.",
+            "ko": "창문 아래 난방기가 따뜻해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Hemd",
+    "level": "a2",
+    "zipf": 4.03,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Hemden",
+      "genitive": "Hemdes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "shirt",
+        "ko": "셔츠",
+        "examples": [
+          {
+            "text": "Er trägt ein weißes Hemd.",
+            "ko": "그는 흰 셔츠를 입고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "her",
+    "level": "a2",
+    "zipf": 5.25,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hither, to this place, to here, to me/us",
+        "ko": "이쪽으로",
+        "examples": [
+          {
+            "text": "Komm bitte her!",
+            "ko": "이리 와!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "ago",
+        "ko": "~ 전에",
+        "examples": [
+          {
+            "text": "Das ist schon lange her.",
+            "ko": "그건 벌써 오래전 일이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "heraus",
+    "level": "a2",
+    "zipf": 5.01,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "her|stem",
+      "aus|stem"
+    ],
+    "senses": [
+      {
+        "en": "out of (in the direction of the speaker); out over here; out from there",
+        "ko": "밖으로 (이쪽으로)",
+        "examples": [
+          {
+            "text": "Komm heraus, es ist schön draußen!",
+            "ko": "나와, 밖이 좋아!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "herein",
+    "level": "a2",
+    "zipf": 3.94,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "her|stem",
+      "ein|stem"
+    ],
+    "senses": [
+      {
+        "en": "in (in the direction of the speaker)",
+        "ko": "안으로 (이쪽으로)",
+        "examples": [
+          {
+            "text": "Kommen Sie bitte herein.",
+            "ko": "들어오세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "herstellen",
+    "level": "a2",
+    "zipf": 4.07,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "stellt her",
+      "past": "stellte her",
+      "pp": "hergestellt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "her"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "her|sep",
+      "stellen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to produce, manufacture",
+        "ko": "생산하다, 제조하다",
+        "examples": [
+          {
+            "text": "Die Firma stellt Autos her.",
+            "ko": "그 회사는 자동차를 만들어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to establish, make, install, connect",
+        "ko": "연결하다, 마련하다",
+        "examples": [
+          {
+            "text": "Ich stelle eine Verbindung zum Internet her.",
+            "ko": "나는 인터넷에 연결해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "herunterladen",
+    "level": "a2",
+    "zipf": 3.55,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "lädt herunter",
+      "past": "lud herunter",
+      "pp": "heruntergeladen",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "herunter"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "herunter|sep",
+      "laden|stem"
+    ],
+    "senses": [
+      {
+        "en": "to download (to transfer data from a remote computer to a local one)",
+        "ko": "다운로드하다",
+        "examples": [
+          {
+            "text": "Ich lade die App herunter.",
+            "ko": "나는 앱을 다운로드해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Himmel",
+    "level": "a2",
+    "zipf": 4.82,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Himmels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sky",
+        "ko": "하늘",
+        "examples": [
+          {
+            "text": "Der Himmel ist heute blau.",
+            "ko": "하늘이 오늘 파래.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "heaven",
+        "ko": "천국",
+        "examples": [
+          {
+            "text": "Sie glaubt an den Himmel.",
+            "ko": "그녀는 천국을 믿어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hin",
+    "level": "a2",
+    "zipf": 5.44,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "there, to that place (away from the speaker)",
+        "ko": "저쪽으로",
+        "examples": [
+          {
+            "text": "Wo willst du denn hin?",
+            "ko": "너 도대체 어디 가려고?",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "dead or out of order, kaput",
+        "ko": "고장 난, 끝난",
+        "examples": [
+          {
+            "text": "Mein Handy ist hin.",
+            "ko": "내 휴대폰이 맛이 갔어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hinter",
+    "level": "a2",
+    "zipf": 5.32,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "behind",
+        "ko": "~ 뒤에",
+        "examples": [
+          {
+            "text": "Der Hund sitzt hinter dem Haus.",
+            "ko": "개가 집 뒤에 앉아 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "behind, to the back of (direction)",
+        "ko": "~ 뒤로",
+        "examples": [
+          {
+            "text": "Er läuft hinter das Haus.",
+            "ko": "그는 집 뒤로 달려가.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hoffen",
+    "level": "a2",
+    "zipf": 4.67,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "hofft",
+      "past": "hoffte",
+      "pp": "gehofft",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to hope",
+        "ko": "바라다, 희망하다",
+        "examples": [
+          {
+            "text": "Ich hoffe auf gutes Wetter.",
+            "ko": "나는 좋은 날씨를 바라.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hoffentlich",
+    "level": "a2",
+    "zipf": 4.74,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "hoffen|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "hopefully (it is hoped that)",
+        "ko": "부디, 바라건대",
+        "examples": [
+          {
+            "text": "Hoffentlich regnet es morgen nicht.",
+            "ko": "내일 비가 안 왔으면 좋겠어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Homepage",
+    "level": "a2",
+    "zipf": 4.59,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Homepages",
+      "genitive": "Homepage"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "homepage",
+        "ko": "홈페이지",
+        "examples": [
+          {
+            "text": "Die Firma hat eine neue Homepage.",
+            "ko": "그 회사는 새 홈페이지가 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Hose",
+    "level": "a2",
+    "zipf": 4.44,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Hosen",
+      "genitive": "Hose"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "trousers",
+        "ko": "바지",
+        "examples": [
+          {
+            "text": "Die Hose ist zu klein.",
+            "ko": "바지가 너무 작아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "husten",
+    "level": "a2",
+    "zipf": 3.81,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to cough",
+        "ko": "기침하다",
+        "examples": [
+          {
+            "text": "Er hustet die ganze Nacht.",
+            "ko": "그는 밤새 기침해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "cough",
+        "ko": "기침",
+        "examples": [
+          {
+            "text": "Ich habe einen starken Husten.",
+            "ko": "나는 기침이 심해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hängen",
+    "level": "a2",
+    "zipf": 4.6,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "hängt",
+      "past": "hing",
+      "pp": "gehangen",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to hang, to be suspended",
+        "ko": "걸려 있다",
+        "examples": [
+          {
+            "text": "Das Bild hängt an der Wand.",
+            "ko": "그림이 벽에 걸려 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to hang, to suspend",
+        "ko": "걸다",
+        "examples": [
+          {
+            "text": "Ich hänge die Jacke an den Haken.",
+            "ko": "나는 재킷을 고리에 걸어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to depend",
+        "ko": "~에 달려 있다",
+        "examples": [
+          {
+            "text": "Das hängt vom Wetter ab.",
+            "ko": "그건 날씨에 달려 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hässlich",
+    "level": "a2",
+    "zipf": 4.02,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "hässlicher",
+      "superlative": "am hässlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Hass|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "ugly",
+        "ko": "못생긴, 추한",
+        "examples": [
+          {
+            "text": "Das Haus ist hässlich.",
+            "ko": "그 집은 못생겼어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

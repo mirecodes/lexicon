@@ -1,0 +1,2139 @@
+[
+  {
+    "word": "zahlreich",
+    "level": "b1",
+    "zipf": 3.68,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "zahlreicher",
+      "superlative": "am zahlreichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Zahl|stem",
+      "-reich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "numerous",
+        "ko": "수많은",
+        "examples": [
+          {
+            "text": "Zahlreiche Gäste sind gekommen.",
+            "ko": "수많은 손님이 왔다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zahlung",
+    "level": "b1",
+    "zipf": 4.1,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zahlungen",
+      "genitive": "Zahlung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zahlen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "payment",
+        "ko": "지불, 결제",
+        "examples": [
+          {
+            "text": "Die Zahlung erfolgt per Karte.",
+            "ko": "결제는 카드로 이루어진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zahnbürste",
+    "level": "b1",
+    "zipf": 3.43,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zahnbürsten",
+      "genitive": "Zahnbürste"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Zahn|stem",
+      "Bürste|stem"
+    ],
+    "senses": [
+      {
+        "en": "toothbrush",
+        "ko": "칫솔",
+        "examples": [
+          {
+            "text": "Meine Zahnbürste ist neu.",
+            "ko": "내 칫솔은 새것이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zahncreme",
+    "level": "b1",
+    "zipf": 2.4,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zahncremes",
+      "genitive": "Zahncreme"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Zahn|stem",
+      "Creme|stem"
+    ],
+    "senses": [
+      {
+        "en": "toothpaste",
+        "ko": "치약",
+        "examples": [
+          {
+            "text": "Die Zahncreme ist leer.",
+            "ko": "치약이 다 떨어졌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zange",
+    "level": "b1",
+    "zipf": 3.29,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zangen",
+      "genitive": "Zange"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a pair of pincers, pliers, tongs, forceps",
+        "ko": "집게, 펜치",
+        "examples": [
+          {
+            "text": "Gib mir bitte die Zange.",
+            "ko": "펜치 좀 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zeichen",
+    "level": "b1",
+    "zipf": 4.88,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Zeichen",
+      "genitive": "Zeichens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sign, token (object representing something)",
+        "ko": "표시, 기호",
+        "examples": [
+          {
+            "text": "Das Zeichen bedeutet Parkverbot.",
+            "ko": "그 표지는 주차 금지를 뜻한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "signal (gesture, command or other indication to announce or alert)",
+        "ko": "신호",
+        "examples": [
+          {
+            "text": "Er gibt mir ein Zeichen.",
+            "ko": "그가 나에게 신호를 보낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "sign, indication (fact that reveals an underlying state)",
+        "ko": "징후, 조짐",
+        "examples": [
+          {
+            "text": "Das ist ein gutes Zeichen.",
+            "ko": "그건 좋은 징조다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zeichnung",
+    "level": "b1",
+    "zipf": 3.99,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zeichnungen",
+      "genitive": "Zeichnung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zeichnen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "drawing",
+        "ko": "그림, 소묘",
+        "examples": [
+          {
+            "text": "Das Kind zeigt mir seine Zeichnung.",
+            "ko": "아이가 나에게 자기 그림을 보여 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zeile",
+    "level": "b1",
+    "zipf": 3.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zeilen",
+      "genitive": "Zeile"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "in a text or table",
+        "ko": "줄, 행",
+        "examples": [
+          {
+            "text": "Lies bitte die erste Zeile vor.",
+            "ko": "첫 줄을 읽어 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zeitpunkt",
+    "level": "b1",
+    "zipf": 4.86,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zeitpunkte",
+      "genitive": "Zeitpunktes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Zeit|stem",
+      "Punkt|stem"
+    ],
+    "senses": [
+      {
+        "en": "moment (instant of time), point in time, a timepoint",
+        "ko": "시점, 때",
+        "examples": [
+          {
+            "text": "Der Zeitpunkt ist nicht gut.",
+            "ko": "지금은 시기가 좋지 않다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zelten",
+    "level": "b1",
+    "zipf": 3.48,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "zeltet",
+      "past": "zeltete",
+      "pp": "gezeltet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Zelt|stem"
+    ],
+    "senses": [
+      {
+        "en": "to camp, tent (to stay in the outdoors in a tent)",
+        "ko": "텐트에서 야영하다",
+        "examples": [
+          {
+            "text": "Im Sommer zelten wir am See.",
+            "ko": "여름에 우리는 호숫가에서 야영한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zentral",
+    "level": "b1",
+    "zipf": 4.09,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "zentraler",
+      "superlative": "am zentralsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "central",
+        "ko": "중심의, 중앙의",
+        "examples": [
+          {
+            "text": "Die Wohnung liegt sehr zentral.",
+            "ko": "그 집은 아주 중심가에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zerstören",
+    "level": "b1",
+    "zipf": 4.29,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "zerstört",
+      "past": "zerstörte",
+      "pp": "zerstört",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zer|insep",
+      "stören|stem"
+    ],
+    "senses": [
+      {
+        "en": "to destroy, demolish, devastate, eliminate",
+        "ko": "파괴하다, 부수다",
+        "examples": [
+          {
+            "text": "Der Sturm zerstört das Dach.",
+            "ko": "폭풍이 지붕을 부순다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zertifikat",
+    "level": "b1",
+    "zipf": 3.59,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Zertifikate",
+      "genitive": "Zertifikates"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "certificate",
+        "ko": "증명서, 수료증",
+        "examples": [
+          {
+            "text": "Ich habe ein Zertifikat für den Deutschkurs.",
+            "ko": "나는 독일어 수업 수료증이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zeug",
+    "level": "b1",
+    "zipf": 4.56,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Zeuge",
+      "genitive": "Zeuges"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "stuff, gear, equipment",
+        "ko": "물건, 장비",
+        "examples": [
+          {
+            "text": "Pack dein Zeug zusammen!",
+            "ko": "네 물건 챙겨!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "garbage, rubbish, anything bad or harmful",
+        "ko": "쓸데없는 것, 쓰레기",
+        "examples": [
+          {
+            "text": "Red nicht so dummes Zeug!",
+            "ko": "그렇게 바보 같은 소리 하지 마!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zeuge",
+    "level": "b1",
+    "zipf": 4.15,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zeugen",
+      "genitive": "Zeugen"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "witness, wit (slang), deponent, attestor (attester), voucher (male or of unspecified gender)",
+        "ko": "증인, 목격자",
+        "examples": [
+          {
+            "text": "Der Zeuge sagt vor Gericht aus.",
+            "ko": "증인이 법정에서 증언한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zeugin",
+    "level": "b1",
+    "zipf": 3.64,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zeuginnen",
+      "genitive": "Zeugin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Zeuge|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "witness (female)",
+        "ko": "여성 증인, 여성 목격자",
+        "examples": [
+          {
+            "text": "Die Zeugin hat den Unfall gesehen.",
+            "ko": "여성 목격자가 사고를 보았다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ziehen",
+    "level": "b1",
+    "zipf": 5.05,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "zieht",
+      "past": "zog",
+      "pp": "gezogen",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to pull; to drag",
+        "ko": "당기다, 끌다",
+        "examples": [
+          {
+            "text": "Bitte ziehen Sie die Tür.",
+            "ko": "문을 당겨 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to move; to migrate",
+        "ko": "이사하다, 이동하다",
+        "examples": [
+          {
+            "text": "Sie zieht nächsten Monat nach Wien.",
+            "ko": "그녀는 다음 달에 빈으로 이사한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to draw (a conclusion, lesson, etc.)",
+        "ko": "(결론을) 내리다",
+        "examples": [
+          {
+            "text": "Aus dem Fehler ziehen wir eine Lehre.",
+            "ko": "우리는 그 실수에서 교훈을 얻는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ziemlich",
+    "level": "b1",
+    "zipf": 5.18,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "considerable, sizable",
+        "ko": "꽤 큰, 상당한",
+        "examples": [
+          {
+            "text": "Das ist eine ziemliche Menge.",
+            "ko": "그건 상당한 양이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zinsen",
+    "level": "b1",
+    "zipf": 4.28,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "interest (on money)",
+        "ko": "이자",
+        "examples": [
+          {
+            "text": "Die Bank zahlt kaum Zinsen.",
+            "ko": "은행은 이자를 거의 주지 않는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zone",
+    "level": "b1",
+    "zipf": 4.31,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zonen",
+      "genitive": "Zone"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "zone",
+        "ko": "구역, 지대",
+        "examples": [
+          {
+            "text": "Hier ist eine Zone für Fußgänger.",
+            "ko": "여기는 보행자 구역이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zubereiten",
+    "level": "b1",
+    "zipf": 3.35,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "bereitet zu",
+      "past": "bereitete zu",
+      "pp": "zubereitet",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "zu"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|sep",
+      "bereiten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to prepare",
+        "ko": "(요리를) 준비하다, 만들다",
+        "examples": [
+          {
+            "text": "Ich bereite das Abendessen zu.",
+            "ko": "나는 저녁 식사를 준비한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zufall",
+    "level": "b1",
+    "zipf": 4.46,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zufälle",
+      "genitive": "Zufalles"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|stem",
+      "Fall|stem"
+    ],
+    "senses": [
+      {
+        "en": "chance, coincidence, randomness",
+        "ko": "우연",
+        "examples": [
+          {
+            "text": "Das war reiner Zufall.",
+            "ko": "그건 순전히 우연이었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zufällig",
+    "level": "b1",
+    "zipf": 4.52,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Zufall|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "random, by chance or stochastic",
+        "ko": "우연한, 무작위의",
+        "examples": [
+          {
+            "text": "Ich habe ihn zufällig getroffen.",
+            "ko": "나는 그를 우연히 만났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zugang",
+    "level": "b1",
+    "zipf": 4.6,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zugänge",
+      "genitive": "Zuganges"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|stem",
+      "Gang|stem"
+    ],
+    "senses": [
+      {
+        "en": "access",
+        "ko": "접근, 이용 권한",
+        "examples": [
+          {
+            "text": "Ich habe keinen Zugang zum Internet.",
+            "ko": "나는 인터넷에 접속할 수 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "entrance",
+        "ko": "입구, 출입구",
+        "examples": [
+          {
+            "text": "Der Zugang zum Bahnsteig ist links.",
+            "ko": "승강장 입구는 왼쪽이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zugehen",
+    "level": "b1",
+    "zipf": 3.54,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "geht zu",
+      "past": "ging zu",
+      "pp": "zugegangen",
+      "aux": "sein",
+      "separable": true,
+      "prefix": "zu"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|sep",
+      "gehen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to shut",
+        "ko": "닫히다",
+        "examples": [
+          {
+            "text": "Die Tür geht nicht zu.",
+            "ko": "문이 닫히지 않는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to approach sth. or so., to step up to someone, to walk towards",
+        "ko": "다가가다",
+        "examples": [
+          {
+            "text": "Er geht auf die Frau zu.",
+            "ko": "그는 그 여자에게 다가간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zugänglich",
+    "level": "b1",
+    "zipf": 4.29,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "zugänglicher",
+      "superlative": "am zugänglichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Zugang|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "accessible, open, able to be factually or legally reached or accessed",
+        "ko": "접근 가능한, 이용할 수 있는",
+        "examples": [
+          {
+            "text": "Das Museum ist für alle zugänglich.",
+            "ko": "그 박물관은 모두가 이용할 수 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zuhause",
+    "level": "b1",
+    "zipf": 4.77,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Zuhauses"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|stem",
+      "Haus|stem"
+    ],
+    "senses": [
+      {
+        "en": "one’s living premises, home",
+        "ko": "집, 보금자리",
+        "examples": [
+          {
+            "text": "Ich habe ein schönes Zuhause.",
+            "ko": "나는 좋은 집이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zuhörer",
+    "level": "b1",
+    "zipf": 3.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zuhörer",
+      "genitive": "Zuhörers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zuhören|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "agent noun of zuhören; listener",
+        "ko": "청자, 듣는 사람",
+        "examples": [
+          {
+            "text": "Der Zuhörer stellt eine Frage.",
+            "ko": "청중 한 명이 질문을 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "audience",
+        "ko": "청중",
+        "examples": [
+          {
+            "text": "Die Zuhörer klatschen laut.",
+            "ko": "청중이 크게 박수를 친다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zuhörerin",
+    "level": "b1",
+    "zipf": 2.27,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zuhörerinnen",
+      "genitive": "Zuhörerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Zuhörer|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Zuhörer: listener",
+        "ko": "여성 청자, 여성 청중",
+        "examples": [
+          {
+            "text": "Die Zuhörerin hat eine Frage.",
+            "ko": "여성 청중이 질문이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zukunft",
+    "level": "b1",
+    "zipf": 5.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zukünfte",
+      "genitive": "Zukunft"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|stem",
+      "Kunft|stem"
+    ],
+    "senses": [
+      {
+        "en": "future",
+        "ko": "미래",
+        "examples": [
+          {
+            "text": "Was machst du in der Zukunft?",
+            "ko": "너는 앞으로 뭐 할 거야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "future tense",
+        "ko": "미래 시제",
+        "examples": [
+          {
+            "text": "Wir lernen heute die Zukunft in Deutsch.",
+            "ko": "오늘 우리는 독일어 미래 시제를 배운다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zukünftig",
+    "level": "b1",
+    "zipf": 4.0,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Zukunft|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "future",
+        "ko": "미래의, 장래의",
+        "examples": [
+          {
+            "text": "Meine zukünftige Frau heißt Anna.",
+            "ko": "내 미래의 아내는 안나다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "prospective",
+        "ko": "장차 ~할, 예비의",
+        "examples": [
+          {
+            "text": "Wir begrüßen die zukünftigen Studenten.",
+            "ko": "우리는 예비 대학생들을 환영한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zumindest",
+    "level": "b1",
+    "zipf": 5.07,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|stem",
+      "mindest|stem"
+    ],
+    "senses": [
+      {
+        "en": "at least",
+        "ko": "적어도",
+        "examples": [
+          {
+            "text": "Ruf mich zumindest kurz an.",
+            "ko": "적어도 잠깐 전화는 해 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zunehmen",
+    "level": "b1",
+    "zipf": 3.66,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "nimmt zu",
+      "past": "nahm zu",
+      "pp": "zugenommen",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "zu"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|sep",
+      "nehmen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to increase",
+        "ko": "늘다, 증가하다",
+        "examples": [
+          {
+            "text": "Der Verkehr nimmt jedes Jahr zu.",
+            "ko": "교통량이 해마다 늘어난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to gain weight",
+        "ko": "살이 찌다",
+        "examples": [
+          {
+            "text": "Im Winter nehme ich oft zu.",
+            "ko": "겨울에는 나는 자주 살이 찐다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zunächst",
+    "level": "b1",
+    "zipf": 5.24,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "first, first of all, in the first place, to begin with, initially",
+        "ko": "우선, 처음에",
+        "examples": [
+          {
+            "text": "Zunächst trinken wir einen Kaffee.",
+            "ko": "우선 커피부터 한 잔 마시자.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "for now, for the time being",
+        "ko": "당분간, 일단",
+        "examples": [
+          {
+            "text": "Das ist zunächst genug.",
+            "ko": "일단은 그거면 충분하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zurechtkommen",
+    "level": "b1",
+    "zipf": 3.09,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "kommt zurecht",
+      "past": "kam zurecht",
+      "pp": "zurechtgekommen",
+      "aux": "sein",
+      "separable": true,
+      "prefix": "zurecht"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zurecht|sep",
+      "kommen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to get along, to manage, to do well",
+        "ko": "잘 해내다, 잘 지내다",
+        "examples": [
+          {
+            "text": "Kommst du mit dem Computer zurecht?",
+            "ko": "컴퓨터 잘 다룰 수 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to get on, get along",
+        "ko": "사이좋게 지내다",
+        "examples": [
+          {
+            "text": "Ich komme gut mit meinem Chef zurecht.",
+            "ko": "나는 상사와 잘 지낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zusagen",
+    "level": "b1",
+    "zipf": 3.62,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "sagt zu",
+      "past": "sagte zu",
+      "pp": "zugesagt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "zu"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|sep",
+      "sagen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to accept, to promise to come",
+        "ko": "참석하겠다고 답하다",
+        "examples": [
+          {
+            "text": "Sie sagt der Einladung zu.",
+            "ko": "그녀는 초대에 참석하겠다고 답한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to please; to appeal to",
+        "ko": "마음에 들다",
+        "examples": [
+          {
+            "text": "Die Wohnung sagt mir sehr zu.",
+            "ko": "그 집은 내 마음에 쏙 든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zusammenarbeit",
+    "level": "b1",
+    "zipf": 4.78,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zusammenarbeiten",
+      "genitive": "Zusammenarbeit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zusammen|stem",
+      "Arbeit|stem"
+    ],
+    "senses": [
+      {
+        "en": "collaboration, cooperation, teamwork",
+        "ko": "협력, 협업",
+        "examples": [
+          {
+            "text": "Die Zusammenarbeit klappt gut.",
+            "ko": "협업이 잘 된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zusammenfassen",
+    "level": "b1",
+    "zipf": 3.55,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "fasst zusammen",
+      "past": "fasste zusammen",
+      "pp": "zusammengefasst",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "zusammen"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zusammen|sep",
+      "fassen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to summarize, to sum up",
+        "ko": "요약하다",
+        "examples": [
+          {
+            "text": "Ich fasse den Text kurz zusammen.",
+            "ko": "나는 그 글을 짧게 요약한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zusammenhang",
+    "level": "b1",
+    "zipf": 4.87,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zusammenhänge",
+      "genitive": "Zusammenhanges"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zusammen|stem",
+      "Hang|stem"
+    ],
+    "senses": [
+      {
+        "en": "interrelation, correlation, connection, connectivity, relation, nexus, link",
+        "ko": "관련, 연관",
+        "examples": [
+          {
+            "text": "Es gibt keinen Zusammenhang zwischen beiden.",
+            "ko": "둘 사이에는 아무 연관이 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "context",
+        "ko": "맥락",
+        "examples": [
+          {
+            "text": "Im Zusammenhang ist der Satz klar.",
+            "ko": "맥락 속에서는 그 문장이 분명하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zuschauen",
+    "level": "b1",
+    "zipf": 3.79,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "schaut zu",
+      "past": "schaute zu",
+      "pp": "zugeschaut",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "zu"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|sep",
+      "schauen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to watch",
+        "ko": "구경하다, 지켜보다",
+        "examples": [
+          {
+            "text": "Ich schaue den Kindern beim Spielen zu.",
+            "ko": "나는 아이들이 노는 것을 지켜본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zuschauer",
+    "level": "b1",
+    "zipf": 4.64,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zuschauer",
+      "genitive": "Zuschauers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zuschauen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "spectator",
+        "ko": "관객, 구경꾼",
+        "examples": [
+          {
+            "text": "Im Stadion sind viele Zuschauer.",
+            "ko": "경기장에 관중이 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "viewer",
+        "ko": "시청자",
+        "examples": [
+          {
+            "text": "Die Zuschauer sehen die Sendung zu Hause.",
+            "ko": "시청자들은 집에서 방송을 본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zuschlag",
+    "level": "b1",
+    "zipf": 3.61,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zuschläge",
+      "genitive": "Zuschlages"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|stem",
+      "Schlag|stem"
+    ],
+    "senses": [
+      {
+        "en": "surcharge, additional charge, extra fee",
+        "ko": "추가 요금",
+        "examples": [
+          {
+            "text": "Für den Schnellzug zahlt man einen Zuschlag.",
+            "ko": "급행열차는 추가 요금을 낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "extra pay, bonus, premium, compensation, supplement (for example for weekend or holiday work)",
+        "ko": "수당, 할증",
+        "examples": [
+          {
+            "text": "Am Sonntag gibt es einen Zuschlag.",
+            "ko": "일요일에는 수당이 붙는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zustand",
+    "level": "b1",
+    "zipf": 4.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zustände",
+      "genitive": "Zustandes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|stem",
+      "Stand|stem"
+    ],
+    "senses": [
+      {
+        "en": "condition; state",
+        "ko": "상태",
+        "examples": [
+          {
+            "text": "Der Zustand des Patienten ist gut.",
+            "ko": "환자의 상태는 좋다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zustimmen",
+    "level": "b1",
+    "zipf": 4.1,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "stimmt zu",
+      "past": "stimmte zu",
+      "pp": "zugestimmt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "zu"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|sep",
+      "stimmen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to agree",
+        "ko": "동의하다",
+        "examples": [
+          {
+            "text": "Ich stimme dir völlig zu.",
+            "ko": "나는 네게 전적으로 동의해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zustimmung",
+    "level": "b1",
+    "zipf": 4.51,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zustimmungen",
+      "genitive": "Zustimmung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zustimmen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "approval",
+        "ko": "찬성, 승인",
+        "examples": [
+          {
+            "text": "Ich brauche deine Zustimmung.",
+            "ko": "나는 네 승인이 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "consent",
+        "ko": "동의",
+        "examples": [
+          {
+            "text": "Ohne Zustimmung der Eltern geht es nicht.",
+            "ko": "부모님의 동의 없이는 안 된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zuständig",
+    "level": "b1",
+    "zipf": 4.44,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Zustand|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "responsible, in charge (having the responsibility of leading or overseeing)",
+        "ko": "담당인, 책임이 있는",
+        "examples": [
+          {
+            "text": "Wer ist dafür zuständig?",
+            "ko": "그건 누가 담당이에요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zusätzlich",
+    "level": "b1",
+    "zipf": 4.84,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Zusatz|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "additional, extra, supplementary",
+        "ko": "추가의, 별도의",
+        "examples": [
+          {
+            "text": "Ich brauche zusätzliche Informationen.",
+            "ko": "나는 추가 정보가 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zutaten",
+    "level": "b1",
+    "zipf": 3.9,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "number": "pl"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ingredients",
+        "ko": "재료",
+        "examples": [
+          {
+            "text": "Die Zutaten für den Kuchen sind einfach.",
+            "ko": "케이크 재료는 간단하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zuverlässig",
+    "level": "b1",
+    "zipf": 3.92,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "zuverlässiger",
+      "superlative": "am zuverlässigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|stem",
+      "verlassen|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "reliable, dependable, trustworthy",
+        "ko": "믿을 수 있는, 신뢰할 만한",
+        "examples": [
+          {
+            "text": "Mein Kollege ist sehr zuverlässig.",
+            "ko": "내 동료는 매우 믿음직하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zwar",
+    "level": "b1",
+    "zipf": 5.52,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "Signals a following contrary clause, which is usually introduced with aber (“but”), stressing that the speaker is aware of the contradiction, but that it does not invalidate the statement.",
+        "ko": "물론 ~이긴 하지만",
+        "examples": [
+          {
+            "text": "Es regnet zwar, aber wir gehen spazieren.",
+            "ko": "비가 오긴 하지만 우리는 산책하러 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "namely",
+        "ko": "즉, 구체적으로",
+        "examples": [
+          {
+            "text": "Ich habe zwei Brüder, und zwar Tom und Max.",
+            "ko": "나는 형제가 둘 있는데, 바로 톰과 막스다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zweck",
+    "level": "b1",
+    "zipf": 4.64,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zwecke",
+      "genitive": "Zweckes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "purpose",
+        "ko": "목적",
+        "examples": [
+          {
+            "text": "Was ist der Zweck der Reise?",
+            "ko": "여행의 목적이 뭐예요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "point",
+        "ko": "의미, 취지",
+        "examples": [
+          {
+            "text": "Es hat keinen Zweck, zu warten.",
+            "ko": "기다려 봐야 소용없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zweifel",
+    "level": "b1",
+    "zipf": 4.66,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zweifel",
+      "genitive": "Zweifels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "doubt",
+        "ko": "의심, 의문",
+        "examples": [
+          {
+            "text": "Ich habe keinen Zweifel daran.",
+            "ko": "나는 그 점에 의심이 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zweifeln",
+    "level": "b1",
+    "zipf": 3.86,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "zweifelt",
+      "past": "zweifelte",
+      "pp": "gezweifelt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Zweifel|stem"
+    ],
+    "senses": [
+      {
+        "en": "to doubt, to be doubtful",
+        "ko": "의심하다",
+        "examples": [
+          {
+            "text": "Ich zweifle an seiner Antwort.",
+            "ko": "나는 그의 대답이 의심스럽다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zweitsprache",
+    "level": "b1",
+    "zipf": 2.74,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zweitsprachen",
+      "genitive": "Zweitsprache"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zweit|stem",
+      "Sprache|stem"
+    ],
+    "senses": [
+      {
+        "en": "A learned second language",
+        "ko": "제2 언어",
+        "examples": [
+          {
+            "text": "Deutsch ist meine Zweitsprache.",
+            "ko": "독일어는 내 제2 언어다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zwiebel",
+    "level": "b1",
+    "zipf": 3.53,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zwiebeln",
+      "genitive": "Zwiebel"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "onion (typically Allium cepa, the plant or its bulb)",
+        "ko": "양파",
+        "examples": [
+          {
+            "text": "Ich schneide eine Zwiebel.",
+            "ko": "나는 양파를 썬다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "bulb (of a plant)",
+        "ko": "구근",
+        "examples": [
+          {
+            "text": "Die Tulpe wächst aus einer Zwiebel.",
+            "ko": "튤립은 구근에서 자란다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zwingen",
+    "level": "b1",
+    "zipf": 4.18,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": true,
+      "present3": "zwingt",
+      "past": "zwang",
+      "pp": "gezwungen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to force; to compel; to make (someone do something)",
+        "ko": "강요하다, 강제하다",
+        "examples": [
+          {
+            "text": "Niemand zwingt dich zum Essen.",
+            "ko": "아무도 네게 먹으라고 강요하지 않아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zählen",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "zählt",
+      "past": "zählte",
+      "pp": "gezählt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to count (to determine the number of objects in a group)",
+        "ko": "세다, 계산하다",
+        "examples": [
+          {
+            "text": "Ich zähle die Stühle im Raum.",
+            "ko": "나는 방에 있는 의자를 센다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to count (to recite numbers in order)",
+        "ko": "수를 세다",
+        "examples": [
+          {
+            "text": "Das Kind zählt bis zehn.",
+            "ko": "아이가 열까지 센다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to count on, to rely on",
+        "ko": "믿다, 의지하다",
+        "examples": [
+          {
+            "text": "Du kannst auf mich zählen.",
+            "ko": "너는 나를 믿어도 돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1028 @@
+[
+  {
+    "word": "da",
+    "level": "a1",
+    "zipf": 6.37,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "there",
+        "ko": "거기에, 거기",
+        "examples": [
+          {
+            "text": "Da steht mein Auto.",
+            "ko": "저기 내 차가 서 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "present, here, there (having arrived, being around in the topical location, regardless of whether this matches the speaker's position)",
+        "ko": "와 있는, 있는",
+        "examples": [
+          {
+            "text": "Ist Herr Müller da?",
+            "ko": "뮐러 씨 계세요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "then; so; at that moment",
+        "ko": "그때",
+        "examples": [
+          {
+            "text": "Da klingelt das Telefon.",
+            "ko": "그때 전화가 울려.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Dame",
+    "level": "a1",
+    "zipf": 4.58,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Damen",
+      "genitive": "Dame"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "lady; madam (polite term to refer to any woman)",
+        "ko": "여성분, 부인",
+        "examples": [
+          {
+            "text": "Die Dame dort braucht Hilfe.",
+            "ko": "저쪽 여성분이 도움이 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "daneben",
+    "level": "a1",
+    "zipf": 4.6,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "da|stem",
+      "neben|stem"
+    ],
+    "senses": [
+      {
+        "en": "next to it, next to that",
+        "ko": "그 옆에",
+        "examples": [
+          {
+            "text": "Das ist die Bank, und daneben ist die Post.",
+            "ko": "이게 은행이고, 그 옆이 우체국이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Dank",
+    "level": "a1",
+    "zipf": 5.32,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Dankes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "thanks, gratitude, appreciation",
+        "ko": "감사",
+        "examples": [
+          {
+            "text": "Vielen Dank für deine Hilfe!",
+            "ko": "도와줘서 정말 고마워!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "danke",
+    "level": "a1",
+    "zipf": 5.64,
+    "pos": "intj",
+    "grammar": {
+      "type": "intj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "thanks, thank you",
+        "ko": "고마워, 감사합니다",
+        "examples": [
+          {
+            "text": "Danke für deine Hilfe!",
+            "ko": "도와줘서 고마워!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "danken",
+    "level": "a1",
+    "zipf": 4.2,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "dankt",
+      "past": "dankte",
+      "pp": "gedankt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to thank",
+        "ko": "감사하다",
+        "examples": [
+          {
+            "text": "Ich danke dir für das Geschenk.",
+            "ko": "선물 고마워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dann",
+    "level": "a1",
+    "zipf": 6.35,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "then, after that",
+        "ko": "그다음에, 그러고 나서",
+        "examples": [
+          {
+            "text": "Zuerst esse ich, dann gehe ich schlafen.",
+            "ko": "먼저 밥을 먹고, 그다음에 자러 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "then, in that case",
+        "ko": "그러면",
+        "examples": [
+          {
+            "text": "Wenn du müde bist, dann geh ins Bett.",
+            "ko": "피곤하면 그럼 자러 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Datum",
+    "level": "a1",
+    "zipf": 4.39,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Daten",
+      "genitive": "Datums"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "date (specific day for an event to take place)",
+        "ko": "날짜",
+        "examples": [
+          {
+            "text": "Welches Datum haben wir heute?",
+            "ko": "오늘 며칠이야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dauern",
+    "level": "a1",
+    "zipf": 4.45,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "dauert",
+      "past": "dauerte",
+      "pp": "gedauert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to take time, to take a while",
+        "ko": "시간이 걸리다",
+        "examples": [
+          {
+            "text": "Die Fahrt dauert zwei Stunden.",
+            "ko": "가는 데 두 시간 걸려.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to last, to continue, to persist (for a period of time)",
+        "ko": "계속되다",
+        "examples": [
+          {
+            "text": "Der Kurs dauert drei Monate.",
+            "ko": "수업은 석 달 동안 이어져.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dein",
+    "level": "a1",
+    "zipf": 5.46,
+    "pos": "det",
+    "grammar": {
+      "type": "det"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "thy, your (esp. to friends, relatives, children, etc.).",
+        "ko": "너의",
+        "examples": [
+          {
+            "text": "Wo ist dein Bruder?",
+            "ko": "네 형(동생)은 어디 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "denn",
+    "level": "a1",
+    "zipf": 5.97,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "because, for",
+        "ko": "왜냐하면, ~니까",
+        "examples": [
+          {
+            "text": "Ich bleibe zu Hause, denn ich bin krank.",
+            "ko": "나는 아파서 집에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "so, then, ever, but, now; used for emphasis or to express interest, surprise or doubt, or in rhetorical questions",
+        "ko": "도대체, 그래서(강조)",
+        "examples": [
+          {
+            "text": "Wie heißt du denn?",
+            "ko": "그런데 이름이 뭐야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "der",
+    "level": "a1",
+    "zipf": 7.46,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "the (masculine definite article)",
+        "ko": "그 (남성 정관사)",
+        "examples": [
+          {
+            "text": "Der Hund schläft.",
+            "ko": "그 개는 자고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "who; that; which",
+        "ko": "~하는 (관계대명사)",
+        "examples": [
+          {
+            "text": "Der Mann, der dort steht, ist mein Vater.",
+            "ko": "저기 서 있는 남자가 내 아버지야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dich",
+    "level": "a1",
+    "zipf": 5.89,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "you (accusative of du)",
+        "ko": "너를",
+        "examples": [
+          {
+            "text": "Ich liebe dich.",
+            "ko": "나는 너를 사랑해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "yourself (reflexive, accusative of du)",
+        "ko": "너 자신을",
+        "examples": [
+          {
+            "text": "Beeil dich bitte!",
+            "ko": "서둘러 줘!",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dies",
+    "level": "a1",
+    "zipf": 5.62,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "this (pronoun)",
+        "ko": "이것",
+        "examples": [
+          {
+            "text": "Dies ist mein Zimmer.",
+            "ko": "이것은 내 방이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "this (determiner, as in dieses, diese)",
+        "ko": "이",
+        "examples": [
+          {
+            "text": "Dies Buch gehört mir.",
+            "ko": "이 책은 내 거야.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dir",
+    "level": "a1",
+    "zipf": 5.96,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "you (dative of du)",
+        "ko": "너에게",
+        "examples": [
+          {
+            "text": "Ich gebe dir das Buch.",
+            "ko": "내가 너에게 그 책을 줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Disco",
+    "level": "a1",
+    "zipf": 3.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Discos",
+      "genitive": "Disco"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "discotheque, nightclub",
+        "ko": "디스코, 클럽",
+        "examples": [
+          {
+            "text": "Am Samstag gehe ich in die Disco.",
+            "ko": "토요일에 나는 클럽에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Doktor",
+    "level": "a1",
+    "zipf": 4.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Doktoren",
+      "genitive": "Doktors"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "doctor, physician",
+        "ko": "의사",
+        "examples": [
+          {
+            "text": "Der Doktor hat heute Zeit.",
+            "ko": "의사 선생님이 오늘 시간이 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "doctor",
+        "ko": "박사",
+        "examples": [
+          {
+            "text": "Sie ist Doktor der Physik.",
+            "ko": "그녀는 물리학 박사야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Doppelzimmer",
+    "level": "a1",
+    "zipf": 3.02,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Doppelzimmer",
+      "genitive": "Doppelzimmers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Doppel|stem",
+      "Zimmer|stem"
+    ],
+    "senses": [
+      {
+        "en": "double room",
+        "ko": "2인실",
+        "examples": [
+          {
+            "text": "Wir möchten ein Doppelzimmer.",
+            "ko": "저희는 2인실을 원해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Dorf",
+    "level": "a1",
+    "zipf": 4.74,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Dörfer",
+      "genitive": "Dorfes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "village (rural habitation of size between a hamlet and a town)",
+        "ko": "마을",
+        "examples": [
+          {
+            "text": "Ich wohne in einem kleinen Dorf.",
+            "ko": "나는 작은 마을에 살아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dort",
+    "level": "a1",
+    "zipf": 5.78,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "there, yonder",
+        "ko": "거기, 저기",
+        "examples": [
+          {
+            "text": "Dort ist die Bushaltestelle.",
+            "ko": "저기가 버스 정류장이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "draußen",
+    "level": "a1",
+    "zipf": 4.82,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "outside",
+        "ko": "밖에, 바깥에",
+        "examples": [
+          {
+            "text": "Die Kinder spielen draußen.",
+            "ko": "아이들이 밖에서 놀아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "drucken",
+    "level": "a1",
+    "zipf": 3.96,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "druckt",
+      "past": "druckte",
+      "pp": "gedruckt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to print (a book, newspaper etc.)",
+        "ko": "인쇄하다",
+        "examples": [
+          {
+            "text": "Er druckt das Plakat.",
+            "ko": "그는 포스터를 인쇄해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Drucker",
+    "level": "a1",
+    "zipf": 3.96,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Drucker",
+      "genitive": "Druckers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "drucken|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "printer (device)",
+        "ko": "프린터",
+        "examples": [
+          {
+            "text": "Mein Drucker ist kaputt.",
+            "ko": "내 프린터가 고장 났어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "agent noun of drucken; printer (person, especially male, who prints)",
+        "ko": "인쇄공",
+        "examples": [
+          {
+            "text": "Mein Onkel ist Drucker.",
+            "ko": "우리 삼촌은 인쇄공이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "drücken",
+    "level": "a1",
+    "zipf": 4.45,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "drückt",
+      "past": "drückte",
+      "pp": "gedrückt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to press, to push (a button/key; a finger or other object against something)",
+        "ko": "누르다",
+        "examples": [
+          {
+            "text": "Drück bitte die Taste!",
+            "ko": "버튼을 눌러 줘!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to hug",
+        "ko": "껴안다",
+        "examples": [
+          {
+            "text": "Sie drückt ihre Oma.",
+            "ko": "그녀는 할머니를 껴안아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "durch",
+    "level": "a1",
+    "zipf": 6.26,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "through",
+        "ko": "~을 통해, ~을 지나",
+        "examples": [
+          {
+            "text": "Wir gehen durch den Park.",
+            "ko": "우리는 공원을 지나서 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "by means of, through",
+        "ko": "~을 통해, ~로",
+        "examples": [
+          {
+            "text": "Durch Üben wird man besser.",
+            "ko": "연습을 통해 더 나아져.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Durchsage",
+    "level": "a1",
+    "zipf": 3.34,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Durchsagen",
+      "genitive": "Durchsage"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "durch|sep",
+      "sagen|stem"
+    ],
+    "senses": [
+      {
+        "en": "An announcement over loudspeakers or on the radio.",
+        "ko": "안내 방송",
+        "examples": [
+          {
+            "text": "Achtung, hier kommt eine Durchsage!",
+            "ko": "주목, 안내 방송이 나옵니다!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Durst",
+    "level": "a1",
+    "zipf": 3.75,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Durstes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "thirst",
+        "ko": "갈증, 목마름",
+        "examples": [
+          {
+            "text": "Ich habe Durst.",
+            "ko": "나 목말라.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Dusche",
+    "level": "a1",
+    "zipf": 4.22,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Duschen",
+      "genitive": "Dusche"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a shower (for bathing)",
+        "ko": "샤워",
+        "examples": [
+          {
+            "text": "Die Dusche ist im Bad.",
+            "ko": "샤워기는 욕실에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "duschen",
+    "level": "a1",
+    "zipf": 4.04,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "duscht",
+      "past": "duschte",
+      "pp": "geduscht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to shower",
+        "ko": "샤워하다",
+        "examples": [
+          {
+            "text": "Ich dusche jeden Morgen.",
+            "ko": "나는 매일 아침 샤워해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dürfen",
+    "level": "a1",
+    "zipf": 5.22,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "modal",
+      "reflexive": false,
+      "present3": "darf",
+      "past": "durfte",
+      "pp": "gedurft",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to be allowed (to do something); to be permitted (to do something); may",
+        "ko": "~해도 되다",
+        "examples": [
+          {
+            "text": "Darf ich Sie etwas fragen?",
+            "ko": "뭐 좀 여쭤봐도 될까요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "must not (with nicht)",
+        "ko": "~하면 안 되다",
+        "examples": [
+          {
+            "text": "Hier darf man nicht rauchen.",
+            "ko": "여기서는 담배를 피우면 안 돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

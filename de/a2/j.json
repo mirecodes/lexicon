@@ -1,0 +1,161 @@
+[
+  {
+    "word": "Jeans",
+    "level": "a2",
+    "zipf": 4.1,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Jeans",
+      "number": "pl",
+      "genitive": "Jeans"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "A pair of jeans, denim trousers",
+        "ko": "청바지",
+        "examples": [
+          {
+            "text": "Ich trage gern Jeans.",
+            "ko": "나는 청바지 입는 걸 좋아해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "jeder",
+    "level": "a2",
+    "zipf": 5.62,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "each",
+        "ko": "각각의, 모든",
+        "examples": [
+          {
+            "text": "Jeder Schüler hat ein Buch.",
+            "ko": "학생마다 책이 한 권씩 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "everyone, everybody",
+        "ko": "누구나, 모두",
+        "examples": [
+          {
+            "text": "Jeder kennt diesen Film.",
+            "ko": "누구나 이 영화를 알아.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "jemand",
+    "level": "a2",
+    "zipf": 5.5,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "someone, somebody",
+        "ko": "누군가",
+        "examples": [
+          {
+            "text": "Jemand klopft an die Tür.",
+            "ko": "누군가 문을 두드려.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "joggen",
+    "level": "a2",
+    "zipf": 3.62,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "joggt",
+      "past": "joggte",
+      "pp": "gejoggt",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to jog",
+        "ko": "조깅하다",
+        "examples": [
+          {
+            "text": "Ich jogge jeden Morgen im Park.",
+            "ko": "나는 매일 아침 공원에서 조깅해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Jugendherberge",
+    "level": "a2",
+    "zipf": 3.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Jugendherbergen",
+      "genitive": "Jugendherberge"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Jugend|stem",
+      "Herberge|stem"
+    ],
+    "senses": [
+      {
+        "en": "youth hostel (a supervised, inexpensive lodging place, primarily for young people)",
+        "ko": "유스호스텔",
+        "examples": [
+          {
+            "text": "Wir übernachten in einer Jugendherberge.",
+            "ko": "우리는 유스호스텔에서 묵어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

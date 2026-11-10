@@ -1,0 +1,4157 @@
+[
+  {
+    "word": "Vase",
+    "level": "b1",
+    "zipf": 3.41,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Vasen",
+      "genitive": "Vase"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "vase",
+        "ko": "꽃병",
+        "examples": [
+          {
+            "text": "Die Blumen stehen in einer Vase.",
+            "ko": "꽃들이 꽃병에 꽂혀 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vegetarisch",
+    "level": "b1",
+    "zipf": 3.44,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "vegetarian",
+        "ko": "채식의",
+        "examples": [
+          {
+            "text": "Ich esse vegetarisch.",
+            "ko": "나는 채식을 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verabreden",
+    "level": "b1",
+    "zipf": 3.23,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "verabredet",
+      "past": "verabredete",
+      "pp": "verabredet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "abreden|stem"
+    ],
+    "senses": [
+      {
+        "en": "to make an appointment",
+        "ko": "약속하다",
+        "examples": [
+          {
+            "text": "Ich verabrede mich mit ihr für Samstag.",
+            "ko": "나는 그녀와 토요일로 약속을 잡는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to arrange",
+        "ko": "합의하다, 정하다",
+        "examples": [
+          {
+            "text": "Wir verabreden einen Termin.",
+            "ko": "우리는 일정을 정한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verabredung",
+    "level": "b1",
+    "zipf": 3.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Verabredungen",
+      "genitive": "Verabredung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "verabreden|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "appointment",
+        "ko": "약속",
+        "examples": [
+          {
+            "text": "Ich habe heute Abend eine Verabredung.",
+            "ko": "나는 오늘 저녁에 약속이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "date (pre-arranged social meeting)",
+        "ko": "데이트, 만남",
+        "examples": [
+          {
+            "text": "Sie hat eine Verabredung mit einem Freund.",
+            "ko": "그녀는 친구와 만나기로 약속했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verabschieden",
+    "level": "b1",
+    "zipf": 3.98,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "verabschiedet",
+      "past": "verabschiedete",
+      "pp": "verabschiedet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "Abschied|stem"
+    ],
+    "senses": [
+      {
+        "en": "to say goodbye (to); to take leave (of)",
+        "ko": "작별 인사를 하다",
+        "examples": [
+          {
+            "text": "Wir verabschieden uns von den Gästen.",
+            "ko": "우리는 손님들에게 작별 인사를 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to adopt; to pass (a law, resolution, etc.)",
+        "ko": "통과시키다, 채택하다",
+        "examples": [
+          {
+            "text": "Das Parlament verabschiedet das Gesetz.",
+            "ko": "의회가 법안을 통과시킨다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verantwortlich",
+    "level": "b1",
+    "zipf": 4.78,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "verantwortlicher",
+      "superlative": "am verantwortlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Verantwortung|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "responsible",
+        "ko": "책임이 있는",
+        "examples": [
+          {
+            "text": "Wer ist dafür verantwortlich?",
+            "ko": "누가 그것에 책임이 있나요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verantwortung",
+    "level": "b1",
+    "zipf": 4.74,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Verantwortungen",
+      "genitive": "Verantwortung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "Antwort|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "responsibility",
+        "ko": "책임",
+        "examples": [
+          {
+            "text": "Er übernimmt die Verantwortung für das Projekt.",
+            "ko": "그는 프로젝트에 대한 책임을 맡는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verbessern",
+    "level": "b1",
+    "zipf": 4.48,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "verbessert",
+      "past": "verbesserte",
+      "pp": "verbessert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "bessern|stem"
+    ],
+    "senses": [
+      {
+        "en": "to improve (to make better), to enhance",
+        "ko": "개선하다, 향상시키다",
+        "examples": [
+          {
+            "text": "Ich möchte mein Deutsch verbessern.",
+            "ko": "나는 내 독일어를 향상시키고 싶다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to correct",
+        "ko": "고치다, 정정하다",
+        "examples": [
+          {
+            "text": "Die Lehrerin verbessert die Fehler.",
+            "ko": "선생님이 틀린 곳을 고쳐 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verbinden",
+    "level": "b1",
+    "zipf": 4.32,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "verbindet",
+      "past": "verband",
+      "pp": "verbunden",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "binden|stem"
+    ],
+    "senses": [
+      {
+        "en": "to join, to combine, to connect, to interlink",
+        "ko": "연결하다, 결합하다",
+        "examples": [
+          {
+            "text": "Die Brücke verbindet beide Ufer.",
+            "ko": "그 다리는 양쪽 강가를 연결한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to bandage",
+        "ko": "붕대를 감다",
+        "examples": [
+          {
+            "text": "Die Ärztin verbindet die Wunde.",
+            "ko": "의사가 상처에 붕대를 감는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to put through",
+        "ko": "(전화를) 연결해 주다",
+        "examples": [
+          {
+            "text": "Einen Moment, ich verbinde Sie.",
+            "ko": "잠시만요, 연결해 드리겠습니다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verbindung",
+    "level": "b1",
+    "zipf": 4.98,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Verbindungen",
+      "genitive": "Verbindung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "verbinden|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "connection",
+        "ko": "연결, 연락",
+        "examples": [
+          {
+            "text": "Die Verbindung ist leider schlecht.",
+            "ko": "연결 상태가 안타깝게도 나쁘다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "relationship, partnership",
+        "ko": "관계",
+        "examples": [
+          {
+            "text": "Die beiden Firmen stehen in enger Verbindung.",
+            "ko": "두 회사는 긴밀한 관계에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verbot",
+    "level": "b1",
+    "zipf": 4.47,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Verbote",
+      "genitive": "Verbotes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "prohibition, ban",
+        "ko": "금지",
+        "examples": [
+          {
+            "text": "Hier gilt ein Rauchverbot.",
+            "ko": "여기에는 흡연 금지 규정이 적용된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verbrauchen",
+    "level": "b1",
+    "zipf": 3.53,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verbraucht",
+      "past": "verbrauchte",
+      "pp": "verbraucht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "brauchen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to consume, to use up",
+        "ko": "소비하다, 다 써 버리다",
+        "examples": [
+          {
+            "text": "Das Auto verbraucht wenig Benzin.",
+            "ko": "그 차는 휘발유를 적게 쓴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verbrecher",
+    "level": "b1",
+    "zipf": 4.05,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Verbrecher",
+      "genitive": "Verbrechers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "verbrechen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "criminal",
+        "ko": "범죄자",
+        "examples": [
+          {
+            "text": "Die Polizei hat den Verbrecher gefasst.",
+            "ko": "경찰이 범죄자를 붙잡았다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verbrecherin",
+    "level": "b1",
+    "zipf": 2.17,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Verbrecherinnen",
+      "genitive": "Verbrecherin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Verbrecher|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Verbrecher",
+        "ko": "여성 범죄자",
+        "examples": [
+          {
+            "text": "Die Verbrecherin wurde verhaftet.",
+            "ko": "여성 범죄자가 체포되었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verbrennen",
+    "level": "b1",
+    "zipf": 3.98,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": true,
+      "present3": "verbrennt",
+      "past": "verbrannte",
+      "pp": "verbrannt",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "brennen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to burn (to cause to be consumed by fire or flames), to incinerate, to combust",
+        "ko": "태우다",
+        "examples": [
+          {
+            "text": "Er verbrennt alte Briefe im Ofen.",
+            "ko": "그는 오래된 편지를 난로에 태운다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to burn oneself, to suffer a burning",
+        "ko": "데다, 화상을 입다",
+        "examples": [
+          {
+            "text": "Ich habe mich am heißen Wasser verbrannt.",
+            "ko": "나는 뜨거운 물에 데었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verbringen",
+    "level": "b1",
+    "zipf": 4.42,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "verbringt",
+      "past": "verbrachte",
+      "pp": "verbracht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "bringen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to spend, to pass (a period of time)",
+        "ko": "(시간을) 보내다",
+        "examples": [
+          {
+            "text": "Wir verbringen den Urlaub am Meer.",
+            "ko": "우리는 휴가를 바닷가에서 보낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verdacht",
+    "level": "b1",
+    "zipf": 4.37,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Verdächte",
+      "genitive": "Verdachtes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "suspicion",
+        "ko": "의심, 혐의",
+        "examples": [
+          {
+            "text": "Die Polizei hat einen Verdacht.",
+            "ko": "경찰은 의심 가는 점이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verdächtig",
+    "level": "b1",
+    "zipf": 3.8,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Verdacht|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "suspicious, suspect",
+        "ko": "수상한, 의심스러운",
+        "examples": [
+          {
+            "text": "Ein verdächtiger Mann steht vor dem Haus.",
+            "ko": "수상한 남자가 집 앞에 서 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vergangenheit",
+    "level": "b1",
+    "zipf": 4.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Vergangenheit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vergangen|stem",
+      "-heit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "the past (time)",
+        "ko": "과거",
+        "examples": [
+          {
+            "text": "In der Vergangenheit war alles anders.",
+            "ko": "과거에는 모든 것이 달랐다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "past tense",
+        "ko": "과거 시제",
+        "examples": [
+          {
+            "text": "Das Verb steht hier in der Vergangenheit.",
+            "ko": "동사가 여기서는 과거 시제로 쓰였다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vergeblich",
+    "level": "b1",
+    "zipf": 3.96,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "unavailing, in vain, futile, useless",
+        "ko": "헛된, 소용없는",
+        "examples": [
+          {
+            "text": "Alle Mühe war vergeblich.",
+            "ko": "모든 노력이 헛되었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vergnügen",
+    "level": "b1",
+    "zipf": 4.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Vergnügen",
+      "genitive": "Vergnügens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "joy, pleasure",
+        "ko": "즐거움, 기쁨",
+        "examples": [
+          {
+            "text": "Es war mir ein Vergnügen, Sie kennenzulernen.",
+            "ko": "당신을 알게 되어 기뻤습니다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vergnügen",
+    "level": "b1",
+    "zipf": 4.21,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "vergnügt",
+      "past": "vergnügte",
+      "pp": "vergnügt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to enjoy oneself, to have fun",
+        "ko": "즐기다, 즐겁게 놀다",
+        "examples": [
+          {
+            "text": "Die Kinder vergnügen sich im Park.",
+            "ko": "아이들이 공원에서 즐겁게 놀아.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vergnügt",
+    "level": "b1",
+    "zipf": 3.27,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "vergnügter",
+      "superlative": "am vergnügtesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cheerful, delighted",
+        "ko": "즐거운, 기분 좋은",
+        "examples": [
+          {
+            "text": "Die Kinder sind sehr vergnügt.",
+            "ko": "아이들은 아주 즐거워해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vergrößern",
+    "level": "b1",
+    "zipf": 3.81,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "vergrößert",
+      "past": "vergrößerte",
+      "pp": "vergrößert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "größer|stem"
+    ],
+    "senses": [
+      {
+        "en": "to enlarge, to amplify, to increase",
+        "ko": "확대하다, 늘리다",
+        "examples": [
+          {
+            "text": "Wir vergrößern unsere Wohnung.",
+            "ko": "우리는 집을 넓힌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to become larger",
+        "ko": "커지다",
+        "examples": [
+          {
+            "text": "Die Stadt vergrößert sich jedes Jahr.",
+            "ko": "그 도시는 해마다 커진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verhaften",
+    "level": "b1",
+    "zipf": 3.43,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verhaftet",
+      "past": "verhaftete",
+      "pp": "verhaftet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "haften|stem"
+    ],
+    "senses": [
+      {
+        "en": "to arrest",
+        "ko": "체포하다",
+        "examples": [
+          {
+            "text": "Die Polizei verhaftet den Dieb.",
+            "ko": "경찰이 도둑을 체포한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verhalten",
+    "level": "b1",
+    "zipf": 4.9,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Verhalten",
+      "genitive": "Verhaltens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "behaviour",
+        "ko": "행동, 태도",
+        "examples": [
+          {
+            "text": "Sein Verhalten war nicht höflich.",
+            "ko": "그의 태도는 공손하지 않았다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verhalten",
+    "level": "b1",
+    "zipf": 4.9,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "verhält",
+      "past": "verhielt",
+      "pp": "verhalten",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "halten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to behave, to act",
+        "ko": "행동하다, 처신하다",
+        "examples": [
+          {
+            "text": "Er verhält sich sehr höflich.",
+            "ko": "그는 아주 공손하게 행동해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be the case (of facts)",
+        "ko": "~한 상태이다",
+        "examples": [
+          {
+            "text": "Die Sache verhält sich anders.",
+            "ko": "사정은 달라.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verhindern",
+    "level": "b1",
+    "zipf": 4.76,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verhindert",
+      "past": "verhinderte",
+      "pp": "verhindert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "hindern|stem"
+    ],
+    "senses": [
+      {
+        "en": "to prevent, to inhibit, to keep (something) from happening.",
+        "ko": "막다, 방지하다",
+        "examples": [
+          {
+            "text": "Wir wollen einen Unfall verhindern.",
+            "ko": "우리는 사고를 막고 싶다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verhältnis",
+    "level": "b1",
+    "zipf": 4.66,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Verhältnisse",
+      "genitive": "Verhältnisses"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "relationship",
+        "ko": "관계",
+        "examples": [
+          {
+            "text": "Ich habe ein gutes Verhältnis zu meinen Eltern.",
+            "ko": "나는 부모님과 사이가 좋다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "relation, ratio",
+        "ko": "비율",
+        "examples": [
+          {
+            "text": "Das Verhältnis von Jungen zu Mädchen ist eins zu eins.",
+            "ko": "남자아이와 여자아이의 비율은 1대 1이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "circumstances, means (material and/or social conditions in which one lives)",
+        "ko": "형편, 환경",
+        "examples": [
+          {
+            "text": "Sie leben in guten Verhältnissen.",
+            "ko": "그들은 넉넉한 형편에서 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verkehrszeichen",
+    "level": "b1",
+    "zipf": 3.01,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Verkehrszeichen",
+      "genitive": "Verkehrszeichens"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Verkehr|stem",
+      "Zeichen|stem"
+    ],
+    "senses": [
+      {
+        "en": "road sign",
+        "ko": "교통 표지판",
+        "examples": [
+          {
+            "text": "Achte auf die Verkehrszeichen!",
+            "ko": "교통 표지판을 잘 봐!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verlangen",
+    "level": "b1",
+    "zipf": 4.57,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verlangt",
+      "past": "verlangte",
+      "pp": "verlangt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "langen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to ask for, demand",
+        "ko": "요구하다",
+        "examples": [
+          {
+            "text": "Der Kellner verlangt sofort die Bezahlung.",
+            "ko": "웨이터가 즉시 계산을 요구한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verlassen",
+    "level": "b1",
+    "zipf": 4.95,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "verlässt",
+      "past": "verließ",
+      "pp": "verlassen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "lassen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to leave, to abandon; to depart, to forsake",
+        "ko": "떠나다, 두고 가다",
+        "examples": [
+          {
+            "text": "Er verlässt das Haus um acht Uhr.",
+            "ko": "그는 8시에 집을 나선다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to leave, to desert, to dump (e.g. a partner in a romantic relationship)",
+        "ko": "버리다, 저버리다",
+        "examples": [
+          {
+            "text": "Er hat seine Frau verlassen.",
+            "ko": "그는 아내를 떠났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to trust; to rely on",
+        "ko": "의지하다, 믿다",
+        "examples": [
+          {
+            "text": "Du kannst dich auf mich verlassen.",
+            "ko": "너는 나를 믿어도 돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verlaufen",
+    "level": "b1",
+    "zipf": 4.17,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "verläuft",
+      "past": "verlief",
+      "pp": "verlaufen",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "ver|insep",
+      "laufen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to get lost, to lose one's way (on foot)",
+        "ko": "길을 잃다",
+        "examples": [
+          {
+            "text": "Wir haben uns im Wald verlaufen.",
+            "ko": "우리는 숲에서 길을 잃었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verletzung",
+    "level": "b1",
+    "zipf": 4.32,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Verletzungen",
+      "genitive": "Verletzung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "verletzen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "injury",
+        "ko": "부상",
+        "examples": [
+          {
+            "text": "Er hat eine Verletzung am Knie.",
+            "ko": "그는 무릎을 다쳤다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "violation",
+        "ko": "위반, 침해",
+        "examples": [
+          {
+            "text": "Das ist eine Verletzung der Regeln.",
+            "ko": "그것은 규칙 위반이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verlierer",
+    "level": "b1",
+    "zipf": 3.98,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Verlierer",
+      "genitive": "Verlierers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "verlieren|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "agent noun of verlieren; loser",
+        "ko": "패자",
+        "examples": [
+          {
+            "text": "Der Verlierer gratuliert dem Sieger.",
+            "ko": "패자가 승자에게 축하 인사를 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verliererin",
+    "level": "b1",
+    "zipf": 2.19,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Verliererinnen"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "Verlierer|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female loser",
+        "ko": "여자 패자",
+        "examples": [
+          {
+            "text": "Die Verliererin gibt dem Gegner die Hand.",
+            "ko": "패자가 상대에게 악수를 청한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verlust",
+    "level": "b1",
+    "zipf": 4.51,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Verluste",
+      "genitive": "Verlustes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "loss (all senses, except defeat, for which Niederlage is used)",
+        "ko": "손실, 분실",
+        "examples": [
+          {
+            "text": "Der Verlust meiner Tasche ärgert mich.",
+            "ko": "가방을 잃어버려서 화가 난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verlängern",
+    "level": "b1",
+    "zipf": 3.86,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verlängert",
+      "past": "verlängerte",
+      "pp": "verlängert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "länger|stem"
+    ],
+    "senses": [
+      {
+        "en": "to prolong, to extend",
+        "ko": "연장하다",
+        "examples": [
+          {
+            "text": "Ich möchte mein Visum verlängern.",
+            "ko": "나는 비자를 연장하고 싶다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to lengthen",
+        "ko": "길게 하다",
+        "examples": [
+          {
+            "text": "Die Schneiderin verlängert den Rock.",
+            "ko": "재봉사가 치마 길이를 늘린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vermeiden",
+    "level": "b1",
+    "zipf": 4.55,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "vermeidet",
+      "past": "vermied",
+      "pp": "vermieden",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "meiden|stem"
+    ],
+    "senses": [
+      {
+        "en": "to avoid (something happening, doing something)",
+        "ko": "피하다",
+        "examples": [
+          {
+            "text": "Ich vermeide Streit mit meinem Nachbarn.",
+            "ko": "나는 이웃과의 다툼을 피한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vermieterin",
+    "level": "b1",
+    "zipf": 3.1,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Vermieterinnen",
+      "genitive": "Vermieterin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Vermieter|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Vermieter: female person (landlady) that rents something",
+        "ko": "여자 집주인",
+        "examples": [
+          {
+            "text": "Unsere Vermieterin wohnt im ersten Stock.",
+            "ko": "우리 집주인은 2층에 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vermietung",
+    "level": "b1",
+    "zipf": 3.42,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Vermietungen",
+      "genitive": "Vermietung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vermieten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "renting",
+        "ko": "임대",
+        "examples": [
+          {
+            "text": "Die Vermietung von Fahrrädern ist im Sommer beliebt.",
+            "ko": "자전거 대여는 여름에 인기가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vermissen",
+    "level": "b1",
+    "zipf": 4.11,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "vermisst",
+      "past": "vermisste",
+      "pp": "vermisst",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "missen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to miss (to feel the absence of someone or something)",
+        "ko": "그리워하다",
+        "examples": [
+          {
+            "text": "Ich vermisse meine Familie.",
+            "ko": "나는 가족이 그립다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to have something missing",
+        "ko": "없어진 것을 알아차리다",
+        "examples": [
+          {
+            "text": "Ich vermisse meinen Schlüssel.",
+            "ko": "내 열쇠가 없어졌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vermittlung",
+    "level": "b1",
+    "zipf": 4.07,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Vermittlungen",
+      "genitive": "Vermittlung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vermitteln|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "intermediation",
+        "ko": "중개, 알선",
+        "examples": [
+          {
+            "text": "Die Vermittlung einer Wohnung kostet Geld.",
+            "ko": "집 중개는 비용이 든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "agency",
+        "ko": "중개소",
+        "examples": [
+          {
+            "text": "Ich habe die Stelle über eine Vermittlung gefunden.",
+            "ko": "나는 중개소를 통해 일자리를 찾았다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vermuten",
+    "level": "b1",
+    "zipf": 4.15,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "vermutet",
+      "past": "vermutete",
+      "pp": "vermutet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to assume, suppose, presume, suspect, (US) guess",
+        "ko": "추측하다, 짐작하다",
+        "examples": [
+          {
+            "text": "Ich vermute, dass er schon zu Hause ist.",
+            "ko": "그는 이미 집에 있을 거라고 짐작한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vernünftig",
+    "level": "b1",
+    "zipf": 4.12,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "vernünftiger",
+      "superlative": "am vernünftigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Vernunft|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "reasonable, sensible",
+        "ko": "합리적인, 분별 있는",
+        "examples": [
+          {
+            "text": "Das ist ein vernünftiger Vorschlag.",
+            "ko": "그것은 합리적인 제안이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verpacken",
+    "level": "b1",
+    "zipf": 3.31,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verpackt",
+      "past": "verpackte",
+      "pp": "verpackt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "packen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to pack",
+        "ko": "포장하다",
+        "examples": [
+          {
+            "text": "Sie verpackt das Geschenk in buntes Papier.",
+            "ko": "그녀는 선물을 알록달록한 종이로 포장한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verpflegen",
+    "level": "b1",
+    "zipf": 2.52,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verpflegt",
+      "past": "verpflegte",
+      "pp": "verpflegt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "pflegen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to feed, nourish, especially a group away from home (e.g. travellers, workers, soldiers, prisoners)",
+        "ko": "식사를 제공하다",
+        "examples": [
+          {
+            "text": "Das Hotel verpflegt die Gäste mit Frühstück.",
+            "ko": "호텔은 손님들에게 아침 식사를 제공한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verpflichtet",
+    "level": "b1",
+    "zipf": 4.59,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "committed, bound, obliged, indebted, beholden",
+        "ko": "의무가 있는, 구속된",
+        "examples": [
+          {
+            "text": "Ich bin dazu verpflichtet.",
+            "ko": "나는 그렇게 할 의무가 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verraten",
+    "level": "b1",
+    "zipf": 4.31,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "verrät",
+      "past": "verriet",
+      "pp": "verraten",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "raten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to betray, to be disloyal to",
+        "ko": "배신하다",
+        "examples": [
+          {
+            "text": "Er hat seinen besten Freund verraten.",
+            "ko": "그는 가장 친한 친구를 배신했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to reveal (something secret)",
+        "ko": "누설하다, 털어놓다",
+        "examples": [
+          {
+            "text": "Verrate mir dein Geheimnis!",
+            "ko": "네 비밀을 나한테 말해 줘!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verrückt",
+    "level": "b1",
+    "zipf": 4.37,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "verrückter",
+      "superlative": "am verrücktesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "crazy, mad",
+        "ko": "미친, 정신 나간",
+        "examples": [
+          {
+            "text": "Du bist ja verrückt!",
+            "ko": "너 정말 제정신이 아니구나!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Versammlung",
+    "level": "b1",
+    "zipf": 4.26,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Versammlungen",
+      "genitive": "Versammlung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "versammeln|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "gathering, meeting, assembly, congregation",
+        "ko": "모임, 집회",
+        "examples": [
+          {
+            "text": "Die Versammlung beginnt um sieben Uhr.",
+            "ko": "모임은 7시에 시작한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verschreiben",
+    "level": "b1",
+    "zipf": 3.2,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "verschreibt",
+      "past": "verschrieb",
+      "pp": "verschrieben",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "schreiben|stem"
+    ],
+    "senses": [
+      {
+        "en": "to prescribe (a substance)",
+        "ko": "처방하다",
+        "examples": [
+          {
+            "text": "Der Arzt verschreibt mir ein Medikament.",
+            "ko": "의사가 나에게 약을 처방해 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to make an error while writing (by misspelling or otherwise)",
+        "ko": "잘못 쓰다",
+        "examples": [
+          {
+            "text": "Ich habe mich beim Namen verschrieben.",
+            "ko": "나는 이름을 잘못 썼다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verschwinden",
+    "level": "b1",
+    "zipf": 4.46,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "verschwindet",
+      "past": "verschwand",
+      "pp": "verschwunden",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "schwinden|stem"
+    ],
+    "senses": [
+      {
+        "en": "to disappear, to vanish, to move out of view",
+        "ko": "사라지다",
+        "examples": [
+          {
+            "text": "Meine Brille ist verschwunden.",
+            "ko": "내 안경이 사라졌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to leave, to go away",
+        "ko": "떠나다, 꺼지다",
+        "examples": [
+          {
+            "text": "Verschwinde von hier!",
+            "ko": "여기서 꺼져!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "versichern",
+    "level": "b1",
+    "zipf": 3.87,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "versichert",
+      "past": "versicherte",
+      "pp": "versichert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "sichern|stem"
+    ],
+    "senses": [
+      {
+        "en": "to insure (to provide for compensation if some specified risk occurs)",
+        "ko": "보험에 들다",
+        "examples": [
+          {
+            "text": "Ich versichere mein Auto gegen Diebstahl.",
+            "ko": "나는 자동차를 도난 보험에 든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to assure (someone of something)",
+        "ko": "확언하다, 장담하다",
+        "examples": [
+          {
+            "text": "Ich versichere dir, dass alles gut wird.",
+            "ko": "모든 게 잘될 거라고 장담할게.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Versichertenkarte",
+    "level": "b1",
+    "zipf": 1.89,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Versichertenkarten"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "health insurance card",
+        "ko": "건강보험증",
+        "examples": [
+          {
+            "text": "Bitte zeigen Sie Ihre Versichertenkarte.",
+            "ko": "건강보험증을 보여 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Versicherung",
+    "level": "b1",
+    "zipf": 4.38,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Versicherungen",
+      "genitive": "Versicherung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "versichern|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "insurance; an insurance policy",
+        "ko": "보험",
+        "examples": [
+          {
+            "text": "Die Versicherung zahlt den Schaden.",
+            "ko": "보험이 손해를 보상해 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "affirmation; assurance; the act of assuring someone",
+        "ko": "확언, 보증",
+        "examples": [
+          {
+            "text": "Er gab mir die Versicherung, pünktlich zu sein.",
+            "ko": "그는 나에게 시간을 지키겠다고 장담했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "versprechen",
+    "level": "b1",
+    "zipf": 4.4,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "verspricht",
+      "past": "versprach",
+      "pp": "versprochen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "sprechen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to promise",
+        "ko": "약속하다",
+        "examples": [
+          {
+            "text": "Ich verspreche dir, pünktlich zu sein.",
+            "ko": "시간을 지키겠다고 약속할게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to make a verbal slip; to misspeak",
+        "ko": "말실수하다",
+        "examples": [
+          {
+            "text": "Entschuldigung, ich habe mich versprochen.",
+            "ko": "죄송해요, 말실수했어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verstecken",
+    "level": "b1",
+    "zipf": 4.23,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "versteckt",
+      "past": "versteckte",
+      "pp": "versteckt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "stecken|stem"
+    ],
+    "senses": [
+      {
+        "en": "to conceal",
+        "ko": "숨기다",
+        "examples": [
+          {
+            "text": "Das Kind versteckt die Schokolade im Schrank.",
+            "ko": "아이가 초콜릿을 장롱에 숨긴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to hide (oneself)",
+        "ko": "숨다",
+        "examples": [
+          {
+            "text": "Die Katze versteckt sich unter dem Bett.",
+            "ko": "고양이가 침대 밑에 숨는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verständlich",
+    "level": "b1",
+    "zipf": 4.31,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "verständlicher",
+      "superlative": "am verständlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Verstand|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "understandable, comprehensible",
+        "ko": "이해할 수 있는, 알기 쉬운",
+        "examples": [
+          {
+            "text": "Der Text ist leicht verständlich.",
+            "ko": "이 글은 이해하기 쉽다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verständnis",
+    "level": "b1",
+    "zipf": 4.61,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Verständnisse",
+      "genitive": "Verständnisses"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "verstehen|stem",
+      "-nis|suffix"
+    ],
+    "senses": [
+      {
+        "en": "understanding, comprehension",
+        "ko": "이해",
+        "examples": [
+          {
+            "text": "Das Verständnis der Grammatik braucht Zeit.",
+            "ko": "문법을 이해하는 데는 시간이 걸린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "sympathy",
+        "ko": "공감, 이해심",
+        "examples": [
+          {
+            "text": "Mein Chef hat Verständnis für meine Lage.",
+            "ko": "상사는 내 처지를 이해해 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Versuch",
+    "level": "b1",
+    "zipf": 4.87,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Versuche",
+      "genitive": "Versuches"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "attempt",
+        "ko": "시도",
+        "examples": [
+          {
+            "text": "Das ist mein zweiter Versuch.",
+            "ko": "이것이 내 두 번째 시도이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "experiment; test, trial",
+        "ko": "실험, 시험",
+        "examples": [
+          {
+            "text": "Im Labor machen wir einen Versuch.",
+            "ko": "우리는 실험실에서 실험을 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "versäumen",
+    "level": "b1",
+    "zipf": 3.11,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "versäumt",
+      "past": "versäumte",
+      "pp": "versäumt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to miss, to omit, to fail to do something important",
+        "ko": "놓치다, 소홀히 하다",
+        "examples": [
+          {
+            "text": "Ich habe den Bus versäumt.",
+            "ko": "나는 버스를 놓쳤다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verteilen",
+    "level": "b1",
+    "zipf": 4.23,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verteilt",
+      "past": "verteilte",
+      "pp": "verteilt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "teilen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to distribute",
+        "ko": "나누어 주다, 분배하다",
+        "examples": [
+          {
+            "text": "Die Lehrerin verteilt die Hefte.",
+            "ko": "선생님이 공책을 나누어 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to spread out",
+        "ko": "퍼뜨리다, 펼치다",
+        "examples": [
+          {
+            "text": "Sie verteilt die Butter gleichmäßig auf dem Brot.",
+            "ko": "그녀는 버터를 빵에 고르게 펴 바른다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vertrauen",
+    "level": "b1",
+    "zipf": 4.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Vertrauens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "gerund of vertrauen; trust (confidence in or reliance on some person or quality)",
+        "ko": "신뢰, 믿음",
+        "examples": [
+          {
+            "text": "Zwischen uns gibt es viel Vertrauen.",
+            "ko": "우리 사이에는 신뢰가 깊다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vertrauen",
+    "level": "b1",
+    "zipf": 4.79,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "trauen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to trust",
+        "ko": "신뢰하다, 믿다",
+        "examples": [
+          {
+            "text": "Ich vertraue dir.",
+            "ko": "나는 너를 믿는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vertreten",
+    "level": "b1",
+    "zipf": 4.77,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "vertritt",
+      "past": "vertrat",
+      "pp": "vertreten",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "treten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to fill in for, to substitute",
+        "ko": "대신하다, 대리하다",
+        "examples": [
+          {
+            "text": "Ein Kollege vertritt mich nächste Woche.",
+            "ko": "다음 주에는 동료가 나를 대신한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to represent",
+        "ko": "대표하다",
+        "examples": [
+          {
+            "text": "Der Anwalt vertritt seinen Mandanten.",
+            "ko": "변호사가 의뢰인을 대변한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to advocate, defend (a cause), to hold (an opinion)",
+        "ko": "(의견을) 주장하다",
+        "examples": [
+          {
+            "text": "Ich vertrete eine andere Meinung.",
+            "ko": "나는 다른 의견을 가지고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vertreter",
+    "level": "b1",
+    "zipf": 4.71,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Vertreter",
+      "genitive": "Vertreters"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vertreten|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "representative, agent",
+        "ko": "대표자, 대리인",
+        "examples": [
+          {
+            "text": "Der Vertreter der Firma kommt morgen.",
+            "ko": "회사 대표가 내일 온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vertreterin",
+    "level": "b1",
+    "zipf": 3.27,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Vertreterinnen",
+      "genitive": "Vertreterin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Vertreter|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Vertreter",
+        "ko": "여성 대표자, 여성 대리인",
+        "examples": [
+          {
+            "text": "Die Vertreterin der Firma stellt das Produkt vor.",
+            "ko": "회사의 여성 대표가 제품을 소개한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vertretung",
+    "level": "b1",
+    "zipf": 3.99,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Vertretungen",
+      "genitive": "Vertretung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vertreten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "substitute, deputy (that which substitutes)",
+        "ko": "대리인, 대체자",
+        "examples": [
+          {
+            "text": "Die Vertretung unterrichtet heute die Klasse.",
+            "ko": "오늘은 대체 교사가 수업을 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "substitution, deputyship (the act of replacing someone during their absence)",
+        "ko": "대리, 대신함",
+        "examples": [
+          {
+            "text": "Ich übernehme die Vertretung für meine Kollegin.",
+            "ko": "나는 동료를 대신해 업무를 맡는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verursachen",
+    "level": "b1",
+    "zipf": 4.07,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verursacht",
+      "past": "verursachte",
+      "pp": "verursacht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "Ursache|stem"
+    ],
+    "senses": [
+      {
+        "en": "to cause, to induce",
+        "ko": "일으키다, 야기하다",
+        "examples": [
+          {
+            "text": "Der Regen verursacht viele Unfälle.",
+            "ko": "비가 많은 사고를 일으킨다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verurteilen",
+    "level": "b1",
+    "zipf": 3.75,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verurteilt",
+      "past": "verurteilte",
+      "pp": "verurteilt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "urteilen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to convict, condemn, sentence",
+        "ko": "유죄 판결하다, 선고하다",
+        "examples": [
+          {
+            "text": "Das Gericht verurteilt den Mann zu einer Geldstrafe.",
+            "ko": "법원은 그 남자에게 벌금형을 선고한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to condemn, strongly denounce",
+        "ko": "비난하다, 규탄하다",
+        "examples": [
+          {
+            "text": "Viele Politiker verurteilen die Gewalt.",
+            "ko": "많은 정치인이 폭력을 규탄한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verwaltung",
+    "level": "b1",
+    "zipf": 4.71,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Verwaltungen",
+      "genitive": "Verwaltung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "verwalten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "administration, management, administering, managing",
+        "ko": "관리, 행정",
+        "examples": [
+          {
+            "text": "Die Verwaltung der Stadt ist im Rathaus.",
+            "ko": "시 행정 기관은 시청에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verwandt",
+    "level": "b1",
+    "zipf": 3.98,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "verwandter",
+      "superlative": "am verwandtesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "related (connected by blood, adoption, or marriage)",
+        "ko": "친척 관계의",
+        "examples": [
+          {
+            "text": "Wir sind miteinander verwandt.",
+            "ko": "우리는 서로 친척이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "related (standing in relation or connection)",
+        "ko": "관련된",
+        "examples": [
+          {
+            "text": "Die beiden Sprachen sind verwandt.",
+            "ko": "그 두 언어는 서로 관련이 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verwechseln",
+    "level": "b1",
+    "zipf": 3.88,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verwechselt",
+      "past": "verwechselte",
+      "pp": "verwechselt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "wechseln|stem"
+    ],
+    "senses": [
+      {
+        "en": "to mix up; to confuse or mistake something for something else",
+        "ko": "혼동하다, 착각하다",
+        "examples": [
+          {
+            "text": "Ich verwechsle oft die Zwillinge.",
+            "ko": "나는 그 쌍둥이를 자주 헷갈린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verwenden",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "verwendet",
+      "past": "verwendete",
+      "pp": "verwendet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "wenden|stem"
+    ],
+    "senses": [
+      {
+        "en": "to use, to employ, to apply",
+        "ko": "사용하다, 쓰다",
+        "examples": [
+          {
+            "text": "Ich verwende oft ein Wörterbuch.",
+            "ko": "나는 사전을 자주 사용한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verzeihen",
+    "level": "b1",
+    "zipf": 3.71,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "verzeiht",
+      "past": "verzieh",
+      "pp": "verziehen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "zeihen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to forgive; to pardon; to excuse",
+        "ko": "용서하다",
+        "examples": [
+          {
+            "text": "Bitte verzeih mir den Fehler.",
+            "ko": "내 실수를 용서해 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verzeihung",
+    "level": "b1",
+    "zipf": 3.5,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Verzeihung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "verzeihen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "forgiveness",
+        "ko": "용서, 실례",
+        "examples": [
+          {
+            "text": "Verzeihung, wo ist der Bahnhof?",
+            "ko": "실례합니다, 역이 어디예요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verzichten",
+    "level": "b1",
+    "zipf": 4.51,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verzichtet",
+      "past": "verzichtete",
+      "pp": "verzichtet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep"
+    ],
+    "senses": [
+      {
+        "en": "to give up, to go without, to live without, to make do without, to do without, to forgo, to dispense with",
+        "ko": "포기하다, 없이 지내다",
+        "examples": [
+          {
+            "text": "Ich verzichte auf Zucker.",
+            "ko": "나는 설탕 없이 지낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verändern",
+    "level": "b1",
+    "zipf": 4.47,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "verändert",
+      "past": "veränderte",
+      "pp": "verändert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "ändern|stem"
+    ],
+    "senses": [
+      {
+        "en": "to alter, to change",
+        "ko": "바꾸다, 변화시키다",
+        "examples": [
+          {
+            "text": "Der Umzug verändert mein Leben.",
+            "ko": "이사는 내 삶을 바꾼다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to change",
+        "ko": "변하다",
+        "examples": [
+          {
+            "text": "Die Stadt hat sich sehr verändert.",
+            "ko": "도시가 많이 변했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "veröffentlichen",
+    "level": "b1",
+    "zipf": 4.17,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "veröffentlicht",
+      "past": "veröffentlichte",
+      "pp": "veröffentlicht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "öffentlich|stem"
+    ],
+    "senses": [
+      {
+        "en": "to publish",
+        "ko": "출판하다, 공개하다",
+        "examples": [
+          {
+            "text": "Die Zeitung veröffentlicht den Artikel morgen.",
+            "ko": "신문은 그 기사를 내일 게재한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Video",
+    "level": "b1",
+    "zipf": 5.13,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Videos",
+      "genitive": "Videos"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "video",
+        "ko": "비디오, 영상",
+        "examples": [
+          {
+            "text": "Ich sehe ein Video.",
+            "ko": "나는 영상을 본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Viertel",
+    "level": "b1",
+    "zipf": 4.46,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Viertel",
+      "genitive": "Viertels"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vier|stem",
+      "Teil|stem"
+    ],
+    "senses": [
+      {
+        "en": "quarter, fourth",
+        "ko": "4분의 1, 15분",
+        "examples": [
+          {
+            "text": "Es ist Viertel nach drei.",
+            "ko": "3시 15분이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "virtuell",
+    "level": "b1",
+    "zipf": 3.27,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "virtual (in effect; not fact)",
+        "ko": "가상의",
+        "examples": [
+          {
+            "text": "Wir haben ein virtuelles Treffen.",
+            "ko": "우리는 가상 회의를 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Virus",
+    "level": "b1",
+    "zipf": 4.29,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Viren",
+      "genitive": "Virus"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "virus",
+        "ko": "바이러스",
+        "examples": [
+          {
+            "text": "Ein Virus macht mich krank.",
+            "ko": "바이러스 때문에 내가 아프다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "computer virus",
+        "ko": "컴퓨터 바이러스",
+        "examples": [
+          {
+            "text": "Mein Computer hat einen Virus.",
+            "ko": "내 컴퓨터에 바이러스가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Visitenkarte",
+    "level": "b1",
+    "zipf": 3.38,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Visitenkarten",
+      "genitive": "Visitenkarte"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Visite|stem",
+      "Karte|stem"
+    ],
+    "senses": [
+      {
+        "en": "business card",
+        "ko": "명함",
+        "examples": [
+          {
+            "text": "Hier ist meine Visitenkarte.",
+            "ko": "여기 제 명함입니다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Visum",
+    "level": "b1",
+    "zipf": 3.55,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Visa",
+      "genitive": "Visums"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "visa (permit to enter a country)",
+        "ko": "비자, 입국 허가",
+        "examples": [
+          {
+            "text": "Ich brauche ein Visum für die Reise.",
+            "ko": "나는 여행하려면 비자가 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vitamin",
+    "level": "b1",
+    "zipf": 3.87,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Vitamine",
+      "genitive": "Vitamins"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "vitamin",
+        "ko": "비타민",
+        "examples": [
+          {
+            "text": "Obst hat viele Vitamine.",
+            "ko": "과일에는 비타민이 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vollzeit",
+    "level": "b1",
+    "zipf": 3.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Vollzeit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "voll|stem",
+      "Zeit|stem"
+    ],
+    "senses": [
+      {
+        "en": "full time",
+        "ko": "풀타임, 전일제",
+        "examples": [
+          {
+            "text": "Sie arbeitet in Vollzeit.",
+            "ko": "그녀는 풀타임으로 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "voneinander",
+    "level": "b1",
+    "zipf": 4.2,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "von|stem",
+      "einander|stem"
+    ],
+    "senses": [
+      {
+        "en": "from / of one another, from / of each other",
+        "ko": "서로에게서, 서로에 대해",
+        "examples": [
+          {
+            "text": "Wir lernen voneinander.",
+            "ko": "우리는 서로에게서 배운다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vor allem",
+    "level": "b1",
+    "zipf": 5.51,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|stem",
+      "alle|stem"
+    ],
+    "senses": [
+      {
+        "en": "above all (of prime importance), especially, particularly",
+        "ko": "무엇보다도, 특히",
+        "examples": [
+          {
+            "text": "Ich mag Obst, vor allem Äpfel.",
+            "ko": "나는 과일, 특히 사과를 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "voraus",
+    "level": "b1",
+    "zipf": 4.55,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|stem",
+      "aus|stem"
+    ],
+    "senses": [
+      {
+        "en": "in front, ahead",
+        "ko": "앞으로, 앞서",
+        "examples": [
+          {
+            "text": "Geh schon voraus, ich komme gleich.",
+            "ko": "먼저 가, 나도 곧 갈게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Voraussetzung",
+    "level": "b1",
+    "zipf": 4.29,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Voraussetzungen",
+      "genitive": "Voraussetzung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "voraussetzen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "requirement, prerequisite",
+        "ko": "필수 조건, 전제 조건",
+        "examples": [
+          {
+            "text": "Gute Deutschkenntnisse sind eine Voraussetzung.",
+            "ko": "좋은 독일어 실력이 필수 조건이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "postulate, presupposition",
+        "ko": "가정, 전제",
+        "examples": [
+          {
+            "text": "Diese Voraussetzung ist leider falsch.",
+            "ko": "이 전제는 안타깝게도 틀렸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "voraussichtlich",
+    "level": "b1",
+    "zipf": 4.0,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Voraussicht|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "expected, anticipated, prospected",
+        "ko": "예상되는, 아마도",
+        "examples": [
+          {
+            "text": "Der Zug kommt voraussichtlich um zehn Uhr an.",
+            "ko": "기차는 아마 10시에 도착할 것이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vorbereitung",
+    "level": "b1",
+    "zipf": 4.46,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Vorbereitungen",
+      "genitive": "Vorbereitung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vorbereiten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "preparation",
+        "ko": "준비",
+        "examples": [
+          {
+            "text": "Die Vorbereitung für die Prüfung dauert lange.",
+            "ko": "시험 준비는 오래 걸린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vorder",
+    "level": "b1",
+    "zipf": 3.32,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "front, forward, leading",
+        "ko": "앞쪽의",
+        "examples": [
+          {
+            "text": "Ich sitze in der vorderen Reihe.",
+            "ko": "나는 앞줄에 앉는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vorfahrt",
+    "level": "b1",
+    "zipf": 3.44,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Vorfahrten",
+      "genitive": "Vorfahrt"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|stem",
+      "Fahrt|stem"
+    ],
+    "senses": [
+      {
+        "en": "priority, right of way",
+        "ko": "우선 통행권",
+        "examples": [
+          {
+            "text": "Hier hat das rechte Auto Vorfahrt.",
+            "ko": "여기서는 오른쪽 차가 우선권이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vorhaben",
+    "level": "b1",
+    "zipf": 4.23,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "hat vor",
+      "past": "hatte vor",
+      "pp": "vorgehabt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "vor"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|sep",
+      "haben|stem"
+    ],
+    "senses": [
+      {
+        "en": "to intend, to have (something) planned, to have (something) to do",
+        "ko": "계획하다, 할 예정이다",
+        "examples": [
+          {
+            "text": "Ich habe am Wochenende viel vor.",
+            "ko": "나는 주말에 할 일이 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vorhin",
+    "level": "b1",
+    "zipf": 4.23,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|stem",
+      "hin|stem"
+    ],
+    "senses": [
+      {
+        "en": "earlier (a short time ago, typically between minutes and a few hours ago)",
+        "ko": "아까, 조금 전에",
+        "examples": [
+          {
+            "text": "Ich habe vorhin mit ihm gesprochen.",
+            "ko": "나는 아까 그와 이야기했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vorkommen",
+    "level": "b1",
+    "zipf": 4.35,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "kommt vor",
+      "past": "kam vor",
+      "pp": "vorgekommen",
+      "aux": "sein",
+      "separable": true,
+      "prefix": "vor"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|sep",
+      "kommen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to appear, to occur (in a given location or situation)",
+        "ko": "나타나다, 존재하다",
+        "examples": [
+          {
+            "text": "Dieses Wort kommt im Text oft vor.",
+            "ko": "이 단어는 글에 자주 나온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to seem, to appear",
+        "ko": "~처럼 보이다, 느껴지다",
+        "examples": [
+          {
+            "text": "Das kommt mir bekannt vor.",
+            "ko": "그게 낯익게 느껴져.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vorlesen",
+    "level": "b1",
+    "zipf": 3.7,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "liest vor",
+      "past": "las vor",
+      "pp": "vorgelesen",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "vor"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|sep",
+      "lesen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to read (aloud)",
+        "ko": "소리 내어 읽어 주다",
+        "examples": [
+          {
+            "text": "Der Vater liest dem Kind eine Geschichte vor.",
+            "ko": "아빠가 아이에게 이야기를 읽어 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vorläufig",
+    "level": "b1",
+    "zipf": 3.88,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "preliminary",
+        "ko": "예비의, 잠정적인",
+        "examples": [
+          {
+            "text": "Das ist nur ein vorläufiges Ergebnis.",
+            "ko": "이것은 잠정적인 결과일 뿐이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "provisional, temporary, interim, tentative",
+        "ko": "임시의, 일단의",
+        "examples": [
+          {
+            "text": "Ich wohne vorläufig bei Freunden.",
+            "ko": "나는 당분간 친구 집에 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vorort",
+    "level": "b1",
+    "zipf": 3.55,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Vororte",
+      "genitive": "Vorortes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|stem",
+      "Ort|stem"
+    ],
+    "senses": [
+      {
+        "en": "suburb",
+        "ko": "교외",
+        "examples": [
+          {
+            "text": "Wir wohnen in einem Vorort von Berlin.",
+            "ko": "우리는 베를린 교외에 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vorschlagen",
+    "level": "b1",
+    "zipf": 3.86,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "schlägt vor",
+      "past": "schlug vor",
+      "pp": "vorgeschlagen",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "vor"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|sep",
+      "schlagen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to propose, to suggest",
+        "ko": "제안하다",
+        "examples": [
+          {
+            "text": "Ich schlage einen Spaziergang vor.",
+            "ko": "나는 산책을 제안한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vorschrift",
+    "level": "b1",
+    "zipf": 3.75,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Vorschriften",
+      "genitive": "Vorschrift"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|stem",
+      "Schrift|stem"
+    ],
+    "senses": [
+      {
+        "en": "regulation, rule",
+        "ko": "규정, 규칙",
+        "examples": [
+          {
+            "text": "Hier gelten strenge Vorschriften.",
+            "ko": "여기에는 엄격한 규정이 적용된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "prescription",
+        "ko": "지시, 처방",
+        "examples": [
+          {
+            "text": "Er arbeitet genau nach Vorschrift.",
+            "ko": "그는 정확히 지시대로 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vorstellung",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Vorstellungen",
+      "genitive": "Vorstellung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vorstellen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "idea, image, representation (the transcript, image, or picture of a visible object that is formed by the mind)",
+        "ko": "생각, 상상",
+        "examples": [
+          {
+            "text": "Ich habe keine Vorstellung davon.",
+            "ko": "나는 그것에 대해 전혀 감이 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "introduction",
+        "ko": "소개",
+        "examples": [
+          {
+            "text": "Nach der Vorstellung trinken wir Kaffee.",
+            "ko": "소개가 끝난 뒤 우리는 커피를 마신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "presentation",
+        "ko": "공연, 상연",
+        "examples": [
+          {
+            "text": "Die Vorstellung beginnt um acht Uhr.",
+            "ko": "공연은 8시에 시작한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vorstellungsgespräch",
+    "level": "b1",
+    "zipf": 3.53,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Vorstellungsgespräche",
+      "genitive": "Vorstellungsgespräches"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Vorstellung|stem",
+      "Gespräch|stem"
+    ],
+    "senses": [
+      {
+        "en": "a job interview",
+        "ko": "면접",
+        "examples": [
+          {
+            "text": "Morgen habe ich ein Vorstellungsgespräch.",
+            "ko": "내일 나는 면접이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vorteil",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Vorteile",
+      "genitive": "Vorteiles"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|stem",
+      "Teil|stem"
+    ],
+    "senses": [
+      {
+        "en": "advantage, plus, benefit, perk (of a job)",
+        "ko": "장점, 이점",
+        "examples": [
+          {
+            "text": "Das Auto hat viele Vorteile.",
+            "ko": "자동차에는 장점이 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vortrag",
+    "level": "b1",
+    "zipf": 4.47,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Vorträge",
+      "genitive": "Vortrages"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|stem",
+      "tragen|stem"
+    ],
+    "senses": [
+      {
+        "en": "talk, lecture",
+        "ko": "강연, 발표",
+        "examples": [
+          {
+            "text": "Heute Abend halte ich einen Vortrag.",
+            "ko": "오늘 저녁에 나는 발표를 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vorwurf",
+    "level": "b1",
+    "zipf": 4.28,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Vorwürfe",
+      "genitive": "Vorwurfes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|stem",
+      "werfen|stem"
+    ],
+    "senses": [
+      {
+        "en": "reproach",
+        "ko": "비난, 책망",
+        "examples": [
+          {
+            "text": "Er macht mir einen Vorwurf.",
+            "ko": "그는 나를 책망한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "accusation",
+        "ko": "혐의, 비난",
+        "examples": [
+          {
+            "text": "Der Vorwurf ist nicht wahr.",
+            "ko": "그 혐의는 사실이 아니다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "völlig",
+    "level": "b1",
+    "zipf": 5.16,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "voll|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "complete, total, utter",
+        "ko": "완전한, 전적인",
+        "examples": [
+          {
+            "text": "Das ist völliger Unsinn.",
+            "ko": "그건 완전히 말도 안 되는 소리다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

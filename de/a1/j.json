@@ -1,0 +1,238 @@
+[
+  {
+    "word": "ja",
+    "level": "a1",
+    "zipf": 6.33,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "yes",
+        "ko": "네, 예",
+        "examples": [
+          {
+            "text": "Ja, das stimmt.",
+            "ko": "네, 맞아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "obviously; certainly; of course; as you know; as is generally known (indicates and emphasises that one is expressing an established fact)",
+        "ko": "~잖아, 물론",
+        "examples": [
+          {
+            "text": "Du weißt ja, ich mag keinen Fisch.",
+            "ko": "너도 알다시피 난 생선을 안 좋아해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Jacke",
+    "level": "a1",
+    "zipf": 4.24,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Jacken",
+      "genitive": "Jacke"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "jacket",
+        "ko": "재킷, 점퍼",
+        "examples": [
+          {
+            "text": "Es ist kalt, nimm deine Jacke mit.",
+            "ko": "추우니까 재킷을 가져가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "jed",
+    "level": "a1",
+    "zipf": 2.92,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "each, every",
+        "ko": "각각의, 모든",
+        "examples": [
+          {
+            "text": "Jeder Tag ist anders.",
+            "ko": "모든 날이 다르다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "jetzt",
+    "level": "a1",
+    "zipf": 6.21,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "now (at this moment, right now)",
+        "ko": "지금",
+        "examples": [
+          {
+            "text": "Ich muss jetzt gehen.",
+            "ko": "나는 지금 가야 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Job",
+    "level": "a1",
+    "zipf": 5.08,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Jobs",
+      "genitive": "Jobs"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "job, work, profession",
+        "ko": "일, 직업",
+        "examples": [
+          {
+            "text": "Ich suche einen neuen Job.",
+            "ko": "나는 새 일자리를 찾고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Jugendliche",
+    "level": "a1",
+    "zipf": 4.59,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m",
+        "f"
+      ],
+      "plural": "Jugendliche",
+      "genitive": "Jugendlicher"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "female equivalent of Jugendlicher: female youth, female teenager, female adolescent (up to 17–19 years of age)",
+        "ko": "청소년 (여자)",
+        "examples": [
+          {
+            "text": "Die Jugendliche spielt gern Gitarre.",
+            "ko": "그 청소년 소녀는 기타 치는 걸 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "jung",
+    "level": "a1",
+    "zipf": 4.7,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "jünger",
+      "superlative": "am jüngsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "young",
+        "ko": "젊은, 어린",
+        "examples": [
+          {
+            "text": "Meine Schwester ist noch jung.",
+            "ko": "내 여동생은 아직 어리다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Junge",
+    "level": "a1",
+    "zipf": 5.31,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Jungen",
+      "genitive": "Jungen"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "boy",
+        "ko": "남자아이, 소년",
+        "examples": [
+          {
+            "text": "Der Junge spielt im Garten.",
+            "ko": "그 남자아이는 정원에서 논다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

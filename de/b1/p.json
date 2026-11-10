@@ -1,0 +1,2024 @@
+[
+  {
+    "word": "paar",
+    "level": "b1",
+    "zipf": 5.56,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a few, some (ein paar)",
+        "ko": "몇몇의, 몇 개의",
+        "examples": [
+          {
+            "text": "Ich brauche ein paar Minuten.",
+            "ko": "나는 몇 분이 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "pair, couple",
+        "ko": "한 쌍, 커플",
+        "examples": [
+          {
+            "text": "Das Paar tanzt zusammen.",
+            "ko": "그 커플은 함께 춤춘다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Panne",
+    "level": "b1",
+    "zipf": 3.56,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Pannen",
+      "genitive": "Panne"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "breakdown",
+        "ko": "고장",
+        "examples": [
+          {
+            "text": "Wir hatten eine Panne auf der Autobahn.",
+            "ko": "우리는 고속도로에서 차가 고장 났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "parallel",
+    "level": "b1",
+    "zipf": 4.43,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "parallel",
+        "ko": "평행한, 나란한",
+        "examples": [
+          {
+            "text": "Die Straßen laufen parallel.",
+            "ko": "그 도로들은 나란히 뻗어 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Passagier",
+    "level": "b1",
+    "zipf": 3.47,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Passagiere",
+      "genitive": "Passagiers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "passenger (especially of a plane or ship, but applicable to all transport)",
+        "ko": "승객",
+        "examples": [
+          {
+            "text": "Die Passagiere steigen in den Zug ein.",
+            "ko": "승객들이 기차에 탄다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Passagierin",
+    "level": "b1",
+    "zipf": 2.13,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Passagierinnen",
+      "genitive": "Passagierin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Passagier|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female passenger",
+        "ko": "여성 승객",
+        "examples": [
+          {
+            "text": "Die Passagierin sucht ihren Sitzplatz.",
+            "ko": "그 여성 승객은 자기 좌석을 찾는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "passiv",
+    "level": "b1",
+    "zipf": 3.76,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "passive",
+        "ko": "수동적인",
+        "examples": [
+          {
+            "text": "Er ist im Unterricht sehr passiv.",
+            "ko": "그는 수업 시간에 매우 수동적이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Patient",
+    "level": "b1",
+    "zipf": 4.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Patienten",
+      "genitive": "Patienten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "patient (male or of unspecified sex or female)",
+        "ko": "환자",
+        "examples": [
+          {
+            "text": "Der Patient wartet im Wartezimmer.",
+            "ko": "환자가 대기실에서 기다린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Patientin",
+    "level": "b1",
+    "zipf": 3.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Patientinnen",
+      "genitive": "Patientin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Patient|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "patient (female)",
+        "ko": "여성 환자",
+        "examples": [
+          {
+            "text": "Die Patientin hat Fieber.",
+            "ko": "그 여성 환자는 열이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "pauschal",
+    "level": "b1",
+    "zipf": 3.7,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "pauschaler",
+      "superlative": "am pauschalsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "in total, in a lump sum, all-inclusive, flat (with units of time, distance, etc.: not exceeding)",
+        "ko": "일괄적인, 포괄 요금의",
+        "examples": [
+          {
+            "text": "Die Reise kostet pauschal 500 Euro.",
+            "ko": "그 여행은 일괄 500유로이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "general, undifferentiated",
+        "ko": "뭉뚱그린, 일률적인",
+        "examples": [
+          {
+            "text": "Man kann das nicht so pauschal sagen.",
+            "ko": "그건 그렇게 뭉뚱그려 말할 수 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pech",
+    "level": "b1",
+    "zipf": 4.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Peche",
+      "genitive": "Pechs"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "bad luck, misfortune",
+        "ko": "불운, 재수 없음",
+        "examples": [
+          {
+            "text": "Ich habe heute wirklich Pech.",
+            "ko": "나는 오늘 정말 운이 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "pitch (sticky substance)",
+        "ko": "송진, 피치",
+        "examples": [
+          {
+            "text": "Das Pech klebt an meinen Händen.",
+            "ko": "끈적한 피치가 내 손에 붙었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "peinlich",
+    "level": "b1",
+    "zipf": 4.35,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "peinlicher",
+      "superlative": "am peinlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "embarrassing, cringeworthy, or otherwise awkward, perverse, adverse, untoward",
+        "ko": "창피한, 민망한",
+        "examples": [
+          {
+            "text": "Das ist mir sehr peinlich.",
+            "ko": "그건 나한테 정말 창피한 일이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "meticulous",
+        "ko": "꼼꼼한, 철저한",
+        "examples": [
+          {
+            "text": "Er ist peinlich genau.",
+            "ko": "그는 지나칠 만큼 꼼꼼하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pension",
+    "level": "b1",
+    "zipf": 3.95,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Pensionen",
+      "genitive": "Pension"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "boarding house, pension",
+        "ko": "펜션, 민박집",
+        "examples": [
+          {
+            "text": "Wir übernachten in einer kleinen Pension.",
+            "ko": "우리는 작은 펜션에서 묵는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "retirement",
+        "ko": "은퇴, 퇴직",
+        "examples": [
+          {
+            "text": "Mein Vater geht bald in Pension.",
+            "ko": "우리 아버지는 곧 은퇴하신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "per",
+    "level": "b1",
+    "zipf": 5.11,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "by, by means of, through, via",
+        "ko": "~로, ~을 통해",
+        "examples": [
+          {
+            "text": "Ich schicke dir die Datei per E-Mail.",
+            "ko": "내가 파일을 이메일로 보내 줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "perfekt",
+    "level": "b1",
+    "zipf": 4.84,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "perfect",
+        "ko": "완벽한",
+        "examples": [
+          {
+            "text": "Dein Deutsch ist perfekt.",
+            "ko": "네 독일어는 완벽해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Personal",
+    "level": "b1",
+    "zipf": 4.53,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Personale",
+      "genitive": "Personals"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "staff, personnel, employees",
+        "ko": "직원, 인력",
+        "examples": [
+          {
+            "text": "Das Personal im Hotel ist freundlich.",
+            "ko": "호텔 직원들은 친절하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Personalien",
+    "level": "b1",
+    "zipf": 3.34,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Personalien",
+      "number": "pl"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "personal details (name, address, date of birth)",
+        "ko": "인적 사항",
+        "examples": [
+          {
+            "text": "Bitte geben Sie Ihre Personalien an.",
+            "ko": "인적 사항을 적어 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Personenstand",
+    "level": "b1",
+    "zipf": 2.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "Person|stem",
+      "Stand|stem"
+    ],
+    "senses": [
+      {
+        "en": "marital status, civil status",
+        "ko": "혼인 상태, 신분 사항",
+        "examples": [
+          {
+            "text": "Beim Personenstand schreibe ich: ledig.",
+            "ko": "신분 사항란에 나는 미혼이라고 쓴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "persönlich",
+    "level": "b1",
+    "zipf": 4.82,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "persönlicher",
+      "superlative": "am persönlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Person|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "personal",
+        "ko": "개인적인, 직접의",
+        "examples": [
+          {
+            "text": "Das ist meine persönliche Meinung.",
+            "ko": "이것은 내 개인적인 의견이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "friendly (atmosphere etc.)",
+        "ko": "친근한, 아늑한",
+        "examples": [
+          {
+            "text": "Das Hotel hat eine persönliche Atmosphäre.",
+            "ko": "그 호텔은 친근한 분위기이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pfanne",
+    "level": "b1",
+    "zipf": 3.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Pfannen",
+      "genitive": "Pfanne"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "frying pan",
+        "ko": "프라이팬",
+        "examples": [
+          {
+            "text": "Ich brate die Eier in der Pfanne.",
+            "ko": "나는 프라이팬에 달걀을 굽는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pfeffer",
+    "level": "b1",
+    "zipf": 3.81,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Pfeffer",
+      "genitive": "Pfeffers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pepper (plant of the family Piperaceae and spice made therefrom)",
+        "ko": "후추",
+        "examples": [
+          {
+            "text": "Bitte gib mir Salz und Pfeffer.",
+            "ko": "소금과 후추 좀 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "pflanzen",
+    "level": "b1",
+    "zipf": 4.59,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "pflanzt",
+      "past": "pflanzte",
+      "pp": "gepflanzt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to plant",
+        "ko": "심다",
+        "examples": [
+          {
+            "text": "Wir pflanzen einen Baum im Garten.",
+            "ko": "우리는 정원에 나무를 심는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pflaster",
+    "level": "b1",
+    "zipf": 3.74,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Pflaster",
+      "genitive": "Pflasters"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "clipping of Heftpflaster (“band-aid, sticking plaster”)",
+        "ko": "반창고",
+        "examples": [
+          {
+            "text": "Ich brauche ein Pflaster für meinen Finger.",
+            "ko": "내 손가락에 붙일 반창고가 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "pavement, cobbles (covering of paths or roadways made of blocks of stone or similar material)",
+        "ko": "포장도로, 보도블록",
+        "examples": [
+          {
+            "text": "Das Pflaster in der Altstadt ist sehr alt.",
+            "ko": "구시가지의 포장도로는 아주 오래되었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pflaume",
+    "level": "b1",
+    "zipf": 3.09,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Pflaumen",
+      "genitive": "Pflaume"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "plum",
+        "ko": "자두",
+        "examples": [
+          {
+            "text": "Im Sommer esse ich gern Pflaumen.",
+            "ko": "여름에 나는 자두를 즐겨 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "pflegen",
+    "level": "b1",
+    "zipf": 4.1,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "pflegt",
+      "past": "pflegte",
+      "pp": "gepflegt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to nurse; to care for someone in poor health",
+        "ko": "간병하다, 돌보다",
+        "examples": [
+          {
+            "text": "Sie pflegt ihre kranke Mutter.",
+            "ko": "그녀는 아픈 어머니를 돌본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to take care of, to tend to, to maintain",
+        "ko": "관리하다, 가꾸다",
+        "examples": [
+          {
+            "text": "Er pflegt seinen Garten.",
+            "ko": "그는 자기 정원을 가꾼다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to perform habitually; to be accustomed (to); to be in the habit (of)",
+        "ko": "~하곤 하다",
+        "examples": [
+          {
+            "text": "Er pflegt morgens Zeitung zu lesen.",
+            "ko": "그는 아침마다 신문을 읽곤 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pfleger",
+    "level": "b1",
+    "zipf": 3.67,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Pfleger",
+      "genitive": "Pflegers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "pflegen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "nurse, caregiver (male)",
+        "ko": "간병인, 남자 간호사",
+        "examples": [
+          {
+            "text": "Der Pfleger hilft dem alten Mann.",
+            "ko": "간병인이 그 노인을 돕는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pflegerin",
+    "level": "b1",
+    "zipf": 2.95,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Pflegerinnen",
+      "genitive": "Pflegerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Pfleger|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female nurse, female caregiver",
+        "ko": "여성 간병인, 여자 간호사",
+        "examples": [
+          {
+            "text": "Die Pflegerin kommt jeden Morgen.",
+            "ko": "여성 간병인이 매일 아침 온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pflicht",
+    "level": "b1",
+    "zipf": 4.56,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Pflichten",
+      "genitive": "Pflicht"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "duty",
+        "ko": "의무",
+        "examples": [
+          {
+            "text": "Es ist meine Pflicht zu helfen.",
+            "ko": "돕는 것은 내 의무이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Phantasie",
+    "level": "b1",
+    "zipf": 3.77,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Phantasien"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "imagination, fantasy",
+        "ko": "상상력, 환상",
+        "examples": [
+          {
+            "text": "Kinder haben viel Phantasie.",
+            "ko": "아이들은 상상력이 풍부해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Picknick",
+    "level": "b1",
+    "zipf": 3.48,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Picknicke",
+      "genitive": "Picknicks"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "picnic",
+        "ko": "소풍, 피크닉",
+        "examples": [
+          {
+            "text": "Am Sonntag machen wir ein Picknick im Park.",
+            "ko": "일요일에 우리는 공원에서 소풍을 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pille",
+    "level": "b1",
+    "zipf": 3.84,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Pillen",
+      "genitive": "Pille"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pill, tablet",
+        "ko": "알약",
+        "examples": [
+          {
+            "text": "Ich muss jeden Tag eine Pille nehmen.",
+            "ko": "나는 매일 알약 하나를 먹어야 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pilz",
+    "level": "b1",
+    "zipf": 3.82,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Pilze",
+      "genitive": "Pilzes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "mushroom",
+        "ko": "버섯",
+        "examples": [
+          {
+            "text": "Wir sammeln Pilze im Wald.",
+            "ko": "우리는 숲에서 버섯을 딴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Planung",
+    "level": "b1",
+    "zipf": 4.5,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Planungen",
+      "genitive": "Planung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "planen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "planning",
+        "ko": "계획, 기획",
+        "examples": [
+          {
+            "text": "Die Planung für die Reise dauert lange.",
+            "ko": "여행 계획을 세우는 데 오래 걸린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Plastik",
+    "level": "b1",
+    "zipf": 4.05,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Plastiks"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "plastic (synthetic material)",
+        "ko": "플라스틱",
+        "examples": [
+          {
+            "text": "Viele Flaschen sind aus Plastik.",
+            "ko": "많은 병이 플라스틱으로 되어 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Politik",
+    "level": "b1",
+    "zipf": 5.24,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Politiken",
+      "genitive": "Politik"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "politics (profession of conducting political affairs)",
+        "ko": "정치",
+        "examples": [
+          {
+            "text": "Er interessiert sich für Politik.",
+            "ko": "그는 정치에 관심이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "policy (principle of action applied or followed by a government or organization)",
+        "ko": "정책",
+        "examples": [
+          {
+            "text": "Die Politik der Regierung ändert sich.",
+            "ko": "정부의 정책이 바뀐다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Politiker",
+    "level": "b1",
+    "zipf": 4.99,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Politiker",
+      "genitive": "Politikers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Politik|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "politician",
+        "ko": "정치인",
+        "examples": [
+          {
+            "text": "Der Politiker hält eine Rede.",
+            "ko": "그 정치인이 연설을 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Politikerin",
+    "level": "b1",
+    "zipf": 3.8,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Politikerinnen",
+      "genitive": "Politikerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Politiker|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female politician",
+        "ko": "여성 정치인",
+        "examples": [
+          {
+            "text": "Die Politikerin spricht im Fernsehen.",
+            "ko": "그 여성 정치인이 텔레비전에서 이야기한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "politisch",
+    "level": "b1",
+    "zipf": 4.61,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "politischer",
+      "superlative": "am politischsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "political (concerning or related to politics)",
+        "ko": "정치적인, 정치의",
+        "examples": [
+          {
+            "text": "Wir sprechen über die politische Lage.",
+            "ko": "우리는 정치 상황에 대해 이야기한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Polizist",
+    "level": "b1",
+    "zipf": 4.31,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Polizisten",
+      "genitive": "Polizisten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Polizei|stem",
+      "-ist|suffix"
+    ],
+    "senses": [
+      {
+        "en": "police officer (male or female); policeman",
+        "ko": "경찰관",
+        "examples": [
+          {
+            "text": "Der Polizist hilft uns.",
+            "ko": "경찰관이 우리를 도와준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Polizistin",
+    "level": "b1",
+    "zipf": 3.53,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Polizistinnen",
+      "genitive": "Polizistin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Polizist|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "policewoman, female police officer",
+        "ko": "여성 경찰관",
+        "examples": [
+          {
+            "text": "Die Polizistin fragt nach meinem Namen.",
+            "ko": "여성 경찰관이 내 이름을 묻는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "populär",
+    "level": "b1",
+    "zipf": 3.75,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "populärer",
+      "superlative": "am populärsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "popular",
+        "ko": "인기 있는",
+        "examples": [
+          {
+            "text": "Diese Sängerin ist sehr populär.",
+            "ko": "이 가수는 매우 인기가 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Portemonnaie",
+    "level": "b1",
+    "zipf": 3.51,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Portemonnaies",
+      "genitive": "Portemonnaies"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "wallet, purse",
+        "ko": "지갑",
+        "examples": [
+          {
+            "text": "Mein Portemonnaie ist weg.",
+            "ko": "내 지갑이 없어졌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "positiv",
+    "level": "b1",
+    "zipf": 4.75,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "positiver",
+      "superlative": "am positivsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "positive",
+        "ko": "긍정적인",
+        "examples": [
+          {
+            "text": "Ich denke immer positiv.",
+            "ko": "나는 항상 긍정적으로 생각한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "positive (test result or number)",
+        "ko": "양성의, 양의",
+        "examples": [
+          {
+            "text": "Der Test war positiv.",
+            "ko": "검사 결과는 양성이었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Praktikant",
+    "level": "b1",
+    "zipf": 3.44,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Praktikanten",
+      "genitive": "Praktikanten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "trainee, intern",
+        "ko": "실습생, 인턴",
+        "examples": [
+          {
+            "text": "Der Praktikant arbeitet drei Monate in der Firma.",
+            "ko": "그 인턴은 회사에서 3개월 동안 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Praktikantin",
+    "level": "b1",
+    "zipf": 3.07,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Praktikantinnen",
+      "genitive": "Praktikantin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Praktikant|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "A female trainee.",
+        "ko": "여성 실습생, 여성 인턴",
+        "examples": [
+          {
+            "text": "Die Praktikantin lernt schnell.",
+            "ko": "그 여성 인턴은 빨리 배운다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Presse",
+    "level": "b1",
+    "zipf": 4.68,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Pressen",
+      "genitive": "Presse"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "press (printed media)",
+        "ko": "언론, 신문",
+        "examples": [
+          {
+            "text": "Die Presse berichtet über den Unfall.",
+            "ko": "언론이 그 사고를 보도한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "press (device used to apply pressure)",
+        "ko": "압착기, 프레스",
+        "examples": [
+          {
+            "text": "Mit der Presse macht man Saft.",
+            "ko": "압착기로 주스를 만든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "prima",
+    "level": "b1",
+    "zipf": 4.2,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "great, super",
+        "ko": "아주 좋은, 훌륭한",
+        "examples": [
+          {
+            "text": "Das Essen war prima.",
+            "ko": "음식이 아주 훌륭했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Produktion",
+    "level": "b1",
+    "zipf": 4.68,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Produktionen",
+      "genitive": "Produktion"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "production",
+        "ko": "생산",
+        "examples": [
+          {
+            "text": "Die Produktion von Autos ist teuer.",
+            "ko": "자동차 생산은 비용이 많이 든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "produzieren",
+    "level": "b1",
+    "zipf": 4.22,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "produziert",
+      "past": "produzierte",
+      "pp": "produziert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to produce",
+        "ko": "생산하다",
+        "examples": [
+          {
+            "text": "Die Firma produziert Fahrräder.",
+            "ko": "그 회사는 자전거를 생산한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Professor",
+    "level": "b1",
+    "zipf": 4.74,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Professoren",
+      "genitive": "Professors"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "professor",
+        "ko": "교수",
+        "examples": [
+          {
+            "text": "Mein Professor erklärt sehr gut.",
+            "ko": "우리 교수님은 설명을 아주 잘하신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Profi",
+    "level": "b1",
+    "zipf": 4.32,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Profis",
+      "genitive": "Profis"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pro (expert, one who is very good at something)",
+        "ko": "전문가, 프로",
+        "examples": [
+          {
+            "text": "Er ist ein echter Profi.",
+            "ko": "그는 진짜 프로이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "pro (professional sports player)",
+        "ko": "프로 선수",
+        "examples": [
+          {
+            "text": "Sie spielt als Profi Tennis.",
+            "ko": "그녀는 프로로서 테니스를 친다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Profisportler",
+    "level": "b1",
+    "zipf": 2.41,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Profisportler"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "Profi|stem",
+      "Sportler|stem"
+    ],
+    "senses": [
+      {
+        "en": "professional athlete",
+        "ko": "프로 운동선수",
+        "examples": [
+          {
+            "text": "Der Profisportler trainiert jeden Tag.",
+            "ko": "그 프로 선수는 매일 훈련한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Prost",
+    "level": "b1",
+    "zipf": 3.79,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "cheers (a toast when drinking)",
+        "ko": "건배",
+        "examples": [
+          {
+            "text": "Prost, auf deinen Geburtstag!",
+            "ko": "건배, 네 생일을 위하여!",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Protest",
+    "level": "b1",
+    "zipf": 4.29,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Proteste",
+      "genitive": "Protestes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "protest",
+        "ko": "항의, 시위",
+        "examples": [
+          {
+            "text": "Die Schüler machen einen Protest gegen die Regel.",
+            "ko": "학생들은 그 규칙에 항의한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "protestieren",
+    "level": "b1",
+    "zipf": 3.78,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "protestiert",
+      "past": "protestierte",
+      "pp": "protestiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to protest (to make a strong objection)",
+        "ko": "항의하다",
+        "examples": [
+          {
+            "text": "Er protestiert gegen die Entscheidung.",
+            "ko": "그는 그 결정에 항의한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to protest (to hold a rally or public protest against something)",
+        "ko": "시위하다",
+        "examples": [
+          {
+            "text": "Viele Leute protestieren vor dem Rathaus.",
+            "ko": "많은 사람들이 시청 앞에서 시위한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Prozess",
+    "level": "b1",
+    "zipf": 4.77,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Prozesse",
+      "genitive": "Prozesses"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "lawsuit",
+        "ko": "소송, 재판",
+        "examples": [
+          {
+            "text": "Der Prozess beginnt nächste Woche.",
+            "ko": "재판은 다음 주에 시작한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "process, procedure (but less widely used than in English, chiefly for processes with rules and several steps)",
+        "ko": "과정, 절차",
+        "examples": [
+          {
+            "text": "Der Prozess dauert mehrere Monate.",
+            "ko": "그 절차는 몇 달이 걸린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Präsentation",
+    "level": "b1",
+    "zipf": 4.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Präsentationen",
+      "genitive": "Präsentation"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "presentation",
+        "ko": "발표, 프레젠테이션",
+        "examples": [
+          {
+            "text": "Ich bereite meine Präsentation vor.",
+            "ko": "나는 발표를 준비한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "präsentieren",
+    "level": "b1",
+    "zipf": 4.34,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "präsentiert",
+      "past": "präsentierte",
+      "pp": "präsentiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to present, to showcase",
+        "ko": "발표하다, 선보이다",
+        "examples": [
+          {
+            "text": "Die Firma präsentiert ihr neues Produkt.",
+            "ko": "그 회사는 신제품을 선보인다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Publikum",
+    "level": "b1",
+    "zipf": 4.61,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Publikums"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "audience, those who see, hear, read some work or performance (crowd, viewership, readership etc.)",
+        "ko": "관객, 청중",
+        "examples": [
+          {
+            "text": "Das Publikum klatscht laut.",
+            "ko": "관객이 크게 박수를 친다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Punkt",
+    "level": "b1",
+    "zipf": 5.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Punkte",
+      "genitive": "Punktes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "point",
+        "ko": "점, 요점",
+        "examples": [
+          {
+            "text": "Das ist ein wichtiger Punkt.",
+            "ko": "그것은 중요한 요점이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "full stop, period (indicating end of sentence)",
+        "ko": "마침표",
+        "examples": [
+          {
+            "text": "Am Ende des Satzes steht ein Punkt.",
+            "ko": "문장 끝에는 마침표가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "item (on a list)",
+        "ko": "항목",
+        "examples": [
+          {
+            "text": "Wir sind jetzt bei Punkt drei.",
+            "ko": "우리는 지금 세 번째 항목이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Puppe",
+    "level": "b1",
+    "zipf": 3.78,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Puppen",
+      "genitive": "Puppe"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "doll",
+        "ko": "인형",
+        "examples": [
+          {
+            "text": "Das Mädchen spielt mit einer Puppe.",
+            "ko": "그 여자아이는 인형을 가지고 논다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

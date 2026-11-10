@@ -1,0 +1,4557 @@
+{
+"-bar|suffix": {
+"form": "-bar",
+"type": "suffix",
+"ko": "~할 수 있는"
+},
+"-chen|suffix": {
+"form": "-chen",
+"type": "suffix",
+"ko": "작은 것"
+},
+"-ei|suffix": {
+"form": "-ei",
+"type": "suffix",
+"ko": "가게, 장소"
+},
+"-ell|suffix": {
+"form": "-ell",
+"type": "suffix",
+"ko": "~의, ~적인"
+},
+"-end|suffix": {
+"form": "-end",
+"type": "suffix",
+"ko": "~하는"
+},
+"-ens|suffix": {
+"form": "-ens",
+"type": "suffix",
+"ko": "~에(부사형)"
+},
+"-en|suffix": {
+"form": "-en",
+"type": "suffix",
+"ko": "동사 어미"
+},
+"-er|suffix": {
+"form": "-er",
+"type": "suffix",
+"ko": "~하는 사람"
+},
+"-e|suffix": {
+"form": "-e",
+"type": "suffix",
+"ko": "명사화 (~함)"
+},
+"-fach|suffix": {
+"form": "-fach",
+"type": "suffix",
+"ko": "~겹, ~배"
+},
+"-heit|suffix": {
+"form": "-heit",
+"type": "suffix",
+"ko": "~임, 상태"
+},
+"-ieren|suffix": {
+"form": "-ieren",
+"type": "suffix",
+"ko": "~하다(동사화)"
+},
+"-iert|suffix": {
+"form": "-iert",
+"type": "suffix",
+"ko": "~된"
+},
+"-igkeit|suffix": {
+"form": "-igkeit",
+"type": "suffix",
+"ko": "~함, ~성"
+},
+"-ig|suffix": {
+"form": "-ig",
+"type": "suffix",
+"ko": "~한"
+},
+"-in|suffix": {
+"form": "-in",
+"type": "suffix",
+"ko": "여성형"
+},
+"-isch|suffix": {
+"form": "-isch",
+"type": "suffix",
+"ko": "~의, ~적인"
+},
+"-ist|suffix": {
+"form": "-ist",
+"type": "suffix",
+"ko": "~하는 사람"
+},
+"-ität|suffix": {
+"form": "-ität",
+"type": "suffix",
+"ko": "~성, 명사화"
+},
+"-keit|suffix": {
+"form": "-keit",
+"type": "suffix",
+"ko": "~함(명사형)"
+},
+"-ler|suffix": {
+"form": "-ler",
+"type": "suffix",
+"ko": "~하는 사람"
+},
+"-lich|suffix": {
+"form": "-lich",
+"type": "suffix",
+"ko": "~의, ~한"
+},
+"-ling|suffix": {
+"form": "-ling",
+"type": "suffix",
+"ko": "~하는 사람"
+},
+"-los|suffix": {
+"form": "-los",
+"type": "suffix",
+"ko": "~이 없는"
+},
+"-mal|suffix": {
+"form": "-mal",
+"type": "suffix",
+"ko": "~번"
+},
+"-mäßig|suffix": {
+"form": "-mäßig",
+"type": "suffix",
+"ko": "~에 따른, ~적인"
+},
+"-ner|suffix": {
+"form": "-ner",
+"type": "suffix",
+"ko": "~하는 사람"
+},
+"-nis|suffix": {
+"form": "-nis",
+"type": "suffix",
+"ko": "~한 것(명사)"
+},
+"-reich|suffix": {
+"form": "-reich",
+"type": "suffix",
+"ko": "~이 풍부한"
+},
+"-sam|suffix": {
+"form": "-sam",
+"type": "suffix",
+"ko": "~한 성질의"
+},
+"-schaft|suffix": {
+"form": "-schaft",
+"type": "suffix",
+"ko": "집단, 관계"
+},
+"-seits|suffix": {
+"form": "-seits",
+"type": "suffix",
+"ko": "~쪽에서"
+},
+"-ung|suffix": {
+"form": "-ung",
+"type": "suffix",
+"ko": "~함, 명사화"
+},
+"-voll|suffix": {
+"form": "-voll",
+"type": "suffix",
+"ko": "~이 가득한"
+},
+"-wärts|suffix": {
+"form": "-wärts",
+"type": "suffix",
+"ko": "~쪽으로"
+},
+"-würdig|suffix": {
+"form": "-würdig",
+"type": "suffix",
+"ko": "~할 만한"
+},
+"Abend|stem": {
+"form": "Abend",
+"type": "stem",
+"ko": "저녁"
+},
+"Abfall|stem": {
+"form": "Abfall",
+"type": "stem",
+"ko": "쓰레기"
+},
+"Abfuhr|stem": {
+"form": "Abfuhr",
+"type": "stem",
+"ko": "운반, 수거"
+},
+"Ablauf|stem": {
+"form": "Ablauf",
+"type": "stem",
+"ko": "진행, 흐름"
+},
+"Abschied|stem": {
+"form": "Abschied",
+"type": "stem",
+"ko": "작별"
+},
+"Absender|stem": {
+"form": "Absender",
+"type": "stem",
+"ko": "발신인"
+},
+"Alltag|stem": {
+"form": "Alltag",
+"type": "stem",
+"ko": "일상"
+},
+"All|stem": {
+"form": "All",
+"type": "stem",
+"ko": "모든"
+},
+"Alter|stem": {
+"form": "Alter",
+"type": "stem",
+"ko": "나이, 노년"
+},
+"Alte|stem": {
+"form": "Alte",
+"type": "stem",
+"ko": "노인"
+},
+"Angebot|stem": {
+"form": "Angebot",
+"type": "stem",
+"ko": "제안, 판매품"
+},
+"Angestellte|stem": {
+"form": "Angestellte",
+"type": "stem",
+"ko": "직원"
+},
+"Angst|stem": {
+"form": "Angst",
+"type": "stem",
+"ko": "불안, 두려움"
+},
+"Anlage|stem": {
+"form": "Anlage",
+"type": "stem",
+"ko": "설비, 장치"
+},
+"Anleitung|stem": {
+"form": "Anleitung",
+"type": "stem",
+"ko": "안내, 설명"
+},
+"Anruf|stem": {
+"form": "Anruf",
+"type": "stem",
+"ko": "전화"
+},
+"Antrag|stem": {
+"form": "Antrag",
+"type": "stem",
+"ko": "신청"
+},
+"Antwort|stem": {
+"form": "Antwort",
+"type": "stem",
+"ko": "대답"
+},
+"Anweisung|stem": {
+"form": "Anweisung",
+"type": "stem",
+"ko": "지시, 설명"
+},
+"Apparat|stem": {
+"form": "Apparat",
+"type": "stem",
+"ko": "기계"
+},
+"Arbeiter|stem": {
+"form": "Arbeiter",
+"type": "stem",
+"ko": "일하는 사람"
+},
+"Arbeit|stem": {
+"form": "Arbeit",
+"type": "stem",
+"ko": "일"
+},
+"Arm|stem": {
+"form": "Arm",
+"type": "stem",
+"ko": "팔"
+},
+"Art|stem": {
+"form": "Art",
+"type": "stem",
+"ko": "종류"
+},
+"Aufgabe|stem": {
+"form": "Aufgabe",
+"type": "stem",
+"ko": "과제"
+},
+"Auge|stem": {
+"form": "Auge",
+"type": "stem",
+"ko": "눈"
+},
+"Ausland|stem": {
+"form": "Ausland",
+"type": "stem",
+"ko": "외국"
+},
+"Ausländer|stem": {
+"form": "Ausländer",
+"type": "stem",
+"ko": "외국인"
+},
+"Automat|stem": {
+"form": "Automat",
+"type": "stem",
+"ko": "자동 기계"
+},
+"Auto|stem": {
+"form": "Auto",
+"type": "stem",
+"ko": "자동차"
+},
+"Bad|stem": {
+"form": "Bad",
+"type": "stem",
+"ko": "욕장, 목욕"
+},
+"Bahnhof|stem": {
+"form": "Bahnhof",
+"type": "stem",
+"ko": "기차역"
+},
+"Bahn|stem": {
+"form": "Bahn",
+"type": "stem",
+"ko": "길, 노선"
+},
+"Ball|stem": {
+"form": "Ball",
+"type": "stem",
+"ko": "공"
+},
+"Bank|stem": {
+"form": "Bank",
+"type": "stem",
+"ko": "은행"
+},
+"Bauer|stem": {
+"form": "Bauer",
+"type": "stem",
+"ko": "농부"
+},
+"Beamter|stem": {
+"form": "Beamter",
+"type": "stem",
+"ko": "공무원"
+},
+"Bedienung|stem": {
+"form": "Bedienung",
+"type": "stem",
+"ko": "조작"
+},
+"Berg|stem": {
+"form": "Berg",
+"type": "stem",
+"ko": "산"
+},
+"Bericht|stem": {
+"form": "Bericht",
+"type": "stem",
+"ko": "보고"
+},
+"Beruf|stem": {
+"form": "Beruf",
+"type": "stem",
+"ko": "직업"
+},
+"Bescheid|stem": {
+"form": "Bescheid",
+"type": "stem",
+"ko": "통지, 정보"
+},
+"Beschränkung|stem": {
+"form": "Beschränkung",
+"type": "stem",
+"ko": "제한"
+},
+"Betreuer|stem": {
+"form": "Betreuer",
+"type": "stem",
+"ko": "돌보는 사람"
+},
+"Betriebsrat|stem": {
+"form": "Betriebsrat",
+"type": "stem",
+"ko": "노동자 평의회"
+},
+"Betrieb|stem": {
+"form": "Betrieb",
+"type": "stem",
+"ko": "회사, 사업장"
+},
+"Bewohner|stem": {
+"form": "Bewohner",
+"type": "stem",
+"ko": "주민"
+},
+"Bildung|stem": {
+"form": "Bildung",
+"type": "stem",
+"ko": "교육"
+},
+"Bild|stem": {
+"form": "Bild",
+"type": "stem",
+"ko": "그림, 영상"
+},
+"Blei|stem": {
+"form": "Blei",
+"type": "stem",
+"ko": "납"
+},
+"Blick|stem": {
+"form": "Blick",
+"type": "stem",
+"ko": "시선"
+},
+"Box|stem": {
+"form": "Box",
+"type": "stem",
+"ko": "상자, 함"
+},
+"Brief|stem": {
+"form": "Brief",
+"type": "stem",
+"ko": "편지"
+},
+"Brot|stem": {
+"form": "Brot",
+"type": "stem",
+"ko": "빵"
+},
+"Bruch|stem": {
+"form": "Bruch",
+"type": "stem",
+"ko": "깨짐"
+},
+"Buchstabe|stem": {
+"form": "Buchstabe",
+"type": "stem",
+"ko": "글자"
+},
+"Buch|stem": {
+"form": "Buch",
+"type": "stem",
+"ko": "책"
+},
+"Bäcker|stem": {
+"form": "Bäcker",
+"type": "stem",
+"ko": "제빵사"
+},
+"Börse|stem": {
+"form": "Börse",
+"type": "stem",
+"ko": "주머니, 지갑"
+},
+"Bürger|stem": {
+"form": "Bürger",
+"type": "stem",
+"ko": "시민"
+},
+"Büro|stem": {
+"form": "Büro",
+"type": "stem",
+"ko": "사무실"
+},
+"Bürste|stem": {
+"form": "Bürste",
+"type": "stem",
+"ko": "솔"
+},
+"Chef|stem": {
+"form": "Chef",
+"type": "stem",
+"ko": "상사, 사장"
+},
+"Chip|stem": {
+"form": "Chip",
+"type": "stem",
+"ko": "칩"
+},
+"Creme|stem": {
+"form": "Creme",
+"type": "stem",
+"ko": "크림"
+},
+"Dank|stem": {
+"form": "Dank",
+"type": "stem",
+"ko": "감사"
+},
+"Doppel|stem": {
+"form": "Doppel",
+"type": "stem",
+"ko": "두 배"
+},
+"Dose|stem": {
+"form": "Dose",
+"type": "stem",
+"ko": "통, 상자"
+},
+"Druck|stem": {
+"form": "Druck",
+"type": "stem",
+"ko": "누름, 인쇄"
+},
+"Durchschnitt|stem": {
+"form": "Durchschnitt",
+"type": "stem",
+"ko": "평균"
+},
+"Durst|stem": {
+"form": "Durst",
+"type": "stem",
+"ko": "갈증"
+},
+"Ecke|stem": {
+"form": "Ecke",
+"type": "stem",
+"ko": "모서리"
+},
+"Ehe|stem": {
+"form": "Ehe",
+"type": "stem",
+"ko": "결혼"
+},
+"Ehre|stem": {
+"form": "Ehre",
+"type": "stem",
+"ko": "명예"
+},
+"Eile|stem": {
+"form": "Eile",
+"type": "stem",
+"ko": "서두름"
+},
+"Eimer|stem": {
+"form": "Eimer",
+"type": "stem",
+"ko": "통, 양동이"
+},
+"Einbrecher|stem": {
+"form": "Einbrecher",
+"type": "stem",
+"ko": "침입 강도"
+},
+"Einfluss|stem": {
+"form": "Einfluss",
+"type": "stem",
+"ko": "영향"
+},
+"Einheit|stem": {
+"form": "Einheit",
+"type": "stem",
+"ko": "통일"
+},
+"Einkauf|stem": {
+"form": "Einkauf",
+"type": "stem",
+"ko": "장보기, 구매"
+},
+"Einwohner|stem": {
+"form": "Einwohner",
+"type": "stem",
+"ko": "주민"
+},
+"Einzel|stem": {
+"form": "Einzel",
+"type": "stem",
+"ko": "하나씩, 개별"
+},
+"Eisen|stem": {
+"form": "Eisen",
+"type": "stem",
+"ko": "철"
+},
+"Eltern|stem": {
+"form": "Eltern",
+"type": "stem",
+"ko": "부모"
+},
+"Ende|stem": {
+"form": "Ende",
+"type": "stem",
+"ko": "끝"
+},
+"Enkel|stem": {
+"form": "Enkel",
+"type": "stem",
+"ko": "손주"
+},
+"Erde|stem": {
+"form": "Erde",
+"type": "stem",
+"ko": "땅"
+},
+"Erfolg|stem": {
+"form": "Erfolg",
+"type": "stem",
+"ko": "성공"
+},
+"Essen|stem": {
+"form": "Essen",
+"type": "stem",
+"ko": "식사"
+},
+"Fach|stem": {
+"form": "Fach",
+"type": "stem",
+"ko": "전문 분야"
+},
+"Fahrer|stem": {
+"form": "Fahrer",
+"type": "stem",
+"ko": "운전하는 사람"
+},
+"Fahrt|stem": {
+"form": "Fahrt",
+"type": "stem",
+"ko": "주행"
+},
+"Fahrzeug|stem": {
+"form": "Fahrzeug",
+"type": "stem",
+"ko": "탈것, 차량"
+},
+"Fall|stem": {
+"form": "Fall",
+"type": "stem",
+"ko": "떨어짐"
+},
+"Familie|stem": {
+"form": "Familie",
+"type": "stem",
+"ko": "가족"
+},
+"Feier|stem": {
+"form": "Feier",
+"type": "stem",
+"ko": "축제, 쉼"
+},
+"Fenster|stem": {
+"form": "Fenster",
+"type": "stem",
+"ko": "창문"
+},
+"Feuer|stem": {
+"form": "Feuer",
+"type": "stem",
+"ko": "불"
+},
+"Finanz|stem": {
+"form": "Finanz",
+"type": "stem",
+"ko": "재정"
+},
+"Fleisch|stem": {
+"form": "Fleisch",
+"type": "stem",
+"ko": "고기"
+},
+"Fleiß|stem": {
+"form": "Fleiß",
+"type": "stem",
+"ko": "부지런함"
+},
+"Floh|stem": {
+"form": "Floh",
+"type": "stem",
+"ko": "벼룩"
+},
+"Flug|stem": {
+"form": "Flug",
+"type": "stem",
+"ko": "비행"
+},
+"Fluss|stem": {
+"form": "Fluss",
+"type": "stem",
+"ko": "흐름, 강"
+},
+"Folge|stem": {
+"form": "Folge",
+"type": "stem",
+"ko": "뒤따름, 연속"
+},
+"Foto|stem": {
+"form": "Foto",
+"type": "stem",
+"ko": "사진"
+},
+"Frage|stem": {
+"form": "Frage",
+"type": "stem",
+"ko": "질문"
+},
+"Frau|stem": {
+"form": "Frau",
+"type": "stem",
+"ko": "여자"
+},
+"Freund|stem": {
+"form": "Freund",
+"type": "stem",
+"ko": "친구"
+},
+"Friseur|stem": {
+"form": "Friseur",
+"type": "stem",
+"ko": "미용사"
+},
+"Frühstück|stem": {
+"form": "Frühstück",
+"type": "stem",
+"ko": "아침 식사"
+},
+"Fund|stem": {
+"form": "Fund",
+"type": "stem",
+"ko": "발견"
+},
+"Funktion|stem": {
+"form": "Funktion",
+"type": "stem",
+"ko": "기능"
+},
+"Furcht|stem": {
+"form": "Furcht",
+"type": "stem",
+"ko": "두려움"
+},
+"Futter|stem": {
+"form": "Futter",
+"type": "stem",
+"ko": "먹이, 사료"
+},
+"Fußgänger|stem": {
+"form": "Fußgänger",
+"type": "stem",
+"ko": "보행자"
+},
+"Fuß|stem": {
+"form": "Fuß",
+"type": "stem",
+"ko": "발"
+},
+"Führer|stem": {
+"form": "Führer",
+"type": "stem",
+"ko": "안내자, 안내서"
+},
+"Gabe|stem": {
+"form": "Gabe",
+"type": "stem",
+"ko": "주는 것"
+},
+"Gang|stem": {
+"form": "Gang",
+"type": "stem",
+"ko": "걸음, 통로"
+},
+"Garten|stem": {
+"form": "Garten",
+"type": "stem",
+"ko": "정원"
+},
+"Gast|stem": {
+"form": "Gast",
+"type": "stem",
+"ko": "손님"
+},
+"Gebrauch|stem": {
+"form": "Gebrauch",
+"type": "stem",
+"ko": "사용"
+},
+"Geburt|stem": {
+"form": "Geburt",
+"type": "stem",
+"ko": "출생"
+},
+"Gefahr|stem": {
+"form": "Gefahr",
+"type": "stem",
+"ko": "위험"
+},
+"Geld|stem": {
+"form": "Geld",
+"type": "stem",
+"ko": "돈"
+},
+"Gemüt|stem": {
+"form": "Gemüt",
+"type": "stem",
+"ko": "마음, 기분"
+},
+"Geschoss|stem": {
+"form": "Geschoss",
+"type": "stem",
+"ko": "층"
+},
+"Geschwindigkeit|stem": {
+"form": "Geschwindigkeit",
+"type": "stem",
+"ko": "속도"
+},
+"Geselle|stem": {
+"form": "Geselle",
+"type": "stem",
+"ko": "동료, 수습 장인"
+},
+"Gespräch|stem": {
+"form": "Gespräch",
+"type": "stem",
+"ko": "대화"
+},
+"Gewerk|stem": {
+"form": "Gewerk",
+"type": "stem",
+"ko": "직업 조합, 수공업"
+},
+"Gift|stem": {
+"form": "Gift",
+"type": "stem",
+"ko": "독"
+},
+"Giro|stem": {
+"form": "Giro",
+"type": "stem",
+"ko": "계좌 이체"
+},
+"Glied|stem": {
+"form": "Glied",
+"type": "stem",
+"ko": "일원, 지체"
+},
+"Glück|stem": {
+"form": "Glück",
+"type": "stem",
+"ko": "행복, 행운"
+},
+"Grund|stem": {
+"form": "Grund",
+"type": "stem",
+"ko": "땅, 바닥"
+},
+"Gänger|stem": {
+"form": "Gänger",
+"type": "stem",
+"ko": "가는 사람"
+},
+"Hafen|stem": {
+"form": "Hafen",
+"type": "stem",
+"ko": "항구"
+},
+"Hagel|stem": {
+"form": "Hagel",
+"type": "stem",
+"ko": "우박"
+},
+"Hahn|stem": {
+"form": "Hahn",
+"type": "stem",
+"ko": "수탉"
+},
+"Handlung|stem": {
+"form": "Handlung",
+"type": "stem",
+"ko": "상점, 행위"
+},
+"Hand|stem": {
+"form": "Hand",
+"type": "stem",
+"ko": "손"
+},
+"Hang|stem": {
+"form": "Hang",
+"type": "stem",
+"ko": "경사, 걸림"
+},
+"Hass|stem": {
+"form": "Hass",
+"type": "stem",
+"ko": "미움"
+},
+"Haupt|stem": {
+"form": "Haupt",
+"type": "stem",
+"ko": "주요한, 머리"
+},
+"Haus|stem": {
+"form": "Haus",
+"type": "stem",
+"ko": "집"
+},
+"Heim|stem": {
+"form": "Heim",
+"type": "stem",
+"ko": "집, 시설"
+},
+"Held|stem": {
+"form": "Held",
+"type": "stem",
+"ko": "영웅"
+},
+"Herberge|stem": {
+"form": "Herberge",
+"type": "stem",
+"ko": "숙소"
+},
+"Herz|stem": {
+"form": "Herz",
+"type": "stem",
+"ko": "마음, 심장"
+},
+"Hilfe|stem": {
+"form": "Hilfe",
+"type": "stem",
+"ko": "도움"
+},
+"Hof|stem": {
+"form": "Hof",
+"type": "stem",
+"ko": "뜰, 장소"
+},
+"Holz|stem": {
+"form": "Holz",
+"type": "stem",
+"ko": "나무"
+},
+"Hunger|stem": {
+"form": "Hunger",
+"type": "stem",
+"ko": "배고픔"
+},
+"Hupe|stem": {
+"form": "Hupe",
+"type": "stem",
+"ko": "경적"
+},
+"Jahr|stem": {
+"form": "Jahr",
+"type": "stem",
+"ko": "해, 연도"
+},
+"Journalist|stem": {
+"form": "Journalist",
+"type": "stem",
+"ko": "기자"
+},
+"Jugend|stem": {
+"form": "Jugend",
+"type": "stem",
+"ko": "청소년"
+},
+"Kalender|stem": {
+"form": "Kalender",
+"type": "stem",
+"ko": "달력"
+},
+"Karte|stem": {
+"form": "Karte",
+"type": "stem",
+"ko": "카드"
+},
+"Kasse|stem": {
+"form": "Kasse",
+"type": "stem",
+"ko": "금고, 계산대"
+},
+"Kasten|stem": {
+"form": "Kasten",
+"type": "stem",
+"ko": "상자"
+},
+"Kauf|stem": {
+"form": "Kauf",
+"type": "stem",
+"ko": "구매"
+},
+"Kehr|stem": {
+"form": "Kehr",
+"type": "stem",
+"ko": "돌아섬, 방향 전환"
+},
+"Kellner|stem": {
+"form": "Kellner",
+"type": "stem",
+"ko": "웨이터"
+},
+"Kind|stem": {
+"form": "Kind",
+"type": "stem",
+"ko": "아이"
+},
+"Klasse|stem": {
+"form": "Klasse",
+"type": "stem",
+"ko": "학급, 반"
+},
+"Kleid|stem": {
+"form": "Kleid",
+"type": "stem",
+"ko": "옷"
+},
+"Klima|stem": {
+"form": "Klima",
+"type": "stem",
+"ko": "기후"
+},
+"Koch|stem": {
+"form": "Koch",
+"type": "stem",
+"ko": "요리사"
+},
+"Kollege|stem": {
+"form": "Kollege",
+"type": "stem",
+"ko": "동료"
+},
+"Konto|stem": {
+"form": "Konto",
+"type": "stem",
+"ko": "계좌"
+},
+"Kosten|stem": {
+"form": "Kosten",
+"type": "stem",
+"ko": "비용"
+},
+"Kraft|stem": {
+"form": "Kraft",
+"type": "stem",
+"ko": "힘, 동력"
+},
+"Kredit|stem": {
+"form": "Kredit",
+"type": "stem",
+"ko": "신용, 대출"
+},
+"Kugel|stem": {
+"form": "Kugel",
+"type": "stem",
+"ko": "공, 구슬"
+},
+"Kunde|stem": {
+"form": "Kunde",
+"type": "stem",
+"ko": "손님, 고객"
+},
+"Kunft|stem": {
+"form": "Kunft",
+"type": "stem",
+"ko": "옴(kommen)"
+},
+"Kunst|stem": {
+"form": "Kunst",
+"type": "stem",
+"ko": "예술, 인공"
+},
+"Kursleiter|stem": {
+"form": "Kursleiter",
+"type": "stem",
+"ko": "강좌 담당자"
+},
+"Kurs|stem": {
+"form": "Kurs",
+"type": "stem",
+"ko": "강좌"
+},
+"Käufer|stem": {
+"form": "Käufer",
+"type": "stem",
+"ko": "구매자"
+},
+"Künstler|stem": {
+"form": "Künstler",
+"type": "stem",
+"ko": "예술가"
+},
+"Land|stem": {
+"form": "Land",
+"type": "stem",
+"ko": "나라"
+},
+"Langeweile|stem": {
+"form": "Langeweile",
+"type": "stem",
+"ko": "지루함"
+},
+"Lauf|stem": {
+"form": "Lauf",
+"type": "stem",
+"ko": "경로, 흐름"
+},
+"Leben|stem": {
+"form": "Leben",
+"type": "stem",
+"ko": "삶"
+},
+"Lehre|stem": {
+"form": "Lehre",
+"type": "stem",
+"ko": "견습, 가르침"
+},
+"Leiter|stem": {
+"form": "Leiter",
+"type": "stem",
+"ko": "책임자, 지도자"
+},
+"Lerner|stem": {
+"form": "Lerner",
+"type": "stem",
+"ko": "학습자"
+},
+"Leute|stem": {
+"form": "Leute",
+"type": "stem",
+"ko": "사람들"
+},
+"Lust|stem": {
+"form": "Lust",
+"type": "stem",
+"ko": "흥, 즐거움"
+},
+"Mahl|stem": {
+"form": "Mahl",
+"type": "stem",
+"ko": "식사"
+},
+"Mal|stem": {
+"form": "Mal",
+"type": "stem",
+"ko": "번, 회"
+},
+"Mann|stem": {
+"form": "Mann",
+"type": "stem",
+"ko": "남자"
+},
+"Marke|stem": {
+"form": "Marke",
+"type": "stem",
+"ko": "표, 딱지"
+},
+"Markt|stem": {
+"form": "Markt",
+"type": "stem",
+"ko": "시장"
+},
+"Mehrwert|stem": {
+"form": "Mehrwert",
+"type": "stem",
+"ko": "부가가치"
+},
+"Meister|stem": {
+"form": "Meister",
+"type": "stem",
+"ko": "장인, 책임자"
+},
+"Mensch|stem": {
+"form": "Mensch",
+"type": "stem",
+"ko": "사람"
+},
+"Mineral|stem": {
+"form": "Mineral",
+"type": "stem",
+"ko": "광물"
+},
+"Mitarbeiter|stem": {
+"form": "Mitarbeiter",
+"type": "stem",
+"ko": "직원, 동료"
+},
+"Mittag|stem": {
+"form": "Mittag",
+"type": "stem",
+"ko": "정오"
+},
+"Mittel|stem": {
+"form": "Mittel",
+"type": "stem",
+"ko": "수단, 물품"
+},
+"Motor|stem": {
+"form": "Motor",
+"type": "stem",
+"ko": "엔진"
+},
+"Mund|stem": {
+"form": "Mund",
+"type": "stem",
+"ko": "입"
+},
+"Musiker|stem": {
+"form": "Musiker",
+"type": "stem",
+"ko": "음악가"
+},
+"Musik|stem": {
+"form": "Musik",
+"type": "stem",
+"ko": "음악"
+},
+"Mutter|stem": {
+"form": "Mutter",
+"type": "stem",
+"ko": "어머니"
+},
+"Mut|stem": {
+"form": "Mut",
+"type": "stem",
+"ko": "용기"
+},
+"Möbel|stem": {
+"form": "Möbel",
+"type": "stem",
+"ko": "가구"
+},
+"Müll|stem": {
+"form": "Müll",
+"type": "stem",
+"ko": "쓰레기"
+},
+"Nacht|stem": {
+"form": "Nacht",
+"type": "stem",
+"ko": "밤"
+},
+"Nahme|stem": {
+"form": "Nahme",
+"type": "stem",
+"ko": "가짐"
+},
+"Nahrung|stem": {
+"form": "Nahrung",
+"type": "stem",
+"ko": "음식, 영양"
+},
+"Name|stem": {
+"form": "Name",
+"type": "stem",
+"ko": "이름"
+},
+"Natur|stem": {
+"form": "Natur",
+"type": "stem",
+"ko": "자연"
+},
+"Nebel|stem": {
+"form": "Nebel",
+"type": "stem",
+"ko": "안개"
+},
+"Netz|stem": {
+"form": "Netz",
+"type": "stem",
+"ko": "그물, 망"
+},
+"Not|stem": {
+"form": "Not",
+"type": "stem",
+"ko": "곤궁, 필요"
+},
+"Nummer|stem": {
+"form": "Nummer",
+"type": "stem",
+"ko": "번호"
+},
+"Nutzen|stem": {
+"form": "Nutzen",
+"type": "stem",
+"ko": "쓸모, 이익"
+},
+"Obacht|stem": {
+"form": "Obacht",
+"type": "stem",
+"ko": "주의"
+},
+"Ort|stem": {
+"form": "Ort",
+"type": "stem",
+"ko": "장소"
+},
+"Paar|stem": {
+"form": "Paar",
+"type": "stem",
+"ko": "쌍, 커플"
+},
+"Park|stem": {
+"form": "Park",
+"type": "stem",
+"ko": "공원"
+},
+"Partner|stem": {
+"form": "Partner",
+"type": "stem",
+"ko": "파트너"
+},
+"Passagier|stem": {
+"form": "Passagier",
+"type": "stem",
+"ko": "승객"
+},
+"Pass|stem": {
+"form": "Pass",
+"type": "stem",
+"ko": "통행증, 패스"
+},
+"Patient|stem": {
+"form": "Patient",
+"type": "stem",
+"ko": "환자"
+},
+"Pension|stem": {
+"form": "Pension",
+"type": "stem",
+"ko": "하숙, 게스트하우스"
+},
+"Person|stem": {
+"form": "Person",
+"type": "stem",
+"ko": "사람"
+},
+"Pfleger|stem": {
+"form": "Pfleger",
+"type": "stem",
+"ko": "돌보는 사람"
+},
+"Plan|stem": {
+"form": "Plan",
+"type": "stem",
+"ko": "계획"
+},
+"Platte|stem": {
+"form": "Platte",
+"type": "stem",
+"ko": "판, 디스크"
+},
+"Platz|stem": {
+"form": "Platz",
+"type": "stem",
+"ko": "자리, 장소"
+},
+"Politiker|stem": {
+"form": "Politiker",
+"type": "stem",
+"ko": "정치인"
+},
+"Politik|stem": {
+"form": "Politik",
+"type": "stem",
+"ko": "정치"
+},
+"Polizei|stem": {
+"form": "Polizei",
+"type": "stem",
+"ko": "경찰"
+},
+"Polizist|stem": {
+"form": "Polizist",
+"type": "stem",
+"ko": "경찰관"
+},
+"Post|stem": {
+"form": "Post",
+"type": "stem",
+"ko": "우편"
+},
+"Praktikant|stem": {
+"form": "Praktikant",
+"type": "stem",
+"ko": "실습생"
+},
+"Preis|stem": {
+"form": "Preis",
+"type": "stem",
+"ko": "가격"
+},
+"Profi|stem": {
+"form": "Profi",
+"type": "stem",
+"ko": "프로"
+},
+"Punkt|stem": {
+"form": "Punkt",
+"type": "stem",
+"ko": "점, 정각"
+},
+"Rad|stem": {
+"form": "Rad",
+"type": "stem",
+"ko": "바퀴"
+},
+"Rat|stem": {
+"form": "Rat",
+"type": "stem",
+"ko": "의회, 시의회"
+},
+"Raucher|stem": {
+"form": "Raucher",
+"type": "stem",
+"ko": "흡연자"
+},
+"Recht|stem": {
+"form": "Recht",
+"type": "stem",
+"ko": "법, 권리"
+},
+"Rede|stem": {
+"form": "Rede",
+"type": "stem",
+"ko": "말, 연설"
+},
+"Regel|stem": {
+"form": "Regel",
+"type": "stem",
+"ko": "규칙"
+},
+"Reihe|stem": {
+"form": "Reihe",
+"type": "stem",
+"ko": "줄, 열"
+},
+"Reise|stem": {
+"form": "Reise",
+"type": "stem",
+"ko": "여행"
+},
+"Rente|stem": {
+"form": "Rente",
+"type": "stem",
+"ko": "연금"
+},
+"Riese|stem": {
+"form": "Riese",
+"type": "stem",
+"ko": "거인"
+},
+"Roller|stem": {
+"form": "Roller",
+"type": "stem",
+"ko": "스쿠터"
+},
+"Ruf|stem": {
+"form": "Ruf",
+"type": "stem",
+"ko": "부름"
+},
+"Ruhe|stem": {
+"form": "Ruhe",
+"type": "stem",
+"ko": "고요, 평온"
+},
+"Rücken|stem": {
+"form": "Rücken",
+"type": "stem",
+"ko": "등"
+},
+"Sache|stem": {
+"form": "Sache",
+"type": "stem",
+"ko": "물건"
+},
+"Sack|stem": {
+"form": "Sack",
+"type": "stem",
+"ko": "자루"
+},
+"Salz|stem": {
+"form": "Salz",
+"type": "stem",
+"ko": "소금"
+},
+"Satz|stem": {
+"form": "Satz",
+"type": "stem",
+"ko": "문장, 놓음"
+},
+"Schaden|stem": {
+"form": "Schaden",
+"type": "stem",
+"ko": "해, 손해"
+},
+"Schauspieler|stem": {
+"form": "Schauspieler",
+"type": "stem",
+"ko": "배우"
+},
+"Schauspiel|stem": {
+"form": "Schauspiel",
+"type": "stem",
+"ko": "연극"
+},
+"Schein|stem": {
+"form": "Schein",
+"type": "stem",
+"ko": "증서"
+},
+"Schirm|stem": {
+"form": "Schirm",
+"type": "stem",
+"ko": "막, 가리개"
+},
+"Schlaf|stem": {
+"form": "Schlaf",
+"type": "stem",
+"ko": "잠"
+},
+"Schlag|stem": {
+"form": "Schlag",
+"type": "stem",
+"ko": "치기, 제안"
+},
+"Schluss|stem": {
+"form": "Schluss",
+"type": "stem",
+"ko": "끝, 닫힘"
+},
+"Schmutz|stem": {
+"form": "Schmutz",
+"type": "stem",
+"ko": "먼지, 때"
+},
+"Schnitt|stem": {
+"form": "Schnitt",
+"type": "stem",
+"ko": "자름"
+},
+"Schranke|stem": {
+"form": "Schranke",
+"type": "stem",
+"ko": "차단기, 한계"
+},
+"Schrank|stem": {
+"form": "Schrank",
+"type": "stem",
+"ko": "장, 수납장"
+},
+"Schreck|stem": {
+"form": "Schreck",
+"type": "stem",
+"ko": "놀람, 공포"
+},
+"Schreiber|stem": {
+"form": "Schreiber",
+"type": "stem",
+"ko": "쓰는 것"
+},
+"Schrift|stem": {
+"form": "Schrift",
+"type": "stem",
+"ko": "글, 글씨"
+},
+"Schritt|stem": {
+"form": "Schritt",
+"type": "stem",
+"ko": "걸음"
+},
+"Schuld|stem": {
+"form": "Schuld",
+"type": "stem",
+"ko": "잘못, 책임"
+},
+"Schutz|stem": {
+"form": "Schutz",
+"type": "stem",
+"ko": "보호"
+},
+"Schwester|stem": {
+"form": "Schwester",
+"type": "stem",
+"ko": "자매, 언니, 여동생"
+},
+"Schüler|stem": {
+"form": "Schüler",
+"type": "stem",
+"ko": "학생"
+},
+"Seite|stem": {
+"form": "Seite",
+"type": "stem",
+"ko": "쪽, 페이지"
+},
+"Sekretär|stem": {
+"form": "Sekretär",
+"type": "stem",
+"ko": "비서"
+},
+"Service|stem": {
+"form": "Service",
+"type": "stem",
+"ko": "서비스"
+},
+"Sicht|stem": {
+"form": "Sicht",
+"type": "stem",
+"ko": "시야"
+},
+"Sieger|stem": {
+"form": "Sieger",
+"type": "stem",
+"ko": "승자"
+},
+"Sieg|stem": {
+"form": "Sieg",
+"type": "stem",
+"ko": "승리"
+},
+"Sinn|stem": {
+"form": "Sinn",
+"type": "stem",
+"ko": "의미"
+},
+"Sitz|stem": {
+"form": "Sitz",
+"type": "stem",
+"ko": "자리"
+},
+"Sonder|stem": {
+"form": "Sonder",
+"type": "stem",
+"ko": "특별한"
+},
+"Sonne|stem": {
+"form": "Sonne",
+"type": "stem",
+"ko": "해, 태양"
+},
+"Sozialarbeiter|stem": {
+"form": "Sozialarbeiter",
+"type": "stem",
+"ko": "사회복지사"
+},
+"Speise|stem": {
+"form": "Speise",
+"type": "stem",
+"ko": "음식"
+},
+"Spezialist|stem": {
+"form": "Spezialist",
+"type": "stem",
+"ko": "전문가"
+},
+"Spieler|stem": {
+"form": "Spieler",
+"type": "stem",
+"ko": "선수"
+},
+"Spiel|stem": {
+"form": "Spiel",
+"type": "stem",
+"ko": "놀이"
+},
+"Sportler|stem": {
+"form": "Sportler",
+"type": "stem",
+"ko": "운동선수"
+},
+"Sport|stem": {
+"form": "Sport",
+"type": "stem",
+"ko": "스포츠"
+},
+"Sprache|stem": {
+"form": "Sprache",
+"type": "stem",
+"ko": "언어"
+},
+"Sprecher|stem": {
+"form": "Sprecher",
+"type": "stem",
+"ko": "말하는 사람"
+},
+"Spruch|stem": {
+"form": "Spruch",
+"type": "stem",
+"ko": "말, 주장"
+},
+"Stab|stem": {
+"form": "Stab",
+"type": "stem",
+"ko": "막대"
+},
+"Stadt|stem": {
+"form": "Stadt",
+"type": "stem",
+"ko": "도시"
+},
+"Stand|stem": {
+"form": "Stand",
+"type": "stem",
+"ko": "서 있음, 상태"
+},
+"Statistik|stem": {
+"form": "Statistik",
+"type": "stem",
+"ko": "통계"
+},
+"Statt|stem": {
+"form": "Statt",
+"type": "stem",
+"ko": "장소"
+},
+"Staub|stem": {
+"form": "Staub",
+"type": "stem",
+"ko": "먼지"
+},
+"Steig|stem": {
+"form": "Steig",
+"type": "stem",
+"ko": "오르는 길"
+},
+"Stelle|stem": {
+"form": "Stelle",
+"type": "stem",
+"ko": "장소"
+},
+"Steuer|stem": {
+"form": "Steuer",
+"type": "stem",
+"ko": "세금"
+},
+"Stift|stem": {
+"form": "Stift",
+"type": "stem",
+"ko": "필기구"
+},
+"Stilist|stem": {
+"form": "Stilist",
+"type": "stem",
+"ko": "문체가"
+},
+"Stock|stem": {
+"form": "Stock",
+"type": "stem",
+"ko": "층"
+},
+"Stoff|stem": {
+"form": "Stoff",
+"type": "stem",
+"ko": "재료, 천"
+},
+"Strafe|stem": {
+"form": "Strafe",
+"type": "stem",
+"ko": "벌"
+},
+"Straße|stem": {
+"form": "Straße",
+"type": "stem",
+"ko": "길"
+},
+"Stress|stem": {
+"form": "Stress",
+"type": "stem",
+"ko": "스트레스"
+},
+"Student|stem": {
+"form": "Student",
+"type": "stem",
+"ko": "대학생"
+},
+"Stunde|stem": {
+"form": "Stunde",
+"type": "stem",
+"ko": "시간"
+},
+"Stätte|stem": {
+"form": "Stätte",
+"type": "stem",
+"ko": "장소"
+},
+"Stück|stem": {
+"form": "Stück",
+"type": "stem",
+"ko": "조각"
+},
+"Sucht|stem": {
+"form": "Sucht",
+"type": "stem",
+"ko": "중독"
+},
+"Sänger|stem": {
+"form": "Sänger",
+"type": "stem",
+"ko": "가수"
+},
+"Tag|stem": {
+"form": "Tag",
+"type": "stem",
+"ko": "날"
+},
+"Tasche|stem": {
+"form": "Tasche",
+"type": "stem",
+"ko": "주머니, 가방"
+},
+"Tatsache|stem": {
+"form": "Tatsache",
+"type": "stem",
+"ko": "사실"
+},
+"Tat|stem": {
+"form": "Tat",
+"type": "stem",
+"ko": "행위"
+},
+"Tee|stem": {
+"form": "Tee",
+"type": "stem",
+"ko": "차"
+},
+"Teilnehmer|stem": {
+"form": "Teilnehmer",
+"type": "stem",
+"ko": "참가자"
+},
+"Teil|stem": {
+"form": "Teil",
+"type": "stem",
+"ko": "부분"
+},
+"Telefon|stem": {
+"form": "Telefon",
+"type": "stem",
+"ko": "전화"
+},
+"Termin|stem": {
+"form": "Termin",
+"type": "stem",
+"ko": "약속, 일정"
+},
+"Tier|stem": {
+"form": "Tier",
+"type": "stem",
+"ko": "동물"
+},
+"Tod|stem": {
+"form": "Tod",
+"type": "stem",
+"ko": "죽음"
+},
+"Tonne|stem": {
+"form": "Tonne",
+"type": "stem",
+"ko": "통"
+},
+"Tourist|stem": {
+"form": "Tourist",
+"type": "stem",
+"ko": "관광객"
+},
+"Trainer|stem": {
+"form": "Trainer",
+"type": "stem",
+"ko": "코치"
+},
+"Trauer|stem": {
+"form": "Trauer",
+"type": "stem",
+"ko": "슬픔"
+},
+"Treppe|stem": {
+"form": "Treppe",
+"type": "stem",
+"ko": "계단"
+},
+"Tuch|stem": {
+"form": "Tuch",
+"type": "stem",
+"ko": "천"
+},
+"Täter|stem": {
+"form": "Täter",
+"type": "stem",
+"ko": "범인"
+},
+"Umschlag|stem": {
+"form": "Umschlag",
+"type": "stem",
+"ko": "봉투, 덮개"
+},
+"Umwelt|stem": {
+"form": "Umwelt",
+"type": "stem",
+"ko": "환경"
+},
+"Unternehmer|stem": {
+"form": "Unternehmer",
+"type": "stem",
+"ko": "기업가"
+},
+"Unterschied|stem": {
+"form": "Unterschied",
+"type": "stem",
+"ko": "차이"
+},
+"Un|stem": {
+"form": "Un",
+"type": "stem",
+"ko": "나쁜, 아닌"
+},
+"Ursache|stem": {
+"form": "Ursache",
+"type": "stem",
+"ko": "원인"
+},
+"Ursprung|stem": {
+"form": "Ursprung",
+"type": "stem",
+"ko": "기원, 근원"
+},
+"Vater|stem": {
+"form": "Vater",
+"type": "stem",
+"ko": "아버지"
+},
+"Verantwortung|stem": {
+"form": "Verantwortung",
+"type": "stem",
+"ko": "책임"
+},
+"Verbrecher|stem": {
+"form": "Verbrecher",
+"type": "stem",
+"ko": "범죄자"
+},
+"Verdacht|stem": {
+"form": "Verdacht",
+"type": "stem",
+"ko": "의심"
+},
+"Verkehr|stem": {
+"form": "Verkehr",
+"type": "stem",
+"ko": "교통"
+},
+"Verlierer|stem": {
+"form": "Verlierer",
+"type": "stem",
+"ko": "패자"
+},
+"Vermieter|stem": {
+"form": "Vermieter",
+"type": "stem",
+"ko": "집주인"
+},
+"Vernunft|stem": {
+"form": "Vernunft",
+"type": "stem",
+"ko": "이성"
+},
+"Verschmutzung|stem": {
+"form": "Verschmutzung",
+"type": "stem",
+"ko": "오염"
+},
+"Verstand|stem": {
+"form": "Verstand",
+"type": "stem",
+"ko": "이성, 이해력"
+},
+"Vertreter|stem": {
+"form": "Vertreter",
+"type": "stem",
+"ko": "대표자"
+},
+"Visite|stem": {
+"form": "Visite",
+"type": "stem",
+"ko": "방문"
+},
+"Volley|stem": {
+"form": "Volley",
+"type": "stem",
+"ko": "발리"
+},
+"Voraussicht|stem": {
+"form": "Voraussicht",
+"type": "stem",
+"ko": "예측"
+},
+"Vorhersage|stem": {
+"form": "Vorhersage",
+"type": "stem",
+"ko": "예측"
+},
+"Vorsicht|stem": {
+"form": "Vorsicht",
+"type": "stem",
+"ko": "조심"
+},
+"Vorstellung|stem": {
+"form": "Vorstellung",
+"type": "stem",
+"ko": "소개"
+},
+"Waage|stem": {
+"form": "Waage",
+"type": "stem",
+"ko": "저울"
+},
+"Wagen|stem": {
+"form": "Wagen",
+"type": "stem",
+"ko": "차"
+},
+"Wahl|stem": {
+"form": "Wahl",
+"type": "stem",
+"ko": "선택, 다이얼"
+},
+"Wahnsinn|stem": {
+"form": "Wahnsinn",
+"type": "stem",
+"ko": "광기"
+},
+"Wanne|stem": {
+"form": "Wanne",
+"type": "stem",
+"ko": "통"
+},
+"Wasser|stem": {
+"form": "Wasser",
+"type": "stem",
+"ko": "물"
+},
+"Web|stem": {
+"form": "Web",
+"type": "stem",
+"ko": "웹"
+},
+"Wehr|stem": {
+"form": "Wehr",
+"type": "stem",
+"ko": "방어"
+},
+"Weh|stem": {
+"form": "Weh",
+"type": "stem",
+"ko": "아픔, 괴로움"
+},
+"Weib|stem": {
+"form": "Weib",
+"type": "stem",
+"ko": "여자"
+},
+"Weile|stem": {
+"form": "Weile",
+"type": "stem",
+"ko": "잠시, 동안"
+},
+"Welt|stem": {
+"form": "Welt",
+"type": "stem",
+"ko": "세계"
+},
+"Werk|stem": {
+"form": "Werk",
+"type": "stem",
+"ko": "작품, 공장"
+},
+"Wert|stem": {
+"form": "Wert",
+"type": "stem",
+"ko": "가치"
+},
+"Wetter|stem": {
+"form": "Wetter",
+"type": "stem",
+"ko": "날씨"
+},
+"Wind|stem": {
+"form": "Wind",
+"type": "stem",
+"ko": "바람"
+},
+"Wirtschaft|stem": {
+"form": "Wirtschaft",
+"type": "stem",
+"ko": "경제, 경영"
+},
+"Wirt|stem": {
+"form": "Wirt",
+"type": "stem",
+"ko": "주인"
+},
+"Wissenschaftler|stem": {
+"form": "Wissenschaftler",
+"type": "stem",
+"ko": "과학자"
+},
+"Wissenschaft|stem": {
+"form": "Wissenschaft",
+"type": "stem",
+"ko": "학문"
+},
+"Wissen|stem": {
+"form": "Wissen",
+"type": "stem",
+"ko": "지식"
+},
+"Witz|stem": {
+"form": "Witz",
+"type": "stem",
+"ko": "농담"
+},
+"Wort|stem": {
+"form": "Wort",
+"type": "stem",
+"ko": "단어"
+},
+"Wunder|stem": {
+"form": "Wunder",
+"type": "stem",
+"ko": "기적, 놀라움"
+},
+"Wunsch|stem": {
+"form": "Wunsch",
+"type": "stem",
+"ko": "소원"
+},
+"Zahl|stem": {
+"form": "Zahl",
+"type": "stem",
+"ko": "숫자"
+},
+"Zahn|stem": {
+"form": "Zahn",
+"type": "stem",
+"ko": "이, 치아"
+},
+"Zeichen|stem": {
+"form": "Zeichen",
+"type": "stem",
+"ko": "표시, 신호"
+},
+"Zeit|stem": {
+"form": "Zeit",
+"type": "stem",
+"ko": "시간"
+},
+"Zelt|stem": {
+"form": "Zelt",
+"type": "stem",
+"ko": "텐트"
+},
+"Zentrum|stem": {
+"form": "Zentrum",
+"type": "stem",
+"ko": "중심"
+},
+"Zettel|stem": {
+"form": "Zettel",
+"type": "stem",
+"ko": "쪽지, 용지"
+},
+"Zeuge|stem": {
+"form": "Zeuge",
+"type": "stem",
+"ko": "증인"
+},
+"Zeug|stem": {
+"form": "Zeug",
+"type": "stem",
+"ko": "도구, 물건"
+},
+"Zimmer|stem": {
+"form": "Zimmer",
+"type": "stem",
+"ko": "방"
+},
+"Zufall|stem": {
+"form": "Zufall",
+"type": "stem",
+"ko": "우연"
+},
+"Zugang|stem": {
+"form": "Zugang",
+"type": "stem",
+"ko": "접근"
+},
+"Zug|stem": {
+"form": "Zug",
+"type": "stem",
+"ko": "당김"
+},
+"Zuhörer|stem": {
+"form": "Zuhörer",
+"type": "stem",
+"ko": "청자"
+},
+"Zukunft|stem": {
+"form": "Zukunft",
+"type": "stem",
+"ko": "미래"
+},
+"Zusatz|stem": {
+"form": "Zusatz",
+"type": "stem",
+"ko": "추가"
+},
+"Zustand|stem": {
+"form": "Zustand",
+"type": "stem",
+"ko": "상태"
+},
+"Zweifel|stem": {
+"form": "Zweifel",
+"type": "stem",
+"ko": "의심"
+},
+"abbilden|stem": {
+"form": "abbilden",
+"type": "stem",
+"ko": "그려 내다"
+},
+"abhängen|stem": {
+"form": "abhängen",
+"type": "stem",
+"ko": "~에 달려 있다"
+},
+"abreden|stem": {
+"form": "abreden",
+"type": "stem",
+"ko": "합의하다"
+},
+"abteilen|stem": {
+"form": "abteilen",
+"type": "stem",
+"ko": "나누다"
+},
+"ab|sep": {
+"form": "ab",
+"type": "sep",
+"ko": "떨어져"
+},
+"ab|stem": {
+"form": "ab",
+"type": "stem",
+"ko": "떨어져"
+},
+"achten|stem": {
+"form": "achten",
+"type": "stem",
+"ko": "주의하다"
+},
+"ahnen|stem": {
+"form": "ahnen",
+"type": "stem",
+"ko": "예감하다"
+},
+"aktiv|stem": {
+"form": "aktiv",
+"type": "stem",
+"ko": "활동적인"
+},
+"alle|stem": {
+"form": "alle",
+"type": "stem",
+"ko": "모든"
+},
+"all|stem": {
+"form": "all",
+"type": "stem",
+"ko": "모든"
+},
+"anbieten|stem": {
+"form": "anbieten",
+"type": "stem",
+"ko": "제공하다"
+},
+"anderer|stem": {
+"form": "anderer",
+"type": "stem",
+"ko": "다른"
+},
+"anleiten|stem": {
+"form": "anleiten",
+"type": "stem",
+"ko": "지도하다"
+},
+"antworten|stem": {
+"form": "antworten",
+"type": "stem",
+"ko": "대답하다"
+},
+"an|sep": {
+"form": "an",
+"type": "sep",
+"ko": "~에 닿게, 시작"
+},
+"an|stem": {
+"form": "an",
+"type": "stem",
+"ko": "~에 닿게"
+},
+"auf|sep": {
+"form": "auf",
+"type": "sep",
+"ko": "위로, 열어"
+},
+"auf|stem": {
+"form": "auf",
+"type": "stem",
+"ko": "위로, 열어"
+},
+"ausbilden|stem": {
+"form": "ausbilden",
+"type": "stem",
+"ko": "교육하다"
+},
+"ausstellen|stem": {
+"form": "ausstellen",
+"type": "stem",
+"ko": "전시하다"
+},
+"aus|sep": {
+"form": "aus",
+"type": "sep",
+"ko": "밖으로"
+},
+"aus|stem": {
+"form": "aus",
+"type": "stem",
+"ko": "밖으로"
+},
+"außer|stem": {
+"form": "außer",
+"type": "stem",
+"ko": "~밖의"
+},
+"baden|stem": {
+"form": "baden",
+"type": "stem",
+"ko": "목욕하다"
+},
+"bald|stem": {
+"form": "bald",
+"type": "stem",
+"ko": "곧"
+},
+"bauen|stem": {
+"form": "bauen",
+"type": "stem",
+"ko": "짓다"
+},
+"beantworten|stem": {
+"form": "beantworten",
+"type": "stem",
+"ko": "대답하다"
+},
+"bedeuten|stem": {
+"form": "bedeuten",
+"type": "stem",
+"ko": "의미하다"
+},
+"begründen|stem": {
+"form": "begründen",
+"type": "stem",
+"ko": "근거를 대다"
+},
+"bei|stem": {
+"form": "bei",
+"type": "stem",
+"ko": "~곁에"
+},
+"bekannt|stem": {
+"form": "bekannt",
+"type": "stem",
+"ko": "알려진"
+},
+"beraten|stem": {
+"form": "beraten",
+"type": "stem",
+"ko": "조언하다"
+},
+"berechtigt|stem": {
+"form": "berechtigt",
+"type": "stem",
+"ko": "권리가 있는"
+},
+"bereiten|stem": {
+"form": "bereiten",
+"type": "stem",
+"ko": "준비하다"
+},
+"beschäftigen|stem": {
+"form": "beschäftigen",
+"type": "stem",
+"ko": "고용하다, 몰두하다"
+},
+"besprechen|stem": {
+"form": "besprechen",
+"type": "stem",
+"ko": "논의하다"
+},
+"bessern|stem": {
+"form": "bessern",
+"type": "stem",
+"ko": "나아지게 하다"
+},
+"bestätigen|stem": {
+"form": "bestätigen",
+"type": "stem",
+"ko": "확인하다"
+},
+"betreuen|stem": {
+"form": "betreuen",
+"type": "stem",
+"ko": "돌보다"
+},
+"bevölkern|stem": {
+"form": "bevölkern",
+"type": "stem",
+"ko": "사람이 살게 하다"
+},
+"bewegen|stem": {
+"form": "bewegen",
+"type": "stem",
+"ko": "움직이다"
+},
+"beweisen|stem": {
+"form": "beweisen",
+"type": "stem",
+"ko": "증명하다"
+},
+"bewerben|stem": {
+"form": "bewerben",
+"type": "stem",
+"ko": "지원하다"
+},
+"bewohnen|stem": {
+"form": "bewohnen",
+"type": "stem",
+"ko": "거주하다"
+},
+"beziehen|stem": {
+"form": "beziehen",
+"type": "stem",
+"ko": "관련짓다"
+},
+"be|insep": {
+"form": "be",
+"type": "insep",
+"ko": "~에 작용, 강조"
+},
+"biegen|stem": {
+"form": "biegen",
+"type": "stem",
+"ko": "구부리다"
+},
+"bieten|stem": {
+"form": "bieten",
+"type": "stem",
+"ko": "제공하다"
+},
+"binden|stem": {
+"form": "binden",
+"type": "stem",
+"ko": "묶다"
+},
+"bleiben|stem": {
+"form": "bleiben",
+"type": "stem",
+"ko": "머무르다"
+},
+"brauchen|stem": {
+"form": "brauchen",
+"type": "stem",
+"ko": "필요하다, 쓰다"
+},
+"brechen|stem": {
+"form": "brechen",
+"type": "stem",
+"ko": "부수다"
+},
+"breit|stem": {
+"form": "breit",
+"type": "stem",
+"ko": "넓은"
+},
+"brennen|stem": {
+"form": "brennen",
+"type": "stem",
+"ko": "타다"
+},
+"bringen|stem": {
+"form": "bringen",
+"type": "stem",
+"ko": "가져오다"
+},
+"danken|stem": {
+"form": "danken",
+"type": "stem",
+"ko": "감사하다"
+},
+"darstellen|stem": {
+"form": "darstellen",
+"type": "stem",
+"ko": "묘사하다"
+},
+"dar|sep": {
+"form": "dar",
+"type": "sep",
+"ko": "눈앞에, 나타내어"
+},
+"dass|stem": {
+"form": "dass",
+"type": "stem",
+"ko": "~라는 것"
+},
+"da|stem": {
+"form": "da",
+"type": "stem",
+"ko": "거기"
+},
+"decken|stem": {
+"form": "decken",
+"type": "stem",
+"ko": "덮다"
+},
+"dem|stem": {
+"form": "dem",
+"type": "stem",
+"ko": "그것"
+},
+"denken|stem": {
+"form": "denken",
+"type": "stem",
+"ko": "생각하다"
+},
+"der|stem": {
+"form": "der",
+"type": "stem",
+"ko": "그"
+},
+"des|stem": {
+"form": "des",
+"type": "stem",
+"ko": "그것의"
+},
+"deuten|stem": {
+"form": "deuten",
+"type": "stem",
+"ko": "가리키다"
+},
+"dienen|stem": {
+"form": "dienen",
+"type": "stem",
+"ko": "봉사하다"
+},
+"dies|stem": {
+"form": "dies",
+"type": "stem",
+"ko": "이"
+},
+"dort|stem": {
+"form": "dort",
+"type": "stem",
+"ko": "저기에"
+},
+"drehen|stem": {
+"form": "drehen",
+"type": "stem",
+"ko": "돌리다"
+},
+"drucken|stem": {
+"form": "drucken",
+"type": "stem",
+"ko": "인쇄하다"
+},
+"durch|sep": {
+"form": "durch",
+"type": "sep",
+"ko": "통해"
+},
+"durch|stem": {
+"form": "durch",
+"type": "stem",
+"ko": "통과"
+},
+"eben|stem": {
+"form": "eben",
+"type": "stem",
+"ko": "똑같이"
+},
+"eigen|stem": {
+"form": "eigen",
+"type": "stem",
+"ko": "자신의"
+},
+"eignen|stem": {
+"form": "eignen",
+"type": "stem",
+"ko": "알맞다"
+},
+"eilen|stem": {
+"form": "eilen",
+"type": "stem",
+"ko": "급히 가다"
+},
+"einander|stem": {
+"form": "einander",
+"type": "stem",
+"ko": "서로"
+},
+"einbrechen|stem": {
+"form": "einbrechen",
+"type": "stem",
+"ko": "침입하다"
+},
+"einführen|stem": {
+"form": "einführen",
+"type": "stem",
+"ko": "도입하다"
+},
+"einrichten|stem": {
+"form": "einrichten",
+"type": "stem",
+"ko": "꾸미다, 설치하다"
+},
+"einschließen|stem": {
+"form": "einschließen",
+"type": "stem",
+"ko": "포함하다"
+},
+"einzahlen|stem": {
+"form": "einzahlen",
+"type": "stem",
+"ko": "입금하다"
+},
+"einzeln|stem": {
+"form": "einzeln",
+"type": "stem",
+"ko": "개별의"
+},
+"ein|sep": {
+"form": "ein",
+"type": "sep",
+"ko": "안으로"
+},
+"ein|stem": {
+"form": "ein",
+"type": "stem",
+"ko": "안으로"
+},
+"empfangen|stem": {
+"form": "empfangen",
+"type": "stem",
+"ko": "받다"
+},
+"emp|insep": {
+"form": "emp",
+"type": "insep",
+"ko": "받아서"
+},
+"enden|stem": {
+"form": "enden",
+"type": "stem",
+"ko": "끝나다"
+},
+"entfernen|stem": {
+"form": "entfernen",
+"type": "stem",
+"ko": "멀리하다"
+},
+"entgegen|sep": {
+"form": "entgegen",
+"type": "sep",
+"ko": "~를 향해"
+},
+"entlassen|stem": {
+"form": "entlassen",
+"type": "stem",
+"ko": "해고하다"
+},
+"entscheiden|stem": {
+"form": "entscheiden",
+"type": "stem",
+"ko": "결정하다"
+},
+"enttäuschen|stem": {
+"form": "enttäuschen",
+"type": "stem",
+"ko": "실망시키다"
+},
+"entwickeln|stem": {
+"form": "entwickeln",
+"type": "stem",
+"ko": "발전시키다"
+},
+"ent|insep": {
+"form": "ent",
+"type": "insep",
+"ko": "벗어나, 반대로"
+},
+"ereignen|stem": {
+"form": "ereignen",
+"type": "stem",
+"ko": "일어나다"
+},
+"erfahren|stem": {
+"form": "erfahren",
+"type": "stem",
+"ko": "경험하다"
+},
+"erfinden|stem": {
+"form": "erfinden",
+"type": "stem",
+"ko": "발명하다"
+},
+"erfordern|stem": {
+"form": "erfordern",
+"type": "stem",
+"ko": "요구하다"
+},
+"erholen|stem": {
+"form": "erholen",
+"type": "stem",
+"ko": "회복하다"
+},
+"erhöhen|stem": {
+"form": "erhöhen",
+"type": "stem",
+"ko": "높이다"
+},
+"erinnern|stem": {
+"form": "erinnern",
+"type": "stem",
+"ko": "기억나게 하다"
+},
+"erkennen|stem": {
+"form": "erkennen",
+"type": "stem",
+"ko": "알아보다"
+},
+"erklären|stem": {
+"form": "erklären",
+"type": "stem",
+"ko": "설명하다"
+},
+"erkälten|stem": {
+"form": "erkälten",
+"type": "stem",
+"ko": "감기에 걸리다"
+},
+"erlauben|stem": {
+"form": "erlauben",
+"type": "stem",
+"ko": "허락하다"
+},
+"erleben|stem": {
+"form": "erleben",
+"type": "stem",
+"ko": "경험하다"
+},
+"ernähren|stem": {
+"form": "ernähren",
+"type": "stem",
+"ko": "먹여 살리다"
+},
+"erst|stem": {
+"form": "erst",
+"type": "stem",
+"ko": "처음의"
+},
+"er|insep": {
+"form": "er",
+"type": "insep",
+"ko": "끝까지, 새로"
+},
+"fahren|stem": {
+"form": "fahren",
+"type": "stem",
+"ko": "타고 가다"
+},
+"fallen|stem": {
+"form": "fallen",
+"type": "stem",
+"ko": "떨어지다"
+},
+"fangen|stem": {
+"form": "fangen",
+"type": "stem",
+"ko": "잡다"
+},
+"fassen|stem": {
+"form": "fassen",
+"type": "stem",
+"ko": "잡다"
+},
+"fernsehen|stem": {
+"form": "fernsehen",
+"type": "stem",
+"ko": "텔레비전을 보다"
+},
+"fern|sep": {
+"form": "fern",
+"type": "sep",
+"ko": "멀리"
+},
+"fern|stem": {
+"form": "fern",
+"type": "stem",
+"ko": "먼"
+},
+"fertig|stem": {
+"form": "fertig",
+"type": "stem",
+"ko": "끝난, 준비된"
+},
+"fest|sep": {
+"form": "fest",
+"type": "sep",
+"ko": "단단히"
+},
+"fest|stem": {
+"form": "fest",
+"type": "stem",
+"ko": "단단한"
+},
+"finden|stem": {
+"form": "finden",
+"type": "stem",
+"ko": "찾다, 발견하다"
+},
+"fit|stem": {
+"form": "fit",
+"type": "stem",
+"ko": "건강한"
+},
+"flach|stem": {
+"form": "flach",
+"type": "stem",
+"ko": "평평한"
+},
+"fliegen|stem": {
+"form": "fliegen",
+"type": "stem",
+"ko": "날다"
+},
+"flüssig|stem": {
+"form": "flüssig",
+"type": "stem",
+"ko": "액체의"
+},
+"folgen|stem": {
+"form": "folgen",
+"type": "stem",
+"ko": "뒤따르다"
+},
+"fordern|stem": {
+"form": "fordern",
+"type": "stem",
+"ko": "요구하다"
+},
+"forschen|stem": {
+"form": "forschen",
+"type": "stem",
+"ko": "연구하다"
+},
+"fortsetzen|stem": {
+"form": "fortsetzen",
+"type": "stem",
+"ko": "계속하다"
+},
+"fort|sep": {
+"form": "fort",
+"type": "sep",
+"ko": "계속, 앞으로"
+},
+"fort|stem": {
+"form": "fort",
+"type": "stem",
+"ko": "계속, 앞으로"
+},
+"frei|stem": {
+"form": "frei",
+"type": "stem",
+"ko": "자유로운"
+},
+"fremd|stem": {
+"form": "fremd",
+"type": "stem",
+"ko": "낯선, 외국의"
+},
+"froh|stem": {
+"form": "froh",
+"type": "stem",
+"ko": "기쁜"
+},
+"früh|stem": {
+"form": "früh",
+"type": "stem",
+"ko": "이른"
+},
+"fähig|stem": {
+"form": "fähig",
+"type": "stem",
+"ko": "유능한, ~할 수 있는"
+},
+"fördern|stem": {
+"form": "fördern",
+"type": "stem",
+"ko": "장려하다"
+},
+"fügen|stem": {
+"form": "fügen",
+"type": "stem",
+"ko": "맞추다"
+},
+"führen|stem": {
+"form": "führen",
+"type": "stem",
+"ko": "이끌다"
+},
+"füllen|stem": {
+"form": "füllen",
+"type": "stem",
+"ko": "채우다"
+},
+"für|stem": {
+"form": "für",
+"type": "stem",
+"ko": "~을 위해"
+},
+"ganz|stem": {
+"form": "ganz",
+"type": "stem",
+"ko": "완전한"
+},
+"geben|stem": {
+"form": "geben",
+"type": "stem",
+"ko": "주다"
+},
+"geboren|stem": {
+"form": "geboren",
+"type": "stem",
+"ko": "태어난"
+},
+"gegen|stem": {
+"form": "gegen",
+"type": "stem",
+"ko": "~에 맞서"
+},
+"geheim|stem": {
+"form": "geheim",
+"type": "stem",
+"ko": "비밀의"
+},
+"gehen|stem": {
+"form": "gehen",
+"type": "stem",
+"ko": "가다"
+},
+"gelegen|stem": {
+"form": "gelegen",
+"type": "stem",
+"ko": "위치한, 알맞은"
+},
+"gemein|stem": {
+"form": "gemein",
+"type": "stem",
+"ko": "공통의"
+},
+"genannt|stem": {
+"form": "genannt",
+"type": "stem",
+"ko": "불린"
+},
+"genau|stem": {
+"form": "genau",
+"type": "stem",
+"ko": "정확한"
+},
+"gerade|stem": {
+"form": "gerade",
+"type": "stem",
+"ko": "곧은"
+},
+"geschwind|stem": {
+"form": "geschwind",
+"type": "stem",
+"ko": "빠른"
+},
+"gestern|stem": {
+"form": "gestern",
+"type": "stem",
+"ko": "어제"
+},
+"gesund|stem": {
+"form": "gesund",
+"type": "stem",
+"ko": "건강한"
+},
+"gewohnt|stem": {
+"form": "gewohnt",
+"type": "stem",
+"ko": "익숙한"
+},
+"ge|insep": {
+"form": "ge",
+"type": "insep",
+"ko": "완료, 결과"
+},
+"gierig|stem": {
+"form": "gierig",
+"type": "stem",
+"ko": "탐내는, 갈망하는"
+},
+"gleich|stem": {
+"form": "gleich",
+"type": "stem",
+"ko": "같은"
+},
+"groß|stem": {
+"form": "groß",
+"type": "stem",
+"ko": "큰"
+},
+"größer|stem": {
+"form": "größer",
+"type": "stem",
+"ko": "더 큰"
+},
+"gründen|stem": {
+"form": "gründen",
+"type": "stem",
+"ko": "세우다"
+},
+"grüßen|stem": {
+"form": "grüßen",
+"type": "stem",
+"ko": "인사하다"
+},
+"gültig|stem": {
+"form": "gültig",
+"type": "stem",
+"ko": "유효한"
+},
+"haben|stem": {
+"form": "haben",
+"type": "stem",
+"ko": "가지다"
+},
+"hacken|stem": {
+"form": "hacken",
+"type": "stem",
+"ko": "다지다, 썰다"
+},
+"haften|stem": {
+"form": "haften",
+"type": "stem",
+"ko": "붙다"
+},
+"halb|stem": {
+"form": "halb",
+"type": "stem",
+"ko": "반"
+},
+"halten|stem": {
+"form": "halten",
+"type": "stem",
+"ko": "잡다, 유지하다"
+},
+"handeln|stem": {
+"form": "handeln",
+"type": "stem",
+"ko": "행동하다, 다루다"
+},
+"heben|stem": {
+"form": "heben",
+"type": "stem",
+"ko": "들어 올리다"
+},
+"heizen|stem": {
+"form": "heizen",
+"type": "stem",
+"ko": "난방하다"
+},
+"herausfordern|stem": {
+"form": "herausfordern",
+"type": "stem",
+"ko": "도전하다"
+},
+"heraus|sep": {
+"form": "heraus",
+"type": "sep",
+"ko": "(안에서) 밖으로"
+},
+"herstellen|stem": {
+"form": "herstellen",
+"type": "stem",
+"ko": "만들다, 생산하다"
+},
+"herunter|sep": {
+"form": "herunter",
+"type": "sep",
+"ko": "아래로"
+},
+"her|sep": {
+"form": "her",
+"type": "sep",
+"ko": "이쪽으로"
+},
+"her|stem": {
+"form": "her",
+"type": "stem",
+"ko": "이쪽으로"
+},
+"heute|stem": {
+"form": "heute",
+"type": "stem",
+"ko": "오늘"
+},
+"hier|stem": {
+"form": "hier",
+"type": "stem",
+"ko": "여기"
+},
+"hindern|stem": {
+"form": "hindern",
+"type": "stem",
+"ko": "막다"
+},
+"hinter|insep": {
+"form": "hinter",
+"type": "insep",
+"ko": "뒤에"
+},
+"hin|sep": {
+"form": "hin",
+"type": "sep",
+"ko": "그쪽으로"
+},
+"hin|stem": {
+"form": "hin",
+"type": "stem",
+"ko": "그쪽으로"
+},
+"hoch|sep": {
+"form": "hoch",
+"type": "sep",
+"ko": "위로, 높이"
+},
+"hoch|stem": {
+"form": "hoch",
+"type": "stem",
+"ko": "높은"
+},
+"hoffen|stem": {
+"form": "hoffen",
+"type": "stem",
+"ko": "바라다"
+},
+"holen|stem": {
+"form": "holen",
+"type": "stem",
+"ko": "가져오다"
+},
+"hängen|stem": {
+"form": "hängen",
+"type": "stem",
+"ko": "걸리다, 매달리다"
+},
+"hören|stem": {
+"form": "hören",
+"type": "stem",
+"ko": "듣다"
+},
+"intensiv|stem": {
+"form": "intensiv",
+"type": "stem",
+"ko": "집중적인"
+},
+"inter|stem": {
+"form": "inter",
+"type": "stem",
+"ko": "~사이의"
+},
+"in|stem": {
+"form": "in",
+"type": "stem",
+"ko": "안에"
+},
+"irgend|stem": {
+"form": "irgend",
+"type": "stem",
+"ko": "어떤, 아무"
+},
+"jeder|stem": {
+"form": "jeder",
+"type": "stem",
+"ko": "각각의, 모든"
+},
+"kalt|stem": {
+"form": "kalt",
+"type": "stem",
+"ko": "차가운, 추운"
+},
+"kaputt|sep": {
+"form": "kaputt",
+"type": "sep",
+"ko": "고장 난, 망가진"
+},
+"kaufen|stem": {
+"form": "kaufen",
+"type": "stem",
+"ko": "사다"
+},
+"kennen|stem": {
+"form": "kennen",
+"type": "stem",
+"ko": "알다"
+},
+"klicken|stem": {
+"form": "klicken",
+"type": "stem",
+"ko": "클릭하다"
+},
+"klären|stem": {
+"form": "klären",
+"type": "stem",
+"ko": "밝히다"
+},
+"kommen|stem": {
+"form": "kommen",
+"type": "stem",
+"ko": "오다"
+},
+"kopieren|stem": {
+"form": "kopieren",
+"type": "stem",
+"ko": "복사하다"
+},
+"krank|stem": {
+"form": "krank",
+"type": "stem",
+"ko": "아픈"
+},
+"kreuzen|stem": {
+"form": "kreuzen",
+"type": "stem",
+"ko": "가위표를 치다"
+},
+"kulturell|stem": {
+"form": "kulturell",
+"type": "stem",
+"ko": "문화의"
+},
+"kurz|stem": {
+"form": "kurz",
+"type": "stem",
+"ko": "짧은"
+},
+"kühl|stem": {
+"form": "kühl",
+"type": "stem",
+"ko": "서늘한"
+},
+"kündigen|stem": {
+"form": "kündigen",
+"type": "stem",
+"ko": "통지하다"
+},
+"laden|stem": {
+"form": "laden",
+"type": "stem",
+"ko": "청하다"
+},
+"landen|stem": {
+"form": "landen",
+"type": "stem",
+"ko": "착륙하다"
+},
+"langen|stem": {
+"form": "langen",
+"type": "stem",
+"ko": "닿다, 뻗다"
+},
+"lange|stem": {
+"form": "lange",
+"type": "stem",
+"ko": "오래"
+},
+"lang|stem": {
+"form": "lang",
+"type": "stem",
+"ko": "긴"
+},
+"lassen|stem": {
+"form": "lassen",
+"type": "stem",
+"ko": "두다, 놓다"
+},
+"laufen|stem": {
+"form": "laufen",
+"type": "stem",
+"ko": "달리다, 작동하다"
+},
+"laut|stem": {
+"form": "laut",
+"type": "stem",
+"ko": "시끄러운, 큰 소리의"
+},
+"leben|stem": {
+"form": "leben",
+"type": "stem",
+"ko": "살다"
+},
+"ledig|stem": {
+"form": "ledig",
+"type": "stem",
+"ko": "자유로운"
+},
+"legen|stem": {
+"form": "legen",
+"type": "stem",
+"ko": "놓다"
+},
+"lehnen|stem": {
+"form": "lehnen",
+"type": "stem",
+"ko": "기대다"
+},
+"lehren|stem": {
+"form": "lehren",
+"type": "stem",
+"ko": "가르치다"
+},
+"leicht|stem": {
+"form": "leicht",
+"type": "stem",
+"ko": "가벼운, 쉬운"
+},
+"leidig|stem": {
+"form": "leidig",
+"type": "stem",
+"ko": "성가신"
+},
+"leid|stem": {
+"form": "leid",
+"type": "stem",
+"ko": "안타까운"
+},
+"leisten|stem": {
+"form": "leisten",
+"type": "stem",
+"ko": "해내다"
+},
+"leiten|stem": {
+"form": "leiten",
+"type": "stem",
+"ko": "이끌다"
+},
+"lernen|stem": {
+"form": "lernen",
+"type": "stem",
+"ko": "배우다"
+},
+"lesen|stem": {
+"form": "lesen",
+"type": "stem",
+"ko": "읽다"
+},
+"letzt|stem": {
+"form": "letzt",
+"type": "stem",
+"ko": "마지막의"
+},
+"lieben|stem": {
+"form": "lieben",
+"type": "stem",
+"ko": "사랑하다"
+},
+"liefern|stem": {
+"form": "liefern",
+"type": "stem",
+"ko": "배달하다"
+},
+"los|sep": {
+"form": "los",
+"type": "sep",
+"ko": "출발, 떨어져"
+},
+"länger|stem": {
+"form": "länger",
+"type": "stem",
+"ko": "더 긴"
+},
+"lösen|stem": {
+"form": "lösen",
+"type": "stem",
+"ko": "풀다"
+},
+"machen|stem": {
+"form": "machen",
+"type": "stem",
+"ko": "하다, 만들다"
+},
+"mahnen|stem": {
+"form": "mahnen",
+"type": "stem",
+"ko": "독촉하다, 경고하다"
+},
+"manch|stem": {
+"form": "manch",
+"type": "stem",
+"ko": "몇몇의"
+},
+"mehr|stem": {
+"form": "mehr",
+"type": "stem",
+"ko": "더 많은"
+},
+"meiden|stem": {
+"form": "meiden",
+"type": "stem",
+"ko": "피하다"
+},
+"meinen|stem": {
+"form": "meinen",
+"type": "stem",
+"ko": "생각하다"
+},
+"melden|stem": {
+"form": "melden",
+"type": "stem",
+"ko": "알리다"
+},
+"merken|stem": {
+"form": "merken",
+"type": "stem",
+"ko": "눈치채다"
+},
+"mieten|stem": {
+"form": "mieten",
+"type": "stem",
+"ko": "세내다"
+},
+"minder|stem": {
+"form": "minder",
+"type": "stem",
+"ko": "더 적은"
+},
+"mindest|stem": {
+"form": "mindest",
+"type": "stem",
+"ko": "최소의"
+},
+"missen|stem": {
+"form": "missen",
+"type": "stem",
+"ko": "없이 지내다"
+},
+"mit|sep": {
+"form": "mit",
+"type": "sep",
+"ko": "함께"
+},
+"mit|stem": {
+"form": "mit",
+"type": "stem",
+"ko": "함께"
+},
+"mobil|stem": {
+"form": "mobil",
+"type": "stem",
+"ko": "이동하는"
+},
+"morgen|stem": {
+"form": "morgen",
+"type": "stem",
+"ko": "내일"
+},
+"mögen|stem": {
+"form": "mögen",
+"type": "stem",
+"ko": "~할 수 있다"
+},
+"möglich|stem": {
+"form": "möglich",
+"type": "stem",
+"ko": "가능한"
+},
+"mühen|stem": {
+"form": "mühen",
+"type": "stem",
+"ko": "애쓰다"
+},
+"nach|sep": {
+"form": "nach",
+"type": "sep",
+"ko": "뒤에, 따라"
+},
+"nach|stem": {
+"form": "nach",
+"type": "stem",
+"ko": "뒤에, 따라"
+},
+"neben|stem": {
+"form": "neben",
+"type": "stem",
+"ko": "옆에"
+},
+"nehmen|stem": {
+"form": "nehmen",
+"type": "stem",
+"ko": "가지다"
+},
+"neu|stem": {
+"form": "neu",
+"type": "stem",
+"ko": "새로운"
+},
+"nicht|stem": {
+"form": "nicht",
+"type": "stem",
+"ko": "아닌"
+},
+"nie|stem": {
+"form": "nie",
+"type": "stem",
+"ko": "결코 ~않다"
+},
+"nutzen|stem": {
+"form": "nutzen",
+"type": "stem",
+"ko": "쓰다"
+},
+"nähren|stem": {
+"form": "nähren",
+"type": "stem",
+"ko": "영양을 주다"
+},
+"nötigen|stem": {
+"form": "nötigen",
+"type": "stem",
+"ko": "강요하다"
+},
+"ob|stem": {
+"form": "ob",
+"type": "stem",
+"ko": "~인지, 만일"
+},
+"offen|stem": {
+"form": "offen",
+"type": "stem",
+"ko": "열린"
+},
+"ordnen|stem": {
+"form": "ordnen",
+"type": "stem",
+"ko": "정리하다"
+},
+"packen|stem": {
+"form": "packen",
+"type": "stem",
+"ko": "싸다"
+},
+"passen|stem": {
+"form": "passen",
+"type": "stem",
+"ko": "맞다"
+},
+"pflegen|stem": {
+"form": "pflegen",
+"type": "stem",
+"ko": "돌보다"
+},
+"planen|stem": {
+"form": "planen",
+"type": "stem",
+"ko": "계획하다"
+},
+"prüfen|stem": {
+"form": "prüfen",
+"type": "stem",
+"ko": "시험하다, 검사하다"
+},
+"queren|stem": {
+"form": "queren",
+"type": "stem",
+"ko": "가로지르다"
+},
+"raten|stem": {
+"form": "raten",
+"type": "stem",
+"ko": "조언하다, 맞히다"
+},
+"rauchen|stem": {
+"form": "rauchen",
+"type": "stem",
+"ko": "담배 피우다"
+},
+"rechnen|stem": {
+"form": "rechnen",
+"type": "stem",
+"ko": "계산하다"
+},
+"recht|stem": {
+"form": "recht",
+"type": "stem",
+"ko": "옳은"
+},
+"reden|stem": {
+"form": "reden",
+"type": "stem",
+"ko": "말하다"
+},
+"regen|stem": {
+"form": "regen",
+"type": "stem",
+"ko": "움직이다, 자극하다"
+},
+"reichen|stem": {
+"form": "reichen",
+"type": "stem",
+"ko": "닿다"
+},
+"reinigen|stem": {
+"form": "reinigen",
+"type": "stem",
+"ko": "깨끗이 하다"
+},
+"reisen|stem": {
+"form": "reisen",
+"type": "stem",
+"ko": "여행하다"
+},
+"reservieren|stem": {
+"form": "reservieren",
+"type": "stem",
+"ko": "예약하다"
+},
+"richten|stem": {
+"form": "richten",
+"type": "stem",
+"ko": "향하게 하다"
+},
+"rufen|stem": {
+"form": "rufen",
+"type": "stem",
+"ko": "부르다"
+},
+"ruhen|stem": {
+"form": "ruhen",
+"type": "stem",
+"ko": "쉬다"
+},
+"ruhig|stem": {
+"form": "ruhig",
+"type": "stem",
+"ko": "조용한"
+},
+"rund|stem": {
+"form": "rund",
+"type": "stem",
+"ko": "둥근, 빙 둘러"
+},
+"runter|sep": {
+"form": "runter",
+"type": "sep",
+"ko": "아래로"
+},
+"räumen|stem": {
+"form": "räumen",
+"type": "stem",
+"ko": "치우다"
+},
+"rück|stem": {
+"form": "rück",
+"type": "stem",
+"ko": "뒤로, 되돌아"
+},
+"sagen|stem": {
+"form": "sagen",
+"type": "stem",
+"ko": "말하다"
+},
+"saugen|stem": {
+"form": "saugen",
+"type": "stem",
+"ko": "빨아들이다"
+},
+"schaffen|stem": {
+"form": "schaffen",
+"type": "stem",
+"ko": "만들다"
+},
+"schalten|stem": {
+"form": "schalten",
+"type": "stem",
+"ko": "전환하다"
+},
+"schauen|stem": {
+"form": "schauen",
+"type": "stem",
+"ko": "보다"
+},
+"scheiden|stem": {
+"form": "scheiden",
+"type": "stem",
+"ko": "가르다"
+},
+"scheinen|stem": {
+"form": "scheinen",
+"type": "stem",
+"ko": "~처럼 보이다"
+},
+"schieben|stem": {
+"form": "schieben",
+"type": "stem",
+"ko": "밀다"
+},
+"schlagen|stem": {
+"form": "schlagen",
+"type": "stem",
+"ko": "치다, 펼치다"
+},
+"schließen|stem": {
+"form": "schließen",
+"type": "stem",
+"ko": "닫다"
+},
+"schnallen|stem": {
+"form": "schnallen",
+"type": "stem",
+"ko": "(버클로) 채우다"
+},
+"schreiben|stem": {
+"form": "schreiben",
+"type": "stem",
+"ko": "쓰다"
+},
+"schwanger|stem": {
+"form": "schwanger",
+"type": "stem",
+"ko": "임신한"
+},
+"schwierig|stem": {
+"form": "schwierig",
+"type": "stem",
+"ko": "어려운"
+},
+"schwimmen|stem": {
+"form": "schwimmen",
+"type": "stem",
+"ko": "수영하다"
+},
+"schwinden|stem": {
+"form": "schwinden",
+"type": "stem",
+"ko": "줄어들다"
+},
+"schädigen|stem": {
+"form": "schädigen",
+"type": "stem",
+"ko": "해를 입히다"
+},
+"schön|stem": {
+"form": "schön",
+"type": "stem",
+"ko": "아름다운"
+},
+"sehenswürdig|stem": {
+"form": "sehenswürdig",
+"type": "stem",
+"ko": "볼만한"
+},
+"sehen|stem": {
+"form": "sehen",
+"type": "stem",
+"ko": "보다"
+},
+"sein|stem": {
+"form": "sein",
+"type": "stem",
+"ko": "~이다"
+},
+"seit|stem": {
+"form": "seit",
+"type": "stem",
+"ko": "~이래로"
+},
+"selbe|stem": {
+"form": "selbe",
+"type": "stem",
+"ko": "같은"
+},
+"selbst|stem": {
+"form": "selbst",
+"type": "stem",
+"ko": "스스로"
+},
+"senden|stem": {
+"form": "senden",
+"type": "stem",
+"ko": "보내다"
+},
+"senken|stem": {
+"form": "senken",
+"type": "stem",
+"ko": "내리다"
+},
+"setzen|stem": {
+"form": "setzen",
+"type": "stem",
+"ko": "놓다"
+},
+"sichern|stem": {
+"form": "sichern",
+"type": "stem",
+"ko": "안전하게 하다"
+},
+"sicher|stem": {
+"form": "sicher",
+"type": "stem",
+"ko": "안전한, 확실한"
+},
+"siegen|stem": {
+"form": "siegen",
+"type": "stem",
+"ko": "이기다"
+},
+"sitzen|stem": {
+"form": "sitzen",
+"type": "stem",
+"ko": "앉다"
+},
+"sorgen|stem": {
+"form": "sorgen",
+"type": "stem",
+"ko": "돌보다"
+},
+"sozial|stem": {
+"form": "sozial",
+"type": "stem",
+"ko": "사회적인"
+},
+"so|stem": {
+"form": "so",
+"type": "stem",
+"ko": "그렇게"
+},
+"sparen|stem": {
+"form": "sparen",
+"type": "stem",
+"ko": "아끼다, 저축하다"
+},
+"spazieren|stem": {
+"form": "spazieren",
+"type": "stem",
+"ko": "산책하다"
+},
+"spielen|stem": {
+"form": "spielen",
+"type": "stem",
+"ko": "놀다, 경기하다"
+},
+"sprechen|stem": {
+"form": "sprechen",
+"type": "stem",
+"ko": "말하다"
+},
+"spät|stem": {
+"form": "spät",
+"type": "stem",
+"ko": "늦은"
+},
+"statt|sep": {
+"form": "statt",
+"type": "sep",
+"ko": "일어나, 개최"
+},
+"stecken|stem": {
+"form": "stecken",
+"type": "stem",
+"ko": "꽂다"
+},
+"stehen|stem": {
+"form": "stehen",
+"type": "stem",
+"ko": "서다"
+},
+"steigen|stem": {
+"form": "steigen",
+"type": "stem",
+"ko": "오르다"
+},
+"stellen|stem": {
+"form": "stellen",
+"type": "stem",
+"ko": "세우다, 놓다"
+},
+"stimmen|stem": {
+"form": "stimmen",
+"type": "stem",
+"ko": "맞다, 투표하다"
+},
+"strafen|stem": {
+"form": "strafen",
+"type": "stem",
+"ko": "벌하다"
+},
+"streichen|stem": {
+"form": "streichen",
+"type": "stem",
+"ko": "문지르다"
+},
+"stören|stem": {
+"form": "stören",
+"type": "stem",
+"ko": "방해하다"
+},
+"stützen|stem": {
+"form": "stützen",
+"type": "stem",
+"ko": "받치다"
+},
+"suchen|stem": {
+"form": "suchen",
+"type": "stem",
+"ko": "찾다"
+},
+"super|stem": {
+"form": "super",
+"type": "stem",
+"ko": "슈퍼, 아주"
+},
+"süß|stem": {
+"form": "süß",
+"type": "stem",
+"ko": "단"
+},
+"tanken|stem": {
+"form": "tanken",
+"type": "stem",
+"ko": "주유하다"
+},
+"tauschen|stem": {
+"form": "tauschen",
+"type": "stem",
+"ko": "바꾸다"
+},
+"teilen|stem": {
+"form": "teilen",
+"type": "stem",
+"ko": "나누다"
+},
+"teilnehmen|stem": {
+"form": "teilnehmen",
+"type": "stem",
+"ko": "참가하다"
+},
+"teil|sep": {
+"form": "teil",
+"type": "sep",
+"ko": "일부로, 함께"
+},
+"tragen|stem": {
+"form": "tragen",
+"type": "stem",
+"ko": "나르다"
+},
+"trauen|stem": {
+"form": "trauen",
+"type": "stem",
+"ko": "믿다"
+},
+"treffen|stem": {
+"form": "treffen",
+"type": "stem",
+"ko": "만나다"
+},
+"treiben|stem": {
+"form": "treiben",
+"type": "stem",
+"ko": "몰다, 하다"
+},
+"trennen|stem": {
+"form": "trennen",
+"type": "stem",
+"ko": "분리하다"
+},
+"treten|stem": {
+"form": "treten",
+"type": "stem",
+"ko": "걸음을 내딛다"
+},
+"treu|stem": {
+"form": "treu",
+"type": "stem",
+"ko": "충실한"
+},
+"trinken|stem": {
+"form": "trinken",
+"type": "stem",
+"ko": "마시다"
+},
+"trügen|stem": {
+"form": "trügen",
+"type": "stem",
+"ko": "기만하다"
+},
+"tun|stem": {
+"form": "tun",
+"type": "stem",
+"ko": "하다"
+},
+"tätig|stem": {
+"form": "tätig",
+"type": "stem",
+"ko": "활동하는"
+},
+"täuschen|stem": {
+"form": "täuschen",
+"type": "stem",
+"ko": "속이다"
+},
+"umgeben|stem": {
+"form": "umgeben",
+"type": "stem",
+"ko": "둘러싸다"
+},
+"umleiten|stem": {
+"form": "umleiten",
+"type": "stem",
+"ko": "우회시키다"
+},
+"um|insep": {
+"form": "um",
+"type": "insep",
+"ko": "둘레로, 바꿔"
+},
+"um|sep": {
+"form": "um",
+"type": "sep",
+"ko": "둘레로, 바꿔"
+},
+"um|stem": {
+"form": "um",
+"type": "stem",
+"ko": "바꿔, 둘레"
+},
+"unterhalten|stem": {
+"form": "unterhalten",
+"type": "stem",
+"ko": "대화하다, 즐겁게 하다"
+},
+"unternehmen|stem": {
+"form": "unternehmen",
+"type": "stem",
+"ko": "기획하다, 착수하다"
+},
+"unterstützen|stem": {
+"form": "unterstützen",
+"type": "stem",
+"ko": "지원하다"
+},
+"untersuchen|stem": {
+"form": "untersuchen",
+"type": "stem",
+"ko": "검사하다"
+},
+"unter|insep": {
+"form": "unter",
+"type": "insep",
+"ko": "아래, 사이"
+},
+"unter|stem": {
+"form": "unter",
+"type": "stem",
+"ko": "아래에"
+},
+"urteilen|stem": {
+"form": "urteilen",
+"type": "stem",
+"ko": "판단하다"
+},
+"verabreden|stem": {
+"form": "verabreden",
+"type": "stem",
+"ko": "약속하다"
+},
+"veranstalten|stem": {
+"form": "veranstalten",
+"type": "stem",
+"ko": "개최하다"
+},
+"verbinden|stem": {
+"form": "verbinden",
+"type": "stem",
+"ko": "연결하다"
+},
+"verbrechen|stem": {
+"form": "verbrechen",
+"type": "stem",
+"ko": "범행을 저지르다"
+},
+"vergangen|stem": {
+"form": "vergangen",
+"type": "stem",
+"ko": "지나간"
+},
+"verkaufen|stem": {
+"form": "verkaufen",
+"type": "stem",
+"ko": "팔다"
+},
+"verlassen|stem": {
+"form": "verlassen",
+"type": "stem",
+"ko": "믿고 맡기다"
+},
+"verletzen|stem": {
+"form": "verletzen",
+"type": "stem",
+"ko": "다치게 하다"
+},
+"verlieren|stem": {
+"form": "verlieren",
+"type": "stem",
+"ko": "지다, 잃다"
+},
+"vermieten|stem": {
+"form": "vermieten",
+"type": "stem",
+"ko": "세놓다"
+},
+"vermitteln|stem": {
+"form": "vermitteln",
+"type": "stem",
+"ko": "중개하다"
+},
+"versammeln|stem": {
+"form": "versammeln",
+"type": "stem",
+"ko": "모으다"
+},
+"versichern|stem": {
+"form": "versichern",
+"type": "stem",
+"ko": "보험에 들다, 장담하다"
+},
+"verspäten|stem": {
+"form": "verspäten",
+"type": "stem",
+"ko": "늦다"
+},
+"verstehen|stem": {
+"form": "verstehen",
+"type": "stem",
+"ko": "이해하다"
+},
+"verständlich|stem": {
+"form": "verständlich",
+"type": "stem",
+"ko": "이해할 수 있는"
+},
+"vertreten|stem": {
+"form": "vertreten",
+"type": "stem",
+"ko": "대표하다"
+},
+"verwalten|stem": {
+"form": "verwalten",
+"type": "stem",
+"ko": "관리하다"
+},
+"verzeihen|stem": {
+"form": "verzeihen",
+"type": "stem",
+"ko": "용서하다"
+},
+"ver|insep": {
+"form": "ver",
+"type": "insep",
+"ko": "잘못, 변화"
+},
+"viel|stem": {
+"form": "viel",
+"type": "stem",
+"ko": "많이"
+},
+"vier|stem": {
+"form": "vier",
+"type": "stem",
+"ko": "넷"
+},
+"voll|stem": {
+"form": "voll",
+"type": "stem",
+"ko": "가득한"
+},
+"von|stem": {
+"form": "von",
+"type": "stem",
+"ko": "~로부터"
+},
+"voraussetzen|stem": {
+"form": "voraussetzen",
+"type": "stem",
+"ko": "전제하다"
+},
+"vorbereiten|stem": {
+"form": "vorbereiten",
+"type": "stem",
+"ko": "준비하다"
+},
+"vorstellen|stem": {
+"form": "vorstellen",
+"type": "stem",
+"ko": "소개하다"
+},
+"vor|sep": {
+"form": "vor",
+"type": "sep",
+"ko": "앞에, 먼저"
+},
+"vor|stem": {
+"form": "vor",
+"type": "stem",
+"ko": "앞에"
+},
+"wachen|stem": {
+"form": "wachen",
+"type": "stem",
+"ko": "깨어 있다"
+},
+"wachsen|stem": {
+"form": "wachsen",
+"type": "stem",
+"ko": "자라다"
+},
+"wahr|stem": {
+"form": "wahr",
+"type": "stem",
+"ko": "진짜의"
+},
+"wandern|stem": {
+"form": "wandern",
+"type": "stem",
+"ko": "걷다, 하이킹하다"
+},
+"wann|stem": {
+"form": "wann",
+"type": "stem",
+"ko": "언제"
+},
+"warm|stem": {
+"form": "warm",
+"type": "stem",
+"ko": "따뜻한"
+},
+"waschen|stem": {
+"form": "waschen",
+"type": "stem",
+"ko": "씻다"
+},
+"wechseln|stem": {
+"form": "wechseln",
+"type": "stem",
+"ko": "바꾸다"
+},
+"wecken|stem": {
+"form": "wecken",
+"type": "stem",
+"ko": "깨우다"
+},
+"wegen|stem": {
+"form": "wegen",
+"type": "stem",
+"ko": "움직이다"
+},
+"weh|sep": {
+"form": "weh",
+"type": "sep",
+"ko": "아픈"
+},
+"weh|stem": {
+"form": "weh",
+"type": "stem",
+"ko": "아픈"
+},
+"weisen|stem": {
+"form": "weisen",
+"type": "stem",
+"ko": "가리키다"
+},
+"weiterbilden|stem": {
+"form": "weiterbilden",
+"type": "stem",
+"ko": "계속 교육하다"
+},
+"weit|stem": {
+"form": "weit",
+"type": "stem",
+"ko": "넓은"
+},
+"wenden|stem": {
+"form": "wenden",
+"type": "stem",
+"ko": "돌리다"
+},
+"werben|stem": {
+"form": "werben",
+"type": "stem",
+"ko": "홍보하다"
+},
+"werden|stem": {
+"form": "werden",
+"type": "stem",
+"ko": "되다"
+},
+"werfen|stem": {
+"form": "werfen",
+"type": "stem",
+"ko": "던지다"
+},
+"wert|stem": {
+"form": "wert",
+"type": "stem",
+"ko": "~할 가치가 있는"
+},
+"wickeln|stem": {
+"form": "wickeln",
+"type": "stem",
+"ko": "감다"
+},
+"wider|insep": {
+"form": "wider",
+"type": "insep",
+"ko": "반대로"
+},
+"wiederholen|stem": {
+"form": "wiederholen",
+"type": "stem",
+"ko": "반복하다"
+},
+"wieder|insep": {
+"form": "wieder",
+"type": "insep",
+"ko": "다시"
+},
+"wieder|stem": {
+"form": "wieder",
+"type": "stem",
+"ko": "다시"
+},
+"willig|stem": {
+"form": "willig",
+"type": "stem",
+"ko": "기꺼이 하는"
+},
+"wirken|stem": {
+"form": "wirken",
+"type": "stem",
+"ko": "작용하다"
+},
+"wirklich|stem": {
+"form": "wirklich",
+"type": "stem",
+"ko": "실제의"
+},
+"wohl|stem": {
+"form": "wohl",
+"type": "stem",
+"ko": "잘, 아마"
+},
+"wohnen|stem": {
+"form": "wohnen",
+"type": "stem",
+"ko": "살다"
+},
+"wo|stem": {
+"form": "wo",
+"type": "stem",
+"ko": "어디"
+},
+"wählen|stem": {
+"form": "wählen",
+"type": "stem",
+"ko": "고르다"
+},
+"wärts|suffix": {
+"form": "wärts",
+"type": "suffix",
+"ko": "~쪽으로"
+},
+"zahlen|stem": {
+"form": "zahlen",
+"type": "stem",
+"ko": "지불하다"
+},
+"zeichnen|stem": {
+"form": "zeichnen",
+"type": "stem",
+"ko": "그리다"
+},
+"zeigen|stem": {
+"form": "zeigen",
+"type": "stem",
+"ko": "보여 주다"
+},
+"zeihen|stem": {
+"form": "zeihen",
+"type": "stem",
+"ko": "탓하다"
+},
+"zer|insep": {
+"form": "zer",
+"type": "insep",
+"ko": "산산이"
+},
+"zeugen|stem": {
+"form": "zeugen",
+"type": "stem",
+"ko": "증언하다"
+},
+"ziehen|stem": {
+"form": "ziehen",
+"type": "stem",
+"ko": "당기다"
+},
+"zuhören|stem": {
+"form": "zuhören",
+"type": "stem",
+"ko": "귀 기울이다"
+},
+"zurecht|sep": {
+"form": "zurecht",
+"type": "sep",
+"ko": "제대로, 알맞게"
+},
+"zusammen|sep": {
+"form": "zusammen",
+"type": "sep",
+"ko": "함께"
+},
+"zusammen|stem": {
+"form": "zusammen",
+"type": "stem",
+"ko": "함께"
+},
+"zuschauen|stem": {
+"form": "zuschauen",
+"type": "stem",
+"ko": "구경하다"
+},
+"zustimmen|stem": {
+"form": "zustimmen",
+"type": "stem",
+"ko": "동의하다"
+},
+"zu|sep": {
+"form": "zu",
+"type": "sep",
+"ko": "~쪽으로, 닫힌"
+},
+"zu|stem": {
+"form": "zu",
+"type": "stem",
+"ko": "~쪽으로"
+},
+"zweit|stem": {
+"form": "zweit",
+"type": "stem",
+"ko": "두 번째의"
+},
+"zählen|stem": {
+"form": "zählen",
+"type": "stem",
+"ko": "세다"
+},
+"Übersetzer|stem": {
+"form": "Übersetzer",
+"type": "stem",
+"ko": "번역가"
+},
+"ändern|stem": {
+"form": "ändern",
+"type": "stem",
+"ko": "바꾸다"
+},
+"öffentlich|stem": {
+"form": "öffentlich",
+"type": "stem",
+"ko": "공공의"
+},
+"üben|stem": {
+"form": "üben",
+"type": "stem",
+"ko": "연습하다"
+},
+"übernachten|stem": {
+"form": "übernachten",
+"type": "stem",
+"ko": "숙박하다"
+},
+"überraschen|stem": {
+"form": "überraschen",
+"type": "stem",
+"ko": "놀라게 하다"
+},
+"übersetzen|stem": {
+"form": "übersetzen",
+"type": "stem",
+"ko": "번역하다"
+},
+"überweisen|stem": {
+"form": "überweisen",
+"type": "stem",
+"ko": "송금하다"
+},
+"überzeugen|stem": {
+"form": "überzeugen",
+"type": "stem",
+"ko": "확신시키다"
+},
+"über|insep": {
+"form": "über",
+"type": "insep",
+"ko": "넘어서, 위로"
+},
+"über|stem": {
+"form": "über",
+"type": "stem",
+"ko": "넘어, 위로"
+}
+}

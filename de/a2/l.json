@@ -1,0 +1,501 @@
+[
+  {
+    "word": "Lampe",
+    "level": "a2",
+    "zipf": 3.99,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Lampen",
+      "genitive": "Lampe"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "lamp, light (piece of furniture, or fixture mounted on a wall or ceiling, holding one or more electric light sockets)",
+        "ko": "램프, 전등",
+        "examples": [
+          {
+            "text": "Die Lampe steht auf dem Tisch.",
+            "ko": "램프가 탁자 위에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Landschaft",
+    "level": "a2",
+    "zipf": 4.46,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Landschaften",
+      "genitive": "Landschaft"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Land|stem",
+      "-schaft|suffix"
+    ],
+    "senses": [
+      {
+        "en": "scenery, land as viewed from a given vantage point",
+        "ko": "경치, 풍경",
+        "examples": [
+          {
+            "text": "Die Landschaft hier ist wunderschön.",
+            "ko": "여기 풍경은 정말 아름다워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "langweilig",
+    "level": "a2",
+    "zipf": 4.42,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "langweiliger",
+      "superlative": "am langweiligsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Langeweile|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "boring, dull, tedious",
+        "ko": "지루한, 따분한",
+        "examples": [
+          {
+            "text": "Der Film war langweilig.",
+            "ko": "그 영화는 지루했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "bored",
+        "ko": "지루해하는",
+        "examples": [
+          {
+            "text": "Mir ist langweilig.",
+            "ko": "나는 심심해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Laptop",
+    "level": "a2",
+    "zipf": 4.17,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n",
+        "m"
+      ],
+      "plural": "Laptops",
+      "genitive": "Laptops"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "laptop computer",
+        "ko": "노트북",
+        "examples": [
+          {
+            "text": "Mein Laptop ist neu.",
+            "ko": "내 노트북은 새것이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "lassen",
+    "level": "a2",
+    "zipf": 5.76,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "lässt",
+      "past": "ließ",
+      "pp": "gelassen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to allow; to permit; to let",
+        "ko": "허락하다, ~하게 하다",
+        "examples": [
+          {
+            "text": "Er lässt mich fahren.",
+            "ko": "그는 나한테 운전하게 해 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to have someone (do something); to have (something done); to make (something happen); to cause (something to be done)",
+        "ko": "~하게 시키다",
+        "examples": [
+          {
+            "text": "Ich lasse mein Auto reparieren.",
+            "ko": "나는 차를 수리 맡겨.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to let remain, to leave (in a certain state)",
+        "ko": "그냥 두다, 놓아두다",
+        "examples": [
+          {
+            "text": "Ich lasse den Schlüssel zu Hause.",
+            "ko": "나는 열쇠를 집에 두고 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "leer",
+    "level": "a2",
+    "zipf": 4.6,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "leerer",
+      "superlative": "am leersten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "empty",
+        "ko": "빈, 비어 있는",
+        "examples": [
+          {
+            "text": "Die Flasche ist leer.",
+            "ko": "병이 비었어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "leidtun",
+    "level": "a2",
+    "zipf": 2.25,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "tut leid",
+      "past": "tat leid",
+      "pp": "leidgetan",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "leid"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "leid|stem",
+      "tun|stem"
+    ],
+    "senses": [
+      {
+        "en": "to regret, to be sorry (with the cause of the regret as the subject and the person feeling regret as the indirect object)",
+        "ko": "미안하다, 유감이다",
+        "examples": [
+          {
+            "text": "Es tut mir leid.",
+            "ko": "미안해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "leihen",
+    "level": "a2",
+    "zipf": 3.75,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "leiht",
+      "past": "lieh",
+      "pp": "geliehen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to borrow",
+        "ko": "빌리다",
+        "examples": [
+          {
+            "text": "Kann ich mir deinen Stift leihen?",
+            "ko": "네 펜 좀 빌려도 될까?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to lend, loan",
+        "ko": "빌려주다",
+        "examples": [
+          {
+            "text": "Ich leihe dir mein Fahrrad.",
+            "ko": "내 자전거 빌려 줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "liefern",
+    "level": "a2",
+    "zipf": 4.53,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "liefert",
+      "past": "lieferte",
+      "pp": "geliefert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to deliver (goods, an order, etc.)",
+        "ko": "배달하다",
+        "examples": [
+          {
+            "text": "Die Firma liefert die Möbel nach Hause.",
+            "ko": "그 회사는 가구를 집으로 배달해 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to supply, provide",
+        "ko": "공급하다, 제공하다",
+        "examples": [
+          {
+            "text": "Die Sonne liefert Energie.",
+            "ko": "태양은 에너지를 공급해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Link",
+    "level": "a2",
+    "zipf": 4.75,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Links",
+      "genitive": "Links"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hyperlink",
+        "ko": "링크",
+        "examples": [
+          {
+            "text": "Schick mir bitte den Link.",
+            "ko": "링크 좀 보내 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lust",
+    "level": "a2",
+    "zipf": 4.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Lust"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "desire; the wish to do or have something",
+        "ko": "~하고 싶은 마음, 의욕",
+        "examples": [
+          {
+            "text": "Ich habe keine Lust, heute zu lernen.",
+            "ko": "오늘은 공부하고 싶지 않아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Löffel",
+    "level": "a2",
+    "zipf": 3.8,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Löffel",
+      "genitive": "Löffels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "spoon",
+        "ko": "숟가락",
+        "examples": [
+          {
+            "text": "Ich brauche einen Löffel für die Suppe.",
+            "ko": "수프 먹을 숟가락이 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Lüge",
+    "level": "a2",
+    "zipf": 4.25,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Lügen",
+      "genitive": "Lüge"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "lie",
+        "ko": "거짓말",
+        "examples": [
+          {
+            "text": "Das ist eine Lüge.",
+            "ko": "그건 거짓말이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "lügen",
+    "level": "a2",
+    "zipf": 4.45,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "lügt",
+      "past": "log",
+      "pp": "gelogen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to tell a lie; to lie (to intentionally give false information)",
+        "ko": "거짓말하다",
+        "examples": [
+          {
+            "text": "Du lügst mich an.",
+            "ko": "너 나한테 거짓말하고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

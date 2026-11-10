@@ -1,0 +1,1082 @@
+[
+  {
+    "word": "Fach",
+    "level": "a2",
+    "zipf": 4.37,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Fächer",
+      "genitive": "Faches"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "subject",
+        "ko": "과목",
+        "examples": [
+          {
+            "text": "Welches Fach magst du am liebsten?",
+            "ko": "너는 어떤 과목을 제일 좋아해?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "compartment",
+        "ko": "칸, 서랍",
+        "examples": [
+          {
+            "text": "Das Fach in der Tasche ist leer.",
+            "ko": "가방의 칸이 비어 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fahrplan",
+    "level": "a2",
+    "zipf": 3.61,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Fahrpläne",
+      "genitive": "Fahrplanes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fahren|stem",
+      "Plan|stem"
+    ],
+    "senses": [
+      {
+        "en": "timetable (for transport)",
+        "ko": "운행 시간표",
+        "examples": [
+          {
+            "text": "Der Fahrplan hängt am Bahnhof.",
+            "ko": "운행 시간표가 역에 붙어 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fallen",
+    "level": "a2",
+    "zipf": 4.95,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "fällt",
+      "past": "fiel",
+      "pp": "gefallen",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to fall, to drop",
+        "ko": "떨어지다",
+        "examples": [
+          {
+            "text": "Das Blatt fällt vom Baum.",
+            "ko": "나뭇잎이 나무에서 떨어진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to fall, to decrease, to decline (to become lower, of a value)",
+        "ko": "내려가다, 떨어지다",
+        "examples": [
+          {
+            "text": "Die Preise fallen im Winter.",
+            "ko": "가격이 겨울에 내려간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be, to fall [with auf (+ accusative) ‘on a day’ or in (+ accusative) ‘within a timespan’] (of an event or holiday)",
+        "ko": "(날짜가) ~에 해당하다",
+        "examples": [
+          {
+            "text": "Weihnachten fällt dieses Jahr auf einen Montag.",
+            "ko": "올해 크리스마스는 월요일이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fan",
+    "level": "a2",
+    "zipf": 4.59,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Fans",
+      "genitive": "Fans"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fan, devotee",
+        "ko": "팬",
+        "examples": [
+          {
+            "text": "Ich bin ein Fan von diesem Team.",
+            "ko": "나는 이 팀의 팬이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fantastisch",
+    "level": "a2",
+    "zipf": 3.93,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "fantastischer",
+      "superlative": "am fantastischsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fantastic",
+        "ko": "환상적인, 멋진",
+        "examples": [
+          {
+            "text": "Das Essen ist fantastisch.",
+            "ko": "음식이 환상적이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fast",
+    "level": "a2",
+    "zipf": 5.58,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "almost; nearly",
+        "ko": "거의",
+        "examples": [
+          {
+            "text": "Ich bin fast fertig.",
+            "ko": "나 거의 다 했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "hardly",
+        "ko": "거의 ~않는",
+        "examples": [
+          {
+            "text": "Es kam fast niemand zur Party.",
+            "ko": "파티에 거의 아무도 오지 않았어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "faul",
+    "level": "a2",
+    "zipf": 4.1,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "fauler",
+      "superlative": "am faulsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "lazy",
+        "ko": "게으른",
+        "examples": [
+          {
+            "text": "Mein Bruder ist heute sehr faul.",
+            "ko": "내 남동생은 오늘 아주 게을러.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "foul, rotten, rancid",
+        "ko": "썩은, 상한",
+        "examples": [
+          {
+            "text": "Der Apfel ist faul.",
+            "ko": "그 사과는 썩었어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fenster",
+    "level": "a2",
+    "zipf": 4.88,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Fenster",
+      "genitive": "Fensters"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "window",
+        "ko": "창문",
+        "examples": [
+          {
+            "text": "Bitte mach das Fenster auf.",
+            "ko": "창문 좀 열어 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ferien",
+    "level": "a2",
+    "zipf": 4.18,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "number": "pl"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "vacation, holiday",
+        "ko": "방학, 휴가",
+        "examples": [
+          {
+            "text": "In den Ferien fahren wir ans Meer.",
+            "ko": "방학에 우리는 바다에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fernseher",
+    "level": "a2",
+    "zipf": 4.34,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Fernseher",
+      "genitive": "Fernsehers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fernsehen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "a television set, a TV",
+        "ko": "텔레비전",
+        "examples": [
+          {
+            "text": "Der Fernseher ist ganz neu.",
+            "ko": "텔레비전이 아주 새것이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fertig sein",
+    "level": "a2",
+    "zipf": 5.0,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": false,
+      "present3": "ist fertig",
+      "past": "war fertig",
+      "pp": "fertig gewesen",
+      "aux": "sein"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "fertig|stem",
+      "sein|stem"
+    ],
+    "senses": [
+      {
+        "en": "to be finished, to be done",
+        "ko": "끝나다, 다 하다",
+        "examples": [
+          {
+            "text": "Ich bin mit den Hausaufgaben fertig.",
+            "ko": "나는 숙제를 다 했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be ready",
+        "ko": "준비되다",
+        "examples": [
+          {
+            "text": "Das Essen ist gleich fertig.",
+            "ko": "음식이 곧 다 돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fest",
+    "level": "a2",
+    "zipf": 5.2,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Feste",
+      "genitive": "Festes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "feast, celebration, festival, party",
+        "ko": "축제, 파티",
+        "examples": [
+          {
+            "text": "Wir feiern ein Fest im Garten.",
+            "ko": "우리는 정원에서 파티를 열어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Festival",
+    "level": "a2",
+    "zipf": 4.48,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Festivals",
+      "genitive": "Festivals"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "festival",
+        "ko": "페스티벌, 축제",
+        "examples": [
+          {
+            "text": "Im Sommer gehen wir auf ein Festival.",
+            "ko": "여름에 우리는 페스티벌에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fett",
+    "level": "a2",
+    "zipf": 4.43,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fatty, greasy (of food)",
+        "ko": "기름진",
+        "examples": [
+          {
+            "text": "Pommes sind mir zu fett.",
+            "ko": "감자튀김은 나한테 너무 기름져.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "fat, grease",
+        "ko": "지방, 기름",
+        "examples": [
+          {
+            "text": "Butter hat viel Fett.",
+            "ko": "버터에는 지방이 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fit sein",
+    "level": "a2",
+    "zipf": 4.34,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": false,
+      "present3": "ist fit",
+      "past": "war fit",
+      "pp": "fit gewesen",
+      "aux": "sein"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "fit|stem",
+      "sein|stem"
+    ],
+    "senses": [
+      {
+        "en": "to be fit, to be in good shape",
+        "ko": "컨디션이 좋다, 건강하다",
+        "examples": [
+          {
+            "text": "Nach dem Sport bin ich richtig fit.",
+            "ko": "운동하고 나면 컨디션이 아주 좋아.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fleißig",
+    "level": "a2",
+    "zipf": 4.13,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "fleißiger",
+      "superlative": "am fleißigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Fleiß|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "diligent, hard-working, industrious, busy, assiduous, sedulous",
+        "ko": "부지런한, 열심인",
+        "examples": [
+          {
+            "text": "Meine Schwester ist sehr fleißig.",
+            "ko": "내 여동생은 아주 부지런해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Flohmarkt",
+    "level": "a2",
+    "zipf": 3.62,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Flohmärkte",
+      "genitive": "Flohmarktes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Floh|stem",
+      "Markt|stem"
+    ],
+    "senses": [
+      {
+        "en": "flea market",
+        "ko": "벼룩시장",
+        "examples": [
+          {
+            "text": "Am Samstag gehen wir auf den Flohmarkt.",
+            "ko": "토요일에 우리는 벼룩시장에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Flug",
+    "level": "a2",
+    "zipf": 4.49,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Flüge",
+      "genitive": "Fluges"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "flight (in the air)",
+        "ko": "비행, 항공편",
+        "examples": [
+          {
+            "text": "Der Flug nach Berlin dauert eine Stunde.",
+            "ko": "베를린행 비행은 한 시간 걸려.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "airfare",
+        "ko": "항공권, 항공료",
+        "examples": [
+          {
+            "text": "Der Flug ist sehr teuer.",
+            "ko": "항공권이 아주 비싸.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fluss",
+    "level": "a2",
+    "zipf": 4.44,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Flüsse",
+      "genitive": "Flusses"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "river",
+        "ko": "강",
+        "examples": [
+          {
+            "text": "Der Fluss ist sehr breit.",
+            "ko": "그 강은 아주 넓어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fotoapparat",
+    "level": "a2",
+    "zipf": 2.87,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Fotoapparate",
+      "genitive": "Fotoapparates"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Foto|stem",
+      "Apparat|stem"
+    ],
+    "senses": [
+      {
+        "en": "camera (device for making still pictures)",
+        "ko": "카메라",
+        "examples": [
+          {
+            "text": "Ich habe meinen Fotoapparat dabei.",
+            "ko": "나는 카메라를 가지고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fotografieren",
+    "level": "a2",
+    "zipf": 3.94,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "fotografiert",
+      "past": "fotografierte",
+      "pp": "fotografiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to photograph",
+        "ko": "사진을 찍다",
+        "examples": [
+          {
+            "text": "Sie fotografiert gern Tiere.",
+            "ko": "그녀는 동물 사진 찍는 걸 좋아해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "freiwillig",
+    "level": "a2",
+    "zipf": 4.4,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "freiwilliger",
+      "superlative": "am freiwilligsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "frei|stem",
+      "willig|stem"
+    ],
+    "senses": [
+      {
+        "en": "voluntary",
+        "ko": "자발적인, 자원한",
+        "examples": [
+          {
+            "text": "Die Teilnahme ist freiwillig.",
+            "ko": "참가는 자유 의사야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Freundin",
+    "level": "a2",
+    "zipf": 4.99,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Freundinnen",
+      "genitive": "Freundin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Freund|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Freund",
+        "ko": "여자 친구",
+        "examples": [
+          {
+            "text": "Meine Freundin wohnt in Köln.",
+            "ko": "내 여자 친구는 쾰른에 살아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "freundlich",
+    "level": "a2",
+    "zipf": 4.44,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "freundlicher",
+      "superlative": "am freundlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Freund|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "friendly, benign",
+        "ko": "친절한, 상냥한",
+        "examples": [
+          {
+            "text": "Der Verkäufer ist sehr freundlich.",
+            "ko": "그 점원은 아주 친절해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "frisch",
+    "level": "a2",
+    "zipf": 4.58,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "frischer",
+      "superlative": "am frischesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fresh",
+        "ko": "신선한",
+        "examples": [
+          {
+            "text": "Das Brot ist ganz frisch.",
+            "ko": "빵이 아주 신선해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "recent",
+        "ko": "갓 ~한, 최근의",
+        "examples": [
+          {
+            "text": "Vorsicht, die Wand ist frisch gestrichen.",
+            "ko": "조심해, 벽을 갓 칠했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "froh",
+    "level": "a2",
+    "zipf": 4.79,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "froher",
+      "superlative": "am frohsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "glad; (momentarily) happy; (momentarily) cheerful",
+        "ko": "기쁜, 즐거운",
+        "examples": [
+          {
+            "text": "Ich bin froh, dass du da bist.",
+            "ko": "네가 있어서 기뻐.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "früh",
+    "level": "a2",
+    "zipf": 4.91,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "früher",
+      "superlative": "am frühesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "early",
+        "ko": "이른, 일찍",
+        "examples": [
+          {
+            "text": "Ich stehe früh auf.",
+            "ko": "나는 일찍 일어나.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fundsachen",
+    "level": "a2",
+    "zipf": 2.52,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fundsachen",
+      "number": "pl"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "Fund|stem",
+      "Sache|stem"
+    ],
+    "senses": [
+      {
+        "en": "lost property, lost-and-found items",
+        "ko": "분실물",
+        "examples": [
+          {
+            "text": "Die Fundsachen liegen im Büro.",
+            "ko": "분실물은 사무실에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "furchtbar",
+    "level": "a2",
+    "zipf": 4.13,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "furchtbarer",
+      "superlative": "am furchtbarsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Furcht|stem",
+      "-bar|suffix"
+    ],
+    "senses": [
+      {
+        "en": "terrible",
+        "ko": "끔찍한",
+        "examples": [
+          {
+            "text": "Das Wetter ist furchtbar.",
+            "ko": "날씨가 끔찍해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fühlen",
+    "level": "a2",
+    "zipf": 4.82,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "fühlt",
+      "past": "fühlte",
+      "pp": "gefühlt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to feel (somehow - an adjective)",
+        "ko": "느끼다",
+        "examples": [
+          {
+            "text": "Ich fühle mich heute gut.",
+            "ko": "나는 오늘 기분이 좋아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to feel (a thing, sensation, emotion - a noun)",
+        "ko": "느끼다",
+        "examples": [
+          {
+            "text": "Ich fühle die Kälte.",
+            "ko": "나는 추위를 느껴.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Führerschein",
+    "level": "a2",
+    "zipf": 4.19,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Führerscheine",
+      "genitive": "Führerscheines"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Führer|stem",
+      "Schein|stem"
+    ],
+    "senses": [
+      {
+        "en": "driver's license (US), driver's licence (Aus), driving licence (UK)",
+        "ko": "운전면허증",
+        "examples": [
+          {
+            "text": "Hast du einen Führerschein?",
+            "ko": "너 운전면허 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

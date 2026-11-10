@@ -1,0 +1,1362 @@
+[
+  {
+    "word": "abschließen",
+    "level": "a2",
+    "zipf": 3.95,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "schließt ab",
+      "past": "schloss ab",
+      "pp": "abgeschlossen",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "ab"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ab|sep",
+      "schließen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to lock; to seal off",
+        "ko": "잠그다",
+        "examples": [
+          {
+            "text": "Er schließt die Tür ab.",
+            "ko": "그는 문을 잠근다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to end, to finish or complete (one's studies, a task)",
+        "ko": "마치다, 끝내다",
+        "examples": [
+          {
+            "text": "Sie schließt im Sommer ihr Studium ab.",
+            "ko": "그녀는 여름에 학업을 마친다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to conclude (a contract, a deal), to finalise/finalize (a contract, an agreement)",
+        "ko": "(계약을) 체결하다",
+        "examples": [
+          {
+            "text": "Wir schließen heute den Vertrag ab.",
+            "ko": "우리는 오늘 계약을 체결한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ahnung",
+    "level": "a2",
+    "zipf": 4.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Ahnungen",
+      "genitive": "Ahnung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ahnen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "clue, idea, notion",
+        "ko": "짐작, 아는 바",
+        "examples": [
+          {
+            "text": "Ich habe keine Ahnung.",
+            "ko": "나는 전혀 모르겠어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "anticipation, inkling",
+        "ko": "예감",
+        "examples": [
+          {
+            "text": "Ich hatte eine Ahnung, dass etwas passiert.",
+            "ko": "무슨 일이 생길 거라는 예감이 들었어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "aktiv",
+    "level": "a2",
+    "zipf": 4.89,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "aktiver",
+      "superlative": "am aktivsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "active",
+        "ko": "활동적인, 적극적인",
+        "examples": [
+          {
+            "text": "Mein Opa ist noch sehr aktiv.",
+            "ko": "우리 할아버지는 아직도 아주 활동적이셔.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "aktuell",
+    "level": "a2",
+    "zipf": 4.9,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "aktueller",
+      "superlative": "am aktuellsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "current, currently in action, live (in the sense of broadcasting)",
+        "ko": "현재의, 최신의",
+        "examples": [
+          {
+            "text": "Das ist die aktuelle Ausgabe.",
+            "ko": "이것이 최신호야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "up-to-date",
+        "ko": "최신의, 시의성 있는",
+        "examples": [
+          {
+            "text": "Diese Informationen sind nicht mehr aktuell.",
+            "ko": "이 정보는 더 이상 최신이 아니야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "als",
+    "level": "a2",
+    "zipf": 6.71,
+    "pos": "conj",
+    "grammar": {
+      "type": "conj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "at (approximately) the same moment, when, while, as",
+        "ko": "~했을 때",
+        "examples": [
+          {
+            "text": "Als ich klein war, wohnte ich auf dem Land.",
+            "ko": "어렸을 때 나는 시골에 살았어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "than",
+        "ko": "~보다",
+        "examples": [
+          {
+            "text": "Mein Bruder ist größer als ich.",
+            "ko": "내 형은 나보다 키가 커.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "as; like; in the function of; in the form of",
+        "ko": "~로서",
+        "examples": [
+          {
+            "text": "Er arbeitet als Koch.",
+            "ko": "그는 요리사로 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ampel",
+    "level": "a2",
+    "zipf": 3.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Ampeln",
+      "genitive": "Ampel"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "traffic light",
+        "ko": "신호등",
+        "examples": [
+          {
+            "text": "Die Ampel ist rot.",
+            "ko": "신호등이 빨간불이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "ceiling lamp (lamp which hangs from the ceiling)",
+        "ko": "매달린 전등",
+        "examples": [
+          {
+            "text": "Über dem Tisch hängt eine Ampel.",
+            "ko": "탁자 위에 매달린 전등이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "anders",
+    "level": "a2",
+    "zipf": 5.33,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "different, differently",
+        "ko": "다르게, 달리",
+        "examples": [
+          {
+            "text": "Ich mache das anders als du.",
+            "ko": "나는 그걸 너와 다르게 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "otherwise",
+        "ko": "그렇지 않으면, 달리",
+        "examples": [
+          {
+            "text": "Anders geht es nicht.",
+            "ko": "달리는 안 돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Angst",
+    "level": "a2",
+    "zipf": 5.17,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Ängste",
+      "genitive": "Angst"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fear; fright; anxiety",
+        "ko": "두려움, 불안",
+        "examples": [
+          {
+            "text": "Ich habe Angst vor Hunden.",
+            "ko": "나는 개가 무서워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ansehen",
+    "level": "a2",
+    "zipf": 4.68,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "sieht an",
+      "past": "sah an",
+      "pp": "angesehen",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "an"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "an|sep",
+      "sehen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to look at, to have a look at (taking in information in doing so)",
+        "ko": "살펴보다, 보다",
+        "examples": [
+          {
+            "text": "Ich sehe mir die Wohnung an.",
+            "ko": "나는 그 집을 살펴본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to watch (a movie, a television program, sports, etc)",
+        "ko": "(영화·방송 등을) 보다",
+        "examples": [
+          {
+            "text": "Wir sehen uns heute Abend einen Film an.",
+            "ko": "우리는 오늘 저녁에 영화를 봐.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to regard, to consider, to look on (something in a certain way or having a certain quality)",
+        "ko": "~로 여기다",
+        "examples": [
+          {
+            "text": "Ich sehe ihn als Freund an.",
+            "ko": "나는 그를 친구로 여겨.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Anzug",
+    "level": "a2",
+    "zipf": 4.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Anzüge",
+      "genitive": "Anzuges"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "an|sep",
+      "Zug|stem"
+    ],
+    "senses": [
+      {
+        "en": "suit (of clothes), outfit",
+        "ko": "정장",
+        "examples": [
+          {
+            "text": "Er trägt heute einen Anzug.",
+            "ko": "그는 오늘 정장을 입고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Apotheke",
+    "level": "a2",
+    "zipf": 4.05,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Apotheken",
+      "genitive": "Apotheke"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pharmacy",
+        "ko": "약국",
+        "examples": [
+          {
+            "text": "Die Apotheke ist neben der Bank.",
+            "ko": "약국은 은행 옆에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Apparat",
+    "level": "a2",
+    "zipf": 3.73,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Apparate",
+      "genitive": "Apparates"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "apparatus, device, machine (complex instrument)",
+        "ko": "기구, 장치",
+        "examples": [
+          {
+            "text": "Dieser Apparat ist kaputt.",
+            "ko": "이 기계는 고장 났어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "short for Telefonapparat (“telephone”)",
+        "ko": "전화기",
+        "examples": [
+          {
+            "text": "Wer ist am Apparat?",
+            "ko": "(전화) 누구세요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "arm",
+    "level": "a2",
+    "zipf": 4.74,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "poor (having little money)",
+        "ko": "가난한",
+        "examples": [
+          {
+            "text": "Die Familie ist arm.",
+            "ko": "그 가족은 가난하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "poor, unfortunate (deserving pity)",
+        "ko": "불쌍한",
+        "examples": [
+          {
+            "text": "Der arme Hund hat Hunger.",
+            "ko": "불쌍한 개가 배고파해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Artikel",
+    "level": "a2",
+    "zipf": 5.24,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Artikel",
+      "genitive": "Artikels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "article",
+        "ko": "기사, 글",
+        "examples": [
+          {
+            "text": "Ich lese einen Artikel über Berlin.",
+            "ko": "나는 베를린에 관한 기사를 읽는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "article, item, ware",
+        "ko": "상품, 품목",
+        "examples": [
+          {
+            "text": "Der Artikel kostet zehn Euro.",
+            "ko": "이 상품은 10유로야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "auf jeden",
+    "level": "a2",
+    "zipf": 5.48,
+    "pos": "prep_phrase",
+    "grammar": {
+      "type": "prep_phrase"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "in any case, definitely (auf jeden Fall)",
+        "ko": "어쨌든, 반드시",
+        "examples": [
+          {
+            "text": "Ich komme auf jeden Fall.",
+            "ko": "나는 꼭 갈게.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "aufhören",
+    "level": "a2",
+    "zipf": 4.52,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "hört auf",
+      "past": "hörte auf",
+      "pp": "aufgehört",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "auf"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "auf|sep",
+      "hören|stem"
+    ],
+    "senses": [
+      {
+        "en": "to stop; to quit; to cease",
+        "ko": "그만두다, 멈추다",
+        "examples": [
+          {
+            "text": "Der Regen hört bald auf.",
+            "ko": "비가 곧 그친다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "aufmachen",
+    "level": "a2",
+    "zipf": 3.89,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "macht auf",
+      "past": "machte auf",
+      "pp": "aufgemacht",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "auf"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "auf|sep",
+      "machen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to open (a container, a door or window)",
+        "ko": "열다",
+        "examples": [
+          {
+            "text": "Ich mache das Fenster auf.",
+            "ko": "나는 창문을 연다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to open for business",
+        "ko": "문을 열다, 영업을 시작하다",
+        "examples": [
+          {
+            "text": "Der Laden macht um acht Uhr auf.",
+            "ko": "가게는 8시에 문을 연다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "aufpassen",
+    "level": "a2",
+    "zipf": 4.15,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "passt auf",
+      "past": "passte auf",
+      "pp": "aufgepasst",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "auf"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "auf|sep",
+      "passen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to watch out, to be alert",
+        "ko": "조심하다, 주의하다",
+        "examples": [
+          {
+            "text": "Pass auf, das Auto kommt!",
+            "ko": "조심해, 차가 와!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to look after, to take care of",
+        "ko": "돌보다, 지켜보다",
+        "examples": [
+          {
+            "text": "Sie passt auf die Kinder auf.",
+            "ko": "그녀는 아이들을 돌본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "aufregend",
+    "level": "a2",
+    "zipf": 3.63,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "aufregender",
+      "superlative": "am aufregendsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "exciting, captivating (evoking giddiness or thrill)",
+        "ko": "흥미진진한, 짜릿한",
+        "examples": [
+          {
+            "text": "Die Reise war sehr aufregend.",
+            "ko": "여행은 아주 설레고 흥미진진했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "aufräumen",
+    "level": "a2",
+    "zipf": 3.75,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "räumt auf",
+      "past": "räumte auf",
+      "pp": "aufgeräumt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "auf"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "auf|sep",
+      "räumen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to tidy up",
+        "ko": "정리하다, 치우다",
+        "examples": [
+          {
+            "text": "Ich räume mein Zimmer auf.",
+            "ko": "나는 내 방을 정리한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ausbildung",
+    "level": "a2",
+    "zipf": 4.99,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Ausbildungen",
+      "genitive": "Ausbildung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ausbilden|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "training, apprenticeship, vocational education, education",
+        "ko": "교육, 직업 훈련",
+        "examples": [
+          {
+            "text": "Er macht eine Ausbildung als Koch.",
+            "ko": "그는 요리사 직업 교육을 받고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ausgeben",
+    "level": "a2",
+    "zipf": 4.07,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "gibt aus",
+      "past": "gab aus",
+      "pp": "ausgegeben",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "aus"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "aus|sep",
+      "geben|stem"
+    ],
+    "senses": [
+      {
+        "en": "to spend, to expend; to pay out",
+        "ko": "(돈을) 쓰다",
+        "examples": [
+          {
+            "text": "Ich gebe viel Geld für Essen aus.",
+            "ko": "나는 음식에 돈을 많이 쓴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to buy a drink, to get a drink (for someone else)",
+        "ko": "(한턱) 사다",
+        "examples": [
+          {
+            "text": "Ich gebe dir einen Kaffee aus.",
+            "ko": "내가 커피 살게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ausgehen",
+    "level": "a2",
+    "zipf": 4.39,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "geht aus",
+      "past": "ging aus",
+      "pp": "ausgegangen",
+      "aux": "sein",
+      "separable": true,
+      "prefix": "aus"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "aus|sep",
+      "gehen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to go out (to leave one's abode to go to public places)",
+        "ko": "외출하다, 놀러 나가다",
+        "examples": [
+          {
+            "text": "Wir gehen heute Abend aus.",
+            "ko": "우리는 오늘 저녁에 놀러 나가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to go out (to be turned off or extinguished)",
+        "ko": "(불이) 꺼지다",
+        "examples": [
+          {
+            "text": "Das Licht geht plötzlich aus.",
+            "ko": "불이 갑자기 꺼진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to run out (to be completely used up or consumed)",
+        "ko": "다 떨어지다",
+        "examples": [
+          {
+            "text": "Der Zucker geht aus.",
+            "ko": "설탕이 다 떨어져 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "auspacken",
+    "level": "a2",
+    "zipf": 3.52,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "packt aus",
+      "past": "packte aus",
+      "pp": "ausgepackt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "aus"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "aus|sep",
+      "packen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to unbox, to unpack, to unwrap (a package, gift, etc.)",
+        "ko": "(짐·선물을) 풀다",
+        "examples": [
+          {
+            "text": "Sie packt das Geschenk aus.",
+            "ko": "그녀는 선물을 푼다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ausruhen",
+    "level": "a2",
+    "zipf": 3.63,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "ruht aus",
+      "past": "ruhte aus",
+      "pp": "ausgeruht",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "aus"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "aus|sep",
+      "ruhen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to rest, to recover (through rest and relaxation)",
+        "ko": "쉬다, 휴식하다",
+        "examples": [
+          {
+            "text": "Ich ruhe mich am Wochenende aus.",
+            "ko": "나는 주말에 쉰다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "außer",
+    "level": "a2",
+    "zipf": 5.15,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "except; besides; apart from",
+        "ko": "~을 제외하고",
+        "examples": [
+          {
+            "text": "Alle sind da außer Paul.",
+            "ko": "파울을 빼고 모두 왔어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "out of",
+        "ko": "~에서 벗어난",
+        "examples": [
+          {
+            "text": "Der Aufzug ist außer Betrieb.",
+            "ko": "엘리베이터가 운행 중지다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "außerdem",
+    "level": "a2",
+    "zipf": 5.38,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "in addition; furthermore, besides",
+        "ko": "게다가, 그 밖에",
+        "examples": [
+          {
+            "text": "Ich bin müde, und außerdem habe ich Hunger.",
+            "ko": "나는 피곤하고, 게다가 배도 고파.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "außerhalb",
+    "level": "a2",
+    "zipf": 4.84,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "outside, beyond",
+        "ko": "~의 바깥에",
+        "examples": [
+          {
+            "text": "Er wohnt außerhalb der Stadt.",
+            "ko": "그는 도시 밖에 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "out of town",
+        "ko": "시외에서",
+        "examples": [
+          {
+            "text": "Meine Tante wohnt außerhalb.",
+            "ko": "우리 이모는 시외에 살아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "aussprechen",
+    "level": "a2",
+    "zipf": 3.98,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "spricht aus",
+      "past": "sprach aus",
+      "pp": "ausgesprochen",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "aus"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "aus|sep",
+      "sprechen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to pronounce (sound a word, give it a pronunciation)",
+        "ko": "발음하다",
+        "examples": [
+          {
+            "text": "Wie spricht man dieses Wort aus?",
+            "ko": "이 단어는 어떻게 발음해요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to talk things out (resolve a problem by talking)",
+        "ko": "터놓고 이야기하다",
+        "examples": [
+          {
+            "text": "Wir sprechen uns heute aus.",
+            "ko": "우리는 오늘 터놓고 이야기한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ausstellung",
+    "level": "a2",
+    "zipf": 4.69,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Ausstellungen",
+      "genitive": "Ausstellung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ausstellen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "exhibition",
+        "ko": "전시회",
+        "examples": [
+          {
+            "text": "Wir besuchen eine Ausstellung im Museum.",
+            "ko": "우리는 박물관의 전시회를 방문한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "austragen",
+    "level": "a2",
+    "zipf": 3.38,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "trägt aus",
+      "past": "trug aus",
+      "pp": "ausgetragen",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "aus"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "aus|sep",
+      "tragen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to (go from house to house and) deliver sth.,",
+        "ko": "(집집마다) 배달하다",
+        "examples": [
+          {
+            "text": "Er trägt jeden Morgen Zeitungen aus.",
+            "ko": "그는 매일 아침 신문을 배달한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to stage, to hold, to execute, to host such a competitive event,",
+        "ko": "(경기를) 개최하다",
+        "examples": [
+          {
+            "text": "Die Stadt trägt das Turnier aus.",
+            "ko": "그 도시가 대회를 개최한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ändern",
+    "level": "a2",
+    "zipf": 4.93,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "ändert",
+      "past": "änderte",
+      "pp": "geändert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to change, to alter",
+        "ko": "바꾸다",
+        "examples": [
+          {
+            "text": "Ich ändere meinen Plan.",
+            "ko": "나는 계획을 바꾼다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to change, to vary",
+        "ko": "변하다",
+        "examples": [
+          {
+            "text": "Das Wetter ändert sich schnell.",
+            "ko": "날씨가 빨리 바뀐다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ärgern",
+    "level": "a2",
+    "zipf": 3.92,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "ärgert",
+      "past": "ärgerte",
+      "pp": "geärgert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to annoy, to make angry",
+        "ko": "화나게 하다",
+        "examples": [
+          {
+            "text": "Der Lärm ärgert mich.",
+            "ko": "소음 때문에 짜증 난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be annoyed, to be angry, to get annoyed, to get angry",
+        "ko": "화가 나다",
+        "examples": [
+          {
+            "text": "Ich ärgere mich über den Fehler.",
+            "ko": "나는 그 실수에 화가 난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

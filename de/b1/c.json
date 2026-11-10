@@ -1,0 +1,215 @@
+[
+  {
+    "word": "Chance",
+    "level": "b1",
+    "zipf": 5.06,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Chancen",
+      "genitive": "Chance"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "chance",
+        "ko": "기회",
+        "examples": [
+          {
+            "text": "Das ist deine große Chance.",
+            "ko": "이게 네게 주어진 큰 기회야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Chefin",
+    "level": "b1",
+    "zipf": 3.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Chefinnen",
+      "genitive": "Chefin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Chef|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Chef; female boss",
+        "ko": "여자 상사, 여사장",
+        "examples": [
+          {
+            "text": "Meine Chefin ist sehr nett.",
+            "ko": "우리 여자 상사는 아주 친절하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "chic",
+    "level": "b1",
+    "zipf": 3.28,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "stylish, chic",
+        "ko": "멋진, 세련된",
+        "examples": [
+          {
+            "text": "Dein Kleid ist sehr chic.",
+            "ko": "네 원피스 정말 세련됐다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Chipkarte",
+    "level": "b1",
+    "zipf": 2.47,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Chipkarten",
+      "genitive": "Chipkarte"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Chip|stem",
+      "Karte|stem"
+    ],
+    "senses": [
+      {
+        "en": "chip card, smart card",
+        "ko": "IC 카드",
+        "examples": [
+          {
+            "text": "Die Chipkarte steckt im Gerät.",
+            "ko": "IC 카드가 기계에 꽂혀 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Couch",
+    "level": "b1",
+    "zipf": 4.04,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Couchen",
+      "genitive": "Couch"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sofa, couch",
+        "ko": "소파",
+        "examples": [
+          {
+            "text": "Die Katze schläft auf der Couch.",
+            "ko": "고양이가 소파에서 잔다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Cousin",
+    "level": "b1",
+    "zipf": 3.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Cousins",
+      "genitive": "Cousins"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "male cousin",
+        "ko": "사촌 (남자)",
+        "examples": [
+          {
+            "text": "Mein Cousin wohnt in Wien.",
+            "ko": "내 사촌 오빠는 빈에 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Cousine",
+    "level": "b1",
+    "zipf": 3.75,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Cousinen",
+      "genitive": "Cousine"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "female cousin",
+        "ko": "사촌 (여자)",
+        "examples": [
+          {
+            "text": "Meine Cousine ist zwölf Jahre alt.",
+            "ko": "내 사촌 여동생은 열두 살이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

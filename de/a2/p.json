@@ -1,0 +1,1054 @@
+[
+  {
+    "word": "Paar",
+    "level": "a2",
+    "zipf": 5.56,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Paare",
+      "genitive": "Paares"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pair, couple",
+        "ko": "한 쌍, 커플",
+        "examples": [
+          {
+            "text": "Ich kaufe ein Paar Schuhe.",
+            "ko": "나는 신발 한 켤레를 사요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "twosome",
+        "ko": "두 사람, 부부",
+        "examples": [
+          {
+            "text": "Das Paar tanzt zusammen.",
+            "ko": "그 커플은 함께 춤춰요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "packen",
+    "level": "a2",
+    "zipf": 4.23,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "packt",
+      "past": "packte",
+      "pp": "gepackt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to pack (luggage, a bundle, etc.); to get packed",
+        "ko": "짐을 싸다, 챙기다",
+        "examples": [
+          {
+            "text": "Ich packe meinen Koffer.",
+            "ko": "나는 여행 가방을 싸요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to grab, to grip, to take",
+        "ko": "움켜잡다",
+        "examples": [
+          {
+            "text": "Er packt mich am Arm.",
+            "ko": "그가 내 팔을 움켜잡아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Paket",
+    "level": "a2",
+    "zipf": 4.39,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Pakete",
+      "genitive": "Paketes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "packet, package, parcel (the term is almost exclusively used for packages sent by mail)",
+        "ko": "소포, 택배",
+        "examples": [
+          {
+            "text": "Ich hole ein Paket von der Post ab.",
+            "ko": "나는 우체국에서 소포를 찾아와요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Parfüm",
+    "level": "a2",
+    "zipf": 3.42,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Parfüms",
+      "genitive": "Parfüms"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "perfume (generally only in the sense of “odorous substance”, not “pleasant smell”)",
+        "ko": "향수",
+        "examples": [
+          {
+            "text": "Sie benutzt ein neues Parfüm.",
+            "ko": "그녀는 새 향수를 써요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Park",
+    "level": "a2",
+    "zipf": 4.72,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Parks",
+      "genitive": "Parks"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "park (piece of ground in or near a city or town, enclosed and kept for ornament and recreation)",
+        "ko": "공원",
+        "examples": [
+          {
+            "text": "Wir gehen im Park spazieren.",
+            "ko": "우리는 공원에서 산책해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "parken",
+    "level": "a2",
+    "zipf": 3.97,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "parkt",
+      "past": "parkte",
+      "pp": "geparkt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to park",
+        "ko": "주차하다",
+        "examples": [
+          {
+            "text": "Ich parke das Auto vor dem Haus.",
+            "ko": "나는 차를 집 앞에 주차해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Partnerin",
+    "level": "a2",
+    "zipf": 3.84,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Partnerinnen",
+      "genitive": "Partnerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Partner|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Partner",
+        "ko": "여자 파트너, 여자 짝",
+        "examples": [
+          {
+            "text": "Meine Partnerin heißt Lisa.",
+            "ko": "내 파트너의 이름은 리사예요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "passen",
+    "level": "a2",
+    "zipf": 4.64,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "passt",
+      "past": "passte",
+      "pp": "gepasst",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to fit",
+        "ko": "맞다, 어울리다",
+        "examples": [
+          {
+            "text": "Die Hose passt mir nicht.",
+            "ko": "이 바지는 나한테 안 맞아요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to suit, to be suitable for [with dative ‘someone/something’] or",
+        "ko": "~에게 괜찮다, 시간이 맞다",
+        "examples": [
+          {
+            "text": "Passt dir morgen um drei Uhr?",
+            "ko": "내일 세 시 괜찮아?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to pass",
+        "ko": "패스하다, 통과하다",
+        "examples": [
+          {
+            "text": "Bei dieser Frage passe ich.",
+            "ko": "이 질문은 패스할게요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "passieren",
+    "level": "a2",
+    "zipf": 4.78,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "passiert",
+      "past": "passierte",
+      "pp": "passiert",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to happen",
+        "ko": "일어나다, 발생하다",
+        "examples": [
+          {
+            "text": "Was ist hier passiert?",
+            "ko": "여기서 무슨 일이 있었어요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to move beyond; pass",
+        "ko": "지나가다, 통과하다",
+        "examples": [
+          {
+            "text": "Der Zug passiert die Grenze.",
+            "ko": "기차가 국경을 통과해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Passwort",
+    "level": "a2",
+    "zipf": 4.04,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Passwörter",
+      "genitive": "Passwortes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Pass|stem",
+      "Wort|stem"
+    ],
+    "senses": [
+      {
+        "en": "password",
+        "ko": "비밀번호",
+        "examples": [
+          {
+            "text": "Ich habe mein Passwort vergessen.",
+            "ko": "나는 비밀번호를 잊어버렸어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Person",
+    "level": "a2",
+    "zipf": 5.29,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Personen",
+      "genitive": "Person"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "person, individual",
+        "ko": "사람, 인원",
+        "examples": [
+          {
+            "text": "Der Tisch ist für vier Personen.",
+            "ko": "이 테이블은 네 명용이에요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pferd",
+    "level": "a2",
+    "zipf": 4.43,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Pferde",
+      "genitive": "Pferdes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "horse",
+        "ko": "말",
+        "examples": [
+          {
+            "text": "Das Pferd läuft schnell.",
+            "ko": "말이 빨리 달려요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pflanze",
+    "level": "a2",
+    "zipf": 4.13,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Pflanzen",
+      "genitive": "Pflanze"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "plant",
+        "ko": "식물",
+        "examples": [
+          {
+            "text": "Die Pflanze braucht Wasser.",
+            "ko": "식물에는 물이 필요해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pizza",
+    "level": "a2",
+    "zipf": 4.3,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Pizzen",
+      "genitive": "Pizza"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pizza",
+        "ko": "피자",
+        "examples": [
+          {
+            "text": "Wir bestellen eine Pizza.",
+            "ko": "우리는 피자를 하나 주문해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Plakat",
+    "level": "a2",
+    "zipf": 3.92,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Plakate",
+      "genitive": "Plakates"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "poster (piece of printed paper)",
+        "ko": "포스터, 벽보",
+        "examples": [
+          {
+            "text": "Am Bahnhof hängt ein großes Plakat.",
+            "ko": "기차역에 큰 포스터가 걸려 있어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "planen",
+    "level": "a2",
+    "zipf": 4.35,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "plant",
+      "past": "plante",
+      "pp": "geplant",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to plan (some action or event)",
+        "ko": "계획하다",
+        "examples": [
+          {
+            "text": "Wir planen eine Reise nach Berlin.",
+            "ko": "우리는 베를린 여행을 계획해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "plötzlich",
+    "level": "a2",
+    "zipf": 5.01,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sudden, abrupt, brusque",
+        "ko": "갑작스러운, 갑자기",
+        "examples": [
+          {
+            "text": "Plötzlich beginnt es zu regnen.",
+            "ko": "갑자기 비가 오기 시작해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Portion",
+    "level": "a2",
+    "zipf": 3.88,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Portionen",
+      "genitive": "Portion"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "portion, an allocated amount, (chiefly) a portion of food, a serving, helping",
+        "ko": "1인분",
+        "examples": [
+          {
+            "text": "Ich nehme eine Portion Pommes.",
+            "ko": "감자튀김 1인분 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Poster",
+    "level": "a2",
+    "zipf": 3.89,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Poster",
+      "genitive": "Posters"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "poster (picture intended to be attached to a wall)",
+        "ko": "포스터",
+        "examples": [
+          {
+            "text": "Ich hänge ein Poster an die Wand.",
+            "ko": "나는 벽에 포스터를 걸어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Postkarte",
+    "level": "a2",
+    "zipf": 3.46,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Postkarten",
+      "genitive": "Postkarte"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Post|stem",
+      "Karte|stem"
+    ],
+    "senses": [
+      {
+        "en": "postcard",
+        "ko": "엽서",
+        "examples": [
+          {
+            "text": "Ich schreibe dir eine Postkarte.",
+            "ko": "너에게 엽서를 쓸게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "praktisch",
+    "level": "a2",
+    "zipf": 4.62,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "praktischer",
+      "superlative": "am praktischsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "practical",
+        "ko": "실용적인",
+        "examples": [
+          {
+            "text": "Der Rucksack ist sehr praktisch.",
+            "ko": "이 배낭은 아주 실용적이에요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "convenient",
+        "ko": "편리한",
+        "examples": [
+          {
+            "text": "Das ist praktisch für den Alltag.",
+            "ko": "그건 일상에 편리해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "preiswert",
+    "level": "a2",
+    "zipf": 3.42,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "preiswerter",
+      "superlative": "am preiswertesten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Preis|stem",
+      "wert|stem"
+    ],
+    "senses": [
+      {
+        "en": "inexpensive, cheap",
+        "ko": "저렴한, 값싼",
+        "examples": [
+          {
+            "text": "Das Hotel ist preiswert.",
+            "ko": "이 호텔은 저렴해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "privat",
+    "level": "a2",
+    "zipf": 4.55,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "privater",
+      "superlative": "am privatesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "private",
+        "ko": "사적인, 개인의",
+        "examples": [
+          {
+            "text": "Das ist eine private Frage.",
+            "ko": "그건 사적인 질문이에요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "pro",
+    "level": "a2",
+    "zipf": 5.32,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "per, each",
+        "ko": "~당, ~마다",
+        "examples": [
+          {
+            "text": "Das kostet zwei Euro pro Stück.",
+            "ko": "그건 한 개당 2유로예요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "probieren",
+    "level": "a2",
+    "zipf": 4.32,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "probiert",
+      "past": "probierte",
+      "pp": "probiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to try",
+        "ko": "시도하다, 해 보다",
+        "examples": [
+          {
+            "text": "Ich probiere die Jacke an.",
+            "ko": "나는 재킷을 입어 봐요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to taste",
+        "ko": "맛보다",
+        "examples": [
+          {
+            "text": "Möchtest du die Suppe probieren?",
+            "ko": "수프 맛볼래?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Produkt",
+    "level": "a2",
+    "zipf": 4.54,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Produkte",
+      "genitive": "Produktes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "product",
+        "ko": "제품, 상품",
+        "examples": [
+          {
+            "text": "Dieses Produkt ist neu.",
+            "ko": "이 제품은 새것이에요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Programm",
+    "level": "a2",
+    "zipf": 4.98,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Programme",
+      "genitive": "Programmes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "program (set of structured ideas or activities; a list thereof)",
+        "ko": "프로그램, 일정",
+        "examples": [
+          {
+            "text": "Was ist das Programm für heute?",
+            "ko": "오늘 일정이 어떻게 돼요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "ellipsis of Fernsehprogramm; television station",
+        "ko": "TV 채널, 방송",
+        "examples": [
+          {
+            "text": "Welches Programm siehst du?",
+            "ko": "어느 채널을 보고 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Projekt",
+    "level": "a2",
+    "zipf": 4.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Projekte",
+      "genitive": "Projektes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "project",
+        "ko": "프로젝트",
+        "examples": [
+          {
+            "text": "Wir arbeiten an einem Projekt.",
+            "ko": "우리는 프로젝트를 하나 하고 있어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "prüfen",
+    "level": "a2",
+    "zipf": 4.47,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "prüft",
+      "past": "prüfte",
+      "pp": "geprüft",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to subject (someone or something) to a formal test or trial",
+        "ko": "시험하다, 검사하다",
+        "examples": [
+          {
+            "text": "Der Lehrer prüft die Schüler.",
+            "ko": "선생님이 학생들을 시험해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to subject (something) to an inspection or review",
+        "ko": "점검하다, 확인하다",
+        "examples": [
+          {
+            "text": "Ich prüfe die Rechnung.",
+            "ko": "나는 계산서를 확인해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Pullover",
+    "level": "a2",
+    "zipf": 3.73,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Pullover",
+      "genitive": "Pullovers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sweater; pullover; jumper (UK)",
+        "ko": "스웨터",
+        "examples": [
+          {
+            "text": "Mir ist kalt, ich ziehe einen Pullover an.",
+            "ko": "추워서 스웨터를 입어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "putzen",
+    "level": "a2",
+    "zipf": 3.99,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "putzt",
+      "past": "putzte",
+      "pp": "geputzt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to clean, especially by rubbing with something wet, to brush (one's teeth)",
+        "ko": "닦다, 청소하다",
+        "examples": [
+          {
+            "text": "Ich putze jeden Samstag das Bad.",
+            "ko": "나는 토요일마다 욕실을 청소해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

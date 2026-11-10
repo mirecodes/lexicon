@@ -1,0 +1,3641 @@
+[
+  {
+    "word": "Kabel",
+    "level": "b1",
+    "zipf": 4.3,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Kabel",
+      "genitive": "Kabels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cable (electronic wire)",
+        "ko": "케이블, 전선",
+        "examples": [
+          {
+            "text": "Das Kabel ist zu kurz.",
+            "ko": "케이블이 너무 짧다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "thick rope",
+        "ko": "굵은 밧줄",
+        "examples": [
+          {
+            "text": "Das Schiff hängt an einem dicken Kabel.",
+            "ko": "배가 굵은 밧줄에 매여 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kabine",
+    "level": "b1",
+    "zipf": 3.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kabinen",
+      "genitive": "Kabine"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cabin, cubicle",
+        "ko": "객실, 탈의실",
+        "examples": [
+          {
+            "text": "Die Umkleidekabine ist besetzt.",
+            "ko": "탈의실이 사용 중이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kakao",
+    "level": "b1",
+    "zipf": 3.66,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kakaos",
+      "genitive": "Kakaos"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cocoa, hot chocolate (hot drink made with milk, cocoa powder, and sugar)",
+        "ko": "코코아",
+        "examples": [
+          {
+            "text": "Die Kinder trinken heißen Kakao.",
+            "ko": "아이들이 따뜻한 코코아를 마신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "cocoa (unsweetened brown powder made from roasted, ground cocoa beans)",
+        "ko": "코코아 가루",
+        "examples": [
+          {
+            "text": "Für den Kuchen brauche ich Kakao.",
+            "ko": "케이크를 만들려면 코코아 가루가 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kampf",
+    "level": "b1",
+    "zipf": 4.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kämpfe",
+      "genitive": "Kampfes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "struggle, battle, campaign, fight",
+        "ko": "싸움, 전투, 투쟁",
+        "examples": [
+          {
+            "text": "Der Kampf gegen die Krankheit war lang.",
+            "ko": "병과의 싸움은 길었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kanal",
+    "level": "b1",
+    "zipf": 4.48,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kanäle",
+      "genitive": "Kanales"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "canal (man-made watercourse)",
+        "ko": "운하",
+        "examples": [
+          {
+            "text": "Boote fahren auf dem Kanal.",
+            "ko": "배들이 운하를 다닌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "channel",
+        "ko": "채널",
+        "examples": [
+          {
+            "text": "Welchen Kanal siehst du gerade?",
+            "ko": "지금 어떤 채널을 보고 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kandidat",
+    "level": "b1",
+    "zipf": 4.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kandidaten",
+      "genitive": "Kandidaten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "candidate",
+        "ko": "후보자, 지원자",
+        "examples": [
+          {
+            "text": "Der Kandidat beantwortet alle Fragen.",
+            "ko": "후보자는 모든 질문에 답한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kanne",
+    "level": "b1",
+    "zipf": 3.36,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kannen",
+      "genitive": "Kanne"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "jug, pitcher, pot, can (container for pouring fluids, especially beverages, often having spout and handle)",
+        "ko": "주전자, 물병",
+        "examples": [
+          {
+            "text": "Die Kanne mit dem Tee steht auf dem Tisch.",
+            "ko": "차가 든 주전자가 탁자 위에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kantine",
+    "level": "b1",
+    "zipf": 3.49,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kantinen",
+      "genitive": "Kantine"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cafeteria, canteen (self-serve dining area typically integrated into a school, workplace, etc.)",
+        "ko": "구내식당",
+        "examples": [
+          {
+            "text": "Mittags essen wir in der Kantine.",
+            "ko": "점심에 우리는 구내식당에서 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kapitel",
+    "level": "b1",
+    "zipf": 4.44,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Kapitel",
+      "genitive": "Kapitels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "chapter (section of a text)",
+        "ko": "장, 챕터",
+        "examples": [
+          {
+            "text": "Wir lesen heute das zweite Kapitel.",
+            "ko": "오늘 우리는 2장을 읽는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kaputtgehen",
+    "level": "b1",
+    "zipf": 2.6,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "geht kaputt",
+      "past": "ging kaputt",
+      "pp": "kaputtgegangen",
+      "aux": "sein",
+      "separable": true,
+      "prefix": "kaputt"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "kaputt|sep",
+      "gehen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to break, break down, fall to pieces, go to pot",
+        "ko": "고장 나다, 망가지다",
+        "examples": [
+          {
+            "text": "Mein Handy geht oft kaputt.",
+            "ko": "내 휴대폰은 자주 고장 난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kaputtmachen",
+    "level": "b1",
+    "zipf": 2.88,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "macht kaputt",
+      "past": "machte kaputt",
+      "pp": "kaputtgemacht",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "kaputt"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "kaputt|sep",
+      "machen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to break",
+        "ko": "망가뜨리다, 고장 내다",
+        "examples": [
+          {
+            "text": "Der Junge macht das Spielzeug kaputt.",
+            "ko": "그 남자아이가 장난감을 망가뜨린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to spoil, ruin, damage, destroy",
+        "ko": "망치다, 파괴하다",
+        "examples": [
+          {
+            "text": "Der Regen macht uns den Ausflug kaputt.",
+            "ko": "비가 우리 소풍을 망친다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Karneval",
+    "level": "b1",
+    "zipf": 3.94,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Karnevals"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "carnival",
+        "ko": "카니발, 사육제",
+        "examples": [
+          {
+            "text": "Im Karneval tragen viele Leute Kostüme.",
+            "ko": "카니발 때는 많은 사람들이 분장을 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Karotte",
+    "level": "b1",
+    "zipf": 3.01,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Karotten",
+      "genitive": "Karotte"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "carrot",
+        "ko": "당근",
+        "examples": [
+          {
+            "text": "Ich esse gern rohe Karotten.",
+            "ko": "나는 생당근을 즐겨 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Karriere",
+    "level": "b1",
+    "zipf": 4.7,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Karrieren",
+      "genitive": "Karriere"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "career (occupational path)",
+        "ko": "경력, 커리어",
+        "examples": [
+          {
+            "text": "Sie macht Karriere in einer großen Firma.",
+            "ko": "그녀는 큰 회사에서 출세한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kassette",
+    "level": "b1",
+    "zipf": 3.29,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kassetten",
+      "genitive": "Kassette"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cassette",
+        "ko": "카세트",
+        "examples": [
+          {
+            "text": "Mein Vater hat noch viele alte Kassetten.",
+            "ko": "아버지는 아직 오래된 카세트가 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kasten",
+    "level": "b1",
+    "zipf": 4.05,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kästen",
+      "genitive": "Kastens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "crate (e.g. for bottles)",
+        "ko": "(병) 상자, 짝",
+        "examples": [
+          {
+            "text": "Wir kaufen einen Kasten Wasser.",
+            "ko": "우리는 물 한 상자를 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "box, case",
+        "ko": "상자, 통",
+        "examples": [
+          {
+            "text": "Im Kasten liegen alte Fotos.",
+            "ko": "상자 안에 오래된 사진들이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Katalog",
+    "level": "b1",
+    "zipf": 4.12,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kataloge",
+      "genitive": "Kataloges"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "catalogue (systematic list of names, books, pictures, etc.; complete list of items; university calendar)",
+        "ko": "카탈로그, 목록",
+        "examples": [
+          {
+            "text": "Im Katalog finde ich viele Möbel.",
+            "ko": "카탈로그에서 가구를 많이 찾을 수 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Katastrophe",
+    "level": "b1",
+    "zipf": 4.26,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Katastrophen",
+      "genitive": "Katastrophe"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "catastrophe, disaster, calamity",
+        "ko": "재앙, 참사",
+        "examples": [
+          {
+            "text": "Das Erdbeben war eine Katastrophe.",
+            "ko": "그 지진은 재앙이었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kauf",
+    "level": "b1",
+    "zipf": 4.71,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Käufe",
+      "genitive": "Kaufes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "purchase",
+        "ko": "구매, 구입",
+        "examples": [
+          {
+            "text": "Der Kauf des Autos war teuer.",
+            "ko": "자동차 구입은 비쌌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kaum",
+    "level": "b1",
+    "zipf": 5.37,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "barely, hardly (qualifying verbs or adjectives)",
+        "ko": "거의 ~않다, 간신히",
+        "examples": [
+          {
+            "text": "Ich kann dich kaum hören.",
+            "ko": "네 말이 거의 안 들려.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "barely any, almost no (qualifying amounts)",
+        "ko": "거의 없는",
+        "examples": [
+          {
+            "text": "Es gibt kaum Platz im Bus.",
+            "ko": "버스에 자리가 거의 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kellner",
+    "level": "b1",
+    "zipf": 3.84,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kellner",
+      "genitive": "Kellners"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "waiter (male or of unspecified gender)",
+        "ko": "웨이터, 종업원",
+        "examples": [
+          {
+            "text": "Der Kellner bringt uns die Speisekarte.",
+            "ko": "웨이터가 우리에게 메뉴판을 가져다준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kellnerin",
+    "level": "b1",
+    "zipf": 3.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kellnerinnen",
+      "genitive": "Kellnerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Kellner|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "waitress, waiter (female)",
+        "ko": "여종업원",
+        "examples": [
+          {
+            "text": "Die Kellnerin fragt: Was möchten Sie trinken?",
+            "ko": "여종업원이 묻는다. 무엇을 마시겠어요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kennzeichen",
+    "level": "b1",
+    "zipf": 4.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Kennzeichen",
+      "genitive": "Kennzeichens"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "kennen|stem",
+      "Zeichen|stem"
+    ],
+    "senses": [
+      {
+        "en": "characteristic, mark",
+        "ko": "특징, 표지",
+        "examples": [
+          {
+            "text": "Ein Kennzeichen des Hundes ist sein weißer Fleck.",
+            "ko": "그 개의 특징은 하얀 반점이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "registration identifier",
+        "ko": "차량 번호판",
+        "examples": [
+          {
+            "text": "Ich kenne das Kennzeichen seines Autos nicht.",
+            "ko": "나는 그의 차 번호판을 모른다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kerze",
+    "level": "b1",
+    "zipf": 3.69,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kerzen",
+      "genitive": "Kerze"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "candle",
+        "ko": "초, 양초",
+        "examples": [
+          {
+            "text": "Zu Weihnachten zünden wir Kerzen an.",
+            "ko": "크리스마스에 우리는 초에 불을 붙인다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kindheit",
+    "level": "b1",
+    "zipf": 4.35,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kindheiten",
+      "genitive": "Kindheit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Kind|stem",
+      "-heit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "childhood",
+        "ko": "어린 시절",
+        "examples": [
+          {
+            "text": "Meine Kindheit war sehr schön.",
+            "ko": "내 어린 시절은 아주 행복했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kissen",
+    "level": "b1",
+    "zipf": 3.95,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Kissen",
+      "genitive": "Kissens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cushion; pillow (bag filled with soft material used to sit or rest one’s head on)",
+        "ko": "쿠션, 베개",
+        "examples": [
+          {
+            "text": "Auf dem Sofa liegen drei Kissen.",
+            "ko": "소파 위에 쿠션이 세 개 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "klagen",
+    "level": "b1",
+    "zipf": 4.27,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "klagt",
+      "past": "klagte",
+      "pp": "geklagt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to complain (to express feelings of pain, dissatisfaction, or resentment)",
+        "ko": "불평하다, 호소하다",
+        "examples": [
+          {
+            "text": "Er klagt über Kopfschmerzen.",
+            "ko": "그는 두통을 호소한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to sue",
+        "ko": "소송하다",
+        "examples": [
+          {
+            "text": "Die Firma klagt gegen den Vermieter.",
+            "ko": "그 회사는 집주인을 상대로 소송한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "klasse",
+    "level": "b1",
+    "zipf": 5.16,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "class; excellence",
+        "ko": "훌륭한, 최고의",
+        "examples": [
+          {
+            "text": "Das Konzert war echt klasse.",
+            "ko": "그 콘서트는 정말 최고였다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "form; grade; year",
+        "ko": "학년, 반",
+        "examples": [
+          {
+            "text": "Meine Tochter ist in der dritten Klasse.",
+            "ko": "내 딸은 3학년이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Klassenarbeit",
+    "level": "b1",
+    "zipf": 2.64,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Klassenarbeiten",
+      "genitive": "Klassenarbeit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Klasse|stem",
+      "Arbeit|stem"
+    ],
+    "senses": [
+      {
+        "en": "written class test, exam",
+        "ko": "학급 시험",
+        "examples": [
+          {
+            "text": "Morgen schreiben wir eine Klassenarbeit.",
+            "ko": "내일 우리는 시험을 본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kleben",
+    "level": "b1",
+    "zipf": 3.8,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "klebt",
+      "past": "klebte",
+      "pp": "geklebt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to glue",
+        "ko": "붙이다",
+        "examples": [
+          {
+            "text": "Sie klebt eine Briefmarke auf den Brief.",
+            "ko": "그녀는 편지에 우표를 붙인다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be sticky",
+        "ko": "끈적거리다",
+        "examples": [
+          {
+            "text": "Meine Hände kleben vom Honig.",
+            "ko": "꿀 때문에 손이 끈적거린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "klettern",
+    "level": "b1",
+    "zipf": 3.87,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "klettert",
+      "past": "kletterte",
+      "pp": "geklettert",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to climb (e.g. up a tree)",
+        "ko": "기어오르다, 등반하다",
+        "examples": [
+          {
+            "text": "Die Kinder klettern auf den Baum.",
+            "ko": "아이들이 나무에 기어오른다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Klick",
+    "level": "b1",
+    "zipf": 4.11,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Klicks",
+      "genitive": "Klicks"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "click (the act of pressing a button)",
+        "ko": "클릭",
+        "examples": [
+          {
+            "text": "Mit einem Klick öffnet sich das Fenster.",
+            "ko": "클릭 한 번으로 창이 열린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "klicken",
+    "level": "b1",
+    "zipf": 4.39,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "klickt",
+      "past": "klickte",
+      "pp": "geklickt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to click (with a mouse)",
+        "ko": "클릭하다",
+        "examples": [
+          {
+            "text": "Klicken Sie bitte auf diesen Link.",
+            "ko": "이 링크를 클릭해 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to click (make a clear sound, as of a lock being closed, or two marbles striking each other)",
+        "ko": "딸깍 소리 나다",
+        "examples": [
+          {
+            "text": "Die Kamera klickt leise.",
+            "ko": "카메라가 조용히 딸깍 소리를 낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Klima",
+    "level": "b1",
+    "zipf": 4.44,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Klimata",
+      "genitive": "Klimas"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "climate",
+        "ko": "기후",
+        "examples": [
+          {
+            "text": "Das Klima in Spanien ist warm.",
+            "ko": "스페인의 기후는 따뜻하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Klimaanlage",
+    "level": "b1",
+    "zipf": 3.77,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Klimaanlagen",
+      "genitive": "Klimaanlage"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Klima|stem",
+      "Anlage|stem"
+    ],
+    "senses": [
+      {
+        "en": "air conditioner",
+        "ko": "에어컨",
+        "examples": [
+          {
+            "text": "Im Sommer läuft die Klimaanlage den ganzen Tag.",
+            "ko": "여름에는 에어컨이 하루 종일 돌아간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Klingel",
+    "level": "b1",
+    "zipf": 3.39,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Klingeln",
+      "genitive": "Klingel"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "bell",
+        "ko": "초인종, 벨",
+        "examples": [
+          {
+            "text": "Die Klingel an der Tür ist kaputt.",
+            "ko": "문의 초인종이 고장 났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "klingeln",
+    "level": "b1",
+    "zipf": 3.69,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "klingelt",
+      "past": "klingelte",
+      "pp": "geklingelt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to ring (to produce the sound of a bell or a similar sound)",
+        "ko": "벨이 울리다, 벨을 누르다",
+        "examples": [
+          {
+            "text": "Es klingelt an der Tür.",
+            "ko": "문에서 초인종이 울린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "klingen",
+    "level": "b1",
+    "zipf": 4.21,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "klingt",
+      "past": "klang",
+      "pp": "geklungen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to sound",
+        "ko": "~처럼 들리다",
+        "examples": [
+          {
+            "text": "Das klingt gut.",
+            "ko": "그거 좋게 들린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to ring; to clink",
+        "ko": "울리다, 쨍그랑 소리 나다",
+        "examples": [
+          {
+            "text": "Die Gläser klingen beim Anstoßen.",
+            "ko": "건배할 때 잔이 쨍 소리를 낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Klinik",
+    "level": "b1",
+    "zipf": 4.44,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kliniken",
+      "genitive": "Klinik"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "clinic",
+        "ko": "병원, 클리닉",
+        "examples": [
+          {
+            "text": "Mein Onkel arbeitet in einer Klinik.",
+            "ko": "삼촌은 병원에서 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "klopfen",
+    "level": "b1",
+    "zipf": 3.68,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "klopft",
+      "past": "klopfte",
+      "pp": "geklopft",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to knock, to rap (strike rather gently with something hard)",
+        "ko": "두드리다, 노크하다",
+        "examples": [
+          {
+            "text": "Jemand klopft an die Tür.",
+            "ko": "누군가 문을 두드린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to throb; to beat quickly or audibly",
+        "ko": "두근거리다",
+        "examples": [
+          {
+            "text": "Mein Herz klopft vor Angst.",
+            "ko": "무서워서 심장이 두근거린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kloß",
+    "level": "b1",
+    "zipf": 3.01,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Klöße",
+      "genitive": "Kloßes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "dumpling",
+        "ko": "경단, 만두 모양 감자 완자",
+        "examples": [
+          {
+            "text": "Zum Braten gibt es Klöße.",
+            "ko": "구운 고기에 경단이 곁들여 나온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "klären",
+    "level": "b1",
+    "zipf": 4.31,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "klärt",
+      "past": "klärte",
+      "pp": "geklärt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to clarify, to clear up (an issue or misunderstanding), to fill in unknown details, to resolve, to sort out (a problem or a question)",
+        "ko": "해명하다, 해결하다",
+        "examples": [
+          {
+            "text": "Wir müssen die Frage noch klären.",
+            "ko": "우리는 그 문제를 아직 해결해야 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "knapp",
+    "level": "b1",
+    "zipf": 4.93,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "knapper",
+      "superlative": "am knappsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "scarce",
+        "ko": "부족한, 빠듯한",
+        "examples": [
+          {
+            "text": "Das Geld ist diesen Monat knapp.",
+            "ko": "이번 달은 돈이 빠듯하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "somewhat less (than)",
+        "ko": "겨우, 채 ~가 안 되는",
+        "examples": [
+          {
+            "text": "Der Bahnhof ist knapp einen Kilometer entfernt.",
+            "ko": "역은 1킬로미터가 채 안 되는 거리에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "short or tight",
+        "ko": "짧은, 꼭 끼는",
+        "examples": [
+          {
+            "text": "Die Hose ist mir zu knapp.",
+            "ko": "그 바지는 내게 너무 꼭 낀다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kneipe",
+    "level": "b1",
+    "zipf": 3.83,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kneipen",
+      "genitive": "Kneipe"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pub, bar",
+        "ko": "선술집, 바",
+        "examples": [
+          {
+            "text": "Am Freitag gehen wir in die Kneipe.",
+            "ko": "금요일에 우리는 술집에 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Knie",
+    "level": "b1",
+    "zipf": 4.35,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Knie",
+      "genitive": "Knies"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "knee",
+        "ko": "무릎",
+        "examples": [
+          {
+            "text": "Mein rechtes Knie tut weh.",
+            "ko": "오른쪽 무릎이 아프다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Knochen",
+    "level": "b1",
+    "zipf": 4.28,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Knochen",
+      "genitive": "Knochens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "bone",
+        "ko": "뼈",
+        "examples": [
+          {
+            "text": "Der Hund nagt an einem Knochen.",
+            "ko": "개가 뼈를 갉아 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Knopf",
+    "level": "b1",
+    "zipf": 4.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Knöpfe",
+      "genitive": "Knopfes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "button (fastener)",
+        "ko": "단추",
+        "examples": [
+          {
+            "text": "An meiner Jacke fehlt ein Knopf.",
+            "ko": "내 재킷에 단추가 하나 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "button (mechanical device)",
+        "ko": "버튼",
+        "examples": [
+          {
+            "text": "Drück bitte auf den roten Knopf.",
+            "ko": "빨간 버튼을 눌러 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Knödel",
+    "level": "b1",
+    "zipf": 3.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Knödel",
+      "genitive": "Knödels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "dumpling",
+        "ko": "경단, 크뇌델",
+        "examples": [
+          {
+            "text": "In Bayern isst man gern Knödel.",
+            "ko": "바이에른에서는 크뇌델을 즐겨 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Koch",
+    "level": "b1",
+    "zipf": 4.45,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Köche",
+      "genitive": "Kochs"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cook (one who cooks; male or unspecified gender)",
+        "ko": "요리사",
+        "examples": [
+          {
+            "text": "Der Koch arbeitet in einem Restaurant.",
+            "ko": "그 요리사는 식당에서 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kollegin",
+    "level": "b1",
+    "zipf": 3.98,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kolleginnen",
+      "genitive": "Kollegin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Kollege|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Kollege",
+        "ko": "여자 동료",
+        "examples": [
+          {
+            "text": "Meine Kollegin hat heute Geburtstag.",
+            "ko": "내 여자 동료는 오늘 생일이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kommunikation",
+    "level": "b1",
+    "zipf": 4.55,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kommunikationen",
+      "genitive": "Kommunikation"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "communication, exchange of signs",
+        "ko": "의사소통, 커뮤니케이션",
+        "examples": [
+          {
+            "text": "Gute Kommunikation ist im Team wichtig.",
+            "ko": "팀에서는 좋은 의사소통이 중요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "komplett",
+    "level": "b1",
+    "zipf": 4.95,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "complete, entire (including all possible parts or elements)",
+        "ko": "완전한, 전부의",
+        "examples": [
+          {
+            "text": "Die Wohnung ist komplett möbliert.",
+            "ko": "그 집은 가구가 완전히 갖춰져 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kompliziert",
+    "level": "b1",
+    "zipf": 4.21,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "komplizierter",
+      "superlative": "am kompliziertesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "complicated, complex",
+        "ko": "복잡한",
+        "examples": [
+          {
+            "text": "Die Regel ist zu kompliziert.",
+            "ko": "그 규칙은 너무 복잡해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kompromiss",
+    "level": "b1",
+    "zipf": 3.94,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kompromisse"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "compromise",
+        "ko": "타협, 절충",
+        "examples": [
+          {
+            "text": "Wir finden einen Kompromiss.",
+            "ko": "우리는 타협점을 찾을 거야.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Konferenz",
+    "level": "b1",
+    "zipf": 4.31,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Konferenzen",
+      "genitive": "Konferenz"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "conference",
+        "ko": "회의, 학회",
+        "examples": [
+          {
+            "text": "Die Konferenz beginnt um neun Uhr.",
+            "ko": "회의는 9시에 시작한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Konflikt",
+    "level": "b1",
+    "zipf": 4.4,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Konflikte",
+      "genitive": "Konfliktes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "conflict",
+        "ko": "갈등, 충돌",
+        "examples": [
+          {
+            "text": "Zwischen den Nachbarn gibt es einen Konflikt.",
+            "ko": "이웃들 사이에 갈등이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Konkurrenz",
+    "level": "b1",
+    "zipf": 4.43,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Konkurrenzen",
+      "genitive": "Konkurrenz"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "competition (act of competing)",
+        "ko": "경쟁",
+        "examples": [
+          {
+            "text": "Zwischen den Firmen herrscht starke Konkurrenz.",
+            "ko": "회사들 사이에 치열한 경쟁이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "competitors, competition (rival businesses)",
+        "ko": "경쟁 상대, 경쟁사",
+        "examples": [
+          {
+            "text": "Die Konkurrenz verkauft billiger.",
+            "ko": "경쟁사가 더 싸게 판다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Konsulat",
+    "level": "b1",
+    "zipf": 3.35,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Konsulate",
+      "genitive": "Konsulates"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "consulate",
+        "ko": "영사관",
+        "examples": [
+          {
+            "text": "Ich brauche ein Visum vom Konsulat.",
+            "ko": "나는 영사관에서 비자를 받아야 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "konsumieren",
+    "level": "b1",
+    "zipf": 3.44,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "konsumiert",
+      "past": "konsumierte",
+      "pp": "konsumiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to consume",
+        "ko": "소비하다, 섭취하다",
+        "examples": [
+          {
+            "text": "Die Deutschen konsumieren viel Kaffee.",
+            "ko": "독일 사람들은 커피를 많이 소비한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kontrolle",
+    "level": "b1",
+    "zipf": 4.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kontrollen",
+      "genitive": "Kontrolle"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "inspection",
+        "ko": "검사, 점검",
+        "examples": [
+          {
+            "text": "Am Flughafen gibt es eine Kontrolle.",
+            "ko": "공항에서 검사가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "control",
+        "ko": "통제, 관리",
+        "examples": [
+          {
+            "text": "Er hat die Kontrolle über das Auto verloren.",
+            "ko": "그는 차의 통제력을 잃었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "konzentrieren",
+    "level": "b1",
+    "zipf": 4.31,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "konzentriert",
+      "past": "konzentrierte",
+      "pp": "konzentriert",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to concentrate",
+        "ko": "집중하다",
+        "examples": [
+          {
+            "text": "Ich kann mich heute nicht konzentrieren.",
+            "ko": "나는 오늘 집중할 수가 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kopie",
+    "level": "b1",
+    "zipf": 4.06,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kopien",
+      "genitive": "Kopie"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a copy, the result of copying something, a duplicate",
+        "ko": "복사본, 사본",
+        "examples": [
+          {
+            "text": "Ich brauche eine Kopie von deinem Pass.",
+            "ko": "네 여권 사본이 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kopieren",
+    "level": "b1",
+    "zipf": 3.77,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "kopiert",
+      "past": "kopierte",
+      "pp": "kopiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to copy",
+        "ko": "복사하다",
+        "examples": [
+          {
+            "text": "Kannst du mir diese Seite kopieren?",
+            "ko": "이 페이지 좀 복사해 줄래?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kopierer",
+    "level": "b1",
+    "zipf": 2.89,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kopierer",
+      "genitive": "Kopierers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "kopieren|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "copier (a machine that copies)",
+        "ko": "복사기",
+        "examples": [
+          {
+            "text": "Der Kopierer im Büro ist wieder kaputt.",
+            "ko": "사무실 복사기가 또 고장 났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "korrekt",
+    "level": "b1",
+    "zipf": 4.34,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "korrekter",
+      "superlative": "am korrektesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "correct",
+        "ko": "정확한, 올바른",
+        "examples": [
+          {
+            "text": "Ist diese Antwort korrekt?",
+            "ko": "이 대답이 맞나요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "proper; decent",
+        "ko": "예의 바른, 단정한",
+        "examples": [
+          {
+            "text": "Er ist immer sehr korrekt gekleidet.",
+            "ko": "그는 항상 아주 단정하게 옷을 입는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Korridor",
+    "level": "b1",
+    "zipf": 3.39,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Korridore",
+      "genitive": "Korridors"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "corridor",
+        "ko": "복도",
+        "examples": [
+          {
+            "text": "Das Büro liegt am Ende des Korridors.",
+            "ko": "사무실은 복도 끝에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "korrigieren",
+    "level": "b1",
+    "zipf": 3.93,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "korrigiert",
+      "past": "korrigierte",
+      "pp": "korrigiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to correct",
+        "ko": "고치다, 정정하다",
+        "examples": [
+          {
+            "text": "Bitte korrigiere meinen Fehler.",
+            "ko": "내 실수를 고쳐 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to examine a written test or assignment and add corrective notes to it; (by extension also) to mark, grade such a test (for which strictly benoten)",
+        "ko": "채점하다, 첨삭하다",
+        "examples": [
+          {
+            "text": "Die Lehrerin korrigiert die Hefte.",
+            "ko": "선생님이 공책을 채점한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kosten",
+    "level": "b1",
+    "zipf": 5.18,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "kostet",
+      "past": "kostete",
+      "pp": "gekostet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "costs, expenses (plural noun)",
+        "ko": "비용, 경비",
+        "examples": [
+          {
+            "text": "Die Kosten für die Reise sind hoch.",
+            "ko": "여행 비용이 많이 든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to cost",
+        "ko": "(값이) 들다",
+        "examples": [
+          {
+            "text": "Was kostet das Buch?",
+            "ko": "이 책은 얼마예요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kostüm",
+    "level": "b1",
+    "zipf": 3.89,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Kostüme",
+      "genitive": "Kostüms"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "costume, fancy dress (outfit worn for masquerade)",
+        "ko": "분장 의상, 코스튬",
+        "examples": [
+          {
+            "text": "Auf der Party trage ich ein Kostüm.",
+            "ko": "파티에서 나는 분장 의상을 입는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "skirt suit (women’s business suit consisting of a skirt and jacket)",
+        "ko": "(여성용) 정장 투피스",
+        "examples": [
+          {
+            "text": "Sie trägt im Büro ein graues Kostüm.",
+            "ko": "그녀는 사무실에서 회색 투피스를 입는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kraft",
+    "level": "b1",
+    "zipf": 4.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kräfte",
+      "genitive": "Kraft"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "power, force, strength",
+        "ko": "힘, 능력",
+        "examples": [
+          {
+            "text": "Nach der Krankheit habe ich keine Kraft.",
+            "ko": "병을 앓고 나서 힘이 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "worker, employee",
+        "ko": "일손, 직원",
+        "examples": [
+          {
+            "text": "Die Firma sucht neue Kräfte.",
+            "ko": "회사가 새 직원들을 찾고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kraftfahrzeug",
+    "level": "b1",
+    "zipf": 2.96,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Kraftfahrzeuge",
+      "genitive": "Kraftfahrzeuges"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Kraft|stem",
+      "Fahrzeug|stem"
+    ],
+    "senses": [
+      {
+        "en": "motor vehicle (any land vehicle)",
+        "ko": "자동차, 동력 차량",
+        "examples": [
+          {
+            "text": "Für ein Kraftfahrzeug braucht man eine Versicherung.",
+            "ko": "자동차에는 보험이 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kraftwerk",
+    "level": "b1",
+    "zipf": 3.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Kraftwerke",
+      "genitive": "Kraftwerkes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Kraft|stem",
+      "Werk|stem"
+    ],
+    "senses": [
+      {
+        "en": "power station, power plant",
+        "ko": "발전소",
+        "examples": [
+          {
+            "text": "Das Kraftwerk liefert Strom für die Stadt.",
+            "ko": "발전소가 도시에 전기를 공급한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kranke",
+    "level": "b1",
+    "zipf": 4.13,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m",
+        "f"
+      ],
+      "plural": "Kranke",
+      "genitive": "Kranker"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "female equivalent of Kranker: sick female, female sufferer (from a disease), female patient, female invalid",
+        "ko": "여자 환자",
+        "examples": [
+          {
+            "text": "Die Kranke bleibt im Bett.",
+            "ko": "여자 환자는 침대에 누워 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Krankenpfleger",
+    "level": "b1",
+    "zipf": 3.32,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Krankenpfleger",
+      "genitive": "Krankenpflegers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "krank|stem",
+      "Pfleger|stem"
+    ],
+    "senses": [
+      {
+        "en": "nurse (male or of unspecified gender) (person who cares for the ill)",
+        "ko": "간호사 (남성)",
+        "examples": [
+          {
+            "text": "Der Krankenpfleger misst das Fieber.",
+            "ko": "간호사가 열을 잰다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Krankenschwester",
+    "level": "b1",
+    "zipf": 3.81,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Krankenschwestern",
+      "genitive": "Krankenschwester"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "krank|stem",
+      "Schwester|stem"
+    ],
+    "senses": [
+      {
+        "en": "nurse (female)",
+        "ko": "간호사 (여성)",
+        "examples": [
+          {
+            "text": "Die Krankenschwester bringt die Medizin.",
+            "ko": "간호사가 약을 가져다준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Krankenwagen",
+    "level": "b1",
+    "zipf": 3.5,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Krankenwagen",
+      "genitive": "Krankenwagens"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "krank|stem",
+      "Wagen|stem"
+    ],
+    "senses": [
+      {
+        "en": "ambulance, ambulance car, ambulance van",
+        "ko": "구급차",
+        "examples": [
+          {
+            "text": "Der Krankenwagen kommt sofort.",
+            "ko": "구급차가 곧바로 온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kreativ",
+    "level": "b1",
+    "zipf": 4.03,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "kreativer",
+      "superlative": "am kreativsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "creative",
+        "ko": "창의적인",
+        "examples": [
+          {
+            "text": "Meine Schwester ist sehr kreativ.",
+            "ko": "내 여동생은 매우 창의적이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kreditkarte",
+    "level": "b1",
+    "zipf": 3.9,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kreditkarten",
+      "genitive": "Kreditkarte"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Kredit|stem",
+      "Karte|stem"
+    ],
+    "senses": [
+      {
+        "en": "credit card",
+        "ko": "신용카드",
+        "examples": [
+          {
+            "text": "Kann ich mit Kreditkarte bezahlen?",
+            "ko": "신용카드로 계산할 수 있나요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kreis",
+    "level": "b1",
+    "zipf": 5.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kreise",
+      "genitive": "Kreises"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "circle",
+        "ko": "원, 동그라미",
+        "examples": [
+          {
+            "text": "Zeichne bitte einen Kreis.",
+            "ko": "동그라미를 하나 그려 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "a group of people united by a common interest",
+        "ko": "모임, 동아리, 범위",
+        "examples": [
+          {
+            "text": "Im Kreis der Familie feiern wir Weihnachten.",
+            "ko": "우리는 가족끼리 크리스마스를 보낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "a type of territorial administrative division, district",
+        "ko": "군, 행정 구역",
+        "examples": [
+          {
+            "text": "Unser Dorf gehört zu diesem Kreis.",
+            "ko": "우리 마을은 이 군에 속한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kreuz",
+    "level": "b1",
+    "zipf": 4.5,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Kreuze",
+      "genitive": "Kreuzes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cross",
+        "ko": "십자가, 십자 모양",
+        "examples": [
+          {
+            "text": "Auf dem Berg steht ein großes Kreuz.",
+            "ko": "산 위에 큰 십자가가 서 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "lower back",
+        "ko": "허리",
+        "examples": [
+          {
+            "text": "Mein Kreuz tut nach der Arbeit weh.",
+            "ko": "일하고 나면 허리가 아프다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Krieg",
+    "level": "b1",
+    "zipf": 5.17,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kriege",
+      "genitive": "Krieges"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "war, warfare",
+        "ko": "전쟁",
+        "examples": [
+          {
+            "text": "Niemand will Krieg.",
+            "ko": "아무도 전쟁을 원하지 않는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Krise",
+    "level": "b1",
+    "zipf": 4.51,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Krisen",
+      "genitive": "Krise"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "crisis (unstable situation)",
+        "ko": "위기",
+        "examples": [
+          {
+            "text": "Das Land steckt in einer Krise.",
+            "ko": "그 나라는 위기에 빠져 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kritik",
+    "level": "b1",
+    "zipf": 5.01,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kritiken",
+      "genitive": "Kritik"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "criticism (negative judgement)",
+        "ko": "비판",
+        "examples": [
+          {
+            "text": "Seine Kritik hat mich geärgert.",
+            "ko": "그의 비판이 나를 화나게 했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "critique, review (review of a work of art)",
+        "ko": "비평, 평론",
+        "examples": [
+          {
+            "text": "Die Kritik über den Film ist gut.",
+            "ko": "그 영화에 대한 평론은 좋다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kritisch",
+    "level": "b1",
+    "zipf": 4.37,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "kritischer",
+      "superlative": "am kritischsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "critical",
+        "ko": "비판적인, 위험한",
+        "examples": [
+          {
+            "text": "Sie sieht die Lage kritisch.",
+            "ko": "그녀는 상황을 비판적으로 본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kritisieren",
+    "level": "b1",
+    "zipf": 4.03,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "kritisiert",
+      "past": "kritisierte",
+      "pp": "kritisiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to criticize, to criticise",
+        "ko": "비판하다",
+        "examples": [
+          {
+            "text": "Er kritisiert oft seinen Chef.",
+            "ko": "그는 자주 상사를 비판한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kräftig",
+    "level": "b1",
+    "zipf": 4.2,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "kräftiger",
+      "superlative": "am kräftigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Kraft|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "bold, intense, powerful, robust, strong, sturdy, vigorous, vivid",
+        "ko": "힘센, 튼튼한, 강한",
+        "examples": [
+          {
+            "text": "Er ist ein kräftiger Mann.",
+            "ko": "그는 힘센 남자다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kuli",
+    "level": "b1",
+    "zipf": 2.84,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kulis",
+      "genitive": "Kulis"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "coolie (unskilled Asian worker, usually of Chinese or Indian descent)",
+        "ko": "쿨리 (아시아 막노동자)",
+        "examples": [
+          {
+            "text": "Früher arbeiteten viele Kulis im Hafen.",
+            "ko": "예전에는 많은 쿨리들이 항구에서 일했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kundin",
+    "level": "b1",
+    "zipf": 3.48,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kundinnen",
+      "genitive": "Kundin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Kunde|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Kunde",
+        "ko": "여자 손님, 여자 고객",
+        "examples": [
+          {
+            "text": "Die Kundin möchte eine Jacke kaufen.",
+            "ko": "여자 손님이 재킷을 사고 싶어 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kunststoff",
+    "level": "b1",
+    "zipf": 3.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kunststoffe",
+      "genitive": "Kunststoffes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Kunst|stem",
+      "Stoff|stem"
+    ],
+    "senses": [
+      {
+        "en": "plastic (a stiff but usually slightly flexible synthetic material)",
+        "ko": "플라스틱, 합성수지",
+        "examples": [
+          {
+            "text": "Die Flasche ist aus Kunststoff.",
+            "ko": "그 병은 플라스틱으로 만들어졌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kursleiter",
+    "level": "b1",
+    "zipf": 2.53,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Kursleiter"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "Kurs|stem",
+      "Leiter|stem"
+    ],
+    "senses": [
+      {
+        "en": "course instructor, course leader",
+        "ko": "강좌 담당자, 강사",
+        "examples": [
+          {
+            "text": "Der Kursleiter erklärt die Grammatik.",
+            "ko": "강사가 문법을 설명한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kursleiterin",
+    "level": "b1",
+    "zipf": 2.32,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kursleiterinnen"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "Kursleiter|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female course instructor, course leader",
+        "ko": "여자 강좌 담당자, 여강사",
+        "examples": [
+          {
+            "text": "Unsere Kursleiterin kommt aus Wien.",
+            "ko": "우리 여강사는 빈 출신이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kurve",
+    "level": "b1",
+    "zipf": 4.08,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kurven",
+      "genitive": "Kurve"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "bend (curve)",
+        "ko": "커브, 굽은 길",
+        "examples": [
+          {
+            "text": "Vor der Kurve fährt er langsam.",
+            "ko": "그는 커브 앞에서 천천히 달린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "curve",
+        "ko": "곡선",
+        "examples": [
+          {
+            "text": "Die Kurve im Diagramm geht nach oben.",
+            "ko": "그래프의 곡선이 위로 올라간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kuss",
+    "level": "b1",
+    "zipf": 4.1,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Küsse",
+      "genitive": "Kusses"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "kiss",
+        "ko": "키스, 입맞춤",
+        "examples": [
+          {
+            "text": "Sie gibt ihm einen Kuss.",
+            "ko": "그녀는 그에게 입맞춤을 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kälte",
+    "level": "b1",
+    "zipf": 4.09,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Kälte"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "kalt|stem",
+      "-e|suffix"
+    ],
+    "senses": [
+      {
+        "en": "coldness; cold",
+        "ko": "추위, 냉기",
+        "examples": [
+          {
+            "text": "Im Januar ist die Kälte kaum zu ertragen.",
+            "ko": "1월에는 추위를 견디기 힘들다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kämpfen",
+    "level": "b1",
+    "zipf": 4.74,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "kämpft",
+      "past": "kämpfte",
+      "pp": "gekämpft",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to fight, to struggle",
+        "ko": "싸우다, 투쟁하다",
+        "examples": [
+          {
+            "text": "Sie kämpft für ihre Rechte.",
+            "ko": "그녀는 자신의 권리를 위해 싸운다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Käufer",
+    "level": "b1",
+    "zipf": 4.16,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Käufer",
+      "genitive": "Käufers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "kaufen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "agent noun of kaufen; shopper, buyer",
+        "ko": "구매자, 사는 사람",
+        "examples": [
+          {
+            "text": "Der Käufer zahlt bar.",
+            "ko": "구매자가 현금으로 지불한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Käuferin",
+    "level": "b1",
+    "zipf": 2.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Käuferinnen",
+      "genitive": "Käuferin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Käufer|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "shopper, buyer",
+        "ko": "여자 구매자",
+        "examples": [
+          {
+            "text": "Die Käuferin prüft den Preis.",
+            "ko": "여자 구매자가 가격을 살펴본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Köchin",
+    "level": "b1",
+    "zipf": 3.36,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Köchinnen",
+      "genitive": "Köchin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Koch|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "cook, a cooker (female)",
+        "ko": "여자 요리사",
+        "examples": [
+          {
+            "text": "Die Köchin macht eine leckere Suppe.",
+            "ko": "여자 요리사가 맛있는 수프를 만든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "König",
+    "level": "b1",
+    "zipf": 5.02,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Könige",
+      "genitive": "Königes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "king (monarch, chess, card games)",
+        "ko": "왕, 킹",
+        "examples": [
+          {
+            "text": "Der König wohnt in einem großen Schloss.",
+            "ko": "왕은 큰 성에 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Kündigung",
+    "level": "b1",
+    "zipf": 4.09,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Kündigungen",
+      "genitive": "Kündigung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "kündigen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "a declaration of will ending a continuing obligation, termination, dismissal, resignation, notice, quitting",
+        "ko": "해지, 해고, 사직 통보",
+        "examples": [
+          {
+            "text": "Er hat die Kündigung heute bekommen.",
+            "ko": "그는 오늘 해고 통보를 받았다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Künstler",
+    "level": "b1",
+    "zipf": 4.78,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Künstler",
+      "genitive": "Künstlers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Kunst|stem",
+      "-ler|suffix"
+    ],
+    "senses": [
+      {
+        "en": "artist",
+        "ko": "예술가, 화가",
+        "examples": [
+          {
+            "text": "Der Künstler malt ein großes Bild.",
+            "ko": "그 예술가는 큰 그림을 그린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Künstlerin",
+    "level": "b1",
+    "zipf": 4.06,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Künstlerinnen",
+      "genitive": "Künstlerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Künstler|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "artist (female)",
+        "ko": "여성 예술가",
+        "examples": [
+          {
+            "text": "Die Künstlerin stellt ihre Bilder aus.",
+            "ko": "그 여성 예술가는 자기 그림을 전시한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "künstlich",
+    "level": "b1",
+    "zipf": 3.92,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "künstlicher",
+      "superlative": "am künstlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Kunst|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "artificial",
+        "ko": "인공의, 인위적인",
+        "examples": [
+          {
+            "text": "Die Blumen sind künstlich.",
+            "ko": "그 꽃들은 조화다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "kürzlich",
+    "level": "b1",
+    "zipf": 4.31,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "kurz|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "recent",
+        "ko": "최근의, 얼마 전에",
+        "examples": [
+          {
+            "text": "Ich habe ihn kürzlich gesehen.",
+            "ko": "나는 얼마 전에 그를 봤다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "küssen",
+    "level": "b1",
+    "zipf": 4.05,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "küsst",
+      "past": "küsste",
+      "pp": "geküsst",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to kiss",
+        "ko": "키스하다, 입 맞추다",
+        "examples": [
+          {
+            "text": "Er küsst seine Freundin zum Abschied.",
+            "ko": "그는 작별할 때 여자친구에게 입을 맞춘다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Küste",
+    "level": "b1",
+    "zipf": 4.3,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Küsten",
+      "genitive": "Küste"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "coast",
+        "ko": "해안",
+        "examples": [
+          {
+            "text": "Wir machen Urlaub an der Küste.",
+            "ko": "우리는 해안에서 휴가를 보낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

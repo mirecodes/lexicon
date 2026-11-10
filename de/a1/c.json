@@ -1,0 +1,147 @@
+[
+  {
+    "word": "Café",
+    "level": "a1",
+    "zipf": 4.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Cafés",
+      "genitive": "Cafés"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a café, a coffee shop",
+        "ko": "카페",
+        "examples": [
+          {
+            "text": "Wir treffen uns im Café.",
+            "ko": "우리는 카페에서 만나.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "CD",
+    "level": "a1",
+    "zipf": 4.48,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "CDs",
+      "genitive": "CD"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "CD (compact disc)",
+        "ko": "시디",
+        "examples": [
+          {
+            "text": "Ich höre eine CD.",
+            "ko": "나는 시디를 들어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Chef",
+    "level": "a1",
+    "zipf": 4.92,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Chefs",
+      "genitive": "Chefs"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "boss, chief",
+        "ko": "사장, 상사",
+        "examples": [
+          {
+            "text": "Mein Chef ist nett.",
+            "ko": "우리 사장님은 친절해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "circa",
+    "level": "a1",
+    "zipf": 4.09,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "circa",
+        "ko": "약, 대략",
+        "examples": [
+          {
+            "text": "Das kostet circa zehn Euro.",
+            "ko": "이건 약 10유로야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Computer",
+    "level": "a1",
+    "zipf": 4.66,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Computer",
+      "genitive": "Computers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "computer (programmable electronic device that performs mathematical calculations, logical operations, and usually also data retrieval/storage)",
+        "ko": "컴퓨터",
+        "examples": [
+          {
+            "text": "Mein Computer ist neu.",
+            "ko": "내 컴퓨터는 새 거야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

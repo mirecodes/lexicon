@@ -1,0 +1,1009 @@
+[
+  {
+    "word": "E-Book",
+    "level": "a2",
+    "zipf": 4.11,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "E-Books",
+      "genitive": "E-Books"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "e-book",
+        "ko": "전자책",
+        "examples": [
+          {
+            "text": "Ich lese lieber E-Books.",
+            "ko": "나는 전자책 읽는 걸 더 좋아해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "echt",
+    "level": "a2",
+    "zipf": 5.34,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "echter",
+      "superlative": "am echtesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "authentic, genuine, true",
+        "ko": "진짜의, 진품의",
+        "examples": [
+          {
+            "text": "Ist die Uhr echt?",
+            "ko": "이 시계 진짜야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "really, very (colloquial)",
+        "ko": "정말, 진짜 (구어)",
+        "examples": [
+          {
+            "text": "Das Essen ist echt lecker.",
+            "ko": "음식이 진짜 맛있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "egal",
+    "level": "a2",
+    "zipf": 5.28,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "all the same, unimportant",
+        "ko": "상관없는, 아무래도 좋은",
+        "examples": [
+          {
+            "text": "Das ist mir egal.",
+            "ko": "나는 상관없어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "eigen",
+    "level": "a2",
+    "zipf": 3.88,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "eigner"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "own, peculiar or private to someone, idiosyncratic, proper or proprietary",
+        "ko": "자신의, 고유한",
+        "examples": [
+          {
+            "text": "Ich habe ein eigenes Zimmer.",
+            "ko": "나는 내 방이 따로 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "eigentlich",
+    "level": "a2",
+    "zipf": 5.58,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "eigentlicher",
+      "superlative": "am eigentlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "eigen|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "actually, by the way (softening a question)",
+        "ko": "그런데, 도대체",
+        "examples": [
+          {
+            "text": "Wie alt bist du eigentlich?",
+            "ko": "그런데 너 몇 살이야?",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "actual, real, proper (as opposed to something secondary serving as a distraction or impostor)",
+        "ko": "본래의, 실제의",
+        "examples": [
+          {
+            "text": "Mein eigentlicher Name ist Thomas.",
+            "ko": "내 본명은 토마스야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ein paar",
+    "level": "a2",
+    "zipf": 5.54,
+    "pos": "det",
+    "grammar": {
+      "type": "det"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "some; a few; a couple of",
+        "ko": "몇몇의, 두어 개의",
+        "examples": [
+          {
+            "text": "Ich kaufe ein paar Äpfel.",
+            "ko": "나는 사과 몇 개를 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einig",
+    "level": "a2",
+    "zipf": 4.28,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "agreed, in agreement",
+        "ko": "의견이 일치하는",
+        "examples": [
+          {
+            "text": "Wir sind uns einig.",
+            "ko": "우리는 의견이 일치해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "united",
+        "ko": "단결된, 하나가 된",
+        "examples": [
+          {
+            "text": "Die Familie ist einig.",
+            "ko": "그 가족은 하나로 뭉쳐 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einkaufszentrum",
+    "level": "a2",
+    "zipf": 3.76,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Einkaufszentren",
+      "genitive": "Einkaufszentrums"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Einkauf|stem",
+      "Zentrum|stem"
+    ],
+    "senses": [
+      {
+        "en": "shopping center, shopping mall",
+        "ko": "쇼핑센터, 쇼핑몰",
+        "examples": [
+          {
+            "text": "Wir gehen ins Einkaufszentrum.",
+            "ko": "우리는 쇼핑센터에 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einpacken",
+    "level": "a2",
+    "zipf": 3.52,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "packt ein",
+      "past": "packte ein",
+      "pp": "eingepackt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "ein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|sep",
+      "packen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to wrap up; to pack up (a gift, etc.)",
+        "ko": "(포장해) 싸다",
+        "examples": [
+          {
+            "text": "Sie packt das Geschenk ein.",
+            "ko": "그녀는 선물을 포장한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to dress warmly; to bundle up",
+        "ko": "따뜻하게 껴입다",
+        "examples": [
+          {
+            "text": "Pack dich warm ein, es ist kalt!",
+            "ko": "따뜻하게 껴입어, 추워!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "eintragen",
+    "level": "a2",
+    "zipf": 3.75,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "trägt ein",
+      "past": "trug ein",
+      "pp": "eingetragen",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "ein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|sep",
+      "tragen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to enter, to record",
+        "ko": "기입하다, 적어 넣다",
+        "examples": [
+          {
+            "text": "Ich trage den Termin in den Kalender ein.",
+            "ko": "나는 약속을 달력에 적어 넣는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to inscribe, to enrol",
+        "ko": "등록하다",
+        "examples": [
+          {
+            "text": "Er trägt sich in die Liste ein.",
+            "ko": "그는 명단에 이름을 올린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einverstanden sein",
+    "level": "a2",
+    "zipf": 4.27,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": false,
+      "present3": "ist einverstanden",
+      "past": "war einverstanden",
+      "pp": "einverstanden gewesen",
+      "aux": "sein"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to agree, to be in agreement",
+        "ko": "동의하다",
+        "examples": [
+          {
+            "text": "Ich bin mit dem Plan einverstanden.",
+            "ko": "나는 그 계획에 동의해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einzel",
+    "level": "a2",
+    "zipf": 3.99,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "single, individual (as in Einzelzimmer)",
+        "ko": "단일의, 개별의",
+        "examples": [
+          {
+            "text": "Ich buche ein Einzelzimmer.",
+            "ko": "나는 1인실을 예약한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einziehen",
+    "level": "a2",
+    "zipf": 3.85,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "zieht ein",
+      "past": "zog ein",
+      "pp": "eingezogen",
+      "aux": "haben/sein",
+      "separable": true,
+      "prefix": "ein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|sep",
+      "ziehen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to move in (to a new home)",
+        "ko": "이사 들어가다",
+        "examples": [
+          {
+            "text": "Wir ziehen nächste Woche in die Wohnung ein.",
+            "ko": "우리는 다음 주에 그 집으로 이사 들어가.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to conscript, draft",
+        "ko": "징집하다",
+        "examples": [
+          {
+            "text": "Der Staat zieht junge Männer ein.",
+            "ko": "국가가 젊은 남자들을 징집한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to collect (taxes etc.)",
+        "ko": "(세금 등을) 징수하다",
+        "examples": [
+          {
+            "text": "Das Amt zieht die Steuern ein.",
+            "ko": "관청이 세금을 징수한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Eis",
+    "level": "a2",
+    "zipf": 4.59,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Eises"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ice cream",
+        "ko": "아이스크림",
+        "examples": [
+          {
+            "text": "Die Kinder essen ein Eis.",
+            "ko": "아이들이 아이스크림을 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "ice",
+        "ko": "얼음",
+        "examples": [
+          {
+            "text": "Im Winter liegt Eis auf dem See.",
+            "ko": "겨울에는 호수 위에 얼음이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "endlich",
+    "level": "a2",
+    "zipf": 5.29,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Ende|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "finally, at last",
+        "ko": "드디어, 마침내",
+        "examples": [
+          {
+            "text": "Endlich ist Wochenende!",
+            "ko": "드디어 주말이다!",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "finite, limited",
+        "ko": "한정된, 유한한",
+        "examples": [
+          {
+            "text": "Unsere Zeit ist endlich.",
+            "ko": "우리의 시간은 유한하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "eng",
+    "level": "a2",
+    "zipf": 4.57,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "enger",
+      "superlative": "am engsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "narrow, tight",
+        "ko": "좁은, 꽉 끼는",
+        "examples": [
+          {
+            "text": "Die Hose ist mir zu eng.",
+            "ko": "이 바지는 나한테 너무 꽉 껴.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "close",
+        "ko": "가까운, 친밀한",
+        "examples": [
+          {
+            "text": "Wir sind eng befreundet.",
+            "ko": "우리는 매우 가까운 친구야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Erdgeschoss",
+    "level": "a2",
+    "zipf": 3.95,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Erdgeschosse",
+      "genitive": "Erdgeschosses"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Erde|stem",
+      "Geschoss|stem"
+    ],
+    "senses": [
+      {
+        "en": "first floor (US), ground floor (UK)",
+        "ko": "1층",
+        "examples": [
+          {
+            "text": "Das Café ist im Erdgeschoss.",
+            "ko": "카페는 1층에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Erfahrung",
+    "level": "a2",
+    "zipf": 4.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Erfahrungen",
+      "genitive": "Erfahrung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "erfahren|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "experience (event through which empirical knowledge is gained)",
+        "ko": "경험",
+        "examples": [
+          {
+            "text": "Ich habe viel Erfahrung im Verkauf.",
+            "ko": "나는 판매 경험이 많아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erinnern",
+    "level": "a2",
+    "zipf": 4.75,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "erinnert",
+      "past": "erinnerte",
+      "pp": "erinnert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to remind",
+        "ko": "상기시키다",
+        "examples": [
+          {
+            "text": "Bitte erinnere mich an den Termin.",
+            "ko": "약속을 나에게 상기시켜 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to remember, to be reminded of",
+        "ko": "기억하다",
+        "examples": [
+          {
+            "text": "Ich erinnere mich gut an den Urlaub.",
+            "ko": "나는 그 휴가를 잘 기억해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erkältet sein",
+    "level": "a2",
+    "zipf": 3.2,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "ist erkältet",
+      "past": "war erkältet",
+      "pp": "erkältet gewesen",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to have a cold",
+        "ko": "감기에 걸려 있다",
+        "examples": [
+          {
+            "text": "Ich bin erkältet.",
+            "ko": "나 감기 걸렸어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Erlaubnis",
+    "level": "a2",
+    "zipf": 4.12,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Erlaubnis"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "erlauben|stem",
+      "-nis|suffix"
+    ],
+    "senses": [
+      {
+        "en": "permission (authorisation)",
+        "ko": "허락, 허가",
+        "examples": [
+          {
+            "text": "Ich brauche eine Erlaubnis.",
+            "ko": "나는 허가가 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erlaubt sein",
+    "level": "a2",
+    "zipf": 4.72,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": false,
+      "present3": "ist erlaubt",
+      "past": "war erlaubt",
+      "pp": "erlaubt gewesen",
+      "aux": "sein"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to be allowed, to be permitted",
+        "ko": "허용되다",
+        "examples": [
+          {
+            "text": "Hier ist Parken nicht erlaubt.",
+            "ko": "여기서는 주차가 허용되지 않는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ermäßigung",
+    "level": "a2",
+    "zipf": 3.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Ermäßigungen",
+      "genitive": "Ermäßigung"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "discount",
+        "ko": "할인",
+        "examples": [
+          {
+            "text": "Studenten bekommen hier eine Ermäßigung.",
+            "ko": "학생들은 여기서 할인을 받는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erreichen",
+    "level": "a2",
+    "zipf": 5.01,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "erreicht",
+      "past": "erreichte",
+      "pp": "erreicht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "er|insep",
+      "reichen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to reach, to get to, to arrive at (a place)",
+        "ko": "도착하다, 닿다",
+        "examples": [
+          {
+            "text": "Wir erreichen den Zug noch.",
+            "ko": "우리는 기차를 아직 탈 수 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to reach (to establish contact with)",
+        "ko": "연락이 닿다",
+        "examples": [
+          {
+            "text": "Ich kann ihn nie erreichen.",
+            "ko": "나는 그와 도무지 연락이 안 돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to accomplish",
+        "ko": "이루다, 달성하다",
+        "examples": [
+          {
+            "text": "Er hat viel erreicht.",
+            "ko": "그는 많은 것을 이뤘다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erst",
+    "level": "a2",
+    "zipf": 5.76,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "first, at first",
+        "ko": "먼저, 우선",
+        "examples": [
+          {
+            "text": "Erst esse ich, dann gehe ich.",
+            "ko": "먼저 먹고, 그다음에 갈 거야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "only, as recently as (with reference to the past)",
+        "ko": "이제 막, 겨우",
+        "examples": [
+          {
+            "text": "Ich bin erst seit einer Woche hier.",
+            "ko": "나는 여기 온 지 겨우 일주일이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "not until, not for, not before (with reference to a point or period of time in the future)",
+        "ko": "~에야 비로소",
+        "examples": [
+          {
+            "text": "Der Zug kommt erst um acht Uhr.",
+            "ko": "기차는 여덟 시에야 온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "etwas",
+    "level": "a2",
+    "zipf": 5.94,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "something",
+        "ko": "무언가, 어떤 것",
+        "examples": [
+          {
+            "text": "Ich möchte etwas trinken.",
+            "ko": "나는 뭔가 마시고 싶어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "a little, a bit",
+        "ko": "조금, 약간",
+        "examples": [
+          {
+            "text": "Ich spreche etwas Deutsch.",
+            "ko": "나는 독일어를 조금 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "somewhat, slightly",
+        "ko": "다소, 약간",
+        "examples": [
+          {
+            "text": "Heute ist es etwas kälter.",
+            "ko": "오늘은 좀 더 추워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

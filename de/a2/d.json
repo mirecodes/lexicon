@@ -1,0 +1,690 @@
+[
+  {
+    "word": "dabei",
+    "level": "a2",
+    "zipf": 5.8,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "da|stem",
+      "bei|stem"
+    ],
+    "senses": [
+      {
+        "en": "with one, on one",
+        "ko": "갖고 있는, 지니고",
+        "examples": [
+          {
+            "text": "Ich habe meinen Ausweis dabei.",
+            "ko": "나는 신분증을 갖고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "in the process of",
+        "ko": "~하는 중인",
+        "examples": [
+          {
+            "text": "Ich bin gerade dabei zu kochen.",
+            "ko": "나는 지금 요리하는 중이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "indeed, (but) actually (expressing a contradiction)",
+        "ko": "그런데도, 사실은",
+        "examples": [
+          {
+            "text": "Er lacht, dabei ist er traurig.",
+            "ko": "그는 웃고 있지만, 사실은 슬프다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dafür",
+    "level": "a2",
+    "zipf": 5.68,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "da|stem",
+      "für|stem"
+    ],
+    "senses": [
+      {
+        "en": "for that, for it",
+        "ko": "그것을 위해, 그 대신",
+        "examples": [
+          {
+            "text": "Ich habe kein Geld dafür.",
+            "ko": "나는 그것에 쓸 돈이 없어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "instead, at least, as a compensation",
+        "ko": "그 대신, 그 대가로",
+        "examples": [
+          {
+            "text": "Er ist langsam, dafür arbeitet er genau.",
+            "ko": "그는 느리지만 그 대신 꼼꼼하게 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "damals",
+    "level": "a2",
+    "zipf": 5.29,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "at that time (in the past); at the time, then",
+        "ko": "그때, 당시에",
+        "examples": [
+          {
+            "text": "Damals wohnte ich in München.",
+            "ko": "그때 나는 뮌헨에 살았어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dass",
+    "level": "a2",
+    "zipf": 6.69,
+    "pos": "conj",
+    "grammar": {
+      "type": "conj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "that",
+        "ko": "~라는 것",
+        "examples": [
+          {
+            "text": "Ich weiß, dass du müde bist.",
+            "ko": "네가 피곤하다는 걸 알아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "so that",
+        "ko": "~하도록",
+        "examples": [
+          {
+            "text": "Ich spreche langsam, dass du mich verstehst.",
+            "ko": "네가 알아듣도록 천천히 말할게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Datei",
+    "level": "a2",
+    "zipf": 4.1,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Dateien",
+      "genitive": "Datei"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "file",
+        "ko": "파일",
+        "examples": [
+          {
+            "text": "Ich speichere die Datei auf dem Computer.",
+            "ko": "나는 파일을 컴퓨터에 저장한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "denken",
+    "level": "a2",
+    "zipf": 5.23,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "denkt",
+      "past": "dachte",
+      "pp": "gedacht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to think, to believe, to assume, to conjecture",
+        "ko": "생각하다",
+        "examples": [
+          {
+            "text": "Ich denke, das ist eine gute Idee.",
+            "ko": "나는 그게 좋은 생각이라고 생각해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to imagine",
+        "ko": "상상하다",
+        "examples": [
+          {
+            "text": "Denk dir, ich habe im Lotto gewonnen!",
+            "ko": "상상해 봐, 내가 복권에 당첨됐어!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "not to forget; to remember",
+        "ko": "~을 떠올리다, 잊지 않다",
+        "examples": [
+          {
+            "text": "Denk bitte an den Termin.",
+            "ko": "약속 잊지 마.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "deshalb",
+    "level": "a2",
+    "zipf": 5.39,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "therefore; for that (reason), because of that",
+        "ko": "그래서, 그 때문에",
+        "examples": [
+          {
+            "text": "Es regnet, deshalb bleibe ich zu Hause.",
+            "ko": "비가 와서 나는 집에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "deutlich",
+    "level": "a2",
+    "zipf": 5.3,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "deutlicher",
+      "superlative": "am deutlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "articulate, clear",
+        "ko": "분명한, 또렷한",
+        "examples": [
+          {
+            "text": "Bitte sprechen Sie deutlich.",
+            "ko": "또렷하게 말해 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "considerable",
+        "ko": "뚜렷한, 상당한",
+        "examples": [
+          {
+            "text": "Es ist deutlich kälter geworden.",
+            "ko": "눈에 띄게 추워졌어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dick",
+    "level": "a2",
+    "zipf": 4.41,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "dicker",
+      "superlative": "am dicksten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "thick",
+        "ko": "두꺼운",
+        "examples": [
+          {
+            "text": "Das Buch ist sehr dick.",
+            "ko": "그 책은 아주 두꺼워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "fat",
+        "ko": "뚱뚱한",
+        "examples": [
+          {
+            "text": "Die Katze ist dick.",
+            "ko": "그 고양이는 뚱뚱해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ding",
+    "level": "a2",
+    "zipf": 4.8,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Dinge",
+      "genitive": "Dinges"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "thing",
+        "ko": "물건, 것",
+        "examples": [
+          {
+            "text": "Was ist das für ein Ding?",
+            "ko": "이게 무슨 물건이야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "direkt",
+    "level": "a2",
+    "zipf": 5.34,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "direkter",
+      "superlative": "am direktesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "direct, straight, without deviation or interruption",
+        "ko": "직접의, 곧바로",
+        "examples": [
+          {
+            "text": "Der Zug fährt direkt nach Hamburg.",
+            "ko": "그 기차는 함부르크까지 직행한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "direct, candid, forthright (of a person, conversation)",
+        "ko": "솔직한",
+        "examples": [
+          {
+            "text": "Sie ist sehr direkt.",
+            "ko": "그녀는 아주 솔직해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "diskutieren",
+    "level": "a2",
+    "zipf": 4.4,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "diskutiert",
+      "past": "diskutierte",
+      "pp": "diskutiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to discuss",
+        "ko": "토론하다, 논의하다",
+        "examples": [
+          {
+            "text": "Wir diskutieren über das Thema.",
+            "ko": "우리는 그 주제에 대해 토론한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "doch",
+    "level": "a2",
+    "zipf": 6.22,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "yes (contradicting a negative question or statement)",
+        "ko": "아니야, 그렇지 않아 (부정 반박)",
+        "examples": [
+          {
+            "text": "Kommst du nicht? – Doch, ich komme!",
+            "ko": "안 와? – 아니, 갈 거야!",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "after all; yet; however; nevertheless",
+        "ko": "그래도, 하지만",
+        "examples": [
+          {
+            "text": "Ich wollte nicht, aber ich bin doch gegangen.",
+            "ko": "안 가려고 했지만 결국 갔어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "indicates proposal; why don't you/we",
+        "ko": "~하자, ~하지 그래",
+        "examples": [
+          {
+            "text": "Komm doch mit!",
+            "ko": "같이 가자!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dringend",
+    "level": "a2",
+    "zipf": 4.6,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "dringender",
+      "superlative": "am dringendsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "urgent",
+        "ko": "긴급한, 급한",
+        "examples": [
+          {
+            "text": "Ich brauche dringend deine Hilfe.",
+            "ko": "네 도움이 급하게 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "drinnen",
+    "level": "a2",
+    "zipf": 4.13,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "inside (a room)",
+        "ko": "안에, 실내에",
+        "examples": [
+          {
+            "text": "Es regnet, wir bleiben drinnen.",
+            "ko": "비가 와서 우리는 안에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "drüben",
+    "level": "a2",
+    "zipf": 3.94,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "over there",
+        "ko": "저쪽에, 건너편에",
+        "examples": [
+          {
+            "text": "Drüben steht mein Auto.",
+            "ko": "저쪽에 내 차가 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dumm",
+    "level": "a2",
+    "zipf": 4.76,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "dümmer",
+      "superlative": "am dümmsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "dumb, stupid",
+        "ko": "어리석은, 멍청한",
+        "examples": [
+          {
+            "text": "Das war ein dummer Fehler.",
+            "ko": "그건 어리석은 실수였어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dunkel",
+    "level": "a2",
+    "zipf": 4.43,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "dunkler",
+      "superlative": "am dunkelsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "dark",
+        "ko": "어두운",
+        "examples": [
+          {
+            "text": "Im Winter ist es früh dunkel.",
+            "ko": "겨울에는 일찍 어두워져.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "deep",
+        "ko": "짙은",
+        "examples": [
+          {
+            "text": "Sie trägt ein dunkles Kleid.",
+            "ko": "그녀는 짙은 색 원피스를 입고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "vague, faint",
+        "ko": "희미한, 막연한",
+        "examples": [
+          {
+            "text": "Ich habe nur eine dunkle Erinnerung daran.",
+            "ko": "그것에 대해 어렴풋한 기억만 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dünn",
+    "level": "a2",
+    "zipf": 4.09,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "dünner",
+      "superlative": "am dünnsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "thin, slender, slim",
+        "ko": "얇은, 마른",
+        "examples": [
+          {
+            "text": "Das Papier ist sehr dünn.",
+            "ko": "그 종이는 아주 얇아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

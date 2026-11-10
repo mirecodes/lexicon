@@ -1,0 +1,1125 @@
+[
+  {
+    "word": "Magen",
+    "level": "a2",
+    "zipf": 4.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Mägen",
+      "genitive": "Magens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "stomach, maw",
+        "ko": "위, 배",
+        "examples": [
+          {
+            "text": "Mein Magen tut weh.",
+            "ko": "배가 아파.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mailbox",
+    "level": "a2",
+    "zipf": 3.04,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mailboxen",
+      "genitive": "Mailbox"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "mailbox, voice mailbox",
+        "ko": "음성 사서함, 메일함",
+        "examples": [
+          {
+            "text": "Ich spreche dir auf die Mailbox.",
+            "ko": "네 음성 사서함에 남길게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mal",
+    "level": "a2",
+    "zipf": 6.28,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "time (as in the first time; many times)",
+        "ko": "번, 회",
+        "examples": [
+          {
+            "text": "Zum ersten Mal bin ich in Berlin.",
+            "ko": "나는 베를린에 처음 와 봤어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "just, once (softens a request)",
+        "ko": "한번, 좀",
+        "examples": [
+          {
+            "text": "Komm mal her!",
+            "ko": "이리 좀 와 봐!",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "times (in multiplication)",
+        "ko": "곱하기",
+        "examples": [
+          {
+            "text": "Zwei mal drei ist sechs.",
+            "ko": "2 곱하기 3은 6이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "malen",
+    "level": "a2",
+    "zipf": 4.11,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "malt",
+      "past": "malte",
+      "pp": "gemalt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to paint (create a painting)",
+        "ko": "(그림을) 그리다",
+        "examples": [
+          {
+            "text": "Sie malt ein Bild.",
+            "ko": "그녀는 그림을 그려.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to paint (do paintwork)",
+        "ko": "페인트칠하다",
+        "examples": [
+          {
+            "text": "Wir malen die Wand weiß.",
+            "ko": "우리는 벽을 하얗게 칠해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "manch",
+    "level": "a2",
+    "zipf": 3.93,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "many a; many; some",
+        "ko": "몇몇의, 어떤",
+        "examples": [
+          {
+            "text": "Manche Leute trinken keinen Kaffee.",
+            "ko": "어떤 사람들은 커피를 안 마셔.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "manchmal",
+    "level": "a2",
+    "zipf": 5.19,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "manch|stem",
+      "Mal|stem"
+    ],
+    "senses": [
+      {
+        "en": "sometimes",
+        "ko": "가끔, 때때로",
+        "examples": [
+          {
+            "text": "Manchmal gehe ich zu Fuß.",
+            "ko": "가끔 나는 걸어서 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mannschaft",
+    "level": "a2",
+    "zipf": 4.93,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mannschaften",
+      "genitive": "Mannschaft"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Mann|stem",
+      "-schaft|suffix"
+    ],
+    "senses": [
+      {
+        "en": "team (group of people)",
+        "ko": "팀",
+        "examples": [
+          {
+            "text": "Unsere Mannschaft hat gewonnen.",
+            "ko": "우리 팀이 이겼어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mantel",
+    "level": "a2",
+    "zipf": 4.04,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Mäntel",
+      "genitive": "Mantels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "coat, overcoat (long jacket that covers at least part of the thighs)",
+        "ko": "코트",
+        "examples": [
+          {
+            "text": "Im Winter trage ich einen Mantel.",
+            "ko": "겨울에 나는 코트를 입어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Markt",
+    "level": "a2",
+    "zipf": 4.99,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Märkte",
+      "genitive": "Marktes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "market (gathering for sale and purchase)",
+        "ko": "시장",
+        "examples": [
+          {
+            "text": "Ich kaufe Gemüse auf dem Markt.",
+            "ko": "나는 시장에서 채소를 사.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "market, large shop",
+        "ko": "마트, 큰 가게",
+        "examples": [
+          {
+            "text": "Der Markt an der Ecke hat lange geöffnet.",
+            "ko": "모퉁이 마트는 늦게까지 열어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Medikament",
+    "level": "a2",
+    "zipf": 3.77,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Medikamente",
+      "genitive": "Medikamentes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "drug, medicine",
+        "ko": "약, 의약품",
+        "examples": [
+          {
+            "text": "Der Arzt gibt mir ein Medikament.",
+            "ko": "의사가 나에게 약을 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "meinen",
+    "level": "a2",
+    "zipf": 5.52,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "meint",
+      "past": "meinte",
+      "pp": "gemeint",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to opine, to think; to believe; to suppose",
+        "ko": "~라고 생각하다",
+        "examples": [
+          {
+            "text": "Ich meine, das ist eine gute Idee.",
+            "ko": "내 생각에 그건 좋은 생각이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to mean; to have in mind; to convey",
+        "ko": "의미하다, 뜻하다",
+        "examples": [
+          {
+            "text": "Was meinst du damit?",
+            "ko": "그게 무슨 뜻이야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Meinung",
+    "level": "a2",
+    "zipf": 5.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Meinungen",
+      "genitive": "Meinung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "meinen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "opinion",
+        "ko": "의견, 생각",
+        "examples": [
+          {
+            "text": "Meiner Meinung nach ist das richtig.",
+            "ko": "내 생각에는 그게 맞아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "meistens",
+    "level": "a2",
+    "zipf": 4.64,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "most often, usually, normally (most of the time)",
+        "ko": "대개, 보통",
+        "examples": [
+          {
+            "text": "Ich esse meistens zu Hause.",
+            "ko": "나는 대개 집에서 먹어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Menge",
+    "level": "a2",
+    "zipf": 5.06,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mengen",
+      "genitive": "Menge"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "quantity",
+        "ko": "양",
+        "examples": [
+          {
+            "text": "Die Menge ist zu groß.",
+            "ko": "양이 너무 많아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "multitude",
+        "ko": "많음, 다수",
+        "examples": [
+          {
+            "text": "Ich habe eine Menge Arbeit.",
+            "ko": "나는 할 일이 많아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "crowd, gathering of people",
+        "ko": "군중, 인파",
+        "examples": [
+          {
+            "text": "Eine Menge wartet vor dem Stadion.",
+            "ko": "인파가 경기장 앞에서 기다리고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "merken",
+    "level": "a2",
+    "zipf": 4.42,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "merkt",
+      "past": "merkte",
+      "pp": "gemerkt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to notice, to sense, to be able to tell (the difference in a situation or state)",
+        "ko": "알아차리다",
+        "examples": [
+          {
+            "text": "Ich merke den Unterschied nicht.",
+            "ko": "나는 차이를 모르겠어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to memorize, remember, learn",
+        "ko": "기억해 두다",
+        "examples": [
+          {
+            "text": "Merk dir die Nummer!",
+            "ko": "이 번호 기억해 둬!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Messe",
+    "level": "a2",
+    "zipf": 4.42,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Messen",
+      "genitive": "Messe"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fair (trade exhibition)",
+        "ko": "박람회",
+        "examples": [
+          {
+            "text": "Wir besuchen die Messe in Frankfurt.",
+            "ko": "우리는 프랑크푸르트 박람회에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "mass, the eucharistic liturgy",
+        "ko": "미사",
+        "examples": [
+          {
+            "text": "Sonntags geht sie in die Messe.",
+            "ko": "일요일마다 그녀는 미사에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Messer",
+    "level": "a2",
+    "zipf": 4.49,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Messer",
+      "genitive": "Messers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "knife",
+        "ko": "칼, 나이프",
+        "examples": [
+          {
+            "text": "Das Messer ist sehr scharf.",
+            "ko": "그 칼은 아주 날카로워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mindestens",
+    "level": "a2",
+    "zipf": 5.06,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "at least (at a lower limit)",
+        "ko": "적어도, 최소한",
+        "examples": [
+          {
+            "text": "Das dauert mindestens eine Stunde.",
+            "ko": "그건 적어도 한 시간 걸려.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mineralwasser",
+    "level": "a2",
+    "zipf": 3.49,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Mineralwassers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Mineral|stem",
+      "Wasser|stem"
+    ],
+    "senses": [
+      {
+        "en": "mineral water, carbonated water",
+        "ko": "생수, 탄산수",
+        "examples": [
+          {
+            "text": "Ein Mineralwasser, bitte.",
+            "ko": "탄산수 한 잔 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mitarbeiter",
+    "level": "a2",
+    "zipf": 5.07,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Mitarbeiter",
+      "genitive": "Mitarbeiters"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "mit|stem",
+      "Arbeiter|stem"
+    ],
+    "senses": [
+      {
+        "en": "employee (person who works, together with others, in a particular business or institution)",
+        "ko": "직원, 동료",
+        "examples": [
+          {
+            "text": "Unsere Mitarbeiter sind sehr nett.",
+            "ko": "우리 직원들은 아주 친절해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mittagessen",
+    "level": "a2",
+    "zipf": 4.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Mittagessen",
+      "genitive": "Mittagessens"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Mittag|stem",
+      "Essen|stem"
+    ],
+    "senses": [
+      {
+        "en": "lunch",
+        "ko": "점심 식사",
+        "examples": [
+          {
+            "text": "Das Mittagessen ist um zwölf Uhr.",
+            "ko": "점심 식사는 열두 시야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mittel",
+    "level": "a2",
+    "zipf": 4.84,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Mittel",
+      "genitive": "Mittels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "medicament, remedy",
+        "ko": "약, 치료제",
+        "examples": [
+          {
+            "text": "Dieses Mittel hilft gegen Husten.",
+            "ko": "이 약은 기침에 잘 들어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "means",
+        "ko": "수단, 방법",
+        "examples": [
+          {
+            "text": "Das ist ein gutes Mittel zum Lernen.",
+            "ko": "그건 공부에 좋은 방법이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "funds, capital",
+        "ko": "자금, 돈",
+        "examples": [
+          {
+            "text": "Uns fehlen die Mittel.",
+            "ko": "우리는 자금이 부족해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mobiltelefon",
+    "level": "a2",
+    "zipf": 3.43,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Mobiltelefone",
+      "genitive": "Mobiltelefones"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "mobil|stem",
+      "Telefon|stem"
+    ],
+    "senses": [
+      {
+        "en": "mobile phone (a portable telephone)",
+        "ko": "휴대전화",
+        "examples": [
+          {
+            "text": "Ich rufe dich mit dem Mobiltelefon an.",
+            "ko": "휴대전화로 전화할게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mode",
+    "level": "a2",
+    "zipf": 4.39,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Moden",
+      "genitive": "Mode"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fashion, trend",
+        "ko": "패션, 유행",
+        "examples": [
+          {
+            "text": "Diese Jacke ist gerade in Mode.",
+            "ko": "이 재킷이 요즘 유행이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "modern",
+    "level": "a2",
+    "zipf": 4.24,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "modert",
+      "past": "moderte",
+      "pp": "gemodert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "modern, up-to-date",
+        "ko": "현대적인, 최신의",
+        "examples": [
+          {
+            "text": "Die Wohnung ist sehr modern.",
+            "ko": "그 집은 아주 현대적이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to rot, to molder",
+        "ko": "썩다",
+        "examples": [
+          {
+            "text": "Das Holz modert im Keller.",
+            "ko": "나무가 지하실에서 썩고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Motor",
+    "level": "a2",
+    "zipf": 4.47,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Motoren",
+      "genitive": "Motors"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "engine (mechanical device)",
+        "ko": "엔진, 모터",
+        "examples": [
+          {
+            "text": "Der Motor ist sehr laut.",
+            "ko": "엔진이 아주 시끄러워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Motorroller",
+    "level": "a2",
+    "zipf": 2.94,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Motorroller",
+      "genitive": "Motorrollers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Motor|stem",
+      "Roller|stem"
+    ],
+    "senses": [
+      {
+        "en": "scooter (motor-scooter)",
+        "ko": "스쿠터",
+        "examples": [
+          {
+            "text": "Er fährt mit dem Motorroller zur Arbeit.",
+            "ko": "그는 스쿠터로 출근해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Museum",
+    "level": "a2",
+    "zipf": 4.71,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Museen",
+      "genitive": "Museums"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "museum (building or institution dedicated to the protection and exhibition of items with scientific, historical, cultural or artistic value)",
+        "ko": "박물관, 미술관",
+        "examples": [
+          {
+            "text": "Am Sonntag gehen wir ins Museum.",
+            "ko": "일요일에 우리는 박물관에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Musik",
+    "level": "a2",
+    "zipf": 5.32,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Musik"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "music",
+        "ko": "음악",
+        "examples": [
+          {
+            "text": "Ich höre gern Musik.",
+            "ko": "나는 음악 듣는 걸 좋아해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "music as a school subject, musical instruction",
+        "ko": "음악 수업",
+        "examples": [
+          {
+            "text": "Wir haben jetzt Musik.",
+            "ko": "우리는 지금 음악 시간이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Müll",
+    "level": "a2",
+    "zipf": 4.41,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Mülles"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "rubbish, refuse, waste, junk, trash (US), garbage (US)",
+        "ko": "쓰레기",
+        "examples": [
+          {
+            "text": "Der Müll ist in der Tonne.",
+            "ko": "쓰레기는 쓰레기통에 있어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "nonsense",
+        "ko": "헛소리",
+        "examples": [
+          {
+            "text": "Das ist doch Müll!",
+            "ko": "그건 정말 헛소리야!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mütze",
+    "level": "a2",
+    "zipf": 3.86,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mützen",
+      "genitive": "Mütze"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cap",
+        "ko": "모자",
+        "examples": [
+          {
+            "text": "Im Winter trage ich eine Mütze.",
+            "ko": "겨울에는 모자를 써요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

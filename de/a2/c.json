@@ -1,0 +1,180 @@
+[
+  {
+    "word": "Cafeteria",
+    "level": "a2",
+    "zipf": 3.33,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Cafeterien",
+      "genitive": "Cafeteria"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cafeteria",
+        "ko": "구내식당, 카페테리아",
+        "examples": [
+          {
+            "text": "Wir essen in der Cafeteria.",
+            "ko": "우리는 구내식당에서 먹어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "chatten",
+    "level": "a2",
+    "zipf": 3.38,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "chattet",
+      "past": "chattete",
+      "pp": "gechattet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to chat",
+        "ko": "채팅하다",
+        "examples": [
+          {
+            "text": "Ich chatte abends mit Freunden.",
+            "ko": "나는 저녁에 친구들과 채팅해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Club",
+    "level": "a2",
+    "zipf": 4.82,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Clubs",
+      "genitive": "Clubs"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "club (association of members)",
+        "ko": "동호회, 클럽",
+        "examples": [
+          {
+            "text": "Er ist Mitglied in einem Tennisclub.",
+            "ko": "그는 테니스 클럽 회원이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "club (nightclub, discotheque)",
+        "ko": "나이트클럽",
+        "examples": [
+          {
+            "text": "Am Samstag gehen wir in einen Club.",
+            "ko": "토요일에 우리는 클럽에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Comic",
+    "level": "a2",
+    "zipf": 4.11,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n",
+        "m"
+      ],
+      "plural": "Comics",
+      "genitive": "Comic"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "comic, comic strip or comic book",
+        "ko": "만화",
+        "examples": [
+          {
+            "text": "Mein Sohn liest gern Comics.",
+            "ko": "내 아들은 만화책 읽는 걸 좋아해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Creme",
+    "level": "a2",
+    "zipf": 3.71,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Cremes",
+      "genitive": "Creme"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cream (medicine)",
+        "ko": "크림 (바르는 약·화장품)",
+        "examples": [
+          {
+            "text": "Ich nehme die Creme für meine Hände.",
+            "ko": "나는 손에 크림을 바른다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "frosting, custard",
+        "ko": "(케이크의) 크림",
+        "examples": [
+          {
+            "text": "Der Kuchen hat viel Creme.",
+            "ko": "그 케이크에는 크림이 많아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

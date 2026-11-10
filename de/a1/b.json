@@ -1,0 +1,2368 @@
+[
+  {
+    "word": "Baby",
+    "level": "a1",
+    "zipf": 4.71,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Babys",
+      "genitive": "Babys"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "baby (infant)",
+        "ko": "아기",
+        "examples": [
+          {
+            "text": "Das Baby schläft.",
+            "ko": "아기가 자고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bad",
+    "level": "a1",
+    "zipf": 5.06,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Bäder",
+      "genitive": "Bades"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "bathroom",
+        "ko": "욕실",
+        "examples": [
+          {
+            "text": "Das Bad ist neben der Küche.",
+            "ko": "욕실은 부엌 옆에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "bath",
+        "ko": "목욕",
+        "examples": [
+          {
+            "text": "Ich nehme ein Bad.",
+            "ko": "나는 목욕을 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "pool, baths",
+        "ko": "수영장",
+        "examples": [
+          {
+            "text": "Am Sonntag gehen wir ins Bad.",
+            "ko": "일요일에 우리는 수영장에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "baden",
+    "level": "a1",
+    "zipf": 4.85,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "badet",
+      "past": "badete",
+      "pp": "gebadet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to bathe, to give a bath to or have a bath.",
+        "ko": "목욕하다",
+        "examples": [
+          {
+            "text": "Ich bade jeden Abend.",
+            "ko": "나는 매일 저녁 목욕해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to swim, to go for a swim",
+        "ko": "수영하다",
+        "examples": [
+          {
+            "text": "Im Sommer baden wir im See.",
+            "ko": "여름에 우리는 호수에서 수영해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bahn",
+    "level": "a1",
+    "zipf": 5.04,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bahnen",
+      "genitive": "Bahn"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "railway/railroad or rail transport",
+        "ko": "철도",
+        "examples": [
+          {
+            "text": "Ich fahre mit der Bahn nach Berlin.",
+            "ko": "나는 기차로 베를린에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "short for Eisenbahn a vehicle in rail transport (especially a regional commuter train or tram, otherwise more often Zug or Tram)",
+        "ko": "전철, 전차",
+        "examples": [
+          {
+            "text": "Die Bahn kommt gleich.",
+            "ko": "전철이 곧 와.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bahnhof",
+    "level": "a1",
+    "zipf": 4.67,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Bahnhöfe",
+      "genitive": "Bahnhofs"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Bahn|stem",
+      "Hof|stem"
+    ],
+    "senses": [
+      {
+        "en": "railway depot, railroad station, railway station, train station",
+        "ko": "기차역",
+        "examples": [
+          {
+            "text": "Der Bahnhof ist nicht weit.",
+            "ko": "기차역은 멀지 않아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bahnsteig",
+    "level": "a1",
+    "zipf": 3.64,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Bahnsteige",
+      "genitive": "Bahnsteiges"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Bahn|stem",
+      "Steig|stem"
+    ],
+    "senses": [
+      {
+        "en": "train platform",
+        "ko": "승강장",
+        "examples": [
+          {
+            "text": "Der Zug fährt von Bahnsteig drei ab.",
+            "ko": "기차는 3번 승강장에서 출발해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bald",
+    "level": "a1",
+    "zipf": 5.31,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "soon (near in time)",
+        "ko": "곧, 머지않아",
+        "examples": [
+          {
+            "text": "Der Bus kommt bald.",
+            "ko": "버스가 곧 와.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Balkon",
+    "level": "a1",
+    "zipf": 4.19,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Balkone",
+      "genitive": "Balkons"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "balcony (an accessible structure extending from a building, especially outside a window or overlooking a stage)",
+        "ko": "발코니",
+        "examples": [
+          {
+            "text": "Wir sitzen auf dem Balkon.",
+            "ko": "우리는 발코니에 앉아 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Banane",
+    "level": "a1",
+    "zipf": 3.66,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bananen",
+      "genitive": "Banane"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "banana (fruit or tree)",
+        "ko": "바나나",
+        "examples": [
+          {
+            "text": "Ich esse eine Banane zum Frühstück.",
+            "ko": "나는 아침으로 바나나를 먹어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bank",
+    "level": "a1",
+    "zipf": 4.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Banken",
+      "genitive": "Bank"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "bank (financial institution)",
+        "ko": "은행",
+        "examples": [
+          {
+            "text": "Die Bank macht um neun Uhr auf.",
+            "ko": "은행은 아홉 시에 문을 열어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "bench (which people sit on); pew",
+        "ko": "벤치, 긴 의자",
+        "examples": [
+          {
+            "text": "Wir sitzen auf einer Bank im Park.",
+            "ko": "우리는 공원 벤치에 앉아 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bar",
+    "level": "a1",
+    "zipf": 4.55,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cash (paid in cash)",
+        "ko": "현금의, 현금으로",
+        "examples": [
+          {
+            "text": "Ich bezahle bar.",
+            "ko": "나는 현금으로 계산해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "night club (pub)",
+        "ko": "바, 술집",
+        "examples": [
+          {
+            "text": "Abends gehen wir in eine Bar.",
+            "ko": "저녁에 우리는 바에 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bauch",
+    "level": "a1",
+    "zipf": 4.37,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Bäuche",
+      "genitive": "Bauches"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "abdomen, belly",
+        "ko": "배",
+        "examples": [
+          {
+            "text": "Mein Bauch tut weh.",
+            "ko": "배가 아파.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Baum",
+    "level": "a1",
+    "zipf": 4.62,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Bäume",
+      "genitive": "Baumes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "tree",
+        "ko": "나무",
+        "examples": [
+          {
+            "text": "Im Garten steht ein großer Baum.",
+            "ko": "정원에 큰 나무가 한 그루 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Beamte",
+    "level": "a1",
+    "zipf": 4.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "civil servant, official",
+        "ko": "공무원",
+        "examples": [
+          {
+            "text": "Der Beamte hilft mir am Schalter.",
+            "ko": "그 공무원이 창구에서 나를 도와줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bedeuten",
+    "level": "a1",
+    "zipf": 4.52,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "bedeutet",
+      "past": "bedeutete",
+      "pp": "bedeutet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "deuten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to imply, to mean, to signify, to indicate, to spell, to betoken",
+        "ko": "의미하다",
+        "examples": [
+          {
+            "text": "Was bedeutet dieses Wort?",
+            "ko": "이 단어는 무슨 뜻이야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to have meaning, to be important to some degree (to a person)",
+        "ko": "중요하다",
+        "examples": [
+          {
+            "text": "Du bedeutest mir viel.",
+            "ko": "너는 나한테 소중해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beginnen",
+    "level": "a1",
+    "zipf": 4.69,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "beginnt",
+      "past": "begann",
+      "pp": "begonnen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to begin; to commence; to be started",
+        "ko": "시작하다",
+        "examples": [
+          {
+            "text": "Der Film beginnt um acht Uhr.",
+            "ko": "영화는 여덟 시에 시작해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bei",
+    "level": "a1",
+    "zipf": 6.66,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "at",
+        "ko": "~에서, ~ 집에서",
+        "examples": [
+          {
+            "text": "Ich bin bei meiner Oma.",
+            "ko": "나는 할머니 댁에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "by, near",
+        "ko": "~ 근처에",
+        "examples": [
+          {
+            "text": "Das Hotel liegt beim Bahnhof.",
+            "ko": "호텔은 기차역 근처에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "during; while; during the existence of",
+        "ko": "~하는 동안",
+        "examples": [
+          {
+            "text": "Beim Essen spreche ich nicht.",
+            "ko": "나는 먹는 동안에는 말하지 않아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beide",
+    "level": "a1",
+    "zipf": 5.38,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "both",
+        "ko": "둘 다",
+        "examples": [
+          {
+            "text": "Beide Kinder sind krank.",
+            "ko": "두 아이 모두 아파.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bein",
+    "level": "a1",
+    "zipf": 4.32,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Beine",
+      "genitive": "Beines"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "leg of a person, animal, or object",
+        "ko": "다리",
+        "examples": [
+          {
+            "text": "Mein Bein tut weh.",
+            "ko": "다리가 아파.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Beispiel",
+    "level": "a1",
+    "zipf": 5.35,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Beispiele",
+      "genitive": "Beispieles"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "example",
+        "ko": "예, 보기",
+        "examples": [
+          {
+            "text": "Kannst du mir ein Beispiel geben?",
+            "ko": "나한테 예를 하나 들어 줄래?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bekannt",
+    "level": "a1",
+    "zipf": 5.26,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "bekannter",
+      "superlative": "am bekanntesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "known, familiar",
+        "ko": "알려진, 아는",
+        "examples": [
+          {
+            "text": "Das Lied ist sehr bekannt.",
+            "ko": "그 노래는 아주 유명해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "acquainted (with someone), introduced",
+        "ko": "아는 사이인",
+        "examples": [
+          {
+            "text": "Sind Sie mit ihm bekannt?",
+            "ko": "그분과 아는 사이세요?",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bekannte",
+    "level": "a1",
+    "zipf": 4.66,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m",
+        "f"
+      ],
+      "plural": "Bekannte",
+      "genitive": "Bekannter"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "female equivalent of Bekannter: female acquaintance, female friend",
+        "ko": "(여자) 지인, 아는 사람",
+        "examples": [
+          {
+            "text": "Eine Bekannte von mir wohnt in Wien.",
+            "ko": "내 지인 한 명이 빈에 살아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bekommen",
+    "level": "a1",
+    "zipf": 5.42,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "bekommt",
+      "past": "bekam",
+      "pp": "bekommen",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "kommen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to receive; to get",
+        "ko": "받다",
+        "examples": [
+          {
+            "text": "Ich bekomme morgen ein Paket.",
+            "ko": "나는 내일 소포를 받아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to catch",
+        "ko": "(병에) 걸리다",
+        "examples": [
+          {
+            "text": "Ich bekomme eine Erkältung.",
+            "ko": "나 감기에 걸리려나 봐.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "benutzen",
+    "level": "a1",
+    "zipf": 4.67,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "benutzt",
+      "past": "benutzte",
+      "pp": "benutzt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "nutzen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to make use (of)",
+        "ko": "사용하다, 이용하다",
+        "examples": [
+          {
+            "text": "Ich benutze oft den Bus.",
+            "ko": "나는 자주 버스를 이용해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Beruf",
+    "level": "a1",
+    "zipf": 4.66,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Berufe",
+      "genitive": "Berufes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "occupation, profession, trade, job, career",
+        "ko": "직업",
+        "examples": [
+          {
+            "text": "Was ist dein Beruf?",
+            "ko": "네 직업이 뭐야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "besetzt",
+    "level": "a1",
+    "zipf": 4.45,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "occupied",
+        "ko": "사용 중인, 자리가 찬",
+        "examples": [
+          {
+            "text": "Der Platz ist leider besetzt.",
+            "ko": "그 자리는 안타깝게도 차 있어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "busy (of a telephone line)",
+        "ko": "통화 중인",
+        "examples": [
+          {
+            "text": "Die Leitung ist besetzt.",
+            "ko": "통화 중이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "besichtigen",
+    "level": "a1",
+    "zipf": 3.66,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "besichtigt",
+      "past": "besichtigte",
+      "pp": "besichtigt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "Sicht|stem"
+    ],
+    "senses": [
+      {
+        "en": "to visit (a city, tourist site, monument etc.)",
+        "ko": "관광하다, 둘러보다",
+        "examples": [
+          {
+            "text": "Wir besichtigen morgen das Schloss.",
+            "ko": "우리는 내일 성을 구경해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to have a look around; to view (a property)",
+        "ko": "(집을) 보러 가다",
+        "examples": [
+          {
+            "text": "Ich besichtige morgen eine Wohnung.",
+            "ko": "나는 내일 집을 보러 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "besser",
+    "level": "a1",
+    "zipf": 5.66,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "better (comparative of gut)",
+        "ko": "더 좋은, 더 나은",
+        "examples": [
+          {
+            "text": "Dieses Hotel ist besser.",
+            "ko": "이 호텔이 더 좋아.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "better (comparative of gut and wohl, as adverb)",
+        "ko": "더 잘, 더 낫게",
+        "examples": [
+          {
+            "text": "Heute geht es mir besser.",
+            "ko": "오늘은 몸이 더 나아.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "best",
+    "level": "a1",
+    "zipf": 4.46,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "best (adjective)",
+        "ko": "가장 좋은, 최고의",
+        "examples": [
+          {
+            "text": "Das ist mein bester Freund.",
+            "ko": "이 애는 내 가장 친한 친구야.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "best (adverb, usually am besten)",
+        "ko": "가장 잘",
+        "examples": [
+          {
+            "text": "Hier schmeckt es am besten.",
+            "ko": "여기가 가장 맛있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bestellen",
+    "level": "a1",
+    "zipf": 4.43,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "bestellt",
+      "past": "bestellte",
+      "pp": "bestellt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "stellen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to order (e.g. food at a restaurant, items for delivery)",
+        "ko": "주문하다",
+        "examples": [
+          {
+            "text": "Ich bestelle einen Kaffee.",
+            "ko": "나는 커피를 주문해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to reserve (e.g. a table, hotel room)",
+        "ko": "예약하다",
+        "examples": [
+          {
+            "text": "Ich bestelle einen Tisch für vier Personen.",
+            "ko": "나는 네 명이 앉을 테이블을 예약해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to convey to, to send to (a message, greetings)",
+        "ko": "(안부를) 전하다",
+        "examples": [
+          {
+            "text": "Bestell deiner Mutter schöne Grüße!",
+            "ko": "어머니께 안부 전해 줘!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "besuchen",
+    "level": "a1",
+    "zipf": 4.67,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "besucht",
+      "past": "besuchte",
+      "pp": "besucht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "suchen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to visit, to see",
+        "ko": "방문하다",
+        "examples": [
+          {
+            "text": "Ich besuche am Sonntag meine Oma.",
+            "ko": "나는 일요일에 할머니를 찾아뵈어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to attend",
+        "ko": "(수업 등에) 다니다",
+        "examples": [
+          {
+            "text": "Ich besuche einen Deutschkurs.",
+            "ko": "나는 독일어 수업에 다녀.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bett",
+    "level": "a1",
+    "zipf": 4.94,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Betten",
+      "genitive": "Bettes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "bed (piece of furniture, usually flat and soft, for resting or sleeping on; one's place of sleep or rest)",
+        "ko": "침대",
+        "examples": [
+          {
+            "text": "Ich gehe früh ins Bett.",
+            "ko": "나는 일찍 자러 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bezahlen",
+    "level": "a1",
+    "zipf": 4.76,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "bezahlt",
+      "past": "bezahlte",
+      "pp": "bezahlt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "zahlen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to pay, to balance a bill",
+        "ko": "계산하다, 지불하다",
+        "examples": [
+          {
+            "text": "Ich bezahle die Rechnung.",
+            "ko": "나는 계산서를 지불해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to pay for an item",
+        "ko": "~의 값을 내다",
+        "examples": [
+          {
+            "text": "Ich bezahle das Brot an der Kasse.",
+            "ko": "나는 계산대에서 빵 값을 내.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bier",
+    "level": "a1",
+    "zipf": 4.82,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Biere",
+      "genitive": "Bieres"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "beer (alcoholic beverage fermented from starch material; a serving of this beverage)",
+        "ko": "맥주",
+        "examples": [
+          {
+            "text": "Ein Bier, bitte!",
+            "ko": "맥주 한 잔 주세요!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bild",
+    "level": "a1",
+    "zipf": 5.4,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Bilder",
+      "genitive": "Bildes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "physical image",
+        "ko": "그림, 이미지",
+        "examples": [
+          {
+            "text": "Das Bild hängt an der Wand.",
+            "ko": "그림이 벽에 걸려 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "digital photograph",
+        "ko": "사진",
+        "examples": [
+          {
+            "text": "Ich schicke dir ein Bild von dem Hund.",
+            "ko": "그 개 사진을 너한테 보낼게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "billig",
+    "level": "a1",
+    "zipf": 4.26,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "billiger",
+      "superlative": "am billigsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cheap (low-priced)",
+        "ko": "싼, 저렴한",
+        "examples": [
+          {
+            "text": "Das Brot ist billig.",
+            "ko": "이 빵은 싸.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "cheap (of low quality, mediocre)",
+        "ko": "싸구려의",
+        "examples": [
+          {
+            "text": "Die Schuhe sehen billig aus.",
+            "ko": "그 신발은 싸구려처럼 보여.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Birne",
+    "level": "a1",
+    "zipf": 3.6,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Birnen",
+      "genitive": "Birne"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pear",
+        "ko": "배(과일)",
+        "examples": [
+          {
+            "text": "Ich esse eine Birne.",
+            "ko": "나는 배를 먹어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "lightbulb",
+        "ko": "전구",
+        "examples": [
+          {
+            "text": "Die Birne ist kaputt.",
+            "ko": "전구가 나갔어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bis",
+    "level": "a1",
+    "zipf": 6.23,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "until, to, (US) through",
+        "ko": "~까지",
+        "examples": [
+          {
+            "text": "Ich arbeite bis fünf Uhr.",
+            "ko": "나는 다섯 시까지 일해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to; all the way to",
+        "ko": "~까지(장소)",
+        "examples": [
+          {
+            "text": "Ich fahre bis Berlin.",
+            "ko": "나는 베를린까지 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "by",
+        "ko": "~까지(기한)",
+        "examples": [
+          {
+            "text": "Ich brauche das bis Freitag.",
+            "ko": "나는 이게 금요일까지 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bisschen",
+    "level": "a1",
+    "zipf": 5.23,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "(a) bit; (a) little",
+        "ko": "조금",
+        "examples": [
+          {
+            "text": "Ich spreche ein bisschen Deutsch.",
+            "ko": "나는 독일어를 조금 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bitte",
+    "level": "a1",
+    "zipf": 5.7,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bitten",
+      "genitive": "Bitte"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "request, plea",
+        "ko": "부탁",
+        "examples": [
+          {
+            "text": "Ich habe eine Bitte an dich.",
+            "ko": "너한테 부탁이 하나 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bitte",
+    "level": "a1",
+    "zipf": 5.7,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "please",
+        "ko": "제발, 부탁합니다",
+        "examples": [
+          {
+            "text": "Einen Kaffee, bitte.",
+            "ko": "커피 한 잔 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "you are welcome",
+        "ko": "천만에요",
+        "examples": [
+          {
+            "text": "Danke! – Bitte!",
+            "ko": "고마워! – 천만에!",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "here you are, go ahead",
+        "ko": "자, 여기요",
+        "examples": [
+          {
+            "text": "Bitte, hier ist dein Schlüssel.",
+            "ko": "자, 여기 네 열쇠.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bitten",
+    "level": "a1",
+    "zipf": 4.51,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "bittet",
+      "past": "bat",
+      "pp": "gebeten",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to ask, to beg, to plead, to bid, to request",
+        "ko": "부탁하다",
+        "examples": [
+          {
+            "text": "Ich bitte dich um Hilfe.",
+            "ko": "나는 너에게 도움을 부탁해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to ask, to invite",
+        "ko": "청하다, 초대하다",
+        "examples": [
+          {
+            "text": "Er bittet uns zum Essen.",
+            "ko": "그는 우리를 식사에 초대해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bitter",
+    "level": "a1",
+    "zipf": 4.06,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "bitterer",
+      "superlative": "am bittersten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "bitter (having a bitter taste)",
+        "ko": "쓴",
+        "examples": [
+          {
+            "text": "Der Kaffee ist bitter.",
+            "ko": "커피가 써.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "bitter, disappointing, awful",
+        "ko": "쓰라린, 괴로운",
+        "examples": [
+          {
+            "text": "Das ist eine bittere Nachricht.",
+            "ko": "그건 쓰라린 소식이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bleiben",
+    "level": "a1",
+    "zipf": 5.37,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "bleibt",
+      "past": "blieb",
+      "pp": "geblieben",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to stay; to remain in a place",
+        "ko": "머무르다, 남다",
+        "examples": [
+          {
+            "text": "Ich bleibe heute zu Hause.",
+            "ko": "나는 오늘 집에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to remain (to continue to be)",
+        "ko": "(~인 채로) 있다",
+        "examples": [
+          {
+            "text": "Bleib ruhig!",
+            "ko": "침착해!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be left",
+        "ko": "남아 있다",
+        "examples": [
+          {
+            "text": "Es bleibt nur wenig Zeit.",
+            "ko": "시간이 거의 안 남았어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bleistift",
+    "level": "a1",
+    "zipf": 3.52,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Bleistifte",
+      "genitive": "Bleistiftes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Blei|stem",
+      "Stift|stem"
+    ],
+    "senses": [
+      {
+        "en": "pencil (writing utensil with a graphite shaft)",
+        "ko": "연필",
+        "examples": [
+          {
+            "text": "Ich schreibe mit einem Bleistift.",
+            "ko": "나는 연필로 써.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Blick",
+    "level": "a1",
+    "zipf": 5.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Blicke",
+      "genitive": "Blickes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "glance, look",
+        "ko": "눈길, 시선",
+        "examples": [
+          {
+            "text": "Wirf einen Blick auf die Karte!",
+            "ko": "지도를 한번 봐!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "view",
+        "ko": "전망",
+        "examples": [
+          {
+            "text": "Von hier hat man einen schönen Blick.",
+            "ko": "여기서는 전망이 아름다워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Blume",
+    "level": "a1",
+    "zipf": 3.94,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Blumen",
+      "genitive": "Blume"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "flower (small, often woodless plant with blossoms; a stalk thereof)",
+        "ko": "꽃",
+        "examples": [
+          {
+            "text": "Ich kaufe Blumen für meine Mutter.",
+            "ko": "나는 어머니를 위해 꽃을 사.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bogen",
+    "level": "a1",
+    "zipf": 4.19,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Bögen",
+      "genitive": "Bogens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "sheet (of paper, stamps)",
+        "ko": "(종이) 한 장",
+        "examples": [
+          {
+            "text": "Ich brauche einen Bogen Papier.",
+            "ko": "나는 종이 한 장이 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "curve, arc",
+        "ko": "곡선, 커브",
+        "examples": [
+          {
+            "text": "Die Straße macht einen Bogen.",
+            "ko": "길이 휘어져 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "brauchen",
+    "level": "a1",
+    "zipf": 5.16,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "braucht",
+      "past": "brauchte",
+      "pp": "gebraucht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to need, to be in need of, to require",
+        "ko": "필요하다",
+        "examples": [
+          {
+            "text": "Ich brauche Hilfe.",
+            "ko": "나는 도움이 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to need to, to have to",
+        "ko": "~해야 하다",
+        "examples": [
+          {
+            "text": "Du brauchst nicht zu kommen.",
+            "ko": "너는 안 와도 돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "breit",
+    "level": "a1",
+    "zipf": 4.55,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "breiter",
+      "superlative": "am breitesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "broad, wide",
+        "ko": "넓은",
+        "examples": [
+          {
+            "text": "Die Straße ist breit.",
+            "ko": "길이 넓어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Brief",
+    "level": "a1",
+    "zipf": 4.71,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Briefe",
+      "genitive": "Briefes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "letter (written message)",
+        "ko": "편지",
+        "examples": [
+          {
+            "text": "Ich schreibe einen Brief.",
+            "ko": "나는 편지를 써.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Briefmarke",
+    "level": "a1",
+    "zipf": 3.17,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Briefmarken",
+      "genitive": "Briefmarke"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Brief|stem",
+      "Marke|stem"
+    ],
+    "senses": [
+      {
+        "en": "postage stamp",
+        "ko": "우표",
+        "examples": [
+          {
+            "text": "Ich brauche eine Briefmarke.",
+            "ko": "나는 우표가 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bringen",
+    "level": "a1",
+    "zipf": 5.3,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "bringt",
+      "past": "brachte",
+      "pp": "gebracht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to bring, to fetch, to take, to convey, to bear",
+        "ko": "가져오다, 가져다주다",
+        "examples": [
+          {
+            "text": "Ich bringe dir ein Glas Wasser.",
+            "ko": "너한테 물 한 잔 가져다줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to bring, to lead, to guide, to accompany",
+        "ko": "데려다주다",
+        "examples": [
+          {
+            "text": "Ich bringe dich nach Hause.",
+            "ko": "너를 집까지 데려다줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Brot",
+    "level": "a1",
+    "zipf": 4.5,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Brote",
+      "genitive": "Brotes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "bread",
+        "ko": "빵",
+        "examples": [
+          {
+            "text": "Ich kaufe ein Brot.",
+            "ko": "나는 빵을 하나 사.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "slice of bread; sandwich",
+        "ko": "빵 한 조각, 샌드위치",
+        "examples": [
+          {
+            "text": "Er isst ein Brot mit Käse.",
+            "ko": "그는 치즈를 얹은 빵을 먹어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bruder",
+    "level": "a1",
+    "zipf": 5.01,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Brüder",
+      "genitive": "Bruders"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "brother",
+        "ko": "형, 오빠, 남동생",
+        "examples": [
+          {
+            "text": "Mein Bruder wohnt in Köln.",
+            "ko": "내 형은 쾰른에 살아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Brötchen",
+    "level": "a1",
+    "zipf": 4.01,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Brötchen",
+      "genitive": "Brötchens"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Brot|stem",
+      "-chen|suffix"
+    ],
+    "senses": [
+      {
+        "en": "a bun, bread roll",
+        "ko": "작은 빵, 롤빵",
+        "examples": [
+          {
+            "text": "Zum Frühstück esse ich ein Brötchen.",
+            "ko": "나는 아침으로 롤빵을 먹어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Buch",
+    "level": "a1",
+    "zipf": 5.22,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Bücher",
+      "genitive": "Buches"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "book (collection of sheets of paper bound together to hinge at one edge; long work fit for publication)",
+        "ko": "책",
+        "examples": [
+          {
+            "text": "Ich lese ein Buch.",
+            "ko": "나는 책을 읽어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Buchstabe",
+    "level": "a1",
+    "zipf": 3.67,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Buchstaben",
+      "genitive": "Buchstabens"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Buch|stem",
+      "Stab|stem"
+    ],
+    "senses": [
+      {
+        "en": "letter (of the alphabet)",
+        "ko": "글자, 철자",
+        "examples": [
+          {
+            "text": "Das Wort hat fünf Buchstaben.",
+            "ko": "이 단어는 다섯 글자야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "buchstabieren",
+    "level": "a1",
+    "zipf": 2.78,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "buchstabiert",
+      "past": "buchstabierte",
+      "pp": "buchstabiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Buchstabe|stem",
+      "-ieren|suffix"
+    ],
+    "senses": [
+      {
+        "en": "to spell (name the letters of a word)",
+        "ko": "철자를 말하다",
+        "examples": [
+          {
+            "text": "Können Sie Ihren Namen buchstabieren?",
+            "ko": "성함을 철자로 불러 주실 수 있나요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bus",
+    "level": "a1",
+    "zipf": 4.72,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Busse",
+      "genitive": "Busses"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "bus (public transport)",
+        "ko": "버스",
+        "examples": [
+          {
+            "text": "Der Bus kommt in fünf Minuten.",
+            "ko": "버스는 5분 뒤에 와.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Butter",
+    "level": "a1",
+    "zipf": 4.18,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "butter",
+        "ko": "버터",
+        "examples": [
+          {
+            "text": "Ich esse Brot mit Butter.",
+            "ko": "나는 버터 바른 빵을 먹어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bäckerei",
+    "level": "a1",
+    "zipf": 3.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bäckereien",
+      "genitive": "Bäckerei"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Bäcker|stem",
+      "-ei|suffix"
+    ],
+    "senses": [
+      {
+        "en": "bakery, baker’s, bakehouse, bakeshop",
+        "ko": "빵집, 제과점",
+        "examples": [
+          {
+            "text": "Die Bäckerei öffnet um sechs Uhr.",
+            "ko": "빵집은 여섯 시에 문을 열어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "böse",
+    "level": "a1",
+    "zipf": 4.74,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "böser",
+      "superlative": "am bösesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "angry",
+        "ko": "화난",
+        "examples": [
+          {
+            "text": "Bist du böse auf mich?",
+            "ko": "너 나한테 화났어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "evil; malicious; wicked",
+        "ko": "나쁜, 사악한",
+        "examples": [
+          {
+            "text": "Der Wolf im Märchen ist böse.",
+            "ko": "동화 속 늑대는 사악해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

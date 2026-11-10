@@ -1,0 +1,520 @@
+[
+  {
+    "word": "zahlen",
+    "level": "a1",
+    "zipf": 5.15,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "zahlt",
+      "past": "zahlte",
+      "pp": "gezahlt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to pay",
+        "ko": "지불하다, 계산하다",
+        "examples": [
+          {
+            "text": "Ich zahle mit Karte.",
+            "ko": "나는 카드로 계산할게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zeit",
+    "level": "a1",
+    "zipf": 5.99,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zeiten",
+      "genitive": "Zeit"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "time (as a concept)",
+        "ko": "시간",
+        "examples": [
+          {
+            "text": "Ich habe heute keine Zeit.",
+            "ko": "나는 오늘 시간이 없어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "tense",
+        "ko": "시제",
+        "examples": [
+          {
+            "text": "Das Verb steht in der Zeit Präsens.",
+            "ko": "그 동사는 현재 시제다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zeitung",
+    "level": "a1",
+    "zipf": 4.98,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zeitungen",
+      "genitive": "Zeitung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Zeit|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "newspaper",
+        "ko": "신문",
+        "examples": [
+          {
+            "text": "Mein Vater liest jeden Morgen die Zeitung.",
+            "ko": "아버지는 매일 아침 신문을 읽으셔.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zigarette",
+    "level": "a1",
+    "zipf": 3.94,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Zigaretten",
+      "genitive": "Zigarette"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cigarette",
+        "ko": "담배, 궐련",
+        "examples": [
+          {
+            "text": "Er raucht eine Zigarette.",
+            "ko": "그는 담배 한 개비를 피운다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zimmer",
+    "level": "a1",
+    "zipf": 4.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Zimmer",
+      "genitive": "Zimmers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "room (separate part of a building, enclosed by walls, a floor and a ceiling)",
+        "ko": "방",
+        "examples": [
+          {
+            "text": "Mein Zimmer ist klein.",
+            "ko": "내 방은 작아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zoll",
+    "level": "a1",
+    "zipf": 4.35,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Zölle",
+      "genitive": "Zolles"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "customs (authority collecting that duty)",
+        "ko": "세관",
+        "examples": [
+          {
+            "text": "Am Flughafen kommt zuerst der Zoll.",
+            "ko": "공항에서는 먼저 세관이 나온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "custom (duty collected at the borders)",
+        "ko": "관세",
+        "examples": [
+          {
+            "text": "Auf das Paket muss man Zoll zahlen.",
+            "ko": "그 소포에는 관세를 내야 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zu",
+    "level": "a1",
+    "zipf": 7.01,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to, toward (preposition)",
+        "ko": "~에게, ~로",
+        "examples": [
+          {
+            "text": "Ich gehe zu meiner Freundin.",
+            "ko": "나는 여자친구에게 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "shut, closed (made inaccessible or impassable; not open)",
+        "ko": "닫힌",
+        "examples": [
+          {
+            "text": "Die Tür ist zu.",
+            "ko": "문이 닫혀 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "closed (not operating or conducting trade)",
+        "ko": "문을 닫은",
+        "examples": [
+          {
+            "text": "Das Geschäft ist sonntags zu.",
+            "ko": "그 가게는 일요일에 문을 닫아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zu sein",
+    "level": "a1",
+    "zipf": 6.24,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": false,
+      "present3": "ist zu",
+      "past": "war zu",
+      "pp": "zu gewesen",
+      "aux": "sein"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to be closed",
+        "ko": "닫혀 있다",
+        "examples": [
+          {
+            "text": "Die Bank ist heute zu.",
+            "ko": "은행은 오늘 문을 닫았어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zufrieden",
+    "level": "a1",
+    "zipf": 4.78,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "zufriedener",
+      "superlative": "am zufriedensten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "satisfied, content, happy (with something)",
+        "ko": "만족한",
+        "examples": [
+          {
+            "text": "Ich bin mit dem Zimmer zufrieden.",
+            "ko": "나는 그 방에 만족해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Zug",
+    "level": "a1",
+    "zipf": 4.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Züge",
+      "genitive": "Zuges"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "train (multiple vehicles one behind the other, particularly travelling on rails)",
+        "ko": "기차",
+        "examples": [
+          {
+            "text": "Der Zug kommt um acht Uhr an.",
+            "ko": "기차는 8시에 도착한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "draught (of air)",
+        "ko": "외풍, 찬 바람",
+        "examples": [
+          {
+            "text": "Mach bitte das Fenster zu, es zieht ein Zug.",
+            "ko": "창문 좀 닫아 줘, 외풍이 들어와.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zum Beispiel",
+    "level": "a1",
+    "zipf": 5.31,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "for example, for instance",
+        "ko": "예를 들어",
+        "examples": [
+          {
+            "text": "Ich mag Obst, zum Beispiel Äpfel.",
+            "ko": "나는 과일을 좋아해, 예를 들어 사과.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zurzeit",
+    "level": "a1",
+    "zipf": 4.25,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "zu|stem",
+      "Zeit|stem"
+    ],
+    "senses": [
+      {
+        "en": "currently",
+        "ko": "현재, 지금은",
+        "examples": [
+          {
+            "text": "Ich arbeite zurzeit in Wien.",
+            "ko": "나는 지금 빈에서 일해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zurück",
+    "level": "a1",
+    "zipf": 5.57,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "back, backward, backwards, to the rear.",
+        "ko": "뒤로, 되돌아",
+        "examples": [
+          {
+            "text": "Ich bin um acht Uhr zurück.",
+            "ko": "나는 8시에 돌아와.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zusammen",
+    "level": "a1",
+    "zipf": 5.55,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "together, in the same place",
+        "ko": "함께, 같이",
+        "examples": [
+          {
+            "text": "Wir essen zusammen.",
+            "ko": "우리는 같이 먹어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "in a romantic relationship with each other",
+        "ko": "사귀는 중인",
+        "examples": [
+          {
+            "text": "Anna und Tim sind zusammen.",
+            "ko": "안나와 팀은 사귀고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "zwischen",
+    "level": "a1",
+    "zipf": 5.83,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "between",
+        "ko": "~사이에",
+        "examples": [
+          {
+            "text": "Der Tisch steht zwischen den Stühlen.",
+            "ko": "탁자는 의자들 사이에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "among, amongst",
+        "ko": "~중에, ~가운데",
+        "examples": [
+          {
+            "text": "Er sitzt zwischen den Kindern.",
+            "ko": "그는 아이들 사이에 앉아 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

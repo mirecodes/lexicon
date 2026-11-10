@@ -1,0 +1,239 @@
+[
+  {
+    "word": "ich",
+    "level": "a1",
+    "zipf": 7.08,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "I (first person singular nominative (subject) pronoun)",
+        "ko": "나",
+        "examples": [
+          {
+            "text": "Ich bin Student.",
+            "ko": "나는 대학생이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ihr",
+    "level": "a1",
+    "zipf": 6.22,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "you, ye (plural, familiar)",
+        "ko": "너희",
+        "examples": [
+          {
+            "text": "Wo wohnt ihr?",
+            "ko": "너희는 어디에 살아?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "her, their; to her",
+        "ko": "그녀의, 그들의",
+        "examples": [
+          {
+            "text": "Das ist ihr Fahrrad.",
+            "ko": "이건 그녀의 자전거다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "immer",
+    "level": "a1",
+    "zipf": 6.21,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "at all times without exception",
+        "ko": "항상, 언제나",
+        "examples": [
+          {
+            "text": "Er ist immer pünktlich.",
+            "ko": "그는 항상 시간을 잘 지킨다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to a greater degree over time, more and more",
+        "ko": "점점 더",
+        "examples": [
+          {
+            "text": "Es wird immer kälter.",
+            "ko": "점점 더 추워진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "in",
+    "level": "a1",
+    "zipf": 7.24,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "in, inside, within (a place or time)",
+        "ko": "~안에, ~에서",
+        "examples": [
+          {
+            "text": "Ich wohne in Berlin.",
+            "ko": "나는 베를린에 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "in, popular (in fashion)",
+        "ko": "유행하는, 인기 있는",
+        "examples": [
+          {
+            "text": "Diese Mütze ist gerade in.",
+            "ko": "이 모자는 요즘 유행이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Information",
+    "level": "a1",
+    "zipf": 4.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Informationen",
+      "genitive": "Information"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a piece of information; (in the plural) information, intelligence (things to be known about a topic)",
+        "ko": "정보",
+        "examples": [
+          {
+            "text": "Ich brauche mehr Informationen.",
+            "ko": "나는 더 많은 정보가 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "information desk",
+        "ko": "안내 데스크",
+        "examples": [
+          {
+            "text": "Fragen Sie bitte an der Information.",
+            "ko": "안내 데스크에 물어보세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "international",
+    "level": "a1",
+    "zipf": 4.68,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "international",
+        "ko": "국제적인",
+        "examples": [
+          {
+            "text": "Das ist ein internationaler Flughafen.",
+            "ko": "이곳은 국제공항이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Internet",
+    "level": "a1",
+    "zipf": 5.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Internets"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "internet",
+        "ko": "인터넷",
+        "examples": [
+          {
+            "text": "Im Hotel gibt es kostenloses Internet.",
+            "ko": "호텔에 무료 인터넷이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

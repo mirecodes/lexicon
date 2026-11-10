@@ -1,0 +1,4769 @@
+[
+  {
+    "word": "Badewanne",
+    "level": "b1",
+    "zipf": 3.83,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Badewannen",
+      "genitive": "Badewanne"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "baden|stem",
+      "Wanne|stem"
+    ],
+    "senses": [
+      {
+        "en": "bathtub",
+        "ko": "욕조",
+        "examples": [
+          {
+            "text": "Ich liege gern in der Badewanne.",
+            "ko": "나는 욕조에 누워 있는 것을 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ballett",
+    "level": "b1",
+    "zipf": 3.67,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Ballette",
+      "genitive": "Ballettes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ballet",
+        "ko": "발레",
+        "examples": [
+          {
+            "text": "Meine Tochter tanzt Ballett.",
+            "ko": "내 딸은 발레를 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bankleitzahl",
+    "level": "b1",
+    "zipf": 2.37,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bankleitzahlen",
+      "genitive": "Bankleitzahl"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Bank|stem",
+      "leiten|stem",
+      "Zahl|stem"
+    ],
+    "senses": [
+      {
+        "en": "bank code, (UK) sort code",
+        "ko": "은행 코드",
+        "examples": [
+          {
+            "text": "Wie lautet Ihre Bankleitzahl?",
+            "ko": "은행 코드가 어떻게 되나요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bar",
+    "level": "b1",
+    "zipf": 4.55,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bars",
+      "genitive": "Bar"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "night club (pub)",
+        "ko": "바, 술집",
+        "examples": [
+          {
+            "text": "Wir gehen am Abend in eine Bar.",
+            "ko": "우리는 저녁에 바에 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "bar (desk)",
+        "ko": "바 카운터",
+        "examples": [
+          {
+            "text": "Er sitzt an der Bar und trinkt Bier.",
+            "ko": "그는 바 카운터에 앉아 맥주를 마신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bart",
+    "level": "b1",
+    "zipf": 4.17,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Bärte",
+      "genitive": "Bartes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "beard",
+        "ko": "수염",
+        "examples": [
+          {
+            "text": "Mein Vater hat einen Bart.",
+            "ko": "우리 아버지는 수염이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Batterie",
+    "level": "b1",
+    "zipf": 3.94,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Batterien",
+      "genitive": "Batterie"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "battery",
+        "ko": "건전지, 배터리",
+        "examples": [
+          {
+            "text": "Die Batterie ist leer.",
+            "ko": "배터리가 다 됐다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bau",
+    "level": "b1",
+    "zipf": 4.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Bauten",
+      "genitive": "Baues"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "building, construction (the act of constructing)",
+        "ko": "건설, 공사",
+        "examples": [
+          {
+            "text": "Der Bau des Hauses dauert lange.",
+            "ko": "집을 짓는 데 시간이 오래 걸린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "building site, construction site (place where such constructing takes place)",
+        "ko": "공사장",
+        "examples": [
+          {
+            "text": "Mein Onkel arbeitet auf dem Bau.",
+            "ko": "우리 삼촌은 공사장에서 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bauer",
+    "level": "b1",
+    "zipf": 4.43,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Bauer",
+      "genitive": "Bauers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "farmer (male or of unspecified gender)",
+        "ko": "농부",
+        "examples": [
+          {
+            "text": "Der Bauer arbeitet auf dem Feld.",
+            "ko": "농부가 밭에서 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bauernhof",
+    "level": "b1",
+    "zipf": 3.77,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Bauernhöfe",
+      "genitive": "Bauernhofes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Bauer|stem",
+      "Hof|stem"
+    ],
+    "senses": [
+      {
+        "en": "A farm.",
+        "ko": "농장",
+        "examples": [
+          {
+            "text": "Wir machen Urlaub auf einem Bauernhof.",
+            "ko": "우리는 농장에서 휴가를 보낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beachten",
+    "level": "b1",
+    "zipf": 4.28,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "beachtet",
+      "past": "beachtete",
+      "pp": "beachtet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "achten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to note, notice, observe",
+        "ko": "주의하다, 지키다",
+        "examples": [
+          {
+            "text": "Bitte beachten Sie die Regeln.",
+            "ko": "규칙을 지켜 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Beamtin",
+    "level": "b1",
+    "zipf": 3.01,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Beamtinnen",
+      "genitive": "Beamtin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Beamter|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "civil servant, public servant (female)",
+        "ko": "여성 공무원",
+        "examples": [
+          {
+            "text": "Die Beamtin arbeitet im Rathaus.",
+            "ko": "그 여성 공무원은 시청에서 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beantragen",
+    "level": "b1",
+    "zipf": 3.98,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "beantragt",
+      "past": "beantragte",
+      "pp": "beantragt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "Antrag|stem"
+    ],
+    "senses": [
+      {
+        "en": "to apply for",
+        "ko": "신청하다",
+        "examples": [
+          {
+            "text": "Ich beantrage ein Visum.",
+            "ko": "나는 비자를 신청한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bedarf",
+    "level": "b1",
+    "zipf": 4.67,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Bedarfe",
+      "genitive": "Bedarfes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "need (that which is desired or required)",
+        "ko": "필요, 수요",
+        "examples": [
+          {
+            "text": "Bei Bedarf rufe ich dich an.",
+            "ko": "필요하면 너한테 전화할게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bedeutung",
+    "level": "b1",
+    "zipf": 4.98,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bedeutungen",
+      "genitive": "Bedeutung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "bedeuten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "meaning, sense",
+        "ko": "의미",
+        "examples": [
+          {
+            "text": "Was ist die Bedeutung dieses Wortes?",
+            "ko": "이 단어의 뜻이 뭐예요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "meaning, significance, importance",
+        "ko": "중요성",
+        "examples": [
+          {
+            "text": "Gesundheit hat eine große Bedeutung.",
+            "ko": "건강은 매우 중요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bedienen",
+    "level": "b1",
+    "zipf": 4.21,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "bedient",
+      "past": "bediente",
+      "pp": "bedient",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "dienen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to serve",
+        "ko": "시중들다, 응대하다",
+        "examples": [
+          {
+            "text": "Der Kellner bedient die Gäste.",
+            "ko": "웨이터가 손님들을 응대한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to operate",
+        "ko": "조작하다",
+        "examples": [
+          {
+            "text": "Kannst du die Maschine bedienen?",
+            "ko": "너 이 기계 다룰 줄 알아?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bedienungsanleitung",
+    "level": "b1",
+    "zipf": 2.8,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bedienungsanleitungen",
+      "genitive": "Bedienungsanleitung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Bedienung|stem",
+      "Anleitung|stem"
+    ],
+    "senses": [
+      {
+        "en": "operating manual, user's guide",
+        "ko": "사용 설명서",
+        "examples": [
+          {
+            "text": "Lies bitte die Bedienungsanleitung.",
+            "ko": "사용 설명서를 읽어 봐.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bedingung",
+    "level": "b1",
+    "zipf": 4.01,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bedingungen",
+      "genitive": "Bedingung"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "requirement, prerequisite",
+        "ko": "필수 조건",
+        "examples": [
+          {
+            "text": "Gute Deutschkenntnisse sind eine Bedingung.",
+            "ko": "좋은 독일어 실력이 조건이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "condition, term",
+        "ko": "조건, 약관",
+        "examples": [
+          {
+            "text": "Die Bedingungen finde ich fair.",
+            "ko": "나는 그 조건이 공정하다고 생각해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beeinflussen",
+    "level": "b1",
+    "zipf": 4.25,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "beeinflusst",
+      "past": "beeinflusste",
+      "pp": "beeinflusst",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "Einfluss|stem"
+    ],
+    "senses": [
+      {
+        "en": "to influence",
+        "ko": "영향을 주다",
+        "examples": [
+          {
+            "text": "Das Wetter beeinflusst meine Laune.",
+            "ko": "날씨는 내 기분에 영향을 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "befinden",
+    "level": "b1",
+    "zipf": 4.72,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "befindet",
+      "past": "befand",
+      "pp": "befunden",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "be|insep",
+      "finden|stem"
+    ],
+    "senses": [
+      {
+        "en": "to be located, to be (somewhere)",
+        "ko": "(어디에) 있다, 위치하다",
+        "examples": [
+          {
+            "text": "Das Hotel befindet sich in der Stadtmitte.",
+            "ko": "호텔은 시내 중심에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "befreit",
+    "level": "b1",
+    "zipf": 4.28,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "freed from something, liberated",
+        "ko": "해방된",
+        "examples": [
+          {
+            "text": "Nach der Prüfung fühlte er sich befreit.",
+            "ko": "시험이 끝나자 그는 홀가분함을 느꼈어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "relieved, exempt (e.g. from a duty or fee)",
+        "ko": "면제된",
+        "examples": [
+          {
+            "text": "Kinder sind von der Gebühr befreit.",
+            "ko": "어린이는 요금이 면제돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "befriedigend",
+    "level": "b1",
+    "zipf": 3.35,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "befriedigender",
+      "superlative": "am befriedigendsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "satisfying",
+        "ko": "만족스러운",
+        "examples": [
+          {
+            "text": "Das Ergebnis ist befriedigend.",
+            "ko": "결과가 만족스러워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "the number grade 3 (on a scale from 1 to 6)",
+        "ko": "(성적) 보통, 3등급",
+        "examples": [
+          {
+            "text": "Ich habe in Deutsch befriedigend.",
+            "ko": "나는 독일어에서 3등급(befriedigend)이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "begegnen",
+    "level": "b1",
+    "zipf": 4.16,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "begegnet",
+      "past": "begegnete",
+      "pp": "begegnet",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "meet, to encounter, to come across",
+        "ko": "마주치다, 만나다",
+        "examples": [
+          {
+            "text": "Ich bin ihm gestern in der Stadt begegnet.",
+            "ko": "나는 어제 시내에서 그와 마주쳤다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "begeistert",
+    "level": "b1",
+    "zipf": 4.52,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "begeisterter",
+      "superlative": "am begeistertsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "enthusiastic, thrilled",
+        "ko": "열광하는, 감격한",
+        "examples": [
+          {
+            "text": "Die Kinder sind begeistert.",
+            "ko": "아이들이 아주 신나 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "delighted",
+        "ko": "매우 기뻐하는",
+        "examples": [
+          {
+            "text": "Er ist von dem Geschenk begeistert.",
+            "ko": "그는 선물이 아주 마음에 들었어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Beginn",
+    "level": "b1",
+    "zipf": 4.99,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Beginne",
+      "genitive": "Beginnes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "start, beginning",
+        "ko": "시작",
+        "examples": [
+          {
+            "text": "Der Beginn des Films ist um acht.",
+            "ko": "영화는 8시에 시작한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "begleiten",
+    "level": "b1",
+    "zipf": 4.29,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "begleitet",
+      "past": "begleitete",
+      "pp": "begleitet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "leiten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to accompany",
+        "ko": "동행하다, 함께 가다",
+        "examples": [
+          {
+            "text": "Ich begleite dich zum Bahnhof.",
+            "ko": "내가 역까지 같이 가 줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "begrenzt",
+    "level": "b1",
+    "zipf": 4.31,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "begrenzter",
+      "superlative": "am begrenztesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "confined, limited, restricted",
+        "ko": "제한된, 한정된",
+        "examples": [
+          {
+            "text": "Die Zeit ist begrenzt.",
+            "ko": "시간이 한정되어 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Begründung",
+    "level": "b1",
+    "zipf": 4.46,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Begründungen",
+      "genitive": "Begründung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "begründen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "reason, rationale, grounds",
+        "ko": "이유, 근거",
+        "examples": [
+          {
+            "text": "Ich brauche eine Begründung für deine Meinung.",
+            "ko": "네 의견에 대한 근거가 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "begrüßen",
+    "level": "b1",
+    "zipf": 4.24,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "begrüßt",
+      "past": "begrüßte",
+      "pp": "begrüßt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "grüßen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to welcome",
+        "ko": "환영하다, 인사하다",
+        "examples": [
+          {
+            "text": "Der Chef begrüßt die neuen Kollegen.",
+            "ko": "사장이 새 동료들을 환영한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "behalten",
+    "level": "b1",
+    "zipf": 4.62,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "behält",
+      "past": "behielt",
+      "pp": "behalten",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "halten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to keep, to retain (money, items, etc. in one's possession)",
+        "ko": "간직하다, 가지고 있다",
+        "examples": [
+          {
+            "text": "Du kannst das Buch behalten.",
+            "ko": "그 책은 네가 가져도 돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to remember",
+        "ko": "기억해 두다",
+        "examples": [
+          {
+            "text": "Ich behalte keine Namen.",
+            "ko": "나는 이름을 잘 기억하지 못해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "behandeln",
+    "level": "b1",
+    "zipf": 4.43,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "behandelt",
+      "past": "behandelte",
+      "pp": "behandelt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "handeln|stem"
+    ],
+    "senses": [
+      {
+        "en": "to treat (medicinally)",
+        "ko": "치료하다",
+        "examples": [
+          {
+            "text": "Der Arzt behandelt den Patienten.",
+            "ko": "의사가 환자를 치료한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to treat (physically, psychologically), to handle",
+        "ko": "대하다, 다루다",
+        "examples": [
+          {
+            "text": "Man behandelt mich sehr freundlich.",
+            "ko": "사람들은 나를 아주 친절하게 대한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to cover, to deal with",
+        "ko": "(주제를) 다루다",
+        "examples": [
+          {
+            "text": "Der Kurs behandelt moderne Geschichte.",
+            "ko": "그 수업은 현대사를 다룬다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "behaupten",
+    "level": "b1",
+    "zipf": 4.46,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "behauptet",
+      "past": "behauptete",
+      "pp": "behauptet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "Haupt|stem"
+    ],
+    "senses": [
+      {
+        "en": "to claim, maintain, assert",
+        "ko": "주장하다",
+        "examples": [
+          {
+            "text": "Er behauptet, er war nicht dort.",
+            "ko": "그는 자기가 거기 없었다고 주장한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to stand one's ground",
+        "ko": "버티다, 자리를 지키다",
+        "examples": [
+          {
+            "text": "Sie behauptet sich im neuen Job.",
+            "ko": "그녀는 새 직장에서 자기 자리를 지킨다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "behindern",
+    "level": "b1",
+    "zipf": 3.62,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "behindert",
+      "past": "behinderte",
+      "pp": "behindert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "hindern|stem"
+    ],
+    "senses": [
+      {
+        "en": "to hinder, to impede, to obstruct",
+        "ko": "방해하다",
+        "examples": [
+          {
+            "text": "Der Schnee behindert den Verkehr.",
+            "ko": "눈이 교통을 방해한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Behörde",
+    "level": "b1",
+    "zipf": 4.32,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Behörden",
+      "genitive": "Behörde"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "authority (governmental institution)",
+        "ko": "관청, 당국",
+        "examples": [
+          {
+            "text": "Ich muss zur Behörde gehen.",
+            "ko": "나는 관청에 가야 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beid",
+    "level": "b1",
+    "zipf": 2.09,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "both",
+        "ko": "둘 다의, 양쪽의",
+        "examples": [
+          {
+            "text": "Beide Kinder sind krank.",
+            "ko": "두 아이 모두 아프다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beinahe",
+    "level": "b1",
+    "zipf": 4.42,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "almost; nearly",
+        "ko": "거의, 하마터면",
+        "examples": [
+          {
+            "text": "Ich hätte beinahe den Bus verpasst.",
+            "ko": "하마터면 버스를 놓칠 뻔했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beißen",
+    "level": "b1",
+    "zipf": 3.73,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "beißt",
+      "past": "biss",
+      "pp": "gebissen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to bite",
+        "ko": "물다",
+        "examples": [
+          {
+            "text": "Der Hund beißt den Mann.",
+            "ko": "개가 남자를 문다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to sting; to burn; to be sharp; to be spicy",
+        "ko": "따갑다, 얼얼하다",
+        "examples": [
+          {
+            "text": "Der Rauch beißt in den Augen.",
+            "ko": "연기가 눈을 따갑게 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Beitrag",
+    "level": "b1",
+    "zipf": 4.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Beiträge",
+      "genitive": "Beitrages"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "contribution (something given or offered that adds to a larger whole)",
+        "ko": "기여, 공헌",
+        "examples": [
+          {
+            "text": "Jeder leistet einen Beitrag.",
+            "ko": "모두가 기여를 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "fee, dues (membership in a club or union)",
+        "ko": "회비",
+        "examples": [
+          {
+            "text": "Der Beitrag für den Verein ist niedrig.",
+            "ko": "동호회 회비는 낮다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bekannt geben",
+    "level": "b1",
+    "zipf": 5.1,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": false,
+      "present3": "gibt bekannt",
+      "past": "gab bekannt",
+      "pp": "bekannt gegeben",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "bekannt|stem",
+      "geben|stem"
+    ],
+    "senses": [
+      {
+        "en": "to announce, to make known",
+        "ko": "발표하다, 공표하다",
+        "examples": [
+          {
+            "text": "Die Firma gibt die Ergebnisse bekannt.",
+            "ko": "회사가 결과를 발표한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Beleg",
+    "level": "b1",
+    "zipf": 3.87,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Belege",
+      "genitive": "Beleges"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "receipt, voucher",
+        "ko": "영수증",
+        "examples": [
+          {
+            "text": "Bitte geben Sie mir einen Beleg.",
+            "ko": "영수증 좀 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "piece of evidence, a supporting fact",
+        "ko": "증거 자료",
+        "examples": [
+          {
+            "text": "Dafür gibt es keinen Beleg.",
+            "ko": "그것에 대한 증거는 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beleidigen",
+    "level": "b1",
+    "zipf": 3.9,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "beleidigt",
+      "past": "beleidigte",
+      "pp": "beleidigt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "leidig|stem"
+    ],
+    "senses": [
+      {
+        "en": "to offend, to insult, to annoy",
+        "ko": "모욕하다",
+        "examples": [
+          {
+            "text": "Du hast mich beleidigt.",
+            "ko": "너는 나를 모욕했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bemerken",
+    "level": "b1",
+    "zipf": 3.88,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "bemerkt",
+      "past": "bemerkte",
+      "pp": "bemerkt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "merken|stem"
+    ],
+    "senses": [
+      {
+        "en": "to notice, to perceive",
+        "ko": "알아차리다",
+        "examples": [
+          {
+            "text": "Ich bemerke den Fehler zu spät.",
+            "ko": "나는 실수를 너무 늦게 알아차린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to remark, to mention, to note",
+        "ko": "말하다, 언급하다",
+        "examples": [
+          {
+            "text": "Er bemerkt, dass es kalt ist.",
+            "ko": "그는 춥다고 말한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bemühen",
+    "level": "b1",
+    "zipf": 4.08,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "bemüht",
+      "past": "bemühte",
+      "pp": "bemüht",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "be|insep",
+      "mühen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to make an effort, to try hard",
+        "ko": "노력하다, 애쓰다",
+        "examples": [
+          {
+            "text": "Sie bemüht sich um gute Noten.",
+            "ko": "그녀는 좋은 성적을 받으려고 애쓴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to take the trouble to go (somewhere)",
+        "ko": "수고스럽게 가다",
+        "examples": [
+          {
+            "text": "Bitte bemühen Sie sich nicht.",
+            "ko": "수고하실 필요 없습니다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Benzin",
+    "level": "b1",
+    "zipf": 4.13,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Benzine",
+      "genitive": "Benzins"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "gasoline",
+        "ko": "휘발유",
+        "examples": [
+          {
+            "text": "Das Auto braucht Benzin.",
+            "ko": "차에 휘발유가 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "benötigen",
+    "level": "b1",
+    "zipf": 4.16,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "benötigt",
+      "past": "benötigte",
+      "pp": "benötigt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "nötigen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to need, to require",
+        "ko": "필요로 하다",
+        "examples": [
+          {
+            "text": "Wir benötigen mehr Zeit.",
+            "ko": "우리는 시간이 더 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beobachten",
+    "level": "b1",
+    "zipf": 4.5,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "beobachtet",
+      "past": "beobachtete",
+      "pp": "beobachtet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "Obacht|stem"
+    ],
+    "senses": [
+      {
+        "en": "to watch, to observe",
+        "ko": "관찰하다",
+        "examples": [
+          {
+            "text": "Er beobachtet die Vögel im Garten.",
+            "ko": "그는 정원의 새들을 관찰한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Beratung",
+    "level": "b1",
+    "zipf": 4.36,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Beratungen",
+      "genitive": "Beratung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "beraten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "consultation",
+        "ko": "상담",
+        "examples": [
+          {
+            "text": "Die Beratung ist kostenlos.",
+            "ko": "상담은 무료다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "advice",
+        "ko": "조언",
+        "examples": [
+          {
+            "text": "Danke für Ihre Beratung.",
+            "ko": "조언 감사합니다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "berechnen",
+    "level": "b1",
+    "zipf": 3.94,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "berechnet",
+      "past": "berechnete",
+      "pp": "berechnet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "rechnen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to calculate",
+        "ko": "계산하다",
+        "examples": [
+          {
+            "text": "Ich berechne die Kosten.",
+            "ko": "나는 비용을 계산한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to charge, to bill, to invoice",
+        "ko": "청구하다",
+        "examples": [
+          {
+            "text": "Sie berechnen mir zehn Euro.",
+            "ko": "그들은 나에게 10유로를 청구한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bereich",
+    "level": "b1",
+    "zipf": 5.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Bereiche",
+      "genitive": "Bereiches"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "area, realm, range, scope",
+        "ko": "영역, 분야",
+        "examples": [
+          {
+            "text": "Er arbeitet im Bereich Technik.",
+            "ko": "그는 기술 분야에서 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "region",
+        "ko": "구역, 지역",
+        "examples": [
+          {
+            "text": "Dieser Bereich ist gesperrt.",
+            "ko": "이 구역은 출입 금지다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bereit",
+    "level": "b1",
+    "zipf": 5.02,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "bereiter",
+      "superlative": "am bereitesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ready",
+        "ko": "준비된",
+        "examples": [
+          {
+            "text": "Bist du bereit? Wir gehen los.",
+            "ko": "준비됐어? 출발하자.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "willing",
+        "ko": "기꺼이 ~하려는",
+        "examples": [
+          {
+            "text": "Ich bin bereit, dir zu helfen.",
+            "ko": "나는 기꺼이 너를 도울 거야.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bereits",
+    "level": "b1",
+    "zipf": 5.67,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "already",
+        "ko": "이미",
+        "examples": [
+          {
+            "text": "Der Zug ist bereits weg.",
+            "ko": "기차는 이미 떠났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bericht",
+    "level": "b1",
+    "zipf": 4.88,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Berichte",
+      "genitive": "Berichtes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "report, account, news story",
+        "ko": "보고, 보도",
+        "examples": [
+          {
+            "text": "Ich schreibe einen Bericht für die Chefin.",
+            "ko": "나는 상사에게 줄 보고서를 쓴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beruflich",
+    "level": "b1",
+    "zipf": 4.07,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Beruf|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "professional",
+        "ko": "직업상의, 업무상의",
+        "examples": [
+          {
+            "text": "Ich bin beruflich in Berlin.",
+            "ko": "나는 업무차 베를린에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "berufstätig",
+    "level": "b1",
+    "zipf": 3.1,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Beruf|stem",
+      "tätig|stem"
+    ],
+    "senses": [
+      {
+        "en": "employed",
+        "ko": "직장에 다니는",
+        "examples": [
+          {
+            "text": "Meine Mutter ist berufstätig.",
+            "ko": "우리 어머니는 직장에 다니신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beruhigen",
+    "level": "b1",
+    "zipf": 3.94,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "beruhigt",
+      "past": "beruhigte",
+      "pp": "beruhigt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "ruhig|stem"
+    ],
+    "senses": [
+      {
+        "en": "to calm down, to quiet",
+        "ko": "진정시키다",
+        "examples": [
+          {
+            "text": "Sie beruhigt das weinende Kind.",
+            "ko": "그녀는 우는 아이를 달랜다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to become calm",
+        "ko": "진정되다",
+        "examples": [
+          {
+            "text": "Bitte beruhige dich!",
+            "ko": "제발 진정해!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bescheid geben",
+    "level": "b1",
+    "zipf": 4.42,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "gibt Bescheid",
+      "past": "gab Bescheid",
+      "pp": "Bescheid gegeben",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Bescheid|stem",
+      "geben|stem"
+    ],
+    "senses": [
+      {
+        "en": "to let (someone) know",
+        "ko": "알려 주다",
+        "examples": [
+          {
+            "text": "Gib mir bitte Bescheid, wenn du kommst.",
+            "ko": "오면 나한테 알려 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bescheid sagen",
+    "level": "b1",
+    "zipf": 4.42,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "sagt Bescheid",
+      "past": "sagte Bescheid",
+      "pp": "Bescheid gesagt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Bescheid|stem",
+      "sagen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to let (someone) know",
+        "ko": "알려 주다",
+        "examples": [
+          {
+            "text": "Ich sage dir morgen Bescheid.",
+            "ko": "내일 너한테 알려 줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beschließen",
+    "level": "b1",
+    "zipf": 3.79,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "beschließt",
+      "past": "beschloss",
+      "pp": "beschlossen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "schließen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to resolve, decide, determine",
+        "ko": "결정하다",
+        "examples": [
+          {
+            "text": "Wir beschließen, früher zu fahren.",
+            "ko": "우리는 더 일찍 출발하기로 결정한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to conclude, end; to terminate",
+        "ko": "끝내다",
+        "examples": [
+          {
+            "text": "Er beschließt den Abend mit einem Lied.",
+            "ko": "그는 노래로 저녁을 마무리한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beschränken",
+    "level": "b1",
+    "zipf": 3.9,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "beschränkt",
+      "past": "beschränkte",
+      "pp": "beschränkt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "Schranke|stem"
+    ],
+    "senses": [
+      {
+        "en": "to limit; to restrict",
+        "ko": "제한하다",
+        "examples": [
+          {
+            "text": "Die Stadt beschränkt die Zahl der Autos.",
+            "ko": "시는 자동차 수를 제한한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to limit oneself",
+        "ko": "~에 한정하다",
+        "examples": [
+          {
+            "text": "Ich beschränke mich auf das Wichtigste.",
+            "ko": "나는 가장 중요한 것에만 한정한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beschädigen",
+    "level": "b1",
+    "zipf": 3.34,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "beschädigt",
+      "past": "beschädigte",
+      "pp": "beschädigt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "schädigen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to damage",
+        "ko": "손상시키다",
+        "examples": [
+          {
+            "text": "Der Sturm beschädigt das Dach.",
+            "ko": "폭풍이 지붕을 손상시킨다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beschäftigen",
+    "level": "b1",
+    "zipf": 4.4,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "beschäftigt",
+      "past": "beschäftigte",
+      "pp": "beschäftigt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "schaffen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to occupy, to keep occupied, to employ, to engage (possess or use the time, capacity or service of)",
+        "ko": "고용하다, 일을 맡기다",
+        "examples": [
+          {
+            "text": "Die Firma beschäftigt 50 Leute.",
+            "ko": "그 회사는 50명을 고용하고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to keep oneself busy, to keep oneself occupied",
+        "ko": "몰두하다, 시간을 보내다",
+        "examples": [
+          {
+            "text": "Er beschäftigt sich mit Musik.",
+            "ko": "그는 음악에 몰두한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Beschäftigung",
+    "level": "b1",
+    "zipf": 4.18,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Beschäftigungen",
+      "genitive": "Beschäftigung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "beschäftigen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "occupation (activity or task with which one occupies oneself)",
+        "ko": "일, 활동",
+        "examples": [
+          {
+            "text": "Er sucht eine neue Beschäftigung.",
+            "ko": "그는 새 일을 찾고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "besetzen",
+    "level": "b1",
+    "zipf": 3.95,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "besetzt",
+      "past": "besetzte",
+      "pp": "besetzt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "setzen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to occupy",
+        "ko": "차지하다, 점령하다",
+        "examples": [
+          {
+            "text": "Dieser Platz ist besetzt.",
+            "ko": "이 자리는 이미 찼어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to cast (choose someone for a performing part)",
+        "ko": "배역을 맡기다",
+        "examples": [
+          {
+            "text": "Der Regisseur besetzt die Hauptrolle neu.",
+            "ko": "감독이 주연 배역을 새로 정한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "besitzen",
+    "level": "b1",
+    "zipf": 4.53,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "besitzt",
+      "past": "besaß",
+      "pp": "besessen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "sitzen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to own, to possess",
+        "ko": "소유하다",
+        "examples": [
+          {
+            "text": "Sie besitzt ein kleines Haus.",
+            "ko": "그녀는 작은 집을 가지고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "besonder",
+    "level": "b1",
+    "zipf": 2.56,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "special",
+        "ko": "특별한",
+        "examples": [
+          {
+            "text": "Das ist ein besonderer Tag.",
+            "ko": "오늘은 특별한 날이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "besorgen",
+    "level": "b1",
+    "zipf": 4.08,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "besorgt",
+      "past": "besorgte",
+      "pp": "besorgt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "sorgen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to get, fetch (without such effort)",
+        "ko": "사다, 구해 오다",
+        "examples": [
+          {
+            "text": "Ich besorge Brot und Milch.",
+            "ko": "내가 빵과 우유를 사 올게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to take care of, deal with, to manage",
+        "ko": "처리하다",
+        "examples": [
+          {
+            "text": "Er besorgt die Tickets.",
+            "ko": "그가 표를 알아서 처리한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "besprechen",
+    "level": "b1",
+    "zipf": 4.02,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "bespricht",
+      "past": "besprach",
+      "pp": "besprochen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "sprechen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to discuss (to converse or debate concerning a particular topic)",
+        "ko": "상의하다, 논의하다",
+        "examples": [
+          {
+            "text": "Wir besprechen den Plan morgen.",
+            "ko": "우리는 내일 계획을 논의한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Besprechung",
+    "level": "b1",
+    "zipf": 3.75,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Besprechungen",
+      "genitive": "Besprechung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "besprechen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "meeting, discussion, (gathering among business people to discuss their business)",
+        "ko": "회의, 협의",
+        "examples": [
+          {
+            "text": "Die Besprechung beginnt um zehn Uhr.",
+            "ko": "회의는 10시에 시작한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Besserung",
+    "level": "b1",
+    "zipf": 4.08,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Besserung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "bessern|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "improvement",
+        "ko": "회복, 개선",
+        "examples": [
+          {
+            "text": "Gute Besserung!",
+            "ko": "빨리 낫길 바라요!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bestimmt",
+    "level": "b1",
+    "zipf": 5.24,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "certain",
+        "ko": "확실한, 틀림없는",
+        "examples": [
+          {
+            "text": "Er kommt bestimmt morgen.",
+            "ko": "그는 틀림없이 내일 와.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "definite",
+        "ko": "특정한, 일정한",
+        "examples": [
+          {
+            "text": "Ich suche ein bestimmtes Buch.",
+            "ko": "나는 특정한 책을 찾고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "determined",
+        "ko": "단호한",
+        "examples": [
+          {
+            "text": "Sie sprach in bestimmtem Ton.",
+            "ko": "그녀는 단호한 어조로 말했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bestrafen",
+    "level": "b1",
+    "zipf": 3.82,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "bestraft",
+      "past": "bestrafte",
+      "pp": "bestraft",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "strafen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to punish",
+        "ko": "벌주다, 처벌하다",
+        "examples": [
+          {
+            "text": "Der Lehrer bestraft den Schüler.",
+            "ko": "선생님이 학생에게 벌을 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bestätigung",
+    "level": "b1",
+    "zipf": 4.16,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bestätigungen",
+      "genitive": "Bestätigung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "bestätigen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "acknowledgment, affirmation, confirmation",
+        "ko": "확인, 확인서",
+        "examples": [
+          {
+            "text": "Ich warte auf die Bestätigung per E-Mail.",
+            "ko": "나는 이메일 확인을 기다린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beteiligen",
+    "level": "b1",
+    "zipf": 4.04,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "beteiligt",
+      "past": "beteiligte",
+      "pp": "beteiligt",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to take part, to participate",
+        "ko": "참여하다, 참가하다",
+        "examples": [
+          {
+            "text": "Ich beteilige mich an dem Projekt.",
+            "ko": "나는 그 프로젝트에 참여한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Betrag",
+    "level": "b1",
+    "zipf": 4.32,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Beträge",
+      "genitive": "Betrages"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "amount, sum",
+        "ko": "금액",
+        "examples": [
+          {
+            "text": "Der Betrag steht auf der Rechnung.",
+            "ko": "금액은 청구서에 적혀 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "betreuen",
+    "level": "b1",
+    "zipf": 3.68,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "betreut",
+      "past": "betreute",
+      "pp": "betreut",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "treu|stem"
+    ],
+    "senses": [
+      {
+        "en": "to look after; to take care",
+        "ko": "돌보다",
+        "examples": [
+          {
+            "text": "Sie betreut drei Kinder.",
+            "ko": "그녀는 아이 셋을 돌본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Betreuer",
+    "level": "b1",
+    "zipf": 3.76,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Betreuer",
+      "genitive": "Betreuers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "betreuen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "carer, helper, nurse",
+        "ko": "돌보는 사람, 담당자",
+        "examples": [
+          {
+            "text": "Der Betreuer hilft den Kindern.",
+            "ko": "돌보미가 아이들을 돕는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Betreuerin",
+    "level": "b1",
+    "zipf": 2.95,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Betreuerinnen",
+      "genitive": "Betreuerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Betreuer|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "feminine of Betreuer",
+        "ko": "여성 돌보미, 여성 담당자",
+        "examples": [
+          {
+            "text": "Die Betreuerin spielt mit den Kindern.",
+            "ko": "여성 돌보미가 아이들과 논다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Betreuung",
+    "level": "b1",
+    "zipf": 4.24,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Betreuungen",
+      "genitive": "Betreuung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "betreuen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "care",
+        "ko": "돌봄, 보살핌",
+        "examples": [
+          {
+            "text": "Die Betreuung der Kinder kostet Geld.",
+            "ko": "아이 돌봄에는 돈이 든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Betrieb",
+    "level": "b1",
+    "zipf": 4.82,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Betriebe",
+      "genitive": "Betriebes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "company, business, factory",
+        "ko": "회사, 사업장, 공장",
+        "examples": [
+          {
+            "text": "Mein Vater arbeitet in einem großen Betrieb.",
+            "ko": "우리 아버지는 큰 사업장에서 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "operation, running",
+        "ko": "운영, 가동",
+        "examples": [
+          {
+            "text": "Der Aufzug ist nicht in Betrieb.",
+            "ko": "엘리베이터는 가동되지 않는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "activity, hustle and bustle",
+        "ko": "북적임, 활기",
+        "examples": [
+          {
+            "text": "Im Laden ist viel Betrieb.",
+            "ko": "가게가 매우 북적인다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Betriebsrat",
+    "level": "b1",
+    "zipf": 3.64,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Betriebsräte",
+      "genitive": "Betriebsrates"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Betrieb|stem",
+      "Rat|stem"
+    ],
+    "senses": [
+      {
+        "en": "works council",
+        "ko": "노동자 평의회",
+        "examples": [
+          {
+            "text": "Der Betriebsrat spricht mit der Firma.",
+            "ko": "노동자 평의회가 회사와 이야기한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Betriebsrätin",
+    "level": "b1",
+    "zipf": 1.8,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Betriebsrätinnen",
+      "genitive": "Betriebsrätin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Betriebsrat|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female works councillor",
+        "ko": "여성 노동자 평의회 위원",
+        "examples": [
+          {
+            "text": "Die Betriebsrätin hilft den Mitarbeitern.",
+            "ko": "여성 평의회 위원이 직원들을 돕는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "betrunken",
+    "level": "b1",
+    "zipf": 4.1,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "betrunkener",
+      "superlative": "am betrunkensten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "drunk, inebriated",
+        "ko": "술에 취한",
+        "examples": [
+          {
+            "text": "Er ist total betrunken.",
+            "ko": "그는 완전히 취했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "betrügen",
+    "level": "b1",
+    "zipf": 3.48,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "betrügt",
+      "past": "betrog",
+      "pp": "betrogen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "trügen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to deceive (usually deliberately)",
+        "ko": "속이다",
+        "examples": [
+          {
+            "text": "Der Verkäufer betrügt die Kunden.",
+            "ko": "판매원이 손님들을 속인다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to betray (sexually or romantically); to cheat on",
+        "ko": "바람을 피우다",
+        "examples": [
+          {
+            "text": "Er hat seine Frau betrogen.",
+            "ko": "그는 아내를 두고 바람을 피웠다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bevor",
+    "level": "b1",
+    "zipf": 5.19,
+    "pos": "conj",
+    "grammar": {
+      "type": "conj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "vor|stem"
+    ],
+    "senses": [
+      {
+        "en": "before",
+        "ko": "~하기 전에",
+        "examples": [
+          {
+            "text": "Ruf mich an, bevor du kommst.",
+            "ko": "오기 전에 전화해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bevölkerung",
+    "level": "b1",
+    "zipf": 5.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bevölkerungen",
+      "genitive": "Bevölkerung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "bevölkern|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "population",
+        "ko": "인구, 주민",
+        "examples": [
+          {
+            "text": "Die Bevölkerung wächst jedes Jahr.",
+            "ko": "인구는 해마다 늘어난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bewegen",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "bewegt",
+      "past": "bewog",
+      "pp": "bewogen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "wegen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to move",
+        "ko": "움직이다",
+        "examples": [
+          {
+            "text": "Bitte bewegen Sie sich nicht.",
+            "ko": "움직이지 마세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to motivate; to persuade; to prompt (someone or something to do something); to make (someone or something to do something); to induce; to get (someone or something to do something)",
+        "ko": "~하도록 마음먹게 하다",
+        "examples": [
+          {
+            "text": "Was hat dich dazu bewogen?",
+            "ko": "무엇이 너를 그렇게 하게 만들었니?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bewegung",
+    "level": "b1",
+    "zipf": 4.9,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bewegungen",
+      "genitive": "Bewegung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "bewegen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "motion",
+        "ko": "움직임",
+        "examples": [
+          {
+            "text": "Ich sehe eine Bewegung im Garten.",
+            "ko": "정원에서 뭔가 움직이는 게 보인다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "movement",
+        "ko": "운동, 활동",
+        "examples": [
+          {
+            "text": "Bewegung ist gesund.",
+            "ko": "운동은 건강에 좋다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Beweis",
+    "level": "b1",
+    "zipf": 4.55,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Beweise",
+      "genitive": "Beweises"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "beweisen|stem"
+    ],
+    "senses": [
+      {
+        "en": "proof",
+        "ko": "증거, 증명",
+        "examples": [
+          {
+            "text": "Hast du einen Beweis dafür?",
+            "ko": "그것에 대한 증거가 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beweisen",
+    "level": "b1",
+    "zipf": 4.53,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "beweist",
+      "past": "bewies",
+      "pp": "bewiesen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "be|insep",
+      "weisen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to prove",
+        "ko": "증명하다",
+        "examples": [
+          {
+            "text": "Ich kann das beweisen.",
+            "ko": "나는 그것을 증명할 수 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to display, to show, to demonstrate",
+        "ko": "보여 주다",
+        "examples": [
+          {
+            "text": "Er beweist viel Mut.",
+            "ko": "그는 큰 용기를 보여 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bewohner",
+    "level": "b1",
+    "zipf": 4.53,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Bewohner",
+      "genitive": "Bewohners"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "bewohnen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "agent noun of bewohnen: inhabitant (someone who lives or dwells in a place, especially a room, house, institution)",
+        "ko": "주민, 입주자",
+        "examples": [
+          {
+            "text": "Die Bewohner des Hauses sind nett.",
+            "ko": "그 집의 주민들은 친절하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bewohnerin",
+    "level": "b1",
+    "zipf": 2.81,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bewohnerinnen",
+      "genitive": "Bewohnerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Bewohner|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Bewohner",
+        "ko": "여성 주민, 여성 입주자",
+        "examples": [
+          {
+            "text": "Die Bewohnerin wohnt im dritten Stock.",
+            "ko": "그 여성 주민은 4층에 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Beziehung",
+    "level": "b1",
+    "zipf": 4.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Beziehungen",
+      "genitive": "Beziehung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "beziehen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "relation, relationship, connection",
+        "ko": "관계, 연관",
+        "examples": [
+          {
+            "text": "Ich habe eine gute Beziehung zu meinen Eltern.",
+            "ko": "나는 부모님과 사이가 좋다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "romantic relationship",
+        "ko": "연애 관계",
+        "examples": [
+          {
+            "text": "Sie sind in einer Beziehung.",
+            "ko": "그들은 사귀는 사이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bieten",
+    "level": "b1",
+    "zipf": 4.81,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "bietet",
+      "past": "bot",
+      "pp": "geboten",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to offer; to present",
+        "ko": "제공하다",
+        "examples": [
+          {
+            "text": "Das Hotel bietet viel Komfort.",
+            "ko": "그 호텔은 편의 시설을 많이 제공한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to bid; to offer to pay a certain price",
+        "ko": "값을 부르다",
+        "examples": [
+          {
+            "text": "Ich biete 50 Euro für den Stuhl.",
+            "ko": "나는 의자에 50유로를 부른다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bildschirm",
+    "level": "b1",
+    "zipf": 4.08,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Bildschirme",
+      "genitive": "Bildschirmes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Bild|stem",
+      "Schirm|stem"
+    ],
+    "senses": [
+      {
+        "en": "screen",
+        "ko": "화면",
+        "examples": [
+          {
+            "text": "Der Bildschirm ist kaputt.",
+            "ko": "화면이 고장 났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "monitor",
+        "ko": "모니터",
+        "examples": [
+          {
+            "text": "Ich brauche einen neuen Bildschirm.",
+            "ko": "나는 새 모니터가 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bio",
+    "level": "b1",
+    "zipf": 4.38,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Bio"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "clipping of Biologie",
+        "ko": "생물 (수업)",
+        "examples": [
+          {
+            "text": "Wir haben heute Bio.",
+            "ko": "오늘 우리는 생물 수업이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bio",
+    "level": "b1",
+    "zipf": 4.38,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "organic",
+        "ko": "유기농의, 친환경의",
+        "examples": [
+          {
+            "text": "Ich kaufe gern Bio-Obst.",
+            "ko": "나는 유기농 과일 사는 것을 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Biologie",
+    "level": "b1",
+    "zipf": 3.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Biologie"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "biology",
+        "ko": "생물학",
+        "examples": [
+          {
+            "text": "Biologie ist mein Lieblingsfach.",
+            "ko": "생물은 내가 제일 좋아하는 과목이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bisher",
+    "level": "b1",
+    "zipf": 5.26,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "so far, until now, as yet",
+        "ko": "지금까지",
+        "examples": [
+          {
+            "text": "Bisher habe ich nichts gehört.",
+            "ko": "지금까지 아무 소식도 못 들었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "blass",
+    "level": "b1",
+    "zipf": 3.65,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "blasser",
+      "superlative": "am blassesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pale",
+        "ko": "창백한",
+        "examples": [
+          {
+            "text": "Du siehst blass aus.",
+            "ko": "너 안색이 창백해 보여.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "blind",
+    "level": "b1",
+    "zipf": 4.26,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "blinder",
+      "superlative": "am blindesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "blind",
+        "ko": "눈먼, 시각 장애가 있는",
+        "examples": [
+          {
+            "text": "Mein Opa ist fast blind.",
+            "ko": "우리 할아버지는 거의 앞을 못 보신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Blitz",
+    "level": "b1",
+    "zipf": 3.98,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Blitze",
+      "genitive": "Blitzes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a bolt of lightning",
+        "ko": "번개",
+        "examples": [
+          {
+            "text": "Der Blitz schlägt in den Baum ein.",
+            "ko": "번개가 나무에 떨어진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "flash",
+        "ko": "섬광, 플래시",
+        "examples": [
+          {
+            "text": "Mit Blitz sind die Fotos besser.",
+            "ko": "플래시를 쓰면 사진이 더 잘 나온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "blitzen",
+    "level": "b1",
+    "zipf": 3.25,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "blitzt",
+      "past": "blitzte",
+      "pp": "geblitzt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to lighten",
+        "ko": "번개가 치다",
+        "examples": [
+          {
+            "text": "Es blitzt und donnert.",
+            "ko": "번개가 치고 천둥이 울린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to flash",
+        "ko": "번쩍이다",
+        "examples": [
+          {
+            "text": "Das Licht blitzt in der Nacht.",
+            "ko": "불빛이 밤에 번쩍인다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bloß",
+    "level": "b1",
+    "zipf": 4.85,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "bloßer",
+      "superlative": "am bloßesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "merely, only (adverb or particle)",
+        "ko": "단지, 그냥",
+        "examples": [
+          {
+            "text": "Ich wollte dich bloß fragen.",
+            "ko": "나는 그냥 너한테 물어보고 싶었을 뿐이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "mere, sole",
+        "ko": "단순한, 오직 ~뿐인",
+        "examples": [
+          {
+            "text": "Das ist bloßer Zufall.",
+            "ko": "그것은 단순한 우연이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "bare, uncovered, nude",
+        "ko": "맨, 벌거벗은",
+        "examples": [
+          {
+            "text": "Er geht mit bloßen Füßen.",
+            "ko": "그는 맨발로 걷는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Blut",
+    "level": "b1",
+    "zipf": 4.73,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Blute",
+      "genitive": "Blutes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "blood",
+        "ko": "피, 혈액",
+        "examples": [
+          {
+            "text": "Auf dem Boden ist Blut.",
+            "ko": "바닥에 피가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bluten",
+    "level": "b1",
+    "zipf": 3.37,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "blutet",
+      "past": "blutete",
+      "pp": "geblutet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to bleed",
+        "ko": "피가 나다",
+        "examples": [
+          {
+            "text": "Meine Nase blutet.",
+            "ko": "내 코에서 피가 난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "blühen",
+    "level": "b1",
+    "zipf": 3.59,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "blüht",
+      "past": "blühte",
+      "pp": "geblüht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to blossom or bloom",
+        "ko": "꽃이 피다",
+        "examples": [
+          {
+            "text": "Im Frühling blühen die Blumen.",
+            "ko": "봄에는 꽃이 핀다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to thrive or flourish",
+        "ko": "번창하다",
+        "examples": [
+          {
+            "text": "Das Geschäft blüht.",
+            "ko": "사업이 번창한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Boden",
+    "level": "b1",
+    "zipf": 5.01,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Böden",
+      "genitive": "Bodens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "floor",
+        "ko": "바닥",
+        "examples": [
+          {
+            "text": "Das Kind sitzt auf dem Boden.",
+            "ko": "아이가 바닥에 앉아 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "ground, soil",
+        "ko": "땅, 토양",
+        "examples": [
+          {
+            "text": "Der Boden ist nass vom Regen.",
+            "ko": "땅이 비에 젖었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "attic, garret, loft",
+        "ko": "다락방",
+        "examples": [
+          {
+            "text": "Die alten Möbel stehen auf dem Boden.",
+            "ko": "오래된 가구는 다락에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Boot",
+    "level": "b1",
+    "zipf": 4.52,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Boote",
+      "genitive": "Bootes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "boat",
+        "ko": "보트, 배",
+        "examples": [
+          {
+            "text": "Wir fahren mit dem Boot über den See.",
+            "ko": "우리는 보트를 타고 호수를 건넌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Botschaft",
+    "level": "b1",
+    "zipf": 4.48,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Botschaften",
+      "genitive": "Botschaft"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "message",
+        "ko": "메시지, 소식",
+        "examples": [
+          {
+            "text": "Ich habe eine wichtige Botschaft für dich.",
+            "ko": "너에게 중요한 소식이 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "embassy",
+        "ko": "대사관",
+        "examples": [
+          {
+            "text": "Die Botschaft ist in der Stadtmitte.",
+            "ko": "대사관은 시내 중심에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Braten",
+    "level": "b1",
+    "zipf": 3.72,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Braten",
+      "genitive": "Bratens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a roast (big portion of meat, usually cooked in the oven)",
+        "ko": "구운 고기, 로스트",
+        "examples": [
+          {
+            "text": "Am Sonntag gibt es Braten.",
+            "ko": "일요일에는 구운 고기를 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "brechen",
+    "level": "b1",
+    "zipf": 4.31,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "bricht",
+      "past": "brach",
+      "pp": "gebrochen",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to break",
+        "ko": "부수다, 깨다",
+        "examples": [
+          {
+            "text": "Er bricht das Brot in zwei Stücke.",
+            "ko": "그는 빵을 두 조각으로 쪼갠다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to become broken; to break; to fracture",
+        "ko": "부러지다, 깨지다",
+        "examples": [
+          {
+            "text": "Das Eis bricht unter dem Gewicht.",
+            "ko": "얼음이 무게를 못 이기고 깨진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to vomit",
+        "ko": "토하다",
+        "examples": [
+          {
+            "text": "Das Kind muss brechen.",
+            "ko": "아이가 토할 것 같다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Breite",
+    "level": "b1",
+    "zipf": 4.64,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Breiten",
+      "genitive": "Breite"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "breit|stem",
+      "-e|suffix"
+    ],
+    "senses": [
+      {
+        "en": "breadth, width",
+        "ko": "너비, 폭",
+        "examples": [
+          {
+            "text": "Die Breite des Tisches beträgt einen Meter.",
+            "ko": "탁자의 폭은 1미터다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "latitude",
+        "ko": "위도",
+        "examples": [
+          {
+            "text": "Berlin liegt auf dem 52. Grad nördlicher Breite.",
+            "ko": "베를린은 북위 52도에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bremse",
+    "level": "b1",
+    "zipf": 3.69,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bremsen",
+      "genitive": "Bremse"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "brake, device for causing deceleration",
+        "ko": "브레이크",
+        "examples": [
+          {
+            "text": "Die Bremse am Fahrrad ist kaputt.",
+            "ko": "자전거 브레이크가 고장 났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bremsen",
+    "level": "b1",
+    "zipf": 4.04,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "bremst",
+      "past": "bremste",
+      "pp": "gebremst",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to brake, slow down, decelerate",
+        "ko": "브레이크를 밟다, 속도를 줄이다",
+        "examples": [
+          {
+            "text": "Der Fahrer bremst vor der Ampel.",
+            "ko": "운전자가 신호등 앞에서 브레이크를 밟는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "brennen",
+    "level": "b1",
+    "zipf": 4.09,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "brennt",
+      "past": "brannte",
+      "pp": "gebrannt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to burn; to be on fire",
+        "ko": "타다, 불타다",
+        "examples": [
+          {
+            "text": "Das Haus brennt.",
+            "ko": "집이 불타고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be lit, to be on (of a light or lamp)",
+        "ko": "(불이) 켜져 있다",
+        "examples": [
+          {
+            "text": "In der Küche brennt noch Licht.",
+            "ko": "부엌에 아직 불이 켜져 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to irritate; to induce pain or another painful sensation; to bite; to sting",
+        "ko": "따갑다, 쓰라리다",
+        "examples": [
+          {
+            "text": "Die Augen brennen mir vom Rauch.",
+            "ko": "연기 때문에 눈이 따갑다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Briefkasten",
+    "level": "b1",
+    "zipf": 3.76,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Briefkästen",
+      "genitive": "Briefkastens"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Brief|stem",
+      "Kasten|stem"
+    ],
+    "senses": [
+      {
+        "en": "mailbox, letterbox",
+        "ko": "우편함",
+        "examples": [
+          {
+            "text": "Der Briefkasten ist vor dem Haus.",
+            "ko": "우편함은 집 앞에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Brieftasche",
+    "level": "b1",
+    "zipf": 3.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Brieftaschen",
+      "genitive": "Brieftasche"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Brief|stem",
+      "Tasche|stem"
+    ],
+    "senses": [
+      {
+        "en": "wallet, purse",
+        "ko": "지갑",
+        "examples": [
+          {
+            "text": "Meine Brieftasche ist weg!",
+            "ko": "내 지갑이 없어졌어!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Briefträger",
+    "level": "b1",
+    "zipf": 2.94,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Briefträger",
+      "genitive": "Briefträgers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Brief|stem",
+      "tragen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "mailman, postman",
+        "ko": "우편집배원",
+        "examples": [
+          {
+            "text": "Der Briefträger kommt jeden Morgen.",
+            "ko": "집배원은 매일 아침에 온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Briefumschlag",
+    "level": "b1",
+    "zipf": 2.82,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Briefumschläge",
+      "genitive": "Briefumschlages"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Brief|stem",
+      "Umschlag|stem"
+    ],
+    "senses": [
+      {
+        "en": "envelope (for a letter)",
+        "ko": "편지 봉투",
+        "examples": [
+          {
+            "text": "Ich brauche einen Briefumschlag.",
+            "ko": "나는 편지 봉투가 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Broschüre",
+    "level": "b1",
+    "zipf": 3.74,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Broschüren",
+      "genitive": "Broschüre"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "brochure",
+        "ko": "안내 책자",
+        "examples": [
+          {
+            "text": "Im Hotel gibt es viele Broschüren.",
+            "ko": "호텔에는 안내 책자가 많이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Brust",
+    "level": "b1",
+    "zipf": 4.4,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Brüste",
+      "genitive": "Brust"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "chest",
+        "ko": "가슴",
+        "examples": [
+          {
+            "text": "Mir tut die Brust weh.",
+            "ko": "가슴이 아파요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Buchhandlung",
+    "level": "b1",
+    "zipf": 3.82,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Buchhandlungen",
+      "genitive": "Buchhandlung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Buch|stem",
+      "Handlung|stem"
+    ],
+    "senses": [
+      {
+        "en": "bookstore, bookshop",
+        "ko": "서점",
+        "examples": [
+          {
+            "text": "Ich kaufe das Buch in der Buchhandlung.",
+            "ko": "나는 그 책을 서점에서 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Buffet",
+    "level": "b1",
+    "zipf": 3.59,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Buffets",
+      "genitive": "Buffets"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "buffet",
+        "ko": "뷔페",
+        "examples": [
+          {
+            "text": "Das Buffet im Hotel ist toll.",
+            "ko": "호텔 뷔페가 훌륭하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "sideboard, buffet",
+        "ko": "찬장, 장식장",
+        "examples": [
+          {
+            "text": "Die Gläser stehen im Buffet.",
+            "ko": "유리잔들은 찬장에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Burg",
+    "level": "b1",
+    "zipf": 4.38,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Burgen",
+      "genitive": "Burg"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "castle, fortification",
+        "ko": "성, 성채",
+        "examples": [
+          {
+            "text": "Auf dem Berg steht eine alte Burg.",
+            "ko": "산 위에 오래된 성이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Büchse",
+    "level": "b1",
+    "zipf": 3.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Büchsen",
+      "genitive": "Büchse"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "box, can",
+        "ko": "깡통, 통",
+        "examples": [
+          {
+            "text": "Er öffnet eine Büchse Bohnen.",
+            "ko": "그는 콩 통조림을 하나 딴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "rifle",
+        "ko": "소총",
+        "examples": [
+          {
+            "text": "Der Jäger hat eine Büchse.",
+            "ko": "사냥꾼은 소총을 가지고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bühne",
+    "level": "b1",
+    "zipf": 4.62,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bühnen",
+      "genitive": "Bühne"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "stage (in a theater)",
+        "ko": "무대",
+        "examples": [
+          {
+            "text": "Die Sängerin steht auf der Bühne.",
+            "ko": "가수가 무대에 서 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bürger",
+    "level": "b1",
+    "zipf": 4.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Bürger",
+      "genitive": "Bürgers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "citizen, inhabitant, resident; legally recognized inhabitant of a city or state",
+        "ko": "시민, 국민",
+        "examples": [
+          {
+            "text": "Jeder Bürger darf wählen.",
+            "ko": "모든 시민은 투표할 수 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bürgerin",
+    "level": "b1",
+    "zipf": 2.92,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bürgerinnen",
+      "genitive": "Bürgerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Bürger|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female citizen",
+        "ko": "여성 시민",
+        "examples": [
+          {
+            "text": "Die Bürgerin geht zur Wahl.",
+            "ko": "그 여성 시민은 투표하러 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Bürste",
+    "level": "b1",
+    "zipf": 3.2,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Bürsten",
+      "genitive": "Bürste"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "brush",
+        "ko": "솔, 브러시",
+        "examples": [
+          {
+            "text": "Ich putze die Schuhe mit einer Bürste.",
+            "ko": "나는 솔로 신발을 닦는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

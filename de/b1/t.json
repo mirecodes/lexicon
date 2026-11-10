@@ -1,0 +1,2418 @@
+[
+  {
+    "word": "Tabelle",
+    "level": "b1",
+    "zipf": 4.41,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Tabellen",
+      "genitive": "Tabelle"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "table (grid of data in rows and columns)",
+        "ko": "표, 도표",
+        "examples": [
+          {
+            "text": "Die Zahlen stehen in der Tabelle.",
+            "ko": "숫자들은 표에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "league table (ranking of teams or competitors across during a season or multiple rounds of play)",
+        "ko": "순위표",
+        "examples": [
+          {
+            "text": "Unser Verein steht oben in der Tabelle.",
+            "ko": "우리 팀은 순위표 위쪽에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tagesablauf",
+    "level": "b1",
+    "zipf": 3.25,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Tagesabläufe",
+      "genitive": "Tagesablaufes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Tag|stem",
+      "Ablauf|stem"
+    ],
+    "senses": [
+      {
+        "en": "daily routine",
+        "ko": "하루 일과",
+        "examples": [
+          {
+            "text": "Mein Tagesablauf beginnt um sechs Uhr.",
+            "ko": "내 하루 일과는 6시에 시작한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tal",
+    "level": "b1",
+    "zipf": 4.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Täler",
+      "genitive": "Tales"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "valley",
+        "ko": "계곡, 골짜기",
+        "examples": [
+          {
+            "text": "Das Dorf liegt in einem schönen Tal.",
+            "ko": "그 마을은 아름다운 계곡에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Talent",
+    "level": "b1",
+    "zipf": 4.28,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Talente",
+      "genitive": "Talentes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "talent",
+        "ko": "재능",
+        "examples": [
+          {
+            "text": "Sie hat ein großes Talent für Musik.",
+            "ko": "그녀는 음악에 큰 재능이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "tanken",
+    "level": "b1",
+    "zipf": 3.69,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "tankt",
+      "past": "tankte",
+      "pp": "getankt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to fuel, to refuel (fill a fuel tank of a vehicle)",
+        "ko": "주유하다",
+        "examples": [
+          {
+            "text": "Ich tanke an der nächsten Tankstelle.",
+            "ko": "나는 다음 주유소에서 주유한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to soak up, to recharge (sun, energy)",
+        "ko": "충전하다, 쬐다",
+        "examples": [
+          {
+            "text": "Im Urlaub tanke ich neue Kraft.",
+            "ko": "휴가 때 나는 새 힘을 충전한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tankstelle",
+    "level": "b1",
+    "zipf": 3.87,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Tankstellen",
+      "genitive": "Tankstelle"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "tanken|stem",
+      "Stelle|stem"
+    ],
+    "senses": [
+      {
+        "en": "gas station",
+        "ko": "주유소",
+        "examples": [
+          {
+            "text": "Die Tankstelle ist rund um die Uhr geöffnet.",
+            "ko": "그 주유소는 24시간 문을 연다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tante",
+    "level": "b1",
+    "zipf": 4.18,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Tanten",
+      "genitive": "Tante"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "aunt",
+        "ko": "이모, 고모",
+        "examples": [
+          {
+            "text": "Meine Tante wohnt in Hamburg.",
+            "ko": "우리 이모는 함부르크에 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tanz",
+    "level": "b1",
+    "zipf": 4.37,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Tänze",
+      "genitive": "Tanzes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "dance",
+        "ko": "춤",
+        "examples": [
+          {
+            "text": "Darf ich um den nächsten Tanz bitten?",
+            "ko": "다음 춤을 청해도 될까요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Taschentuch",
+    "level": "b1",
+    "zipf": 3.3,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Taschentücher",
+      "genitive": "Taschentuches"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Tasche|stem",
+      "Tuch|stem"
+    ],
+    "senses": [
+      {
+        "en": "handkerchief",
+        "ko": "손수건",
+        "examples": [
+          {
+            "text": "Er wischt sich mit einem Taschentuch die Stirn ab.",
+            "ko": "그는 손수건으로 이마를 닦는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "tissue; paper handkerchief",
+        "ko": "휴지, 티슈",
+        "examples": [
+          {
+            "text": "Hast du ein Taschentuch für mich?",
+            "ko": "나한테 줄 휴지 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tastatur",
+    "level": "b1",
+    "zipf": 3.95,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Tastaturen",
+      "genitive": "Tastatur"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "keyboard (on a computer, typewriter, etc.)",
+        "ko": "키보드",
+        "examples": [
+          {
+            "text": "Meine Tastatur hat eine Taste weniger.",
+            "ko": "내 키보드는 키가 하나 모자란다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Taste",
+    "level": "b1",
+    "zipf": 3.7,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Tasten",
+      "genitive": "Taste"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "key, button (on a piano, keyboard, etc.)",
+        "ko": "키, 버튼",
+        "examples": [
+          {
+            "text": "Drücken Sie bitte die rote Taste.",
+            "ko": "빨간 버튼을 눌러 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tat",
+    "level": "b1",
+    "zipf": 4.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Taten",
+      "genitive": "Tat"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "deed",
+        "ko": "행위",
+        "examples": [
+          {
+            "text": "Eine gute Tat macht glücklich.",
+            "ko": "선행은 행복하게 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "act, action",
+        "ko": "행동",
+        "examples": [
+          {
+            "text": "Auf Worte müssen Taten folgen.",
+            "ko": "말 다음에는 행동이 따라야 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "crime, offense",
+        "ko": "범행, 범죄",
+        "examples": [
+          {
+            "text": "Der Mann hat die Tat gestanden.",
+            "ko": "그 남자는 범행을 자백했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tatsache",
+    "level": "b1",
+    "zipf": 4.64,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Tatsachen",
+      "genitive": "Tatsache"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Tat|stem",
+      "Sache|stem"
+    ],
+    "senses": [
+      {
+        "en": "fact (a true observation)",
+        "ko": "사실",
+        "examples": [
+          {
+            "text": "Das ist eine Tatsache, keine Meinung.",
+            "ko": "그것은 의견이 아니라 사실이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "tatsächlich",
+    "level": "b1",
+    "zipf": 5.11,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Tatsache|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "actual, real, factual",
+        "ko": "실제의, 사실의",
+        "examples": [
+          {
+            "text": "Der tatsächliche Preis ist viel höher.",
+            "ko": "실제 가격은 훨씬 더 높다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "taub",
+    "level": "b1",
+    "zipf": 3.43,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "tauber",
+      "superlative": "am taubsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "deaf (not hearing)",
+        "ko": "귀가 먼",
+        "examples": [
+          {
+            "text": "Mein Großvater ist auf einem Ohr taub.",
+            "ko": "우리 할아버지는 한쪽 귀가 들리지 않는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "numb",
+        "ko": "감각이 없는, 마비된",
+        "examples": [
+          {
+            "text": "Meine Finger sind vor Kälte taub.",
+            "ko": "추워서 손가락 감각이 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "tauchen",
+    "level": "b1",
+    "zipf": 3.98,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "taucht",
+      "past": "tauchte",
+      "pp": "getaucht",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to dive",
+        "ko": "잠수하다",
+        "examples": [
+          {
+            "text": "Im Urlaub tauche ich gern im Meer.",
+            "ko": "휴가 때 나는 바다에서 잠수하는 것을 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to immerse, to bathe, to submerge",
+        "ko": "담그다",
+        "examples": [
+          {
+            "text": "Sie taucht den Pinsel in die Farbe.",
+            "ko": "그녀는 붓을 물감에 담근다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Technik",
+    "level": "b1",
+    "zipf": 4.83,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Techniken",
+      "genitive": "Technik"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "technology",
+        "ko": "기술, 공학",
+        "examples": [
+          {
+            "text": "Moderne Technik macht unser Leben leichter.",
+            "ko": "현대 기술은 우리 삶을 더 쉽게 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "technique",
+        "ko": "기법, 요령",
+        "examples": [
+          {
+            "text": "Er hat eine besondere Technik beim Schwimmen.",
+            "ko": "그는 수영할 때 특별한 기법이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "technisch",
+    "level": "b1",
+    "zipf": 4.34,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "technical",
+        "ko": "기술적인",
+        "examples": [
+          {
+            "text": "Wir haben ein technisches Problem.",
+            "ko": "우리에게 기술적 문제가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "technological",
+        "ko": "기술의, 과학 기술의",
+        "examples": [
+          {
+            "text": "Der technische Fortschritt ist schnell.",
+            "ko": "기술 발전은 빠르다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Technologie",
+    "level": "b1",
+    "zipf": 4.32,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Technologien",
+      "genitive": "Technologie"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "technology",
+        "ko": "기술, 테크놀로지",
+        "examples": [
+          {
+            "text": "Diese Firma entwickelt neue Technologien.",
+            "ko": "이 회사는 새로운 기술을 개발한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tee ziehen lassen",
+    "level": "b1",
+    "zipf": 4.34,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "Tee|stem",
+      "ziehen|stem",
+      "lassen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to let tea steep, to let tea brew",
+        "ko": "차를 우리다",
+        "examples": [
+          {
+            "text": "Ich lasse den Tee fünf Minuten ziehen.",
+            "ko": "나는 차를 5분 동안 우린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Teilnahme",
+    "level": "b1",
+    "zipf": 4.54,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Teilnahmen",
+      "genitive": "Teilnahme"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "participation",
+        "ko": "참가, 참여",
+        "examples": [
+          {
+            "text": "Die Teilnahme am Kurs ist kostenlos.",
+            "ko": "강좌 참가는 무료이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Teilnehmer",
+    "level": "b1",
+    "zipf": 4.82,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Teilnehmer",
+      "genitive": "Teilnehmers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "teilnehmen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "agent noun of teilnehmen; participant",
+        "ko": "참가자",
+        "examples": [
+          {
+            "text": "Alle Teilnehmer bekommen ein Zertifikat.",
+            "ko": "모든 참가자가 수료증을 받는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Teilnehmerin",
+    "level": "b1",
+    "zipf": 3.12,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Teilnehmerinnen",
+      "genitive": "Teilnehmerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Teilnehmer|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "participant",
+        "ko": "여성 참가자",
+        "examples": [
+          {
+            "text": "Die Teilnehmerin kommt aus Korea.",
+            "ko": "그 여성 참가자는 한국에서 왔다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Teilzeit",
+    "level": "b1",
+    "zipf": 3.81,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Teilzeiten",
+      "genitive": "Teilzeit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Teil|stem",
+      "Zeit|stem"
+    ],
+    "senses": [
+      {
+        "en": "part time",
+        "ko": "시간제, 파트타임",
+        "examples": [
+          {
+            "text": "Sie arbeitet in Teilzeit.",
+            "ko": "그녀는 파트타임으로 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Temperatur",
+    "level": "b1",
+    "zipf": 4.55,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Temperaturen",
+      "genitive": "Temperatur"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "temperature",
+        "ko": "온도, 기온",
+        "examples": [
+          {
+            "text": "Die Temperatur liegt heute bei 20 Grad.",
+            "ko": "오늘 기온은 20도이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tempo",
+    "level": "b1",
+    "zipf": 4.24,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Tempi",
+      "genitive": "Tempos"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "tempo, pace (rate, speed)",
+        "ko": "속도, 템포",
+        "examples": [
+          {
+            "text": "Bitte fahr nicht in diesem Tempo!",
+            "ko": "제발 그 속도로 달리지 마!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Teppich",
+    "level": "b1",
+    "zipf": 4.11,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Teppiche",
+      "genitive": "Teppiches"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "rug, carpet (cloth covering for a floor)",
+        "ko": "카펫, 양탄자",
+        "examples": [
+          {
+            "text": "Der Teppich im Wohnzimmer ist weich.",
+            "ko": "거실 카펫은 부드럽다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "tapestry (cloth hung on a wall)",
+        "ko": "태피스트리, 벽걸이 융단",
+        "examples": [
+          {
+            "text": "An der Wand hängt ein alter Teppich.",
+            "ko": "벽에 오래된 벽걸이 융단이 걸려 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Terminkalender",
+    "level": "b1",
+    "zipf": 3.34,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Terminkalender",
+      "genitive": "Terminkalenders"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Termin|stem",
+      "Kalender|stem"
+    ],
+    "senses": [
+      {
+        "en": "appointment diary",
+        "ko": "일정 수첩",
+        "examples": [
+          {
+            "text": "Ich schreibe den Termin in meinen Terminkalender.",
+            "ko": "나는 약속을 일정 수첩에 적는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Terrasse",
+    "level": "b1",
+    "zipf": 3.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Terrassen",
+      "genitive": "Terrasse"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "patio, porch, veranda, terrace (platform that extends outwards from a building)",
+        "ko": "테라스",
+        "examples": [
+          {
+            "text": "Im Sommer frühstücken wir auf der Terrasse.",
+            "ko": "여름에는 테라스에서 아침을 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "roof terrace, roof garden (flat roof of a building, accessible to the residents)",
+        "ko": "옥상 테라스",
+        "examples": [
+          {
+            "text": "Von der Dachterrasse sieht man die ganze Stadt.",
+            "ko": "옥상 테라스에서 도시 전체가 보인다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "testen",
+    "level": "b1",
+    "zipf": 4.37,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "testet",
+      "past": "testete",
+      "pp": "getestet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to test (by experiment or scientific method)",
+        "ko": "시험하다, 테스트하다",
+        "examples": [
+          {
+            "text": "Der Lehrer testet unser Wissen.",
+            "ko": "선생님이 우리 지식을 시험한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "theoretisch",
+    "level": "b1",
+    "zipf": 4.18,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "theoretical",
+        "ko": "이론적인",
+        "examples": [
+          {
+            "text": "Theoretisch ist das möglich.",
+            "ko": "이론적으로는 그것이 가능하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Theorie",
+    "level": "b1",
+    "zipf": 4.61,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Theorien",
+      "genitive": "Theorie"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "theory",
+        "ko": "이론",
+        "examples": [
+          {
+            "text": "In der Theorie klingt es einfach.",
+            "ko": "이론상으로는 간단하게 들린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Therapie",
+    "level": "b1",
+    "zipf": 4.45,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Therapien",
+      "genitive": "Therapie"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "therapy",
+        "ko": "치료, 요법",
+        "examples": [
+          {
+            "text": "Die Therapie dauert drei Monate.",
+            "ko": "치료는 석 달 걸린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tierpark",
+    "level": "b1",
+    "zipf": 3.38,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Tierparks",
+      "genitive": "Tierparks"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Tier|stem",
+      "Park|stem"
+    ],
+    "senses": [
+      {
+        "en": "zoo (park where live animals are exhibited)",
+        "ko": "동물원",
+        "examples": [
+          {
+            "text": "Am Sonntag besuchen wir den Tierpark.",
+            "ko": "일요일에 우리는 동물원에 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "tippen",
+    "level": "b1",
+    "zipf": 3.76,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "tippt",
+      "past": "tippte",
+      "pp": "getippt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to tap, to strike lightly (often repeatedly)",
+        "ko": "가볍게 두드리다",
+        "examples": [
+          {
+            "text": "Er tippt mir auf die Schulter.",
+            "ko": "그가 내 어깨를 톡 두드린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to type (on a typewriter or keyboard)",
+        "ko": "타자를 치다, 입력하다",
+        "examples": [
+          {
+            "text": "Sie tippt eine Nachricht auf dem Handy.",
+            "ko": "그녀는 휴대폰으로 메시지를 입력한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tod",
+    "level": "b1",
+    "zipf": 5.16,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Tode",
+      "genitive": "Todes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "death",
+        "ko": "죽음",
+        "examples": [
+          {
+            "text": "Der Tod seines Vaters hat ihn sehr getroffen.",
+            "ko": "아버지의 죽음이 그에게 큰 충격을 주었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "tolerant",
+    "level": "b1",
+    "zipf": 3.36,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "toleranter",
+      "superlative": "am tolerantesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "tolerant",
+        "ko": "관용적인, 너그러운",
+        "examples": [
+          {
+            "text": "Unsere Lehrerin ist sehr tolerant.",
+            "ko": "우리 선생님은 매우 너그럽다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tor",
+    "level": "b1",
+    "zipf": 4.8,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Tore",
+      "genitive": "Tores"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "gate, door (large doorway, opening, or passage in a fence or wall)",
+        "ko": "문, 대문",
+        "examples": [
+          {
+            "text": "Das Tor zum Garten ist offen.",
+            "ko": "정원 문이 열려 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "goal (The act of scoring a goal in sports where doing so is the object)",
+        "ko": "골, 득점",
+        "examples": [
+          {
+            "text": "Er schießt in der zweiten Halbzeit ein Tor.",
+            "ko": "그는 후반전에 한 골을 넣는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tote",
+    "level": "b1",
+    "zipf": 4.49,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m",
+        "f"
+      ],
+      "plural": "Tote",
+      "genitive": "Toter"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "dead person, the dead",
+        "ko": "죽은 사람, 사망자",
+        "examples": [
+          {
+            "text": "Die Tote wurde am Morgen gefunden.",
+            "ko": "사망한 여성이 아침에 발견되었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tourismus",
+    "level": "b1",
+    "zipf": 4.29,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Tourismus"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "tourism",
+        "ko": "관광, 관광업",
+        "examples": [
+          {
+            "text": "Der Tourismus ist wichtig für diese Region.",
+            "ko": "관광업은 이 지역에 중요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Touristin",
+    "level": "b1",
+    "zipf": 2.74,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Touristinnen",
+      "genitive": "Touristin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Tourist|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Tourist",
+        "ko": "여성 관광객",
+        "examples": [
+          {
+            "text": "Die Touristin fragt nach dem Weg.",
+            "ko": "여성 관광객이 길을 묻는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tradition",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Traditionen",
+      "genitive": "Tradition"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "tradition",
+        "ko": "전통",
+        "examples": [
+          {
+            "text": "In unserer Familie ist das eine alte Tradition.",
+            "ko": "우리 가족에게 그것은 오래된 전통이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "traditionell",
+    "level": "b1",
+    "zipf": 4.15,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "traditioneller",
+      "superlative": "am traditionellsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "traditional",
+        "ko": "전통적인",
+        "examples": [
+          {
+            "text": "Wir essen an Weihnachten traditionell Gans.",
+            "ko": "우리는 크리스마스에 전통적으로 거위 요리를 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Trainer",
+    "level": "b1",
+    "zipf": 4.81,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Trainer",
+      "genitive": "Trainers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "trainer, coach",
+        "ko": "코치, 트레이너",
+        "examples": [
+          {
+            "text": "Der Trainer lobt die Mannschaft.",
+            "ko": "감독이 팀을 칭찬한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Trainerin",
+    "level": "b1",
+    "zipf": 3.38,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Trainerinnen",
+      "genitive": "Trainerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Trainer|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "trainer or coach (female)",
+        "ko": "여자 코치, 여자 트레이너",
+        "examples": [
+          {
+            "text": "Meine Trainerin ist sehr streng.",
+            "ko": "내 여자 코치는 매우 엄격하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tram",
+    "level": "b1",
+    "zipf": 3.46,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Trams",
+      "genitive": "Tram"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "tram",
+        "ko": "트램, 노면 전차",
+        "examples": [
+          {
+            "text": "Die Tram fährt alle zehn Minuten.",
+            "ko": "트램은 10분마다 다닌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Transport",
+    "level": "b1",
+    "zipf": 4.29,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Transporte",
+      "genitive": "Transportes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "transport",
+        "ko": "운송, 수송",
+        "examples": [
+          {
+            "text": "Der Transport der Möbel kostet viel Geld.",
+            "ko": "가구 운송은 돈이 많이 든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "transportieren",
+    "level": "b1",
+    "zipf": 3.84,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "transportiert",
+      "past": "transportierte",
+      "pp": "transportiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to transport",
+        "ko": "운송하다, 수송하다",
+        "examples": [
+          {
+            "text": "Der Lastwagen transportiert Obst nach München.",
+            "ko": "트럭이 과일을 뮌헨으로 운송한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Treffpunkt",
+    "level": "b1",
+    "zipf": 3.93,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Treffpunkte",
+      "genitive": "Treffpunktes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "treffen|stem",
+      "Punkt|stem"
+    ],
+    "senses": [
+      {
+        "en": "meeting place",
+        "ko": "만나는 장소",
+        "examples": [
+          {
+            "text": "Unser Treffpunkt ist der Bahnhof.",
+            "ko": "우리가 만나는 장소는 기차역이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "treiben",
+    "level": "b1",
+    "zipf": 4.43,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "treibt",
+      "past": "trieb",
+      "pp": "getrieben",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to do, to get up to",
+        "ko": "하다, 종사하다",
+        "examples": [
+          {
+            "text": "Ich treibe jeden Tag Sport.",
+            "ko": "나는 매일 운동을 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to drive (e.g. livestock); to propel; to force",
+        "ko": "몰다, 몰아가다",
+        "examples": [
+          {
+            "text": "Der Hirte treibt die Schafe auf die Wiese.",
+            "ko": "목동이 양들을 풀밭으로 몬다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to drift; to float about",
+        "ko": "떠다니다",
+        "examples": [
+          {
+            "text": "Das Boot treibt auf dem See.",
+            "ko": "배가 호수 위를 떠다닌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "trennen",
+    "level": "b1",
+    "zipf": 4.33,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "trennt",
+      "past": "trennte",
+      "pp": "getrennt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to separate, sever, part, disunite, uncouple, segregate, unjoin, disjoin",
+        "ko": "분리하다, 떼어 놓다",
+        "examples": [
+          {
+            "text": "Wir trennen den Müll in der Küche.",
+            "ko": "우리는 부엌에서 쓰레기를 분리한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to separate, to go apart, to secede, to break off, to break up; to part ways",
+        "ko": "헤어지다, 갈라서다",
+        "examples": [
+          {
+            "text": "Die beiden trennen sich nach zehn Jahren.",
+            "ko": "둘은 10년 만에 헤어진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Trennung",
+    "level": "b1",
+    "zipf": 4.36,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Trennungen",
+      "genitive": "Trennung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "trennen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "separation, parting",
+        "ko": "분리, 이별",
+        "examples": [
+          {
+            "text": "Die Trennung von der Familie fällt ihm schwer.",
+            "ko": "가족과 떨어지는 것이 그에게는 힘들다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "breakup",
+        "ko": "결별, 헤어짐",
+        "examples": [
+          {
+            "text": "Nach der Trennung war sie lange traurig.",
+            "ko": "헤어진 후 그녀는 오래 슬퍼했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Treppenhaus",
+    "level": "b1",
+    "zipf": 3.69,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Treppenhäuser",
+      "genitive": "Treppenhauses"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Treppe|stem",
+      "Haus|stem"
+    ],
+    "senses": [
+      {
+        "en": "stairwell",
+        "ko": "계단실",
+        "examples": [
+          {
+            "text": "Im Treppenhaus riecht es nach Essen.",
+            "ko": "계단실에서 음식 냄새가 난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "treten",
+    "level": "b1",
+    "zipf": 4.7,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "tritt",
+      "past": "trat",
+      "pp": "getreten",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to step, to walk (a short distance)",
+        "ko": "발을 내딛다, 걸어가다",
+        "examples": [
+          {
+            "text": "Er tritt ans Fenster und schaut hinaus.",
+            "ko": "그는 창가로 가서 밖을 내다본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to kick",
+        "ko": "차다",
+        "examples": [
+          {
+            "text": "Der Junge tritt gegen den Ball.",
+            "ko": "소년이 공을 찬다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to pedal",
+        "ko": "페달을 밟다",
+        "examples": [
+          {
+            "text": "Sie tritt kräftig in die Pedale.",
+            "ko": "그녀는 힘차게 페달을 밟는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "treu",
+    "level": "b1",
+    "zipf": 4.15,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "treuer",
+      "superlative": "am treuesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "loyal; faithful; true",
+        "ko": "충실한, 성실한",
+        "examples": [
+          {
+            "text": "Mein Hund ist mir immer treu.",
+            "ko": "내 개는 언제나 나에게 충실하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Trinkgeld",
+    "level": "b1",
+    "zipf": 3.61,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Trinkgelder",
+      "genitive": "Trinkgelds"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "trinken|stem",
+      "Geld|stem"
+    ],
+    "senses": [
+      {
+        "en": "tip (small amount of money given to service providers, such as waiters, hairdressers, taxi drivers etc.)",
+        "ko": "팁",
+        "examples": [
+          {
+            "text": "Wir geben dem Kellner zwei Euro Trinkgeld.",
+            "ko": "우리는 웨이터에게 팁으로 2유로를 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "trocknen",
+    "level": "b1",
+    "zipf": 3.76,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "trocknet",
+      "past": "trocknete",
+      "pp": "getrocknet",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to dry (to become dry, cease being wet)",
+        "ko": "마르다",
+        "examples": [
+          {
+            "text": "Die Wäsche trocknet in der Sonne.",
+            "ko": "빨래가 햇볕에 마른다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to dry (to make dry or let become dry)",
+        "ko": "말리다",
+        "examples": [
+          {
+            "text": "Ich trockne mir die Haare.",
+            "ko": "나는 머리를 말린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tropfen",
+    "level": "b1",
+    "zipf": 4.15,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Tropfen",
+      "number": "pl",
+      "genitive": "Tropfens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "drop",
+        "ko": "방울",
+        "examples": [
+          {
+            "text": "Ein Tropfen Wasser fällt auf den Tisch.",
+            "ko": "물 한 방울이 식탁에 떨어진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "trotz",
+    "level": "b1",
+    "zipf": 5.15,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "in spite of, despite",
+        "ko": "~에도 불구하고",
+        "examples": [
+          {
+            "text": "Trotz des Regens gehen wir spazieren.",
+            "ko": "비가 와도 우리는 산책을 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "trotzdem",
+    "level": "b1",
+    "zipf": 5.25,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "anyhow, nevertheless",
+        "ko": "그럼에도 불구하고",
+        "examples": [
+          {
+            "text": "Ich bin müde, aber ich gehe trotzdem zur Arbeit.",
+            "ko": "피곤하지만 그래도 출근한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Träne",
+    "level": "b1",
+    "zipf": 3.37,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Tränen",
+      "genitive": "Träne"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "tear (in the eye)",
+        "ko": "눈물",
+        "examples": [
+          {
+            "text": "Sie hatte Tränen in den Augen.",
+            "ko": "그녀의 눈에 눈물이 고여 있었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tuch",
+    "level": "b1",
+    "zipf": 3.81,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Tücher",
+      "genitive": "Tuches"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cloth; piece of fabric or tissue of any kind: scarf, kerchief, blanket, towel, etc.",
+        "ko": "천, 수건, 스카프",
+        "examples": [
+          {
+            "text": "Sie wischt den Tisch mit einem Tuch ab.",
+            "ko": "그녀는 천으로 식탁을 닦는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Turm",
+    "level": "b1",
+    "zipf": 4.19,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Türme",
+      "genitive": "Turmes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "tower, spire (very tall building or structure, especially with a tapering top)",
+        "ko": "탑",
+        "examples": [
+          {
+            "text": "Vom Turm hat man einen tollen Blick.",
+            "ko": "탑에서는 전망이 아주 좋다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "rook (piece shaped like a castle tower)",
+        "ko": "룩 (체스 말)",
+        "examples": [
+          {
+            "text": "Beim Schach ziehe ich meinen Turm nach vorn.",
+            "ko": "체스에서 나는 룩을 앞으로 움직인다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Typ",
+    "level": "b1",
+    "zipf": 5.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Typen",
+      "genitive": "Typs"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "type",
+        "ko": "유형, 타입",
+        "examples": [
+          {
+            "text": "Welcher Typ Mensch bist du?",
+            "ko": "너는 어떤 유형의 사람이야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "guy, fellow (informal)",
+        "ko": "녀석, 남자",
+        "examples": [
+          {
+            "text": "Der Typ da drüben ist mein Nachbar.",
+            "ko": "저기 저 남자는 내 이웃이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Täter",
+    "level": "b1",
+    "zipf": 4.64,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Täter",
+      "genitive": "Täters"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "perpetrator, delinquent",
+        "ko": "가해자, 범인",
+        "examples": [
+          {
+            "text": "Die Polizei sucht den Täter.",
+            "ko": "경찰이 범인을 찾고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Täterin",
+    "level": "b1",
+    "zipf": 2.81,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Täterinnen",
+      "genitive": "Täterin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Täter|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female perpetrator",
+        "ko": "여성 가해자, 여성 범인",
+        "examples": [
+          {
+            "text": "Die Täterin wurde schnell gefasst.",
+            "ko": "여성 범인은 빠르게 붙잡혔다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tätigkeit",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Tätigkeiten",
+      "genitive": "Tätigkeit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "tätig|stem",
+      "-keit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "activity",
+        "ko": "활동",
+        "examples": [
+          {
+            "text": "Lesen ist eine ruhige Tätigkeit.",
+            "ko": "독서는 조용한 활동이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "job",
+        "ko": "일, 업무",
+        "examples": [
+          {
+            "text": "Seine Tätigkeit macht ihm viel Spaß.",
+            "ko": "그는 자기 일이 매우 즐겁다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "tödlich",
+    "level": "b1",
+    "zipf": 4.02,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "tödlicher",
+      "superlative": "am tödlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Tod|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "deadly, mortal, lethal, fatal",
+        "ko": "치명적인, 죽음에 이르는",
+        "examples": [
+          {
+            "text": "Dieser Pilz ist tödlich.",
+            "ko": "이 버섯은 치명적이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Tüte",
+    "level": "b1",
+    "zipf": 3.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Tüten",
+      "genitive": "Tüte"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a small to medium-sized bag, usually of paper or plastic (sometimes also of fabric, for which more properly Beutel is used)",
+        "ko": "봉지, 봉투",
+        "examples": [
+          {
+            "text": "Brauchen Sie eine Tüte?",
+            "ko": "봉지 필요하세요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

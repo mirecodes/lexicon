@@ -1,0 +1,2064 @@
+[
+  {
+    "word": "Rabatt",
+    "level": "b1",
+    "zipf": 4.06,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Rabatte",
+      "genitive": "Rabatts"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "discount (reduction in price)",
+        "ko": "할인",
+        "examples": [
+          {
+            "text": "Studenten bekommen zehn Prozent Rabatt.",
+            "ko": "학생들은 10퍼센트 할인을 받는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Radfahrer",
+    "level": "b1",
+    "zipf": 4.19,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Radfahrer",
+      "genitive": "Radfahrers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Rad|stem",
+      "Fahrer|stem"
+    ],
+    "senses": [
+      {
+        "en": "agent noun of Rad fahren: cyclist",
+        "ko": "자전거 타는 사람",
+        "examples": [
+          {
+            "text": "Der Radfahrer wartet an der Ampel.",
+            "ko": "자전거 타는 사람이 신호등에서 기다린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Rand",
+    "level": "b1",
+    "zipf": 4.47,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Ränder",
+      "genitive": "Randes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "edge, brink, rim (outer part of something)",
+        "ko": "가장자리",
+        "examples": [
+          {
+            "text": "Das Glas steht am Rand des Tisches.",
+            "ko": "유리잔이 탁자 가장자리에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "ledge, margin",
+        "ko": "여백",
+        "examples": [
+          {
+            "text": "Schreib deine Notizen an den Rand.",
+            "ko": "메모는 여백에 적어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Rasen",
+    "level": "b1",
+    "zipf": 4.12,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Rasen",
+      "genitive": "Rasens"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "lawn",
+        "ko": "잔디",
+        "examples": [
+          {
+            "text": "Die Kinder spielen auf dem Rasen.",
+            "ko": "아이들이 잔디밭에서 논다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "rasieren",
+    "level": "b1",
+    "zipf": 3.56,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "rasiert",
+      "past": "rasierte",
+      "pp": "rasiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to shave",
+        "ko": "면도하다",
+        "examples": [
+          {
+            "text": "Mein Vater rasiert sich jeden Morgen.",
+            "ko": "우리 아버지는 매일 아침 면도하신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Rat",
+    "level": "b1",
+    "zipf": 4.74,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Räte",
+      "genitive": "Rates"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "advice, counsel",
+        "ko": "조언",
+        "examples": [
+          {
+            "text": "Ich brauche deinen Rat.",
+            "ko": "나는 네 조언이 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "council",
+        "ko": "위원회, 의회",
+        "examples": [
+          {
+            "text": "Der Rat der Stadt entscheidet heute.",
+            "ko": "시 의회가 오늘 결정한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ratschlag",
+    "level": "b1",
+    "zipf": 3.4,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Ratschläge",
+      "genitive": "Ratschlages"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Rat|stem",
+      "Schlag|stem"
+    ],
+    "senses": [
+      {
+        "en": "piece of advice; (in plural) advice",
+        "ko": "충고, 조언",
+        "examples": [
+          {
+            "text": "Danke für deinen Ratschlag.",
+            "ko": "조언 고마워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Raucher",
+    "level": "b1",
+    "zipf": 3.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Raucher",
+      "genitive": "Rauchers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "rauchen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "agent noun of rauchen; smoker",
+        "ko": "흡연자",
+        "examples": [
+          {
+            "text": "Der Raucher geht vor die Tür.",
+            "ko": "흡연자가 문 밖으로 나간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "rauf",
+    "level": "b1",
+    "zipf": 3.81,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "up, up here, upstairs (towards the speaker)",
+        "ko": "위로",
+        "examples": [
+          {
+            "text": "Komm rauf, ich bin im dritten Stock!",
+            "ko": "위로 올라와, 나 4층에 있어!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "raus",
+    "level": "b1",
+    "zipf": 5.19,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "out, out of here, outta here",
+        "ko": "밖으로",
+        "examples": [
+          {
+            "text": "Komm schnell raus, die Sonne scheint!",
+            "ko": "빨리 나와, 해가 떴어!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "reagieren",
+    "level": "b1",
+    "zipf": 4.42,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "reagiert",
+      "past": "reagierte",
+      "pp": "reagiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to react; to respond",
+        "ko": "반응하다",
+        "examples": [
+          {
+            "text": "Er reagiert nicht auf meine E-Mail.",
+            "ko": "그는 내 이메일에 반응이 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Reaktion",
+    "level": "b1",
+    "zipf": 4.65,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Reaktionen",
+      "genitive": "Reaktion"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "reaction (responding or countering action)",
+        "ko": "반응",
+        "examples": [
+          {
+            "text": "Seine Reaktion war sehr ruhig.",
+            "ko": "그의 반응은 매우 차분했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "realisieren",
+    "level": "b1",
+    "zipf": 3.94,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "realisiert",
+      "past": "realisierte",
+      "pp": "realisiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to realize (to make real, to implement)",
+        "ko": "실현하다",
+        "examples": [
+          {
+            "text": "Sie will ihren Traum realisieren.",
+            "ko": "그녀는 자기 꿈을 실현하고 싶어 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to realize, to understand (to become aware of)",
+        "ko": "깨닫다, 인식하다",
+        "examples": [
+          {
+            "text": "Ich realisiere jetzt, was passiert ist.",
+            "ko": "나는 이제야 무슨 일이 일어났는지 깨닫는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "realistisch",
+    "level": "b1",
+    "zipf": 3.96,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "realistischer",
+      "superlative": "am realistischsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "realistic",
+        "ko": "현실적인",
+        "examples": [
+          {
+            "text": "Dein Plan ist nicht realistisch.",
+            "ko": "네 계획은 현실적이지 않다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Realität",
+    "level": "b1",
+    "zipf": 4.6,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Realitäten",
+      "genitive": "Realität"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "reality (state of being real)",
+        "ko": "현실",
+        "examples": [
+          {
+            "text": "Die Realität sieht anders aus.",
+            "ko": "현실은 다르다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Recherche",
+    "level": "b1",
+    "zipf": 4.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Recherchen",
+      "genitive": "Recherche"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "research, investigation (many contexts, but especially journalism)",
+        "ko": "조사, 취재",
+        "examples": [
+          {
+            "text": "Für den Artikel macht sie eine lange Recherche.",
+            "ko": "그녀는 그 기사를 위해 오랜 조사를 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Rechner",
+    "level": "b1",
+    "zipf": 4.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Rechner",
+      "genitive": "Rechners"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "rechnen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "computer; calculator",
+        "ko": "컴퓨터, 계산기",
+        "examples": [
+          {
+            "text": "Mein Rechner ist sehr langsam.",
+            "ko": "내 컴퓨터는 매우 느리다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Recht",
+    "level": "b1",
+    "zipf": 5.61,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Rechte",
+      "genitive": "Rechtes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "right, privilege",
+        "ko": "권리",
+        "examples": [
+          {
+            "text": "Jeder hat das Recht auf Bildung.",
+            "ko": "누구나 교육받을 권리가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "law (the entirety of legal regulations set in a code of law)",
+        "ko": "법",
+        "examples": [
+          {
+            "text": "Er studiert Recht.",
+            "ko": "그는 법학을 공부한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "recht",
+    "level": "b1",
+    "zipf": 5.61,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "right, proper; quite",
+        "ko": "올바른, 꽤",
+        "examples": [
+          {
+            "text": "Das Wetter ist heute recht schön.",
+            "ko": "오늘 날씨가 꽤 좋다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "right, privilege",
+        "ko": "권리",
+        "examples": [
+          {
+            "text": "Du hast Recht.",
+            "ko": "네 말이 맞아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "rechtlich",
+    "level": "b1",
+    "zipf": 4.12,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Recht|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "legal",
+        "ko": "법적인",
+        "examples": [
+          {
+            "text": "Das ist rechtlich nicht erlaubt.",
+            "ko": "그것은 법적으로 허용되지 않는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "rechtzeitig",
+    "level": "b1",
+    "zipf": 4.37,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "recht|stem",
+      "Zeit|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "punctual",
+        "ko": "제시간에, 때맞춰",
+        "examples": [
+          {
+            "text": "Wir müssen rechtzeitig am Bahnhof sein.",
+            "ko": "우리는 제시간에 기차역에 도착해야 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Rede",
+    "level": "b1",
+    "zipf": 5.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Reden",
+      "genitive": "Rede"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "speech, address",
+        "ko": "연설",
+        "examples": [
+          {
+            "text": "Der Chef hält eine kurze Rede.",
+            "ko": "사장님이 짧은 연설을 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "reduzieren",
+    "level": "b1",
+    "zipf": 4.22,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "reduziert",
+      "past": "reduzierte",
+      "pp": "reduziert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to reduce",
+        "ko": "줄이다",
+        "examples": [
+          {
+            "text": "Wir wollen den Müll reduzieren.",
+            "ko": "우리는 쓰레기를 줄이고 싶다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Referat",
+    "level": "b1",
+    "zipf": 3.74,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Referate",
+      "genitive": "Referates"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "oral report, presentation (brief verbal or slideshow-supported introduction to a topic, especially at conferences and as a graded exercise in education)",
+        "ko": "발표, 리포트",
+        "examples": [
+          {
+            "text": "Ich halte morgen ein Referat über Berlin.",
+            "ko": "나는 내일 베를린에 대해 발표한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Reform",
+    "level": "b1",
+    "zipf": 4.27,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Reformen",
+      "genitive": "Reform"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "reform",
+        "ko": "개혁",
+        "examples": [
+          {
+            "text": "Die Regierung plant eine Reform.",
+            "ko": "정부가 개혁을 계획하고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Regal",
+    "level": "b1",
+    "zipf": 3.88,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Regale",
+      "genitive": "Regals"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a rack of shelves, shelving, a shelf (in this collective sense), e.g. an open bookcase",
+        "ko": "선반, 책장",
+        "examples": [
+          {
+            "text": "Die Bücher stehen im Regal.",
+            "ko": "책들이 선반에 꽂혀 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Regel",
+    "level": "b1",
+    "zipf": 4.99,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Regeln",
+      "genitive": "Regel"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "rule",
+        "ko": "규칙",
+        "examples": [
+          {
+            "text": "Das ist eine wichtige Regel.",
+            "ko": "이것은 중요한 규칙이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "the usual, the default, the norm",
+        "ko": "보통, 원칙",
+        "examples": [
+          {
+            "text": "In der Regel stehe ich früh auf.",
+            "ko": "보통 나는 일찍 일어난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "regelmäßig",
+    "level": "b1",
+    "zipf": 4.87,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "regelmäßiger",
+      "superlative": "am regelmäßigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Regel|stem",
+      "-mäßig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "regular; periodic; happening at constant intervals; frequent",
+        "ko": "규칙적인, 정기적인",
+        "examples": [
+          {
+            "text": "Ich gehe regelmäßig schwimmen.",
+            "ko": "나는 규칙적으로 수영하러 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "regeln",
+    "level": "b1",
+    "zipf": 4.85,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "regelt",
+      "past": "regelte",
+      "pp": "geregelt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to take care of, to deal with, to see to (errands, a situation, a small task)",
+        "ko": "처리하다",
+        "examples": [
+          {
+            "text": "Ich regle das morgen für dich.",
+            "ko": "내가 내일 그걸 처리해 줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to regulate",
+        "ko": "규제하다, 조절하다",
+        "examples": [
+          {
+            "text": "Die Ampel regelt den Verkehr.",
+            "ko": "신호등이 교통을 조절한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Region",
+    "level": "b1",
+    "zipf": 5.01,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Regionen",
+      "genitive": "Region"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "region",
+        "ko": "지역",
+        "examples": [
+          {
+            "text": "Ich komme aus einer ländlichen Region.",
+            "ko": "나는 시골 지역 출신이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "regional",
+    "level": "b1",
+    "zipf": 4.16,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "regional",
+        "ko": "지역의, 지역적인",
+        "examples": [
+          {
+            "text": "Ich kaufe gern regionale Produkte.",
+            "ko": "나는 지역 제품을 즐겨 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "reichen",
+    "level": "b1",
+    "zipf": 4.74,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "reicht",
+      "past": "reichte",
+      "pp": "gereicht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to suffice, to be enough, to do (for a certain purpose)",
+        "ko": "충분하다",
+        "examples": [
+          {
+            "text": "Das Geld reicht nicht.",
+            "ko": "돈이 충분하지 않다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to pass, to hand, to serve, to put within reach",
+        "ko": "건네주다",
+        "examples": [
+          {
+            "text": "Kannst du mir bitte das Salz reichen?",
+            "ko": "소금 좀 건네줄래?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "reif",
+    "level": "b1",
+    "zipf": 3.94,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "reifer",
+      "superlative": "am reifsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ripe",
+        "ko": "익은",
+        "examples": [
+          {
+            "text": "Die Äpfel sind reif.",
+            "ko": "사과가 익었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "mature",
+        "ko": "성숙한",
+        "examples": [
+          {
+            "text": "Sie ist reif für ihr Alter.",
+            "ko": "그녀는 나이에 비해 성숙하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Reihenfolge",
+    "level": "b1",
+    "zipf": 4.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Reihenfolgen",
+      "genitive": "Reihenfolge"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Reihe|stem",
+      "Folge|stem"
+    ],
+    "senses": [
+      {
+        "en": "order, sequence",
+        "ko": "순서",
+        "examples": [
+          {
+            "text": "Bitte beachten Sie die Reihenfolge.",
+            "ko": "순서를 지켜 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "rein",
+    "level": "b1",
+    "zipf": 5.16,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "reiner",
+      "superlative": "am reinsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pure, clear, plain",
+        "ko": "순수한, 깨끗한",
+        "examples": [
+          {
+            "text": "Das Wasser hier ist rein.",
+            "ko": "여기 물은 깨끗하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "in, inside (short for herein/hinein)",
+        "ko": "안으로",
+        "examples": [
+          {
+            "text": "Komm rein, es ist kalt!",
+            "ko": "안으로 들어와, 추워!",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "reinigen",
+    "level": "b1",
+    "zipf": 3.83,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "reinigt",
+      "past": "reinigte",
+      "pp": "gereinigt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to clean",
+        "ko": "청소하다, 세탁하다",
+        "examples": [
+          {
+            "text": "Ich lasse meinen Mantel reinigen.",
+            "ko": "나는 코트를 세탁 맡긴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Reklame",
+    "level": "b1",
+    "zipf": 3.24,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Reklamen",
+      "genitive": "Reklame"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "advertisement",
+        "ko": "광고",
+        "examples": [
+          {
+            "text": "Im Fernsehen läuft zu viel Reklame.",
+            "ko": "텔레비전에 광고가 너무 많이 나온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Rekord",
+    "level": "b1",
+    "zipf": 4.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Rekorde",
+      "genitive": "Rekordes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "record (most extreme known value of some achievement)",
+        "ko": "기록",
+        "examples": [
+          {
+            "text": "Er hat einen neuen Rekord aufgestellt.",
+            "ko": "그는 새 기록을 세웠다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "relativ",
+    "level": "b1",
+    "zipf": 4.81,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "relativer",
+      "superlative": "am relativsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "relative",
+        "ko": "상대적인, 비교적",
+        "examples": [
+          {
+            "text": "Das Hotel ist relativ billig.",
+            "ko": "그 호텔은 비교적 싸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Religion",
+    "level": "b1",
+    "zipf": 4.71,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Religionen",
+      "genitive": "Religion"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "religion",
+        "ko": "종교",
+        "examples": [
+          {
+            "text": "Religion ist ihr wichtig.",
+            "ko": "그녀에게는 종교가 중요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "rennen",
+    "level": "b1",
+    "zipf": 4.78,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "rennt",
+      "past": "rannte",
+      "pp": "gerannt",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to run; to race; to sprint (said of competing sportsmen, animals etc.)",
+        "ko": "달리다, 뛰다",
+        "examples": [
+          {
+            "text": "Die Kinder rennen durch den Garten.",
+            "ko": "아이들이 정원을 뛰어다닌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Rente",
+    "level": "b1",
+    "zipf": 4.38,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Renten",
+      "genitive": "Rente"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pension, retirement pay",
+        "ko": "연금",
+        "examples": [
+          {
+            "text": "Mein Opa bekommt jeden Monat Rente.",
+            "ko": "우리 할아버지는 매달 연금을 받으신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Reportage",
+    "level": "b1",
+    "zipf": 3.71,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Reportagen",
+      "genitive": "Reportage"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a report of some length and depth, including first-hand accounts, sometimes investigative",
+        "ko": "르포, 취재 보도",
+        "examples": [
+          {
+            "text": "Ich habe eine Reportage über Afrika gesehen.",
+            "ko": "나는 아프리카에 관한 르포를 봤다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Reporter",
+    "level": "b1",
+    "zipf": 4.13,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Reporter",
+      "genitive": "Reporters"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "reporter (male or of unspecified gender)",
+        "ko": "기자",
+        "examples": [
+          {
+            "text": "Der Reporter stellt viele Fragen.",
+            "ko": "기자가 많은 질문을 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Reservierung",
+    "level": "b1",
+    "zipf": 3.36,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Reservierungen",
+      "genitive": "Reservierung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "reservieren|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "reservation, booking",
+        "ko": "예약",
+        "examples": [
+          {
+            "text": "Haben Sie eine Reservierung?",
+            "ko": "예약하셨나요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Respekt",
+    "level": "b1",
+    "zipf": 4.62,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Respektes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "respect, regard, reverence",
+        "ko": "존경, 존중",
+        "examples": [
+          {
+            "text": "Ich habe großen Respekt vor ihm.",
+            "ko": "나는 그를 매우 존경한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "retten",
+    "level": "b1",
+    "zipf": 4.6,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "rettet",
+      "past": "rettete",
+      "pp": "gerettet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to save, to rescue",
+        "ko": "구하다, 구조하다",
+        "examples": [
+          {
+            "text": "Der Mann rettet das Kind aus dem Wasser.",
+            "ko": "그 남자가 물에서 아이를 구한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Richter",
+    "level": "b1",
+    "zipf": 4.8,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Richter",
+      "genitive": "Richters"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "richten|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "judge",
+        "ko": "판사",
+        "examples": [
+          {
+            "text": "Der Richter hört dem Zeugen zu.",
+            "ko": "판사가 증인의 말을 듣는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Richtung",
+    "level": "b1",
+    "zipf": 5.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Richtungen",
+      "genitive": "Richtung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "richten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "direction",
+        "ko": "방향",
+        "examples": [
+          {
+            "text": "In welche Richtung muss ich gehen?",
+            "ko": "나는 어느 방향으로 가야 해요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "riesig",
+    "level": "b1",
+    "zipf": 4.04,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "riesiger",
+      "superlative": "am riesigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Riese|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "gigantic, huge",
+        "ko": "거대한, 엄청난",
+        "examples": [
+          {
+            "text": "Das Haus ist riesig.",
+            "ko": "그 집은 엄청나게 크다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Risiko",
+    "level": "b1",
+    "zipf": 4.64,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Risiken",
+      "genitive": "Risikos"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "risk",
+        "ko": "위험, 리스크",
+        "examples": [
+          {
+            "text": "Das Risiko ist zu hoch.",
+            "ko": "위험이 너무 크다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "roh",
+    "level": "b1",
+    "zipf": 3.51,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "roher",
+      "superlative": "am rohsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "raw (uncooked)",
+        "ko": "날것의, 익히지 않은",
+        "examples": [
+          {
+            "text": "Ich esse keinen rohen Fisch.",
+            "ko": "나는 날생선을 먹지 않는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Rolle",
+    "level": "b1",
+    "zipf": 5.16,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Rollen",
+      "genitive": "Rolle"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "role, part",
+        "ko": "역할",
+        "examples": [
+          {
+            "text": "Sie spielt die Hauptrolle im Film.",
+            "ko": "그녀는 영화에서 주연 역할을 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "roll, reel, spool",
+        "ko": "두루마리, 릴",
+        "examples": [
+          {
+            "text": "Ich brauche eine neue Rolle Papier.",
+            "ko": "나는 새 종이 한 롤이 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Roman",
+    "level": "b1",
+    "zipf": 4.66,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Romane",
+      "genitive": "Romanes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "novel",
+        "ko": "소설",
+        "examples": [
+          {
+            "text": "Ich lese gerade einen spannenden Roman.",
+            "ko": "나는 지금 흥미진진한 소설을 읽고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Rufnummer",
+    "level": "b1",
+    "zipf": 3.43,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Rufnummern",
+      "genitive": "Rufnummer"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Ruf|stem",
+      "Nummer|stem"
+    ],
+    "senses": [
+      {
+        "en": "telephone number",
+        "ko": "전화번호",
+        "examples": [
+          {
+            "text": "Wie ist Ihre Rufnummer?",
+            "ko": "전화번호가 어떻게 되세요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Runde",
+    "level": "b1",
+    "zipf": 4.92,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Runden",
+      "genitive": "Runde"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "circle, group (constellation of friends or colleagues engaging in a shared activity)",
+        "ko": "모임, 무리",
+        "examples": [
+          {
+            "text": "Wir sitzen in einer netten Runde zusammen.",
+            "ko": "우리는 좋은 사람들끼리 모여 앉아 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "round (of drinks)",
+        "ko": "(술) 한 순배, 한 잔씩",
+        "examples": [
+          {
+            "text": "Ich gebe eine Runde aus.",
+            "ko": "내가 한 잔씩 살게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "lap (one circuit around a race track)",
+        "ko": "한 바퀴",
+        "examples": [
+          {
+            "text": "Er läuft drei Runden um den Platz.",
+            "ko": "그는 광장을 세 바퀴 달린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Rundfahrt",
+    "level": "b1",
+    "zipf": 3.41,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Rundfahrten",
+      "genitive": "Rundfahrt"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "rund|stem",
+      "Fahrt|stem"
+    ],
+    "senses": [
+      {
+        "en": "tour",
+        "ko": "관광 여행, 일주",
+        "examples": [
+          {
+            "text": "Wir machen eine Rundfahrt durch die Stadt.",
+            "ko": "우리는 시내를 한 바퀴 돌며 관광한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "runterwerfen",
+    "level": "b1",
+    "zipf": 1.2,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": false,
+      "present3": "wirft runter",
+      "past": "warf runter",
+      "pp": "runtergeworfen",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "runter"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "runter|sep",
+      "werfen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to throw down",
+        "ko": "던져 떨어뜨리다, 내던지다",
+        "examples": [
+          {
+            "text": "Er wirft den Ball vom Balkon runter.",
+            "ko": "그는 발코니에서 공을 아래로 던진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Rückfahrt",
+    "level": "b1",
+    "zipf": 3.49,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Rückfahrten",
+      "genitive": "Rückfahrt"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "rück|stem",
+      "Fahrt|stem"
+    ],
+    "senses": [
+      {
+        "en": "return trip",
+        "ko": "귀로, 돌아가는 길",
+        "examples": [
+          {
+            "text": "Die Rückfahrt dauert zwei Stunden.",
+            "ko": "돌아가는 길은 두 시간 걸린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Rückkehr",
+    "level": "b1",
+    "zipf": 4.49,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Rückkehr"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "rück|stem",
+      "Kehr|stem"
+    ],
+    "senses": [
+      {
+        "en": "return",
+        "ko": "귀환, 돌아옴",
+        "examples": [
+          {
+            "text": "Wir freuen uns auf deine Rückkehr.",
+            "ko": "우리는 네가 돌아오기를 기대하고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Rücksicht",
+    "level": "b1",
+    "zipf": 4.07,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Rücksichten",
+      "genitive": "Rücksicht"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "rück|stem",
+      "Sicht|stem"
+    ],
+    "senses": [
+      {
+        "en": "consideration (the tendency to consider others)",
+        "ko": "배려, 고려",
+        "examples": [
+          {
+            "text": "Bitte nimm Rücksicht auf die Nachbarn.",
+            "ko": "이웃들을 배려해 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "rückwärts",
+    "level": "b1",
+    "zipf": 3.95,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "rück|stem",
+      "wärts|suffix"
+    ],
+    "senses": [
+      {
+        "en": "backwards",
+        "ko": "뒤로, 거꾸로",
+        "examples": [
+          {
+            "text": "Er fährt rückwärts in die Garage.",
+            "ko": "그는 차를 후진해서 차고에 넣는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

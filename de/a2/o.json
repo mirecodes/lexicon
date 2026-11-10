@@ -1,0 +1,188 @@
+[
+  {
+    "word": "offen",
+    "level": "a2",
+    "zipf": 4.99,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "offener",
+      "superlative": "am offensten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "open",
+        "ko": "열린, 열려 있는",
+        "examples": [
+          {
+            "text": "Das Fenster ist offen.",
+            "ko": "창문이 열려 있어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "frank, candid",
+        "ko": "솔직한",
+        "examples": [
+          {
+            "text": "Sie ist immer offen zu mir.",
+            "ko": "그녀는 항상 나에게 솔직해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ohr",
+    "level": "a2",
+    "zipf": 4.35,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Ohren",
+      "genitive": "Ohres"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ear (the auditory organ)",
+        "ko": "귀",
+        "examples": [
+          {
+            "text": "Mein Ohr tut weh.",
+            "ko": "귀가 아파요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "online",
+    "level": "a2",
+    "zipf": 5.38,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "online",
+        "ko": "온라인의, 온라인으로",
+        "examples": [
+          {
+            "text": "Ich kaufe das Ticket online.",
+            "ko": "나는 티켓을 온라인으로 사요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Orange",
+    "level": "a2",
+    "zipf": 4.15,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Orangen",
+      "genitive": "Orange"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "orange (fruit)",
+        "ko": "오렌지",
+        "examples": [
+          {
+            "text": "Ich esse jeden Morgen eine Orange.",
+            "ko": "나는 매일 아침 오렌지를 하나 먹어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "organisieren",
+    "level": "a2",
+    "zipf": 4.18,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "organisiert",
+      "past": "organisierte",
+      "pp": "organisiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to organize",
+        "ko": "조직하다, 준비하다",
+        "examples": [
+          {
+            "text": "Wir organisieren eine Party.",
+            "ko": "우리는 파티를 준비해요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Öl",
+    "level": "a2",
+    "zipf": 4.45,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Öle",
+      "genitive": "Öles"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "oil",
+        "ko": "기름, 오일",
+        "examples": [
+          {
+            "text": "Ich brauche Öl zum Kochen.",
+            "ko": "요리하려면 기름이 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1814 @@
+[
+  {
+    "word": "Dach",
+    "level": "b1",
+    "zipf": 4.57,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Dächer",
+      "genitive": "Daches"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "roof",
+        "ko": "지붕",
+        "examples": [
+          {
+            "text": "Das Dach ist rot.",
+            "ko": "지붕은 빨간색이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dagegen",
+    "level": "b1",
+    "zipf": 5.14,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "against it, against that",
+        "ko": "그것에 반대하여",
+        "examples": [
+          {
+            "text": "Ich bin dagegen.",
+            "ko": "나는 반대야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "on the other hand, in contrast",
+        "ko": "그에 반해",
+        "examples": [
+          {
+            "text": "Ich trinke Tee, mein Bruder dagegen trinkt Kaffee.",
+            "ko": "나는 차를 마시는데, 내 남동생은 반대로 커피를 마신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "daher",
+    "level": "b1",
+    "zipf": 5.37,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "therefore; because of that; hence; thus",
+        "ko": "그래서, 그 때문에",
+        "examples": [
+          {
+            "text": "Es regnet, daher bleibe ich zu Hause.",
+            "ko": "비가 와서 나는 집에 있는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "from there, thence",
+        "ko": "거기서부터",
+        "examples": [
+          {
+            "text": "Daher kommt der Lärm.",
+            "ko": "소음은 거기서 나온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dahin",
+    "level": "b1",
+    "zipf": 4.8,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "there (to or into that place; thither)",
+        "ko": "거기로",
+        "examples": [
+          {
+            "text": "Wie komme ich dahin?",
+            "ko": "거기에는 어떻게 가요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "over, gone",
+        "ko": "사라진, 지나간",
+        "examples": [
+          {
+            "text": "Der Sommer ist dahin.",
+            "ko": "여름이 지나가 버렸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "damit",
+    "level": "b1",
+    "zipf": 5.96,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "da|stem",
+      "mit|stem"
+    ],
+    "senses": [
+      {
+        "en": "with it, with that",
+        "ko": "그것으로, 그것과 함께",
+        "examples": [
+          {
+            "text": "Was machst du damit?",
+            "ko": "너 그걸로 뭐 해?",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "so that (conjunction)",
+        "ko": "~하도록, ~하기 위해",
+        "examples": [
+          {
+            "text": "Ich lerne, damit ich die Prüfung bestehe.",
+            "ko": "나는 시험에 합격하려고 공부한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "danach",
+    "level": "b1",
+    "zipf": 5.3,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "da|stem",
+      "nach|stem"
+    ],
+    "senses": [
+      {
+        "en": "after it, after that; thereafter (formal), afterwards",
+        "ko": "그 후에",
+        "examples": [
+          {
+            "text": "Wir essen, danach gehen wir spazieren.",
+            "ko": "우리는 먹고, 그 후에 산책한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dankbar",
+    "level": "b1",
+    "zipf": 4.44,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "dankbarer",
+      "superlative": "am dankbarsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Dank|stem",
+      "-bar|suffix"
+    ],
+    "senses": [
+      {
+        "en": "grateful, thankful",
+        "ko": "고마워하는",
+        "examples": [
+          {
+            "text": "Ich bin dir sehr dankbar.",
+            "ko": "나는 너에게 정말 고마워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "darstellen",
+    "level": "b1",
+    "zipf": 4.4,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "stellt dar",
+      "past": "stellte dar",
+      "pp": "dargestellt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "dar"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "dar|sep",
+      "stellen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to depict; represent",
+        "ko": "묘사하다, 나타내다",
+        "examples": [
+          {
+            "text": "Das Bild stellt einen Wald dar.",
+            "ko": "그 그림은 숲을 묘사한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Darstellung",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Darstellungen",
+      "genitive": "Darstellung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "darstellen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "depiction, presentation",
+        "ko": "묘사, 표현",
+        "examples": [
+          {
+            "text": "Die Darstellung im Film ist sehr realistisch.",
+            "ko": "영화 속 묘사가 아주 사실적이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Daten",
+    "level": "b1",
+    "zipf": 5.02,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "number": "pl"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "data",
+        "ko": "데이터, 자료",
+        "examples": [
+          {
+            "text": "Bitte geben Sie Ihre Daten ein.",
+            "ko": "정보를 입력해 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Dauer",
+    "level": "b1",
+    "zipf": 4.57,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Dauern",
+      "genitive": "Dauer"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "duration",
+        "ko": "지속 시간, 기간",
+        "examples": [
+          {
+            "text": "Die Dauer des Films ist zwei Stunden.",
+            "ko": "영화 상영 시간은 두 시간이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dauer",
+    "level": "b1",
+    "zipf": 4.57,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "duration",
+        "ko": "지속 시간, 기간",
+        "examples": [
+          {
+            "text": "Die Dauer der Reise ist fünf Tage.",
+            "ko": "여행 기간은 닷새다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dauernd",
+    "level": "b1",
+    "zipf": 4.2,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "constant, incessant",
+        "ko": "끊임없는, 계속되는",
+        "examples": [
+          {
+            "text": "Der dauernde Lärm nervt mich.",
+            "ko": "끊임없는 소음이 나를 짜증나게 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "constantly, all the time (adverb)",
+        "ko": "계속, 늘",
+        "examples": [
+          {
+            "text": "Du fragst dauernd dasselbe.",
+            "ko": "너는 늘 같은 것만 물어봐.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Decke",
+    "level": "b1",
+    "zipf": 4.36,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Decken",
+      "genitive": "Decke"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ceiling (surface at the upper limit of a room or cavity)",
+        "ko": "천장",
+        "examples": [
+          {
+            "text": "An der Decke hängt eine Lampe.",
+            "ko": "천장에 전등이 걸려 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "any cloth or cushion used as a covering; a tablecloth, blanket, quilt, duvet, etc.",
+        "ko": "담요, 이불, 덮개",
+        "examples": [
+          {
+            "text": "Im Winter brauche ich eine warme Decke.",
+            "ko": "겨울에는 따뜻한 담요가 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dekorieren",
+    "level": "b1",
+    "zipf": 3.02,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "dekoriert",
+      "past": "dekorierte",
+      "pp": "dekoriert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to decorate",
+        "ko": "장식하다",
+        "examples": [
+          {
+            "text": "Wir dekorieren den Weihnachtsbaum.",
+            "ko": "우리는 크리스마스트리를 장식한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Denkmal",
+    "level": "b1",
+    "zipf": 4.05,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Denkmale",
+      "genitive": "Denkmales"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "denken|stem",
+      "Mal|stem"
+    ],
+    "senses": [
+      {
+        "en": "monument, memorial",
+        "ko": "기념비, 기념물",
+        "examples": [
+          {
+            "text": "Vor dem Rathaus steht ein Denkmal.",
+            "ko": "시청 앞에 기념비가 서 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "derselbe",
+    "level": "b1",
+    "zipf": 3.86,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "der|stem",
+      "selbe|stem"
+    ],
+    "senses": [
+      {
+        "en": "the same",
+        "ko": "같은, 동일한",
+        "examples": [
+          {
+            "text": "Wir haben denselben Lehrer.",
+            "ko": "우리는 같은 선생님이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Dessert",
+    "level": "b1",
+    "zipf": 3.49,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Desserts",
+      "genitive": "Desserts"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "dessert",
+        "ko": "디저트, 후식",
+        "examples": [
+          {
+            "text": "Zum Dessert nehme ich ein Eis.",
+            "ko": "디저트로 아이스크림을 먹을게요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "deswegen",
+    "level": "b1",
+    "zipf": 4.99,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "des|stem",
+      "wegen|stem"
+    ],
+    "senses": [
+      {
+        "en": "therefore, because of that",
+        "ko": "그래서, 그 때문에",
+        "examples": [
+          {
+            "text": "Ich bin müde, deswegen gehe ich früh schlafen.",
+            "ko": "나는 피곤해서 일찍 자러 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Detail",
+    "level": "b1",
+    "zipf": 4.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Details",
+      "genitive": "Details"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "detail",
+        "ko": "세부 사항",
+        "examples": [
+          {
+            "text": "Ich kenne nicht alle Details.",
+            "ko": "나는 세부 사항을 다 알지는 못한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Dialekt",
+    "level": "b1",
+    "zipf": 3.89,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Dialekte",
+      "genitive": "Dialektes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "dialect",
+        "ko": "사투리, 방언",
+        "examples": [
+          {
+            "text": "In Bayern spricht man einen Dialekt.",
+            "ko": "바이에른에서는 사투리를 쓴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Dialog",
+    "level": "b1",
+    "zipf": 4.3,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Dialoge",
+      "genitive": "Dialoges"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "dialogue",
+        "ko": "대화",
+        "examples": [
+          {
+            "text": "Wir üben einen Dialog im Kurs.",
+            "ko": "우리는 수업에서 대화를 연습한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dicht",
+    "level": "b1",
+    "zipf": 4.44,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "dichter",
+      "superlative": "am dichtesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "thick, tight, dense",
+        "ko": "빽빽한, 촘촘한",
+        "examples": [
+          {
+            "text": "Der Nebel ist heute sehr dicht.",
+            "ko": "오늘은 안개가 아주 짙어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "closed, out of operation, out of business",
+        "ko": "닫힌, 영업하지 않는",
+        "examples": [
+          {
+            "text": "Das Geschäft ist schon dicht.",
+            "ko": "그 가게는 벌써 문을 닫았어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "close",
+        "ko": "바싹, 가까운",
+        "examples": [
+          {
+            "text": "Er steht dicht neben mir.",
+            "ko": "그는 내 바로 옆에 서 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Dieb",
+    "level": "b1",
+    "zipf": 3.83,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Diebe",
+      "genitive": "Diebes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "thief (male or of unspecified gender)",
+        "ko": "도둑",
+        "examples": [
+          {
+            "text": "Der Dieb läuft weg.",
+            "ko": "도둑이 도망간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dienen",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "dient",
+      "past": "diente",
+      "pp": "gedient",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to serve",
+        "ko": "봉사하다, 근무하다",
+        "examples": [
+          {
+            "text": "Er dient seinem Land.",
+            "ko": "그는 조국을 위해 복무한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to serve (as), to double (as), to act as a replacement (for)",
+        "ko": "~로 쓰이다",
+        "examples": [
+          {
+            "text": "Der Raum dient als Büro.",
+            "ko": "그 방은 사무실로 쓰인다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to assist, to be of assistance",
+        "ko": "도움이 되다",
+        "examples": [
+          {
+            "text": "Das dient deiner Gesundheit.",
+            "ko": "그것은 네 건강에 도움이 된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Dienst",
+    "level": "b1",
+    "zipf": 4.76,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Dienste",
+      "genitive": "Dienstes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "service",
+        "ko": "서비스, 봉사",
+        "examples": [
+          {
+            "text": "Der Hotelservice ist ein guter Dienst.",
+            "ko": "호텔 서비스는 좋은 서비스다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "work, duty",
+        "ko": "근무, 업무",
+        "examples": [
+          {
+            "text": "Ich habe heute Abend Dienst.",
+            "ko": "나는 오늘 저녁에 근무야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "diesmal",
+    "level": "b1",
+    "zipf": 4.74,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "dies|stem",
+      "Mal|stem"
+    ],
+    "senses": [
+      {
+        "en": "this time",
+        "ko": "이번에",
+        "examples": [
+          {
+            "text": "Diesmal zahle ich.",
+            "ko": "이번엔 내가 낼게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "digital",
+    "level": "b1",
+    "zipf": 4.28,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "digital",
+        "ko": "디지털의",
+        "examples": [
+          {
+            "text": "Ich lese lieber digitale Bücher.",
+            "ko": "나는 전자책 읽는 것을 더 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Diplom",
+    "level": "b1",
+    "zipf": 3.95,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Diplome",
+      "genitive": "Diploms"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "diploma, university degree",
+        "ko": "학위, 졸업장",
+        "examples": [
+          {
+            "text": "Sie hat ein Diplom in Physik.",
+            "ko": "그녀는 물리학 학위가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Direktor",
+    "level": "b1",
+    "zipf": 4.46,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Direktoren",
+      "genitive": "Direktors"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "principal (administrator of a school)",
+        "ko": "교장",
+        "examples": [
+          {
+            "text": "Der Direktor der Schule spricht mit den Eltern.",
+            "ko": "교장 선생님이 학부모와 이야기한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "director (leader of an organisation)",
+        "ko": "이사, 사장",
+        "examples": [
+          {
+            "text": "Der Direktor der Firma ist heute nicht da.",
+            "ko": "회사 사장님은 오늘 안 계신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Diskothek",
+    "level": "b1",
+    "zipf": 3.07,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Diskotheken",
+      "genitive": "Diskothek"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "discotheque, nightclub",
+        "ko": "디스코텍, 클럽",
+        "examples": [
+          {
+            "text": "Am Samstag gehen wir in die Diskothek.",
+            "ko": "토요일에 우리는 클럽에 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Diskussion",
+    "level": "b1",
+    "zipf": 4.78,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Diskussionen",
+      "genitive": "Diskussion"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "discussion, debate",
+        "ko": "토론, 논의",
+        "examples": [
+          {
+            "text": "Die Diskussion dauert zwei Stunden.",
+            "ko": "토론은 두 시간 동안 이어진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Distanz",
+    "level": "b1",
+    "zipf": 4.2,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Distanzen",
+      "genitive": "Distanz"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "distance",
+        "ko": "거리, 간격",
+        "examples": [
+          {
+            "text": "Bitte halten Sie Distanz.",
+            "ko": "거리를 유지해 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Diät",
+    "level": "b1",
+    "zipf": 3.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Diäten",
+      "genitive": "Diät"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "diet",
+        "ko": "다이어트, 식이요법",
+        "examples": [
+          {
+            "text": "Ich mache gerade eine Diät.",
+            "ko": "나는 지금 다이어트 중이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Dokument",
+    "level": "b1",
+    "zipf": 4.16,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Dokumente",
+      "genitive": "Dokumentes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "document",
+        "ko": "문서, 서류",
+        "examples": [
+          {
+            "text": "Bitte zeigen Sie Ihre Dokumente.",
+            "ko": "서류를 보여 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Donner",
+    "level": "b1",
+    "zipf": 3.57,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Donner",
+      "genitive": "Donners"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "thunder",
+        "ko": "천둥",
+        "examples": [
+          {
+            "text": "Der Donner ist sehr laut.",
+            "ko": "천둥소리가 아주 크다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "donnern",
+    "level": "b1",
+    "zipf": 2.94,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "donnert",
+      "past": "donnerte",
+      "pp": "gedonnert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to thunder",
+        "ko": "천둥이 치다",
+        "examples": [
+          {
+            "text": "Es donnert schon seit einer Stunde.",
+            "ko": "한 시간 전부터 천둥이 치고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Doppel",
+    "level": "b1",
+    "zipf": 4.17,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Doppel",
+      "genitive": "Doppels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "doubles",
+        "ko": "복식 (경기)",
+        "examples": [
+          {
+            "text": "Wir spielen heute Tennis im Doppel.",
+            "ko": "우리는 오늘 테니스 복식을 친다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "duplicate",
+        "ko": "복사본, 사본",
+        "examples": [
+          {
+            "text": "Ich habe ein Doppel vom Schlüssel.",
+            "ko": "나는 열쇠 복사본이 하나 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "doppelt",
+    "level": "b1",
+    "zipf": 4.44,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "double (made up of two matching or complementary elements)",
+        "ko": "두 배의, 이중의",
+        "examples": [
+          {
+            "text": "Ich möchte einen doppelten Kaffee.",
+            "ko": "더블 커피 한 잔 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "twice as much, doubly (adverb)",
+        "ko": "두 배로",
+        "examples": [
+          {
+            "text": "Das ist doppelt so teuer.",
+            "ko": "그건 두 배나 비싸.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "dorthin",
+    "level": "b1",
+    "zipf": 4.27,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "dort|stem",
+      "hin|stem"
+    ],
+    "senses": [
+      {
+        "en": "there (to that place), thither",
+        "ko": "그곳으로",
+        "examples": [
+          {
+            "text": "Ich fahre morgen dorthin.",
+            "ko": "나는 내일 그곳에 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Dose",
+    "level": "b1",
+    "zipf": 3.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Dosen",
+      "genitive": "Dose"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "tin, can (air-tight container for food)",
+        "ko": "통조림 캔",
+        "examples": [
+          {
+            "text": "Wir essen heute Suppe aus der Dose.",
+            "ko": "우리는 오늘 통조림 수프를 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "box (container made from metal or plastic, less often wood)",
+        "ko": "작은 통, 상자",
+        "examples": [
+          {
+            "text": "Die Kekse sind in einer Dose.",
+            "ko": "쿠키는 통에 들어 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "socket",
+        "ko": "콘센트",
+        "examples": [
+          {
+            "text": "Wo ist die Dose für das Handy?",
+            "ko": "휴대폰 충전할 콘센트가 어디 있어요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Dreck",
+    "level": "b1",
+    "zipf": 4.28,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Dreckes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "dirt",
+        "ko": "더러움, 먼지",
+        "examples": [
+          {
+            "text": "Du hast Dreck an den Schuhen.",
+            "ko": "네 신발에 흙먼지가 묻었어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "rubbish, trash (informal)",
+        "ko": "쓰레기, 하찮은 것",
+        "examples": [
+          {
+            "text": "Das ist doch alles Dreck.",
+            "ko": "이건 다 쓰레기야.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "drehen",
+    "level": "b1",
+    "zipf": 4.53,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "dreht",
+      "past": "drehte",
+      "pp": "gedreht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to turn",
+        "ko": "돌리다",
+        "examples": [
+          {
+            "text": "Er dreht den Schlüssel im Schloss.",
+            "ko": "그는 열쇠를 자물쇠에서 돌린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to revolve, rotate, spin",
+        "ko": "돌다, 회전하다",
+        "examples": [
+          {
+            "text": "Die Erde dreht sich um die Sonne.",
+            "ko": "지구는 태양 주위를 돈다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to shoot",
+        "ko": "(영화를) 촬영하다",
+        "examples": [
+          {
+            "text": "Sie drehen einen Film in Berlin.",
+            "ko": "그들은 베를린에서 영화를 촬영한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "drin",
+    "level": "b1",
+    "zipf": 4.88,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "inside",
+        "ko": "안에",
+        "examples": [
+          {
+            "text": "Der Schlüssel ist drin.",
+            "ko": "열쇠는 안에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Droge",
+    "level": "b1",
+    "zipf": 3.75,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Drogen",
+      "genitive": "Droge"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "drug (psychoactive substance, especially one which is illegal)",
+        "ko": "마약",
+        "examples": [
+          {
+            "text": "Drogen sind gefährlich.",
+            "ko": "마약은 위험하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Drogerie",
+    "level": "b1",
+    "zipf": 3.26,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Drogerien",
+      "genitive": "Drogerie"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a retail store selling beauty, hygiene and household related products as well as certain non-prescription medications, roughly equivalent to a drugstore/chemist",
+        "ko": "드럭스토어, 생활용품점",
+        "examples": [
+          {
+            "text": "In der Drogerie kaufe ich Shampoo.",
+            "ko": "나는 드럭스토어에서 샴푸를 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Druck",
+    "level": "b1",
+    "zipf": 4.96,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Drücke",
+      "genitive": "Druckes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "pressure",
+        "ko": "압력, 부담",
+        "examples": [
+          {
+            "text": "Der Reifen hat zu wenig Druck.",
+            "ko": "타이어 압력이 너무 낮다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "print, printing",
+        "ko": "인쇄",
+        "examples": [
+          {
+            "text": "Der Druck des Buches dauert eine Woche.",
+            "ko": "책 인쇄에는 일주일이 걸린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "durcheinander",
+    "level": "b1",
+    "zipf": 4.03,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "durcheinanderer",
+      "superlative": "am durcheinandersten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "durch|stem",
+      "einander|stem"
+    ],
+    "senses": [
+      {
+        "en": "disordered, confused",
+        "ko": "뒤죽박죽인, 혼란스러운",
+        "examples": [
+          {
+            "text": "In meinem Zimmer ist alles durcheinander.",
+            "ko": "내 방은 모든 게 뒤죽박죽이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Durchschnitt",
+    "level": "b1",
+    "zipf": 4.32,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Durchschnitte",
+      "genitive": "Durchschnittes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "durch|stem",
+      "Schnitt|stem"
+    ],
+    "senses": [
+      {
+        "en": "average",
+        "ko": "평균",
+        "examples": [
+          {
+            "text": "Im Durchschnitt schlafe ich sieben Stunden.",
+            "ko": "나는 평균 일곱 시간 잔다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "intersection",
+        "ko": "교차, 단면",
+        "examples": [
+          {
+            "text": "Der Durchschnitt der beiden Linien ist ein Punkt.",
+            "ko": "두 선의 교차는 한 점이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "durchschnittlich",
+    "level": "b1",
+    "zipf": 4.26,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "durchschnittlicher",
+      "superlative": "am durchschnittlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Durchschnitt|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "average, ordinary, mean, medium",
+        "ko": "평균적인, 보통의",
+        "examples": [
+          {
+            "text": "Er ist ein durchschnittlicher Schüler.",
+            "ko": "그는 평범한 학생이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "durstig",
+    "level": "b1",
+    "zipf": 3.06,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "durstiger",
+      "superlative": "am durstigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Durst|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "thirsty",
+        "ko": "목마른",
+        "examples": [
+          {
+            "text": "Ich bin sehr durstig.",
+            "ko": "나는 목이 아주 마르다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "duzen",
+    "level": "b1",
+    "zipf": 3.06,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "duzt",
+      "past": "duzte",
+      "pp": "geduzt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to address informally using the pronoun du, to thou",
+        "ko": "너라고 부르다, 말을 놓다",
+        "examples": [
+          {
+            "text": "Darf ich Sie duzen?",
+            "ko": "말씀 놓아도 될까요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

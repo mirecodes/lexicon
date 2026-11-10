@@ -1,0 +1,4673 @@
+[
+  {
+    "word": "eben",
+    "level": "b1",
+    "zipf": 5.39,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "ebener",
+      "superlative": "am ebensten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "flat, smooth, even (of a surface)",
+        "ko": "평평한, 매끄러운",
+        "examples": [
+          {
+            "text": "Die Straße ist hier ganz eben.",
+            "ko": "길이 여기서는 아주 평평하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "just now, a moment ago",
+        "ko": "방금, 바로",
+        "examples": [
+          {
+            "text": "Ich bin eben erst nach Hause gekommen.",
+            "ko": "나는 방금 막 집에 왔다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ebenfalls",
+    "level": "b1",
+    "zipf": 5.32,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "also, likewise, as well",
+        "ko": "마찬가지로, 역시",
+        "examples": [
+          {
+            "text": "Danke, ebenfalls!",
+            "ko": "고마워요, 당신도요!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ebenso",
+    "level": "b1",
+    "zipf": 5.14,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "eben|stem",
+      "so|stem"
+    ],
+    "senses": [
+      {
+        "en": "equally, as much",
+        "ko": "똑같이, 마찬가지로",
+        "examples": [
+          {
+            "text": "Sie singt ebenso gut wie ihre Mutter.",
+            "ko": "그녀는 어머니만큼 노래를 잘한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "likewise",
+        "ko": "그와 마찬가지로",
+        "examples": [
+          {
+            "text": "Ich freue mich, und mein Bruder ebenso.",
+            "ko": "나는 기쁘고, 내 형도 마찬가지다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ec-Karte",
+    "level": "b1",
+    "zipf": 3.84,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "ec-Karten"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "Karte|stem"
+    ],
+    "senses": [
+      {
+        "en": "debit card (bank card)",
+        "ko": "직불카드, 체크카드",
+        "examples": [
+          {
+            "text": "Kann ich mit ec-Karte zahlen?",
+            "ko": "직불카드로 계산해도 되나요?",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "eckig",
+    "level": "b1",
+    "zipf": 3.03,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "eckiger",
+      "superlative": "am eckigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Ecke|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "angular",
+        "ko": "각진, 모난",
+        "examples": [
+          {
+            "text": "Der Tisch ist nicht rund, sondern eckig.",
+            "ko": "그 탁자는 둥글지 않고 각져 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "square",
+        "ko": "네모난",
+        "examples": [
+          {
+            "text": "Ich habe eine eckige Brille.",
+            "ko": "나는 네모난 안경을 쓴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ehe",
+    "level": "b1",
+    "zipf": 4.9,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Ehen",
+      "genitive": "Ehe"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "marriage (state of being married; life as a married couple)",
+        "ko": "결혼 생활, 혼인",
+        "examples": [
+          {
+            "text": "Ihre Ehe ist sehr glücklich.",
+            "ko": "그들의 결혼 생활은 아주 행복하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ehemann",
+    "level": "b1",
+    "zipf": 4.26,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Ehemänner",
+      "genitive": "Ehemannes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Ehe|stem",
+      "Mann|stem"
+    ],
+    "senses": [
+      {
+        "en": "married man, husband",
+        "ko": "남편",
+        "examples": [
+          {
+            "text": "Ihr Ehemann arbeitet bei der Bank.",
+            "ko": "그녀의 남편은 은행에서 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ehepaar",
+    "level": "b1",
+    "zipf": 3.87,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Ehepaare",
+      "genitive": "Ehepaares"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Ehe|stem",
+      "Paar|stem"
+    ],
+    "senses": [
+      {
+        "en": "married couple",
+        "ko": "부부",
+        "examples": [
+          {
+            "text": "Das Ehepaar wohnt im zweiten Stock.",
+            "ko": "그 부부는 3층에 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "eher",
+    "level": "b1",
+    "zipf": 5.32,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fairly, relatively, somewhat; expresses a weakened degree",
+        "ko": "오히려, 다소",
+        "examples": [
+          {
+            "text": "Er ist eher ruhig.",
+            "ko": "그는 좀 조용한 편이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "sooner, more readily, preferably; expresses a preference",
+        "ko": "더 일찍, 차라리",
+        "examples": [
+          {
+            "text": "Komm bitte etwas eher.",
+            "ko": "조금 더 일찍 와 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ehrlich",
+    "level": "b1",
+    "zipf": 4.9,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "ehrlicher",
+      "superlative": "am ehrlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Ehre|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "honest, truthful, true",
+        "ko": "정직한, 솔직한",
+        "examples": [
+          {
+            "text": "Sei bitte ehrlich zu mir.",
+            "ko": "나한테 솔직해 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "decent, honorable, honest",
+        "ko": "정직한, 떳떳한",
+        "examples": [
+          {
+            "text": "Er ist ein ehrlicher Mensch.",
+            "ko": "그는 정직한 사람이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "eignen",
+    "level": "b1",
+    "zipf": 4.0,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "eignet",
+      "past": "eignete",
+      "pp": "geeignet",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to be suitable",
+        "ko": "적합하다, 알맞다",
+        "examples": [
+          {
+            "text": "Dieses Zimmer eignet sich gut als Büro.",
+            "ko": "이 방은 사무실로 쓰기에 알맞다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Eile",
+    "level": "b1",
+    "zipf": 3.7,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Eile"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hurry",
+        "ko": "급함, 서두름",
+        "examples": [
+          {
+            "text": "Ich habe heute große Eile.",
+            "ko": "나는 오늘 매우 급하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "eilen",
+    "level": "b1",
+    "zipf": 3.27,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "eilt",
+      "past": "eilte",
+      "pp": "geeilt",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to hurry, to hasten, to rush",
+        "ko": "서두르다, 급히 가다",
+        "examples": [
+          {
+            "text": "Sie eilt zum Bahnhof.",
+            "ko": "그녀는 서둘러 역으로 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be urgent",
+        "ko": "급하다",
+        "examples": [
+          {
+            "text": "Die Sache eilt nicht.",
+            "ko": "그 일은 급하지 않다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ein bisschen",
+    "level": "b1",
+    "zipf": 5.22,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "a little, a bit",
+        "ko": "조금, 약간",
+        "examples": [
+          {
+            "text": "Ich spreche ein bisschen Deutsch.",
+            "ko": "나는 독일어를 조금 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einbahnstraße",
+    "level": "b1",
+    "zipf": 3.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Einbahnstraßen",
+      "genitive": "Einbahnstraße"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|stem",
+      "Bahn|stem",
+      "Straße|stem"
+    ],
+    "senses": [
+      {
+        "en": "one-way street",
+        "ko": "일방통행로",
+        "examples": [
+          {
+            "text": "Hier ist eine Einbahnstraße.",
+            "ko": "여기는 일방통행로다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einbrechen",
+    "level": "b1",
+    "zipf": 3.25,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "bricht ein",
+      "past": "brach ein",
+      "pp": "eingebrochen",
+      "aux": "sein",
+      "separable": true,
+      "prefix": "ein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|sep",
+      "brechen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to break in (for example, to steal something)",
+        "ko": "침입하다",
+        "examples": [
+          {
+            "text": "Letzte Nacht brachen Diebe in das Haus ein.",
+            "ko": "어젯밤 도둑들이 그 집에 침입했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to break down",
+        "ko": "무너지다, 꺼지다",
+        "examples": [
+          {
+            "text": "Das Eis bricht unter ihm ein.",
+            "ko": "얼음이 그의 발밑에서 꺼진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einbrecher",
+    "level": "b1",
+    "zipf": 3.82,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Einbrecher",
+      "genitive": "Einbrechers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "einbrechen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "agent noun of einbrechen; burglar, picklock, housebreaker",
+        "ko": "빈집털이, 침입 강도",
+        "examples": [
+          {
+            "text": "Die Polizei hat den Einbrecher gefasst.",
+            "ko": "경찰이 그 침입 강도를 잡았다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einbrecherin",
+    "level": "b1",
+    "zipf": 1.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Einbrecherinnen",
+      "genitive": "Einbrecherin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Einbrecher|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Einbrecher",
+        "ko": "여성 침입 강도",
+        "examples": [
+          {
+            "text": "Die Einbrecherin ist durch das Fenster gekommen.",
+            "ko": "그 여성 침입자는 창문으로 들어왔다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einbruch",
+    "level": "b1",
+    "zipf": 4.04,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Einbrüche",
+      "genitive": "Einbruches"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|stem",
+      "Bruch|stem"
+    ],
+    "senses": [
+      {
+        "en": "burglary, break-in",
+        "ko": "침입 절도",
+        "examples": [
+          {
+            "text": "Gestern gab es einen Einbruch in unserer Straße.",
+            "ko": "어제 우리 거리에서 침입 절도가 있었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "slump",
+        "ko": "급락, 붕괴",
+        "examples": [
+          {
+            "text": "Im Winter gibt es einen Einbruch bei den Verkäufen.",
+            "ko": "겨울에는 판매가 급락한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "eindeutig",
+    "level": "b1",
+    "zipf": 4.59,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "eindeutiger",
+      "superlative": "am eindeutigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|stem",
+      "deuten|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "clear, definite",
+        "ko": "분명한, 확실한",
+        "examples": [
+          {
+            "text": "Die Antwort ist eindeutig: Nein.",
+            "ko": "대답은 분명하다. 아니오.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "unambiguous, unequivocal, explicit, unique",
+        "ko": "명백한, 애매하지 않은",
+        "examples": [
+          {
+            "text": "Das Ergebnis ist eindeutig.",
+            "ko": "결과는 명백하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Eindruck",
+    "level": "b1",
+    "zipf": 4.76,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Eindrücke",
+      "genitive": "Eindruckes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|stem",
+      "Druck|stem"
+    ],
+    "senses": [
+      {
+        "en": "impression",
+        "ko": "인상",
+        "examples": [
+          {
+            "text": "Er hat einen guten Eindruck gemacht.",
+            "ko": "그는 좋은 인상을 남겼다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einerseits",
+    "level": "b1",
+    "zipf": 4.48,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "on the one hand",
+        "ko": "한편으로는",
+        "examples": [
+          {
+            "text": "Einerseits mag ich die Stadt, andererseits ist sie laut.",
+            "ko": "한편으로는 이 도시가 좋지만, 다른 한편으로는 시끄럽다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einfahrt",
+    "level": "b1",
+    "zipf": 3.65,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Einfahrten",
+      "genitive": "Einfahrt"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|stem",
+      "Fahrt|stem"
+    ],
+    "senses": [
+      {
+        "en": "entry, entrance, way in",
+        "ko": "입구, 진입로",
+        "examples": [
+          {
+            "text": "Bitte parken Sie nicht vor der Einfahrt.",
+            "ko": "진입로 앞에 주차하지 마세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "driveway",
+        "ko": "차고 진입로",
+        "examples": [
+          {
+            "text": "Unser Auto steht in der Einfahrt.",
+            "ko": "우리 차는 진입로에 서 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einfall",
+    "level": "b1",
+    "zipf": 3.3,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Einfälle",
+      "genitive": "Einfalles"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|stem",
+      "Fall|stem"
+    ],
+    "senses": [
+      {
+        "en": "idea",
+        "ko": "생각, 아이디어",
+        "examples": [
+          {
+            "text": "Das ist ein guter Einfall!",
+            "ko": "그거 좋은 생각이야!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "invasion, inroad",
+        "ko": "침입, 침공",
+        "examples": [
+          {
+            "text": "Der Einfall der Truppen begann im Morgengrauen.",
+            "ko": "군대의 침공은 새벽에 시작됐다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einfallen",
+    "level": "b1",
+    "zipf": 4.06,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "fällt ein",
+      "past": "fiel ein",
+      "pp": "eingefallen",
+      "aux": "sein",
+      "separable": true,
+      "prefix": "ein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|sep",
+      "fallen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to occur (to someone), to come (to someone); to come to mind [with dative ‘to someone’] (idiomatically translated by English think of with the dative object as the subject)",
+        "ko": "생각나다, 떠오르다",
+        "examples": [
+          {
+            "text": "Mir fällt keine Lösung ein.",
+            "ko": "나는 해결책이 떠오르지 않는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to invade",
+        "ko": "침입하다",
+        "examples": [
+          {
+            "text": "Im Krieg fielen die Soldaten in das Land ein.",
+            "ko": "전쟁 중에 군인들이 그 나라에 침입했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to collapse, to fall in",
+        "ko": "무너지다",
+        "examples": [
+          {
+            "text": "Das alte Dach fällt bald ein.",
+            "ko": "낡은 지붕이 곧 무너진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einfluss",
+    "level": "b1",
+    "zipf": 4.82,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Einflüsse",
+      "genitive": "Einflusses"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|stem",
+      "Fluss|stem"
+    ],
+    "senses": [
+      {
+        "en": "influence",
+        "ko": "영향",
+        "examples": [
+          {
+            "text": "Freunde haben viel Einfluss auf Kinder.",
+            "ko": "친구는 아이들에게 영향을 많이 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einfügen",
+    "level": "b1",
+    "zipf": 3.71,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "fügt ein",
+      "past": "fügte ein",
+      "pp": "eingefügt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "ein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|sep",
+      "fügen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to insert; put in the middle; put in between",
+        "ko": "끼워 넣다, 삽입하다",
+        "examples": [
+          {
+            "text": "Ich füge ein Bild in den Text ein.",
+            "ko": "나는 글에 그림을 삽입한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einführen",
+    "level": "b1",
+    "zipf": 3.89,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "führt ein",
+      "past": "führte ein",
+      "pp": "eingeführt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "ein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|sep",
+      "führen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to introduce, to begin (a new law, custom, style, etc.)",
+        "ko": "도입하다",
+        "examples": [
+          {
+            "text": "Die Firma führt ein neues System ein.",
+            "ko": "그 회사는 새 시스템을 도입한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to import",
+        "ko": "수입하다",
+        "examples": [
+          {
+            "text": "Das Land führt viel Öl ein.",
+            "ko": "그 나라는 석유를 많이 수입한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einführung",
+    "level": "b1",
+    "zipf": 4.67,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Einführungen",
+      "genitive": "Einführung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "einführen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "introduction",
+        "ko": "도입, 입문",
+        "examples": [
+          {
+            "text": "Am Montag gibt es eine Einführung für neue Mitarbeiter.",
+            "ko": "월요일에 신입 직원 입문 교육이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einheitlich",
+    "level": "b1",
+    "zipf": 3.72,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "einheitlicher",
+      "superlative": "am einheitlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Einheit|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "uniform, unified",
+        "ko": "통일된, 균일한",
+        "examples": [
+          {
+            "text": "Alle Schüler tragen einheitliche Kleidung.",
+            "ko": "모든 학생이 같은 옷을 입는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einigen",
+    "level": "b1",
+    "zipf": 5.11,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "einigt",
+      "past": "einigte",
+      "pp": "geeinigt",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to agree, to come to an agreement",
+        "ko": "합의하다",
+        "examples": [
+          {
+            "text": "Wir einigen uns auf einen Preis.",
+            "ko": "우리는 가격에 합의한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einkauf",
+    "level": "b1",
+    "zipf": 4.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Einkäufe",
+      "genitive": "Einkaufes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|stem",
+      "Kauf|stem"
+    ],
+    "senses": [
+      {
+        "en": "purchase (the act or process of seeking and obtaining something)",
+        "ko": "구매, 장보기",
+        "examples": [
+          {
+            "text": "Der Einkauf dauert nicht lange.",
+            "ko": "장보기는 오래 걸리지 않는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "whole set of purchased goods",
+        "ko": "산 물건, 장본 것",
+        "examples": [
+          {
+            "text": "Ich trage deinen Einkauf nach Hause.",
+            "ko": "네가 산 물건을 집까지 들어 줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einkommen",
+    "level": "b1",
+    "zipf": 4.36,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Einkommen",
+      "genitive": "Einkommens"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|stem",
+      "kommen|stem"
+    ],
+    "senses": [
+      {
+        "en": "income",
+        "ko": "소득, 수입",
+        "examples": [
+          {
+            "text": "Sein Einkommen ist nicht hoch.",
+            "ko": "그의 소득은 높지 않다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einnahme",
+    "level": "b1",
+    "zipf": 3.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Einnahmen",
+      "genitive": "Einnahme"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|stem",
+      "Nahme|stem"
+    ],
+    "senses": [
+      {
+        "en": "receipt, revenue",
+        "ko": "수입, 매출",
+        "examples": [
+          {
+            "text": "Die Einnahmen des Geschäfts sind gestiegen.",
+            "ko": "가게의 수입이 늘었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "taking (of a drug)",
+        "ko": "복용",
+        "examples": [
+          {
+            "text": "Die Einnahme der Tabletten ist wichtig.",
+            "ko": "알약을 복용하는 것이 중요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einnehmen",
+    "level": "b1",
+    "zipf": 4.01,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "nimmt ein",
+      "past": "nahm ein",
+      "pp": "eingenommen",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "ein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|sep",
+      "nehmen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to take, to have (food, drink, medicine)",
+        "ko": "복용하다, 먹다",
+        "examples": [
+          {
+            "text": "Du musst die Tabletten dreimal täglich einnehmen.",
+            "ko": "이 알약은 하루 세 번 복용해야 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to take, take up, assume, span (a position, space, area)",
+        "ko": "차지하다",
+        "examples": [
+          {
+            "text": "Der Schrank nimmt viel Platz ein.",
+            "ko": "그 장은 자리를 많이 차지한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to conquer",
+        "ko": "점령하다",
+        "examples": [
+          {
+            "text": "Die Armee nimmt die Stadt ein.",
+            "ko": "군대가 도시를 점령한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einrichten",
+    "level": "b1",
+    "zipf": 3.94,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "richtet ein",
+      "past": "richtete ein",
+      "pp": "eingerichtet",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "ein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|sep",
+      "richten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to furnish",
+        "ko": "가구를 들이다, 꾸미다",
+        "examples": [
+          {
+            "text": "Wir richten die neue Wohnung ein.",
+            "ko": "우리는 새 집을 꾸민다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to arrange, to set up, to configure",
+        "ko": "설치하다, 설정하다",
+        "examples": [
+          {
+            "text": "Ich richte ein neues Konto ein.",
+            "ko": "나는 새 계정을 만든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to establish",
+        "ko": "설립하다",
+        "examples": [
+          {
+            "text": "Die Stadt richtet eine neue Buslinie ein.",
+            "ko": "시는 새 버스 노선을 신설한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einrichtung",
+    "level": "b1",
+    "zipf": 4.59,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Einrichtungen",
+      "genitive": "Einrichtung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "einrichten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "furnishing, furniture",
+        "ko": "가구, 실내 장식",
+        "examples": [
+          {
+            "text": "Die Einrichtung der Wohnung ist modern.",
+            "ko": "집의 실내 장식이 현대적이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "facility, institution",
+        "ko": "시설, 기관",
+        "examples": [
+          {
+            "text": "Das Krankenhaus ist eine öffentliche Einrichtung.",
+            "ko": "병원은 공공 시설이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einsam",
+    "level": "b1",
+    "zipf": 3.97,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "einsamer",
+      "superlative": "am einsamsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|stem",
+      "-sam|suffix"
+    ],
+    "senses": [
+      {
+        "en": "lonely, lone",
+        "ko": "외로운, 쓸쓸한",
+        "examples": [
+          {
+            "text": "Er fühlt sich in der Stadt einsam.",
+            "ko": "그는 도시에서 외로움을 느낀다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einschalten",
+    "level": "b1",
+    "zipf": 3.83,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "schaltet ein",
+      "past": "schaltete ein",
+      "pp": "eingeschaltet",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "ein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|sep",
+      "schalten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to turn on, to switch on, to power up, to enable (to put a mechanism, device or system into operation)",
+        "ko": "켜다",
+        "examples": [
+          {
+            "text": "Ich schalte den Fernseher ein.",
+            "ko": "나는 텔레비전을 켠다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to call in",
+        "ko": "개입시키다, 부르다",
+        "examples": [
+          {
+            "text": "Wir schalten einen Anwalt ein.",
+            "ko": "우리는 변호사를 선임한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einschließlich",
+    "level": "b1",
+    "zipf": 4.41,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "einschließen|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "inclusively",
+        "ko": "포함하여",
+        "examples": [
+          {
+            "text": "Der Preis gilt einschließlich Frühstück.",
+            "ko": "가격에는 아침 식사가 포함된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einschreiben",
+    "level": "b1",
+    "zipf": 3.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Einschreiben",
+      "genitive": "Einschreibens"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|stem",
+      "schreiben|stem"
+    ],
+    "senses": [
+      {
+        "en": "registered mail",
+        "ko": "등기 우편",
+        "examples": [
+          {
+            "text": "Ich schicke den Brief als Einschreiben.",
+            "ko": "나는 편지를 등기로 보낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einsetzen",
+    "level": "b1",
+    "zipf": 4.38,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "setzt ein",
+      "past": "setzte ein",
+      "pp": "eingesetzt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "ein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|sep",
+      "setzen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to put in; set in; insert",
+        "ko": "끼워 넣다",
+        "examples": [
+          {
+            "text": "Setz bitte das richtige Wort ein.",
+            "ko": "맞는 단어를 넣어 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to use; employ",
+        "ko": "투입하다, 사용하다",
+        "examples": [
+          {
+            "text": "Die Firma setzt neue Maschinen ein.",
+            "ko": "그 회사는 새 기계를 투입한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to speak up for; to dedicate considerable mental or physical energy in pursuit of",
+        "ko": "힘쓰다, 위해 애쓰다",
+        "examples": [
+          {
+            "text": "Ich setze mich für den Umweltschutz ein.",
+            "ko": "나는 환경 보호를 위해 힘쓴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einstellen",
+    "level": "b1",
+    "zipf": 4.33,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "stellt ein",
+      "past": "stellte ein",
+      "pp": "eingestellt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "ein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|sep",
+      "stellen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to hire (to add someone to a position of employment)",
+        "ko": "고용하다",
+        "examples": [
+          {
+            "text": "Die Firma stellt zwei neue Mitarbeiter ein.",
+            "ko": "그 회사는 새 직원 두 명을 고용한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to adjust, to set",
+        "ko": "조절하다, 맞추다",
+        "examples": [
+          {
+            "text": "Ich stelle den Wecker auf sechs Uhr ein.",
+            "ko": "나는 알람을 여섯 시로 맞춘다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to cease, to stop",
+        "ko": "중단하다",
+        "examples": [
+          {
+            "text": "Der Zug stellt den Betrieb ein.",
+            "ko": "그 열차는 운행을 중단한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "eintreten",
+    "level": "b1",
+    "zipf": 3.97,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "tritt ein",
+      "past": "trat ein",
+      "pp": "eingetreten",
+      "aux": "haben/sein",
+      "separable": true,
+      "prefix": "ein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|sep",
+      "treten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to enter, to come into",
+        "ko": "들어가다, 들어오다",
+        "examples": [
+          {
+            "text": "Bitte treten Sie ein!",
+            "ko": "들어오세요!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to join a club association etc. [with in (+ accusative)]",
+        "ko": "가입하다",
+        "examples": [
+          {
+            "text": "Er tritt in den Sportverein ein.",
+            "ko": "그는 스포츠 클럽에 가입한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to advocate, to support, to stand for, to champion [with für (+ accusative)]",
+        "ko": "지지하다, 옹호하다",
+        "examples": [
+          {
+            "text": "Sie tritt für die Rechte der Kinder ein.",
+            "ko": "그녀는 아이들의 권리를 옹호한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einverstanden",
+    "level": "b1",
+    "zipf": 4.27,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|stem",
+      "verstehen|stem"
+    ],
+    "senses": [
+      {
+        "en": "okay, agreed",
+        "ko": "좋아, 동의하는",
+        "examples": [
+          {
+            "text": "Treffen wir uns um acht? Einverstanden!",
+            "ko": "여덟 시에 만날까? 좋아!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "in agreement, agreeing",
+        "ko": "동의하는",
+        "examples": [
+          {
+            "text": "Ich bin mit dem Plan einverstanden.",
+            "ko": "나는 그 계획에 동의한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einwohner",
+    "level": "b1",
+    "zipf": 4.5,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Einwohner",
+      "genitive": "Einwohners"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|stem",
+      "wohnen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "inhabitant (anyone who lives or dwells in something, especially a country, region, settlement)",
+        "ko": "주민",
+        "examples": [
+          {
+            "text": "Die Stadt hat zehntausend Einwohner.",
+            "ko": "그 도시에는 주민이 만 명 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einwohnerin",
+    "level": "b1",
+    "zipf": 1.92,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Einwohnerinnen",
+      "genitive": "Einwohnerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Einwohner|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Einwohner",
+        "ko": "여성 주민",
+        "examples": [
+          {
+            "text": "Sie ist eine Einwohnerin dieser Stadt.",
+            "ko": "그녀는 이 도시의 주민이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einzahlen",
+    "level": "b1",
+    "zipf": 3.26,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "zahlt ein",
+      "past": "zahlte ein",
+      "pp": "eingezahlt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "ein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|sep",
+      "zahlen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to deposit (to put money or funds into an account)",
+        "ko": "입금하다",
+        "examples": [
+          {
+            "text": "Ich zahle Geld auf mein Konto ein.",
+            "ko": "나는 내 계좌에 돈을 입금한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einzahlung",
+    "level": "b1",
+    "zipf": 3.15,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Einzahlungen",
+      "genitive": "Einzahlung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "einzahlen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "deposit",
+        "ko": "입금",
+        "examples": [
+          {
+            "text": "Die Einzahlung ist am Automaten möglich.",
+            "ko": "입금은 기계에서 할 수 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Einzelheit",
+    "level": "b1",
+    "zipf": 2.42,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Einzelheiten",
+      "genitive": "Einzelheit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "einzeln|stem",
+      "-heit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "detail",
+        "ko": "세부 사항",
+        "examples": [
+          {
+            "text": "Ich kenne nicht alle Einzelheiten.",
+            "ko": "나는 세부 사항을 다 알지는 못한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einzeln",
+    "level": "b1",
+    "zipf": 4.19,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "single; lone",
+        "ko": "단 하나의, 혼자의",
+        "examples": [
+          {
+            "text": "Ein einzelner Baum steht auf dem Feld.",
+            "ko": "밭에 나무 한 그루가 서 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "individual",
+        "ko": "개개의, 각각의",
+        "examples": [
+          {
+            "text": "Jeder einzelne Schüler bekommt ein Buch.",
+            "ko": "학생 한 명 한 명이 책을 받는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "separate; discrete",
+        "ko": "따로따로의",
+        "examples": [
+          {
+            "text": "Die Karten werden einzeln verkauft.",
+            "ko": "표는 따로따로 판매된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "einzig",
+    "level": "b1",
+    "zipf": 4.44,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ein|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "only, sole",
+        "ko": "유일한",
+        "examples": [
+          {
+            "text": "Das ist meine einzige Chance.",
+            "ko": "그것이 나의 유일한 기회다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "unique",
+        "ko": "유일무이한, 독특한",
+        "examples": [
+          {
+            "text": "Dieses Bild ist einzig auf der Welt.",
+            "ko": "이 그림은 세상에 하나뿐이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Eisenbahn",
+    "level": "b1",
+    "zipf": 4.03,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Eisenbahnen",
+      "genitive": "Eisenbahn"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Eisen|stem",
+      "Bahn|stem"
+    ],
+    "senses": [
+      {
+        "en": "railway, railroad (transporting system)",
+        "ko": "철도",
+        "examples": [
+          {
+            "text": "Mit der Eisenbahn reisen wir nach Wien.",
+            "ko": "우리는 기차로 빈에 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "train",
+        "ko": "기차",
+        "examples": [
+          {
+            "text": "Die Eisenbahn fährt pünktlich ab.",
+            "ko": "기차가 제시간에 출발한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "elegant",
+    "level": "b1",
+    "zipf": 3.78,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "eleganter",
+      "superlative": "am elegantesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "elegant",
+        "ko": "우아한, 세련된",
+        "examples": [
+          {
+            "text": "Sie trägt ein elegantes Kleid.",
+            "ko": "그녀는 우아한 원피스를 입고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "elektrisch",
+    "level": "b1",
+    "zipf": 3.73,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "electric",
+        "ko": "전기의, 전동의",
+        "examples": [
+          {
+            "text": "Ich habe ein elektrisches Fahrrad.",
+            "ko": "나는 전기 자전거가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "elektronisch",
+    "level": "b1",
+    "zipf": 3.47,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "electronic",
+        "ko": "전자의, 전자식의",
+        "examples": [
+          {
+            "text": "Ich bekomme die Rechnung elektronisch.",
+            "ko": "나는 청구서를 전자 방식으로 받는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "empfangen",
+    "level": "b1",
+    "zipf": 4.31,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "empfängt",
+      "past": "empfing",
+      "pp": "empfangen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "emp|insep",
+      "fangen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to receive (e.g. a present, a guest)",
+        "ko": "받다, 맞이하다",
+        "examples": [
+          {
+            "text": "Der Chef empfängt die Gäste im Büro.",
+            "ko": "사장님이 사무실에서 손님을 맞이한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to welcome; to greet; to receive cordially",
+        "ko": "환영하다",
+        "examples": [
+          {
+            "text": "Die Familie empfängt uns herzlich.",
+            "ko": "가족이 우리를 따뜻하게 환영한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to conceive; to become pregnant (with)",
+        "ko": "임신하다",
+        "examples": [
+          {
+            "text": "Sie hat ein Kind empfangen.",
+            "ko": "그녀는 아이를 가졌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "endgültig",
+    "level": "b1",
+    "zipf": 4.39,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Ende|stem",
+      "gültig|stem"
+    ],
+    "senses": [
+      {
+        "en": "final, ultimate",
+        "ko": "최종적인",
+        "examples": [
+          {
+            "text": "Das ist meine endgültige Antwort.",
+            "ko": "이것이 내 최종 대답이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "definitive",
+        "ko": "확정적인",
+        "examples": [
+          {
+            "text": "Die Entscheidung ist endgültig.",
+            "ko": "결정은 확정이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Energie",
+    "level": "b1",
+    "zipf": 4.81,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Energien",
+      "genitive": "Energie"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "energy",
+        "ko": "에너지, 기운",
+        "examples": [
+          {
+            "text": "Ich habe heute keine Energie.",
+            "ko": "나는 오늘 기운이 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Enkel",
+    "level": "b1",
+    "zipf": 4.06,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Enkel",
+      "genitive": "Enkels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "grandson, grandchild",
+        "ko": "손자, 손주",
+        "examples": [
+          {
+            "text": "Mein Enkel besucht mich am Sonntag.",
+            "ko": "내 손자가 일요일에 나를 찾아온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Enkelin",
+    "level": "b1",
+    "zipf": 3.55,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Enkelinnen",
+      "genitive": "Enkelin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Enkel|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "granddaughter",
+        "ko": "손녀",
+        "examples": [
+          {
+            "text": "Meine Enkelin ist fünf Jahre alt.",
+            "ko": "내 손녀는 다섯 살이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "entdecken",
+    "level": "b1",
+    "zipf": 4.32,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "entdeckt",
+      "past": "entdeckte",
+      "pp": "entdeckt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ent|insep",
+      "decken|stem"
+    ],
+    "senses": [
+      {
+        "en": "to discover, to spot, to learn for the first time",
+        "ko": "발견하다",
+        "examples": [
+          {
+            "text": "Ich entdecke ein kleines Café in der Stadt.",
+            "ko": "나는 시내에서 작은 카페를 발견한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "entfernen",
+    "level": "b1",
+    "zipf": 4.36,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "entfernt",
+      "past": "entfernte",
+      "pp": "entfernt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ent|insep",
+      "fern|stem"
+    ],
+    "senses": [
+      {
+        "en": "to remove",
+        "ko": "제거하다, 치우다",
+        "examples": [
+          {
+            "text": "Bitte entfernen Sie den Fleck.",
+            "ko": "얼룩을 제거해 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to leave a place; to remove oneself",
+        "ko": "자리를 뜨다",
+        "examples": [
+          {
+            "text": "Er entfernt sich leise aus dem Raum.",
+            "ko": "그는 조용히 방을 나간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Entfernung",
+    "level": "b1",
+    "zipf": 4.37,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Entfernungen",
+      "genitive": "Entfernung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "entfernen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "distance",
+        "ko": "거리",
+        "examples": [
+          {
+            "text": "Die Entfernung zur Schule beträgt zwei Kilometer.",
+            "ko": "학교까지의 거리는 2킬로미터이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "removal",
+        "ko": "제거",
+        "examples": [
+          {
+            "text": "Die Entfernung des Flecks ist schwierig.",
+            "ko": "얼룩 제거는 어렵다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "entgegenkommen",
+    "level": "b1",
+    "zipf": 3.4,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "kommt entgegen",
+      "past": "kam entgegen",
+      "pp": "entgegengekommen",
+      "aux": "sein",
+      "separable": true,
+      "prefix": "entgegen"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "entgegen|sep",
+      "kommen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to come towards the face of something or someone",
+        "ko": "마주 오다",
+        "examples": [
+          {
+            "text": "Ein Auto kommt uns entgegen.",
+            "ko": "차 한 대가 우리 쪽으로 마주 온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to accommodate, comply with (a request, wishes etc.); to satisfy (a requirement, need)",
+        "ko": "배려하다, 양보하다",
+        "examples": [
+          {
+            "text": "Der Vermieter kommt uns beim Preis entgegen.",
+            "ko": "집주인이 가격에서 우리에게 양보해 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "enthalten",
+    "level": "b1",
+    "zipf": 4.71,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "enthält",
+      "past": "enthielt",
+      "pp": "enthalten",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ent|insep",
+      "halten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to contain, comprise, include",
+        "ko": "들어 있다, 포함하다",
+        "examples": [
+          {
+            "text": "Dieser Saft enthält viel Zucker.",
+            "ko": "이 주스에는 설탕이 많이 들어 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to abstain from (not to do, not to use)",
+        "ko": "삼가다",
+        "examples": [
+          {
+            "text": "Er enthält sich jeder Meinung.",
+            "ko": "그는 어떤 의견도 내지 않는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "entlang",
+    "level": "b1",
+    "zipf": 4.64,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "along",
+        "ko": "~를 따라",
+        "examples": [
+          {
+            "text": "Wir gehen den Fluss entlang.",
+            "ko": "우리는 강을 따라 걷는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "entlassen",
+    "level": "b1",
+    "zipf": 4.37,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "entlässt",
+      "past": "entließ",
+      "pp": "entlassen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ent|insep",
+      "lassen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to fire, to sack (to dismiss without statutory notice period)",
+        "ko": "해고하다",
+        "examples": [
+          {
+            "text": "Die Firma entlässt zehn Mitarbeiter.",
+            "ko": "회사가 직원 열 명을 해고한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to release",
+        "ko": "퇴원시키다, 풀어주다",
+        "examples": [
+          {
+            "text": "Das Krankenhaus entlässt ihn heute.",
+            "ko": "병원은 오늘 그를 퇴원시킨다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Entlassung",
+    "level": "b1",
+    "zipf": 3.94,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Entlassungen",
+      "genitive": "Entlassung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "entlassen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "dismissal",
+        "ko": "해고",
+        "examples": [
+          {
+            "text": "Die Entlassung kam ohne Vorwarnung.",
+            "ko": "해고는 예고 없이 왔다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "release",
+        "ko": "퇴원, 석방",
+        "examples": [
+          {
+            "text": "Die Entlassung aus dem Krankenhaus ist morgen.",
+            "ko": "퇴원은 내일이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "entscheiden",
+    "level": "b1",
+    "zipf": 4.91,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "entscheidet",
+      "past": "entschied",
+      "pp": "entschieden",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ent|insep",
+      "scheiden|stem"
+    ],
+    "senses": [
+      {
+        "en": "to decide, to make a decision",
+        "ko": "결정하다",
+        "examples": [
+          {
+            "text": "Du musst jetzt entscheiden.",
+            "ko": "너는 이제 결정해야 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to opt, to decide",
+        "ko": "선택하다",
+        "examples": [
+          {
+            "text": "Ich entscheide mich für das blaue Kleid.",
+            "ko": "나는 파란 원피스로 정한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Entscheidung",
+    "level": "b1",
+    "zipf": 5.03,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Entscheidungen",
+      "genitive": "Entscheidung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "entscheiden|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "decision",
+        "ko": "결정",
+        "examples": [
+          {
+            "text": "Das war keine leichte Entscheidung.",
+            "ko": "그것은 쉬운 결정이 아니었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "entschließen",
+    "level": "b1",
+    "zipf": 3.12,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "entschließt",
+      "past": "entschloss",
+      "pp": "entschlossen",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "ent|insep",
+      "schließen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to decide, to make up one's mind",
+        "ko": "결심하다",
+        "examples": [
+          {
+            "text": "Er entschließt sich zu einem Umzug.",
+            "ko": "그는 이사하기로 결심한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "entsorgen",
+    "level": "b1",
+    "zipf": 3.64,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "entsorgt",
+      "past": "entsorgte",
+      "pp": "entsorgt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ent|insep",
+      "sorgen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to dispose of",
+        "ko": "폐기하다, 처리하다",
+        "examples": [
+          {
+            "text": "Wir entsorgen den Müll richtig.",
+            "ko": "우리는 쓰레기를 제대로 처리한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "entspannend",
+    "level": "b1",
+    "zipf": 3.24,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "relaxing",
+        "ko": "편안하게 하는, 긴장을 풀어 주는",
+        "examples": [
+          {
+            "text": "Ein Bad ist sehr entspannend.",
+            "ko": "목욕은 아주 편안해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "entstehen",
+    "level": "b1",
+    "zipf": 4.76,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "entsteht",
+      "past": "entstand",
+      "pp": "entstanden",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ent|insep",
+      "stehen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to come into being, to arise, to be produced",
+        "ko": "생겨나다, 생기다",
+        "examples": [
+          {
+            "text": "Hier entsteht ein neues Haus.",
+            "ko": "여기에 새 집이 생긴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to develop",
+        "ko": "발생하다",
+        "examples": [
+          {
+            "text": "Durch den Regen entstehen Pfützen.",
+            "ko": "비 때문에 웅덩이가 생긴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "enttäuschen",
+    "level": "b1",
+    "zipf": 3.53,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "enttäuscht",
+      "past": "enttäuschte",
+      "pp": "enttäuscht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ent|insep",
+      "täuschen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to disappoint (displease by not fulfilling an expectation)",
+        "ko": "실망시키다",
+        "examples": [
+          {
+            "text": "Ich möchte dich nicht enttäuschen.",
+            "ko": "나는 너를 실망시키고 싶지 않아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Enttäuschung",
+    "level": "b1",
+    "zipf": 3.96,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Enttäuschungen",
+      "genitive": "Enttäuschung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "enttäuschen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "disappointment, let-down, bummer, frustration",
+        "ko": "실망",
+        "examples": [
+          {
+            "text": "Die Enttäuschung war groß.",
+            "ko": "실망이 컸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "entweder ... oder",
+    "level": "b1",
+    "zipf": 4.91,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "either ... or",
+        "ko": "~이거나 ~이거나, 둘 중 하나",
+        "examples": [
+          {
+            "text": "Wir essen entweder Pizza oder Nudeln.",
+            "ko": "우리는 피자 아니면 파스타를 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "entwickeln",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "entwickelt",
+      "past": "entwickelte",
+      "pp": "entwickelt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ent|insep",
+      "wickeln|stem"
+    ],
+    "senses": [
+      {
+        "en": "to develop",
+        "ko": "개발하다, 발전시키다",
+        "examples": [
+          {
+            "text": "Die Firma entwickelt ein neues Handy.",
+            "ko": "그 회사는 새 휴대폰을 개발한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to develop, to gain (strength, a skill, a talent, an ability, etc.; slowly, often by natural growth or practice)",
+        "ko": "발달시키다, 키우다",
+        "examples": [
+          {
+            "text": "Das Kind entwickelt sich gut.",
+            "ko": "아이가 잘 자라고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Entwicklung",
+    "level": "b1",
+    "zipf": 5.18,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Entwicklungen",
+      "genitive": "Entwicklung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "entwickeln|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "development",
+        "ko": "발전, 개발",
+        "examples": [
+          {
+            "text": "Die Entwicklung des Kindes ist normal.",
+            "ko": "아이의 발달은 정상이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Erde",
+    "level": "b1",
+    "zipf": 4.9,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Erden",
+      "genitive": "Erde"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "earth",
+        "ko": "지구",
+        "examples": [
+          {
+            "text": "Die Erde dreht sich um die Sonne.",
+            "ko": "지구는 태양 주위를 돈다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "soil",
+        "ko": "흙, 토양",
+        "examples": [
+          {
+            "text": "Die Pflanze braucht gute Erde.",
+            "ko": "그 식물은 좋은 흙이 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "the ground",
+        "ko": "땅, 지면",
+        "examples": [
+          {
+            "text": "Das Glas fiel auf die Erde.",
+            "ko": "유리잔이 땅에 떨어졌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ereignen",
+    "level": "b1",
+    "zipf": 2.97,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "ereignet",
+      "past": "ereignete",
+      "pp": "ereignet",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "er|insep",
+      "eignen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to happen, to occur",
+        "ko": "일어나다, 발생하다",
+        "examples": [
+          {
+            "text": "Der Unfall ereignet sich gestern Abend.",
+            "ko": "사고는 어제 저녁에 일어났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ereignis",
+    "level": "b1",
+    "zipf": 4.24,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Ereignisse",
+      "genitive": "Ereignisses"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ereignen|stem",
+      "-nis|suffix"
+    ],
+    "senses": [
+      {
+        "en": "event (occurrence of social or personal importance)",
+        "ko": "사건, 일",
+        "examples": [
+          {
+            "text": "Die Hochzeit war ein schönes Ereignis.",
+            "ko": "결혼식은 멋진 행사였다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erfahren",
+    "level": "b1",
+    "zipf": 4.9,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "erfährt",
+      "past": "erfuhr",
+      "pp": "erfahren",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "er|insep",
+      "fahren|stem"
+    ],
+    "senses": [
+      {
+        "en": "to find out, learn, to come to know",
+        "ko": "알게 되다",
+        "examples": [
+          {
+            "text": "Ich habe es erst gestern erfahren.",
+            "ko": "나는 그것을 어제서야 알게 되었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to experience",
+        "ko": "경험하다",
+        "examples": [
+          {
+            "text": "Er hat viel Leid erfahren.",
+            "ko": "그는 많은 고통을 겪었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erfinden",
+    "level": "b1",
+    "zipf": 3.84,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "erfindet",
+      "past": "erfand",
+      "pp": "erfunden",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "er|insep",
+      "finden|stem"
+    ],
+    "senses": [
+      {
+        "en": "to invent",
+        "ko": "발명하다",
+        "examples": [
+          {
+            "text": "Wer hat das Telefon erfunden?",
+            "ko": "누가 전화기를 발명했나요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to fabricate (something untrue); to make up (a story)",
+        "ko": "지어내다",
+        "examples": [
+          {
+            "text": "Das Kind erfindet eine Geschichte.",
+            "ko": "아이가 이야기를 지어낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Erfindung",
+    "level": "b1",
+    "zipf": 4.05,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Erfindungen",
+      "genitive": "Erfindung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "erfinden|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "invention",
+        "ko": "발명",
+        "examples": [
+          {
+            "text": "Das Auto war eine große Erfindung.",
+            "ko": "자동차는 대단한 발명이었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Erfolg",
+    "level": "b1",
+    "zipf": 5.17,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Erfolge",
+      "genitive": "Erfolges"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "success",
+        "ko": "성공",
+        "examples": [
+          {
+            "text": "Viel Erfolg bei der Prüfung!",
+            "ko": "시험 잘 보세요!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erfolgreich",
+    "level": "b1",
+    "zipf": 4.87,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "erfolgreicher",
+      "superlative": "am erfolgreichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Erfolg|stem",
+      "-reich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "successful",
+        "ko": "성공적인",
+        "examples": [
+          {
+            "text": "Sie ist eine erfolgreiche Ärztin.",
+            "ko": "그녀는 성공한 의사이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erforderlich",
+    "level": "b1",
+    "zipf": 4.52,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "erforderlicher",
+      "superlative": "am erforderlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "erfordern|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "necessary, required, essential",
+        "ko": "필요한, 필수의",
+        "examples": [
+          {
+            "text": "Für die Reise ist ein Pass erforderlich.",
+            "ko": "여행에는 여권이 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erfordern",
+    "level": "b1",
+    "zipf": 3.81,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "erfordert",
+      "past": "erforderte",
+      "pp": "erfordert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "er|insep",
+      "fordern|stem"
+    ],
+    "senses": [
+      {
+        "en": "to necessitate, to require",
+        "ko": "요구하다, 필요로 하다",
+        "examples": [
+          {
+            "text": "Diese Arbeit erfordert viel Zeit.",
+            "ko": "이 일은 시간이 많이 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erfüllen",
+    "level": "b1",
+    "zipf": 4.48,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "erfüllt",
+      "past": "erfüllte",
+      "pp": "erfüllt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "er|insep",
+      "füllen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to fulfill / fulfil",
+        "ko": "이행하다, 충족시키다",
+        "examples": [
+          {
+            "text": "Sie erfüllt alle Bedingungen.",
+            "ko": "그녀는 모든 조건을 충족한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to grant (a wish, a request)",
+        "ko": "들어주다",
+        "examples": [
+          {
+            "text": "Ich erfülle dir deinen Wunsch.",
+            "ko": "네 소원을 들어줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to come true",
+        "ko": "이루어지다",
+        "examples": [
+          {
+            "text": "Mein Traum hat sich erfüllt.",
+            "ko": "내 꿈이 이루어졌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ergänzen",
+    "level": "b1",
+    "zipf": 3.98,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "ergänzt",
+      "past": "ergänzte",
+      "pp": "ergänzt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "er|insep",
+      "ganz|stem"
+    ],
+    "senses": [
+      {
+        "en": "to complement, to supplement, to add",
+        "ko": "보충하다, 덧붙이다",
+        "examples": [
+          {
+            "text": "Kann ich noch etwas ergänzen?",
+            "ko": "제가 덧붙여도 될까요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to fill, fill out, complete",
+        "ko": "채우다, 완성하다",
+        "examples": [
+          {
+            "text": "Ergänzen Sie bitte die Sätze.",
+            "ko": "문장을 완성하세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erhalten",
+    "level": "b1",
+    "zipf": 5.31,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "erhält",
+      "past": "erhielt",
+      "pp": "erhalten",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "er|insep",
+      "halten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to receive (something given, sent, won, etc.)",
+        "ko": "받다",
+        "examples": [
+          {
+            "text": "Ich habe gestern einen Brief erhalten.",
+            "ko": "나는 어제 편지를 받았다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to maintain, to keep (in a certain state)",
+        "ko": "유지하다, 보존하다",
+        "examples": [
+          {
+            "text": "Wir müssen die alten Häuser erhalten.",
+            "ko": "우리는 오래된 집들을 보존해야 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erholen",
+    "level": "b1",
+    "zipf": 3.79,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "erholt",
+      "past": "erholte",
+      "pp": "erholt",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "er|insep",
+      "holen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to recover, to relax",
+        "ko": "회복하다, 쉬다",
+        "examples": [
+          {
+            "text": "Im Urlaub erhole ich mich gut.",
+            "ko": "휴가 때 나는 잘 쉰다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Erholung",
+    "level": "b1",
+    "zipf": 3.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Erholungen",
+      "genitive": "Erholung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "erholen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "recreation",
+        "ko": "휴양, 휴식",
+        "examples": [
+          {
+            "text": "Im Urlaub suche ich Erholung.",
+            "ko": "나는 휴가에 휴식을 찾는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "recovery, convalescence",
+        "ko": "회복",
+        "examples": [
+          {
+            "text": "Nach der Krankheit braucht er Erholung.",
+            "ko": "그는 병이 나은 뒤 회복이 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erhöhen",
+    "level": "b1",
+    "zipf": 4.44,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "erhöht",
+      "past": "erhöhte",
+      "pp": "erhöht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "er|insep",
+      "hoch|stem"
+    ],
+    "senses": [
+      {
+        "en": "to increase",
+        "ko": "높이다, 올리다",
+        "examples": [
+          {
+            "text": "Der Laden erhöht die Preise.",
+            "ko": "그 가게는 가격을 올린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to heighten, raise",
+        "ko": "높이다",
+        "examples": [
+          {
+            "text": "Wir erhöhen den Zaun um einen Meter.",
+            "ko": "우리는 울타리를 1미터 높인다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Erhöhung",
+    "level": "b1",
+    "zipf": 4.25,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Erhöhungen",
+      "genitive": "Erhöhung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "erhöhen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "increase, elevation, rise, increment",
+        "ko": "인상, 상승",
+        "examples": [
+          {
+            "text": "Die Erhöhung der Miete ärgert mich.",
+            "ko": "월세 인상이 나를 화나게 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Erinnerung",
+    "level": "b1",
+    "zipf": 4.65,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Erinnerungen",
+      "genitive": "Erinnerung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "erinnern|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "memory (recall); remembrance",
+        "ko": "기억, 추억",
+        "examples": [
+          {
+            "text": "Ich habe schöne Erinnerungen an den Urlaub.",
+            "ko": "나는 휴가의 좋은 추억이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "reminder, something that reminds",
+        "ko": "알림, 상기시키는 것",
+        "examples": [
+          {
+            "text": "Die Erinnerung kam per E-Mail.",
+            "ko": "알림이 이메일로 왔다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erkennen",
+    "level": "b1",
+    "zipf": 4.91,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "erkennt",
+      "past": "erkannte",
+      "pp": "erkannt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "er|insep",
+      "kennen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to recognize, perceive",
+        "ko": "알아보다",
+        "examples": [
+          {
+            "text": "Ich erkenne dich sofort.",
+            "ko": "나는 너를 바로 알아본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to realize, detect, see, know, identify, discover, understand",
+        "ko": "깨닫다, 인식하다",
+        "examples": [
+          {
+            "text": "Er erkennt seinen Fehler.",
+            "ko": "그는 자기 실수를 깨닫는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Erklärung",
+    "level": "b1",
+    "zipf": 4.69,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Erklärungen",
+      "genitive": "Erklärung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "erklären|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "explanation",
+        "ko": "설명",
+        "examples": [
+          {
+            "text": "Die Erklärung des Lehrers war klar.",
+            "ko": "선생님의 설명은 분명했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "declaration, statement",
+        "ko": "선언, 성명",
+        "examples": [
+          {
+            "text": "Der Minister gibt eine Erklärung ab.",
+            "ko": "장관이 성명을 발표한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erkundigen",
+    "level": "b1",
+    "zipf": 3.4,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "erkundigt",
+      "past": "erkundigte",
+      "pp": "erkundigt",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to inquire, to ask for information",
+        "ko": "문의하다, 알아보다",
+        "examples": [
+          {
+            "text": "Ich erkundige mich nach dem Preis.",
+            "ko": "나는 가격을 문의한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erkälten",
+    "level": "b1",
+    "zipf": 2.22,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "erkältet",
+      "past": "erkältete",
+      "pp": "erkältet",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to catch a cold",
+        "ko": "감기에 걸리다",
+        "examples": [
+          {
+            "text": "Ich habe mich erkältet.",
+            "ko": "나는 감기에 걸렸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Erkältung",
+    "level": "b1",
+    "zipf": 3.68,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Erkältungen",
+      "genitive": "Erkältung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "erkälten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "cold (illness)",
+        "ko": "감기",
+        "examples": [
+          {
+            "text": "Ich habe eine Erkältung.",
+            "ko": "나는 감기에 걸렸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erleben",
+    "level": "b1",
+    "zipf": 4.65,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "erlebt",
+      "past": "erlebte",
+      "pp": "erlebt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "er|insep",
+      "leben|stem"
+    ],
+    "senses": [
+      {
+        "en": "to experience",
+        "ko": "경험하다, 겪다",
+        "examples": [
+          {
+            "text": "Im Urlaub haben wir viel erlebt.",
+            "ko": "우리는 휴가에서 많은 것을 경험했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to see, live to see, witness",
+        "ko": "목격하다, 살아서 보다",
+        "examples": [
+          {
+            "text": "Meine Oma hat den Krieg erlebt.",
+            "ko": "할머니는 전쟁을 겪으셨다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Erlebnis",
+    "level": "b1",
+    "zipf": 4.2,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Erlebnisse",
+      "genitive": "Erlebnisses"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "erleben|stem",
+      "-nis|suffix"
+    ],
+    "senses": [
+      {
+        "en": "experience (event of which one is cognizant)",
+        "ko": "체험, 경험",
+        "examples": [
+          {
+            "text": "Die Reise war ein tolles Erlebnis.",
+            "ko": "그 여행은 멋진 경험이었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erledigen",
+    "level": "b1",
+    "zipf": 4.17,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "erledigt",
+      "past": "erledigte",
+      "pp": "erledigt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "er|insep",
+      "ledig|stem"
+    ],
+    "senses": [
+      {
+        "en": "to finish, to finalize, to complete, to see to, to handle with the result of completed work",
+        "ko": "처리하다, 끝내다",
+        "examples": [
+          {
+            "text": "Ich erledige noch ein paar Dinge.",
+            "ko": "나는 아직 몇 가지 일을 처리한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "erleichtern",
+    "level": "b1",
+    "zipf": 3.97,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "erleichtert",
+      "past": "erleichterte",
+      "pp": "erleichtert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "er|insep",
+      "leicht|stem"
+    ],
+    "senses": [
+      {
+        "en": "to facilitate, make easier",
+        "ko": "쉽게 하다, 덜어 주다",
+        "examples": [
+          {
+            "text": "Ein Plan erleichtert die Arbeit.",
+            "ko": "계획이 있으면 일이 쉬워진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to ease",
+        "ko": "완화하다",
+        "examples": [
+          {
+            "text": "Die Tablette erleichtert den Schmerz.",
+            "ko": "알약이 통증을 덜어 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ernähren",
+    "level": "b1",
+    "zipf": 3.94,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "ernährt",
+      "past": "ernährte",
+      "pp": "ernährt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "er|insep",
+      "nähren|stem"
+    ],
+    "senses": [
+      {
+        "en": "to nourish, to feed",
+        "ko": "먹여 살리다, 영양을 공급하다",
+        "examples": [
+          {
+            "text": "Sie ernährt ihre Kinder allein.",
+            "ko": "그녀는 혼자서 아이들을 먹여 살린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to eat",
+        "ko": "~를 먹고 살다",
+        "examples": [
+          {
+            "text": "Ich ernähre mich gesund.",
+            "ko": "나는 건강하게 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ernährung",
+    "level": "b1",
+    "zipf": 4.4,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Ernährung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ernähren|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "nutrition",
+        "ko": "영양, 식생활",
+        "examples": [
+          {
+            "text": "Gesunde Ernährung ist wichtig.",
+            "ko": "건강한 식생활은 중요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Essig",
+    "level": "b1",
+    "zipf": 3.56,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Essige",
+      "genitive": "Essigs"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "vinegar",
+        "ko": "식초",
+        "examples": [
+          {
+            "text": "Ich mache den Salat mit Essig und Öl.",
+            "ko": "나는 식초와 기름으로 샐러드를 만든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Etage",
+    "level": "b1",
+    "zipf": 3.81,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Etagen",
+      "genitive": "Etage"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "floor; storey",
+        "ko": "층",
+        "examples": [
+          {
+            "text": "Das Büro ist in der dritten Etage.",
+            "ko": "사무실은 3층에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "etwa",
+    "level": "b1",
+    "zipf": 5.62,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "approximately",
+        "ko": "대략, 약",
+        "examples": [
+          {
+            "text": "Die Fahrt dauert etwa eine Stunde.",
+            "ko": "가는 데 대략 한 시간 걸린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "for instance",
+        "ko": "예를 들어",
+        "examples": [
+          {
+            "text": "Es gibt viele Sportarten, etwa Fußball.",
+            "ko": "운동은 많다. 예를 들면 축구다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "by any chance, possibly",
+        "ko": "혹시",
+        "examples": [
+          {
+            "text": "Hast du etwa meinen Schlüssel gesehen?",
+            "ko": "혹시 내 열쇠 봤어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "eventuell",
+    "level": "b1",
+    "zipf": 4.48,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "potential, possible, contingent, liable",
+        "ko": "어쩌면 있을 수 있는, 경우에 따른",
+        "examples": [
+          {
+            "text": "Eventuell komme ich später.",
+            "ko": "어쩌면 나는 나중에 올 수도 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ewig",
+    "level": "b1",
+    "zipf": 4.52,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "ewiger",
+      "superlative": "am ewigsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "eternal, everlasting",
+        "ko": "영원한",
+        "examples": [
+          {
+            "text": "Sie wollen ewig zusammenbleiben.",
+            "ko": "그들은 영원히 함께 있고 싶어 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "constant, frequent",
+        "ko": "끊임없는, 늘 있는",
+        "examples": [
+          {
+            "text": "Ich höre sein ewiges Meckern.",
+            "ko": "그가 끊임없이 투덜대는 소리를 듣는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Experte",
+    "level": "b1",
+    "zipf": 4.26,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Experten",
+      "genitive": "Experten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "expert",
+        "ko": "전문가",
+        "examples": [
+          {
+            "text": "Er ist ein Experte für Computer.",
+            "ko": "그는 컴퓨터 전문가이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Export",
+    "level": "b1",
+    "zipf": 3.92,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Exporte",
+      "genitive": "Exportes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "export (the act of exporting)",
+        "ko": "수출",
+        "examples": [
+          {
+            "text": "Der Export von Autos ist wichtig für Deutschland.",
+            "ko": "자동차 수출은 독일에 중요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "extra",
+    "level": "b1",
+    "zipf": 4.68,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "separate (not included in or directly connected to the object being discussed)",
+        "ko": "별도의, 따로",
+        "examples": [
+          {
+            "text": "Das Frühstück kostet extra.",
+            "ko": "아침 식사는 따로 돈이 든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "special, specially made",
+        "ko": "특별한, 일부러",
+        "examples": [
+          {
+            "text": "Ich habe das extra für dich gekocht.",
+            "ko": "나는 이것을 너를 위해 일부러 요리했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "extrem",
+    "level": "b1",
+    "zipf": 4.75,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "extreme",
+        "ko": "극단적인, 극심한",
+        "examples": [
+          {
+            "text": "Im Sommer ist es hier extrem heiß.",
+            "ko": "여름에 여기는 극심하게 덥다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

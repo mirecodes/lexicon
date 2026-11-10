@@ -1,0 +1,1317 @@
+[
+  {
+    "word": "wandern",
+    "level": "a1",
+    "zipf": 4.2,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "wandert",
+      "past": "wanderte",
+      "pp": "gewandert",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to hike, to go trekking",
+        "ko": "하이킹하다, 도보 여행하다",
+        "examples": [
+          {
+            "text": "Wir wandern am Sonntag in den Bergen.",
+            "ko": "우리는 일요일에 산에서 하이킹해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wann",
+    "level": "a1",
+    "zipf": 5.17,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "when",
+        "ko": "언제",
+        "examples": [
+          {
+            "text": "Wann kommst du nach Hause?",
+            "ko": "너 언제 집에 와?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "warten",
+    "level": "a1",
+    "zipf": 5.01,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "wartet",
+      "past": "wartete",
+      "pp": "gewartet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to wait (for)",
+        "ko": "기다리다",
+        "examples": [
+          {
+            "text": "Ich warte auf den Bus.",
+            "ko": "나는 버스를 기다려.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to maintain (chiefly a machine, e.g. a car or heating)",
+        "ko": "정비하다, 점검하다",
+        "examples": [
+          {
+            "text": "Der Mechaniker wartet die Heizung.",
+            "ko": "정비사가 난방 장치를 점검한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "warum",
+    "level": "a1",
+    "zipf": 5.75,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "why; for what reason",
+        "ko": "왜",
+        "examples": [
+          {
+            "text": "Warum lernst du Deutsch?",
+            "ko": "너는 왜 독일어를 배워?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "was",
+    "level": "a1",
+    "zipf": 6.49,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "what",
+        "ko": "무엇, 뭐",
+        "examples": [
+          {
+            "text": "Was machst du heute?",
+            "ko": "너 오늘 뭐 해?",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "something (colloquial for etwas)",
+        "ko": "뭔가, 무언가",
+        "examples": [
+          {
+            "text": "Ich brauche was zu trinken.",
+            "ko": "나 마실 것 좀 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "why, what for; often expressing a personal concern about the matter",
+        "ko": "왜 (구어)",
+        "examples": [
+          {
+            "text": "Was regst du dich so auf?",
+            "ko": "왜 그렇게 흥분해?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "was für ein",
+    "level": "a1",
+    "zipf": 6.24,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "what kind of (a)",
+        "ko": "어떤 종류의",
+        "examples": [
+          {
+            "text": "Was für ein Auto hast du?",
+            "ko": "너는 어떤 차를 갖고 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "waschen",
+    "level": "a1",
+    "zipf": 4.2,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": true,
+      "present3": "wäscht",
+      "past": "wusch",
+      "pp": "gewaschen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to wash",
+        "ko": "씻다, 빨다",
+        "examples": [
+          {
+            "text": "Ich wasche meine Hände.",
+            "ko": "나는 손을 씻는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wasser",
+    "level": "a1",
+    "zipf": 5.32,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Wassers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "water (H₂O)",
+        "ko": "물",
+        "examples": [
+          {
+            "text": "Ich trinke gern Wasser.",
+            "ko": "나는 물 마시는 걸 좋아해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "clipping of Mineralwasser/Tafelwasser",
+        "ko": "생수, 탄산수",
+        "examples": [
+          {
+            "text": "Ein Wasser, bitte.",
+            "ko": "물 한 잔 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "weg sein",
+    "level": "a1",
+    "zipf": 5.58,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": false,
+      "present3": "ist weg",
+      "past": "war weg",
+      "pp": "weg gewesen",
+      "aux": "sein"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to be gone, to be away",
+        "ko": "가고 없다, 자리에 없다",
+        "examples": [
+          {
+            "text": "Mein Handy ist weg.",
+            "ko": "내 휴대폰이 없어졌어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "weh tun",
+    "level": "a1",
+    "zipf": 4.49,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": false,
+      "present3": "tut weh",
+      "past": "tat weh",
+      "pp": "wehgetan",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "weh|stem",
+      "tun|stem"
+    ],
+    "senses": [
+      {
+        "en": "to hurt, to be painful",
+        "ko": "아프다",
+        "examples": [
+          {
+            "text": "Mein Kopf tut weh.",
+            "ko": "머리가 아파.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to cause someone pain or sorrow",
+        "ko": "아프게 하다, 마음 아프게 하다",
+        "examples": [
+          {
+            "text": "Du tust mir weh!",
+            "ko": "너 때문에 아파!",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "weiblich",
+    "level": "a1",
+    "zipf": 3.96,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Weib|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female",
+        "ko": "여성의, 암컷의",
+        "examples": [
+          {
+            "text": "Die Lehrerin ist weiblich.",
+            "ko": "그 선생님은 여성이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "feminine",
+        "ko": "여성스러운, 여성형의",
+        "examples": [
+          {
+            "text": "\"Die Katze\" ist ein weibliches Wort.",
+            "ko": "\"die Katze\"는 여성형 단어야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wein",
+    "level": "a1",
+    "zipf": 4.64,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Weine",
+      "genitive": "Weines"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "wine",
+        "ko": "포도주, 와인",
+        "examples": [
+          {
+            "text": "Wir trinken ein Glas Wein.",
+            "ko": "우리는 와인 한 잔을 마셔.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "weit",
+    "level": "a1",
+    "zipf": 5.4,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "weiter",
+      "superlative": "am weitesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "far (distance)",
+        "ko": "먼",
+        "examples": [
+          {
+            "text": "Die Schule ist nicht weit.",
+            "ko": "학교는 멀지 않아.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "wide",
+        "ko": "넓은, 헐렁한",
+        "examples": [
+          {
+            "text": "Die Hose ist zu weit.",
+            "ko": "그 바지는 너무 헐렁해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "weiter",
+    "level": "a1",
+    "zipf": 5.75,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "further, farther, more",
+        "ko": "더, 더 멀리",
+        "examples": [
+          {
+            "text": "Gehen Sie bitte weiter.",
+            "ko": "계속 앞으로 가 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "on; expresses the continuation of an action",
+        "ko": "계속해서",
+        "examples": [
+          {
+            "text": "Ich lerne weiter Deutsch.",
+            "ko": "나는 계속 독일어를 공부해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "welch",
+    "level": "a1",
+    "zipf": 4.2,
+    "pos": "det",
+    "grammar": {
+      "type": "det"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "which (asking about a choice)",
+        "ko": "어느, 어떤",
+        "examples": [
+          {
+            "text": "Welches Buch möchtest du?",
+            "ko": "어느 책을 원해?",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Welt",
+    "level": "a1",
+    "zipf": 5.66,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Welten",
+      "genitive": "Welt"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "world",
+        "ko": "세계, 세상",
+        "examples": [
+          {
+            "text": "Er reist um die Welt.",
+            "ko": "그는 세계 일주를 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wenig",
+    "level": "a1",
+    "zipf": 5.49,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "weniger",
+      "superlative": "am wenigsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "little, few (a small amount, a small number)",
+        "ko": "적은, 조금",
+        "examples": [
+          {
+            "text": "Ich habe wenig Zeit.",
+            "ko": "나는 시간이 별로 없어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wer",
+    "level": "a1",
+    "zipf": 5.86,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "who (what person or people)",
+        "ko": "누구",
+        "examples": [
+          {
+            "text": "Wer ist das?",
+            "ko": "이 사람은 누구야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "whoever, he who, someone who, the person who, anyone who (whatever person or persons)",
+        "ko": "~하는 사람은 누구든",
+        "examples": [
+          {
+            "text": "Wer lernt, wird besser.",
+            "ko": "공부하는 사람은 나아진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "werden",
+    "level": "a1",
+    "zipf": 6.49,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "wird",
+      "past": "wurde",
+      "pp": "geworden",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to become; to get; to grow; to turn",
+        "ko": "~이 되다, ~해지다",
+        "examples": [
+          {
+            "text": "Es wird dunkel.",
+            "ko": "어두워진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "will, to be going to, forms the future tense",
+        "ko": "~할 것이다 (미래)",
+        "examples": [
+          {
+            "text": "Ich werde morgen anrufen.",
+            "ko": "내일 전화할 거야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be done; forms the passive voice",
+        "ko": "~되다 (수동)",
+        "examples": [
+          {
+            "text": "Das Haus wird gebaut.",
+            "ko": "그 집이 지어지고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wetter",
+    "level": "a1",
+    "zipf": 4.76,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Wetters"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "weather",
+        "ko": "날씨",
+        "examples": [
+          {
+            "text": "Das Wetter ist heute schön.",
+            "ko": "오늘 날씨가 좋아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wichtig",
+    "level": "a1",
+    "zipf": 5.29,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "wichtiger",
+      "superlative": "am wichtigsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "important, relevant, significant, weighty",
+        "ko": "중요한",
+        "examples": [
+          {
+            "text": "Das ist sehr wichtig.",
+            "ko": "그건 매우 중요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wie",
+    "level": "a1",
+    "zipf": 6.65,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "how",
+        "ko": "어떻게, 어때",
+        "examples": [
+          {
+            "text": "Wie geht es dir?",
+            "ko": "어떻게 지내?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "as, like (in comparisons)",
+        "ko": "~처럼, ~만큼",
+        "examples": [
+          {
+            "text": "Er ist so groß wie ich.",
+            "ko": "그는 나만큼 키가 커.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wie viel",
+    "level": "a1",
+    "zipf": 5.91,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "how much; how often",
+        "ko": "얼마나 (많이)",
+        "examples": [
+          {
+            "text": "Wie viel kostet das?",
+            "ko": "이거 얼마예요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wiederholen",
+    "level": "a1",
+    "zipf": 4.25,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "wiederholt",
+      "past": "wiederholte",
+      "pp": "wiederholt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wieder|insep",
+      "holen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to repeat (to do or say again)",
+        "ko": "반복하다, 다시 말하다",
+        "examples": [
+          {
+            "text": "Können Sie das bitte wiederholen?",
+            "ko": "그것을 다시 말씀해 주시겠어요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to revise, review, study (look over again (something previously written or learned))",
+        "ko": "복습하다",
+        "examples": [
+          {
+            "text": "Ich wiederhole die Wörter vor dem Test.",
+            "ko": "나는 시험 전에 단어를 복습한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wiederhören",
+    "level": "a1",
+    "zipf": 2.28,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Wiederhörens"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wieder|stem",
+      "hören|stem"
+    ],
+    "senses": [
+      {
+        "en": "hearing again; an instance of hearing someone’s or each other’s voice again",
+        "ko": "(전화로) 다시 듣기",
+        "examples": [
+          {
+            "text": "Auf Wiederhören!",
+            "ko": "(전화에서) 안녕히 계세요!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wiedersehen",
+    "level": "a1",
+    "zipf": 4.11,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Wiedersehen",
+      "genitive": "Wiedersehens"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wieder|stem",
+      "sehen|stem"
+    ],
+    "senses": [
+      {
+        "en": "reunion; seeing again; instance of seeing someone or each other again",
+        "ko": "재회, 다시 만남",
+        "examples": [
+          {
+            "text": "Auf Wiedersehen!",
+            "ko": "안녕히 가세요!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "willkommen",
+    "level": "a1",
+    "zipf": 4.82,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "willkommner"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "welcome (received with gladness)",
+        "ko": "환영받는",
+        "examples": [
+          {
+            "text": "Herzlich willkommen!",
+            "ko": "진심으로 환영합니다!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wind",
+    "level": "a1",
+    "zipf": 4.69,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Winde",
+      "genitive": "Windes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "wind; the movement of air usually caused by convection or differences of air pressure",
+        "ko": "바람",
+        "examples": [
+          {
+            "text": "Heute ist viel Wind.",
+            "ko": "오늘은 바람이 많이 불어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wir",
+    "level": "a1",
+    "zipf": 6.54,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "we",
+        "ko": "우리",
+        "examples": [
+          {
+            "text": "Wir wohnen in Seoul.",
+            "ko": "우리는 서울에 살아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wissen",
+    "level": "a1",
+    "zipf": 5.55,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to know (a fact)",
+        "ko": "알다",
+        "examples": [
+          {
+            "text": "Ich weiß das nicht.",
+            "ko": "나는 그걸 몰라.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      },
+      {
+        "en": "knowledge",
+        "ko": "지식",
+        "examples": [
+          {
+            "text": "Wissen ist Macht.",
+            "ko": "아는 것이 힘이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wo",
+    "level": "a1",
+    "zipf": 5.9,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "where (at what place)",
+        "ko": "어디에",
+        "examples": [
+          {
+            "text": "Wo wohnst du?",
+            "ko": "너 어디 살아?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "woher",
+    "level": "a1",
+    "zipf": 4.64,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wo|stem",
+      "her|stem"
+    ],
+    "senses": [
+      {
+        "en": "where from, whence",
+        "ko": "어디에서, 어디 출신",
+        "examples": [
+          {
+            "text": "Woher kommst du?",
+            "ko": "너 어디서 왔어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wohin",
+    "level": "a1",
+    "zipf": 4.5,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wo|stem",
+      "hin|stem"
+    ],
+    "senses": [
+      {
+        "en": "where to, whither",
+        "ko": "어디로",
+        "examples": [
+          {
+            "text": "Wohin gehst du?",
+            "ko": "너 어디 가?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wohnen",
+    "level": "a1",
+    "zipf": 4.73,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "wohnt",
+      "past": "wohnte",
+      "pp": "gewohnt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to live, reside, dwell (to remain or be settled permanently, or for a considerable time)",
+        "ko": "살다, 거주하다",
+        "examples": [
+          {
+            "text": "Ich wohne in Berlin.",
+            "ko": "나는 베를린에 살아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to stay (to remain in a place for a definite or short period of time, though typically for more than a few days)",
+        "ko": "머무르다",
+        "examples": [
+          {
+            "text": "Wir wohnen eine Woche im Hotel.",
+            "ko": "우리는 일주일간 호텔에 묵는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wohnung",
+    "level": "a1",
+    "zipf": 5.08,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Wohnungen",
+      "genitive": "Wohnung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "wohnen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "flat; apartment (such a place when it occupies only part of a building)",
+        "ko": "아파트, 집",
+        "examples": [
+          {
+            "text": "Unsere Wohnung hat drei Zimmer.",
+            "ko": "우리 집은 방이 세 개야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wollen",
+    "level": "a1",
+    "zipf": 5.71,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "modal",
+      "reflexive": false,
+      "present3": "will",
+      "past": "wollte",
+      "pp": "gewollt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to want; to wish; to desire; to demand",
+        "ko": "원하다, ~하고 싶다",
+        "examples": [
+          {
+            "text": "Ich will ein Eis.",
+            "ko": "나는 아이스크림을 먹고 싶어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to intend, to mean",
+        "ko": "~할 작정이다",
+        "examples": [
+          {
+            "text": "Wir wollen morgen ins Kino gehen.",
+            "ko": "우리는 내일 영화관에 갈 생각이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Wort",
+    "level": "a1",
+    "zipf": 5.22,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Wörter",
+      "genitive": "Wortes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "word as an isolated unit",
+        "ko": "단어",
+        "examples": [
+          {
+            "text": "Dieses Wort kenne ich nicht.",
+            "ko": "나는 이 단어를 몰라.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "promise, (figuratively) word",
+        "ko": "약속",
+        "examples": [
+          {
+            "text": "Er hält sein Wort.",
+            "ko": "그는 약속을 지킨다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wunderbar",
+    "level": "a1",
+    "zipf": 4.46,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "wunderbarer",
+      "superlative": "am wunderbarsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Wunder|stem",
+      "-bar|suffix"
+    ],
+    "senses": [
+      {
+        "en": "wonderful",
+        "ko": "멋진, 훌륭한",
+        "examples": [
+          {
+            "text": "Das Essen ist wunderbar.",
+            "ko": "음식이 훌륭해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

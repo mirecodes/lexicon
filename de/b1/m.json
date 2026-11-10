@@ -1,0 +1,2406 @@
+[
+  {
+    "word": "Magazin",
+    "level": "b1",
+    "zipf": 4.42,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Magazine",
+      "genitive": "Magazines"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "magazine (periodical)",
+        "ko": "잡지",
+        "examples": [
+          {
+            "text": "Ich lese ein Magazin über Reisen.",
+            "ko": "나는 여행 잡지를 읽는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "warehouse",
+        "ko": "창고",
+        "examples": [
+          {
+            "text": "Die Bücher liegen im Magazin der Bibliothek.",
+            "ko": "그 책들은 도서관 서고에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mager",
+    "level": "b1",
+    "zipf": 3.38,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "lean, without fat (e.g. of meat or dairy)",
+        "ko": "기름기 없는, 저지방의",
+        "examples": [
+          {
+            "text": "Ich kaufe magere Milch.",
+            "ko": "나는 저지방 우유를 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "meager, skinny, malnourished (of a person or animal, generally with a negative connotation)",
+        "ko": "마른, 빈약한",
+        "examples": [
+          {
+            "text": "Der Hund ist sehr mager.",
+            "ko": "그 개는 아주 말랐다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mahlzeit",
+    "level": "b1",
+    "zipf": 3.92,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mahlzeiten",
+      "genitive": "Mahlzeit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Mahl|stem",
+      "Zeit|stem"
+    ],
+    "senses": [
+      {
+        "en": "meal",
+        "ko": "식사",
+        "examples": [
+          {
+            "text": "Die wichtigste Mahlzeit ist für mich das Frühstück.",
+            "ko": "나에게 가장 중요한 식사는 아침이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "mealtime",
+        "ko": "식사 시간 (인사말)",
+        "examples": [
+          {
+            "text": "Mahlzeit! sagen viele Kollegen mittags.",
+            "ko": "많은 동료들이 점심에 맛있게 드세요라고 인사한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mahnung",
+    "level": "b1",
+    "zipf": 3.43,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mahnungen",
+      "genitive": "Mahnung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "mahnen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "reminder",
+        "ko": "독촉장, 독촉",
+        "examples": [
+          {
+            "text": "Ich habe eine Mahnung von der Bank bekommen.",
+            "ko": "나는 은행에서 독촉장을 받았다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "warning",
+        "ko": "경고",
+        "examples": [
+          {
+            "text": "Das ist eine letzte Mahnung.",
+            "ko": "이것이 마지막 경고다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mal",
+    "level": "b1",
+    "zipf": 6.28,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Male",
+      "genitive": "Males"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "time (as in the first time; many times)",
+        "ko": "번, 회",
+        "examples": [
+          {
+            "text": "Ich war schon zweimal in Berlin.",
+            "ko": "나는 이미 베를린에 두 번 가 봤다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "occasion, case, occurrence",
+        "ko": "때, 경우",
+        "examples": [
+          {
+            "text": "Beim nächsten Mal bringe ich Kuchen mit.",
+            "ko": "다음번에는 케이크를 가져올게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Maler",
+    "level": "b1",
+    "zipf": 4.2,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Maler",
+      "genitive": "Malers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "painter (artist who paints pictures)",
+        "ko": "화가",
+        "examples": [
+          {
+            "text": "Der Maler stellt seine Bilder aus.",
+            "ko": "화가가 자기 그림을 전시한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "painter (skilled worker who paints walls etc.)",
+        "ko": "도장공, 페인트공",
+        "examples": [
+          {
+            "text": "Der Maler streicht die Wand weiß.",
+            "ko": "페인트공이 벽을 하얗게 칠한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mangel",
+    "level": "b1",
+    "zipf": 4.26,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Mängel",
+      "genitive": "Mangels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "lack, shortage (the condition of having an insufficient amount of a resource, or none at all)",
+        "ko": "부족, 결핍",
+        "examples": [
+          {
+            "text": "In der Stadt herrscht Mangel an Wohnungen.",
+            "ko": "그 도시는 집이 부족하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "markieren",
+    "level": "b1",
+    "zipf": 3.76,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "markiert",
+      "past": "markierte",
+      "pp": "markiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to mark (indicate)",
+        "ko": "표시하다",
+        "examples": [
+          {
+            "text": "Ich markiere die wichtigen Wörter gelb.",
+            "ko": "나는 중요한 단어를 노란색으로 표시한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Marmelade",
+    "level": "b1",
+    "zipf": 3.57,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Marmeladen",
+      "genitive": "Marmelade"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "jam",
+        "ko": "잼",
+        "examples": [
+          {
+            "text": "Zum Frühstück esse ich Brot mit Marmelade.",
+            "ko": "아침에 나는 빵에 잼을 발라 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Material",
+    "level": "b1",
+    "zipf": 4.7,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Materialien",
+      "genitive": "Materials"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "material (matter)",
+        "ko": "재료, 자료",
+        "examples": [
+          {
+            "text": "Für den Kurs brauchen wir neues Material.",
+            "ko": "수업에 새 자료가 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mauer",
+    "level": "b1",
+    "zipf": 4.43,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mauern",
+      "genitive": "Mauer"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a wall, usually one made of stone or concrete",
+        "ko": "벽, 담",
+        "examples": [
+          {
+            "text": "Um den Garten steht eine hohe Mauer.",
+            "ko": "정원 둘레에 높은 담이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "maximal",
+    "level": "b1",
+    "zipf": 4.47,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "maximal",
+        "ko": "최대의, 최대한",
+        "examples": [
+          {
+            "text": "Hier darf man maximal 50 fahren.",
+            "ko": "여기서는 최대 50까지 달릴 수 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mechaniker",
+    "level": "b1",
+    "zipf": 3.51,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Mechaniker",
+      "genitive": "Mechanikers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "mechanic, repairman, fitter, mechanician, machinist",
+        "ko": "기계공, 정비사",
+        "examples": [
+          {
+            "text": "Der Mechaniker repariert mein Auto.",
+            "ko": "정비사가 내 차를 수리한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Medien",
+    "level": "b1",
+    "zipf": 5.05,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "number": "pl"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "plural of Medium",
+        "ko": "미디어, 매체",
+        "examples": [
+          {
+            "text": "Die Medien berichten viel über das Thema.",
+            "ko": "언론이 그 주제를 많이 보도한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Medizin",
+    "level": "b1",
+    "zipf": 4.56,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Medizinen",
+      "genitive": "Medizin"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "medicine (healing substance or cure)",
+        "ko": "약",
+        "examples": [
+          {
+            "text": "Nimm die Medizin dreimal am Tag.",
+            "ko": "약을 하루에 세 번 먹어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "medicine (the study of disease and treatment; the profession based thereon)",
+        "ko": "의학",
+        "examples": [
+          {
+            "text": "Meine Schwester studiert Medizin.",
+            "ko": "내 여동생은 의학을 공부한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mehl",
+    "level": "b1",
+    "zipf": 3.83,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Mehle",
+      "genitive": "Mehles"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "flour; meal (ground cereal)",
+        "ko": "밀가루, 곡물가루",
+        "examples": [
+          {
+            "text": "Für den Kuchen brauche ich Mehl und Eier.",
+            "ko": "케이크에는 밀가루와 달걀이 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mehrere",
+    "level": "b1",
+    "zipf": 5.24,
+    "pos": "pron",
+    "grammar": {
+      "type": "pron"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "multiple, several; more than one; a number of",
+        "ko": "여러, 몇몇의",
+        "examples": [
+          {
+            "text": "Ich habe mehrere Freunde in Köln.",
+            "ko": "나는 쾰른에 친구가 여럿 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mehrheit",
+    "level": "b1",
+    "zipf": 4.73,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mehrheiten",
+      "genitive": "Mehrheit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "mehr|stem",
+      "-heit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "majority; bulk",
+        "ko": "다수, 과반수",
+        "examples": [
+          {
+            "text": "Die Mehrheit stimmt dafür.",
+            "ko": "다수가 찬성한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mehrwertsteuer",
+    "level": "b1",
+    "zipf": 3.51,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mehrwertsteuern",
+      "genitive": "Mehrwertsteuer"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Mehrwert|stem",
+      "Steuer|stem"
+    ],
+    "senses": [
+      {
+        "en": "value added tax (tax levied on added value of an exchange)",
+        "ko": "부가가치세",
+        "examples": [
+          {
+            "text": "Die Mehrwertsteuer ist im Preis enthalten.",
+            "ko": "부가가치세는 가격에 포함되어 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "meinetwegen",
+    "level": "b1",
+    "zipf": 3.73,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "as far as I'm concerned (I don't mind if); for all I care",
+        "ko": "나는 상관없어, 나로서는 괜찮아",
+        "examples": [
+          {
+            "text": "Meinetwegen können wir gleich gehen.",
+            "ko": "나는 상관없으니 바로 가도 돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "because of me; for my sake",
+        "ko": "나 때문에",
+        "examples": [
+          {
+            "text": "Bleib meinetwegen nicht zu Hause.",
+            "ko": "나 때문에 집에 있지는 마.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Meister",
+    "level": "b1",
+    "zipf": 4.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Meister",
+      "genitive": "Meisters"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "master",
+        "ko": "장인, 달인, 사부",
+        "examples": [
+          {
+            "text": "Der Meister zeigt dem Lehrling die Arbeit.",
+            "ko": "장인이 견습생에게 일을 보여 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "champion",
+        "ko": "챔피언, 우승자",
+        "examples": [
+          {
+            "text": "Bayern ist wieder Meister geworden.",
+            "ko": "바이에른이 다시 우승했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "melden",
+    "level": "b1",
+    "zipf": 4.67,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "meldet",
+      "past": "meldete",
+      "pp": "gemeldet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to report, to inform (about an incident or condition)",
+        "ko": "알리다, 신고하다",
+        "examples": [
+          {
+            "text": "Ich melde den Unfall der Polizei.",
+            "ko": "나는 사고를 경찰에 신고한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to come forward, to volunteer, to enlist",
+        "ko": "자원하다, 신청하다",
+        "examples": [
+          {
+            "text": "Ich melde mich für den Kurs an.",
+            "ko": "나는 그 강좌에 신청한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to get or stay in touch, to touch base, to make contact",
+        "ko": "연락하다",
+        "examples": [
+          {
+            "text": "Ich melde mich morgen bei dir.",
+            "ko": "내일 너한테 연락할게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Meldung",
+    "level": "b1",
+    "zipf": 4.27,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Meldungen",
+      "genitive": "Meldung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "melden|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "report, news item",
+        "ko": "보도, 뉴스",
+        "examples": [
+          {
+            "text": "Die Meldung kam im Radio.",
+            "ko": "그 뉴스가 라디오에서 나왔다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "report, notification",
+        "ko": "신고, 통지",
+        "examples": [
+          {
+            "text": "Wir haben keine Meldung über Schäden.",
+            "ko": "우리는 피해 신고를 받지 못했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mensa",
+    "level": "b1",
+    "zipf": 3.58,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mensen",
+      "genitive": "Mensa"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cafeteria (at a university), student canteen",
+        "ko": "학생식당",
+        "examples": [
+          {
+            "text": "Wir essen jeden Tag in der Mensa.",
+            "ko": "우리는 매일 학생식당에서 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "menschlich",
+    "level": "b1",
+    "zipf": 3.94,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "menschlicher",
+      "superlative": "am menschlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Mensch|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "human, manlike",
+        "ko": "인간의, 사람의",
+        "examples": [
+          {
+            "text": "Fehler sind menschlich.",
+            "ko": "실수는 인간적인 일이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "humane, kind",
+        "ko": "인간적인, 인정 있는",
+        "examples": [
+          {
+            "text": "Der Chef behandelt uns sehr menschlich.",
+            "ko": "사장님은 우리를 아주 인간적으로 대한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Menü",
+    "level": "b1",
+    "zipf": 3.86,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Menüs",
+      "genitive": "Menüs"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "set menu in a restaurant",
+        "ko": "세트 메뉴, 코스 요리",
+        "examples": [
+          {
+            "text": "Ich nehme das Menü mit Fisch.",
+            "ko": "나는 생선이 나오는 세트 메뉴로 할게요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "menu",
+        "ko": "(컴퓨터) 메뉴",
+        "examples": [
+          {
+            "text": "Öffne bitte das Menü oben links.",
+            "ko": "왼쪽 위의 메뉴를 열어 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "merkwürdig",
+    "level": "b1",
+    "zipf": 4.08,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "merkwürdiger",
+      "superlative": "am merkwürdigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "merken|stem",
+      "-würdig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "strange, odd",
+        "ko": "이상한, 묘한",
+        "examples": [
+          {
+            "text": "Das Essen schmeckt merkwürdig.",
+            "ko": "음식 맛이 이상하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "messen",
+    "level": "b1",
+    "zipf": 4.3,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "misst",
+      "past": "maß",
+      "pp": "gemessen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to measure (something) (to ascertain a quantity)",
+        "ko": "재다, 측정하다",
+        "examples": [
+          {
+            "text": "Die Ärztin misst mein Fieber.",
+            "ko": "의사가 내 열을 잰다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to compete",
+        "ko": "겨루다",
+        "examples": [
+          {
+            "text": "Die beiden Teams messen ihre Kräfte.",
+            "ko": "두 팀이 실력을 겨룬다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Metall",
+    "level": "b1",
+    "zipf": 4.24,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Metalle",
+      "genitive": "Metalles"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "metal",
+        "ko": "금속",
+        "examples": [
+          {
+            "text": "Der Schlüssel ist aus Metall.",
+            "ko": "그 열쇠는 금속으로 되어 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Methode",
+    "level": "b1",
+    "zipf": 4.51,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Methoden",
+      "genitive": "Methode"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "method (process by which a task is completed)",
+        "ko": "방법",
+        "examples": [
+          {
+            "text": "Ich lerne Vokabeln mit einer neuen Methode.",
+            "ko": "나는 새로운 방법으로 단어를 외운다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "technique",
+        "ko": "기법, 요령",
+        "examples": [
+          {
+            "text": "Sie kennt eine gute Methode gegen Stress.",
+            "ko": "그녀는 스트레스에 좋은 요령을 안다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Metropole",
+    "level": "b1",
+    "zipf": 3.67,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Metropolen",
+      "genitive": "Metropole"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "metropolis; very large city; city which dominates its surroundings due to its population, administrative power or culture(s)",
+        "ko": "대도시, 중심 도시",
+        "examples": [
+          {
+            "text": "Berlin ist eine europäische Metropole.",
+            "ko": "베를린은 유럽의 대도시이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Metzger",
+    "level": "b1",
+    "zipf": 3.73,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Metzger",
+      "genitive": "Metzgers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "butcher (male or of unspecified gender)",
+        "ko": "정육점 주인, 푸주한",
+        "examples": [
+          {
+            "text": "Beim Metzger kaufe ich Wurst.",
+            "ko": "나는 정육점에서 소시지를 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mieter",
+    "level": "b1",
+    "zipf": 4.17,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Mieter",
+      "genitive": "Mieters"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "mieten|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "tenant",
+        "ko": "세입자",
+        "examples": [
+          {
+            "text": "Die Mieter zahlen die Miete am Monatsanfang.",
+            "ko": "세입자들은 월초에 월세를 낸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "renter",
+        "ko": "임차인",
+        "examples": [
+          {
+            "text": "Der Mieter sucht eine größere Wohnung.",
+            "ko": "임차인은 더 큰 집을 찾고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Migrant",
+    "level": "b1",
+    "zipf": 3.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Migranten",
+      "genitive": "Migranten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "migrant",
+        "ko": "이주민",
+        "examples": [
+          {
+            "text": "Viele Migranten arbeiten in unserer Stadt.",
+            "ko": "많은 이주민이 우리 도시에서 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Migration",
+    "level": "b1",
+    "zipf": 4.09,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Migrationen",
+      "genitive": "Migration"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "migration",
+        "ko": "이주, 이동",
+        "examples": [
+          {
+            "text": "Die Migration verändert die Gesellschaft.",
+            "ko": "이주는 사회를 변화시킨다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mild",
+    "level": "b1",
+    "zipf": 3.47,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "milder",
+      "superlative": "am mildesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "mild (in all of its common senses)",
+        "ko": "순한, 온화한",
+        "examples": [
+          {
+            "text": "Der Winter war dieses Jahr sehr mild.",
+            "ko": "올해 겨울은 아주 온화했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Minderheit",
+    "level": "b1",
+    "zipf": 4.06,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Minderheiten",
+      "genitive": "Minderheit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "minder|stem",
+      "-heit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "minority",
+        "ko": "소수, 소수자",
+        "examples": [
+          {
+            "text": "Nur eine Minderheit war dagegen.",
+            "ko": "소수만이 반대했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "minimal",
+    "level": "b1",
+    "zipf": 3.79,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "minimal",
+        "ko": "최소의, 아주 적은",
+        "examples": [
+          {
+            "text": "Der Unterschied ist minimal.",
+            "ko": "차이는 아주 적다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mischen",
+    "level": "b1",
+    "zipf": 3.9,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "mischt",
+      "past": "mischte",
+      "pp": "gemischt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to mix",
+        "ko": "섞다",
+        "examples": [
+          {
+            "text": "Sie mischt Wasser und Saft.",
+            "ko": "그녀는 물과 주스를 섞는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to shuffle",
+        "ko": "(카드를) 섞다",
+        "examples": [
+          {
+            "text": "Wer mischt die Karten?",
+            "ko": "누가 카드를 섞을래?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "miss",
+    "level": "b1",
+    "zipf": 4.17,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "mis-, wrong, bad (prefix: missverstehen, Missverständnis)",
+        "ko": "잘못된, 반대 (접두어)",
+        "examples": [
+          {
+            "text": "Ich habe dich missverstanden.",
+            "ko": "나는 너를 오해했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mitarbeiterin",
+    "level": "b1",
+    "zipf": 3.85,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mitarbeiterinnen",
+      "genitive": "Mitarbeiterin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Mitarbeiter|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "associate, employee, colleague (female)",
+        "ko": "여직원, 여자 동료",
+        "examples": [
+          {
+            "text": "Unsere neue Mitarbeiterin beginnt am Montag.",
+            "ko": "우리의 새 여직원은 월요일에 시작한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "miteinander",
+    "level": "b1",
+    "zipf": 4.78,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "mit|stem",
+      "einander|stem"
+    ],
+    "senses": [
+      {
+        "en": "with each other",
+        "ko": "서로, 함께",
+        "examples": [
+          {
+            "text": "Wir sprechen oft miteinander.",
+            "ko": "우리는 서로 자주 이야기한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "together (with)",
+        "ko": "함께",
+        "examples": [
+          {
+            "text": "Sie kochen miteinander das Abendessen.",
+            "ko": "그들은 함께 저녁을 요리한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mitglied",
+    "level": "b1",
+    "zipf": 4.83,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Mitglieder",
+      "genitive": "Mitgliedes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "mit|stem",
+      "Glied|stem"
+    ],
+    "senses": [
+      {
+        "en": "member",
+        "ko": "회원, 구성원",
+        "examples": [
+          {
+            "text": "Ich bin Mitglied in einem Sportverein.",
+            "ko": "나는 스포츠 클럽의 회원이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mitteilen",
+    "level": "b1",
+    "zipf": 4.06,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "teilt mit",
+      "past": "teilte mit",
+      "pp": "mitgeteilt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "mit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "mit|sep",
+      "teilen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to inform about, to tell, to disclose, to impart, to report, to announce",
+        "ko": "알리다, 통보하다",
+        "examples": [
+          {
+            "text": "Ich teile dir das Ergebnis morgen mit.",
+            "ko": "결과는 내일 알려 줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mitten",
+    "level": "b1",
+    "zipf": 4.67,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "In the middle.",
+        "ko": "한가운데에",
+        "examples": [
+          {
+            "text": "Er steht mitten auf der Straße.",
+            "ko": "그는 길 한가운데에 서 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mittler",
+    "level": "b1",
+    "zipf": 3.22,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "middle, medium (mittlere)",
+        "ko": "중간의, 보통의",
+        "examples": [
+          {
+            "text": "Sie ist von mittlerer Größe.",
+            "ko": "그녀는 보통 키이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mittlerweile",
+    "level": "b1",
+    "zipf": 4.99,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "since then, now (contrasting between the current state and a known past state)",
+        "ko": "그사이에, 이제는",
+        "examples": [
+          {
+            "text": "Ich wohne mittlerweile in Hamburg.",
+            "ko": "나는 이제 함부르크에 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mobil",
+    "level": "b1",
+    "zipf": 4.05,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "mobiler",
+      "superlative": "am mobilsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "mobile",
+        "ko": "이동하는, 움직일 수 있는",
+        "examples": [
+          {
+            "text": "Mit dem Auto bin ich sehr mobil.",
+            "ko": "차가 있으면 나는 이동이 아주 자유롭다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mobilbox",
+    "level": "b1",
+    "zipf": 1.24,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mobilboxen"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "mobil|stem",
+      "Box|stem"
+    ],
+    "senses": [
+      {
+        "en": "voicemail (mobile phone answering service)",
+        "ko": "음성 사서함",
+        "examples": [
+          {
+            "text": "Bitte sprechen Sie auf die Mobilbox.",
+            "ko": "음성 사서함에 메시지를 남겨 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mobilität",
+    "level": "b1",
+    "zipf": 3.98,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mobilitäten",
+      "genitive": "Mobilität"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "mobility",
+        "ko": "이동성, 기동성",
+        "examples": [
+          {
+            "text": "Mobilität ist in großen Städten sehr wichtig.",
+            "ko": "대도시에서는 이동성이 매우 중요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Modell",
+    "level": "b1",
+    "zipf": 4.71,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Modelle",
+      "genitive": "Modells"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "A model of an object",
+        "ko": "모형",
+        "examples": [
+          {
+            "text": "Er baut ein Modell von einem Schiff.",
+            "ko": "그는 배 모형을 만든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "A theoretical model",
+        "ko": "모델, 이론 모형",
+        "examples": [
+          {
+            "text": "Das Modell erklärt, wie die Wirtschaft funktioniert.",
+            "ko": "그 모델은 경제가 어떻게 돌아가는지 설명한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mond",
+    "level": "b1",
+    "zipf": 4.35,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Monde",
+      "genitive": "Mondes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "moon (a natural satellite that is orbiting its corresponding planet)",
+        "ko": "달",
+        "examples": [
+          {
+            "text": "Heute Nacht ist der Mond sehr hell.",
+            "ko": "오늘 밤은 달이 아주 밝다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Monitor",
+    "level": "b1",
+    "zipf": 3.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Monitoren",
+      "genitive": "Monitors"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "monitor (display)",
+        "ko": "모니터",
+        "examples": [
+          {
+            "text": "Mein Monitor ist zu klein.",
+            "ko": "내 모니터는 너무 작다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Motorrad",
+    "level": "b1",
+    "zipf": 4.2,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Motorräder",
+      "genitive": "Motorrades"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Motor|stem",
+      "Rad|stem"
+    ],
+    "senses": [
+      {
+        "en": "motorcycle",
+        "ko": "오토바이",
+        "examples": [
+          {
+            "text": "Mein Bruder fährt jeden Tag Motorrad.",
+            "ko": "내 형은 매일 오토바이를 탄다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "musikalisch",
+    "level": "b1",
+    "zipf": 3.88,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "musikalischer",
+      "superlative": "am musikalischsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "musical",
+        "ko": "음악의, 음악적인",
+        "examples": [
+          {
+            "text": "Meine Tochter ist sehr musikalisch.",
+            "ko": "내 딸은 음악적 재능이 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Musiker",
+    "level": "b1",
+    "zipf": 4.52,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Musiker",
+      "genitive": "Musikers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Musik|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "musician",
+        "ko": "음악가 (남성)",
+        "examples": [
+          {
+            "text": "Der Musiker spielt jeden Abend in der Bar.",
+            "ko": "그 음악가는 매일 저녁 바에서 연주한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Musikerin",
+    "level": "b1",
+    "zipf": 3.2,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Musikerinnen",
+      "genitive": "Musikerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Musiker|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female musician, musicianess",
+        "ko": "여성 음악가",
+        "examples": [
+          {
+            "text": "Die Musikerin spielt Geige.",
+            "ko": "그 여성 음악가는 바이올린을 연주한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Muskel",
+    "level": "b1",
+    "zipf": 3.66,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Muskeln",
+      "genitive": "Muskels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "muscle",
+        "ko": "근육",
+        "examples": [
+          {
+            "text": "Nach dem Sport tun mir die Muskeln weh.",
+            "ko": "운동 후에 근육이 아프다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mut",
+    "level": "b1",
+    "zipf": 4.54,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Mutes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "courage; bravery",
+        "ko": "용기",
+        "examples": [
+          {
+            "text": "Du hast viel Mut.",
+            "ko": "너는 용기가 많구나.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mutig",
+    "level": "b1",
+    "zipf": 3.99,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "mutiger",
+      "superlative": "am mutigsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Mut|stem",
+      "-ig|suffix"
+    ],
+    "senses": [
+      {
+        "en": "courageous",
+        "ko": "용감한",
+        "examples": [
+          {
+            "text": "Das war ein mutiger Schritt.",
+            "ko": "그것은 용감한 한 걸음이었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Muttersprache",
+    "level": "b1",
+    "zipf": 3.76,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Muttersprachen",
+      "genitive": "Muttersprache"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Mutter|stem",
+      "Sprache|stem"
+    ],
+    "senses": [
+      {
+        "en": "mother tongue; native language",
+        "ko": "모국어",
+        "examples": [
+          {
+            "text": "Meine Muttersprache ist Koreanisch.",
+            "ko": "내 모국어는 한국어이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "möbliert",
+    "level": "b1",
+    "zipf": 2.6,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Möbel|stem",
+      "-iert|suffix"
+    ],
+    "senses": [
+      {
+        "en": "furnished",
+        "ko": "가구가 갖춰진",
+        "examples": [
+          {
+            "text": "Ich suche ein möbliertes Zimmer.",
+            "ko": "나는 가구가 있는 방을 찾고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Möglichkeit",
+    "level": "b1",
+    "zipf": 5.09,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Möglichkeiten",
+      "genitive": "Möglichkeit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "möglich|stem",
+      "-keit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "possibility, likelihood",
+        "ko": "가능성",
+        "examples": [
+          {
+            "text": "Es gibt keine andere Möglichkeit.",
+            "ko": "다른 가능성은 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "option, choice",
+        "ko": "선택지, 방법",
+        "examples": [
+          {
+            "text": "Wir haben zwei Möglichkeiten.",
+            "ko": "우리에게는 두 가지 방법이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "möglichst",
+    "level": "b1",
+    "zipf": 4.82,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "as much as possible",
+        "ko": "가능한 한",
+        "examples": [
+          {
+            "text": "Komm bitte möglichst früh.",
+            "ko": "가능한 한 일찍 와 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "preferably",
+        "ko": "되도록이면",
+        "examples": [
+          {
+            "text": "Ich möchte möglichst am Fenster sitzen.",
+            "ko": "되도록이면 창가에 앉고 싶어요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Möhre",
+    "level": "b1",
+    "zipf": 2.87,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Möhren",
+      "genitive": "Möhre"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "carrot",
+        "ko": "당근",
+        "examples": [
+          {
+            "text": "Ich schneide eine Möhre für die Suppe.",
+            "ko": "나는 수프에 넣을 당근을 썬다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mühe",
+    "level": "b1",
+    "zipf": 4.55,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mühen",
+      "genitive": "Mühe"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "effort, difficulty",
+        "ko": "노력, 수고",
+        "examples": [
+          {
+            "text": "Danke für deine Mühe.",
+            "ko": "수고해 줘서 고마워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Müllabfuhr",
+    "level": "b1",
+    "zipf": 3.19,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Müllabfuhren"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "Müll|stem",
+      "Abfuhr|stem"
+    ],
+    "senses": [
+      {
+        "en": "garbage collection, waste collection service",
+        "ko": "쓰레기 수거",
+        "examples": [
+          {
+            "text": "Die Müllabfuhr kommt jeden Dienstag.",
+            "ko": "쓰레기 수거차는 매주 화요일에 온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Mülltonne",
+    "level": "b1",
+    "zipf": 3.32,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Mülltonnen",
+      "genitive": "Mülltonne"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Müll|stem",
+      "Tonne|stem"
+    ],
+    "senses": [
+      {
+        "en": "wheelie bin; garbage can (large container for wet rubbish, usually outdoors and now usually on wheels)",
+        "ko": "쓰레기통",
+        "examples": [
+          {
+            "text": "Die Mülltonne steht vor dem Haus.",
+            "ko": "쓰레기통은 집 앞에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mündlich",
+    "level": "b1",
+    "zipf": 3.47,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Mund|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "oral",
+        "ko": "구두의, 말로 하는",
+        "examples": [
+          {
+            "text": "Die mündliche Prüfung ist morgen.",
+            "ko": "구술 시험은 내일이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Münze",
+    "level": "b1",
+    "zipf": 3.88,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Münzen",
+      "genitive": "Münze"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a coin, a metallic piece of currency",
+        "ko": "동전",
+        "examples": [
+          {
+            "text": "Ich habe nur eine Münze.",
+            "ko": "나는 동전 하나밖에 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

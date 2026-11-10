@@ -1,0 +1,62 @@
+[
+  {
+    "word": "Qualifikation",
+    "level": "b1",
+    "zipf": 4.28,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Qualifikationen",
+      "genitive": "Qualifikation"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "qualification",
+        "ko": "자격, 자격 요건",
+        "examples": [
+          {
+            "text": "Für den Job brauchst du eine Qualifikation.",
+            "ko": "그 일에는 자격이 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Quittung",
+    "level": "b1",
+    "zipf": 3.43,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Quittungen",
+      "genitive": "Quittung"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a receipt, an undersigned document issued to someone to enable him with evidence that his party has performed upon an obligation",
+        "ko": "영수증",
+        "examples": [
+          {
+            "text": "Kann ich bitte eine Quittung haben?",
+            "ko": "영수증 좀 받을 수 있을까요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1128 @@
+[
+  {
+    "word": "Haar",
+    "level": "a1",
+    "zipf": 4.4,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Haare",
+      "genitive": "Haares"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hair (the totality of hair on someone's head)",
+        "ko": "머리카락",
+        "examples": [
+          {
+            "text": "Sie hat lange Haare.",
+            "ko": "그녀는 머리카락이 길다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "haben",
+    "level": "a1",
+    "zipf": 6.45,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "hat",
+      "past": "hatte",
+      "pp": "gehabt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to have; to own (to possess, have ownership of; to possess a certain characteristic)",
+        "ko": "가지다, 있다",
+        "examples": [
+          {
+            "text": "Ich habe einen Bruder.",
+            "ko": "나는 형제가 한 명 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "forms the perfect aspect (have)",
+        "ko": "~했다 (완료 조동사)",
+        "examples": [
+          {
+            "text": "Ich habe gestern Fußball gespielt.",
+            "ko": "나는 어제 축구를 했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Halbpension",
+    "level": "a1",
+    "zipf": 2.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Halbpension"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "halb|stem",
+      "Pension|stem"
+    ],
+    "senses": [
+      {
+        "en": "half board",
+        "ko": "하프 보드 (조식·석식 포함 숙박)",
+        "examples": [
+          {
+            "text": "Wir buchen das Zimmer mit Halbpension.",
+            "ko": "우리는 하프 보드로 방을 예약한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Halle",
+    "level": "a1",
+    "zipf": 4.76,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Hallen",
+      "genitive": "Halle"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hall (a spacious room, especially one with a specific function)",
+        "ko": "홀, 큰 실내 공간",
+        "examples": [
+          {
+            "text": "Das Konzert ist in der Halle.",
+            "ko": "콘서트는 홀에서 열린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hallo",
+    "level": "a1",
+    "zipf": 5.06,
+    "pos": "intj",
+    "grammar": {
+      "type": "intj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a general greeting used when meeting someone",
+        "ko": "안녕",
+        "examples": [
+          {
+            "text": "Hallo, wie geht's?",
+            "ko": "안녕, 잘 지내?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "an initial response when picking up a phone call",
+        "ko": "여보세요",
+        "examples": [
+          {
+            "text": "Hallo, hier ist Anna.",
+            "ko": "여보세요, 안나예요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "halten",
+    "level": "a1",
+    "zipf": 5.34,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "hält",
+      "past": "hielt",
+      "pp": "gehalten",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to hold (an object in one's hands)",
+        "ko": "잡다, 들고 있다",
+        "examples": [
+          {
+            "text": "Sie hält ein Kind im Arm.",
+            "ko": "그녀는 아이를 안고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to stop, to halt, to hold back",
+        "ko": "멈추다, 정차하다",
+        "examples": [
+          {
+            "text": "Der Bus hält hier.",
+            "ko": "버스는 여기에 선다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Haltestelle",
+    "level": "a1",
+    "zipf": 3.99,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Haltestellen",
+      "genitive": "Haltestelle"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "halten|stem",
+      "Stelle|stem"
+    ],
+    "senses": [
+      {
+        "en": "stop (place to get on and off line buses or trams)",
+        "ko": "정류장",
+        "examples": [
+          {
+            "text": "Die Haltestelle ist neben der Schule.",
+            "ko": "정류장은 학교 옆에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Hand",
+    "level": "a1",
+    "zipf": 5.3,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Hand"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hand",
+        "ko": "손",
+        "examples": [
+          {
+            "text": "Gib mir deine Hand.",
+            "ko": "네 손을 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Handy",
+    "level": "a1",
+    "zipf": 4.84,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Handys",
+      "genitive": "Handys"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "mobile phone, mobile, cell phone, phone (portable, wireless telephone)",
+        "ko": "휴대폰",
+        "examples": [
+          {
+            "text": "Mein Handy ist leer.",
+            "ko": "내 휴대폰 배터리가 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Haus",
+    "level": "a1",
+    "zipf": 5.41,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Häuser",
+      "genitive": "Hauses"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "house, building",
+        "ko": "집, 건물",
+        "examples": [
+          {
+            "text": "Unser Haus hat einen Garten.",
+            "ko": "우리 집에는 정원이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "home (in various phrases)",
+        "ko": "집 (nach Hause, zu Hause)",
+        "examples": [
+          {
+            "text": "Ich gehe jetzt nach Hause.",
+            "ko": "나는 이제 집에 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Hausaufgabe",
+    "level": "a1",
+    "zipf": 3.04,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Hausaufgaben",
+      "genitive": "Hausaufgabe"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Haus|stem",
+      "Aufgabe|stem"
+    ],
+    "senses": [
+      {
+        "en": "homework assignment, a piece of exercise or examination by which a teacher or examiner tries the performance of a student",
+        "ko": "숙제",
+        "examples": [
+          {
+            "text": "Ich mache meine Hausaufgaben am Nachmittag.",
+            "ko": "나는 오후에 숙제를 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Hausfrau",
+    "level": "a1",
+    "zipf": 3.74,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Hausfrauen",
+      "genitive": "Hausfrau"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Haus|stem",
+      "Frau|stem"
+    ],
+    "senses": [
+      {
+        "en": "housewife",
+        "ko": "주부",
+        "examples": [
+          {
+            "text": "Meine Tante ist Hausfrau.",
+            "ko": "이모는 주부다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Heimat",
+    "level": "a1",
+    "zipf": 4.73,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Heimat"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "home, home town, homeland, native land",
+        "ko": "고향",
+        "examples": [
+          {
+            "text": "Meine Heimat ist Korea.",
+            "ko": "내 고향은 한국이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "heiraten",
+    "level": "a1",
+    "zipf": 4.26,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "heiratet",
+      "past": "heiratete",
+      "pp": "geheiratet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to marry; to get married",
+        "ko": "결혼하다",
+        "examples": [
+          {
+            "text": "Sie heiraten im Mai.",
+            "ko": "그들은 5월에 결혼한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "heißen",
+    "level": "a1",
+    "zipf": 4.83,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "heißt",
+      "past": "hieß",
+      "pp": "geheißen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to have a name; to be named; to be called; but implying that one “owns” this name, not necessarily that one goes by it",
+        "ko": "~라는 이름이다",
+        "examples": [
+          {
+            "text": "Ich heiße Mina.",
+            "ko": "내 이름은 미나다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to mean, to signify; to have a meaning",
+        "ko": "~라는 뜻이다",
+        "examples": [
+          {
+            "text": "Was heißt das auf Deutsch?",
+            "ko": "그건 독일어로 무슨 뜻이야?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "helfen",
+    "level": "a1",
+    "zipf": 5.18,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "hilft",
+      "past": "half",
+      "pp": "geholfen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to help (someone); to assist; to aid",
+        "ko": "돕다",
+        "examples": [
+          {
+            "text": "Kannst du mir bitte helfen?",
+            "ko": "나 좀 도와줄래?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hell",
+    "level": "a1",
+    "zipf": 4.3,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "heller",
+      "superlative": "am hellsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "clear, bright, light",
+        "ko": "밝은",
+        "examples": [
+          {
+            "text": "Das Zimmer ist schön hell.",
+            "ko": "방이 환하고 좋다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Herd",
+    "level": "a1",
+    "zipf": 3.87,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Herde",
+      "genitive": "Herdes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cooker; stove",
+        "ko": "레인지, 스토브",
+        "examples": [
+          {
+            "text": "Die Suppe steht auf dem Herd.",
+            "ko": "수프가 레인지 위에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Herr",
+    "level": "a1",
+    "zipf": 5.24,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Herren",
+      "genitive": "Herrn"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "Mr., mister, sir respectful address towards a man",
+        "ko": "~씨, 선생님",
+        "examples": [
+          {
+            "text": "Guten Morgen, Herr Schmidt.",
+            "ko": "안녕하세요, 슈미트 씨.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "man, gentleman",
+        "ko": "신사, 남성",
+        "examples": [
+          {
+            "text": "Ein Herr wartet an der Tür.",
+            "ko": "한 신사가 문 앞에서 기다린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "herzlich",
+    "level": "a1",
+    "zipf": 4.43,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "herzlicher",
+      "superlative": "am herzlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Herz|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "warm, warmhearted, friendly, affectionate, cordial",
+        "ko": "따뜻한, 진심 어린",
+        "examples": [
+          {
+            "text": "Herzlich willkommen!",
+            "ko": "진심으로 환영합니다!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "heute",
+    "level": "a1",
+    "zipf": 5.88,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "today",
+        "ko": "오늘",
+        "examples": [
+          {
+            "text": "Heute habe ich Zeit.",
+            "ko": "오늘은 시간이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hier",
+    "level": "a1",
+    "zipf": 6.26,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "here; in this place; refers to an environment one is currently in, or to something within reach",
+        "ko": "여기, 여기에",
+        "examples": [
+          {
+            "text": "Ich wohne seit einem Jahr hier.",
+            "ko": "나는 여기에 산 지 1년 됐다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Hilfe",
+    "level": "a1",
+    "zipf": 5.24,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Hilfe"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "the act of helping, assistance",
+        "ko": "도움",
+        "examples": [
+          {
+            "text": "Danke für deine Hilfe.",
+            "ko": "도와줘서 고마워.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hinten",
+    "level": "a1",
+    "zipf": 4.79,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "behind; in the back",
+        "ko": "뒤에, 뒤쪽에",
+        "examples": [
+          {
+            "text": "Der Koffer liegt hinten im Auto.",
+            "ko": "가방은 차 뒤쪽에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Hobby",
+    "level": "a1",
+    "zipf": 4.25,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Hobbys",
+      "genitive": "Hobbys"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "a hobby (activity)",
+        "ko": "취미",
+        "examples": [
+          {
+            "text": "Mein Hobby ist Fotografieren.",
+            "ko": "내 취미는 사진 찍기다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hoch",
+    "level": "a1",
+    "zipf": 5.28,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "höher",
+      "superlative": "am höchsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "high, tall",
+        "ko": "높은",
+        "examples": [
+          {
+            "text": "Der Berg ist sehr hoch.",
+            "ko": "그 산은 아주 높다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "high, great, immense",
+        "ko": "높은, 큰",
+        "examples": [
+          {
+            "text": "Die Miete ist hier hoch.",
+            "ko": "여기는 집세가 높다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Hochzeit",
+    "level": "a1",
+    "zipf": 4.48,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Hochzeiten",
+      "genitive": "Hochzeit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "hoch|stem",
+      "Zeit|stem"
+    ],
+    "senses": [
+      {
+        "en": "wedding, marriage (a ceremony in which people are married and/or a celebration thereof)",
+        "ko": "결혼식",
+        "examples": [
+          {
+            "text": "Die Hochzeit ist im Sommer.",
+            "ko": "결혼식은 여름에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "holen",
+    "level": "a1",
+    "zipf": 4.81,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "holt",
+      "past": "holte",
+      "pp": "geholt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to (go) get, to fetch (to go somewhere and take something to bring back)",
+        "ko": "가져오다",
+        "examples": [
+          {
+            "text": "Ich hole schnell ein Glas Wasser.",
+            "ko": "내가 얼른 물 한 잔 가져올게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to (go) get, to fetch (to seek out a person and bring them to a location)",
+        "ko": "데려오다, 부르러 가다",
+        "examples": [
+          {
+            "text": "Ich hole meine Tochter vom Kindergarten.",
+            "ko": "나는 딸을 유치원에서 데려온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Hotel",
+    "level": "a1",
+    "zipf": 4.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Hotels",
+      "genitive": "Hotels"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hotel",
+        "ko": "호텔",
+        "examples": [
+          {
+            "text": "Das Hotel liegt am Bahnhof.",
+            "ko": "호텔은 역 근처에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Hund",
+    "level": "a1",
+    "zipf": 4.86,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Hunde",
+      "genitive": "Hundes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "dog, hound",
+        "ko": "개",
+        "examples": [
+          {
+            "text": "Mein Hund heißt Max.",
+            "ko": "내 개의 이름은 막스다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Hunger",
+    "level": "a1",
+    "zipf": 4.46,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Hungers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hunger",
+        "ko": "배고픔",
+        "examples": [
+          {
+            "text": "Ich habe großen Hunger.",
+            "ko": "나는 몹시 배가 고프다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Hähnchen",
+    "level": "a1",
+    "zipf": 3.42,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Hähnchen",
+      "genitive": "Hähnchens"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Hahn|stem",
+      "-chen|suffix"
+    ],
+    "senses": [
+      {
+        "en": "chicken (meat)",
+        "ko": "닭고기",
+        "examples": [
+          {
+            "text": "Zum Mittagessen gibt es Hähnchen.",
+            "ko": "점심으로 닭고기가 나온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "a slaughtered chicken (of either sex) for food",
+        "ko": "통닭",
+        "examples": [
+          {
+            "text": "Wir kaufen ein Hähnchen für das Wochenende.",
+            "ko": "우리는 주말에 먹을 통닭을 산다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hören",
+    "level": "a1",
+    "zipf": 5.09,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "hört",
+      "past": "hörte",
+      "pp": "gehört",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to hear (to perceive sounds (or a sound) through the ear)",
+        "ko": "듣다, 들리다",
+        "examples": [
+          {
+            "text": "Ich höre dich nicht.",
+            "ko": "네 말이 안 들려.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to listen to, pay attention to (to give (someone) one's attention)",
+        "ko": "귀 기울여 듣다",
+        "examples": [
+          {
+            "text": "Ich höre gern Musik.",
+            "ko": "나는 음악 듣는 걸 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

@@ -1,0 +1,746 @@
+[
+  {
+    "word": "Vater",
+    "level": "a1",
+    "zipf": 5.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Väter",
+      "genitive": "Vaters"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "father",
+        "ko": "아버지",
+        "examples": [
+          {
+            "text": "Mein Vater arbeitet im Büro.",
+            "ko": "우리 아버지는 사무실에서 일해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verboten",
+    "level": "a1",
+    "zipf": 4.6,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "forbidden, prohibited, banned",
+        "ko": "금지된",
+        "examples": [
+          {
+            "text": "Rauchen ist hier verboten.",
+            "ko": "여기서는 흡연이 금지되어 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verdienen",
+    "level": "a1",
+    "zipf": 4.69,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verdient",
+      "past": "verdiente",
+      "pp": "verdient",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "dienen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to make money, to earn",
+        "ko": "(돈을) 벌다",
+        "examples": [
+          {
+            "text": "Er verdient gut.",
+            "ko": "그는 돈을 잘 번다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to deserve",
+        "ko": "~받을 자격이 있다",
+        "examples": [
+          {
+            "text": "Du verdienst eine Pause.",
+            "ko": "너는 휴식을 누릴 자격이 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verein",
+    "level": "a1",
+    "zipf": 5.0,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Vereine",
+      "genitive": "Vereines"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "association, club, society",
+        "ko": "협회, 동호회, 클럽",
+        "examples": [
+          {
+            "text": "Ich bin in einem Sportverein.",
+            "ko": "나는 스포츠 클럽 회원이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verheiratet",
+    "level": "a1",
+    "zipf": 4.51,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "married (in a state of marriage; having a wife or a husband)",
+        "ko": "결혼한, 기혼의",
+        "examples": [
+          {
+            "text": "Meine Schwester ist verheiratet.",
+            "ko": "내 언니(누나)는 결혼했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verkaufen",
+    "level": "a1",
+    "zipf": 4.84,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "verkauft",
+      "past": "verkaufte",
+      "pp": "verkauft",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "kaufen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to sell (something in exchange for money)",
+        "ko": "팔다",
+        "examples": [
+          {
+            "text": "Ich verkaufe mein altes Fahrrad.",
+            "ko": "나는 내 낡은 자전거를 판다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to sell (for a certain amount or at a certain rate)",
+        "ko": "~에 팔다",
+        "examples": [
+          {
+            "text": "Er verkauft das Auto für 5000 Euro.",
+            "ko": "그는 그 차를 5000유로에 판다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verkäufer",
+    "level": "a1",
+    "zipf": 4.14,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Verkäufer",
+      "genitive": "Verkäufers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "verkaufen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "salesclerk, salesman, shop assistant, sales assistant, vendor (one whose profession is to sell things)",
+        "ko": "판매원, 점원",
+        "examples": [
+          {
+            "text": "Der Verkäufer ist sehr freundlich.",
+            "ko": "그 점원은 아주 친절해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "seller (one who sells something)",
+        "ko": "판매자",
+        "examples": [
+          {
+            "text": "Der Verkäufer will 50 Euro.",
+            "ko": "판매자는 50유로를 원해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vermieten",
+    "level": "a1",
+    "zipf": 3.73,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "vermietet",
+      "past": "vermietete",
+      "pp": "vermietet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "mieten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to rent (to someone), to rent out",
+        "ko": "세놓다, 임대하다",
+        "examples": [
+          {
+            "text": "Wir vermieten ein Zimmer an Studenten.",
+            "ko": "우리는 학생들에게 방 하나를 세준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vermieter",
+    "level": "a1",
+    "zipf": 4.07,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Vermieter",
+      "genitive": "Vermieters"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vermieten|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "landlord (he who rents, lets)",
+        "ko": "집주인, 임대인",
+        "examples": [
+          {
+            "text": "Mein Vermieter wohnt im Haus.",
+            "ko": "우리 집주인은 그 건물에 살아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "verstehen",
+    "level": "a1",
+    "zipf": 5.17,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": true,
+      "present3": "versteht",
+      "past": "verstand",
+      "pp": "verstanden",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ver|insep",
+      "stehen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to comprehend, to make sense of",
+        "ko": "이해하다",
+        "examples": [
+          {
+            "text": "Ich verstehe die Frage nicht.",
+            "ko": "나는 그 질문을 이해하지 못하겠어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to hear and interpret (speech)",
+        "ko": "알아듣다",
+        "examples": [
+          {
+            "text": "Ich verstehe dich schlecht, es ist laut.",
+            "ko": "시끄러워서 네 말이 잘 안 들려.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to get along",
+        "ko": "(서로) 잘 지내다",
+        "examples": [
+          {
+            "text": "Wir verstehen uns gut.",
+            "ko": "우리는 서로 잘 지내.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Verwandte",
+    "level": "a1",
+    "zipf": 4.06,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m",
+        "f"
+      ],
+      "plural": "Verwandte",
+      "genitive": "Verwandter"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "female equivalent of Verwandter: female relative",
+        "ko": "(여자) 친척",
+        "examples": [
+          {
+            "text": "Meine Verwandte kommt aus Wien.",
+            "ko": "내 친척(여자)은 빈에서 왔어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "viel",
+    "level": "a1",
+    "zipf": 6.0,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "much, a lot",
+        "ko": "많이, 많은",
+        "examples": [
+          {
+            "text": "Ich trinke viel Wasser.",
+            "ko": "나는 물을 많이 마셔.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vielleicht",
+    "level": "a1",
+    "zipf": 5.72,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "perhaps, maybe",
+        "ko": "아마, 어쩌면",
+        "examples": [
+          {
+            "text": "Vielleicht komme ich morgen.",
+            "ko": "어쩌면 내일 갈게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "expresses amazement or excitement, particularly at something negative",
+        "ko": "정말이지 (감탄)",
+        "examples": [
+          {
+            "text": "Das ist vielleicht kalt hier!",
+            "ko": "여기 정말 춥다!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "von",
+    "level": "a1",
+    "zipf": 6.99,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "from",
+        "ko": "~로부터, ~에게서",
+        "examples": [
+          {
+            "text": "Ich bekomme einen Brief von meiner Mutter.",
+            "ko": "나는 엄마에게서 편지를 받는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "of, belonging to (often replacing genitive; see usage note below)",
+        "ko": "~의",
+        "examples": [
+          {
+            "text": "Das ist das Auto von meinem Vater.",
+            "ko": "이건 우리 아버지의 차야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "about, of (a topic)",
+        "ko": "~에 대해",
+        "examples": [
+          {
+            "text": "Er erzählt von seiner Reise.",
+            "ko": "그는 자기 여행에 대해 이야기한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vor",
+    "level": "a1",
+    "zipf": 6.31,
+    "pos": "prep",
+    "grammar": {
+      "type": "prep"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "in front of, ahead of (relative location in space)",
+        "ko": "~앞에",
+        "examples": [
+          {
+            "text": "Das Auto steht vor dem Haus.",
+            "ko": "차가 집 앞에 서 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "before, prior to, ahead of (relative location in time)",
+        "ko": "~전에",
+        "examples": [
+          {
+            "text": "Vor dem Essen wasche ich die Hände.",
+            "ko": "식사 전에 나는 손을 씻는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "ago (location in the past relative to the present)",
+        "ko": "~ 전에 (과거)",
+        "examples": [
+          {
+            "text": "Ich bin vor einer Woche angekommen.",
+            "ko": "나는 일주일 전에 도착했어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vorname",
+    "level": "a1",
+    "zipf": 3.75,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Vornamen",
+      "genitive": "Vornamens"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|sep",
+      "Name|stem"
+    ],
+    "senses": [
+      {
+        "en": "given name (name chosen for a child by its parents)",
+        "ko": "이름 (성 제외)",
+        "examples": [
+          {
+            "text": "Mein Vorname ist Anna.",
+            "ko": "내 이름은 안나야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vorsicht",
+    "level": "a1",
+    "zipf": 4.39,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "genitive": "Vorsicht"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|sep",
+      "Sicht|stem"
+    ],
+    "senses": [
+      {
+        "en": "caution, cautiousness",
+        "ko": "조심, 주의",
+        "examples": [
+          {
+            "text": "Vorsicht, der Boden ist nass!",
+            "ko": "조심해, 바닥이 젖었어!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "vorstellen",
+    "level": "a1",
+    "zipf": 4.88,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "stellt vor",
+      "past": "stellte vor",
+      "pp": "vorgestellt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "vor"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|sep",
+      "stellen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to introduce (someone), to present",
+        "ko": "소개하다",
+        "examples": [
+          {
+            "text": "Ich stelle dir meinen Freund vor.",
+            "ko": "내 남자친구를 너에게 소개할게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to introduce oneself",
+        "ko": "자기소개를 하다",
+        "examples": [
+          {
+            "text": "Darf ich mich vorstellen?",
+            "ko": "제 소개를 해도 될까요?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to imagine, to envision",
+        "ko": "상상하다",
+        "examples": [
+          {
+            "text": "Ich kann mir das nicht vorstellen.",
+            "ko": "나는 그걸 상상할 수 없어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Vorwahl",
+    "level": "a1",
+    "zipf": 3.12,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Vorwahlen",
+      "genitive": "Vorwahl"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "vor|sep",
+      "Wahl|stem"
+    ],
+    "senses": [
+      {
+        "en": "area code, prefix",
+        "ko": "지역 번호",
+        "examples": [
+          {
+            "text": "Die Vorwahl von Berlin ist 030.",
+            "ko": "베를린의 지역 번호는 030이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

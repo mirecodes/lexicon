@@ -1,0 +1,994 @@
+[
+  {
+    "word": "ideal",
+    "level": "b1",
+    "zipf": 4.21,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ideal (optimal, perfect)",
+        "ko": "이상적인, 완벽한",
+        "examples": [
+          {
+            "text": "Das Wetter ist ideal zum Wandern.",
+            "ko": "날씨가 하이킹하기에 이상적이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "illegal",
+    "level": "b1",
+    "zipf": 4.13,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "illegal",
+        "ko": "불법의",
+        "examples": [
+          {
+            "text": "Parken ist hier illegal.",
+            "ko": "여기서 주차는 불법이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "im Freien",
+    "level": "b1",
+    "zipf": 4.88,
+    "pos": "prep_phrase",
+    "grammar": {
+      "type": "prep_phrase"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "outdoors, outside",
+        "ko": "야외에서, 밖에서",
+        "examples": [
+          {
+            "text": "Im Sommer essen wir gern im Freien.",
+            "ko": "여름에 우리는 야외에서 먹는 걸 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Imbiss",
+    "level": "b1",
+    "zipf": 3.52,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Imbisse",
+      "genitive": "Imbisses"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "snack",
+        "ko": "간식, 가벼운 식사",
+        "examples": [
+          {
+            "text": "Ich esse zwischendurch einen Imbiss.",
+            "ko": "나는 중간에 가볍게 간식을 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "snack bar, fast-food restaurant",
+        "ko": "간이식당, 스낵바",
+        "examples": [
+          {
+            "text": "Am Bahnhof gibt es einen Imbiss.",
+            "ko": "역에 스낵바가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Import",
+    "level": "b1",
+    "zipf": 3.7,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Importe",
+      "genitive": "Importes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "import (act of importing)",
+        "ko": "수입",
+        "examples": [
+          {
+            "text": "Der Import von Kaffee wird teurer.",
+            "ko": "커피 수입이 더 비싸진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "import (that which is imported)",
+        "ko": "수입품",
+        "examples": [
+          {
+            "text": "Dieses Produkt ist ein Import aus Italien.",
+            "ko": "이 제품은 이탈리아에서 들여온 수입품이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "in Rente gehen",
+    "level": "b1",
+    "zipf": 4.36,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": false,
+      "present3": "geht in Rente",
+      "past": "ging in Rente",
+      "pp": "in Rente gegangen",
+      "aux": "sein"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to retire, to go into retirement",
+        "ko": "은퇴하다, 연금 생활에 들어가다",
+        "examples": [
+          {
+            "text": "Mein Vater geht nächstes Jahr in Rente.",
+            "ko": "아버지는 내년에 은퇴하신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "indem",
+    "level": "b1",
+    "zipf": 4.97,
+    "pos": "conj",
+    "grammar": {
+      "type": "conj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "by (indicates a means)",
+        "ko": "~함으로써, ~하면서",
+        "examples": [
+          {
+            "text": "Er lernt Deutsch, indem er viel liest.",
+            "ko": "그는 많이 읽음으로써 독일어를 배운다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "individuell",
+    "level": "b1",
+    "zipf": 4.05,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "individueller",
+      "superlative": "am individuellsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "individual",
+        "ko": "개인의, 개별적인",
+        "examples": [
+          {
+            "text": "Jeder Mensch hat einen individuellen Stil.",
+            "ko": "사람마다 자기만의 개성 있는 스타일이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "personalized",
+        "ko": "맞춤형의",
+        "examples": [
+          {
+            "text": "Wir bieten individuelle Beratung an.",
+            "ko": "저희는 맞춤 상담을 제공합니다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Industrie",
+    "level": "b1",
+    "zipf": 4.73,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Industrien",
+      "genitive": "Industrie"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "industry",
+        "ko": "산업",
+        "examples": [
+          {
+            "text": "Die Industrie schafft viele Arbeitsplätze.",
+            "ko": "산업은 많은 일자리를 만든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Infektion",
+    "level": "b1",
+    "zipf": 3.96,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Infektionen",
+      "genitive": "Infektion"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "infection",
+        "ko": "감염",
+        "examples": [
+          {
+            "text": "Eine Infektion ist gefährlich.",
+            "ko": "감염은 위험하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ingenieur",
+    "level": "b1",
+    "zipf": 4.07,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Ingenieure",
+      "genitive": "Ingenieurs"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "engineer",
+        "ko": "엔지니어, 기술자",
+        "examples": [
+          {
+            "text": "Mein Onkel ist Ingenieur.",
+            "ko": "우리 삼촌은 엔지니어이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Inhalt",
+    "level": "b1",
+    "zipf": 4.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Inhalte",
+      "genitive": "Inhaltes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "in|stem",
+      "halten|stem"
+    ],
+    "senses": [
+      {
+        "en": "content",
+        "ko": "내용, 내용물",
+        "examples": [
+          {
+            "text": "Der Inhalt des Buches ist spannend.",
+            "ko": "그 책의 내용은 흥미진진하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "inklusive",
+    "level": "b1",
+    "zipf": 4.44,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "also including the last-mentioned term",
+        "ko": "포함하여",
+        "examples": [
+          {
+            "text": "Der Preis ist inklusive Frühstück.",
+            "ko": "가격에는 아침 식사가 포함되어 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "innen",
+    "level": "b1",
+    "zipf": 4.73,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "inside",
+        "ko": "안에, 안쪽에",
+        "examples": [
+          {
+            "text": "Es ist innen viel kälter.",
+            "ko": "안쪽이 훨씬 춥다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "within",
+        "ko": "내부에",
+        "examples": [
+          {
+            "text": "Die Tür geht nach innen auf.",
+            "ko": "문은 안쪽으로 열린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "inner",
+    "level": "b1",
+    "zipf": 3.5,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "inner",
+        "ko": "안쪽의, 내부의",
+        "examples": [
+          {
+            "text": "Das Zimmer hat einen inneren Hof.",
+            "ko": "그 방에는 안쪽 마당이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "innerhalb",
+    "level": "b1",
+    "zipf": 5.16,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "within, inside (spatial)",
+        "ko": "~안에서",
+        "examples": [
+          {
+            "text": "Innerhalb der Stadt gibt es viele Parks.",
+            "ko": "도시 안에는 공원이 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "within, in the space of (temporal)",
+        "ko": "~이내에",
+        "examples": [
+          {
+            "text": "Ich antworte innerhalb von zwei Tagen.",
+            "ko": "이틀 이내에 답할게요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Inserat",
+    "level": "b1",
+    "zipf": 3.06,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Inserate",
+      "genitive": "Inserates"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "advertisement",
+        "ko": "광고, 공고",
+        "examples": [
+          {
+            "text": "Ich lese ein Inserat in der Zeitung.",
+            "ko": "나는 신문에서 광고를 읽는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "insgesamt",
+    "level": "b1",
+    "zipf": 5.16,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "overall, altogether, in total, all in all, by and large, on the whole",
+        "ko": "전부, 모두 합해서",
+        "examples": [
+          {
+            "text": "Das kostet insgesamt fünfzig Euro.",
+            "ko": "그건 전부 해서 50유로이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "installieren",
+    "level": "b1",
+    "zipf": 3.93,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "installiert",
+      "past": "installierte",
+      "pp": "installiert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to install (set up something for use)",
+        "ko": "설치하다",
+        "examples": [
+          {
+            "text": "Ich installiere ein neues Programm.",
+            "ko": "나는 새 프로그램을 설치한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Institut",
+    "level": "b1",
+    "zipf": 4.65,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Institute",
+      "genitive": "Institutes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "institute (independent research institution)",
+        "ko": "연구소",
+        "examples": [
+          {
+            "text": "Sie arbeitet an einem Institut für Medizin.",
+            "ko": "그녀는 의학 연구소에서 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "department (subdivision of a faculty)",
+        "ko": "(대학의) 학과, 연구실",
+        "examples": [
+          {
+            "text": "Das Institut gehört zur Universität.",
+            "ko": "그 연구소는 대학에 속한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Integration",
+    "level": "b1",
+    "zipf": 4.54,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Integrationen",
+      "genitive": "Integration"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "integration",
+        "ko": "통합, 융화",
+        "examples": [
+          {
+            "text": "Die Integration von Migranten ist wichtig.",
+            "ko": "이민자의 사회 통합은 중요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "integrieren",
+    "level": "b1",
+    "zipf": 4.02,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "integriert",
+      "past": "integrierte",
+      "pp": "integriert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to integrate",
+        "ko": "통합하다, 융화시키다",
+        "examples": [
+          {
+            "text": "Die Schule integriert neue Schüler schnell.",
+            "ko": "학교는 새 학생들을 빨리 적응시킨다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Intelligenz",
+    "level": "b1",
+    "zipf": 4.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Intelligenzen",
+      "genitive": "Intelligenz"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "intelligence (capacity of mind)",
+        "ko": "지능, 지성",
+        "examples": [
+          {
+            "text": "Sie hat eine hohe Intelligenz.",
+            "ko": "그녀는 지능이 높다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "intensiv",
+    "level": "b1",
+    "zipf": 4.32,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "intensiver",
+      "superlative": "am intensivsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "intense",
+        "ko": "강렬한, 집중적인",
+        "examples": [
+          {
+            "text": "Die Sonne ist heute sehr intensiv.",
+            "ko": "오늘 햇볕이 아주 강렬하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "intensive",
+        "ko": "집중적인",
+        "examples": [
+          {
+            "text": "Wir lernen intensiv für die Prüfung.",
+            "ko": "우리는 시험을 위해 집중적으로 공부한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Intensivkurs",
+    "level": "b1",
+    "zipf": 2.3,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Intensivkurse"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "intensiv|stem",
+      "Kurs|stem"
+    ],
+    "senses": [
+      {
+        "en": "intensive course",
+        "ko": "집중 강좌",
+        "examples": [
+          {
+            "text": "Ich mache einen Intensivkurs in Deutsch.",
+            "ko": "나는 독일어 집중 강좌를 듣는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "interessiert",
+    "level": "b1",
+    "zipf": 4.87,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "interessierter",
+      "superlative": "am interessiertesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "interested",
+        "ko": "관심 있는",
+        "examples": [
+          {
+            "text": "Ich bin an Musik interessiert.",
+            "ko": "나는 음악에 관심이 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "interkulturell",
+    "level": "b1",
+    "zipf": 2.39,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "inter|stem",
+      "kulturell|stem"
+    ],
+    "senses": [
+      {
+        "en": "intercultural",
+        "ko": "문화 간의, 다문화의",
+        "examples": [
+          {
+            "text": "Wir besuchen ein interkulturelles Fest.",
+            "ko": "우리는 다문화 축제에 간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "inzwischen",
+    "level": "b1",
+    "zipf": 4.95,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "in the meantime (at the same time as another process, typically in another location)",
+        "ko": "그동안에",
+        "examples": [
+          {
+            "text": "Ich koche, inzwischen deckst du den Tisch.",
+            "ko": "내가 요리하는 동안 너는 상을 차려 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "since then, now (contrasting between the current state and a known past state)",
+        "ko": "그 사이에, 이제는",
+        "examples": [
+          {
+            "text": "Er spricht inzwischen gut Deutsch.",
+            "ko": "그는 이제 독일어를 잘한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "irgend",
+    "level": "b1",
+    "zipf": 4.3,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "any, some",
+        "ko": "어떤, 아무",
+        "examples": [
+          {
+            "text": "Hast du irgendeine Idee?",
+            "ko": "무슨 생각 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "irgendwann",
+    "level": "b1",
+    "zipf": 4.89,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "irgend|stem",
+      "wann|stem"
+    ],
+    "senses": [
+      {
+        "en": "sometime, somewhen, anytime",
+        "ko": "언젠가, 아무 때나",
+        "examples": [
+          {
+            "text": "Komm doch irgendwann vorbei.",
+            "ko": "언제 한번 들러.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "at some point, someday",
+        "ko": "언젠가는",
+        "examples": [
+          {
+            "text": "Irgendwann möchte ich nach Japan reisen.",
+            "ko": "언젠가는 일본에 여행 가고 싶다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "irren",
+    "level": "b1",
+    "zipf": 3.96,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": null,
+      "reflexive": true,
+      "present3": "irrt",
+      "past": "irrte",
+      "pp": "geirrt",
+      "aux": "haben"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "to be mistaken, to be wrong",
+        "ko": "착각하다, 틀리다",
+        "examples": [
+          {
+            "text": "Du irrst dich, das ist nicht richtig.",
+            "ko": "네가 착각한 거야, 그건 맞지 않아.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

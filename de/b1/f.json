@@ -1,0 +1,3249 @@
+[
+  {
+    "word": "Fabrik",
+    "level": "b1",
+    "zipf": 4.18,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fabriken",
+      "genitive": "Fabrik"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "plant (factory or industrial facility)",
+        "ko": "공장",
+        "examples": [
+          {
+            "text": "Mein Vater arbeitet in einer Fabrik.",
+            "ko": "우리 아버지는 공장에서 일하신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fachfrau",
+    "level": "b1",
+    "zipf": 2.65,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fachfrauen",
+      "genitive": "Fachfrau"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Fach|stem",
+      "Frau|stem"
+    ],
+    "senses": [
+      {
+        "en": "expert, specialist, professional (female)",
+        "ko": "여성 전문가",
+        "examples": [
+          {
+            "text": "Sie ist eine Fachfrau für Steuern.",
+            "ko": "그녀는 세금 전문가이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fachleute",
+    "level": "b1",
+    "zipf": 3.75,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fachleute"
+    },
+    "grammar_source": "generated",
+    "parts": [
+      "Fach|stem",
+      "Leute|stem"
+    ],
+    "senses": [
+      {
+        "en": "experts, specialists (plural of Fachmann)",
+        "ko": "전문가들",
+        "examples": [
+          {
+            "text": "Fachleute prüfen das Gebäude.",
+            "ko": "전문가들이 건물을 점검해.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fachmann",
+    "level": "b1",
+    "zipf": 3.68,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Fachmänner",
+      "genitive": "Fachmannes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Fach|stem",
+      "Mann|stem"
+    ],
+    "senses": [
+      {
+        "en": "expert, specialist, professional",
+        "ko": "전문가",
+        "examples": [
+          {
+            "text": "Ein Fachmann soll die Heizung reparieren.",
+            "ko": "전문가가 난방을 수리해야 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fahrbahn",
+    "level": "b1",
+    "zipf": 3.84,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fahrbahnen",
+      "genitive": "Fahrbahn"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fahren|stem",
+      "Bahn|stem"
+    ],
+    "senses": [
+      {
+        "en": "roadway, carriageway",
+        "ko": "차도",
+        "examples": [
+          {
+            "text": "Kinder dürfen nicht auf der Fahrbahn spielen.",
+            "ko": "아이들은 차도에서 놀면 안 된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "lane (of traffic in a road)",
+        "ko": "차선",
+        "examples": [
+          {
+            "text": "Die rechte Fahrbahn ist gesperrt.",
+            "ko": "오른쪽 차선이 막혀 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fahrzeug",
+    "level": "b1",
+    "zipf": 4.52,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Fahrzeuge",
+      "genitive": "Fahrzeuges"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fahren|stem",
+      "Zeug|stem"
+    ],
+    "senses": [
+      {
+        "en": "vehicle",
+        "ko": "탈것, 차량",
+        "examples": [
+          {
+            "text": "Das Fahrzeug steht vor dem Haus.",
+            "ko": "차량이 집 앞에 서 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fair",
+    "level": "b1",
+    "zipf": 4.39,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "fairer",
+      "superlative": "am fairsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fair (just, honest, equitable, adequate)",
+        "ko": "공정한",
+        "examples": [
+          {
+            "text": "Das ist kein fairer Preis.",
+            "ko": "그것은 공정한 가격이 아니다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Faktor",
+    "level": "b1",
+    "zipf": 4.25,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Faktoren",
+      "genitive": "Faktors"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "factor (integral part)",
+        "ko": "요인",
+        "examples": [
+          {
+            "text": "Zeit ist ein wichtiger Faktor.",
+            "ko": "시간은 중요한 요인이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fall",
+    "level": "b1",
+    "zipf": 5.54,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Fälle",
+      "genitive": "Falles"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "case (actual event, situation, or fact)",
+        "ko": "경우, 사례",
+        "examples": [
+          {
+            "text": "In diesem Fall bleibe ich zu Hause.",
+            "ko": "이 경우에는 나는 집에 있겠다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "fall, drop (the act of falling or an instance thereof)",
+        "ko": "떨어짐, 추락",
+        "examples": [
+          {
+            "text": "Beim Fall hat er sich den Arm gebrochen.",
+            "ko": "넘어지면서 그는 팔이 부러졌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "case (kind of inflection of a nominal)",
+        "ko": "격(문법)",
+        "examples": [
+          {
+            "text": "Der Dativ ist ein Fall im Deutschen.",
+            "ko": "3격은 독일어의 격 중 하나다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "falls",
+    "level": "b1",
+    "zipf": 5.09,
+    "pos": "conj",
+    "grammar": {
+      "type": "conj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "if, in the event that",
+        "ko": "만약 ~라면",
+        "examples": [
+          {
+            "text": "Ruf mich an, falls du Hilfe brauchst.",
+            "ko": "도움이 필요하면 나에게 전화해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "in case, in order to be prepared if",
+        "ko": "~할 경우에 대비해",
+        "examples": [
+          {
+            "text": "Nimm einen Schirm mit, falls es regnet.",
+            "ko": "비가 올 경우를 대비해 우산을 가져가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fangen",
+    "level": "b1",
+    "zipf": 4.26,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "fängt",
+      "past": "fing",
+      "pp": "gefangen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to catch (grab something flying in the air)",
+        "ko": "받다, 잡다",
+        "examples": [
+          {
+            "text": "Er fängt den Ball mit einer Hand.",
+            "ko": "그는 공을 한 손으로 잡는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to catch; to capture (to take hold of a person or an animal)",
+        "ko": "붙잡다, 포획하다",
+        "examples": [
+          {
+            "text": "Die Katze fängt eine Maus.",
+            "ko": "고양이가 쥐를 잡는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fantasie",
+    "level": "b1",
+    "zipf": 4.06,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fantasien",
+      "genitive": "Fantasie"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "imagination",
+        "ko": "상상력",
+        "examples": [
+          {
+            "text": "Kinder haben viel Fantasie.",
+            "ko": "아이들은 상상력이 풍부하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "fantasy",
+        "ko": "환상, 공상",
+        "examples": [
+          {
+            "text": "Das ist nur Fantasie.",
+            "ko": "그건 그냥 공상이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fasching",
+    "level": "b1",
+    "zipf": 3.47,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Faschings",
+      "genitive": "Faschings"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "The week before Mardi Gras, carnival.",
+        "ko": "사육제, 카니발",
+        "examples": [
+          {
+            "text": "Im Fasching tragen viele Leute Kostüme.",
+            "ko": "사육제 기간에는 많은 사람이 분장을 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fassen",
+    "level": "b1",
+    "zipf": 4.42,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "fasst",
+      "past": "fasste",
+      "pp": "gefasst",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to grasp, to catch",
+        "ko": "붙잡다, 쥐다",
+        "examples": [
+          {
+            "text": "Fass mich bitte an der Hand.",
+            "ko": "내 손을 잡아 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to seize, to capture",
+        "ko": "체포하다, 붙잡다",
+        "examples": [
+          {
+            "text": "Die Polizei fasst den Dieb.",
+            "ko": "경찰이 도둑을 붙잡는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to compose oneself (to calm, to free from agitation)",
+        "ko": "진정하다",
+        "examples": [
+          {
+            "text": "Sie fasst sich nach dem Schreck schnell.",
+            "ko": "그녀는 놀란 뒤 금세 진정한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "faulenzen",
+    "level": "b1",
+    "zipf": 2.75,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "faulenzt",
+      "past": "faulenzte",
+      "pp": "gefaulenzt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to laze",
+        "ko": "빈둥거리다",
+        "examples": [
+          {
+            "text": "Am Sonntag faulenze ich gern.",
+            "ko": "나는 일요일에 빈둥거리는 것을 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Feierabend",
+    "level": "b1",
+    "zipf": 3.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Feierabende",
+      "genitive": "Feierabends"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Feier|stem",
+      "Abend|stem"
+    ],
+    "senses": [
+      {
+        "en": "Quitting time, hometime; the workday's end and the evening following it, used for relaxation or leisure.",
+        "ko": "퇴근 시간, 일과 후의 휴식",
+        "examples": [
+          {
+            "text": "Um fünf Uhr habe ich Feierabend.",
+            "ko": "나는 다섯 시에 퇴근한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Feiertag",
+    "level": "b1",
+    "zipf": 3.87,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Feiertage",
+      "genitive": "Feiertages"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Feier|stem",
+      "Tag|stem"
+    ],
+    "senses": [
+      {
+        "en": "holiday (a day on which a festival, etc., is traditionally observed)",
+        "ko": "공휴일, 기념일",
+        "examples": [
+          {
+            "text": "Am Feiertag sind alle Geschäfte zu.",
+            "ko": "공휴일에는 모든 가게가 문을 닫는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Feld",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Felder",
+      "genitive": "Feldes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "field (plot of open land, especially one used to grow crops)",
+        "ko": "밭, 들판",
+        "examples": [
+          {
+            "text": "Der Bauer arbeitet auf dem Feld.",
+            "ko": "농부가 밭에서 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "field, a domain of work, knowledge, study",
+        "ko": "분야",
+        "examples": [
+          {
+            "text": "Sie ist auf diesem Feld Expertin.",
+            "ko": "그녀는 이 분야의 전문가이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "square",
+        "ko": "칸",
+        "examples": [
+          {
+            "text": "Die Figur steht auf einem schwarzen Feld.",
+            "ko": "말은 검은 칸에 서 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fernbedienung",
+    "level": "b1",
+    "zipf": 3.55,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fernbedienungen",
+      "genitive": "Fernbedienung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fern|stem",
+      "Bedienung|stem"
+    ],
+    "senses": [
+      {
+        "en": "remote control (device used to operate an appliance, such as a TV)",
+        "ko": "리모컨",
+        "examples": [
+          {
+            "text": "Wo ist die Fernbedienung?",
+            "ko": "리모컨이 어디 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "festhalten",
+    "level": "b1",
+    "zipf": 4.14,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "hält fest",
+      "past": "hielt fest",
+      "pp": "festgehalten",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "fest"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fest|sep",
+      "halten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to hold on (to) (to keep another object or person in place)",
+        "ko": "꼭 잡다",
+        "examples": [
+          {
+            "text": "Halt das Seil gut fest.",
+            "ko": "밧줄을 꼭 잡아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to record, to capture (an event, e.g. through photo, video, or a chronicle)",
+        "ko": "기록하다, 담아 두다",
+        "examples": [
+          {
+            "text": "Ich halte die Reise mit Fotos fest.",
+            "ko": "나는 여행을 사진으로 남긴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to detain, to hold in custody (by force)",
+        "ko": "붙잡아 두다, 구금하다",
+        "examples": [
+          {
+            "text": "Die Polizei hält den Mann fest.",
+            "ko": "경찰이 그 남자를 구금한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "festlegen",
+    "level": "b1",
+    "zipf": 3.83,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "legt fest",
+      "past": "legte fest",
+      "pp": "festgelegt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "fest"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fest|sep",
+      "legen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to set, to determine",
+        "ko": "정하다, 확정하다",
+        "examples": [
+          {
+            "text": "Wir legen den Termin fest.",
+            "ko": "우리는 일정을 확정한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to commit oneself to… (sich auf … festlegen )",
+        "ko": "~에 못 박다, 입장을 정하다",
+        "examples": [
+          {
+            "text": "Er legt sich nicht gern auf eine Antwort fest.",
+            "ko": "그는 하나의 대답으로 못 박기를 싫어한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "festnehmen",
+    "level": "b1",
+    "zipf": 3.42,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "nimmt fest",
+      "past": "nahm fest",
+      "pp": "festgenommen",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "fest"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fest|sep",
+      "nehmen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to arrest (take into legal custody)",
+        "ko": "체포하다",
+        "examples": [
+          {
+            "text": "Die Polizei nimmt den Dieb fest.",
+            "ko": "경찰이 도둑을 체포한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Festplatte",
+    "level": "b1",
+    "zipf": 3.79,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Festplatten",
+      "genitive": "Festplatte"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fest|stem",
+      "Platte|stem"
+    ],
+    "senses": [
+      {
+        "en": "hard disk, harddisk",
+        "ko": "하드디스크",
+        "examples": [
+          {
+            "text": "Meine Festplatte ist voll.",
+            "ko": "내 하드디스크가 꽉 찼다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "festsetzen",
+    "level": "b1",
+    "zipf": 3.13,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "setzt fest",
+      "past": "setzte fest",
+      "pp": "festgesetzt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "fest"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fest|sep",
+      "setzen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to set (to determine)",
+        "ko": "정하다",
+        "examples": [
+          {
+            "text": "Wir setzen den Preis fest.",
+            "ko": "우리는 가격을 정한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to schedule",
+        "ko": "일정을 잡다",
+        "examples": [
+          {
+            "text": "Der Chef setzt die Sitzung für Montag fest.",
+            "ko": "사장님은 회의를 월요일로 잡는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to arrest, to put in prison",
+        "ko": "체포하다",
+        "examples": [
+          {
+            "text": "Man setzt den Verdächtigen fest.",
+            "ko": "용의자를 체포한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "feststehen",
+    "level": "b1",
+    "zipf": 2.86,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "irregular",
+      "reflexive": false,
+      "present3": "steht fest",
+      "past": "stand fest",
+      "pp": "festgestanden",
+      "aux": "haben/sein",
+      "separable": true,
+      "prefix": "fest"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fest|sep",
+      "stehen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to stand firm",
+        "ko": "확정되어 있다, 확고하다",
+        "examples": [
+          {
+            "text": "Der Termin steht noch nicht fest.",
+            "ko": "일정이 아직 확정되지 않았다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "feststellen",
+    "level": "b1",
+    "zipf": 4.33,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "stellt fest",
+      "past": "stellte fest",
+      "pp": "festgestellt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "fest"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fest|sep",
+      "stellen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to notice, to realize, to observe",
+        "ko": "알아차리다",
+        "examples": [
+          {
+            "text": "Ich stelle fest, dass mein Handy fehlt.",
+            "ko": "내 휴대폰이 없다는 것을 알아차린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to determine, to ascertain, to establish, to find, to see",
+        "ko": "확인하다, 밝혀내다",
+        "examples": [
+          {
+            "text": "Der Arzt stellt eine Grippe fest.",
+            "ko": "의사가 독감이라고 진단한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to declare, to state",
+        "ko": "단언하다",
+        "examples": [
+          {
+            "text": "Ich möchte feststellen, dass das nicht stimmt.",
+            "ko": "그것이 사실이 아니라고 분명히 말하고 싶다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fett",
+    "level": "b1",
+    "zipf": 4.43,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Fette",
+      "genitive": "Fettes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fat, grease",
+        "ko": "지방, 기름기",
+        "examples": [
+          {
+            "text": "Dieses Essen hat viel Fett.",
+            "ko": "이 음식은 기름기가 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "feucht",
+    "level": "b1",
+    "zipf": 3.97,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "feuchter",
+      "superlative": "am feuchtesten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "wet, humid, moist, soggy, dank",
+        "ko": "축축한, 습한",
+        "examples": [
+          {
+            "text": "Die Wäsche ist noch feucht.",
+            "ko": "빨래가 아직 축축하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Feuerwehr",
+    "level": "b1",
+    "zipf": 4.49,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Feuerwehren",
+      "genitive": "Feuerwehr"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Feuer|stem",
+      "Wehr|stem"
+    ],
+    "senses": [
+      {
+        "en": "fire department",
+        "ko": "소방서",
+        "examples": [
+          {
+            "text": "Ruf die Feuerwehr!",
+            "ko": "소방서에 전화해!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "fire brigade",
+        "ko": "소방대",
+        "examples": [
+          {
+            "text": "Die Feuerwehr löscht den Brand.",
+            "ko": "소방대가 불을 끈다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Feuerzeug",
+    "level": "b1",
+    "zipf": 3.31,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Feuerzeuge",
+      "genitive": "Feuerzeuges"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Feuer|stem",
+      "Zeug|stem"
+    ],
+    "senses": [
+      {
+        "en": "lighter",
+        "ko": "라이터",
+        "examples": [
+          {
+            "text": "Hast du ein Feuerzeug?",
+            "ko": "라이터 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Figur",
+    "level": "b1",
+    "zipf": 4.54,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Figuren",
+      "genitive": "Figur"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "figure (the shape of human body)",
+        "ko": "몸매",
+        "examples": [
+          {
+            "text": "Sie hat eine schöne Figur.",
+            "ko": "그녀는 몸매가 좋다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "character (being in a story)",
+        "ko": "등장인물",
+        "examples": [
+          {
+            "text": "Die Hauptfigur im Buch ist ein Junge.",
+            "ko": "책의 주인공은 한 소년이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "piece (one of the small objects played in board games)",
+        "ko": "말(보드게임)",
+        "examples": [
+          {
+            "text": "Ich bewege die Figur auf das nächste Feld.",
+            "ko": "나는 말을 다음 칸으로 옮긴다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "finanziell",
+    "level": "b1",
+    "zipf": 4.22,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Finanz|stem",
+      "-ell|suffix"
+    ],
+    "senses": [
+      {
+        "en": "financial",
+        "ko": "재정적인, 금전적인",
+        "examples": [
+          {
+            "text": "Wir haben finanzielle Probleme.",
+            "ko": "우리는 재정적인 문제가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "finanzieren",
+    "level": "b1",
+    "zipf": 4.1,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "finanziert",
+      "past": "finanzierte",
+      "pp": "finanziert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Finanz|stem",
+      "-ieren|suffix"
+    ],
+    "senses": [
+      {
+        "en": "to pay for, to finance, to fund",
+        "ko": "자금을 대다, 조달하다",
+        "examples": [
+          {
+            "text": "Die Eltern finanzieren das Studium.",
+            "ko": "부모님이 학비를 대 주신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Finger",
+    "level": "b1",
+    "zipf": 4.66,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Finger",
+      "genitive": "Fingers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "finger",
+        "ko": "손가락",
+        "examples": [
+          {
+            "text": "Ich habe mir den Finger verletzt.",
+            "ko": "나는 손가락을 다쳤다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "flach",
+    "level": "b1",
+    "zipf": 4.1,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "flacher",
+      "superlative": "am flachsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "flat (wide and not high)",
+        "ko": "평평한",
+        "examples": [
+          {
+            "text": "Das Land ist hier sehr flach.",
+            "ko": "이곳 땅은 아주 평평하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "shallow (wide and not deep)",
+        "ko": "얕은",
+        "examples": [
+          {
+            "text": "Der See ist ganz flach.",
+            "ko": "호수가 아주 얕다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fleck",
+    "level": "b1",
+    "zipf": 3.94,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Flecke",
+      "genitive": "Flecks"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "stain, spot, blot, fleck, smear",
+        "ko": "얼룩, 반점",
+        "examples": [
+          {
+            "text": "Auf meinem Hemd ist ein Fleck.",
+            "ko": "내 셔츠에 얼룩이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "corner, spot (part or region)",
+        "ko": "곳, 자리",
+        "examples": [
+          {
+            "text": "Das ist mein Lieblingsfleck im Garten.",
+            "ko": "여기는 정원에서 내가 제일 좋아하는 자리이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "flexibel",
+    "level": "b1",
+    "zipf": 3.78,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "flexibler",
+      "superlative": "am flexibelsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "flexible (easily bent without breaking)",
+        "ko": "유연한, 융통성 있는",
+        "examples": [
+          {
+            "text": "Meine Arbeitszeiten sind flexibel.",
+            "ko": "내 근무 시간은 유연하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fliehen",
+    "level": "b1",
+    "zipf": 4.08,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "flieht",
+      "past": "floh",
+      "pp": "geflohen",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to flee; to escape",
+        "ko": "도망치다",
+        "examples": [
+          {
+            "text": "Die Menschen fliehen vor dem Feuer.",
+            "ko": "사람들이 불을 피해 도망친다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fließen",
+    "level": "b1",
+    "zipf": 4.04,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "fließt",
+      "past": "floss",
+      "pp": "geflossen",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to flow",
+        "ko": "흐르다",
+        "examples": [
+          {
+            "text": "Der Rhein fließt durch Köln.",
+            "ko": "라인강은 쾰른을 지나 흐른다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fließend",
+    "level": "b1",
+    "zipf": 3.63,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "fließender",
+      "superlative": "am fließendsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fluent (in language proficiency, etc.)",
+        "ko": "유창한",
+        "examples": [
+          {
+            "text": "Sie spricht fließend Deutsch.",
+            "ko": "그녀는 독일어를 유창하게 해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "flowing, running (of water)",
+        "ko": "흐르는",
+        "examples": [
+          {
+            "text": "Das Zimmer hat fließendes Wasser.",
+            "ko": "그 방에는 수도(흐르는 물)가 나와.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Flucht",
+    "level": "b1",
+    "zipf": 4.54,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fluchten",
+      "genitive": "Flucht"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "escape, flight (act of fleeing)",
+        "ko": "도피, 탈출",
+        "examples": [
+          {
+            "text": "Die Flucht aus dem Land war gefährlich.",
+            "ko": "그 나라에서의 탈출은 위험했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Flur",
+    "level": "b1",
+    "zipf": 4.04,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Flure",
+      "genitive": "Flures"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hall, hallway, corridor, stairwell",
+        "ko": "복도, 현관",
+        "examples": [
+          {
+            "text": "Bitte stell die Schuhe im Flur ab.",
+            "ko": "신발은 복도에 놓아 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fläche",
+    "level": "b1",
+    "zipf": 4.56,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Flächen",
+      "genitive": "Fläche"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "flach|stem"
+    ],
+    "senses": [
+      {
+        "en": "surface",
+        "ko": "표면, 면",
+        "examples": [
+          {
+            "text": "Die Fläche des Tisches ist glatt.",
+            "ko": "탁자 표면은 매끄럽다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "flat, plain",
+        "ko": "평지, 넓은 땅",
+        "examples": [
+          {
+            "text": "Hier gibt es eine große Fläche für Spiele.",
+            "ko": "여기에는 놀이를 할 수 있는 넓은 땅이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Flöte",
+    "level": "b1",
+    "zipf": 3.54,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Flöten",
+      "genitive": "Flöte"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "flute",
+        "ko": "플루트, 피리",
+        "examples": [
+          {
+            "text": "Meine Schwester spielt Flöte.",
+            "ko": "내 여동생은 플루트를 분다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Flüssigkeit",
+    "level": "b1",
+    "zipf": 3.96,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Flüssigkeiten",
+      "genitive": "Flüssigkeit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "flüssig|stem",
+      "-keit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "liquid",
+        "ko": "액체",
+        "examples": [
+          {
+            "text": "Man soll viel Flüssigkeit trinken.",
+            "ko": "수분을 많이 마셔야 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Folge",
+    "level": "b1",
+    "zipf": 5.24,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Folgen",
+      "genitive": "Folge"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "consequence",
+        "ko": "결과",
+        "examples": [
+          {
+            "text": "Das hat schlimme Folgen.",
+            "ko": "그것은 나쁜 결과를 낳는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "episode",
+        "ko": "(드라마의) 회",
+        "examples": [
+          {
+            "text": "Die neue Folge läuft heute Abend.",
+            "ko": "새 에피소드가 오늘 저녁에 나온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "sequence",
+        "ko": "연속, 순서",
+        "examples": [
+          {
+            "text": "Die Zahlen stehen in einer festen Folge.",
+            "ko": "숫자들이 정해진 순서로 놓여 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "folgen",
+    "level": "b1",
+    "zipf": 5.18,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "folgt",
+      "past": "folgte",
+      "pp": "gefolgt",
+      "aux": "sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to follow (on the same path or in a sequence)",
+        "ko": "뒤따르다",
+        "examples": [
+          {
+            "text": "Der Hund folgt seinem Besitzer.",
+            "ko": "개가 주인을 따라간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to obey, to follow, to accede, to comply with",
+        "ko": "따르다, 복종하다",
+        "examples": [
+          {
+            "text": "Die Kinder folgen den Eltern.",
+            "ko": "아이들이 부모님 말을 따른다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to understand, to be attentive to",
+        "ko": "이해하며 따라가다",
+        "examples": [
+          {
+            "text": "Ich kann dem Vortrag nicht folgen.",
+            "ko": "나는 강연을 따라갈 수 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "folgenden",
+    "level": "b1",
+    "zipf": 4.98,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "folgen|stem",
+      "-end|suffix"
+    ],
+    "senses": [
+      {
+        "en": "following",
+        "ko": "다음의, 아래의",
+        "examples": [
+          {
+            "text": "Bitte beachten Sie die folgenden Regeln.",
+            "ko": "다음 규칙을 지켜 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fordern",
+    "level": "b1",
+    "zipf": 4.56,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "fordert",
+      "past": "forderte",
+      "pp": "gefordert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to demand, ask",
+        "ko": "요구하다",
+        "examples": [
+          {
+            "text": "Die Arbeiter fordern mehr Geld.",
+            "ko": "노동자들이 더 많은 돈을 요구한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to challenge",
+        "ko": "도전하게 하다, 힘들게 하다",
+        "examples": [
+          {
+            "text": "Die Aufgabe fordert mich.",
+            "ko": "그 과제는 나를 시험한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Forderung",
+    "level": "b1",
+    "zipf": 4.43,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Forderungen",
+      "genitive": "Forderung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fordern|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "a demand, a (financial) claim",
+        "ko": "요구, 청구",
+        "examples": [
+          {
+            "text": "Die Forderung der Firma ist zu hoch.",
+            "ko": "회사의 청구액은 너무 높다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Form",
+    "level": "b1",
+    "zipf": 5.2,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Formen",
+      "genitive": "Form"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "shape",
+        "ko": "모양, 형태",
+        "examples": [
+          {
+            "text": "Der Tisch hat eine runde Form.",
+            "ko": "그 탁자는 둥근 모양이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "form (order of doing things)",
+        "ko": "형식, 방식",
+        "examples": [
+          {
+            "text": "Bitte beachte die richtige Form.",
+            "ko": "올바른 형식을 지켜 줘.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Forschung",
+    "level": "b1",
+    "zipf": 4.7,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Forschungen",
+      "genitive": "Forschung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "forschen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "research",
+        "ko": "연구",
+        "examples": [
+          {
+            "text": "Die Forschung braucht viel Geld.",
+            "ko": "연구에는 돈이 많이 든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fortbildung",
+    "level": "b1",
+    "zipf": 3.72,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fortbildungen",
+      "genitive": "Fortbildung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fort|stem",
+      "Bildung|stem"
+    ],
+    "senses": [
+      {
+        "en": "further education, continuing education",
+        "ko": "연수, 재교육",
+        "examples": [
+          {
+            "text": "Ich mache nächste Woche eine Fortbildung.",
+            "ko": "나는 다음 주에 연수를 받는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fortschritt",
+    "level": "b1",
+    "zipf": 4.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Fortschritte",
+      "genitive": "Fortschrittes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fort|stem",
+      "Schritt|stem"
+    ],
+    "senses": [
+      {
+        "en": "progress, advancement",
+        "ko": "진보, 발전",
+        "examples": [
+          {
+            "text": "Du machst große Fortschritte in Deutsch.",
+            "ko": "너는 독일어가 많이 늘고 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fortsetzen",
+    "level": "b1",
+    "zipf": 3.84,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "setzt fort",
+      "past": "setzte fort",
+      "pp": "fortgesetzt",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "fort"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fort|sep",
+      "setzen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to continue with something",
+        "ko": "계속하다",
+        "examples": [
+          {
+            "text": "Wir setzen die Arbeit morgen fort.",
+            "ko": "우리는 내일 일을 계속한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fortsetzung",
+    "level": "b1",
+    "zipf": 4.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fortsetzungen",
+      "genitive": "Fortsetzung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fortsetzen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "continuation, resumption",
+        "ko": "계속, 속편",
+        "examples": [
+          {
+            "text": "Die Fortsetzung des Films kommt bald.",
+            "ko": "영화 속편이 곧 나온다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Forum",
+    "level": "b1",
+    "zipf": 4.53,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Foren",
+      "genitive": "Forums"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "forum",
+        "ko": "포럼, 토론장",
+        "examples": [
+          {
+            "text": "Ich frage im Forum nach Hilfe.",
+            "ko": "나는 포럼에서 도움을 구한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fotograf",
+    "level": "b1",
+    "zipf": 3.97,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Fotografen",
+      "genitive": "Fotografen"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "photographer",
+        "ko": "사진사, 사진작가",
+        "examples": [
+          {
+            "text": "Der Fotograf macht Bilder von der Hochzeit.",
+            "ko": "사진사가 결혼식 사진을 찍는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fotografie",
+    "level": "b1",
+    "zipf": 4.12,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fotografien",
+      "genitive": "Fotografie"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "photograph",
+        "ko": "사진",
+        "examples": [
+          {
+            "text": "Das ist eine alte Fotografie von meiner Oma.",
+            "ko": "이것은 우리 할머니의 오래된 사진이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "photography (the art of making photographs)",
+        "ko": "사진술, 사진 촬영",
+        "examples": [
+          {
+            "text": "Fotografie ist mein Hobby.",
+            "ko": "사진 찍기가 내 취미다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "frech",
+    "level": "b1",
+    "zipf": 3.84,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "frecher",
+      "superlative": "am frechsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cheeky, barefaced, rude, saucy",
+        "ko": "뻔뻔한, 건방진",
+        "examples": [
+          {
+            "text": "Der Junge ist sehr frech.",
+            "ko": "그 남자아이는 아주 건방지다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "naughty",
+        "ko": "장난꾸러기인, 버릇없는",
+        "examples": [
+          {
+            "text": "Sei nicht so frech!",
+            "ko": "그렇게 버릇없이 굴지 마!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Freiheit",
+    "level": "b1",
+    "zipf": 4.88,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Freiheiten",
+      "genitive": "Freiheit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "frei|stem",
+      "-heit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "freedom",
+        "ko": "자유",
+        "examples": [
+          {
+            "text": "Ich liebe meine Freiheit.",
+            "ko": "나는 내 자유를 사랑한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fremdsprache",
+    "level": "b1",
+    "zipf": 3.61,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fremdsprachen",
+      "genitive": "Fremdsprache"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fremd|stem",
+      "Sprache|stem"
+    ],
+    "senses": [
+      {
+        "en": "foreign language",
+        "ko": "외국어",
+        "examples": [
+          {
+            "text": "Deutsch ist meine erste Fremdsprache.",
+            "ko": "독일어는 내 첫 외국어이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fressen",
+    "level": "b1",
+    "zipf": 4.13,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "frisst",
+      "past": "fraß",
+      "pp": "gefressen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to eat; to feed on; to devour",
+        "ko": "(동물이) 먹다",
+        "examples": [
+          {
+            "text": "Der Hund frisst sein Futter.",
+            "ko": "개가 사료를 먹는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to stuff oneself; to gorge oneself; to eat like a pig",
+        "ko": "게걸스럽게 먹다",
+        "examples": [
+          {
+            "text": "Er frisst wie ein Schwein.",
+            "ko": "그는 돼지처럼 먹어 댄다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Freude",
+    "level": "b1",
+    "zipf": 4.87,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Freuden",
+      "genitive": "Freude"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "joy, delight, glee",
+        "ko": "기쁨",
+        "examples": [
+          {
+            "text": "Die Kinder haben viel Freude am Spiel.",
+            "ko": "아이들은 놀이를 아주 즐거워한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Freundschaft",
+    "level": "b1",
+    "zipf": 4.44,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Freundschaften",
+      "genitive": "Freundschaft"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Freund|stem",
+      "-schaft|suffix"
+    ],
+    "senses": [
+      {
+        "en": "friendship",
+        "ko": "우정",
+        "examples": [
+          {
+            "text": "Unsere Freundschaft ist sehr alt.",
+            "ko": "우리의 우정은 아주 오래되었다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Friede",
+    "level": "b1",
+    "zipf": 3.66,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "peace",
+        "ko": "평화",
+        "examples": [
+          {
+            "text": "Alle wünschen sich Frieden.",
+            "ko": "모두가 평화를 바라.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "frieren",
+    "level": "b1",
+    "zipf": 3.32,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "friert",
+      "past": "fror",
+      "pp": "gefroren",
+      "aux": "haben/sein"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to be cold, feel cold",
+        "ko": "춥다, 추위를 느끼다",
+        "examples": [
+          {
+            "text": "Ich friere ohne Jacke.",
+            "ko": "나는 재킷이 없으면 춥다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to freeze, be freezing, be below 0 degrees celsius",
+        "ko": "영하이다, 얼다",
+        "examples": [
+          {
+            "text": "Heute Nacht friert es.",
+            "ko": "오늘 밤은 영하로 내려간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Friseur",
+    "level": "b1",
+    "zipf": 3.78,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Friseure",
+      "genitive": "Friseurs"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hairdresser, barber",
+        "ko": "미용사, 이발사",
+        "examples": [
+          {
+            "text": "Ich habe morgen einen Termin beim Friseur.",
+            "ko": "나는 내일 미용실 예약이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Friseurin",
+    "level": "b1",
+    "zipf": 2.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Friseurinnen",
+      "genitive": "Friseurin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Friseur|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female hairdresser, hairstylist, haircutter",
+        "ko": "여성 미용사",
+        "examples": [
+          {
+            "text": "Meine Friseurin schneidet gut.",
+            "ko": "내 미용사는 머리를 잘 자른다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Frist",
+    "level": "b1",
+    "zipf": 4.1,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fristen",
+      "genitive": "Frist"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "term, deadline, period (time limit)",
+        "ko": "기한, 마감",
+        "examples": [
+          {
+            "text": "Die Frist endet am Freitag.",
+            "ko": "기한은 금요일에 끝난다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Frisur",
+    "level": "b1",
+    "zipf": 3.84,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Frisuren",
+      "genitive": "Frisur"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "hairdo; hairstyle (way hair is arranged)",
+        "ko": "헤어스타일",
+        "examples": [
+          {
+            "text": "Ich mag deine neue Frisur.",
+            "ko": "나는 네 새 헤어스타일이 마음에 들어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Frucht",
+    "level": "b1",
+    "zipf": 3.84,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Früchte",
+      "genitive": "Frucht"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fruit (seed-bearing part of a plant)",
+        "ko": "과일, 열매",
+        "examples": [
+          {
+            "text": "Äpfel sind meine Lieblingsfrucht.",
+            "ko": "사과는 내가 제일 좋아하는 과일이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "result, effect, fruit",
+        "ko": "결실, 성과",
+        "examples": [
+          {
+            "text": "Die Arbeit trägt endlich Früchte.",
+            "ko": "노력이 마침내 결실을 맺는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fröhlich",
+    "level": "b1",
+    "zipf": 4.09,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "fröhlicher",
+      "superlative": "am fröhlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "froh|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "merry; cheerful; either as a character trait or fleetingly",
+        "ko": "즐거운, 명랑한",
+        "examples": [
+          {
+            "text": "Die Kinder sind fröhlich.",
+            "ko": "아이들이 즐거워한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fundbüro",
+    "level": "b1",
+    "zipf": 2.77,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Fundbüros",
+      "genitive": "Fundbüros"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Fund|stem",
+      "Büro|stem"
+    ],
+    "senses": [
+      {
+        "en": "lost and found, lost property, lost articles",
+        "ko": "분실물 센터",
+        "examples": [
+          {
+            "text": "Ich frage im Fundbüro nach meinem Schirm.",
+            "ko": "나는 분실물 센터에 내 우산이 있는지 묻는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "funktionieren",
+    "level": "b1",
+    "zipf": 4.51,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "funktioniert",
+      "past": "funktionierte",
+      "pp": "funktioniert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Funktion|stem",
+      "-ieren|suffix"
+    ],
+    "senses": [
+      {
+        "en": "to work, function",
+        "ko": "작동하다",
+        "examples": [
+          {
+            "text": "Der Computer funktioniert nicht.",
+            "ko": "컴퓨터가 작동하지 않는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to work, work out",
+        "ko": "잘 되다",
+        "examples": [
+          {
+            "text": "Mein Plan funktioniert gut.",
+            "ko": "내 계획이 잘 된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fußgänger",
+    "level": "b1",
+    "zipf": 3.93,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Fußgänger",
+      "genitive": "Fußgängers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Fuß|stem",
+      "Gänger|stem"
+    ],
+    "senses": [
+      {
+        "en": "pedestrian, walker (male or of unspecified gender)",
+        "ko": "보행자",
+        "examples": [
+          {
+            "text": "Der Fußgänger wartet an der Ampel.",
+            "ko": "보행자가 신호등에서 기다린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fußgängerin",
+    "level": "b1",
+    "zipf": 2.61,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fußgängerinnen",
+      "genitive": "Fußgängerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Fußgänger|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Fußgänger",
+        "ko": "여성 보행자",
+        "examples": [
+          {
+            "text": "Eine Fußgängerin geht über die Straße.",
+            "ko": "한 여성 보행자가 길을 건넌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fähigkeit",
+    "level": "b1",
+    "zipf": 4.26,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fähigkeiten",
+      "genitive": "Fähigkeit"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fähig|stem",
+      "-keit|suffix"
+    ],
+    "senses": [
+      {
+        "en": "ability, capability",
+        "ko": "능력, 재능",
+        "examples": [
+          {
+            "text": "Sie hat die Fähigkeit, schnell zu lernen.",
+            "ko": "그녀는 빨리 배우는 능력이 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Fähre",
+    "level": "b1",
+    "zipf": 3.78,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Fähren",
+      "genitive": "Fähre"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "ferry",
+        "ko": "페리, 여객선",
+        "examples": [
+          {
+            "text": "Die Fähre fährt jede Stunde.",
+            "ko": "페리는 한 시간마다 출발한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fällig",
+    "level": "b1",
+    "zipf": 3.93,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "due (payable or supposed to occur at the current time)",
+        "ko": "기한이 된, 만기의",
+        "examples": [
+          {
+            "text": "Die Miete ist am Ersten fällig.",
+            "ko": "월세는 1일이 기한이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fördern",
+    "level": "b1",
+    "zipf": 4.4,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "fördert",
+      "past": "förderte",
+      "pp": "gefördert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to further, foster, advance, encourage, support (promote the development of)",
+        "ko": "장려하다, 후원하다",
+        "examples": [
+          {
+            "text": "Die Schule fördert junge Talente.",
+            "ko": "학교는 젊은 인재를 키운다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to fund, co-fund, to provide financial aid for (a project etc.)",
+        "ko": "지원금을 주다",
+        "examples": [
+          {
+            "text": "Der Staat fördert das Projekt mit viel Geld.",
+            "ko": "국가가 그 프로젝트를 많은 돈으로 지원한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to mine (a resource), to win by mining",
+        "ko": "채굴하다",
+        "examples": [
+          {
+            "text": "Man fördert dort Kohle.",
+            "ko": "그곳에서는 석탄을 채굴한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Förderung",
+    "level": "b1",
+    "zipf": 4.61,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Förderungen",
+      "genitive": "Förderung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "fördern|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "support, promotion, advancement (financial, moral, or emotional advancement).",
+        "ko": "지원, 장려",
+        "examples": [
+          {
+            "text": "Sie bekommt eine Förderung vom Staat.",
+            "ko": "그녀는 국가의 지원금을 받는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "extraction, mining (of natural resources) (no plural).",
+        "ko": "채굴",
+        "examples": [
+          {
+            "text": "Die Förderung von Öl ist teuer.",
+            "ko": "석유 채굴은 비용이 많이 든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "führen",
+    "level": "b1",
+    "zipf": 5.14,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "führt",
+      "past": "führte",
+      "pp": "geführt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to lead",
+        "ko": "이끌다, 안내하다",
+        "examples": [
+          {
+            "text": "Der Weg führt zum See.",
+            "ko": "그 길은 호수로 이어진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to carry, to sell",
+        "ko": "취급하다, 팔다",
+        "examples": [
+          {
+            "text": "Dieser Laden führt auch Bio-Produkte.",
+            "ko": "이 가게는 유기농 제품도 취급한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to conduct some activity or process, to hold (a discussion, a negotiation), to have (a conversation), to lead (one's life), to wage (a war or campaign), to fight (a war)",
+        "ko": "(대화를) 나누다, 하다",
+        "examples": [
+          {
+            "text": "Wir führen ein langes Gespräch.",
+            "ko": "우리는 긴 대화를 나눈다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fürchten",
+    "level": "b1",
+    "zipf": 4.16,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "fürchtet",
+      "past": "fürchtete",
+      "pp": "gefürchtet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to fear",
+        "ko": "두려워하다, 걱정하다",
+        "examples": [
+          {
+            "text": "Ich fürchte den Winter nicht.",
+            "ko": "나는 겨울이 두렵지 않다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to be afraid",
+        "ko": "무서워하다",
+        "examples": [
+          {
+            "text": "Das Kind fürchtet sich im Dunkeln.",
+            "ko": "아이는 어둠 속에서 무서워한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "füttern",
+    "level": "b1",
+    "zipf": 3.75,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "füttert",
+      "past": "fütterte",
+      "pp": "gefüttert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Futter|stem"
+    ],
+    "senses": [
+      {
+        "en": "to feed (to give food to)",
+        "ko": "먹이를 주다",
+        "examples": [
+          {
+            "text": "Ich füttere jeden Morgen die Katze.",
+            "ko": "나는 매일 아침 고양이에게 먹이를 준다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

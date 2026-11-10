@@ -1,0 +1,339 @@
+[
+  {
+    "word": "oben",
+    "level": "a1",
+    "zipf": 5.27,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "above",
+        "ko": "위에",
+        "examples": [
+          {
+            "text": "Das Buch liegt oben auf dem Schrank.",
+            "ko": "책은 장 위에 놓여 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "upstairs",
+        "ko": "위층에",
+        "examples": [
+          {
+            "text": "Mein Zimmer ist oben.",
+            "ko": "내 방은 위층에 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Obst",
+    "level": "a1",
+    "zipf": 4.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": null,
+      "genitive": "Obstes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "fruit (food)",
+        "ko": "과일",
+        "examples": [
+          {
+            "text": "Ich esse gern Obst.",
+            "ko": "나는 과일 먹는 걸 좋아해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "oder",
+    "level": "a1",
+    "zipf": 6.5,
+    "pos": "conj",
+    "grammar": {
+      "type": "conj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "or",
+        "ko": "또는, 아니면",
+        "examples": [
+          {
+            "text": "Tee oder Kaffee?",
+            "ko": "차 아니면 커피?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "oft",
+    "level": "a1",
+    "zipf": 5.48,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "often",
+        "ko": "자주",
+        "examples": [
+          {
+            "text": "Ich gehe oft schwimmen.",
+            "ko": "나는 자주 수영하러 가.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ohne",
+    "level": "a1",
+    "zipf": 5.95,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "without",
+        "ko": "~없이",
+        "examples": [
+          {
+            "text": "Ich trinke Kaffee ohne Milch.",
+            "ko": "나는 우유 없이 커피를 마셔.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Oma",
+    "level": "a1",
+    "zipf": 4.49,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Omas",
+      "genitive": "Oma"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "grandma, granny, nan",
+        "ko": "할머니",
+        "examples": [
+          {
+            "text": "Meine Oma wohnt in Hamburg.",
+            "ko": "우리 할머니는 함부르크에 사셔.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Opa",
+    "level": "a1",
+    "zipf": 4.21,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Opas",
+      "genitive": "Opas"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "grandpa",
+        "ko": "할아버지",
+        "examples": [
+          {
+            "text": "Mein Opa liest gern Bücher.",
+            "ko": "우리 할아버지는 책 읽는 걸 좋아하셔.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ordnung",
+    "level": "a1",
+    "zipf": 4.93,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Ordnungen",
+      "genitive": "Ordnung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "ordnen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "tidiness, orderliness",
+        "ko": "정돈, 질서",
+        "examples": [
+          {
+            "text": "Ich halte Ordnung in meinem Zimmer.",
+            "ko": "나는 내 방을 정돈해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "arrangement, regulation",
+        "ko": "규칙, 규정",
+        "examples": [
+          {
+            "text": "Die Ordnung gilt für alle.",
+            "ko": "그 규정은 모두에게 적용돼.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ort",
+    "level": "a1",
+    "zipf": 5.31,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Orte",
+      "genitive": "Ortes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "place, location, point, position",
+        "ko": "장소, 곳",
+        "examples": [
+          {
+            "text": "Das ist ein schöner Ort.",
+            "ko": "여기는 아름다운 곳이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "place of abode, settled dwelling, village, town",
+        "ko": "마을, 소도시",
+        "examples": [
+          {
+            "text": "Ich wohne in einem kleinen Ort.",
+            "ko": "나는 작은 마을에 살아.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "öffnen",
+    "level": "a1",
+    "zipf": 4.63,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "öffnet",
+      "past": "öffnete",
+      "pp": "geöffnet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "to open (to make something accessible or allow for passage by moving from a shut position)",
+        "ko": "열다",
+        "examples": [
+          {
+            "text": "Ich öffne das Fenster.",
+            "ko": "나는 창문을 연다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to open (to make accessible to customers or clients)",
+        "ko": "(가게를) 열다, 영업을 시작하다",
+        "examples": [
+          {
+            "text": "Der Laden öffnet um neun Uhr.",
+            "ko": "가게는 9시에 문을 연다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

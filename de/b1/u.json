@@ -1,0 +1,2462 @@
+[
+  {
+    "word": "U-Bahn",
+    "level": "b1",
+    "zipf": 4.91,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "U-Bahnen",
+      "genitive": "U-Bahn"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "underground railway; subway",
+        "ko": "지하철",
+        "examples": [
+          {
+            "text": "Ich fahre mit der U-Bahn zur Arbeit.",
+            "ko": "나는 지하철을 타고 출근한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ufer",
+    "level": "b1",
+    "zipf": 4.22,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Ufer",
+      "genitive": "Ufers"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "shore, shoreline",
+        "ko": "물가, 해안",
+        "examples": [
+          {
+            "text": "Wir sitzen am Ufer des Sees.",
+            "ko": "우리는 호숫가에 앉아 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "bank",
+        "ko": "강둑, 강가",
+        "examples": [
+          {
+            "text": "Die Stadt liegt am linken Ufer des Flusses.",
+            "ko": "그 도시는 강의 왼쪽 강가에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "um … zu",
+    "level": "b1",
+    "zipf": 6.35,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "in order to",
+        "ko": "~하기 위해서",
+        "examples": [
+          {
+            "text": "Ich lerne Deutsch, um in Berlin zu arbeiten.",
+            "ko": "나는 베를린에서 일하기 위해 독일어를 배운다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "umarmen",
+    "level": "b1",
+    "zipf": 3.59,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "umarmt",
+      "past": "umarmte",
+      "pp": "umarmt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "um|insep",
+      "Arm|stem"
+    ],
+    "senses": [
+      {
+        "en": "to embrace, to hug",
+        "ko": "포옹하다, 안다",
+        "examples": [
+          {
+            "text": "Sie umarmt ihre Freundin zur Begrüßung.",
+            "ko": "그녀는 인사로 친구를 안는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "umdrehen",
+    "level": "b1",
+    "zipf": 3.62,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "dreht um",
+      "past": "drehte um",
+      "pp": "umgedreht",
+      "aux": "haben/sein",
+      "separable": true,
+      "prefix": "um"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "um|sep",
+      "drehen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to twist, to turn, to turn around",
+        "ko": "돌리다, 뒤집다",
+        "examples": [
+          {
+            "text": "Er dreht die Karte um.",
+            "ko": "그는 카드를 뒤집는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to turn one's head and look back",
+        "ko": "뒤돌아보다",
+        "examples": [
+          {
+            "text": "Sie dreht sich auf der Straße um.",
+            "ko": "그녀는 길에서 뒤돌아본다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Umfrage",
+    "level": "b1",
+    "zipf": 4.4,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Umfragen",
+      "genitive": "Umfrage"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "survey, poll",
+        "ko": "설문 조사, 여론 조사",
+        "examples": [
+          {
+            "text": "Laut einer Umfrage mögen die meisten den Sommer.",
+            "ko": "설문 조사에 따르면 대부분이 여름을 좋아한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Umgebung",
+    "level": "b1",
+    "zipf": 4.78,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Umgebungen",
+      "genitive": "Umgebung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "umgeben|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "environment (area around something), vicinity, surroundings",
+        "ko": "주변, 근처",
+        "examples": [
+          {
+            "text": "In der Umgebung gibt es viele Parks.",
+            "ko": "주변에 공원이 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "umgehen",
+    "level": "b1",
+    "zipf": 4.39,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "umgeht",
+      "past": "umging",
+      "pp": "umgangen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "um|sep",
+      "gehen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to avoid, bypass, to go around (a physical obstacle)",
+        "ko": "우회하다, 피해 가다",
+        "examples": [
+          {
+            "text": "Wir umgehen den Stau über die Landstraße.",
+            "ko": "우리는 국도로 정체를 우회한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to deal with, to handle (umgehen mit)",
+        "ko": "다루다, 대하다",
+        "examples": [
+          {
+            "text": "Sie geht gut mit Kindern um.",
+            "ko": "그녀는 아이들을 잘 대한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "umgekehrt",
+    "level": "b1",
+    "zipf": 4.37,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "reverse",
+        "ko": "반대의, 거꾸로의",
+        "examples": [
+          {
+            "text": "Es war genau umgekehrt.",
+            "ko": "그건 정확히 반대였어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Umleitung",
+    "level": "b1",
+    "zipf": 3.44,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Umleitungen",
+      "genitive": "Umleitung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "umleiten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "redirection, rerouting, detour, diversion",
+        "ko": "우회로, 우회",
+        "examples": [
+          {
+            "text": "Wegen der Baustelle gibt es eine Umleitung.",
+            "ko": "공사 때문에 우회로가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "umso",
+    "level": "b1",
+    "zipf": 4.45,
+    "pos": "conj",
+    "grammar": {
+      "type": "conj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "the (forming the parallel comparative with je)",
+        "ko": "~할수록 더",
+        "examples": [
+          {
+            "text": "Je mehr ich übe, umso besser werde ich.",
+            "ko": "연습할수록 더 잘하게 된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "all the more, so much (the)",
+        "ko": "그만큼 더",
+        "examples": [
+          {
+            "text": "Das freut mich umso mehr.",
+            "ko": "그래서 더욱 기쁘다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "umsonst",
+    "level": "b1",
+    "zipf": 4.33,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "free of charge, gratis",
+        "ko": "공짜로, 무료로",
+        "examples": [
+          {
+            "text": "Kinder fahren hier umsonst.",
+            "ko": "어린이는 여기서 무료로 탄다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "in vain, without success",
+        "ko": "헛되이, 소용없이",
+        "examples": [
+          {
+            "text": "Ich habe umsonst gewartet.",
+            "ko": "나는 헛되이 기다렸다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Umtausch",
+    "level": "b1",
+    "zipf": 2.93,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Umtäusche"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "exchange (of purchased goods)",
+        "ko": "교환",
+        "examples": [
+          {
+            "text": "Ein Umtausch ist nur mit Kassenbon möglich.",
+            "ko": "교환은 영수증이 있어야만 가능하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "umtauschen",
+    "level": "b1",
+    "zipf": 3.09,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "tauscht um",
+      "past": "tauschte um",
+      "pp": "umgetauscht",
+      "aux": "haben",
+      "separable": true,
+      "prefix": "um"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "um|sep",
+      "tauschen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to exchange",
+        "ko": "교환하다, 환전하다",
+        "examples": [
+          {
+            "text": "Ich tausche Euro in Dollar um.",
+            "ko": "나는 유로를 달러로 환전한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to return (bring back a bought item to the seller)",
+        "ko": "교환하러 가져가다, 반품하다",
+        "examples": [
+          {
+            "text": "Ich tausche die Hose um, sie ist zu klein.",
+            "ko": "바지가 작아서 교환한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Umwelt",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Umwelten",
+      "genitive": "Umwelt"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "environment; milieu; surroundings",
+        "ko": "환경",
+        "examples": [
+          {
+            "text": "Wir müssen die Umwelt schützen.",
+            "ko": "우리는 환경을 보호해야 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Umweltschutz",
+    "level": "b1",
+    "zipf": 3.93,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": null,
+      "genitive": "Umweltschutzes"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Umwelt|stem",
+      "Schutz|stem"
+    ],
+    "senses": [
+      {
+        "en": "environmentalism, protection of the environment, environmental protection",
+        "ko": "환경 보호",
+        "examples": [
+          {
+            "text": "Umweltschutz beginnt im Alltag.",
+            "ko": "환경 보호는 일상에서 시작된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Umweltverschmutzung",
+    "level": "b1",
+    "zipf": 3.11,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Umweltverschmutzungen",
+      "genitive": "Umweltverschmutzung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Umwelt|stem",
+      "Verschmutzung|stem"
+    ],
+    "senses": [
+      {
+        "en": "pollution",
+        "ko": "환경 오염",
+        "examples": [
+          {
+            "text": "Autos verursachen viel Umweltverschmutzung.",
+            "ko": "자동차는 환경 오염을 많이 일으킨다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "un",
+    "level": "b1",
+    "zipf": 4.77,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "un-, not (negating prefix)",
+        "ko": "~이 아닌, 부정 접두사",
+        "examples": [
+          {
+            "text": "Der Verkäufer war unfreundlich.",
+            "ko": "그 판매원은 불친절했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unentschieden",
+    "level": "b1",
+    "zipf": 4.01,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "undecided, undetermined",
+        "ko": "결정하지 못한",
+        "examples": [
+          {
+            "text": "Ich bin noch unentschieden.",
+            "ko": "나는 아직 결정하지 못했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "tied (sport)",
+        "ko": "무승부의",
+        "examples": [
+          {
+            "text": "Das Spiel endete unentschieden.",
+            "ko": "경기는 무승부로 끝났다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ungefähr",
+    "level": "b1",
+    "zipf": 4.7,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "approximate",
+        "ko": "대략적인, 대략",
+        "examples": [
+          {
+            "text": "Es dauert ungefähr eine Stunde.",
+            "ko": "대략 한 시간 걸린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ungewöhnlich",
+    "level": "b1",
+    "zipf": 4.21,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "ungewöhnlicher",
+      "superlative": "am ungewöhnlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "uncommon, unusual, unordinary",
+        "ko": "평소와 다른, 특이한",
+        "examples": [
+          {
+            "text": "Es ist ungewöhnlich kalt für Mai.",
+            "ko": "5월치고는 이례적으로 춥다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unglaublich",
+    "level": "b1",
+    "zipf": 4.73,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "unglaublicher",
+      "superlative": "am unglaublichsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "unbelievable, incredible",
+        "ko": "믿을 수 없는, 엄청난",
+        "examples": [
+          {
+            "text": "Das ist ja unglaublich!",
+            "ko": "정말 믿을 수 없어!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Unglück",
+    "level": "b1",
+    "zipf": 4.17,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Unglücke",
+      "genitive": "Unglückes"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "accident, calamity, catastrophe",
+        "ko": "사고, 재난",
+        "examples": [
+          {
+            "text": "Bei dem Unglück wurde niemand verletzt.",
+            "ko": "그 사고에서 아무도 다치지 않았다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "bad luck; misfortune",
+        "ko": "불운",
+        "examples": [
+          {
+            "text": "Zum Unglück hat es auch noch geregnet.",
+            "ko": "설상가상으로 비까지 왔다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unheimlich",
+    "level": "b1",
+    "zipf": 4.02,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "unheimlicher",
+      "superlative": "am unheimlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "uncanny, creepy, eerie (causing fearful discomfort)",
+        "ko": "으스스한, 섬뜩한",
+        "examples": [
+          {
+            "text": "Der Wald ist nachts unheimlich.",
+            "ko": "숲은 밤에 으스스하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "incredible, massive (very large in scope, amount or ambition)",
+        "ko": "엄청난",
+        "examples": [
+          {
+            "text": "Ich habe unheimlich viel Arbeit.",
+            "ko": "나는 일이 엄청나게 많다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Uniform",
+    "level": "b1",
+    "zipf": 3.93,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Uniformen",
+      "genitive": "Uniform"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "uniform (distinctive outfit as a means of identifying members of a group)",
+        "ko": "제복, 유니폼",
+        "examples": [
+          {
+            "text": "Der Polizist trägt eine blaue Uniform.",
+            "ko": "경찰관은 파란 제복을 입고 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unterbrechen",
+    "level": "b1",
+    "zipf": 3.64,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "unterbricht",
+      "past": "unterbrach",
+      "pp": "unterbrochen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "unter|insep",
+      "brechen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to interrupt",
+        "ko": "중단시키다, 끊다",
+        "examples": [
+          {
+            "text": "Bitte unterbrechen Sie mich nicht.",
+            "ko": "제 말을 끊지 말아 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Unterhaltung",
+    "level": "b1",
+    "zipf": 4.42,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Unterhaltungen",
+      "genitive": "Unterhaltung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "unterhalten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "conversation",
+        "ko": "대화",
+        "examples": [
+          {
+            "text": "Wir führen eine nette Unterhaltung.",
+            "ko": "우리는 즐거운 대화를 나눈다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "entertainment",
+        "ko": "오락, 즐길 거리",
+        "examples": [
+          {
+            "text": "Das Hotel bietet abends Unterhaltung.",
+            "ko": "그 호텔은 저녁에 오락거리를 제공한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Unterlagen",
+    "level": "b1",
+    "zipf": 4.32,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": null,
+      "number": "pl"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "documents, papers",
+        "ko": "서류, 자료",
+        "examples": [
+          {
+            "text": "Bitte bringen Sie alle Unterlagen mit.",
+            "ko": "모든 서류를 가져오세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unterlassen",
+    "level": "b1",
+    "zipf": 3.65,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "unterlässt",
+      "past": "unterließ",
+      "pp": "unterlassen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "unter|insep",
+      "lassen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to refrain from, to eschew; to forbear, to stop doing something",
+        "ko": "삼가다, 그만두다",
+        "examples": [
+          {
+            "text": "Bitte unterlassen Sie das Rauchen hier.",
+            "ko": "여기서는 흡연을 삼가 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to fail to do something (either by intent or carelessness)",
+        "ko": "~하지 않다, 소홀히 하다",
+        "examples": [
+          {
+            "text": "Er hat es unterlassen, mich anzurufen.",
+            "ko": "그는 나에게 전화하는 것을 하지 않았다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Unternehmer",
+    "level": "b1",
+    "zipf": 4.5,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Unternehmer",
+      "genitive": "Unternehmers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "unternehmen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "entrepreneur",
+        "ko": "기업가, 사업가",
+        "examples": [
+          {
+            "text": "Der Unternehmer hat drei Firmen gegründet.",
+            "ko": "그 기업가는 회사를 세 개 세웠다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Unternehmerin",
+    "level": "b1",
+    "zipf": 3.07,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Unternehmerinnen",
+      "genitive": "Unternehmerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Unternehmer|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Unternehmer",
+        "ko": "여성 기업가",
+        "examples": [
+          {
+            "text": "Die Unternehmerin eröffnet ein neues Geschäft.",
+            "ko": "그 여성 기업가는 새 가게를 연다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unterrichten",
+    "level": "b1",
+    "zipf": 3.91,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "unterrichtet",
+      "past": "unterrichtete",
+      "pp": "unterrichtet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "unter|insep",
+      "richten|stem"
+    ],
+    "senses": [
+      {
+        "en": "to teach, to school",
+        "ko": "가르치다",
+        "examples": [
+          {
+            "text": "Sie unterrichtet Mathematik an einer Schule.",
+            "ko": "그녀는 학교에서 수학을 가르친다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to inform",
+        "ko": "알리다, 통지하다",
+        "examples": [
+          {
+            "text": "Ich unterrichte dich morgen über das Ergebnis.",
+            "ko": "내일 너에게 결과를 알려 줄게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "untersagt",
+    "level": "b1",
+    "zipf": 3.89,
+    "pos": "other",
+    "grammar": {
+      "type": "other"
+    },
+    "grammar_source": "generated",
+    "senses": [
+      {
+        "en": "forbidden, prohibited",
+        "ko": "금지된",
+        "examples": [
+          {
+            "text": "Das Fotografieren ist hier untersagt.",
+            "ko": "여기서는 촬영이 금지되어 있어.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unterscheiden",
+    "level": "b1",
+    "zipf": 4.52,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "unterscheidet",
+      "past": "unterschied",
+      "pp": "unterschieden",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "unter|insep",
+      "scheiden|stem"
+    ],
+    "senses": [
+      {
+        "en": "to distinguish, differentiate",
+        "ko": "구별하다",
+        "examples": [
+          {
+            "text": "Kannst du die Zwillinge unterscheiden?",
+            "ko": "너는 쌍둥이를 구별할 수 있니?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to differ, be different, distinct",
+        "ko": "다르다, 차이가 나다",
+        "examples": [
+          {
+            "text": "Die beiden Wörter unterscheiden sich kaum.",
+            "ko": "두 단어는 거의 차이가 없다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unterschiedlich",
+    "level": "b1",
+    "zipf": 4.43,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "unterschiedlicher",
+      "superlative": "am unterschiedlichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Unterschied|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "different; differing, varying",
+        "ko": "서로 다른, 다양한",
+        "examples": [
+          {
+            "text": "Wir haben unterschiedliche Meinungen.",
+            "ko": "우리는 의견이 서로 다르다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unterstreichen",
+    "level": "b1",
+    "zipf": 3.51,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "unterstreicht",
+      "past": "unterstrich",
+      "pp": "unterstrichen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "unter|insep",
+      "streichen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to underscore, to underline",
+        "ko": "밑줄을 긋다, 강조하다",
+        "examples": [
+          {
+            "text": "Unterstreichen Sie die wichtigen Wörter.",
+            "ko": "중요한 단어에 밑줄을 그으세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unterstützen",
+    "level": "b1",
+    "zipf": 4.76,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "unterstützt",
+      "past": "unterstützte",
+      "pp": "unterstützt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "unter|insep",
+      "stützen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to support, to assist, to help, to aid",
+        "ko": "지원하다, 돕다",
+        "examples": [
+          {
+            "text": "Meine Eltern unterstützen mich beim Studium.",
+            "ko": "부모님은 내 학업을 지원해 주신다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Unterstützung",
+    "level": "b1",
+    "zipf": 4.95,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Unterstützungen",
+      "genitive": "Unterstützung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "unterstützen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "support, assistance, backing, also endorsement",
+        "ko": "지원, 도움",
+        "examples": [
+          {
+            "text": "Ich brauche deine Unterstützung.",
+            "ko": "나는 네 도움이 필요해.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "financial aid",
+        "ko": "보조금, 재정 지원",
+        "examples": [
+          {
+            "text": "Er bekommt finanzielle Unterstützung vom Staat.",
+            "ko": "그는 국가로부터 재정 지원을 받는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Untersuchung",
+    "level": "b1",
+    "zipf": 4.58,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Untersuchungen",
+      "genitive": "Untersuchung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "untersuchen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "examination, investigation",
+        "ko": "검사, 조사",
+        "examples": [
+          {
+            "text": "Morgen habe ich eine Untersuchung beim Arzt.",
+            "ko": "내일 병원에서 검사가 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unterwegs",
+    "level": "b1",
+    "zipf": 4.98,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "on one’s way, underway, en route, in transit, going, travelling",
+        "ko": "가는 길에, 이동 중에",
+        "examples": [
+          {
+            "text": "Ich bin gerade unterwegs zu dir.",
+            "ko": "나는 지금 너한테 가는 중이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "out, not there",
+        "ko": "외출 중인, 자리에 없는",
+        "examples": [
+          {
+            "text": "Mein Chef ist heute unterwegs.",
+            "ko": "우리 상사는 오늘 외근 중이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Urkunde",
+    "level": "b1",
+    "zipf": 4.08,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Urkunden",
+      "genitive": "Urkunde"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "document",
+        "ko": "문서",
+        "examples": [
+          {
+            "text": "Die Urkunde liegt im Büro.",
+            "ko": "그 문서는 사무실에 있다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "certificate, legal instrument",
+        "ko": "증서, 증명서",
+        "examples": [
+          {
+            "text": "Sie bekommt für den Sieg eine Urkunde.",
+            "ko": "그녀는 우승해서 증서를 받는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Ursache",
+    "level": "b1",
+    "zipf": 4.5,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Ursachen",
+      "genitive": "Ursache"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "cause (source or reason of an event or action)",
+        "ko": "원인",
+        "examples": [
+          {
+            "text": "Die Ursache des Unfalls ist noch unklar.",
+            "ko": "사고의 원인은 아직 불분명하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ursprünglich",
+    "level": "b1",
+    "zipf": 4.63,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "ursprünglicher",
+      "superlative": "am ursprünglichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Ursprung|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "original, initial, first",
+        "ko": "원래의, 처음의",
+        "examples": [
+          {
+            "text": "Der ursprüngliche Plan war ein anderer.",
+            "ko": "원래 계획은 달랐다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "original, authentic, genuine, unadulterated",
+        "ko": "꾸밈없는, 순수한",
+        "examples": [
+          {
+            "text": "Das Dorf ist noch sehr ursprünglich.",
+            "ko": "그 마을은 아직도 매우 꾸밈없는 모습이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Urteil",
+    "level": "b1",
+    "zipf": 4.71,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "n"
+      ],
+      "plural": "Urteile",
+      "genitive": "Urteiles"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "judgment (the preferred spelling in a legal context), verdict, sentence (court decision)",
+        "ko": "판결",
+        "examples": [
+          {
+            "text": "Das Gericht spricht das Urteil.",
+            "ko": "법원이 판결을 내린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "judgement, opinion, usually one given after detailed consideration",
+        "ko": "판단, 의견",
+        "examples": [
+          {
+            "text": "Ich verlasse mich auf dein Urteil.",
+            "ko": "나는 네 판단을 믿는다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "überfahren",
+    "level": "b1",
+    "zipf": 3.71,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "überfährt",
+      "past": "überfuhr",
+      "pp": "überfahren",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|insep",
+      "fahren|stem"
+    ],
+    "senses": [
+      {
+        "en": "to run over, to run down",
+        "ko": "(차로) 치다",
+        "examples": [
+          {
+            "text": "Fast hätte das Auto die Katze überfahren.",
+            "ko": "하마터면 차가 고양이를 칠 뻔했다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to go through, to overshoot",
+        "ko": "(신호 등을) 무시하고 지나치다",
+        "examples": [
+          {
+            "text": "Er überfährt die rote Ampel.",
+            "ko": "그는 빨간불을 무시하고 지나간다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "überhaupt",
+    "level": "b1",
+    "zipf": 5.34,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|stem",
+      "Haupt|stem"
+    ],
+    "senses": [
+      {
+        "en": "overall, in general",
+        "ko": "전반적으로, 대체로",
+        "examples": [
+          {
+            "text": "Überhaupt gefällt mir die Stadt gut.",
+            "ko": "전반적으로 그 도시가 마음에 든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "at all; used to move specifically to an existential question",
+        "ko": "도대체, 아예",
+        "examples": [
+          {
+            "text": "Hast du überhaupt Zeit?",
+            "ko": "너 도대체 시간은 있어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "überholen",
+    "level": "b1",
+    "zipf": 3.69,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "überholt",
+      "past": "überholte",
+      "pp": "überholt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|insep",
+      "holen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to overtake; to pass (e.g. a vehicle, a runner)",
+        "ko": "추월하다",
+        "examples": [
+          {
+            "text": "Der Bus überholt das Auto.",
+            "ko": "버스가 자동차를 추월한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "überlegen",
+    "level": "b1",
+    "zipf": 4.54,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "überlegt",
+      "past": "überlegte",
+      "pp": "überlegt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|insep",
+      "legen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to think about, to think over",
+        "ko": "곰곰이 생각하다, 숙고하다",
+        "examples": [
+          {
+            "text": "Ich überlege noch, was ich kaufe.",
+            "ko": "나는 뭘 살지 아직 생각 중이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Übernachtung",
+    "level": "b1",
+    "zipf": 3.33,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Übernachtungen",
+      "genitive": "Übernachtung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "übernachten|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "overnight stay (at a hotel etc.)",
+        "ko": "숙박",
+        "examples": [
+          {
+            "text": "Die Übernachtung kostet 60 Euro.",
+            "ko": "숙박비는 60유로다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "übernehmen",
+    "level": "b1",
+    "zipf": 4.71,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "übernimmt",
+      "past": "übernahm",
+      "pp": "übernommen",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|insep",
+      "nehmen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to take over (a task, a position, responsibilities from someone else)",
+        "ko": "넘겨받다, 인수하다",
+        "examples": [
+          {
+            "text": "Ich übernehme die Arbeit von dir.",
+            "ko": "그 일은 내가 너한테서 넘겨받을게.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to assume, to accept (responsibility, liability, etc.)",
+        "ko": "(책임 등을) 떠맡다",
+        "examples": [
+          {
+            "text": "Er übernimmt die Verantwortung.",
+            "ko": "그가 책임을 진다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "überprüfen",
+    "level": "b1",
+    "zipf": 4.35,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "überprüft",
+      "past": "überprüfte",
+      "pp": "überprüft",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|insep",
+      "prüfen|stem"
+    ],
+    "senses": [
+      {
+        "en": "to check, to verify",
+        "ko": "점검하다, 확인하다",
+        "examples": [
+          {
+            "text": "Bitte überprüfen Sie Ihre Daten.",
+            "ko": "본인 정보를 확인해 주세요.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "überqueren",
+    "level": "b1",
+    "zipf": 3.7,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "überquert",
+      "past": "überquerte",
+      "pp": "überquert",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|insep",
+      "queren|stem"
+    ],
+    "senses": [
+      {
+        "en": "to cross, to traverse",
+        "ko": "건너다",
+        "examples": [
+          {
+            "text": "Wir überqueren die Straße.",
+            "ko": "우리는 길을 건넌다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "überraschen",
+    "level": "b1",
+    "zipf": 4.06,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "überrascht",
+      "past": "überraschte",
+      "pp": "überrascht",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|insep"
+    ],
+    "senses": [
+      {
+        "en": "to surprise",
+        "ko": "놀라게 하다",
+        "examples": [
+          {
+            "text": "Ich will dich mit einem Geschenk überraschen.",
+            "ko": "나는 선물로 너를 깜짝 놀라게 해 주고 싶어.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Überraschung",
+    "level": "b1",
+    "zipf": 4.44,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Überraschungen",
+      "genitive": "Überraschung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "überraschen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "surprise",
+        "ko": "놀람, 깜짝 선물",
+        "examples": [
+          {
+            "text": "Das ist eine schöne Überraschung!",
+            "ko": "정말 기분 좋은 놀라움이네!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "überreden",
+    "level": "b1",
+    "zipf": 3.61,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": false,
+      "present3": "überredet",
+      "past": "überredete",
+      "pp": "überredet",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|insep",
+      "reden|stem"
+    ],
+    "senses": [
+      {
+        "en": "to talk over, to talk into, to persuade (implying that the person gives in, but is not inwardly convinced; unlike überzeugen)",
+        "ko": "설득하다, 구슬리다",
+        "examples": [
+          {
+            "text": "Sie überredet ihn zum Mitkommen.",
+            "ko": "그녀는 그를 설득해서 같이 가게 한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Überschrift",
+    "level": "b1",
+    "zipf": 3.9,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Überschriften",
+      "genitive": "Überschrift"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|stem",
+      "Schrift|stem"
+    ],
+    "senses": [
+      {
+        "en": "heading",
+        "ko": "제목, 표제",
+        "examples": [
+          {
+            "text": "Die Überschrift des Textes ist kurz.",
+            "ko": "글의 제목이 짧다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "headline",
+        "ko": "(기사의) 헤드라인",
+        "examples": [
+          {
+            "text": "Die Überschrift in der Zeitung ist groß.",
+            "ko": "신문 헤드라인이 크다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Übersetzer",
+    "level": "b1",
+    "zipf": 4.02,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "m"
+      ],
+      "plural": "Übersetzer",
+      "genitive": "Übersetzers"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "übersetzen|stem",
+      "-er|suffix"
+    ],
+    "senses": [
+      {
+        "en": "translator (one who translates completed texts; male or of unspecified sex)",
+        "ko": "번역가",
+        "examples": [
+          {
+            "text": "Mein Onkel arbeitet als Übersetzer.",
+            "ko": "삼촌은 번역가로 일한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Übersetzerin",
+    "level": "b1",
+    "zipf": 2.94,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Übersetzerinnen",
+      "genitive": "Übersetzerin"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "Übersetzer|stem",
+      "-in|suffix"
+    ],
+    "senses": [
+      {
+        "en": "female equivalent of Übersetzer (“translator”)",
+        "ko": "여성 번역가",
+        "examples": [
+          {
+            "text": "Meine Tante ist Übersetzerin.",
+            "ko": "이모는 번역가다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Überstunde",
+    "level": "b1",
+    "zipf": 1.76,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Überstunden",
+      "genitive": "Überstunde"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|stem",
+      "Stunde|stem"
+    ],
+    "senses": [
+      {
+        "en": "overtime",
+        "ko": "초과 근무, 야근",
+        "examples": [
+          {
+            "text": "Heute mache ich Überstunden.",
+            "ko": "오늘 나는 야근한다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "übertreiben",
+    "level": "b1",
+    "zipf": 3.66,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "strong",
+      "reflexive": false,
+      "present3": "übertreibt",
+      "past": "übertrieb",
+      "pp": "übertrieben",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|insep",
+      "treiben|stem"
+    ],
+    "senses": [
+      {
+        "en": "to exaggerate",
+        "ko": "과장하다",
+        "examples": [
+          {
+            "text": "Du übertreibst immer!",
+            "ko": "너는 항상 과장해!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to overdo, to go overboard",
+        "ko": "지나치게 하다",
+        "examples": [
+          {
+            "text": "Beim Sport sollte man nicht übertreiben.",
+            "ko": "운동할 때는 지나치게 하면 안 된다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Überweisung",
+    "level": "b1",
+    "zipf": 3.58,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Überweisungen",
+      "genitive": "Überweisung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "überweisen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "money transfer, bank transfer",
+        "ko": "계좌 이체, 송금",
+        "examples": [
+          {
+            "text": "Die Überweisung dauert zwei Tage.",
+            "ko": "이체는 이틀 걸린다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "referral",
+        "ko": "진료 의뢰서",
+        "examples": [
+          {
+            "text": "Ich brauche eine Überweisung zum Arzt.",
+            "ko": "나는 전문의에게 가는 진료 의뢰서가 필요하다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "überzeugen",
+    "level": "b1",
+    "zipf": 4.54,
+    "pos": "verb",
+    "grammar": {
+      "type": "verb",
+      "class": "weak",
+      "reflexive": true,
+      "present3": "überzeugt",
+      "past": "überzeugte",
+      "pp": "überzeugt",
+      "aux": "haben"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "über|insep",
+      "Zeuge|stem"
+    ],
+    "senses": [
+      {
+        "en": "to convince",
+        "ko": "확신시키다, 설득하다",
+        "examples": [
+          {
+            "text": "Dein Plan überzeugt mich.",
+            "ko": "네 계획은 나를 납득시킨다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "to convince oneself",
+        "ko": "직접 확인하다",
+        "examples": [
+          {
+            "text": "Überzeug dich selbst!",
+            "ko": "직접 확인해 봐!",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Überzeugung",
+    "level": "b1",
+    "zipf": 4.18,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Überzeugungen",
+      "genitive": "Überzeugung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "überzeugen|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "conviction, belief",
+        "ko": "확신, 신념",
+        "examples": [
+          {
+            "text": "Das ist meine feste Überzeugung.",
+            "ko": "그것은 내 확고한 신념이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "üblich",
+    "level": "b1",
+    "zipf": 4.38,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj",
+      "comparative": "üblicher",
+      "superlative": "am üblichsten"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "üben|stem",
+      "-lich|suffix"
+    ],
+    "senses": [
+      {
+        "en": "usual",
+        "ko": "보통의, 흔한",
+        "examples": [
+          {
+            "text": "Das ist hier so üblich.",
+            "ko": "여기서는 그게 보통이다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "übrig",
+    "level": "b1",
+    "zipf": 4.6,
+    "pos": "adj",
+    "grammar": {
+      "type": "adj"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "left, left over; spare",
+        "ko": "남은, 여분의",
+        "examples": [
+          {
+            "text": "Ist noch Kuchen übrig?",
+            "ko": "케이크 아직 남았어?",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "übrigens",
+    "level": "b1",
+    "zipf": 5.07,
+    "pos": "adv",
+    "grammar": {
+      "type": "adv"
+    },
+    "grammar_source": "wiktionary",
+    "senses": [
+      {
+        "en": "by the way",
+        "ko": "그런데, 참고로",
+        "examples": [
+          {
+            "text": "Übrigens, morgen habe ich Geburtstag.",
+            "ko": "그런데 내일 내 생일이야.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "Übung",
+    "level": "b1",
+    "zipf": 4.23,
+    "pos": "noun",
+    "grammar": {
+      "type": "noun",
+      "gender": [
+        "f"
+      ],
+      "plural": "Übungen",
+      "genitive": "Übung"
+    },
+    "grammar_source": "wiktionary",
+    "parts": [
+      "üben|stem",
+      "-ung|suffix"
+    ],
+    "senses": [
+      {
+        "en": "practice; exercise; training; workout; drill; maneuver (the usually repeated performance of an activity for the sake of improvement and learning)",
+        "ko": "연습, 훈련, 운동",
+        "examples": [
+          {
+            "text": "Übung macht den Meister.",
+            "ko": "연습이 완벽을 만든다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "en": "practice (degree of being used to and proficient in some activity)",
+        "ko": "숙련, 익숙함",
+        "examples": [
+          {
+            "text": "Ich habe keine Übung im Schwimmen.",
+            "ko": "나는 수영에 익숙하지 않다.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]
