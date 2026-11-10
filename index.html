@@ -82,8 +82,10 @@ main { flex: 1; min-height: 0; display: flex; width: 100%; max-width: 640px; mar
 .front > :first-child { margin-top: auto; }
 .front > :last-child { margin-bottom: auto; }
 .front h2 { font-size: clamp(32px, 9vw, 48px); line-height: 1.15; margin-bottom: 12px; margin-top: 0; overflow-wrap: anywhere; }
-.score { color: var(--accent); font-size: 14px; font-weight: 600; margin: 0; }
-.lists { color: var(--muted); font-size: 13px; margin: 4px 0 0; }
+.score { display: block; color: var(--accent); font-size: 14px; font-weight: 600; margin: 0; }
+.stars { letter-spacing: 1px; white-space: nowrap; }
+.stars span { color: var(--border); }
+.stars .on { color: var(--accent); }.lists { color: var(--muted); font-size: 13px; margin: 4px 0 0; }
 .hint { color: var(--muted); font-size: 13px; margin: 20px 0 0; }
 .back { transform: rotateY(180deg); }
 .back h2, .sheet h2 { font-size: 22px; margin: 0 0 8px; overflow-wrap: anywhere; }
@@ -96,17 +98,14 @@ main { flex: 1; min-height: 0; display: flex; width: 100%; max-width: 640px; mar
 .ex { margin: 0; font-size: 15px; padding-left: 10px; border-left: 2px solid var(--accent); }
 .ex-ko { margin: 2px 0 0; padding-left: 12px; font-size: 14px; color: var(--muted); }
 .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0 0 12px; cursor: auto; }
-.part, .origin summary {
+.part {
   display: inline-flex; align-items: center; gap: 6px; min-height: 36px; padding: 0 10px; font-size: 14px; background: none;
   border: 1px solid var(--border); border-radius: 4px; cursor: pointer;
 }
 .part b { font-weight: 600; }
 .part span { font-size: 13px; color: var(--muted); }
 .part.sep { border-color: var(--accent); }
-.origin summary { color: var(--accent); font-size: 13px; font-weight: 600; list-style: none; width: max-content; }
-.origin summary::-webkit-details-marker { display: none; }
-.origin[open] { flex-basis: 100%; }
-.origin p { margin: 8px 0 0; font-size: 15px; }
+.origin { flex-basis: 100%; margin: 0; font-size: 13px; color: var(--muted); }
 .related { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 0; }
 
 /* German grammar */
@@ -146,7 +145,7 @@ main { flex: 1; min-height: 0; display: flex; width: 100%; max-width: 640px; mar
 .tools input { flex: 1; min-width: 0; }
 .tools input, .tools select { min-height: 44px; padding: 0 12px; background: var(--card); border: 1px solid var(--border); border-radius: 4px; }
 .row {
-  display: grid; grid-template-columns: minmax(0, 42%) minmax(0, 1fr) 28px; gap: 8px; align-items: center; width: 100%; min-height: 48px;
+  display: grid; grid-template-columns: minmax(0, 42%) minmax(0, 1fr) auto; gap: 8px; align-items: center; width: 100%; min-height: 48px;
   padding: 4px 0; text-align: left; background: none; border: 0; border-bottom: 1px solid var(--border);
   content-visibility: auto; contain-intrinsic-size: auto 48px;
 }
@@ -224,8 +223,8 @@ dialog::backdrop { background: rgba(0, 0, 0, .45); }
     <div class="tools">
       <input id="q" type="search" placeholder="단어 또는 뜻 검색" aria-label="단어 또는 뜻 검색" autocomplete="off" autocapitalize="off" spellcheck="false">
       <select id="sort" aria-label="정렬 기준">
-        <option value="abc">알파벳순</option>
-        <option value="score">중요도순</option>
+        <option value="abc">A–Z</option>
+        <option value="score">Importance</option>
       </select>
     </div>
     <p class="sub" id="count" aria-live="polite"></p>
@@ -293,6 +292,15 @@ const el = (tag, cls, text) => {
   if (text != null) n.textContent = text;
   return n;
 };
+// 중요도 → 별 3개 (0-40: 1, 40-60: 2, 60-80: 2 + 테두리 별, 80-100: 3)
+function stars(score, cls = "") {
+  const n = score < 40 ? 1 : score < 60 ? 2 : score < 80 ? 2.5 : 3;
+  const s = el("span", `stars ${cls}`);
+  s.setAttribute("role", "img");
+  s.setAttribute("aria-label", `중요도 별 ${n}개`);
+  for (let i = 1; i <= 3; i++) s.append(i <= n ? el("span", "on", "★") : i - 0.5 === n ? el("span", "on", "☆") : el("span", "", "★"));
+  return s;
+}
 const getJSON = (url) => fetch(url).then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); });
 
 let lang = "en", cfg = LANGS.en, words = [], byWord = new Map(), parts = {}, extra = null;
@@ -496,9 +504,7 @@ function wordMeta(w) {
     meta.append(b);
   });
   if (w.origin) {
-    const d = el("details", "origin");
-    d.append(el("summary", "", "유래"), el("p", "", w.origin.ko));
-    meta.append(d);
+    meta.append(el("p", "origin", w.origin.ko));
   }
   return [meta];
 }
@@ -511,7 +517,7 @@ function frontOf(w) {
   if (lang === "de") {
     out.push(el("p", "gline", grammarLine(w)), el("p", "lists", w.level.toUpperCase()));
   } else {
-    out.push(el("p", "score", `중요도 ${w.score}`), el("p", "lists", w.lists.map((l) => NAMES[l] || l).join(" · ")));
+    out.push(stars(w.score, "score"), el("p", "lists", w.lists.map((l) => NAMES[l] || l).join(" · ")));
   }
   return out;
 }
@@ -582,7 +588,7 @@ async function showWord(raw) {
   const body = openSheet(title);
   if (entry) {
     if (lang === "de") body.append(el("p", "gline", `${entry.level.toUpperCase()} · ${grammarLine(entry)}`), ...grammarTable(entry));
-    else body.append(el("p", "score", `중요도 ${entry.score}`));
+    else body.append(stars(entry.score, "score"));
     body.append(...wordMeta(entry), ...entry.senses.map(senseBox));
   } else {
     body.append(el("p", "note", "불러오는 중…"));
@@ -650,7 +656,7 @@ function buildRows() {
     const gloss = w.senses.map((s) => s.ko || s.en).join(" / ");
     const name = el("span", "w");
     name.append(headword(w));
-    b.append(name, el("span", "m", gloss), el("span", "s", lang === "de" ? w.level.toUpperCase() : w.score));
+    b.append(name, el("span", "m", gloss), lang === "de" ? el("span", "s", w.level.toUpperCase()) : stars(w.score, "s"));
     b.onclick = () => showWord(w.word);
     return { w, b, text: `${w.word} ${gloss}`.toLowerCase() };
   });
@@ -707,7 +713,9 @@ async function route() {
   }
   store.set("lang", lang);
   $("fill").style.width = "0";
-  $("sort").options[1].textContent = lang === "de" ? "레벨·빈도순" : "중요도순";
+  $("sort").options[1].textContent = lang === "de" ? "Niveau" : "Importance";
+  $("q").placeholder = lang === "de" ? "Wort oder Bedeutung suchen" : "Search words or meanings";
+  $("q").setAttribute("aria-label", $("q").placeholder);
   if (view === "days") { deck = null; renderDays(); show("days", "days"); }
   else if (view === "list") {
     deck = null;
