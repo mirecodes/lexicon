@@ -1,0 +1,206 @@
+[
+  {
+    "word": "jejune",
+    "score": 27,
+    "zipf": 1.64,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "displaying or suggesting a lack of maturity",
+        "ko": "유치한, 미숙한",
+        "synonyms": [
+          "puerile",
+          "juvenile",
+          "immature",
+          "naive",
+          "childish"
+        ],
+        "examples": [
+          {
+            "text": "Critics dismissed the novel as a jejune exercise in adolescent angst.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "lacking interest or significance or impact",
+        "ko": "무미건조한, 알맹이 없는",
+        "synonyms": [
+          "insipid",
+          "bland",
+          "vapid",
+          "dull"
+        ],
+        "examples": [
+          {
+            "text": "The lecture was so jejune that half the audience left before it ended.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 iēiūnus '굶주린, 단식하는'에서 왔습니다. 영양이 부족하다는 데서 '내용이 빈약한, 유치한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "jeopardize",
+    "score": 30,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To put in jeopardy, to threaten.",
+        "ko": "위태롭게 하다, 위험에 빠뜨리다",
+        "synonyms": [
+          "endanger",
+          "imperil",
+          "threaten",
+          "risk",
+          "compromise"
+        ],
+        "examples": [
+          {
+            "text": "This mission is too important for me to allow you to jeopardize it.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "jet",
+    "score": 18,
+    "zipf": 4.29,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "issue in a jet; come out in a jet; stream or spring forth",
+        "ko": "분출하다, 내뿜다",
+        "synonyms": [
+          "gush",
+          "spurt",
+          "spout",
+          "squirt"
+        ],
+        "examples": [
+          {
+            "text": "flames were jetting out of the building",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of the blackest black; similar to the color of jet or coal",
+        "ko": "새까만, 칠흑 같은",
+        "synonyms": [
+          "coal-black",
+          "jet-black",
+          "pitch-black",
+          "sooty",
+          "ebony"
+        ],
+        "examples": [
+          {
+            "text": "Her jet hair stood out sharply against the pale winter landscape.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ject"
+    ],
+    "origin": {
+      "ko": "프랑스어 jet '던지기'에서 왔고 라틴어 iacere '던지다'와 이어집니다. 내던지듯 뿜어져 나오는 것이 '분출'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "jettison",
+    "score": 68,
+    "zipf": 2.54,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To let go or get rid of as being useless or defective.",
+        "ko": "버리다, 폐기하다",
+        "synonyms": [
+          "discard",
+          "abandon",
+          "scrap",
+          "dump",
+          "shed"
+        ],
+        "examples": [
+          {
+            "text": "The new administration was quick to jettison its predecessor's most costly programs.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To eject from a boat, submarine, aircraft, spaceship or hot-air balloon, so as to lighten the load.",
+        "ko": "(짐을) 배 밖으로 버리다, 투하하다",
+        "synonyms": [
+          "cast off",
+          "discard",
+          "dump",
+          "unload"
+        ],
+        "examples": [
+          {
+            "text": "The ballooners had to jettison all of their sand bags to make it over the final hill.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ject"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 geter '던지다'에서 왔습니다. 배의 짐을 바다에 던져 버린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

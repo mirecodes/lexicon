@@ -1,0 +1,838 @@
+[
+  {
+    "word": "accede",
+    "score": 52,
+    "zipf": 2.5,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "yield to another's wish or opinion",
+        "ko": "(요구를) 들어주다, 동의하다",
+        "synonyms": [
+          "concede",
+          "yield",
+          "acquiesce",
+          "assent",
+          "comply"
+        ],
+        "examples": [
+          {
+            "text": "After weeks of protest, the administration finally acceded to the students' demands for lower fees.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "take on duties or office",
+        "ko": "(왕위·직위에) 오르다",
+        "synonyms": [
+          "succeed",
+          "assume",
+          "inherit",
+          "enter"
+        ],
+        "examples": [
+          {
+            "text": "She acceded to the throne at the age of eighteen, following her father's sudden death.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "ced"
+    ],
+    "origin": {
+      "ko": "라틴어 accedere(다가가다)에서 왔습니다. 상대 쪽으로 다가서 양보하는 데서 '들어주다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "accentuate",
+    "score": 49,
+    "zipf": 2.76,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to stress, single out as important",
+        "ko": "강조하다, 두드러지게 하다",
+        "synonyms": [
+          "emphasize",
+          "highlight",
+          "underscore",
+          "stress",
+          "accent"
+        ],
+        "examples": [
+          {
+            "text": "The report accentuates the need for stronger oversight of the banking sector.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "cant",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 accentuare에서 왔으며 accent(악센트)에서 나왔습니다. 소리를 두드러지게 하는 데서 '강조하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "accessible",
+    "score": 19,
+    "zipf": 4.18,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "capable of being read with comprehension",
+        "ko": "이해하기 쉬운",
+        "synonyms": [
+          "approachable",
+          "comprehensible",
+          "understandable",
+          "readable"
+        ],
+        "examples": [
+          {
+            "text": "The author makes complex economic theory accessible to readers with no background in the subject.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Easy to get along with.",
+        "ko": "다가가기 쉬운, 친근한",
+        "synonyms": [
+          "approachable",
+          "friendly",
+          "affable",
+          "welcoming"
+        ],
+        "examples": [
+          {
+            "text": "Despite her fame, the professor remained accessible to students who wanted advice.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "ced",
+      "-able"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 accessibilis에서 왔습니다. 다가갈 수 있다는 뜻에서 '이해하기 쉬운'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "acclaim",
+    "score": 28,
+    "zipf": 3.29,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "praise vociferously",
+        "ko": "극찬하다, 환호하며 칭송하다",
+        "synonyms": [
+          "hail",
+          "applaud",
+          "extol",
+          "laud",
+          "praise"
+        ],
+        "examples": [
+          {
+            "text": "Critics acclaimed the debut novel as the most original work of the decade.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "enthusiastic approval",
+        "ko": "갈채, 극찬",
+        "synonyms": [
+          "acclamation",
+          "plaudits",
+          "praise",
+          "applause",
+          "kudos"
+        ],
+        "examples": [
+          {
+            "text": "The film earned widespread critical acclaim, though audiences were slower to warm to it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "clam"
+    ],
+    "origin": {
+      "ko": "라틴어 acclamare(소리 질러 환호하다)에서 왔습니다. 큰 소리로 외쳐 칭송하는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "accolade",
+    "score": 33,
+    "zipf": 2.82,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a tangible symbol signifying approval or distinction",
+        "ko": "포상, 영예의 표시",
+        "synonyms": [
+          "award",
+          "honor",
+          "tribute",
+          "laurels",
+          "distinction"
+        ],
+        "examples": [
+          {
+            "text": "The architect received many accolades for the museum, including the profession's highest prize.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "coll"
+    ],
+    "origin": {
+      "ko": "프랑스어 accolade(포옹)에서 왔고 라틴어 collum(목)에서 나왔습니다. 기사 서임 때 목을 껴안던 의식에서 '영예의 표시'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "accord",
+    "score": 23,
+    "zipf": 3.81,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a written agreement between two states or sovereigns",
+        "ko": "협정, 조약",
+        "synonyms": [
+          "treaty",
+          "pact",
+          "agreement",
+          "settlement",
+          "concord"
+        ],
+        "examples": [
+          {
+            "text": "The two nations signed a peace accord ending nearly a decade of border disputes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "harmony of people's opinions or actions or characters",
+        "ko": "일치, 조화",
+        "synonyms": [
+          "agreement",
+          "harmony",
+          "unison",
+          "concurrence",
+          "rapport"
+        ],
+        "examples": [
+          {
+            "text": "The committee members worked in rare accord, quickly settling the budget questions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "cord"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 acorder(마음을 맞추다)에서 왔습니다. 마음이 맞은 결과가 '협정'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "accretion",
+    "score": 49,
+    "zipf": 2.78,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an increase by natural growth or addition",
+        "ko": "점진적 증가, 부착 성장",
+        "synonyms": [
+          "accumulation",
+          "growth",
+          "buildup",
+          "accrual"
+        ],
+        "examples": [
+          {
+            "text": "The delta formed through the slow accretion of silt carried down the river over millennia.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "cresc",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 accrescere(더해져 자라다)에서 왔습니다. 조금씩 덧붙어 커지는 현상을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "acerbic",
+    "score": 50,
+    "zipf": 2.31,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "harsh or corrosive in tone",
+        "ko": "신랄한, 가시 돋친",
+        "synonyms": [
+          "acrid",
+          "caustic",
+          "biting",
+          "trenchant",
+          "bitter"
+        ],
+        "examples": [
+          {
+            "text": "The columnist was known for her acerbic wit, which spared neither politicians nor fellow journalists.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "acr"
+    ],
+    "origin": {
+      "ko": "라틴어 acerbus(시고 쓴)에서 왔습니다. 혀를 찌르는 신맛이 말투의 '신랄함'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "acidulous",
+    "score": 38,
+    "zipf": 1.07,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Sharp; caustic.",
+        "ko": "톡 쏘는, 신랄한",
+        "synonyms": [
+          "caustic",
+          "acerbic",
+          "biting",
+          "sharp",
+          "tart"
+        ],
+        "examples": [
+          {
+            "text": "The critic's acidulous review left the playwright wounded and the cast quietly furious.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "being sour to the taste",
+        "ko": "약간 신맛이 나는",
+        "synonyms": [
+          "sour",
+          "tart",
+          "acidic",
+          "sourish"
+        ],
+        "examples": [
+          {
+            "text": "The acidulous sauce balanced the richness of the roasted duck.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "acid",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 acidulus(약간 신)에서 왔습니다. 약간 시큼한 맛이 톡 쏘는 말투를 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "acme",
+    "score": 80,
+    "zipf": 2.89,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the highest level or degree attainable; the highest stage of development",
+        "ko": "절정, 정점",
+        "synonyms": [
+          "pinnacle",
+          "zenith",
+          "apex",
+          "peak",
+          "apogee"
+        ],
+        "examples": [
+          {
+            "text": "Many critics regard the symphony as the acme of the composer's creative career.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 akmē(뾰족한 끝, 정점)를 그대로 빌려온 말입니다. 가장 높은 꼭대기를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "acolyte",
+    "score": 35,
+    "zipf": 2.41,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An attendant, assistant, or follower.",
+        "ko": "수행원, 추종자",
+        "synonyms": [
+          "follower",
+          "attendant",
+          "assistant",
+          "disciple",
+          "devotee"
+        ],
+        "examples": [
+          {
+            "text": "The famous chef arrived at the market followed by a small group of eager acolytes.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 akolouthos(따르는 사람, 시종)에서 왔습니다. 뒤따르며 시중드는 사람이 '추종자'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "acquiesce",
+    "score": 52,
+    "zipf": 2.48,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to agree or express agreement",
+        "ko": "마지못해 따르다, 묵인하다",
+        "synonyms": [
+          "assent",
+          "comply",
+          "yield",
+          "consent",
+          "submit"
+        ],
+        "examples": [
+          {
+            "text": "Though she doubted the plan, she acquiesced rather than prolong the argument with her partners.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "qui"
+    ],
+    "origin": {
+      "ko": "라틴어 acquiescere(~에서 쉬다)에서 왔습니다. 맞서지 않고 편히 내려놓는 모습이 '묵인하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "acquisitive",
+    "score": 33,
+    "zipf": 2.17,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "eager to acquire and possess things especially material possessions or ideas",
+        "ko": "탐욕스러운, 욕심 많은",
+        "synonyms": [
+          "greedy",
+          "avaricious",
+          "covetous",
+          "grasping",
+          "rapacious"
+        ],
+        "examples": [
+          {
+            "text": "The acquisitive young banker spent his weekends hunting for rare paintings to add to his collection.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "quer(구하다)",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "라틴어 acquisitus(얻은)에서 왔습니다. 계속 얻으려는 성향이 '탐욕스러운'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "acrimonious",
+    "score": 36,
+    "zipf": 2.55,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by strong resentment or cynicism",
+        "ko": "격렬하고 적대적인, 험악한",
+        "synonyms": [
+          "bitter",
+          "rancorous",
+          "caustic",
+          "hostile",
+          "spiteful"
+        ],
+        "examples": [
+          {
+            "text": "The acrimonious divorce dragged on for years, with each side accusing the other of deceit.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "acr",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 acrimonia(매서움)에서 왔고 acer(날카로운)와 연결됩니다. 맛이 맵고 쓰듯 말이 험악하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "acrimony",
+    "score": 34,
+    "zipf": 2.34,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a rough and bitter manner",
+        "ko": "독설, 격한 적의",
+        "synonyms": [
+          "bitterness",
+          "acerbity",
+          "rancor",
+          "asperity",
+          "animosity"
+        ],
+        "examples": [
+          {
+            "text": "The negotiations ended in acrimony, with neither delegation willing to shake hands.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "acr"
+    ],
+    "origin": {
+      "ko": "라틴어 acrimonia(날카로움, 매운맛)에서 왔습니다. 혀가 얼얼한 매서움이 '독설'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "activism",
+    "score": 24,
+    "zipf": 3.67,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a policy of taking direct action to achieve a political or social goal",
+        "ko": "행동주의, 적극적 사회 참여 운동",
+        "synonyms": [
+          "advocacy",
+          "campaigning",
+          "militancy"
+        ],
+        "examples": [
+          {
+            "text": "Student activism on the campus grew sharply after the university announced steep tuition increases.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ag",
+      "-ism"
+    ],
+    "origin": {
+      "ko": "active에 -ism이 붙은 말입니다. 말보다 직접 행동한다는 입장을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "actuate",
+    "score": 32,
+    "zipf": 2.1,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "give an incentive for action",
+        "ko": "~하도록 동기를 부여하다, 자극하다",
+        "synonyms": [
+          "motivate",
+          "prompt",
+          "impel",
+          "incite",
+          "move"
+        ],
+        "examples": [
+          {
+            "text": "Investigators wanted to know what motive had actuated the clerk to destroy the records.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "put in motion or move to act",
+        "ko": "작동시키다, 가동하다",
+        "synonyms": [
+          "activate",
+          "trigger",
+          "start",
+          "set off"
+        ],
+        "examples": [
+          {
+            "text": "Pressing the lever actuates a valve that releases steam into the turbine.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ag",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 actuare에서 왔으며 라틴어 agere(행하다)에서 나왔습니다. 행동하게 만든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "acumen",
+    "score": 64,
+    "zipf": 2.91,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "shrewdness shown by keen insight",
+        "ko": "예리한 통찰력, 날카로운 판단력",
+        "synonyms": [
+          "shrewdness",
+          "astuteness",
+          "acuity",
+          "sagacity",
+          "keenness"
+        ],
+        "examples": [
+          {
+            "text": "Her political acumen allowed her to anticipate the opposition's strategy months before it was announced.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "acu"
+    ],
+    "origin": {
+      "ko": "라틴어 acumen(날카로운 끝)에서 왔습니다. 바늘 끝처럼 날카로운 판단력을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

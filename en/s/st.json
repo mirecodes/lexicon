@@ -1,0 +1,2140 @@
+[
+  {
+    "word": "staid",
+    "score": 51,
+    "zipf": 2.58,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by dignity and propriety",
+        "ko": "침착한, 점잖은",
+        "synonyms": [
+          "sedate",
+          "sober",
+          "demure",
+          "steady"
+        ],
+        "examples": [
+          {
+            "text": "The staid accounting firm was startled by the new partner's flamboyant approach to client meetings.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "stay의 과거분사 stayed의 옛 철자에서 왔습니다. 흔들리지 않고 자리를 지키는 점잖은 태도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stake",
+    "score": 19,
+    "zipf": 4.15,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A share or interest in a business or a given situation.",
+        "ko": "지분, 이해관계",
+        "synonyms": [
+          "interest",
+          "share",
+          "investment"
+        ],
+        "examples": [
+          {
+            "text": "The owners let the managers eventually earn a stake in the business.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "put at risk",
+        "ko": "걸다, 위험에 내맡기다",
+        "synonyms": [
+          "risk",
+          "hazard",
+          "venture",
+          "wager",
+          "jeopardize"
+        ],
+        "examples": [
+          {
+            "text": "I will stake my good reputation for this",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A piece of wood or other material, usually long and slender, pointed at one end so as to be easily driven into the ground as a marker or a support or stay.",
+        "ko": "말뚝",
+        "synonyms": [
+          "post",
+          "stave"
+        ],
+        "examples": [
+          {
+            "text": "We have surveyor's stakes at all four corners of this field, to mark exactly its borders.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 staca(말뚝)에서 왔습니다. 말뚝을 박아 내 몫을 표시하는 이미지로 지분이라는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stalwart",
+    "score": 48,
+    "zipf": 2.91,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "dependable",
+        "ko": "믿음직한, 충실한",
+        "synonyms": [
+          "loyal",
+          "staunch",
+          "steadfast",
+          "resolute"
+        ],
+        "examples": [
+          {
+            "text": "a stalwart supporter of the UN",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having rugged physical strength; inured to fatigue or hardships",
+        "ko": "건장한, 튼튼한",
+        "synonyms": [
+          "sturdy",
+          "robust",
+          "hardy",
+          "stout"
+        ],
+        "examples": [
+          {
+            "text": "proud of her tall stalwart son",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "One who firmly supports a cause.",
+        "ko": "열성적 지지자, 충직한 사람",
+        "synonyms": [
+          "loyalist",
+          "partisan",
+          "diehard"
+        ],
+        "examples": [
+          {
+            "text": "The party's stalwarts gathered at headquarters to defend the leader after the scandal broke.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 stǣlwierþe(제 구실을 하는, 쓸모 있는)에서 왔습니다. 굳건히 제자리를 지키는 믿음직한 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stanch",
+    "score": 46,
+    "zipf": 1.93,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "stop the flow of a liquid",
+        "ko": "흐름을 막다, 지혈하다",
+        "synonyms": [
+          "staunch",
+          "stem",
+          "halt",
+          "check"
+        ],
+        "examples": [
+          {
+            "text": "A small amount of cotton can be stuffed into the nose to stanch the flow of blood if necessary.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To check or stop, or deter (an action).",
+        "ko": "저지하다, 억제하다",
+        "synonyms": [
+          "curb",
+          "halt",
+          "arrest"
+        ],
+        "examples": [
+          {
+            "text": "Beijing devotes immense resources to restricting access for and stanching scrutiny from international groups and reporters.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 estanchier(흐름을 막다)에서 왔습니다. 피나 물이 흐르는 것을 멈춘다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "standing",
+    "score": 16,
+    "zipf": 4.86,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "social or financial or professional status or reputation",
+        "ko": "지위, 평판",
+        "synonyms": [
+          "status",
+          "reputation",
+          "stature",
+          "rank"
+        ],
+        "examples": [
+          {
+            "text": "a member in good standing",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Remaining in force or status; ongoing.",
+        "ko": "상설의, 고정된",
+        "synonyms": [
+          "permanent",
+          "ongoing",
+          "established"
+        ],
+        "examples": [
+          {
+            "text": "standing committee",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "stand"
+    ],
+    "origin": {
+      "ko": "stand(서다)에 -ing이 붙은 말입니다. 사회에서 서 있는 위치가 지위와 평판이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stark",
+    "score": 21,
+    "zipf": 4.01,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "complete or extreme",
+        "ko": "극명한, 완전한",
+        "synonyms": [
+          "utter",
+          "sheer",
+          "absolute",
+          "glaring"
+        ],
+        "examples": [
+          {
+            "text": "A flower was growing, in stark contrast, out of the sidewalk.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "severely simple",
+        "ko": "꾸밈없는, 삭막한",
+        "synonyms": [
+          "austere",
+          "severe",
+          "bare",
+          "plain"
+        ],
+        "examples": [
+          {
+            "text": "a stark interior",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "devoid of any qualifications or disguise or adornment",
+        "ko": "적나라한, 가감 없는",
+        "synonyms": [
+          "blunt",
+          "unvarnished",
+          "bald"
+        ],
+        "examples": [
+          {
+            "text": "The report gave a stark, unvarnished account of the factory's safety failures.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "providing no shelter or sustenance",
+        "ko": "황량한, 불모의",
+        "synonyms": [
+          "bleak",
+          "barren",
+          "desolate",
+          "bare"
+        ],
+        "examples": [
+          {
+            "text": "I picked my way forlornly through the stark, sharp rocks.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 stearc(뻣뻣한, 강한)에서 왔습니다. 꾸밈없이 뻣뻣하고 적나라해 극명하다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "start",
+    "score": 16,
+    "zipf": 5.56,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "move or jump suddenly, as if in surprise or alarm",
+        "ko": "깜짝 놀라다",
+        "synonyms": [
+          "startle",
+          "flinch",
+          "jump"
+        ],
+        "examples": [
+          {
+            "text": "She startled when I walked into the room",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "bring into being",
+        "ko": "시작하다, 창설하다",
+        "synonyms": [
+          "originate",
+          "initiate",
+          "found",
+          "launch"
+        ],
+        "examples": [
+          {
+            "text": "Who started this company?",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 styrtan(뛰어오르다)에서 왔습니다. 깜짝 놀라 펄쩍 뛴다는 뜻이 남아 있습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stasis",
+    "score": 47,
+    "zipf": 2.99,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "inactivity resulting from a static balance between opposing forces",
+        "ko": "정체, 평형 상태",
+        "synonyms": [
+          "stagnation",
+          "inertia",
+          "equilibrium"
+        ],
+        "examples": [
+          {
+            "text": "His company was sized for growth, not stasis.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an abnormal state in which the normal flow of a liquid (such as blood) is slowed or stopped",
+        "ko": "(혈액 등의) 정체",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "Venous stasis in the legs can lead to dangerous clots after a long flight.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "st",
+      "-sis"
+    ],
+    "origin": {
+      "ko": "그리스어 stasis(멈춰 서 있음)에서 왔습니다. 움직임 없이 멈춘 정체 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "static",
+    "score": 20,
+    "zipf": 4.05,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing little if any change",
+        "ko": "정적인, 변화 없는",
+        "synonyms": [
+          "unchanging",
+          "stable",
+          "stationary",
+          "fixed"
+        ],
+        "examples": [
+          {
+            "text": "a static population",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "angry criticism",
+        "ko": "거센 비난, 반발",
+        "synonyms": [
+          "flak",
+          "criticism",
+          "backlash"
+        ],
+        "examples": [
+          {
+            "text": "they will probably give you a lot of static about your editorial",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "st",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 statikos(멈추게 하는)에서 왔고 histēmi(세우다)와 이어집니다. 서 있어 변하지 않는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "status quo",
+    "score": 24,
+    "zipf": 3.75,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the existing state of affairs",
+        "ko": "현재 상태, 현상 유지",
+        "synonyms": [
+          "existing order",
+          "current situation"
+        ],
+        "examples": [
+          {
+            "text": "Conservative lawmakers resisted the reform because they preferred to preserve the status quo.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "st"
+    ],
+    "origin": {
+      "ko": "라틴어 status quo(있는 그대로의 상태)에서 왔습니다. 현재 그 상태를 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "staunch",
+    "score": 29,
+    "zipf": 3.2,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "firm and dependable especially in loyalty",
+        "ko": "충실한, 변함없는",
+        "synonyms": [
+          "steadfast",
+          "loyal",
+          "resolute",
+          "unswerving"
+        ],
+        "examples": [
+          {
+            "text": "a staunch defender of free speech",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "stop the flow of a liquid",
+        "ko": "흐름을 막다, 지혈하다",
+        "synonyms": [
+          "stanch",
+          "stem",
+          "halt"
+        ],
+        "examples": [
+          {
+            "text": "staunch the blood flow",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 estanche(물이 새지 않는, 견고한)에서 왔습니다. 물 샐 틈 없이 단단하다는 데서 충실하다는 뜻이 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "steadfast",
+    "score": 46,
+    "zipf": 3.14,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by firm determination or resolution; not shakable",
+        "ko": "확고부동한, 흔들리지 않는",
+        "synonyms": [
+          "unwavering",
+          "resolute",
+          "unshakable",
+          "firm"
+        ],
+        "examples": [
+          {
+            "text": "Despite years of setbacks, she remained steadfast in her commitment to the research.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Firmly loyal or constant; unswerving.",
+        "ko": "충실한, 변함없는",
+        "synonyms": [
+          "loyal",
+          "constant",
+          "staunch",
+          "faithful"
+        ],
+        "examples": [
+          {
+            "text": "steadfast support",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "stead",
+      "fast"
+    ],
+    "origin": {
+      "ko": "고대 영어 stedefæst에서 왔고 stead(자리)와 fast(단단한)가 합쳐졌습니다. 제자리에 단단히 박혀 흔들리지 않습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "steep",
+    "score": 37,
+    "zipf": 3.99,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To imbue with something; to immerse deeply in.",
+        "ko": "푹 빠지게 하다, 스며들게 하다",
+        "synonyms": [
+          "immerse",
+          "imbue",
+          "saturate",
+          "soak"
+        ],
+        "examples": [
+          {
+            "text": "a town steeped in history",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "greatly exceeding bounds of reason or moderation",
+        "ko": "터무니없는, 과도한",
+        "synonyms": [
+          "exorbitant",
+          "excessive",
+          "extortionate",
+          "unreasonable"
+        ],
+        "examples": [
+          {
+            "text": "Many residents found the new rents too steep to afford and began leaving the neighborhood.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having a sharp inclination",
+        "ko": "가파른",
+        "synonyms": [
+          "sheer",
+          "precipitous"
+        ],
+        "examples": [
+          {
+            "text": "steep cliffs",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "동사 steep은 고대 노르드어 steypa(쏟다, 담그다)에서 왔습니다. 액체에 푹 담가 스며들게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stem",
+    "score": 18,
+    "zipf": 4.3,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "stop the flow of a liquid",
+        "ko": "막다, 저지하다",
+        "synonyms": [
+          "stanch",
+          "staunch",
+          "halt",
+          "check",
+          "curb"
+        ],
+        "examples": [
+          {
+            "text": "stem the tide",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "grow out of, have roots in, originate in",
+        "ko": "~에서 비롯되다",
+        "synonyms": [
+          "originate",
+          "derive",
+          "spring",
+          "arise"
+        ],
+        "examples": [
+          {
+            "text": "The increase in the national debt stems from the last war",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a slender or elongated structure that supports a plant or fungus or a plant part or plant organ",
+        "ko": "줄기",
+        "synonyms": [
+          "stalk"
+        ],
+        "examples": [
+          {
+            "text": "the stem of an apple or a cherry",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "동사 stem은 고대 노르드어 stemma(막다)에서 왔습니다. 흐름을 둑으로 막는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stentorian",
+    "score": 60,
+    "zipf": 1.71,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(used of the voice or sound) deep and resonant",
+        "ko": "우렁찬, 목소리가 큰",
+        "synonyms": [
+          "booming",
+          "loud",
+          "thunderous",
+          "resonant"
+        ],
+        "examples": [
+          {
+            "text": "The drill sergeant's stentorian voice carried across the entire parade ground.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-an"
+    ],
+    "origin": {
+      "ko": "호메로스의 일리아스에서 목소리가 컸던 전령 스텐토르의 이름에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stern",
+    "score": 22,
+    "zipf": 3.9,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "severe and unremitting in making demands",
+        "ko": "엄격한, 가혹한",
+        "synonyms": [
+          "strict",
+          "exacting",
+          "severe",
+          "harsh"
+        ],
+        "examples": [
+          {
+            "text": "The remark earned me a stern rebuke.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not to be placated or appeased or moved by entreaty",
+        "ko": "냉혹한, 굽힐 줄 모르는",
+        "synonyms": [
+          "inexorable",
+          "relentless",
+          "unforgiving",
+          "grim"
+        ],
+        "examples": [
+          {
+            "text": "The stern judge showed no mercy and refused every plea for leniency.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 styrne(엄격한)에서 왔습니다. 굳고 엄하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stevedore",
+    "score": 30,
+    "zipf": 1.89,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a laborer who loads and unloads vessels in a port",
+        "ko": "항만 하역 인부",
+        "synonyms": [
+          "docker",
+          "longshoreman",
+          "dockhand"
+        ],
+        "examples": [
+          {
+            "text": "The stevedores worked through the night to unload the grain freighter before the storm arrived.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "스페인어 estibador(짐을 싣는 사람)에서 왔고 '빽빽이 채워 넣다'라는 뜻의 라틴어와 이어집니다. 배에 짐을 채워 넣는 인부입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stifle",
+    "score": 31,
+    "zipf": 3.0,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "suppress or constrain so as to lessen in intensity",
+        "ko": "억누르다, 억제하다",
+        "synonyms": [
+          "suppress",
+          "smother",
+          "repress",
+          "curb",
+          "muffle"
+        ],
+        "examples": [
+          {
+            "text": "The army stifled the rebellion.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "impair the respiration of or obstruct the air passage of",
+        "ko": "숨 막히게 하다, 질식시키다",
+        "synonyms": [
+          "suffocate",
+          "smother",
+          "choke",
+          "asphyxiate"
+        ],
+        "examples": [
+          {
+            "text": "The heat was stifling the children.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 stuflen(숨이 막히다)에서 왔고 더 이전 어원은 불확실합니다. 숨통을 막아 억누른다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stigma",
+    "score": 40,
+    "zipf": 3.69,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a symbol of disgrace or infamy",
+        "ko": "오명, 낙인",
+        "synonyms": [
+          "disgrace",
+          "brand",
+          "taint",
+          "stain"
+        ],
+        "examples": [
+          {
+            "text": "Hence, the stigma attached to mental disorders in general forms the basis of the stigma towards women with mental health problems. […]",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 stigma(노예나 죄인에게 찍던 표시)에서 왔고 stizō(찍다)와 이어집니다. 살갗에 찍은 낙인이 오명이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stigmatize",
+    "score": 33,
+    "zipf": 2.22,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to accuse or condemn or openly or formally or brand as disgraceful",
+        "ko": "낙인을 찍다, 비난하다",
+        "synonyms": [
+          "brand",
+          "denounce",
+          "vilify",
+          "condemn"
+        ],
+        "examples": [
+          {
+            "text": "She was stigmatized by society because she had a child out of wedlock",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "stigm",
+      "-ize"
+    ],
+    "origin": {
+      "ko": "그리스어 stigma(낙인)에 동사 접미사 -ize가 붙었습니다. 낙인을 찍는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stilted",
+    "score": 35,
+    "zipf": 2.56,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "artificially formal",
+        "ko": "딱딱한, 부자연스러운",
+        "synonyms": [
+          "stiff",
+          "affected",
+          "contrived",
+          "artificial",
+          "pompous"
+        ],
+        "examples": [
+          {
+            "text": "He gave a stilted bow and left.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "stilt(죽마)에 -ed가 붙은 말입니다. 죽마를 타고 걷듯 부자연스럽고 딱딱하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stingy",
+    "score": 31,
+    "zipf": 3.03,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unwilling to spend (money, time, resources, etc.)",
+        "ko": "인색한",
+        "synonyms": [
+          "miserly",
+          "tightfisted",
+          "niggardly",
+          "parsimonious"
+        ],
+        "examples": [
+          {
+            "text": "she practices economy without being stingy",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "deficient in amount or quality or extent",
+        "ko": "빈약한, 부족한",
+        "synonyms": [
+          "meager",
+          "scanty",
+          "skimpy"
+        ],
+        "examples": [
+          {
+            "text": "The stingy portions left the guests hungry, and the budget hotel offered only meager breakfasts.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "sting의 방언형에서 온 것으로 추정되며 확실하지 않습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stint",
+    "score": 41,
+    "zipf": 3.61,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "supply sparingly and with restricted quantities",
+        "ko": "아끼다, 인색하게 주다",
+        "synonyms": [
+          "skimp",
+          "scant",
+          "scrimp"
+        ],
+        "examples": [
+          {
+            "text": "The next party you throw, don't stint on the beer.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A period of time spent doing or being something; a spell.",
+        "ko": "(일정) 기간 근무, 활동 기간",
+        "synonyms": [
+          "spell",
+          "stretch",
+          "shift"
+        ],
+        "examples": [
+          {
+            "text": "He had a stint in jail.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 styntan(무디게 하다, 짧게 하다)에서 왔습니다. 양을 줄여 아낀다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stinting",
+    "score": 23,
+    "zipf": 1.19,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "avoiding waste",
+        "ko": "절약하는, 아끼는",
+        "synonyms": [
+          "frugal",
+          "sparing",
+          "economical",
+          "thrifty"
+        ],
+        "examples": [
+          {
+            "text": "The charity was anything but stinting in its praise of the volunteers who staffed the shelter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "stipend",
+    "score": 31,
+    "zipf": 3.01,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a sum of money allotted on a regular basis; usually for some specific purpose",
+        "ko": "정기 수당, 장학금",
+        "synonyms": [
+          "allowance",
+          "salary",
+          "grant",
+          "pension"
+        ],
+        "examples": [
+          {
+            "text": "My stipend for doing public service is barely enough to cover living expenses.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "stip",
+      "pend"
+    ],
+    "origin": {
+      "ko": "라틴어 stīpendium(병사의 급료)에서 왔습니다. 동전을 달아 지급하던 데서 정기 수당이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stipulate",
+    "score": 49,
+    "zipf": 2.77,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement",
+        "ko": "(계약 조건으로) 명기하다, 규정하다",
+        "synonyms": [
+          "specify",
+          "require",
+          "provide",
+          "condition"
+        ],
+        "examples": [
+          {
+            "text": "The contract stipulates the dates of the payments",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To acknowledge the truth of; not to challenge.",
+        "ko": "(소송에서) 사실로 인정하다",
+        "synonyms": [
+          "concede",
+          "grant"
+        ],
+        "examples": [
+          {
+            "text": "The defense stipulates that the witness has identified my client.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 stipulor(정식 약속을 요구하다)에서 왔습니다. 계약에 조건을 못 박는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stock",
+    "score": 16,
+    "zipf": 4.93,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "repeated too often; overfamiliar through overuse",
+        "ko": "진부한, 틀에 박힌",
+        "synonyms": [
+          "hackneyed",
+          "trite",
+          "banal",
+          "commonplace",
+          "clichéd"
+        ],
+        "examples": [
+          {
+            "text": "The film relies on stock characters and a predictable plot that audiences have seen many times before.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a supply of something available for future use",
+        "ko": "비축, 재고",
+        "synonyms": [
+          "store",
+          "supply",
+          "reserve",
+          "inventory"
+        ],
+        "examples": [
+          {
+            "text": "Lay in a stock of wood for the winter season.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the hereditary derivation of an individual",
+        "ko": "혈통, 가문",
+        "synonyms": [
+          "lineage",
+          "ancestry",
+          "descent",
+          "pedigree"
+        ],
+        "examples": [
+          {
+            "text": "The family was of sturdy farming stock that had worked the same valley for centuries.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 stocc(나무 줄기)에서 왔습니다. 늘 쓰는 기본 재고가 되어 진부한 뜻으로도 쓰입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stoic",
+    "score": 62,
+    "zipf": 3.15,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "seeming unaffected by pleasure or pain; impassive",
+        "ko": "금욕적인, 태연한",
+        "synonyms": [
+          "impassive",
+          "stoical",
+          "phlegmatic",
+          "unflinching"
+        ],
+        "examples": [
+          {
+            "text": "stoic courage",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "someone who is seemingly indifferent to emotions",
+        "ko": "금욕주의자, 감정을 드러내지 않는 사람",
+        "synonyms": [
+          "ascetic"
+        ],
+        "examples": [
+          {
+            "text": "Even a Rolls-Royce owner, I began to feel, would be a stoic to travel across Europe by car when the \"Rheingold\" is on offer.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 stoa(주랑)에서 왔습니다. 제논이 아테네의 채색 주랑에서 가르친 학파의 이름입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stolid",
+    "score": 79,
+    "zipf": 2.01,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having or revealing little emotion or sensibility; not easily aroused or excited",
+        "ko": "둔감한, 무표정한",
+        "synonyms": [
+          "impassive",
+          "phlegmatic",
+          "unemotional",
+          "placid"
+        ],
+        "examples": [
+          {
+            "text": "The stolid juror listened to the emotional testimony without any visible reaction.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 stolidus(둔한, 어리석은)에서 왔습니다. 감정 변화가 없어 둔해 보인다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "straight",
+    "score": 16,
+    "zipf": 5.04,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "without evasion or compromise",
+        "ko": "솔직한, 직설적인",
+        "synonyms": [
+          "straightforward",
+          "candid",
+          "frank",
+          "direct"
+        ],
+        "examples": [
+          {
+            "text": "What's more, he actually tries to answer a straight question with a straight answer.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "successive (without a break)",
+        "ko": "연속적인",
+        "synonyms": [
+          "consecutive",
+          "successive"
+        ],
+        "examples": [
+          {
+            "text": "sick for five straight days",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "characterized by honesty and fairness",
+        "ko": "정직한, 공정한",
+        "synonyms": [
+          "honest",
+          "upright",
+          "fair",
+          "square"
+        ],
+        "examples": [
+          {
+            "text": "straight dealing",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 streight는 strecchen(펴다)의 과거분사입니다. 쭉 펴져 곧다는 데서 솔직하다는 뜻이 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stratagem",
+    "score": 35,
+    "zipf": 2.39,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an elaborate or deceitful scheme contrived to deceive or evade",
+        "ko": "책략, 계략",
+        "synonyms": [
+          "ruse",
+          "ploy",
+          "trick",
+          "subterfuge",
+          "contrivance"
+        ],
+        "examples": [
+          {
+            "text": "The general's clever stratagem lured the enemy forces away from the undefended pass.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "strat(군대)",
+      "ag"
+    ],
+    "origin": {
+      "ko": "그리스어 stratēgēma(장군의 책략)에서 왔습니다. 군을 이끄는 장군의 계략이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stratum",
+    "score": 50,
+    "zipf": 2.67,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "people having the same social, economic, or educational status",
+        "ko": "사회 계층",
+        "synonyms": [
+          "class",
+          "level",
+          "tier",
+          "caste"
+        ],
+        "examples": [
+          {
+            "text": "The policy disproportionately benefited the wealthiest stratum of society.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "One of several parallel horizontal layers of material arranged one on top of another.",
+        "ko": "층, 지층",
+        "synonyms": [
+          "layer",
+          "tier",
+          "bed"
+        ],
+        "examples": [
+          {
+            "text": "It is built of alternate strata of brick and clay, and the sides correspond to the direction of the meridians and parallels.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "strat(층)"
+    ],
+    "origin": {
+      "ko": "라틴어 strātum(펼쳐 놓은 것, 이불)에서 왔습니다. 켜켜이 깔린 층에서 사회 계층이라는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "striate",
+    "score": 30,
+    "zipf": 1.89,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "mark with striae or striations",
+        "ko": "줄무늬를 넣다",
+        "synonyms": [
+          "streak",
+          "furrow",
+          "stripe"
+        ],
+        "examples": [
+          {
+            "text": "Glaciers striate the bedrock as they drag stones slowly across it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "marked with stria or striations",
+        "ko": "줄무늬가 있는",
+        "synonyms": [
+          "striped",
+          "streaked",
+          "grooved"
+        ],
+        "examples": [
+          {
+            "text": "The striate muscle fibers appeared as fine parallel bands under the microscope.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "stri",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 strio(홈을 파다)에서 왔습니다. 줄무늬를 낸다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stricture",
+    "score": 47,
+    "zipf": 2.02,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "severe criticism",
+        "ko": "혹평, 비난",
+        "synonyms": [
+          "censure",
+          "condemnation",
+          "animadversion",
+          "rebuke"
+        ],
+        "examples": [
+          {
+            "text": "The review was a harsh stricture on the director's careless handling of historical fact.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A rule restricting behaviour or action.",
+        "ko": "제약, 속박",
+        "synonyms": [
+          "restriction",
+          "constraint",
+          "restraint",
+          "limit"
+        ],
+        "examples": [
+          {
+            "text": "Even venerable print publications seem to accept that old strictures no longer apply when they move online.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "string",
+      "-ure"
+    ],
+    "origin": {
+      "ko": "라틴어 strictūra에서 왔고 '죄는 것'이 원뜻입니다. 옥죄는 듯한 혹평이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "strife",
+    "score": 27,
+    "zipf": 3.4,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "bitter conflict; heated often violent dissension",
+        "ko": "격렬한 갈등, 불화",
+        "synonyms": [
+          "conflict",
+          "discord",
+          "dissension",
+          "contention"
+        ],
+        "examples": [
+          {
+            "text": "Years of ethnic strife left the region's economy in ruins.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 estrif(다툼)에서 왔고 strive와 같은 계열입니다. 서로 겨루는 격한 불화입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stringent",
+    "score": 43,
+    "zipf": 3.43,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "demanding strict attention to rules and procedures",
+        "ko": "엄격한, 가혹한",
+        "synonyms": [
+          "rigorous",
+          "strict",
+          "rigid",
+          "exacting"
+        ],
+        "examples": [
+          {
+            "text": "They have stringent quality requirements outlining what is acceptable.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "string",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 stringēns(팽팽히 조이는)에서 왔습니다. 바짝 조이듯 엄격한 규칙을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "strut",
+    "score": 29,
+    "zipf": 3.16,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to walk with a lofty proud gait, often in an attempt to impress others",
+        "ko": "으스대며 걷다",
+        "synonyms": [
+          "swagger",
+          "parade",
+          "prance",
+          "sashay"
+        ],
+        "examples": [
+          {
+            "text": "He struts around like a rooster in a hen house",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "brace consisting of a bar or rod used to resist longitudinal compression",
+        "ko": "지지대, 버팀대",
+        "synonyms": [
+          "brace",
+          "support",
+          "beam"
+        ],
+        "examples": [
+          {
+            "text": "Engineers added a steel strut to reinforce the aging bridge.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 strūtian(뻣뻣하게 튀어나오다)에서 왔습니다. 가슴을 부풀려 뻣뻣하게 으스대며 걷는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stultify",
+    "score": 48,
+    "zipf": 0.0,
+    "lists": [
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To stunt, inhibit (progress, ideas, etc.) or make dull and uninteresting, especially through routine that is overly restrictive or limiting.",
+        "ko": "무력하게 하다, 둔하게 만들다",
+        "synonyms": [
+          "inhibit",
+          "impair",
+          "dull",
+          "stifle"
+        ],
+        "examples": [
+          {
+            "text": "Bureaucracy and over-regulation have stultified the economy.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cause to appear foolish",
+        "ko": "어리석어 보이게 하다",
+        "synonyms": [
+          "humiliate",
+          "discredit"
+        ],
+        "examples": [
+          {
+            "text": "He stultified himself by contradicting himself and being inconsistent",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "stult",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "라틴어 stultus(어리석은)에 -ify가 붙었습니다. 어리석고 둔하게 만든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stump",
+    "score": 26,
+    "zipf": 3.45,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause to be perplexed or confounded",
+        "ko": "당황하게 하다, 쩔쩔매게 하다",
+        "synonyms": [
+          "baffle",
+          "perplex",
+          "puzzle",
+          "flummox"
+        ],
+        "examples": [
+          {
+            "text": "This problem stumped her",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "travel through a district and make political speeches",
+        "ko": "유세하다",
+        "synonyms": [
+          "campaign"
+        ],
+        "examples": [
+          {
+            "text": "the candidate stumped the Northeast",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The remains of something that has been cut off; especially the remains of a tree, the remains of a limb.",
+        "ko": "그루터기, 잘리고 남은 부분",
+        "synonyms": [
+          "stub"
+        ],
+        "examples": [
+          {
+            "text": "Children sat on the stump of the old oak and watched the workers clear the lot.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 저지 독일어 stump(그루터기)와 같은 계열입니다. 그루터기에 걸려 막힌 듯 쩔쩔맨다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stupendous",
+    "score": 33,
+    "zipf": 2.78,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "so great in size or force or extent as to elicit awe",
+        "ko": "엄청난, 경이로운",
+        "synonyms": [
+          "colossal",
+          "prodigious",
+          "tremendous",
+          "staggering"
+        ],
+        "examples": [
+          {
+            "text": "One cannot appreciate how stupendous the Matterhorn is without seeing it.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "stup",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 stupendus(어리둥절하게 하는)에서 왔고 stupeo(멍해지다)와 이어집니다. 어안이 벙벙할 만큼 엄청나다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "stymie",
+    "score": 65,
+    "zipf": 2.16,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "hinder or prevent the progress or accomplishment of",
+        "ko": "방해하다, 좌절시키다",
+        "synonyms": [
+          "thwart",
+          "hinder",
+          "obstruct",
+          "foil",
+          "hamper"
+        ],
+        "examples": [
+          {
+            "text": "Legal disputes over ownership continued to stymie the redevelopment of the old harbor.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "골프에서 공이 홀로 가는 길을 막는 상황을 가리킨 말입니다. 스코틀랜드어 어원설이 있으나 확실하지 않습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "word": "offhand",
+    "score": 35,
+    "zipf": 2.63,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Without planning or thinking ahead.",
+        "ko": "즉흥적인, 준비 없이 하는",
+        "synonyms": [
+          "impromptu",
+          "extemporaneous",
+          "ad-lib",
+          "spontaneous"
+        ],
+        "examples": [
+          {
+            "text": "She gave an offhand speech.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Careless; without sufficient thought or consideration.",
+        "ko": "무심한, 경솔한",
+        "synonyms": [
+          "casual",
+          "careless",
+          "cavalier",
+          "thoughtless"
+        ],
+        "examples": [
+          {
+            "text": "He doesn't realise how hurtful his offhand remarks can be.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Curt, abrupt, unfriendly.",
+        "ko": "퉁명스러운, 무뚝뚝한",
+        "synonyms": [
+          "curt",
+          "brusque",
+          "abrupt"
+        ],
+        "examples": [
+          {
+            "text": "She was quite offhand with me yesterday.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "영어에서 off(떨어진)와 hand(손)를 합친 말로, 미리 손쓰지 않고 그 자리에서 곧바로 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "officious",
+    "score": 80,
+    "zipf": 2.08,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Offensively intrusive or interfering in offering advice and services.",
+        "ko": "참견하기 좋아하는, 주제넘게 나서는",
+        "synonyms": [
+          "meddlesome",
+          "interfering",
+          "intrusive",
+          "overzealous"
+        ],
+        "examples": [
+          {
+            "text": "The officious receptionist insisted on reviewing every visitor's paperwork twice, though nobody had asked her to.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "offic",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 officiōsus '친절한'에서 왔고, officium은 '봉사'입니다. 원치 않는 봉사까지 하려 드는 데서 참견하는이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "offset",
+    "score": 21,
+    "zipf": 3.99,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Anything that acts as counterbalance; a compensating equivalent.",
+        "ko": "상쇄하는 것, 보상",
+        "synonyms": [
+          "counterbalance",
+          "compensation",
+          "counterweight"
+        ],
+        "examples": [
+          {
+            "text": "Today's victory was an offset to yesterday's defeat.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "off와 set을 합친 말로, set off(상쇄하다)의 명사형입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

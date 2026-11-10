@@ -1,0 +1,97 @@
+[
+  {
+    "word": "hyperbole",
+    "score": 48,
+    "zipf": 2.93,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "extravagant exaggeration",
+        "ko": "과장법, 과장",
+        "synonyms": [
+          "exaggeration",
+          "overstatement",
+          "embellishment"
+        ],
+        "examples": [
+          {
+            "text": "Calling the mild drizzle a deluge was pure hyperbole, but the audience laughed all the same.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hyper-",
+      "bol"
+    ],
+    "origin": {
+      "ko": "그리스어 hyperbolḗ '지나침, 과장'에서 왔습니다. hypér(넘어서)와 bállō(던지다)가 합쳐져 표적 너머로 던진다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hysterical",
+    "score": 26,
+    "zipf": 3.48,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by excessive or uncontrollable emotion",
+        "ko": "극도로 흥분한, 감정을 억제하지 못하는",
+        "synonyms": [
+          "frenzied",
+          "frantic",
+          "overwrought",
+          "uncontrollable"
+        ],
+        "examples": [
+          {
+            "text": "The hysterical crowd surged toward the stage as the band appeared.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Provoking uncontrollable laughter.",
+        "ko": "몹시 우스운, 포복절도할",
+        "synonyms": [
+          "hilarious",
+          "uproarious",
+          "riotous"
+        ],
+        "examples": [
+          {
+            "text": "The comedian's impression of the mayor was so hysterical that the audience could barely breathe.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hyster"
+    ],
+    "origin": {
+      "ko": "그리스어 hysterikós '자궁이 아픈'에서 왔고 hystérā(자궁)가 뿌리입니다. 예전에 감정 폭발을 자궁의 병으로 여긴 데서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

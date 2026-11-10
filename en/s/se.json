@@ -1,0 +1,997 @@
+[
+  {
+    "word": "searchingly",
+    "score": 22,
+    "zipf": 1.13,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "In a searching manner.",
+        "ko": "탐색하듯, 날카롭게 살피며",
+        "synonyms": [
+          "probingly",
+          "intently",
+          "keenly"
+        ],
+        "examples": [
+          {
+            "text": "He stared at me searchingly, trying to determine if I was lying.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ly"
+    ]
+  },
+  {
+    "word": "secrete",
+    "score": 34,
+    "zipf": 2.72,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "generate and separate from cells or bodily fluids",
+        "ko": "분비하다",
+        "synonyms": [
+          "release",
+          "emit",
+          "discharge",
+          "exude"
+        ],
+        "examples": [
+          {
+            "text": "Many tumors secrete two or more different hormones.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "place out of sight; keep secret",
+        "ko": "숨기다, 은닉하다",
+        "synonyms": [
+          "conceal",
+          "hide",
+          "stash",
+          "cache"
+        ],
+        "examples": [
+          {
+            "text": "The smuggler secreted the jewels in the lining of his coat before approaching the border.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "se-",
+      "cern"
+    ],
+    "origin": {
+      "ko": "라틴어 sēcernere(분리하다)에서 왔습니다. 혈액 등에서 물질을 따로 가려내 내보낸다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "secular",
+    "score": 22,
+    "zipf": 3.95,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characteristic of or devoted to the temporal world as opposed to the spiritual world",
+        "ko": "세속적인, 현세의",
+        "synonyms": [
+          "worldly",
+          "temporal",
+          "earthly"
+        ],
+        "examples": [
+          {
+            "text": "The university began as a religious seminary but gradually adopted a more secular curriculum.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not concerned with or devoted to religion",
+        "ko": "비종교적인, 정교분리의",
+        "synonyms": [
+          "nonreligious",
+          "lay",
+          "profane",
+          "civil"
+        ],
+        "examples": [
+          {
+            "text": "Most of the composer's output was secular, written for the court rather than the church.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Continuing over a long period of time.",
+        "ko": "장기적인",
+        "synonyms": [
+          "long-term",
+          "long-run"
+        ],
+        "examples": [
+          {
+            "text": "The long-term growth in population and income accounts for most secular trends in economic phenomena.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "secul",
+      "-ar"
+    ],
+    "origin": {
+      "ko": "라틴어 saeculāris(한 시대의)에서 왔습니다. 영원한 세계에 대비해 지금 이 세상의 일을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sedition",
+    "score": 47,
+    "zipf": 3.04,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Organized incitement of rebellion or civil disorder against authority or the state, usually by speech or writing.",
+        "ko": "선동, 치안 방해(죄)",
+        "synonyms": [
+          "incitement",
+          "insurrection",
+          "subversion",
+          "rebellion"
+        ],
+        "examples": [
+          {
+            "text": "The pamphleteer was jailed for sedition after urging soldiers to lay down their arms.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "se-",
+      "it",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 sēditiō에서 왔고 '따로 떨어져 나가는 것'을 뜻합니다. 권위에서 갈라서는 반란 선동이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sedulous",
+    "score": 80,
+    "zipf": 0.0,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by care and persistent effort",
+        "ko": "부지런한, 끈기 있는",
+        "synonyms": [
+          "assiduous",
+          "diligent",
+          "industrious",
+          "persevering"
+        ],
+        "examples": [
+          {
+            "text": "Through sedulous practice, the young pianist mastered the difficult concerto in a matter of months.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "se-",
+      "dol(속임수)",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 sēdulus(부지런한)에서 왔습니다. '속임수 없이' 성실하게 한다는 뜻으로 보는 설이 있습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "seemly",
+    "score": 31,
+    "zipf": 2.04,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "according with custom or propriety",
+        "ko": "단정한, 예의에 맞는",
+        "synonyms": [
+          "proper",
+          "decorous",
+          "becoming",
+          "fitting",
+          "appropriate"
+        ],
+        "examples": [
+          {
+            "text": "His behavior was seemly, as befits a gentleman.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ly"
+    ],
+    "origin": {
+      "ko": "고대 노르드어 sœmiligr(어울리는)에서 왔습니다. 상황에 어울려 단정하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "seethe",
+    "score": 33,
+    "zipf": 2.18,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be in an agitated emotional state",
+        "ko": "속이 부글부글 끓다, 격분하다",
+        "synonyms": [
+          "boil",
+          "fume",
+          "simmer",
+          "rage"
+        ],
+        "examples": [
+          {
+            "text": "The customer was seething with anger",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "boil vigorously",
+        "ko": "끓어오르다",
+        "synonyms": [
+          "boil",
+          "bubble",
+          "churn",
+          "foam"
+        ],
+        "examples": [
+          {
+            "text": "Below the bridge the river seethed over the rocks after a week of heavy rain.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "be noisy with activity",
+        "ko": "북적이다, 들끓다",
+        "synonyms": [
+          "teem",
+          "swarm",
+          "bustle",
+          "buzz"
+        ],
+        "examples": [
+          {
+            "text": "The marketplace seethed with merchants, shoppers, and pickpockets from dawn until dusk.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 sēoþan(끓이다)에서 왔습니다. 냄비가 끓듯 속이 부글부글 끓는다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "semantic",
+    "score": 27,
+    "zipf": 3.4,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of or relating to meaning or the study of meaning",
+        "ko": "의미의, 의미론적인",
+        "synonyms": [
+          "lexical",
+          "linguistic"
+        ],
+        "examples": [
+          {
+            "text": "The dispute turned on a semantic distinction between the words \"permit\" and \"authorize.\"",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Petty or trivial; (of a person or statement) quibbling, niggling.",
+        "ko": "말장난 같은, 사소한 말꼬리 잡는",
+        "synonyms": [
+          "quibbling",
+          "trivial",
+          "nitpicking"
+        ],
+        "examples": [
+          {
+            "text": "Critics dismissed the objection as merely semantic, a quibble over words rather than substance.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sem",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 sēmantikos(의미를 나타내는)에서 왔습니다. 기호가 가리키는 의미에 관한 것을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "semblance",
+    "score": 46,
+    "zipf": 3.1,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Followed by of: the outward appearance of a person or thing which is different from what the person or thing actually is; also, an outward appearance of a thing which does not actually exist.",
+        "ko": "겉모습, 외관, 겉치레",
+        "synonyms": [
+          "facade",
+          "pretense",
+          "veneer",
+          "guise"
+        ],
+        "examples": [
+          {
+            "text": "The regime maintained a semblance of democracy while jailing every serious opponent.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The outward appearance or form of a person or thing.",
+        "ko": "외양, 모습",
+        "synonyms": [
+          "appearance",
+          "aspect",
+          "likeness",
+          "form"
+        ],
+        "examples": [
+          {
+            "text": "After the storm, the village slowly regained some semblance of normal life.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "simil",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 sembler(~처럼 보이다)에서 왔습니다. 실제와 다르게 '그렇게 보이는' 겉모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sensational",
+    "score": 26,
+    "zipf": 3.52,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "causing intense interest, curiosity, or emotion",
+        "ko": "세상을 놀라게 하는, 선정적인",
+        "synonyms": [
+          "lurid",
+          "shocking",
+          "dramatic",
+          "startling"
+        ],
+        "examples": [
+          {
+            "text": "The tabloid ran a sensational account of the scandal, heavy on rumor and light on fact.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Exceptionally great.",
+        "ko": "굉장한, 훌륭한",
+        "synonyms": [
+          "spectacular",
+          "superb",
+          "stunning",
+          "remarkable"
+        ],
+        "examples": [
+          {
+            "text": "Young Dutch keeper Tim Krul saw his value rocket up with a sensational display.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sent",
+      "-ion",
+      "-al"
+    ],
+    "origin": {
+      "ko": "sensation(감각)에 -al이 붙은 말입니다. 강한 감각과 감정을 자극해 세상을 놀라게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sententious",
+    "score": 42,
+    "zipf": 1.5,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "abounding in or given to pompous or aphoristic moralizing",
+        "ko": "교훈을 늘어놓는, 설교조의",
+        "synonyms": [
+          "moralizing",
+          "pompous",
+          "preachy",
+          "self-righteous"
+        ],
+        "examples": [
+          {
+            "text": "His sententious remarks quickly bored the audience.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "concise and full of meaning",
+        "ko": "간결하고 함축적인",
+        "synonyms": [
+          "pithy",
+          "terse",
+          "aphoristic",
+          "succinct"
+        ],
+        "examples": [
+          {
+            "text": "The editor admired her sententious prose, in which every sentence carried a complete thought.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sent",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 sententia(의견, 격언)에서 왔습니다. 격언을 늘어놓으며 훈계하는 말투입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sentient",
+    "score": 62,
+    "zipf": 3.12,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Experiencing sensation, thought, or feeling.",
+        "ko": "감각이 있는, 지각력이 있는",
+        "synonyms": [
+          "conscious",
+          "aware",
+          "feeling",
+          "sensate"
+        ],
+        "examples": [
+          {
+            "text": "Consider fish, who are apparently sentient yet cognitively extremely primitive in comparison with humans.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sent",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 sentiēns(느끼는)에서 왔습니다. 감각과 느낌을 지닌 존재를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sentimental",
+    "score": 42,
+    "zipf": 3.53,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "effusively or insincerely emotional",
+        "ko": "감상적인, 과장되게 감정적인",
+        "synonyms": [
+          "maudlin",
+          "mawkish",
+          "schmaltzy",
+          "saccharine",
+          "mushy"
+        ],
+        "examples": [
+          {
+            "text": "The film's sentimental ending, with its swelling strings and tearful reunion, felt manipulative.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Derived from emotion rather than logical reason.",
+        "ko": "이성보다 감정에 따른",
+        "synonyms": [
+          "emotional",
+          "nostalgic",
+          "romantic"
+        ],
+        "examples": [
+          {
+            "text": "She kept the broken watch for sentimental reasons, though it had no practical value.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sent",
+      "-ment",
+      "-al"
+    ],
+    "origin": {
+      "ko": "sentiment(감정)에 -al이 붙었습니다. 감정에 치우친 상태를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sentinel",
+    "score": 27,
+    "zipf": 3.41,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person employed to keep watch for some anticipated event",
+        "ko": "보초, 감시병",
+        "synonyms": [
+          "sentry",
+          "lookout",
+          "guard",
+          "watchman"
+        ],
+        "examples": [
+          {
+            "text": "A lone sentinel paced the castle wall through the night, watching the dark road for riders.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sent"
+    ],
+    "origin": {
+      "ko": "이탈리아어 sentinella(보초)에서 왔고, sentire(감지하다)와 이어집니다. 주변을 살피며 감지하는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "seraphic",
+    "score": 45,
+    "zipf": 1.8,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having a sweet nature befitting an angel or cherub",
+        "ko": "천사 같은, 천진하고 맑은",
+        "synonyms": [
+          "angelic",
+          "cherubic",
+          "sweet",
+          "heavenly"
+        ],
+        "examples": [
+          {
+            "text": "The child wore a seraphic smile as she slept, untroubled by the noise around her.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ic"
+    ],
+    "origin": {
+      "ko": "히브리어 seraph(불타는 천사, 세라핌)에 -ic이 붙었습니다. 천사 같다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "serendipitous",
+    "score": 34,
+    "zipf": 2.34,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lucky in making unexpected and fortunate discoveries",
+        "ko": "뜻밖의 행운을 얻는, 우연히 발견한",
+        "synonyms": [
+          "fortuitous",
+          "lucky",
+          "providential",
+          "fortunate"
+        ],
+        "examples": [
+          {
+            "text": "Their serendipitous meeting in a small bookshop led to a decade-long collaboration.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ous"
+    ],
+    "origin": {
+      "ko": "serendipity에서 나온 형용사로, 18세기 월폴이 만든 말입니다. 우연한 행운을 얻는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "serendipity",
+    "score": 34,
+    "zipf": 2.74,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "good luck in making unexpected and fortunate discoveries",
+        "ko": "뜻밖의 행운, 우연한 발견",
+        "synonyms": [
+          "luck",
+          "fortune",
+          "happy accident",
+          "chance"
+        ],
+        "examples": [
+          {
+            "text": "By pure serendipity, the researcher noticed the mold that would lead her to a new antibiotic.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ity"
+    ],
+    "origin": {
+      "ko": "호러스 월폴이 1754년 동화 '세렌딥의 세 왕자'에서 지었습니다. 왕자들이 우연히 귀한 것을 발견하는 이야기입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "serene",
+    "score": 44,
+    "zipf": 3.27,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not agitated; without losing self-possession",
+        "ko": "고요한, 침착한",
+        "synonyms": [
+          "calm",
+          "tranquil",
+          "placid",
+          "composed",
+          "unruffled"
+        ],
+        "examples": [
+          {
+            "text": "Even amid the uproar, the old judge remained serene.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "completely clear and fine",
+        "ko": "맑고 화창한",
+        "synonyms": [
+          "clear",
+          "cloudless",
+          "fair"
+        ],
+        "examples": [
+          {
+            "text": "serene skies and a bright blue sea",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 serēnus(맑고 구름 없는)에서 왔습니다. 구름 없는 맑은 하늘처럼 고요한 마음입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sever",
+    "score": 30,
+    "zipf": 3.15,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cut off from a whole",
+        "ko": "절단하다, 잘라내다",
+        "synonyms": [
+          "cut",
+          "detach",
+          "amputate",
+          "cleave"
+        ],
+        "examples": [
+          {
+            "text": "The storm severed the power lines, leaving the town without electricity for three days.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "set or keep apart",
+        "ko": "끊다, 단절하다",
+        "synonyms": [
+          "break off",
+          "dissolve",
+          "disconnect",
+          "separate"
+        ],
+        "examples": [
+          {
+            "text": "After he graduated, he severed all links to his family.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "se-",
+      "par(준비)"
+    ],
+    "origin": {
+      "ko": "라틴어 separāre(분리하다)에서 왔습니다. 따로 떼어 잘라낸다는 뜻이며 separate와 같은 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sextant",
+    "score": 34,
+    "zipf": 2.28,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A navigational device for deriving angular distances between objects so as to determine latitude and longitude.",
+        "ko": "육분의(항해용 각도 측정기)",
+        "synonyms": [
+          "octant"
+        ],
+        "examples": [
+          {
+            "text": "Before satellites, sailors fixed their position at sea with a sextant and a chronometer.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sext"
+    ],
+    "origin": {
+      "ko": "라틴어 sextāns(6분의 1)에서 왔습니다. 원의 6분의 1 호를 가진 도구입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

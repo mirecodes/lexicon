@@ -1,0 +1,97 @@
+[
+  {
+    "word": "ethereal",
+    "score": 29,
+    "zipf": 3.2,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by lightness and insubstantiality; as impalpable or intangible as air",
+        "ko": "가볍고 섬세한, 이 세상 것 같지 않은",
+        "synonyms": [
+          "airy",
+          "delicate",
+          "insubstantial",
+          "gossamer",
+          "intangible"
+        ],
+        "examples": [
+          {
+            "text": "The singer's ethereal voice seemed to float above the hushed cathedral.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of heaven or the spirit",
+        "ko": "천상의, 영적인",
+        "synonyms": [
+          "celestial",
+          "heavenly",
+          "spiritual",
+          "supernal"
+        ],
+        "examples": [
+          {
+            "text": "The painter sought to capture an ethereal light descending from the heavens.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-al"
+    ],
+    "origin": {
+      "ko": "그리스어 aithérios(높은 하늘의)에서 라틴어를 거쳐 왔습니다. 하늘의 에테르처럼 가볍고 실체가 없는 느낌입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ethos",
+    "score": 44,
+    "zipf": 3.32,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The character or fundamental values of a person, people, culture, or movement.",
+        "ko": "기풍, 정신, 풍토, 가치관",
+        "synonyms": [
+          "spirit",
+          "character",
+          "values",
+          "culture",
+          "ideals"
+        ],
+        "examples": [
+          {
+            "text": "The company's ethos of collaboration shaped how every team approached its work.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 êthos(성격, 관습)를 그대로 가져왔습니다. 한 집단의 관습과 가치관을 가리키게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

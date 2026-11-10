@@ -1,0 +1,77 @@
+[
+  {
+    "word": "xenophobia",
+    "score": 30,
+    "zipf": 3.06,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a fear of foreigners or strangers",
+        "ko": "외국인 혐오, 이방인 공포",
+        "synonyms": [
+          "nativism",
+          "chauvinism"
+        ],
+        "examples": [
+          {
+            "text": "The United States is not the only country where xenophobia pays dividends for politicians.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "xeno",
+      "-phobia"
+    ],
+    "origin": {
+      "ko": "그리스어 xénos('낯선 사람')와 phobía('공포')를 합친 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "xenophobic",
+    "score": 30,
+    "zipf": 3.06,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "suffering from xenophobia; having abnormal fear or hatred of the strange or foreign",
+        "ko": "외국인을 혐오하는",
+        "synonyms": [
+          "nativist",
+          "intolerant",
+          "insular"
+        ],
+        "examples": [
+          {
+            "text": "The xenophobic rhetoric of the campaign alarmed immigrant communities across the country.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "xeno",
+      "-phobic"
+    ],
+    "origin": {
+      "ko": "그리스어 xénos('낯선')와 phóbos('공포')를 합친 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

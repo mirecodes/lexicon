@@ -1,0 +1,802 @@
+[
+  {
+    "word": "scabbard",
+    "score": 36,
+    "zipf": 2.46,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a sheath for a sword or dagger or bayonet",
+        "ko": "칼집",
+        "synonyms": [
+          "sheath"
+        ],
+        "examples": [
+          {
+            "text": "The knight drew his sword from its leather scabbard and faced the approaching riders.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "게르만어 '칼날 보호'라는 뜻의 말에서 왔다고 봅니다. 칼날을 지키는 덮개, 곧 칼집입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "scale",
+    "score": 16,
+    "zipf": 4.83,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To climb to the top of.",
+        "ko": "(정상에) 오르다",
+        "synonyms": [
+          "climb",
+          "ascend",
+          "surmount",
+          "mount"
+        ],
+        "examples": [
+          {
+            "text": "Hilary and Norgay were the first known to have scaled Everest.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "relative magnitude",
+        "ko": "규모, 범위",
+        "synonyms": [
+          "scope",
+          "extent",
+          "magnitude",
+          "size"
+        ],
+        "examples": [
+          {
+            "text": "The sheer scale of the disaster overwhelmed local relief agencies within days.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "pattern, make, regulate, set, measure, or estimate according to some rate or standard",
+        "ko": "비율에 맞춰 조정하다",
+        "synonyms": [
+          "adjust",
+          "proportion",
+          "calibrate"
+        ],
+        "examples": [
+          {
+            "text": "The firm plans to scale its production in line with projected demand.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "scend"
+    ],
+    "origin": {
+      "ko": "라틴어 scāla(사다리, 계단)에서 왔습니다. 사다리를 오르듯 정상에 오른다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "scant",
+    "score": 46,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Not full, large, or plentiful; scarcely sufficient; scanty; meager.",
+        "ko": "부족한, 빈약한",
+        "synonyms": [
+          "meager",
+          "scanty",
+          "sparse",
+          "insufficient",
+          "paltry"
+        ],
+        "examples": [
+          {
+            "text": "The report offered scant evidence that the new policy had any measurable effect on unemployment.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To limit in amount or share; to stint.",
+        "ko": "인색하게 주다, 아끼다",
+        "synonyms": [
+          "stint",
+          "skimp",
+          "withhold"
+        ],
+        "examples": [
+          {
+            "text": "The company scanted safety training in order to cut costs, with tragic results.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 노르드어 skamt(짧은)에서 왔습니다. 길이가 짧듯 양도 모자란다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "scarce",
+    "score": 25,
+    "zipf": 3.61,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Uncommon, rare; difficult to find; insufficient to meet a demand.",
+        "ko": "드문, 부족한",
+        "synonyms": [
+          "rare",
+          "scant",
+          "insufficient",
+          "sparse"
+        ],
+        "examples": [
+          {
+            "text": "By the end of the 20th century elephants had become scarce even in Africa.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "carp"
+    ],
+    "origin": {
+      "ko": "고대 북부 프랑스어 escars(인색한, 부족한)에서 왔고, 어원은 확실하지 않습니다. '뽑아내다'에서 왔다는 설이 있습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "scathing",
+    "score": 47,
+    "zipf": 2.97,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by harshly abusive criticism",
+        "ko": "혹독한, 통렬한",
+        "synonyms": [
+          "vituperative",
+          "withering",
+          "caustic",
+          "searing",
+          "blistering"
+        ],
+        "examples": [
+          {
+            "text": "The critic's scathing review dismissed the film as shallow, derivative, and tediously long.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "schadenfreude",
+    "score": 35,
+    "zipf": 2.43,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "delight in another person's misfortune",
+        "ko": "남의 불행을 보고 느끼는 쾌감",
+        "synonyms": [
+          "gloating",
+          "malicious glee"
+        ],
+        "examples": [
+          {
+            "text": "Rivals could not hide their schadenfreude when the celebrated chef's restaurant lost its third star.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "독일어에서 그대로 빌려온 말로, Schaden(해, 불행)과 Freude(기쁨)가 합쳐졌습니다. 남의 불행에서 느끼는 기쁨입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "scheme",
+    "score": 16,
+    "zipf": 4.57,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A plot or secret, devious plan.",
+        "ko": "음모, 책략",
+        "synonyms": [
+          "plot",
+          "conspiracy",
+          "intrigue",
+          "machination",
+          "ploy"
+        ],
+        "examples": [
+          {
+            "text": "Her brain is continually fermenting new schemes.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an elaborate and systematic plan of action",
+        "ko": "계획, 방안",
+        "synonyms": [
+          "strategy",
+          "plan",
+          "program",
+          "design"
+        ],
+        "examples": [
+          {
+            "text": "The council unveiled an ambitious scheme to revitalize the city's abandoned waterfront.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "form intrigues (for) in an underhand manner",
+        "ko": "음모를 꾸미다",
+        "synonyms": [
+          "plot",
+          "intrigue",
+          "conspire",
+          "connive"
+        ],
+        "examples": [
+          {
+            "text": "The courtiers schemed endlessly to win the king's favor and undermine their rivals.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 skhēma(모양, 형태)에서 왔습니다. 짜 놓은 계획의 틀이 음모라는 뜻으로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "schism",
+    "score": 47,
+    "zipf": 3.01,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "division of a group into opposing factions",
+        "ko": "분열, 분파",
+        "synonyms": [
+          "split",
+          "rift",
+          "division",
+          "breach"
+        ],
+        "examples": [
+          {
+            "text": "A schism broke the organization into two rivals.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the formal separation of a church into two churches or the withdrawal of one group over doctrinal differences",
+        "ko": "교회 분열",
+        "synonyms": [
+          "split",
+          "secession"
+        ],
+        "examples": [
+          {
+            "text": "The schism between Sunnis and Shias happened quite early in Islamic history.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "schis",
+      "-m"
+    ],
+    "origin": {
+      "ko": "그리스어 skhizō(쪼개다)에서 온 skhisma에서 왔습니다. 집단이 둘로 쪼개지는 분열입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "scintilla",
+    "score": 48,
+    "zipf": 2.06,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a tiny or scarcely detectable amount",
+        "ko": "극소량, 티끌",
+        "synonyms": [
+          "iota",
+          "whit",
+          "trace",
+          "shred",
+          "jot"
+        ],
+        "examples": [
+          {
+            "text": "a scintilla of hope",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 scintilla(불꽃)에서 왔습니다. 작은 불똥 같은 극소량을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "scintillating",
+    "score": 67,
+    "zipf": 2.62,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "brilliantly clever",
+        "ko": "재기 넘치는, 눈부신",
+        "synonyms": [
+          "brilliant",
+          "dazzling",
+          "witty",
+          "sparkling"
+        ],
+        "examples": [
+          {
+            "text": "a play full of scintillating dialogue",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having brief brilliant points or flashes of light",
+        "ko": "반짝이는",
+        "synonyms": [
+          "sparkling",
+          "glittering",
+          "twinkling",
+          "glinting"
+        ],
+        "examples": [
+          {
+            "text": "On the scintillating water yellow and blue boats bobbed up and down.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 scintilla(불꽃)에서 나온 scintillate의 현재분사입니다. 불꽃이 튀듯 재치가 반짝인다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "scoff",
+    "score": 33,
+    "zipf": 2.78,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "laugh at with contempt and derision",
+        "ko": "비웃다, 조롱하다",
+        "synonyms": [
+          "jeer",
+          "mock",
+          "sneer",
+          "deride",
+          "ridicule"
+        ],
+        "examples": [
+          {
+            "text": "Skeptics scoffed at the inventor's claims until the prototype flew across the field.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "treat with contemptuous disregard",
+        "ko": "무시하다, 경멸하다",
+        "synonyms": [
+          "flout",
+          "spurn",
+          "disdain"
+        ],
+        "examples": [
+          {
+            "text": "The reckless driver scoffed at every warning sign along the mountain road.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "북유럽어에서 온 것으로 보이는 중세 영어 scof(조롱)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "scorn",
+    "score": 30,
+    "zipf": 3.13,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "lack of respect accompanied by a feeling of intense dislike",
+        "ko": "경멸, 멸시",
+        "synonyms": [
+          "contempt",
+          "disdain",
+          "derision"
+        ],
+        "examples": [
+          {
+            "text": "He was held in contempt by colleagues, who treated his proposals with open scorn.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To reject, turn down with disdain.",
+        "ko": "경멸하며 거절하다",
+        "synonyms": [
+          "spurn",
+          "reject",
+          "rebuff",
+          "disdain"
+        ],
+        "examples": [
+          {
+            "text": "He scorned her romantic advances.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 escharnir(조롱하다)에서 왔습니다. 정확한 어원은 불확실합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "screed",
+    "score": 34,
+    "zipf": 2.32,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a long piece of writing",
+        "ko": "장황한 글",
+        "synonyms": [
+          "tract",
+          "diatribe",
+          "harangue"
+        ],
+        "examples": [
+          {
+            "text": "I see it's three o'clock in the morning and I've written whole screeds when I only intended to write a short note!",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a long monotonous harangue",
+        "ko": "장광설, 지루한 연설",
+        "synonyms": [
+          "harangue",
+          "tirade",
+          "diatribe",
+          "rant"
+        ],
+        "examples": [
+          {
+            "text": "The senator delivered a screed against the proposed tax, ignoring the clock and the weary chamber.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 screde(조각, 긴 띠)에서 왔고 shred와 같은 계열입니다. 길게 잘라낸 조각 같은 장황한 글입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "scrupulous",
+    "score": 83,
+    "zipf": 2.57,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by extreme care and great effort",
+        "ko": "꼼꼼한, 세심한",
+        "synonyms": [
+          "meticulous",
+          "painstaking",
+          "conscientious",
+          "punctilious"
+        ],
+        "examples": [
+          {
+            "text": "The auditor's scrupulous review uncovered errors that three earlier checks had missed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having scruples; arising from a sense of right and wrong; principled",
+        "ko": "양심적인, 원칙을 지키는",
+        "synonyms": [
+          "principled",
+          "honest",
+          "ethical",
+          "upright"
+        ],
+        "examples": [
+          {
+            "text": "She remained scrupulous in her dealings, refusing even small favors that might compromise her independence.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 scrupulus(작고 뾰족한 돌)에서 왔습니다. 신발 속 작은 돌에도 신경 쓰듯 꼼꼼한 태도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "scrutinize",
+    "score": 33,
+    "zipf": 2.76,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to look at critically or searchingly, or in minute detail",
+        "ko": "자세히 조사하다, 면밀히 살피다",
+        "synonyms": [
+          "examine",
+          "inspect",
+          "study",
+          "analyze"
+        ],
+        "examples": [
+          {
+            "text": "Investigators scrutinized every page of the contract for signs of hidden clauses.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ize"
+    ],
+    "origin": {
+      "ko": "라틴어 scrūtārī(샅샅이 뒤지다)에서 나온 scrutiny에 -ize가 붙었습니다. 낱낱이 살핀다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "scurvy",
+    "score": 34,
+    "zipf": 2.73,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of the most contemptible kind",
+        "ko": "비열한, 야비한",
+        "synonyms": [
+          "despicable",
+          "contemptible",
+          "low",
+          "base",
+          "vile"
+        ],
+        "examples": [
+          {
+            "text": "The captain denounced the scurvy trick that had cost his crew their wages.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a condition caused by deficiency of ascorbic acid (vitamin C)",
+        "ko": "괴혈병",
+        "synonyms": [
+          "scorbutus"
+        ],
+        "examples": [
+          {
+            "text": "Sailors on long voyages once suffered terribly from scurvy until citrus fruit became part of their rations.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "scurf(피부에 생기는 비늘, 딱지)에 -y가 붙어 '딱지투성이의'라는 뜻이었다가 비열하다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

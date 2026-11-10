@@ -1,0 +1,459 @@
+[
+  {
+    "word": "blanch",
+    "score": 36,
+    "zipf": 2.54,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "turn pale, as if in fear",
+        "ko": "(공포 등으로) 창백해지다",
+        "synonyms": [
+          "pale",
+          "whiten",
+          "blench"
+        ],
+        "examples": [
+          {
+            "text": "His cheek blanched with fear.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To take the color out of, and make white; to bleach.",
+        "ko": "탈색하다, 희게 하다",
+        "synonyms": [
+          "bleach",
+          "whiten",
+          "fade"
+        ],
+        "examples": [
+          {
+            "text": "Age has blanched his hair.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 blanc(흰)에서 온 blanchir('하얗게 만들다')가 어원입니다. 핏기가 가셔 얼굴이 하얘지는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bland",
+    "score": 26,
+    "zipf": 3.5,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking stimulating characteristics; uninteresting",
+        "ko": "무미건조한, 밋밋한",
+        "synonyms": [
+          "dull",
+          "insipid",
+          "vapid",
+          "flat",
+          "unexciting"
+        ],
+        "examples": [
+          {
+            "text": "The film's bland script offered no surprises and little reason to care about its characters.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "lacking taste or flavor or tang",
+        "ko": "맛이 싱거운, 자극이 없는",
+        "synonyms": [
+          "flavorless",
+          "tasteless",
+          "insipid"
+        ],
+        "examples": [
+          {
+            "text": "The patient was put on a bland diet of rice, toast, and plain broth.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 blandus('상냥한, 부드러운')를 빌려 온 말입니다. 자극 없이 순한 맛이라는 뜻으로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "blatant",
+    "score": 42,
+    "zipf": 3.45,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "without any attempt at concealment; completely obvious",
+        "ko": "노골적인, 뻔뻔스러운",
+        "synonyms": [
+          "flagrant",
+          "brazen",
+          "glaring",
+          "overt"
+        ],
+        "examples": [
+          {
+            "text": "The company showed a blatant disregard for safety rules, ignoring repeated warnings from inspectors.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "conspicuously and offensively loud; given to vehement outcry",
+        "ko": "시끄럽고 요란한",
+        "synonyms": [
+          "clamorous",
+          "strident",
+          "vociferous"
+        ],
+        "examples": [
+          {
+            "text": "The blatant music from the street fair kept the whole neighborhood awake until dawn.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "1596년 스펜서가 시에서 'blatant beast'라는 말로 처음 썼습니다. bleat(메에 울다)에서 왔다고 추정됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bleak",
+    "score": 27,
+    "zipf": 3.43,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "offering little or no hope",
+        "ko": "희망이 없는, 암울한",
+        "synonyms": [
+          "grim",
+          "dismal",
+          "gloomy",
+          "dreary"
+        ],
+        "examples": [
+          {
+            "text": "Economists painted a bleak picture of the coming year, predicting layoffs and falling wages.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Desolate and exposed; swept by cold winds.",
+        "ko": "황량한, 쓸쓸한",
+        "synonyms": [
+          "desolate",
+          "barren",
+          "stark",
+          "windswept"
+        ],
+        "examples": [
+          {
+            "text": "The expedition crossed a bleak plateau where nothing grew and the wind never stopped.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 blǣc('창백한')와 고대 노르드어 bleikr(희끄무레한)에서 왔습니다. 핏기 없고 음울한 느낌입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "blight",
+    "score": 45,
+    "zipf": 3.24,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Something that impedes development or growth, or spoils any other aspect of life.",
+        "ko": "해악, 재앙의 근원",
+        "synonyms": [
+          "bane",
+          "scourge",
+          "curse",
+          "plague"
+        ],
+        "examples": [
+          {
+            "text": "Chronic unemployment has been a blight on the town for more than a generation.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "any plant disease resulting in withering without rotting",
+        "ko": "(식물의) 마름병",
+        "synonyms": [
+          "mildew",
+          "rust",
+          "canker"
+        ],
+        "examples": [
+          {
+            "text": "A fungal blight swept through the potato fields and destroyed most of the harvest.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To impede the development or growth of (an aspect of life); to damage, to ruin, to spoil.",
+        "ko": "망치다, 해치다",
+        "synonyms": [
+          "ruin",
+          "spoil",
+          "wreck",
+          "mar"
+        ],
+        "examples": [
+          {
+            "text": "Those obscene tattoos are going to blight your job prospects.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "정확한 기원은 불확실합니다. '창백해지다, 빛나다'를 뜻하던 옛말과 관련 있다는 설이 있습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "blighted",
+    "score": 33,
+    "zipf": 2.77,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Ruined, spoiled.",
+        "ko": "망가진, 황폐해진",
+        "synonyms": [
+          "ruined",
+          "spoiled",
+          "devastated",
+          "withered"
+        ],
+        "examples": [
+          {
+            "text": "Residents of the blighted neighborhood waited decades for new investment that never arrived.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "blinkered",
+    "score": 32,
+    "zipf": 2.12,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having tunnel vision, being unable to see what is happening around one: uncircumspect, narrow-minded, or both.",
+        "ko": "시야가 좁은, 편협한",
+        "synonyms": [
+          "narrow-minded",
+          "myopic",
+          "shortsighted",
+          "insular"
+        ],
+        "examples": [
+          {
+            "text": "The minister's blinkered view of the crisis ignored the warnings of his own advisers.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "blithe",
+    "score": 68,
+    "zipf": 2.48,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Casually careless or indifferent; showing a lack of concern; nonchalant.",
+        "ko": "무심한, 태평한",
+        "synonyms": [
+          "nonchalant",
+          "casual",
+          "heedless",
+          "unconcerned"
+        ],
+        "examples": [
+          {
+            "text": "She had a blithe disregard of cultures outside the United States.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "carefree and happy and lighthearted",
+        "ko": "명랑한, 쾌활한",
+        "synonyms": [
+          "cheerful",
+          "merry",
+          "lighthearted",
+          "jaunty"
+        ],
+        "examples": [
+          {
+            "text": "The blithe young poet sang as he walked along the river each morning.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 blīþe('기쁜, 온화한')에서 왔습니다. 걱정 없이 밝은 상태가 '무심한'이란 뜻으로 번졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bluster",
+    "score": 35,
+    "zipf": 2.58,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "vain and empty boasting",
+        "ko": "허세, 호언장담",
+        "synonyms": [
+          "braggadocio",
+          "bombast",
+          "bravado",
+          "swagger"
+        ],
+        "examples": [
+          {
+            "text": "Behind the senator's bluster lay a weak argument that collapsed under the first serious question.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To speak or protest loudly.",
+        "ko": "큰소리치다, 으르대다",
+        "synonyms": [
+          "rant",
+          "bully",
+          "swagger",
+          "boast"
+        ],
+        "examples": [
+          {
+            "text": "When confronted by opposition his reaction was to bluster, which often cowed the meek.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 저지 독일어 blüstren('거세게 불다')의 영향을 받았습니다. 바람이 거칠게 몰아치듯 큰소리를 치는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

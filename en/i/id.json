@@ -1,0 +1,275 @@
+[
+  {
+    "word": "ideology",
+    "score": 21,
+    "zipf": 4.02,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Doctrine, philosophy, body of beliefs or principles belonging to an individual or group.",
+        "ko": "이념, 이데올로기",
+        "synonyms": [
+          "doctrine",
+          "creed",
+          "belief system",
+          "philosophy"
+        ],
+        "examples": [
+          {
+            "text": "A dictatorship bans things, that do not conform to its ideology, to secure its reign.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ide",
+      "-logy"
+    ],
+    "origin": {
+      "ko": "1796년 프랑스의 데스튀트 드 트라시가 만든 idéologie에서 왔습니다. 관념(idea)을 연구하는 학문이 '이념'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "idiosyncrasy",
+    "score": 78,
+    "zipf": 1.95,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a behavioral attribute that is distinctive and peculiar to an individual",
+        "ko": "특이한 기질, 개인 특유의 버릇",
+        "synonyms": [
+          "quirk",
+          "foible",
+          "eccentricity",
+          "mannerism",
+          "peculiarity"
+        ],
+        "examples": [
+          {
+            "text": "Among the professor's idiosyncrasies was a habit of lecturing while standing on a chair.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "idio",
+      "syn-",
+      "cras"
+    ],
+    "origin": {
+      "ko": "그리스어 idiosynkrasía '자기만의 기질'에서 왔습니다. 자기만의(idio) 것이 함께(syn) 섞인(cras) 기질이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "idiosyncratic",
+    "score": 32,
+    "zipf": 2.94,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "peculiar to the individual",
+        "ko": "특이한, 개인 특유의",
+        "synonyms": [
+          "peculiar",
+          "eccentric",
+          "distinctive",
+          "quirky"
+        ],
+        "examples": [
+          {
+            "text": "The critic praised the film's idiosyncratic visual style, unlike anything else in current cinema.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "idio",
+      "syn-",
+      "cras",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "idiosyncrasy(특이한 기질)에 -ic이 붙은 형용사입니다. 그리스어 idios(자기 자신의)가 핵심입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "idolatrous",
+    "score": 32,
+    "zipf": 2.15,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Engaging in excessive attachment or reverence; inordinately or profanely devoted.",
+        "ko": "맹목적으로 숭배하는, 지나치게 떠받드는",
+        "synonyms": [
+          "adoring",
+          "worshipful",
+          "reverential",
+          "fanatical"
+        ],
+        "examples": [
+          {
+            "text": "Fans gave the retired striker an almost idolatrous devotion, hanging his portrait in their homes.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "relating to or practicing idolatry",
+        "ko": "우상을 숭배하는",
+        "synonyms": [
+          "pagan",
+          "heathen"
+        ],
+        "examples": [
+          {
+            "text": "The prophet denounced the idolatrous rites that had spread through the kingdom.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "idol",
+      "latr",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "idolatry(우상 숭배)에서 나온 형용사입니다. 우상(idol)을 숭배한다(latr)는 뜻에서 맹목적으로 떠받드는 모습을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "idolatry",
+    "score": 33,
+    "zipf": 2.82,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The excessive admiration of somebody or something.",
+        "ko": "맹목적 숭배, 우상화",
+        "synonyms": [
+          "adoration",
+          "worship",
+          "veneration",
+          "hero worship"
+        ],
+        "examples": [
+          {
+            "text": "The public's idolatry of the young tycoon blinded many to the warning signs in his company's accounts.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the worship of idols; the worship of physical objects or images as gods",
+        "ko": "우상 숭배",
+        "synonyms": [
+          "idol worship",
+          "paganism"
+        ],
+        "examples": [
+          {
+            "text": "The reformers condemned the veneration of statues as idolatry.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "idol",
+      "-latry"
+    ],
+    "origin": {
+      "ko": "그리스어 eidōlolatríā '우상 숭배'에서 왔습니다. eídōlon(우상)과 látris(숭배자)가 합쳐졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "idyllic",
+    "score": 31,
+    "zipf": 3.04,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Extremely happy, peaceful, or picturesque.",
+        "ko": "목가적인, 평화롭고 아름다운",
+        "synonyms": [
+          "pastoral",
+          "serene",
+          "charming",
+          "picturesque",
+          "blissful"
+        ],
+        "examples": [
+          {
+            "text": "They spent an idyllic summer in a stone cottage overlooking the lake.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 eidýllion '짧은 전원시'에서 왔습니다. 전원시가 그리던 평화로운 풍경이 '목가적인'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

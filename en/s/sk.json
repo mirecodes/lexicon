@@ -1,0 +1,200 @@
+[
+  {
+    "word": "skeptic",
+    "score": 32,
+    "zipf": 2.89,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone who habitually doubts accepted beliefs",
+        "ko": "회의론자, 의심 많은 사람",
+        "synonyms": [
+          "doubter",
+          "cynic",
+          "questioner",
+          "agnostic"
+        ],
+        "examples": [
+          {
+            "text": "As a lifelong skeptic, he demanded independent evidence before accepting any of the company's bold claims.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "skep",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 skeptikos(살펴보는 사람)에서 왔습니다. 쉽게 믿지 않고 따져 보는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "skill",
+    "score": 17,
+    "zipf": 4.42,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an ability that has been acquired by training",
+        "ko": "숙련된 기술, 기량",
+        "synonyms": [
+          "proficiency",
+          "expertise",
+          "competence",
+          "aptitude"
+        ],
+        "examples": [
+          {
+            "text": "With great skill, she navigated through the tricky passage.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 노르드어 skil(구별, 분별력)에서 왔습니다. 잘 가려내는 능력이 기량이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "skirt",
+    "score": 37,
+    "zipf": 3.96,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+        "ko": "(문제·질문을) 회피하다, 피해 가다",
+        "synonyms": [
+          "evade",
+          "dodge",
+          "sidestep",
+          "circumvent",
+          "elude"
+        ],
+        "examples": [
+          {
+            "text": "The minister skirted the question of tax increases throughout the entire interview.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "pass around or about; move along the border",
+        "ko": "가장자리를 따라 지나가다, 우회하다",
+        "synonyms": [
+          "border",
+          "flank",
+          "bypass",
+          "circle"
+        ],
+        "examples": [
+          {
+            "text": "The boat skirted the coast",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 노르드어 skyrta(셔츠, 앞치마)에서 왔고 '짧게 자른 것'과 이어집니다. 가장자리를 돌아 피해 간다는 뜻이 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "skittish",
+    "score": 67,
+    "zipf": 2.63,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unpredictably excitable (especially of horses)",
+        "ko": "겁 많은, 잘 놀라는",
+        "synonyms": [
+          "jumpy",
+          "nervous",
+          "flighty",
+          "timid",
+          "restless"
+        ],
+        "examples": [
+          {
+            "text": "The dog likes people he knows, but he is skittish around strangers.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "'재빨리 움직이다'라는 뜻의 skite에 -ish가 붙은 것으로 봅니다. 갑자기 튀는 겁 많은 말의 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "skullduggery",
+    "score": 29,
+    "zipf": 1.81,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "verbal misrepresentation intended to take advantage of you in some way",
+        "ko": "속임수, 부정한 술책",
+        "synonyms": [
+          "trickery",
+          "chicanery",
+          "double-dealing",
+          "subterfuge"
+        ],
+        "examples": [
+          {
+            "text": "The inquiry uncovered political skullduggery involving forged ballots and secret payments to officials.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

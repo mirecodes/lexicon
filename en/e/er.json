@@ -1,0 +1,449 @@
+[
+  {
+    "word": "eradicate",
+    "score": 44,
+    "zipf": 3.29,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "destroy completely, as if down to the roots",
+        "ko": "근절하다, 뿌리뽑다, 박멸하다",
+        "synonyms": [
+          "extirpate",
+          "uproot",
+          "exterminate",
+          "annihilate",
+          "eliminate"
+        ],
+        "examples": [
+          {
+            "text": "Smallpox was globally eradicated in 1980.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "rad",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 ērādīcāre(뿌리째 뽑다)에서 왔습니다. 풀을 뿌리째 뽑듯 완전히 없앤다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "erode",
+    "score": 31,
+    "zipf": 3.03,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "become ground down or deteriorate",
+        "ko": "서서히 약화되다, 침식되다",
+        "synonyms": [
+          "wear away",
+          "deteriorate",
+          "corrode",
+          "undermine",
+          "wane"
+        ],
+        "examples": [
+          {
+            "text": "Her confidence eroded",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "remove soil or rock",
+        "ko": "(토양·암석을) 침식하다",
+        "synonyms": [
+          "wear away",
+          "eat away",
+          "abrade"
+        ],
+        "examples": [
+          {
+            "text": "Rain eroded the terraces",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "rod"
+    ],
+    "origin": {
+      "ko": "라틴어 ērōdere(갉아 먹다)에서 프랑스어를 거쳐 왔습니다. 조금씩 갉아 없애는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "err",
+    "score": 27,
+    "zipf": 3.39,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to make a mistake or be incorrect",
+        "ko": "실수하다, 틀리다, 잘못하다",
+        "synonyms": [
+          "blunder",
+          "slip",
+          "mistake",
+          "misjudge"
+        ],
+        "examples": [
+          {
+            "text": "He erred in his calculations, and made many mistakes.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "wander from a direct course or at random",
+        "ko": "길을 벗어나다, 방황하다",
+        "synonyms": [
+          "stray",
+          "wander",
+          "drift",
+          "deviate"
+        ],
+        "examples": [
+          {
+            "text": "The hikers erred from the marked trail and wandered for hours in the fog.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 errāre(헤매다, 길을 벗어나다)에서 고대 프랑스어를 거쳐 왔습니다. 길을 잃고 헤매는 데서 '잘못하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "errant",
+    "score": 48,
+    "zipf": 2.91,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "straying from the right course or from accepted standards",
+        "ko": "길을 벗어난, 그릇된, 일탈한",
+        "synonyms": [
+          "wayward",
+          "straying",
+          "deviant",
+          "misbehaving",
+          "aberrant"
+        ],
+        "examples": [
+          {
+            "text": "The coach disciplined the errant player for missing practice twice in one week.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Roving around; wandering.",
+        "ko": "떠돌아다니는, 방랑하는",
+        "synonyms": [
+          "roving",
+          "wandering",
+          "itinerant",
+          "nomadic"
+        ],
+        "examples": [
+          {
+            "text": "The errant knight traveled from kingdom to kingdom seeking adventure.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ant"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 errer(떠돌다)의 현재분사에서 왔습니다. 길을 벗어나 방황하는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "erratic",
+    "score": 60,
+    "zipf": 3.34,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "liable to sudden unpredictable change",
+        "ko": "변덕스러운, 불규칙한, 종잡을 수 없는",
+        "synonyms": [
+          "unpredictable",
+          "inconsistent",
+          "fickle",
+          "mercurial",
+          "capricious"
+        ],
+        "examples": [
+          {
+            "text": "erratic behavior",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ic"
+    ],
+    "origin": {
+      "ko": "라틴어 errāticus(떠도는)에서 왔습니다. 예측 없이 이리저리 헤매는 듯 불규칙하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "erroneous",
+    "score": 29,
+    "zipf": 3.22,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "containing or characterized by error",
+        "ko": "잘못된, 틀린, 오류가 있는",
+        "synonyms": [
+          "incorrect",
+          "mistaken",
+          "inaccurate",
+          "faulty",
+          "fallacious"
+        ],
+        "examples": [
+          {
+            "text": "erroneous conclusions",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 erroneus(떠도는, 잘못된)에서 프랑스어를 거쳐 왔습니다. 옳은 길에서 벗어난 오류라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ersatz",
+    "score": 66,
+    "zipf": 2.34,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "artificial and inferior",
+        "ko": "모조의, 대용의, 질 낮은",
+        "synonyms": [
+          "imitation",
+          "fake",
+          "artificial",
+          "substitute",
+          "synthetic"
+        ],
+        "examples": [
+          {
+            "text": "ersatz coffee",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "독일어 Ersatz(대체품)를 그대로 빌려 왔습니다. ersetzen(대신하다)에서 나온 말로, 진짜를 대신하는 질 낮은 모조품을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "erstwhile",
+    "score": 48,
+    "zipf": 2.9,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "belonging to some prior time",
+        "ko": "이전의, 예전의, 한때의",
+        "synonyms": [
+          "former",
+          "onetime",
+          "previous",
+          "quondam",
+          "sometime"
+        ],
+        "examples": [
+          {
+            "text": "erstwhile friend",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "옛 영어 erst(이전에)와 while(동안)이 합쳐졌습니다. '예전 한때의'라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "erudite",
+    "score": 66,
+    "zipf": 2.75,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having or showing profound knowledge",
+        "ko": "박식한, 학식이 깊은",
+        "synonyms": [
+          "learned",
+          "scholarly",
+          "knowledgeable",
+          "educated",
+          "well-read"
+        ],
+        "examples": [
+          {
+            "text": "The professor gave an erudite lecture that impressed everyone in the audience.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "rud"
+    ],
+    "origin": {
+      "ko": "라틴어 ērudīre(거친 상태에서 벗어나게 가르치다)에서 왔습니다. 미숙함을 벗어난 '박식한' 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "erudition",
+    "score": 35,
+    "zipf": 2.39,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "profound scholarly knowledge",
+        "ko": "박식, 학식, 깊은 학문",
+        "synonyms": [
+          "learning",
+          "scholarship",
+          "knowledge",
+          "learnedness"
+        ],
+        "examples": [
+          {
+            "text": "Her erudition in medieval history made her the department's most sought-after adviser.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "rud",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 ērudītiō(가르침)에서 왔습니다. 거친 상태를 벗겨 내는 가르침이 '학식'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "word": "jubilant",
+    "score": 35,
+    "zipf": 2.63,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "joyful and proud especially because of triumph or success",
+        "ko": "환호하는, 기뻐 날뛰는",
+        "synonyms": [
+          "exultant",
+          "triumphant",
+          "elated",
+          "rejoicing",
+          "overjoyed"
+        ],
+        "examples": [
+          {
+            "text": "The jubilant fans poured into the streets after the team clinched its first title in decades.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 iubilans '기뻐 소리치는'에서 왔습니다. 환호성을 지르는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "judicious",
+    "score": 50,
+    "zipf": 2.68,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having, characterized by, or done with good judgment or sound thinking.",
+        "ko": "현명한, 분별력 있는",
+        "synonyms": [
+          "prudent",
+          "sagacious",
+          "sensible",
+          "wise",
+          "discerning"
+        ],
+        "examples": [
+          {
+            "text": "A judicious use of the budget allowed the department to avoid layoffs during the downturn.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 judicieux에서 왔고 라틴어 iudico '판단하다'에서 나왔습니다. 판단을 잘하는 분별력을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "juggernaut",
+    "score": 31,
+    "zipf": 2.99,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a massive inexorable force that seems to crush everything in its way",
+        "ko": "거대하고 막을 수 없는 힘",
+        "synonyms": [
+          "steamroller",
+          "behemoth",
+          "colossus",
+          "onslaught"
+        ],
+        "examples": [
+          {
+            "text": "The marketing juggernaut flattened smaller competitors across every regional market it entered.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "산스크리트어 jagannātha '세계의 주'에서 왔습니다. 인도 푸리의 축제에서 거대한 수레가 사람들에게 끌려가는 광경에서 '막을 수 없는 힘'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "juncture",
+    "score": 47,
+    "zipf": 3.03,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A critical moment in time.",
+        "ko": "중대한 시점, 국면",
+        "synonyms": [
+          "crossroads",
+          "moment",
+          "point",
+          "crisis",
+          "turning point"
+        ],
+        "examples": [
+          {
+            "text": "We're at a crucial juncture in our relationship.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A place where things join, a junction.",
+        "ko": "접합점, 연결 지점",
+        "synonyms": [
+          "junction",
+          "joint",
+          "union",
+          "seam",
+          "connection"
+        ],
+        "examples": [
+          {
+            "text": "Cracks had formed at the juncture where the old wing met the new construction.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "jug",
+      "-ure"
+    ],
+    "origin": {
+      "ko": "라틴어 iūnctūra '이음, 접합'에서 왔습니다. 두 상황이 이어지는 지점에서 '중대한 시점'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "junket",
+    "score": 34,
+    "zipf": 2.34,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a trip taken by an official at public expense",
+        "ko": "공비로 가는 호화 시찰 여행",
+        "synonyms": [
+          "jaunt",
+          "excursion",
+          "outing",
+          "boondoggle"
+        ],
+        "examples": [
+          {
+            "text": "Watchdog groups criticized the committee's overseas junket as a taxpayer-funded vacation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A feast or banquet.",
+        "ko": "연회, 잔치",
+        "synonyms": [
+          "feast",
+          "banquet",
+          "revel"
+        ],
+        "examples": [
+          {
+            "text": "The village held a lavish junket after the harvest was safely gathered in.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 jonket '골풀 바구니'에서 왔습니다. 바구니에 담은 잔치 음식, 소풍, 공비로 가는 놀이 여행으로 뜻이 넓어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "junta",
+    "score": 28,
+    "zipf": 3.34,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a group of military officers who rule a country after seizing power",
+        "ko": "군사 정권, 군사 평의회",
+        "synonyms": [
+          "military regime",
+          "cabal",
+          "clique",
+          "directorate"
+        ],
+        "examples": [
+          {
+            "text": "The junta suspended the constitution and banned all opposition parties within days of the coup.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "jug"
+    ],
+    "origin": {
+      "ko": "스페인어 junta '모인 것'에서 왔고 라틴어 iungō '잇다'와 이어집니다. 모여 결합한 집단이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "justify",
+    "score": 20,
+    "zipf": 4.14,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To provide an acceptable explanation for.",
+        "ko": "정당화하다, 해명하다",
+        "synonyms": [
+          "defend",
+          "vindicate",
+          "explain",
+          "rationalize",
+          "excuse"
+        ],
+        "examples": [
+          {
+            "text": "How can you justify spending so much money on clothes?",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To be a good reason behind a normally-unacceptable action; to warrant.",
+        "ko": "~의 타당한 이유가 되다",
+        "synonyms": [
+          "warrant",
+          "legitimize",
+          "merit",
+          "excuse"
+        ],
+        "examples": [
+          {
+            "text": "Nothing can justify your rude behaviour last night.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "just",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 justificare '올바르게 만들다'에서 왔습니다. 옳다고 만들어 주니 '정당화하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "juxtapose",
+    "score": 65,
+    "zipf": 2.15,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To place side by side, especially for contrast or comparison.",
+        "ko": "나란히 놓다, 대조하다",
+        "synonyms": [
+          "contrast",
+          "compare",
+          "appose",
+          "collocate"
+        ],
+        "examples": [
+          {
+            "text": "The documentary effectively juxtaposes the lives of two rival politicians.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "juxta-",
+      "pos"
+    ],
+    "origin": {
+      "ko": "프랑스어 juxtaposer에서 왔고 라틴어 iuxtā '가까이'와 pōnō '놓다'가 합쳐졌습니다. 바로 옆에 놓는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

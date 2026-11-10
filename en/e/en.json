@@ -1,0 +1,1586 @@
+[
+  {
+    "word": "enamor",
+    "score": 32,
+    "zipf": 0.0,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "attract; cause to be enamored",
+        "ko": "사로잡다, 반하게 하다",
+        "synonyms": [
+          "captivate",
+          "charm",
+          "beguile",
+          "bewitch",
+          "enchant"
+        ],
+        "examples": [
+          {
+            "text": "The young poet was soon enamored of the city's cafes and crowded bookshops.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "am"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 enamorer에서 왔습니다. 사랑(amor) 속에 빠뜨려 반하게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "enchant",
+    "score": 35,
+    "zipf": 2.57,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "hold spellbound",
+        "ko": "매혹하다, 황홀하게 하다",
+        "synonyms": [
+          "captivate",
+          "enthrall",
+          "charm",
+          "enrapture",
+          "bewitch"
+        ],
+        "examples": [
+          {
+            "text": "The storyteller enchanted the children with tales of dragons and hidden kingdoms.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cast a spell over someone or something; put a hex on someone or something",
+        "ko": "마법을 걸다",
+        "synonyms": [
+          "bewitch",
+          "hex",
+          "spellbind"
+        ],
+        "examples": [
+          {
+            "text": "In the legend, a sorceress enchanted the castle so no visitor could ever leave.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "cant"
+    ],
+    "origin": {
+      "ko": "라틴어 incantāre(주문을 노래하다)에서 고대 프랑스어를 거쳐 왔습니다. 노래 같은 주문으로 홀린다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "enclave",
+    "score": 29,
+    "zipf": 3.19,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A political, cultural or social entity or part thereof that is completely surrounded by another.",
+        "ko": "고립 영토, 소수 집단 거주지",
+        "synonyms": [
+          "pocket",
+          "exclave",
+          "ghetto",
+          "community"
+        ],
+        "examples": [
+          {
+            "text": "The Republic of San Marino is an enclave of Italy.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "clav"
+    ],
+    "origin": {
+      "ko": "속라틴어 *inclāvāre(안에 잠그다)에서 프랑스어를 거쳐 왔습니다. 다른 영토 안에 갇힌 땅을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "encomium",
+    "score": 45,
+    "zipf": 1.82,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Warm praise, especially a formal expression of such praise; a tribute.",
+        "ko": "찬사, 칭찬, 송덕문",
+        "synonyms": [
+          "eulogy",
+          "panegyric",
+          "tribute",
+          "paean",
+          "accolade"
+        ],
+        "examples": [
+          {
+            "text": "The ceremony opened with a lavish encomium to the retiring headmaster.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ],
+    "origin": {
+      "ko": "그리스어 enkṓmion(승리자를 기리는 송가)에서 왔습니다. kômos는 '축제, 흥겨운 행렬'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "encroach",
+    "score": 36,
+    "zipf": 2.49,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To intrude unrightfully on someone else’s rights or territory.",
+        "ko": "침해하다, 잠식하다, 침입하다",
+        "synonyms": [
+          "intrude",
+          "infringe",
+          "trespass",
+          "impinge",
+          "invade"
+        ],
+        "examples": [
+          {
+            "text": "Developers continued to encroach on land the tribe had held for centuries.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 encrochier(붙잡다)에서 왔고, croc(갈고리)가 바탕입니다. 갈고리로 남의 것을 낚아채듯 침범한다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "encroachment",
+    "score": 32,
+    "zipf": 2.86,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An intrusion upon another's possessions or rights; infringement.",
+        "ko": "침해, 잠식",
+        "synonyms": [
+          "infringement",
+          "intrusion",
+          "trespass",
+          "incursion",
+          "usurpation"
+        ],
+        "examples": [
+          {
+            "text": "Residents protested the steady encroachment of commercial development on the wetlands.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "-ment"
+    ]
+  },
+  {
+    "word": "encumber",
+    "score": 44,
+    "zipf": 1.68,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "restrict (someone or something) so as to make free movement difficult",
+        "ko": "방해하다, 짐을 지우다, 거추장스럽게 하다",
+        "synonyms": [
+          "hamper",
+          "burden",
+          "hinder",
+          "impede",
+          "saddle"
+        ],
+        "examples": [
+          {
+            "text": "Heavy packs encumbered the soldiers as they crossed the muddy field.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To burden with a legal claim or other obligation.",
+        "ko": "(부채·저당 등을) 지우다",
+        "synonyms": [
+          "burden",
+          "mortgage",
+          "saddle"
+        ],
+        "examples": [
+          {
+            "text": "The estate was encumbered with debts that left little for the heirs.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 encombrer(방해하다)에서 왔습니다. 짐을 얹어 움직임을 방해한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "encyclopedic",
+    "score": 35,
+    "zipf": 2.56,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "comprehensive in scope or content (as an encyclopedia)",
+        "ko": "백과사전적인, 해박한, 포괄적인",
+        "synonyms": [
+          "comprehensive",
+          "exhaustive",
+          "wide-ranging",
+          "all-embracing",
+          "thorough"
+        ],
+        "examples": [
+          {
+            "text": "encyclopedic knowledge",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 enkúklios paideíā(원을 이루는 교육, 전반적 교육)에서 encyclopedia가 나왔고 여기에 -ic이 붙었습니다. 모든 분야를 아우른다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "endemic",
+    "score": 91,
+    "zipf": 3.37,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "native to or confined to a certain region",
+        "ko": "특정 지역 고유의, 풍토적인",
+        "synonyms": [
+          "native",
+          "indigenous",
+          "local",
+          "restricted"
+        ],
+        "examples": [
+          {
+            "text": "Kangaroos are endemic to Australia.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Prevalent in a particular area or region, persistent within a population.",
+        "ko": "(질병·문제가) 특정 지역에 상존하는, 만연한",
+        "synonyms": [
+          "prevalent",
+          "rife",
+          "widespread",
+          "chronic"
+        ],
+        "examples": [
+          {
+            "text": "Malaria is endemic to the tropics.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "dem",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 en(안에)과 dêmos(사람들)가 합쳐졌습니다. 그 지역 사람들 속에 늘 있는 것이라 '고유의'라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "endow",
+    "score": 51,
+    "zipf": 2.43,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "give qualities or abilities to",
+        "ko": "(재능·특성을) 부여하다, 타고나게 하다",
+        "synonyms": [
+          "bestow",
+          "endue",
+          "gift",
+          "bless",
+          "invest"
+        ],
+        "examples": [
+          {
+            "text": "She was endowed with a beautiful voice.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "furnish with an endowment",
+        "ko": "기부하다, 기금을 증여하다",
+        "synonyms": [
+          "fund",
+          "finance",
+          "bequeath",
+          "subsidize"
+        ],
+        "examples": [
+          {
+            "text": "A wealthy alumnus endowed a chair in astronomy at the university.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 endouer에서 왔고, 라틴어 dōtāre(지참금을 주다)가 바탕입니다. 재산이나 재능을 안겨 준다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "endue",
+    "score": 22,
+    "zipf": 1.1,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "give qualities or abilities to",
+        "ko": "(자질·능력을) 부여하다",
+        "synonyms": [
+          "endow",
+          "invest",
+          "imbue",
+          "bestow",
+          "empower"
+        ],
+        "examples": [
+          {
+            "text": "The old tales endue their heroes with courage and almost limitless strength.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ],
+    "origin": {
+      "ko": "라틴어 induere(옷을 입다, 걸치다)에서 왔습니다. 옷을 입히듯 자질을 부여한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "enduring",
+    "score": 24,
+    "zipf": 3.67,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lasting a long time",
+        "ko": "오래 지속되는, 변치 않는",
+        "synonyms": [
+          "lasting",
+          "abiding",
+          "durable",
+          "permanent",
+          "perennial"
+        ],
+        "examples": [
+          {
+            "text": "The enduring appeal of the novel lies in its honest portrait of grief.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "enervate",
+    "score": 72,
+    "zipf": 1.26,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To reduce strength or energy; debilitate.",
+        "ko": "기력을 약화시키다, 무기력하게 하다",
+        "synonyms": [
+          "weaken",
+          "debilitate",
+          "exhaust",
+          "sap",
+          "drain"
+        ],
+        "examples": [
+          {
+            "text": "After being laid off three times in a row, she felt too enervated to look for another job.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "nerv",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 ēnervāre(힘줄을 뽑아내다)에서 왔습니다. 힘줄이 빠진 듯 힘이 약해진다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "enervated",
+    "score": 27,
+    "zipf": 1.63,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking energy or vitality",
+        "ko": "기력이 없는, 쇠약해진",
+        "synonyms": [
+          "debilitated",
+          "listless",
+          "languid",
+          "drained",
+          "spiritless"
+        ],
+        "examples": [
+          {
+            "text": "The summer heat left the marchers enervated and unable to continue.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "nerv"
+    ]
+  },
+  {
+    "word": "engage",
+    "score": 17,
+    "zipf": 4.36,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "consume all of one's attention or time",
+        "ko": "(관심·시간을) 사로잡다, 몰두시키다",
+        "synonyms": [
+          "absorb",
+          "engross",
+          "occupy",
+          "captivate"
+        ],
+        "examples": [
+          {
+            "text": "The puzzle engaged her so completely that she forgot to eat lunch.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "carry out or participate in an activity; be involved in",
+        "ko": "참여하다, 종사하다",
+        "synonyms": [
+          "participate",
+          "partake",
+          "pursue",
+          "take part"
+        ],
+        "examples": [
+          {
+            "text": "They engaged in a discussion",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "engage or hire for work",
+        "ko": "고용하다",
+        "synonyms": [
+          "hire",
+          "employ",
+          "retain",
+          "enlist"
+        ],
+        "examples": [
+          {
+            "text": "The firm engaged a consultant to review its accounting practices.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 engagier(맹세로 묶다)에서 왔고, gage는 '담보, 맹세'입니다. 약속에 묶여 몰두한다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "engender",
+    "score": 83,
+    "zipf": 2.63,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To bring into existence (a situation, quality, result etc.); to give rise to, cause, create.",
+        "ko": "야기하다, 초래하다, 낳다",
+        "synonyms": [
+          "cause",
+          "generate",
+          "produce",
+          "provoke",
+          "foster"
+        ],
+        "examples": [
+          {
+            "text": "Years of broken promises engendered deep distrust of the government.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "gen"
+    ],
+    "origin": {
+      "ko": "라틴어 ingenerāre(안에 만들어 넣다)에서 고대 프랑스어를 거쳐 왔습니다. 무언가를 낳듯 만들어 낸다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "enhance",
+    "score": 21,
+    "zipf": 4.04,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "increase the level of",
+        "ko": "높이다, 강화하다, 향상시키다",
+        "synonyms": [
+          "heighten",
+          "augment",
+          "boost",
+          "amplify",
+          "improve"
+        ],
+        "examples": [
+          {
+            "text": "This will enhance your enjoyment",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "alt"
+    ],
+    "origin": {
+      "ko": "속라틴어 *inaltiāre(높이다)에서 왔습니다. alt(높은)를 향해 끌어올린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "enigma",
+    "score": 61,
+    "zipf": 3.24,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "something that baffles understanding and cannot be explained",
+        "ko": "수수께끼, 불가사의한 것",
+        "synonyms": [
+          "mystery",
+          "puzzle",
+          "riddle",
+          "conundrum",
+          "paradox"
+        ],
+        "examples": [
+          {
+            "text": "The motives of the reclusive painter remain an enigma to historians.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 aínigma(수수께끼 같은 말)에서 라틴어를 거쳐 왔습니다. 돌려서 말하는 어두운 말이 '수수께끼'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "enigmatic",
+    "score": 30,
+    "zipf": 3.11,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not clear to the understanding",
+        "ko": "수수께끼 같은, 불가해한",
+        "synonyms": [
+          "puzzling",
+          "mysterious",
+          "cryptic",
+          "inscrutable",
+          "obscure"
+        ],
+        "examples": [
+          {
+            "text": "prophetic texts so enigmatic that their meaning has been disputed for centuries",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 ainigmatikós에서 왔습니다. enigma(수수께끼)처럼 알 수 없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "enjoin",
+    "score": 49,
+    "zipf": 2.19,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "give instructions to or direct somebody to do something with authority",
+        "ko": "명령하다, 권고하다",
+        "synonyms": [
+          "order",
+          "direct",
+          "command",
+          "charge",
+          "instruct"
+        ],
+        "examples": [
+          {
+            "text": "The charter enjoins every member to attend the annual assembly.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To prohibit or restrain by a judicial order or decree; to put an injunction on.",
+        "ko": "(법원이) 금지하다",
+        "synonyms": [
+          "prohibit",
+          "forbid",
+          "bar",
+          "restrain"
+        ],
+        "examples": [
+          {
+            "text": "The court enjoined the company from selling the disputed product pending trial.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "jug"
+    ],
+    "origin": {
+      "ko": "라틴어 iniungere(붙이다, 부과하다)에서 왔습니다. 의무를 덧붙여 지운다는 데서 '명령하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "enmity",
+    "score": 47,
+    "zipf": 3.01,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a state of deep-seated ill-will",
+        "ko": "적의, 증오, 반목",
+        "synonyms": [
+          "hostility",
+          "animosity",
+          "antagonism",
+          "hatred",
+          "rancor"
+        ],
+        "examples": [
+          {
+            "text": "Generations of enmity between the two families made any reconciliation unlikely.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "am",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 inimīcus(적)에서 왔습니다. '친구(amicus)가 아닌 사람'이라는 뜻에서 적의가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ennui",
+    "score": 51,
+    "zipf": 2.41,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the feeling of being bored by something tedious",
+        "ko": "권태, 따분함, 지루함",
+        "synonyms": [
+          "boredom",
+          "tedium",
+          "listlessness",
+          "lassitude",
+          "weariness"
+        ],
+        "examples": [
+          {
+            "text": "A deep ennui settled over the idle aristocrats during the long winter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 enui(성가심)에서 왔고, 라틴어 in odiō(미움받는)가 바탕입니다. 성가시고 싫은 느낌이 '권태'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "enormity",
+    "score": 34,
+    "zipf": 2.68,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the quality of extreme wickedness",
+        "ko": "극악무도함, 흉악함",
+        "synonyms": [
+          "atrocity",
+          "wickedness",
+          "depravity",
+          "monstrousness",
+          "outrageousness"
+        ],
+        "examples": [
+          {
+            "text": "Not until the war ended and journalists were able to enter Cambodia did the world really become aware of the enormity of Pol Pot’s oppression.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "vastness of size or extent",
+        "ko": "거대함, 막대함",
+        "synonyms": [
+          "immensity",
+          "magnitude",
+          "vastness",
+          "hugeness"
+        ],
+        "examples": [
+          {
+            "text": "universities recognized the enormity of their task",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "norm",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 ēnōrmis(규범에서 벗어난)에서 왔습니다. 기준을 벗어난 괴물 같은 악행이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "enrapture",
+    "score": 23,
+    "zipf": 1.2,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "hold spellbound",
+        "ko": "황홀하게 하다, 넋을 빼앗다",
+        "synonyms": [
+          "enchant",
+          "enthrall",
+          "captivate",
+          "entrance",
+          "delight"
+        ],
+        "examples": [
+          {
+            "text": "Her song enraptured the audience with vivid images of the Scandinavian landscapes.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "rap"
+    ]
+  },
+  {
+    "word": "ensconce",
+    "score": 22,
+    "zipf": 1.13,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To settle comfortably.",
+        "ko": "편안하게 자리 잡다, 안착시키다",
+        "synonyms": [
+          "settle",
+          "install",
+          "nestle",
+          "establish",
+          "cosset"
+        ],
+        "examples": [
+          {
+            "text": "After lunch he ensconced himself in the armchair with a novel and a blanket.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ],
+    "origin": {
+      "ko": "en-에 sconce(작은 요새)가 붙었습니다. 요새 안에 안전하게 들어앉듯 편안히 자리 잡는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ensue",
+    "score": 32,
+    "zipf": 2.91,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To occur afterwards, as a result or effect.",
+        "ko": "뒤따라 일어나다, 결과로 생기다",
+        "synonyms": [
+          "follow",
+          "result",
+          "succeed",
+          "arise",
+          "transpire"
+        ],
+        "examples": [
+          {
+            "text": "Give three freshmen six bottles of wine, and hilarity will ensue.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "sequ"
+    ],
+    "origin": {
+      "ko": "라틴어 īnsequī(바싹 뒤따르다)에서 고대 프랑스어를 거쳐 왔습니다. 어떤 일의 뒤를 바로 따라 일어난다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "entertain",
+    "score": 23,
+    "zipf": 3.83,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "take into consideration, have in view",
+        "ko": "(생각·제안을) 고려하다, 품다",
+        "synonyms": [
+          "consider",
+          "contemplate",
+          "weigh",
+          "toy with",
+          "harbor"
+        ],
+        "examples": [
+          {
+            "text": "He entertained the notion of moving to South America",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To amuse (someone); to engage the attention of agreeably.",
+        "ko": "즐겁게 하다, 대접하다",
+        "synonyms": [
+          "amuse",
+          "divert",
+          "delight",
+          "regale"
+        ],
+        "examples": [
+          {
+            "text": "The motivational speaker not only instructed but also entertained the audience.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "inter-",
+      "ten(잡다)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 entretenir(서로 붙들어 두다)에서 왔습니다. 마음속에 붙들어 두고 '품다, 고려하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "enthrall",
+    "score": 44,
+    "zipf": 1.74,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To hold spellbound.",
+        "ko": "마음을 사로잡다, 매혹하다",
+        "synonyms": [
+          "captivate",
+          "enchant",
+          "bewitch",
+          "mesmerize",
+          "transfix"
+        ],
+        "examples": [
+          {
+            "text": "The magician's final illusion enthralled even the most skeptical members of the audience.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ],
+    "origin": {
+      "ko": "en-에 thrall(노예)이 붙었습니다. 노예처럼 마음을 사로잡는다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "entice",
+    "score": 30,
+    "zipf": 3.15,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To lure; to attract by arousing desire or hope.",
+        "ko": "유혹하다, 꾀다",
+        "synonyms": [
+          "lure",
+          "tempt",
+          "allure",
+          "seduce",
+          "coax"
+        ],
+        "examples": [
+          {
+            "text": "I enticed the little bear into the trap with a pot of honey.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ],
+    "origin": {
+      "ko": "속라틴어 *intitiāre(불을 붙이다)에서 고대 프랑스어를 거쳐 왔습니다. 욕망에 불을 붙여 꾄다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "entitled",
+    "score": 16,
+    "zipf": 4.51,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having a legal or moral right or claim to something.",
+        "ko": "자격이 있는, 권리가 있는",
+        "synonyms": [
+          "eligible",
+          "qualified",
+          "authorized",
+          "deserving"
+        ],
+        "examples": [
+          {
+            "text": "If you were injured at work you may be entitled to compensation.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Convinced of one's own righteousness (self-righteousness) or the justifiability of one's actions or status, especially wrongly so; demanding and pretentious.",
+        "ko": "특권 의식을 가진, 당연하다고 여기는",
+        "synonyms": [
+          "presumptuous",
+          "spoiled",
+          "self-important",
+          "demanding"
+        ],
+        "examples": [
+          {
+            "text": "Critics described the heirs as entitled, expecting privileges they had never earned.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ]
+  },
+  {
+    "word": "entitlement",
+    "score": 26,
+    "zipf": 3.55,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "right granted by law or contract (especially a right to benefits)",
+        "ko": "(법적) 수급권, 권리",
+        "synonyms": [
+          "right",
+          "claim",
+          "benefit",
+          "privilege"
+        ],
+        "examples": [
+          {
+            "text": "entitlements make up the major part of the federal budget",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A person's perceived but unjustified right to something; a tendency to claim what one does not deserve.",
+        "ko": "특권 의식, 당연시하는 태도",
+        "synonyms": [
+          "presumption",
+          "arrogance",
+          "privilege"
+        ],
+        "examples": [
+          {
+            "text": "A sense of entitlement made the young heir resent ordinary rules.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "-ment"
+    ]
+  },
+  {
+    "word": "entomology",
+    "score": 33,
+    "zipf": 2.81,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the branch of zoology that studies insects",
+        "ko": "곤충학",
+        "synonyms": [
+          "insectology"
+        ],
+        "examples": [
+          {
+            "text": "Her fascination with beetles led her to a career in entomology.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "entomo",
+      "-logy"
+    ],
+    "origin": {
+      "ko": "그리스어 éntomon(곤충)에 -logía(학문)가 붙었습니다. éntomon은 몸이 마디로 '잘려 있다'는 데서 나온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "entreat",
+    "score": 50,
+    "zipf": 2.32,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "ask for or request earnestly",
+        "ko": "간청하다, 애원하다",
+        "synonyms": [
+          "beseech",
+          "implore",
+          "beg",
+          "plead",
+          "supplicate"
+        ],
+        "examples": [
+          {
+            "text": "The mother entreated the guards to let her see her imprisoned son.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 entraiter(상대를 어떤 식으로 대하다, 협상하다)에서 왔습니다. 상대를 설득하며 간절히 부탁한다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "entrenched",
+    "score": 44,
+    "zipf": 3.31,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "established firmly and securely",
+        "ko": "깊이 뿌리박힌, 확고히 자리 잡은",
+        "synonyms": [
+          "established",
+          "ingrained",
+          "deep-rooted",
+          "fixed",
+          "inveterate"
+        ],
+        "examples": [
+          {
+            "text": "the entrenched power of the nobility",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ]
+  },
+  {
+    "word": "enumerate",
+    "score": 67,
+    "zipf": 2.4,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "specify individually",
+        "ko": "열거하다, 하나하나 나열하다",
+        "synonyms": [
+          "list",
+          "itemize",
+          "recite",
+          "cite",
+          "detail"
+        ],
+        "examples": [
+          {
+            "text": "She enumerated the many obstacles she had encountered",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "determine the number or amount of",
+        "ko": "수를 세다, 헤아리다",
+        "synonyms": [
+          "count",
+          "tally",
+          "number",
+          "calculate"
+        ],
+        "examples": [
+          {
+            "text": "Volunteers enumerated the migrating birds as they passed over the marsh.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "numer",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 ēnumerāre(하나하나 세다)에서 왔습니다. 하나씩 수를 세듯 나열한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

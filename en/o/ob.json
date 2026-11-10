@@ -1,0 +1,1000 @@
+[
+  {
+    "word": "obdurate",
+    "score": 95,
+    "zipf": 2.01,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Stubbornly persistent, generally in wrongdoing; refusing to reform or repent.",
+        "ko": "고집 센, 완고한",
+        "synonyms": [
+          "stubborn",
+          "obstinate",
+          "intransigent",
+          "unrepentant"
+        ],
+        "examples": [
+          {
+            "text": "The obdurate chairman rejected every compromise, even as the company's losses mounted.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Hardened against feeling; hard-hearted.",
+        "ko": "냉혹한, 무정한",
+        "synonyms": [
+          "hard-hearted",
+          "unfeeling",
+          "callous",
+          "stony"
+        ],
+        "examples": [
+          {
+            "text": "Moved by no plea, the obdurate landlord evicted the family in midwinter.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "dur",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 obdūrō '단단히 굳히다'에서 왔습니다. 마음을 돌처럼 굳혀 뉘우치지 않는 고집입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "obeisance",
+    "score": 32,
+    "zipf": 2.1,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "bending the head or body or knee as a sign of reverence or submission or shame or greeting",
+        "ko": "경의의 표시로 하는 절, 경례",
+        "synonyms": [
+          "bow",
+          "curtsy",
+          "salaam"
+        ],
+        "examples": [
+          {
+            "text": "The courtiers made deep obeisance as the queen entered the great hall.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "An obedient attitude.",
+        "ko": "복종, 경의",
+        "synonyms": [
+          "deference",
+          "homage",
+          "submission"
+        ],
+        "examples": [
+          {
+            "text": "The regime demanded constant obeisance from officials, who flattered the leader in every speech.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "aud",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 obeïr '복종하다'에서 왔고, 라틴어로는 '~에게 귀 기울이다'입니다. 복종의 뜻으로 몸을 숙이는 절을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "obfuscate",
+    "score": 50,
+    "zipf": 2.28,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To deliberately make more confusing in order to conceal the truth.",
+        "ko": "(일부러) 혼란스럽게 하다, 모호하게 만들다",
+        "synonyms": [
+          "obscure",
+          "muddy",
+          "cloud",
+          "confuse"
+        ],
+        "examples": [
+          {
+            "text": "obfuscate facts",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "fusc",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 obfuscō '어둡게 하다'에서 왔습니다. 일부러 어둡게 가려 진실을 흐린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "objective",
+    "score": 33,
+    "zipf": 4.36,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "undistorted by emotion or personal bias; based on observable phenomena",
+        "ko": "객관적인, 편견 없는",
+        "synonyms": [
+          "unbiased",
+          "impartial",
+          "disinterested",
+          "dispassionate"
+        ],
+        "examples": [
+          {
+            "text": "an objective appraisal",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the goal intended to be attained (and which is believed to be attainable)",
+        "ko": "목표, 목적",
+        "synonyms": [
+          "aim",
+          "goal",
+          "target",
+          "object"
+        ],
+        "examples": [
+          {
+            "text": "The study's primary objective is to measure how sleep affects memory in teenagers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "ject",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 obiectīvus에서 왔고, '앞에 던져진 대상'이 바탕입니다. 내 감정과 별개로 눈앞에 놓인 사실에 근거한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "objurgate",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To rebuke or scold strongly.",
+        "ko": "호되게 꾸짖다, 질책하다",
+        "synonyms": [
+          "castigate",
+          "berate",
+          "chastise",
+          "upbraid",
+          "rebuke"
+        ],
+        "examples": [
+          {
+            "text": "The coach objurgated his players after the team squandered a ten-point lead.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "jurg",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 obiūrgō '꾸짖다'에서 왔습니다. 상대에게 맞서 호되게 나무란다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "obliging",
+    "score": 35,
+    "zipf": 2.61,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing a cheerful willingness to do favors for others",
+        "ko": "친절한, 호의적인",
+        "synonyms": [
+          "accommodating",
+          "helpful",
+          "complaisant",
+          "amiable"
+        ],
+        "examples": [
+          {
+            "text": "The obliging clerk stayed late to help us find the missing documents.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "oblique",
+    "score": 61,
+    "zipf": 3.2,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Not straightforward; indirect; by implication; (sometimes even) obscure, ambiguous, or confusing.",
+        "ko": "간접적인, 완곡한, 에둘러 말하는",
+        "synonyms": [
+          "indirect",
+          "roundabout",
+          "circuitous",
+          "evasive"
+        ],
+        "examples": [
+          {
+            "text": "The minister made only an oblique reference to the scandal and avoided naming anyone.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Not erect or perpendicular; not parallel to, or at right angles from, the base.",
+        "ko": "비스듬한, 기울어진",
+        "synonyms": [
+          "slanting",
+          "slanted",
+          "inclined",
+          "askew"
+        ],
+        "examples": [
+          {
+            "text": "The oblique rays of the winter sun cast long shadows across the field.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 oblīquus '비스듬한, 옆으로 기운'에서 왔습니다. 곧바르지 않다는 뜻이 에둘러 말하는 것을 가리키게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "oblivious",
+    "score": 28,
+    "zipf": 3.31,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Lacking awareness; unmindful; unaware, unconscious of.",
+        "ko": "알아채지 못하는, 의식하지 못하는",
+        "synonyms": [
+          "unaware",
+          "unmindful",
+          "heedless",
+          "unconscious"
+        ],
+        "examples": [
+          {
+            "text": "Your grandmother is completely oblivious to her surroundings.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Forgetful.",
+        "ko": "잘 잊어버리는, 건망증이 있는",
+        "synonyms": [
+          "forgetful",
+          "absent-minded"
+        ],
+        "examples": [
+          {
+            "text": "He's hopelessly oblivious, always forgetting his appointments.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 oblīviōsus '잘 잊는'에서 왔으며, oblīvīscor는 '잊다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "obloquy",
+    "score": 24,
+    "zipf": 1.3,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Abusive language.",
+        "ko": "욕설, 비방",
+        "synonyms": [
+          "abuse",
+          "vituperation",
+          "invective",
+          "calumny"
+        ],
+        "examples": [
+          {
+            "text": "The whistleblower endured years of obloquy from former colleagues who accused him of betrayal.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "state of disgrace resulting from public abuse",
+        "ko": "불명예, 오명",
+        "synonyms": [
+          "opprobrium",
+          "disgrace",
+          "infamy",
+          "ignominy"
+        ],
+        "examples": [
+          {
+            "text": "After the fraud was exposed, the executive died in obloquy, his name stripped from the building.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "loqu",
+      "-y"
+    ],
+    "origin": {
+      "ko": "라틴어 obloquor '맞서 말하다, 반박하다'에서 왔습니다. 남에게 맞서 퍼붓는 욕설과 비방입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "obscure",
+    "score": 55,
+    "zipf": 3.85,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Difficult to understand; abstruse.",
+        "ko": "난해한, 이해하기 어려운",
+        "synonyms": [
+          "abstruse",
+          "cryptic",
+          "arcane",
+          "opaque"
+        ],
+        "examples": [
+          {
+            "text": "The philosopher's obscure prose frustrated even specialists who tried to paraphrase it.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Not well-known.",
+        "ko": "무명의, 잘 알려지지 않은",
+        "synonyms": [
+          "unknown",
+          "little-known",
+          "unsung",
+          "nameless"
+        ],
+        "examples": [
+          {
+            "text": "The obscure poet died unnoticed, and her work was rediscovered only decades later.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Unknown or uncertain; unclear.",
+        "ko": "불분명한, 확실치 않은",
+        "synonyms": [
+          "unclear",
+          "uncertain",
+          "vague"
+        ],
+        "examples": [
+          {
+            "text": "The etymological roots of the word \"blizzard\" are obscure and open to debate.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-"
+    ],
+    "origin": {
+      "ko": "라틴어 obscūrus '어두운, 희미한'에서 왔습니다. 어두워 잘 안 보인다는 뜻이 이해하기 어렵다로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "obsequious",
+    "score": 80,
+    "zipf": 2.14,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Excessively eager and attentive to please or to obey instructions; fawning, subservient, servile.",
+        "ko": "아첨하는, 비굴한",
+        "synonyms": [
+          "fawning",
+          "servile",
+          "sycophantic",
+          "ingratiating",
+          "subservient"
+        ],
+        "examples": [
+          {
+            "text": "The obsequious aide laughed at every joke his employer made, however feeble.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "sequ",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 obsequor '순순히 따르다'에서 왔습니다. 윗사람 뒤를 졸졸 따라다니며 비위를 맞추는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "obsolete",
+    "score": 40,
+    "zipf": 3.65,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "no longer in use",
+        "ko": "더 이상 쓰이지 않는, 구식의",
+        "synonyms": [
+          "outdated",
+          "outmoded",
+          "antiquated",
+          "disused"
+        ],
+        "examples": [
+          {
+            "text": "Digital cameras made film-based photography nearly obsolete within a single decade.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 obsolētus '닳아 없어진, 쓰이지 않게 된'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "obstinate",
+    "score": 82,
+    "zipf": 2.73,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Stubbornly adhering to an opinion, purpose, or course, usually with implied unreasonableness; persistent.",
+        "ko": "완고한, 고집 센",
+        "synonyms": [
+          "stubborn",
+          "headstrong",
+          "intransigent",
+          "pigheaded",
+          "obdurate"
+        ],
+        "examples": [
+          {
+            "text": "The obstinate negotiator refused to yield on a single point, prolonging the talks for months.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "st",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 obstinō '마음을 굳게 먹다'에서 왔고, stare '서다'와 이어집니다. 한 자리에 버티고 서서 물러나지 않는 고집입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "obstreperous",
+    "score": 59,
+    "zipf": 1.64,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Stubbornly defiant; disobedient; resistant to authority or control (whether in a noisy manner or not).",
+        "ko": "반항적인, 다루기 힘든",
+        "synonyms": [
+          "unruly",
+          "recalcitrant",
+          "refractory",
+          "defiant"
+        ],
+        "examples": [
+          {
+            "text": "The obstreperous students ignored the teacher's repeated pleas for order.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Attended by, or making, a loud and tumultuous noise; boisterous.",
+        "ko": "떠들썩한, 소란스러운",
+        "synonyms": [
+          "boisterous",
+          "clamorous",
+          "rowdy",
+          "vociferous"
+        ],
+        "examples": [
+          {
+            "text": "An obstreperous crowd gathered outside the courthouse, chanting and banging on drums.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "strep",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 obstreperus에서 17세기에 들어온 말입니다. 시끄럽게 맞서며 말을 안 듣는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "obstructionist",
+    "score": 33,
+    "zipf": 2.22,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Someone who attempts to impede the progress of legislation.",
+        "ko": "(의사) 방해자",
+        "synonyms": [
+          "filibusterer",
+          "stonewaller"
+        ],
+        "examples": [
+          {
+            "text": "Party leaders branded the dissenting senators obstructionists for blocking every proposed budget.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Someone who systematically obstructs the actions of others.",
+        "ko": "방해자, 훼방꾼",
+        "synonyms": [
+          "obstructor",
+          "blocker",
+          "hindrance"
+        ],
+        "examples": [
+          {
+            "text": "The mayor accused the council of acting as obstructionists to any reform of city services.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "stru",
+      "-ist"
+    ],
+    "origin": {
+      "ko": "obstruct(앞을 막아 세우다)에 -ist가 붙은 말로, 의사 진행을 가로막는 사람을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "obtain",
+    "score": 33,
+    "zipf": 4.4,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To get hold of; to gain possession of, to procure; to acquire, in any way.",
+        "ko": "얻다, 획득하다",
+        "synonyms": [
+          "acquire",
+          "procure",
+          "secure",
+          "gain"
+        ],
+        "examples": [
+          {
+            "text": "obtain permission",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To exist or be the case; to hold true, be in force.",
+        "ko": "유효하다, 성립하다, 널리 행해지다",
+        "synonyms": [
+          "prevail",
+          "hold",
+          "apply",
+          "persist"
+        ],
+        "examples": [
+          {
+            "text": "The rules that obtained during the war no longer apply, and the old arrangements have lapsed.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "ten(잡다)"
+    ],
+    "origin": {
+      "ko": "라틴어 obtinēre '손에 넣다'에서 왔고, tenēre는 '잡다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "obtrude",
+    "score": 21,
+    "zipf": 1.03,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To impose (oneself) on others; to cut in.",
+        "ko": "주제넘게 나서다, 강요하다",
+        "synonyms": [
+          "intrude",
+          "impose",
+          "interfere"
+        ],
+        "examples": [
+          {
+            "text": "He obtruded himself into the family's private discussion and offered unwanted advice.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To become apparent in an unwelcome way, to be forcibly imposed; to jut in, to intrude (on or into).",
+        "ko": "불쑥 끼어들다, 눈에 거슬리게 튀어나오다",
+        "synonyms": [
+          "intrude",
+          "encroach",
+          "protrude"
+        ],
+        "examples": [
+          {
+            "text": "Unwelcome doubts kept obtruding on her mind as she rehearsed the speech.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "trud"
+    ],
+    "origin": {
+      "ko": "라틴어 obtrūdō '~쪽으로 밀어붙이다'에서 왔습니다. 남에게 자기를 억지로 들이미는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "obtuse",
+    "score": 63,
+    "zipf": 3.04,
+    "lists": [
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking in insight or discernment",
+        "ko": "둔감한, 이해력이 둔한",
+        "synonyms": [
+          "dense",
+          "dull",
+          "slow",
+          "thick",
+          "dim-witted"
+        ],
+        "examples": [
+          {
+            "text": "too obtuse to grasp the implications of his behavior",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Blunt; not sharp, pointed, or acute in form.",
+        "ko": "무딘, 뭉툭한",
+        "synonyms": [
+          "blunt",
+          "dull",
+          "rounded"
+        ],
+        "examples": [
+          {
+            "text": "The tool's obtuse tip made it useless for fine carving.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "tund"
+    ],
+    "origin": {
+      "ko": "라틴어 obtūsus '무뎌진, 뭉툭한'에서 왔습니다. 계속 두들겨 날이 무뎌지듯 이해력이 둔하다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "obviate",
+    "score": 80,
+    "zipf": 2.11,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To anticipate and prevent or bypass (something which would otherwise have been necessary or required); to render (something) unnecessary.",
+        "ko": "(미리 방지하여) 불필요하게 만들다, 제거하다",
+        "synonyms": [
+          "preclude",
+          "forestall",
+          "preempt",
+          "avert"
+        ],
+        "examples": [
+          {
+            "text": "A reliable public transit system would obviate the need for most residents to own a car.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "vi(길)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 obviō '길을 막다, 방해하다'에서 왔습니다. 길목을 미리 막아 일이 필요 없게 만든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

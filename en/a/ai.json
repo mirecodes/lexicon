@@ -1,0 +1,38 @@
+[
+  {
+    "word": "aide",
+    "score": 24,
+    "zipf": 3.69,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone who acts as assistant",
+        "ko": "보좌관, 조수",
+        "synonyms": [
+          "assistant",
+          "helper",
+          "auxiliary",
+          "deputy",
+          "adjutant"
+        ],
+        "examples": [
+          {
+            "text": "A trusted aide drafted the senator's speech and briefed her before each interview.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 aide(도움, 조수)를 그대로 빌려온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

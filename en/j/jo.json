@@ -1,0 +1,116 @@
+[
+  {
+    "word": "jocular",
+    "score": 65,
+    "zipf": 2.21,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Humorous, amusing or joking.",
+        "ko": "익살스러운, 농담을 좋아하는",
+        "synonyms": [
+          "jocose",
+          "joking",
+          "facetious",
+          "playful",
+          "jesting"
+        ],
+        "examples": [
+          {
+            "text": "He was in a jocular mood all day.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "joc"
+    ],
+    "origin": {
+      "ko": "라틴어 iocularis에서 왔고 ioculus(작은 농담)와 iocus(농담)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "jocund",
+    "score": 41,
+    "zipf": 1.37,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "full of or showing high-spirited merriment",
+        "ko": "명랑한, 쾌활한",
+        "synonyms": [
+          "merry",
+          "jovial",
+          "jolly",
+          "cheerful",
+          "mirthful"
+        ],
+        "examples": [
+          {
+            "text": "The jocund crowd sang late into the night after the harvest festival.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어를 거쳐 라틴어 iūcundus '즐거운, 유쾌한'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "jovial",
+    "score": 34,
+    "zipf": 2.74,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Cheerful and good-humoured; jolly, merry.",
+        "ko": "유쾌한, 명랑한",
+        "synonyms": [
+          "jolly",
+          "genial",
+          "cheerful",
+          "convivial",
+          "affable"
+        ],
+        "examples": [
+          {
+            "text": "The jovial host greeted every guest with a warm handshake and a joke.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어와 프랑스어를 거쳐 로마 신 유피테르(Iovis)에서 왔습니다. 목성 아래 태어난 사람이 쾌활하다고 믿던 데서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "word": "axiom",
+    "score": 63,
+    "zipf": 3.02,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "(logic) a proposition that is not susceptible of proof or disproof; its truth is assumed to be self-evident",
+        "ko": "공리, 자명한 이치",
+        "synonyms": [
+          "postulate",
+          "premise",
+          "given",
+          "truism"
+        ],
+        "examples": [
+          {
+            "text": "The theorem follows directly from three axioms that the authors take to be self-evident.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a saying that is widely accepted on its own merits",
+        "ko": "격언, 통념",
+        "synonyms": [
+          "maxim",
+          "adage",
+          "aphorism",
+          "truism"
+        ],
+        "examples": [
+          {
+            "text": "Any publicity, runs the axiom, is good publicity.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 axioma(마땅하다고 여겨진 것)에서 왔고 axios(합당한)에서 나왔습니다. 증명 없이 인정되는 원리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "axiomatic",
+    "score": 36,
+    "zipf": 2.54,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "evident without proof or argument",
+        "ko": "자명한, 공리와 같은",
+        "synonyms": [
+          "self-evident",
+          "unquestionable",
+          "indisputable",
+          "given"
+        ],
+        "examples": [
+          {
+            "text": "It is axiomatic that the \"physical entry of the home is the chief evil against which the wording of the Fourth Amendment is directed.\"",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 axiomatikos(공리의)에서 왔고 axioma(자명한 원리)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

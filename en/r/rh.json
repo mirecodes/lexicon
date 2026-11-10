@@ -1,0 +1,145 @@
+[
+  {
+    "word": "rhapsodize",
+    "score": 23,
+    "zipf": 1.18,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "say (something) with great enthusiasm",
+        "ko": "열광적으로 말하다, 극찬하다",
+        "synonyms": [
+          "rave",
+          "gush",
+          "enthuse"
+        ],
+        "examples": [
+          {
+            "text": "Critics rhapsodized about the young pianist's debut, calling it the most thrilling performance of the decade.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ize"
+    ],
+    "origin": {
+      "ko": "rhapsody에 동사 접미사 -ize가 붙었습니다. 서사시 낭송자처럼 열광적으로 말한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rhapsody",
+    "score": 31,
+    "zipf": 3.01,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An exaggeratedly enthusiastic or exalted expression of feeling in speech or writing.",
+        "ko": "열광적인 표현, 열변",
+        "synonyms": [
+          "effusion",
+          "ecstasy",
+          "paean"
+        ],
+        "examples": [
+          {
+            "text": "Her review was a rhapsody of praise for the restored cathedral and its luminous windows.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "(music) a free instrumental composition in one extended movement; typically emotional or exuberant in character",
+        "ko": "광시곡",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "The orchestra closed the evening with a lush rhapsody built on folk melodies.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 rhapsōidia(서사시 낭송)에서 왔고, '노래를 꿰매 잇다'라는 이미지가 열광적 표현으로 바뀌었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rhetoric",
+    "score": 70,
+    "zipf": 3.95,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Meaningless language with an exaggerated style intended to impress.",
+        "ko": "공허한 미사여구, 허세 섞인 말",
+        "synonyms": [
+          "bombast",
+          "hot air",
+          "grandiloquence"
+        ],
+        "examples": [
+          {
+            "text": "Voters grew tired of campaign rhetoric that promised sweeping change but offered no concrete plans.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "using language effectively to please or persuade",
+        "ko": "수사법, 설득의 기술",
+        "synonyms": [
+          "oratory",
+          "eloquence"
+        ],
+        "examples": [
+          {
+            "text": "Aristotle's treatise on rhetoric remains a foundation for the study of persuasion.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "rhet",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 rhētorikē(연설가의 기술)에서 왔습니다. 말솜씨가 알맹이 없는 미사여구라는 뜻으로도 쓰입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

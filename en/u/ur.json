@@ -1,0 +1,43 @@
+[
+  {
+    "word": "urbane",
+    "score": 68,
+    "zipf": 2.46,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing a high degree of refinement and the assurance that comes from wide social experience",
+        "ko": "세련된, 우아하고 교양 있는",
+        "synonyms": [
+          "suave",
+          "polished",
+          "refined",
+          "sophisticated",
+          "debonair"
+        ],
+        "examples": [
+          {
+            "text": "The urbane ambassador charmed every guest at the dinner with his easy wit and impeccable manners.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "urb"
+    ],
+    "origin": {
+      "ko": "라틴어 urbānus('도시의')에서 왔습니다. 도시 사람처럼 세련됐다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

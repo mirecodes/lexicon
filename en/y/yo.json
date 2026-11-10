@@ -1,0 +1,56 @@
+[
+  {
+    "word": "yoke",
+    "score": 30,
+    "zipf": 3.09,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an oppressive power",
+        "ko": "속박, 압제",
+        "synonyms": [
+          "bondage",
+          "oppression",
+          "subjugation",
+          "servitude"
+        ],
+        "examples": [
+          {
+            "text": "they threw off the yoke of domination",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "link with or as with a yoke",
+        "ko": "결합시키다, 연결하다",
+        "synonyms": [
+          "link",
+          "couple",
+          "unite",
+          "bind"
+        ],
+        "examples": [
+          {
+            "text": "The treaty yoked the two economies together, making each dependent on the other.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 ġeoc('멍에')에서 왔고 '잇다'는 어근과 이어집니다. 소의 목을 묶는 멍에가 '속박'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

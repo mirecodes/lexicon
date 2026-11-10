@@ -1,0 +1,1024 @@
+[
+  {
+    "word": "hackneyed",
+    "score": 99,
+    "zipf": 2.4,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "repeated too often; overfamiliar through overuse",
+        "ko": "진부한, 낡아빠진",
+        "synonyms": [
+          "trite",
+          "banal",
+          "stale",
+          "clichéd",
+          "threadbare"
+        ],
+        "examples": [
+          {
+            "text": "The sermon was full of hackneyed phrases and platitudes.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "hackney(임대 마차)에 -ed가 붙은 말입니다. 임대 마차처럼 너무 흔하게 쓰여 식상해졌다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "haggle",
+    "score": 34,
+    "zipf": 2.65,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To argue for a better deal, especially over prices between a buyer and seller.",
+        "ko": "흥정하다, 값을 깎으려 승강이하다",
+        "synonyms": [
+          "bargain",
+          "barter",
+          "chaffer",
+          "wrangle"
+        ],
+        "examples": [
+          {
+            "text": "I haggled for a better price because the original price was too high.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세영어 haggen '마구 베다'에서 왔고 hack(난도질하다)과 같은 계통입니다. 값을 깎아 잘라낸다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hagiographic",
+    "score": 28,
+    "zipf": 1.67,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Uncritically reverent; adulating.",
+        "ko": "무비판적으로 찬양하는, 우상화하는",
+        "synonyms": [
+          "adulatory",
+          "worshipful",
+          "fawning",
+          "idealizing"
+        ],
+        "examples": [
+          {
+            "text": "Reviewers faulted the hagiographic biography for ignoring the statesman's well-documented failures.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hagi",
+      "graph",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 hagios(성스러운)와 graphia(쓰기)가 합쳐져 성인전을 쓰는 글을 뜻합니다. 성인을 기리듯 무비판적으로 찬양한다는 뜻으로 번졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hail",
+    "score": 22,
+    "zipf": 3.92,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "praise vociferously",
+        "ko": "환호하며 칭송하다, 격찬하다",
+        "synonyms": [
+          "acclaim",
+          "laud",
+          "herald",
+          "applaud"
+        ],
+        "examples": [
+          {
+            "text": "The critics hailed the young pianist as a new Rubinstein",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To call out loudly in order to gain the attention of.",
+        "ko": "큰 소리로 부르다, (택시 등을) 불러 세우다",
+        "synonyms": [
+          "call",
+          "flag down",
+          "summon"
+        ],
+        "examples": [
+          {
+            "text": "Hail a taxi.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "many objects thrown forcefully through the air",
+        "ko": "쏟아지는 것, 빗발침",
+        "synonyms": [
+          "barrage",
+          "volley",
+          "shower",
+          "storm"
+        ],
+        "examples": [
+          {
+            "text": "A hail of criticism greeted the minister as she stepped up to the podium.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 노르드어 heill '건강한'에서 온 인사말입니다. 건강을 빌며 맞이하는 데서 '환호하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "halcyon",
+    "score": 82,
+    "zipf": 2.65,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "idyllically calm and peaceful; suggesting happy tranquillity",
+        "ko": "평온한, 고요하고 행복한",
+        "synonyms": [
+          "serene",
+          "tranquil",
+          "peaceful",
+          "placid"
+        ],
+        "examples": [
+          {
+            "text": "She recalled the halcyon summers of her childhood spent beside the quiet lake.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "marked by peace and prosperity",
+        "ko": "태평성대의, 황금기의",
+        "synonyms": [
+          "golden",
+          "prosperous",
+          "idyllic"
+        ],
+        "examples": [
+          {
+            "text": "the halcyon days of the clipper trade",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 alkyōn '물총새'에서 왔습니다. 물총새가 알을 품는 동안 바다가 잔잔했다는 전설에서 '평온한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hale",
+    "score": 25,
+    "zipf": 3.6,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "exhibiting or restored to vigorous good health",
+        "ko": "정정한, 건강한",
+        "synonyms": [
+          "robust",
+          "hearty",
+          "vigorous",
+          "sound"
+        ],
+        "examples": [
+          {
+            "text": "Though nearly ninety, the retired professor remained hale and walked to campus every morning.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To drag or pull, especially forcibly.",
+        "ko": "억지로 끌고 가다, 잡아끌다",
+        "synonyms": [
+          "haul",
+          "drag",
+          "pull"
+        ],
+        "examples": [
+          {
+            "text": "The protesters were haled before the magistrate to answer for the disturbance.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 hāl '온전한, 건강한'에서 왔고 whole과 같은 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hallmark",
+    "score": 27,
+    "zipf": 3.37,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a distinctive characteristic or attribute of someone or something",
+        "ko": "특징, 상징적 특성",
+        "synonyms": [
+          "trademark",
+          "signature",
+          "earmark",
+          "characteristic"
+        ],
+        "examples": [
+          {
+            "text": "Careful attention to detail is the hallmark of her scholarship.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "hall과 mark의 합성어입니다. 런던 금세공사 회관(Goldsmiths' Hall)에서 순도를 보증해 찍던 도장이 '특징, 품질 보증'으로 번졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "halting",
+    "score": 31,
+    "zipf": 3.03,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Prone to pauses or breaks; hesitant; broken.",
+        "ko": "더듬거리는, 머뭇거리는",
+        "synonyms": [
+          "hesitant",
+          "faltering",
+          "stammering",
+          "tentative"
+        ],
+        "examples": [
+          {
+            "text": "After a halting start, the negotiations gradually gathered pace and produced a framework agreement.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hamper",
+    "score": 44,
+    "zipf": 3.26,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "prevent the progress or free movement of",
+        "ko": "방해하다, 저해하다",
+        "synonyms": [
+          "hinder",
+          "impede",
+          "obstruct",
+          "hamstring",
+          "encumber"
+        ],
+        "examples": [
+          {
+            "text": "He was hampered in his efforts by the bad weather",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hamstring",
+    "score": 29,
+    "zipf": 3.16,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make ineffective or powerless",
+        "ko": "무력하게 만들다, 손발을 묶다",
+        "synonyms": [
+          "cripple",
+          "incapacitate",
+          "thwart",
+          "handicap"
+        ],
+        "examples": [
+          {
+            "text": "The teachers were hamstrung by the overly rigid schedules",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ham",
+      "string"
+    ],
+    "origin": {
+      "ko": "ham(오금)과 string(힘줄)의 합성어입니다. 오금 힘줄을 끊어 다리를 못 쓰게 한다는 뜻에서 '무력하게 만들다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hand-wringing",
+    "score": 34,
+    "zipf": 2.7,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an excessive and often ineffectual display of concern or distress",
+        "ko": "안절부절못함, 지나친 걱정과 한탄",
+        "synonyms": [
+          "agonizing",
+          "fretting",
+          "angst"
+        ],
+        "examples": [
+          {
+            "text": "After all the public hand-wringing, the council quietly approved the budget cuts without any alternative plan.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "haphazard",
+    "score": 49,
+    "zipf": 2.77,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "dependent upon or characterized by chance",
+        "ko": "우연에 맡긴, 무계획적인",
+        "synonyms": [
+          "random",
+          "hit-or-miss",
+          "arbitrary",
+          "aimless"
+        ],
+        "examples": [
+          {
+            "text": "The library's haphazard arrangement of books made finding any particular title a matter of luck.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "marked by great carelessness",
+        "ko": "엉성한, 부주의한",
+        "synonyms": [
+          "slapdash",
+          "slipshod",
+          "sloppy",
+          "careless"
+        ],
+        "examples": [
+          {
+            "text": "a most haphazard system of record keeping",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hap",
+      "hazard"
+    ],
+    "origin": {
+      "ko": "옛말 hap(우연, 운)과 hazard(우연, 위험)가 합쳐진 말입니다. 우연에 맡긴다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hapless",
+    "score": 64,
+    "zipf": 2.88,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Very unlucky; ill-fated.",
+        "ko": "불운한, 운수 사나운",
+        "synonyms": [
+          "unfortunate",
+          "luckless",
+          "ill-fated",
+          "wretched"
+        ],
+        "examples": [
+          {
+            "text": "The hapless traveler arrived at the station just as the last train pulled away.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hap",
+      "-less"
+    ],
+    "origin": {
+      "ko": "옛말 hap(운)에 -less(없는)가 붙은 말입니다. 운이 없으니 '불운한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "harangue",
+    "score": 80,
+    "zipf": 2.07,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A tirade, harsh scolding or rant, whether spoken or written.",
+        "ko": "장황한 비난, 열변",
+        "synonyms": [
+          "tirade",
+          "diatribe",
+          "rant",
+          "screed"
+        ],
+        "examples": [
+          {
+            "text": "She gave her son a harangue about the dangers of playing in the street.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To give a forceful and lengthy lecture or criticism to someone.",
+        "ko": "열변을 토하며 몰아세우다, 장황하게 꾸짖다",
+        "synonyms": [
+          "berate",
+          "lecture",
+          "admonish",
+          "upbraid"
+        ],
+        "examples": [
+          {
+            "text": "The angry motorist leapt from his car to harangue the other driver.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 aringare '공개 집회에서 연설하다'에서 왔고, 고트어 계통 hriggs(집회, 둥근 모임)가 뿌리로 추정됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "harbinger",
+    "score": 32,
+    "zipf": 2.91,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "something that precedes and indicates the approach of something or someone",
+        "ko": "전조, 선구자",
+        "synonyms": [
+          "herald",
+          "precursor",
+          "omen",
+          "forerunner"
+        ],
+        "examples": [
+          {
+            "text": "Early crocuses are often seen as the harbinger of spring after a long winter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "foreshadow or presage",
+        "ko": "예고하다, 전조가 되다",
+        "synonyms": [
+          "herald",
+          "presage",
+          "foretell",
+          "augur"
+        ],
+        "examples": [
+          {
+            "text": "The sudden drop in orders harbingered a much deeper slump in manufacturing.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "원래 숙소를 미리 마련하러 먼저 보내던 사람입니다. 앞서 와서 다음을 알리는 존재가 '전조, 선구자'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hardy",
+    "score": 22,
+    "zipf": 3.86,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having rugged physical strength; inured to fatigue or hardships",
+        "ko": "강인한, 고난을 견디는",
+        "synonyms": [
+          "robust",
+          "sturdy",
+          "stalwart",
+          "rugged"
+        ],
+        "examples": [
+          {
+            "text": "Only the hardiest climbers attempted the final ascent in the freezing wind.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "able to survive under unfavorable weather conditions",
+        "ko": "내한성이 강한, 악조건에 잘 견디는",
+        "synonyms": [
+          "tough",
+          "resilient",
+          "durable"
+        ],
+        "examples": [
+          {
+            "text": "Hardy perennials such as lavender survive the harsh winters of the northern plains.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 hardi '대담한, 굳센'에서 왔고 프랑크어 hard(단단한)와 연결됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "harried",
+    "score": 35,
+    "zipf": 2.44,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Stressed, rushed, panicked, overly busy or preoccupied.",
+        "ko": "시달리는, 쫓기듯 바쁜",
+        "synonyms": [
+          "harassed",
+          "flustered",
+          "beleaguered",
+          "hassled"
+        ],
+        "examples": [
+          {
+            "text": "The entire place teemed with harried executives who had no time to talk to one another.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "harrow",
+    "score": 30,
+    "zipf": 3.08,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To traumatize or disturb; to torment, distress or vex.",
+        "ko": "괴롭히다, 고뇌하게 하다",
+        "synonyms": [
+          "torment",
+          "distress",
+          "torture",
+          "agonize"
+        ],
+        "examples": [
+          {
+            "text": "The memory of the shipwreck continued to harrow the survivors long after they returned home.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "draw a harrow over (land)",
+        "ko": "써레질하다",
+        "synonyms": [
+          "rake",
+          "till"
+        ],
+        "examples": [
+          {
+            "text": "The farmers harrow the field in early spring before sowing the seed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세영어 harwe '써레(땅 긁는 농기구)'에서 왔습니다. 써레로 땅을 긁듯 마음을 헤집는 데서 '괴롭히다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "harrowing",
+    "score": 30,
+    "zipf": 3.07,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "extremely painful",
+        "ko": "몹시 고통스러운, 처참한",
+        "synonyms": [
+          "agonizing",
+          "excruciating",
+          "distressing",
+          "traumatic"
+        ],
+        "examples": [
+          {
+            "text": "The documentary offers a harrowing account of the family's escape across the war-torn border.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "harrow(괴롭히다)에 -ing가 붙은 말입니다. 마음을 갈가리 긁어 놓을 만큼 고통스럽다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "harry",
+    "score": 16,
+    "zipf": 4.72,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "annoy continually or chronically",
+        "ko": "끊임없이 괴롭히다",
+        "synonyms": [
+          "harass",
+          "hound",
+          "badger",
+          "pester",
+          "plague"
+        ],
+        "examples": [
+          {
+            "text": "He is known to harry his staff when he is overworked",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make a pillaging or destructive raid on (a place), as in wartimes",
+        "ko": "약탈하다, 습격하여 황폐하게 하다",
+        "synonyms": [
+          "ravage",
+          "plunder",
+          "pillage",
+          "raid"
+        ],
+        "examples": [
+          {
+            "text": "Raiders harried the coastal villages each summer, burning crops and seizing livestock.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 hergian '약탈하다'에서 왔고, 게르만어 harjaz(군대)가 뿌리입니다. 군대가 쳐들어와 시달리게 하는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "haughty",
+    "score": 50,
+    "zipf": 2.68,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having or showing arrogant superiority to and disdain of those one views as unworthy",
+        "ko": "오만한, 거만한",
+        "synonyms": [
+          "arrogant",
+          "supercilious",
+          "disdainful",
+          "imperious",
+          "condescending"
+        ],
+        "examples": [
+          {
+            "text": "The haughty maître d' looked past the couple as though they were not worth his attention.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 haut '높은'에서 왔습니다. 스스로를 높이 두는 태도가 '오만한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hauteur",
+    "score": 28,
+    "zipf": 1.7,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "overbearing pride evidenced by a superior manner toward inferiors",
+        "ko": "오만, 거드름",
+        "synonyms": [
+          "arrogance",
+          "haughtiness",
+          "disdain",
+          "condescension"
+        ],
+        "examples": [
+          {
+            "text": "She addressed the junior staff with a hauteur that quickly made her unpopular.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 haut '높은'에서 나온 말입니다. 자신을 높이 두고 남을 내려다보는 태도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "haven",
+    "score": 20,
+    "zipf": 4.13,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A safe place.",
+        "ko": "피난처, 안식처",
+        "synonyms": [
+          "refuge",
+          "sanctuary",
+          "shelter",
+          "asylum"
+        ],
+        "examples": [
+          {
+            "text": "Since its conception, the European Union has been a haven for those seeking refuge from war, persecution and poverty in other parts of the world.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a sheltered port where ships can take on or discharge cargo",
+        "ko": "항구, 안전한 정박지",
+        "synonyms": [
+          "harbor",
+          "port",
+          "anchorage"
+        ],
+        "examples": [
+          {
+            "text": "The fishing fleet sought the haven of the bay as the storm closed in.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 hæfen '항구'에서 왔습니다. 배가 안전하게 쉬는 항구가 '피난처'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

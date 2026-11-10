@@ -1,0 +1,326 @@
+[
+  {
+    "word": "fulcrum",
+    "score": 33,
+    "zipf": 2.76,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A crux or pivot; a central point.",
+        "ko": "중심점, 핵심",
+        "synonyms": [
+          "pivot",
+          "linchpin",
+          "crux",
+          "hub"
+        ],
+        "examples": [
+          {
+            "text": "The mediator became the fulcrum on which the entire peace negotiation turned.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the pivot about which a lever turns",
+        "ko": "지레의 받침점",
+        "synonyms": [
+          "pivot",
+          "support",
+          "pin"
+        ],
+        "examples": [
+          {
+            "text": "Place the plank across a rock so the rock serves as the fulcrum of the lever.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 fulcrum '침대 기둥'에서 왔고 fulciō(떠받치다)에서 나왔습니다. 받쳐 주는 지점이 '중심점'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fulminate",
+    "score": 61,
+    "zipf": 1.81,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "criticize severely",
+        "ko": "맹렬히 비난하다",
+        "synonyms": [
+          "rail",
+          "denounce",
+          "inveigh",
+          "rant",
+          "thunder"
+        ],
+        "examples": [
+          {
+            "text": "Editorial writers fulminated against the new tax, calling it an outrage against working families.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cause to explode violently and with loud noise",
+        "ko": "폭발하다, 폭발시키다",
+        "synonyms": [
+          "explode",
+          "detonate",
+          "blast"
+        ],
+        "examples": [
+          {
+            "text": "The unstable compound fulminated when the technician struck it with a hammer.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fulmin",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 fulmen(번개)에서 온 fulminō '번개를 내리치다'에서 왔습니다. 번개 치듯 맹렬히 비난한다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "functionary",
+    "score": 34,
+    "zipf": 2.34,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a worker who holds or is invested with an office",
+        "ko": "공무원, 관리",
+        "synonyms": [
+          "official",
+          "bureaucrat",
+          "officer",
+          "apparatchik"
+        ],
+        "examples": [
+          {
+            "text": "A minor party functionary stamped the documents without even glancing at their contents.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "funct",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "프랑스어 fonctionnaire에서 왔습니다. function(직무)을 수행하는 사람이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fungible",
+    "score": 33,
+    "zipf": 2.17,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Able to be substituted for something of equal value or utility.",
+        "ko": "대체 가능한",
+        "synonyms": [
+          "interchangeable",
+          "exchangeable",
+          "replaceable"
+        ],
+        "examples": [
+          {
+            "text": "Grain of a given grade is fungible, so one bushel can stand in for another.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "funct",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 fungor(수행하다, 대신하다)에서 왔습니다. 로마법에서 서로 대체할 수 있는 물건을 가리킨 법률 용어입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "furnish",
+    "score": 30,
+    "zipf": 3.14,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "give something useful or necessary to",
+        "ko": "제공하다, 공급하다",
+        "synonyms": [
+          "supply",
+          "provide",
+          "equip",
+          "render"
+        ],
+        "examples": [
+          {
+            "text": "The witness furnished investigators with documents that proved the company had falsified its records.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "provide or equip with furniture",
+        "ko": "가구를 비치하다",
+        "synonyms": [
+          "equip",
+          "outfit",
+          "fit out"
+        ],
+        "examples": [
+          {
+            "text": "They furnished the apartment with secondhand tables and a few threadbare rugs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑크어 *frumjan '완수하다'에서 고대 프랑스어 furnir를 거쳐 왔습니다. 필요한 것을 마련해 준다는 뜻으로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "furtive",
+    "score": 84,
+    "zipf": 2.49,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by quiet and caution and secrecy; taking pains to avoid being observed",
+        "ko": "은밀한, 몰래 하는",
+        "synonyms": [
+          "stealthy",
+          "surreptitious",
+          "sly",
+          "clandestine",
+          "sneaky"
+        ],
+        "examples": [
+          {
+            "text": "He cast a furtive glance over his shoulder before slipping the envelope into his coat.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fur",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "라틴어 fūrtīvus '훔친, 은밀한'에서 왔고, fūr(도둑)에서 나온 말입니다. 도둑처럼 몰래 하는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "futile",
+    "score": 59,
+    "zipf": 3.39,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "producing no result or effect",
+        "ko": "헛된, 무익한",
+        "synonyms": [
+          "ineffectual",
+          "vain",
+          "fruitless",
+          "useless",
+          "pointless"
+        ],
+        "examples": [
+          {
+            "text": "Rescuers made a futile attempt to reach the trapped miners before the tunnel collapsed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 프랑스어를 거쳐 라틴어 fūtilis에서 들어온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

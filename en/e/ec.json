@@ -1,0 +1,367 @@
+[
+  {
+    "word": "eccentric",
+    "score": 57,
+    "zipf": 3.58,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "conspicuously or grossly unconventional or unusual",
+        "ko": "별난, 괴짜스러운, 기이한",
+        "synonyms": [
+          "unconventional",
+          "idiosyncratic",
+          "quirky",
+          "odd",
+          "outlandish"
+        ],
+        "examples": [
+          {
+            "text": "The eccentric billionaire insisted on conducting every board meeting from the roof of his greenhouse.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a person with an unusual or odd personality",
+        "ko": "괴짜, 별난 사람",
+        "synonyms": [
+          "oddball",
+          "crank",
+          "nonconformist"
+        ],
+        "examples": [
+          {
+            "text": "Neighbors regarded the retired professor as a harmless eccentric who talked to his tomato plants.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Not at or in the centre; away from the centre.",
+        "ko": "중심에서 벗어난, 중심이 다른",
+        "synonyms": [
+          "off-center",
+          "offbeat"
+        ],
+        "examples": [
+          {
+            "text": "The wheel turned on an eccentric axle, producing a wobbling motion.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "centr",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 ékkentros '중심에서 벗어난'에서 왔습니다. 중심을 벗어난 모습이 '별난'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "echelon",
+    "score": 48,
+    "zipf": 2.93,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A level or rank in an organization, profession, or society.",
+        "ko": "계층, 등급, 지위",
+        "synonyms": [
+          "rank",
+          "level",
+          "rung",
+          "tier",
+          "stratum"
+        ],
+        "examples": [
+          {
+            "text": "Few women had reached the upper echelons of the company before the reforms of the 1990s.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 échelon(사다리 가로대)에서 왔고 échelle(사다리)에 축소 접미사가 붙었습니다. 사다리 단에서 '등급'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "eclectic",
+    "score": 75,
+    "zipf": 3.37,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Selecting a mixture of what appears to be best of various doctrines, methods or styles.",
+        "ko": "절충적인, 다양한 것에서 취하는",
+        "synonyms": [
+          "diverse",
+          "varied",
+          "catholic",
+          "broad-ranging"
+        ],
+        "examples": [
+          {
+            "text": "Though rooted in jazz, Byron's music is stylistically eclectic.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Unrelated and unspecialized; heterogeneous.",
+        "ko": "잡다한, 이질적인",
+        "synonyms": [
+          "heterogeneous",
+          "miscellaneous",
+          "assorted"
+        ],
+        "examples": [
+          {
+            "text": "Her eclectic reading list ranged from medieval poetry to quantum physics and cookbooks.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "leg(고르다)",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 eklektikós(골라 뽑는)에서 왔습니다. 여러 곳에서 좋은 것만 골라 쓴다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "eclipse",
+    "score": 39,
+    "zipf": 3.81,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be greater in significance than",
+        "ko": "가리다, 능가하다",
+        "synonyms": [
+          "overshadow",
+          "outshine",
+          "surpass",
+          "dwarf",
+          "upstage"
+        ],
+        "examples": [
+          {
+            "text": "The young pianist's brilliance soon eclipsed the fame of her more celebrated teacher.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Obscurity, decline, downfall.",
+        "ko": "쇠퇴, 몰락, 빛을 잃음",
+        "synonyms": [
+          "decline",
+          "downfall",
+          "obscurity"
+        ],
+        "examples": [
+          {
+            "text": "The once-powerful dynasty fell into eclipse after losing its last overseas colonies.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "one celestial body obscures another",
+        "ko": "(천체의) 식, 일식·월식",
+        "synonyms": [
+          "occultation"
+        ],
+        "examples": [
+          {
+            "text": "Crowds gathered on the plain to watch the total eclipse of the sun.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "linqu"
+    ],
+    "origin": {
+      "ko": "그리스어 ekleípō(버리고 떠나다, 사라지다)에서 왔습니다. 해나 달이 사라지는 '식'에서 '가리다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "economical",
+    "score": 25,
+    "zipf": 3.59,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "avoiding waste",
+        "ko": "절약하는, 검소한, 알뜰한",
+        "synonyms": [
+          "frugal",
+          "thrifty",
+          "sparing",
+          "prudent"
+        ],
+        "examples": [
+          {
+            "text": "The economical shopper compared prices at three stores before buying a single appliance.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "using the minimum of time or resources necessary for effectiveness",
+        "ko": "경제적인, 효율적인",
+        "synonyms": [
+          "efficient",
+          "cost-effective",
+          "economic"
+        ],
+        "examples": [
+          {
+            "text": "a modern economical heating system",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "eco",
+      "nom(법)",
+      "-ical"
+    ],
+    "origin": {
+      "ko": "그리스어 oikonomikós(가정 관리의)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "economy",
+    "score": 16,
+    "zipf": 4.87,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the efficient use of resources",
+        "ko": "절약, 효율적 사용",
+        "synonyms": [
+          "thrift",
+          "frugality",
+          "efficiency",
+          "saving"
+        ],
+        "examples": [
+          {
+            "text": "The poet's economy of language made every line carry more meaning than its length suggested.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the system of production and distribution and consumption",
+        "ko": "경제, 경제 체제",
+        "synonyms": [
+          "economic system"
+        ],
+        "examples": [
+          {
+            "text": "The national economy contracted sharply as export demand collapsed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "eco",
+      "nom(법)",
+      "-y"
+    ],
+    "origin": {
+      "ko": "그리스어 oikonomía '집안 살림 관리'에서 왔습니다. 집안 살림을 아껴 꾸리는 데서 '절약'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

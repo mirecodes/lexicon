@@ -1,0 +1,400 @@
+[
+  {
+    "word": "theory",
+    "score": 16,
+    "zipf": 4.88,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a tentative insight into the natural world; a concept that is not yet verified but that if true would explain certain facts or phenomena",
+        "ko": "가설, 추측",
+        "synonyms": [
+          "hypothesis",
+          "conjecture",
+          "supposition",
+          "speculation"
+        ],
+        "examples": [
+          {
+            "text": "The detective's theory that the butler was innocent rested on a single overlooked footprint.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The underlying principles or methods of a given technical skill, art etc., as opposed to its practice.",
+        "ko": "이론 (실제와 대비되는 원리)",
+        "synonyms": [
+          "principles",
+          "doctrine",
+          "fundamentals"
+        ],
+        "examples": [
+          {
+            "text": "Lopukhov wrote a number of books and articles on ballet theory, as well as his memoirs.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 theōrós('구경꾼')에서 나온 theōría('관찰, 숙고')를 라틴어와 프랑스어를 거쳐 받았습니다. 보고 헤아린 생각이 '이론, 가설'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "thorough",
+    "score": 21,
+    "zipf": 3.97,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "performed comprehensively and completely; not superficial or partial",
+        "ko": "철저한, 완전한",
+        "synonyms": [
+          "exhaustive",
+          "comprehensive",
+          "complete",
+          "in-depth"
+        ],
+        "examples": [
+          {
+            "text": "A thorough review of the archive turned up letters that no earlier historian had noticed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "painstakingly careful and accurate",
+        "ko": "꼼꼼한, 세심한",
+        "synonyms": [
+          "meticulous",
+          "painstaking",
+          "conscientious",
+          "careful"
+        ],
+        "examples": [
+          {
+            "text": "our accountant is thorough",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 þuruh에서 왔고 through와 같은 뿌리입니다. 끝까지 꿰뚫고 지나간다는 이미지에서 '철저한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "thoroughgoing",
+    "score": 29,
+    "zipf": 1.82,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "performed comprehensively and completely; not superficial or partial",
+        "ko": "철저한, 빈틈없는",
+        "synonyms": [
+          "exhaustive",
+          "thorough",
+          "comprehensive",
+          "sweeping"
+        ],
+        "examples": [
+          {
+            "text": "The new director ordered a thoroughgoing overhaul of the museum's cataloguing system.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "without qualification; used informally as (often pejorative) intensifiers",
+        "ko": "완전한, 철저한 (주로 경멸조)",
+        "synonyms": [
+          "arrant",
+          "utter",
+          "consummate",
+          "out-and-out",
+          "absolute"
+        ],
+        "examples": [
+          {
+            "text": "The critic dismissed the pamphlet as the work of a thoroughgoing charlatan.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "thorough에 going을 붙인 합성어입니다. 끝까지 밀고 나간다는 뜻에서 '철저한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "thrall",
+    "score": 33,
+    "zipf": 2.8,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The state of being under the control of another person.",
+        "ko": "속박, 지배당함",
+        "synonyms": [
+          "bondage",
+          "servitude",
+          "slavery",
+          "subjugation"
+        ],
+        "examples": [
+          {
+            "text": "Today's kids are in thrall to their phones.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "someone held in bondage",
+        "ko": "노예, 종",
+        "synonyms": [
+          "slave",
+          "serf",
+          "vassal",
+          "bondsman"
+        ],
+        "examples": [
+          {
+            "text": "In the old saga, the farmer's thrall tended the sheep and was never allowed to leave the estate.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 노르드어 þræll('노예')에서 왔고 원래 '달리는 심부름꾼'을 뜻하는 말에서 나왔습니다. 노예 상태가 '속박'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "threadbare",
+    "score": 35,
+    "zipf": 2.43,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "repeated too often; overfamiliar through overuse",
+        "ko": "진부한, 식상한",
+        "synonyms": [
+          "trite",
+          "hackneyed",
+          "banal",
+          "stale",
+          "timeworn"
+        ],
+        "examples": [
+          {
+            "text": "The candidate's threadbare slogans failed to stir an audience that had heard them every election.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having the nap worn away so that the threads show through",
+        "ko": "올이 다 드러난, 닳아 해진",
+        "synonyms": [
+          "worn",
+          "frayed",
+          "shabby",
+          "tattered"
+        ],
+        "examples": [
+          {
+            "text": "The student wore a threadbare coat that had clearly seen many winters.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "thread('실')와 bare('드러난')의 합성어입니다. 올이 다 드러나도록 닳은 옷이 '진부한' 표현으로 비유되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "thrifty",
+    "score": 32,
+    "zipf": 2.86,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Showing thrift; economical; frugal.",
+        "ko": "검소한, 절약하는",
+        "synonyms": [
+          "frugal",
+          "economical",
+          "sparing",
+          "prudent",
+          "provident"
+        ],
+        "examples": [
+          {
+            "text": "Raised by thrifty parents, she saved a third of every paycheck from her very first job.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 thrift에 -y를 붙인 말입니다. 아끼며 살림을 불리는 모습이 '검소한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "throng",
+    "score": 33,
+    "zipf": 2.8,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a large gathering of people",
+        "ko": "군중, 인파",
+        "synonyms": [
+          "multitude",
+          "crowd",
+          "horde",
+          "mob",
+          "swarm"
+        ],
+        "examples": [
+          {
+            "text": "A throng of commuters pushed through the station gates as the evening trains arrived.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To crowd into a place, especially to fill it.",
+        "ko": "떼지어 모이다, 쇄도하다",
+        "synonyms": [
+          "crowd",
+          "swarm",
+          "flock",
+          "converge"
+        ],
+        "examples": [
+          {
+            "text": "Thousands thronged the plaza to hear the president's first address after the election.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 þrang('군중, 밀집')에서 왔습니다. 서로 밀어붙이며 모인 사람들이 '인파'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "thwart",
+    "score": 30,
+    "zipf": 3.06,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To cause to fail; to frustrate, to prevent.",
+        "ko": "좌절시키다, 방해하다",
+        "synonyms": [
+          "foil",
+          "frustrate",
+          "baffle",
+          "balk",
+          "hinder"
+        ],
+        "examples": [
+          {
+            "text": "The police thwarted the would-be assassin.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 노르드어 þvert('가로지르는')에서 왔습니다. 앞길을 가로막는다는 이미지에서 '좌절시키다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,1089 @@
+[
+  {
+    "word": "chaff",
+    "score": 34,
+    "zipf": 2.75,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Any excess or unwanted material, resource, or person; anything worthless.",
+        "ko": "쓸모없는 것, 찌꺼기",
+        "synonyms": [
+          "rubbish",
+          "dross",
+          "refuse",
+          "trash"
+        ],
+        "examples": [
+          {
+            "text": "The editor's job is to separate the wheat from the chaff and publish only the strongest submissions.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds",
+        "ko": "겨, 왕겨",
+        "synonyms": [
+          "husk",
+          "hull",
+          "straw"
+        ],
+        "examples": [
+          {
+            "text": "To separate out the chaff, early cultures tossed baskets of grain into the air and let the wind blow away the lighter chaff.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To make fun of; to turn into ridicule by addressing in ironical or bantering language.",
+        "ko": "놀리다, 조롱하다",
+        "synonyms": [
+          "tease",
+          "banter",
+          "ridicule",
+          "rib"
+        ],
+        "examples": [
+          {
+            "text": "His friends chaffed him good-naturedly about his terrible singing throughout the dinner.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 ċeaf('겨')에서 왔습니다. 곡식을 털고 남은 쓸모없는 껍질입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "chagrin",
+    "score": 64,
+    "zipf": 2.86,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "strong feelings of embarrassment",
+        "ko": "분함, 굴욕감",
+        "synonyms": [
+          "mortification",
+          "humiliation",
+          "vexation",
+          "embarrassment"
+        ],
+        "examples": [
+          {
+            "text": "To her chagrin, the error in her calculations was found by a first-year student.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cause to feel shame; hurt the pride of",
+        "ko": "분하게 하다, 창피를 주다",
+        "synonyms": [
+          "humiliate",
+          "mortify",
+          "embarrass",
+          "humble"
+        ],
+        "examples": [
+          {
+            "text": "The public rebuke chagrined the young director, who had expected nothing but praise for her film.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 chagrin('슬픔, 고통')에서 왔고 더 이전 기원은 불확실합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "chamber",
+    "score": 16,
+    "zipf": 4.47,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a deliberative or legislative or administrative or judicial assembly",
+        "ko": "의회, 의원",
+        "synonyms": [
+          "legislature",
+          "assembly",
+          "house"
+        ],
+        "examples": [
+          {
+            "text": "The resolution, which speedily passed the Senate, was unable to gain a majority in the lower chamber.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a natural or artificial enclosed space",
+        "ko": "방, 밀폐된 공간",
+        "synonyms": [
+          "room",
+          "cavity",
+          "compartment"
+        ],
+        "examples": [
+          {
+            "text": "A canal lock chamber; a furnace chamber; a test chamber",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 chambre에서 왔고, 라틴어 camera를 거쳐 그리스어 kamara('둥근 천장의 방')까지 거슬러 갑니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "champion",
+    "score": 16,
+    "zipf": 4.62,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To promote, advocate, or act as a champion for (a cause, etc.).",
+        "ko": "옹호하다, 지지하다",
+        "synonyms": [
+          "advocate",
+          "defend",
+          "support",
+          "back",
+          "espouse"
+        ],
+        "examples": [
+          {
+            "text": "The senator championed the bill for years before it finally won enough votes to pass.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "someone who fights for a cause",
+        "ko": "옹호자, 투사",
+        "synonyms": [
+          "advocate",
+          "defender",
+          "supporter",
+          "paladin"
+        ],
+        "examples": [
+          {
+            "text": "Emmeline Pankhurst was a champion of women's suffrage.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "camp"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 campio('결투 전사')에서 왔고, 라틴어 campus(들판)에서 갈라졌습니다. 싸움터에서 대신 싸우던 전사입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "charlatan",
+    "score": 51,
+    "zipf": 2.63,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a flamboyant deceiver; one who attracts customers with tricks or jokes",
+        "ko": "사기꾼, 돌팔이",
+        "synonyms": [
+          "mountebank",
+          "fraud",
+          "quack",
+          "impostor",
+          "swindler"
+        ],
+        "examples": [
+          {
+            "text": "The so-called healer proved to be a charlatan who sold worthless tonics to desperate patients.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 ciarlatano('돌팔이')에서 왔고, ciarlatore(수다쟁이)와 cerretano(약장수)가 섞인 말로 봅니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "chary",
+    "score": 75,
+    "zipf": 1.64,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by great caution and wariness",
+        "ko": "조심하는, 경계하는",
+        "synonyms": [
+          "wary",
+          "cautious",
+          "cagey",
+          "circumspect"
+        ],
+        "examples": [
+          {
+            "text": "chary of the risks involved",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Not disposed to give freely; not lavish; frugal, sparing.",
+        "ko": "인색한, 아끼는",
+        "synonyms": [
+          "sparing",
+          "frugal",
+          "stingy",
+          "miserly"
+        ],
+        "examples": [
+          {
+            "text": "The critic was chary of praise, awarding top marks to only a handful of films each decade.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 ċeariġ('조심스러운, 근심하는')에서 왔습니다. 걱정이 많아 몸을 사리는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "chastise",
+    "score": 68,
+    "zipf": 2.53,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "censure severely",
+        "ko": "엄하게 꾸짖다, 질책하다",
+        "synonyms": [
+          "castigate",
+          "scold",
+          "rebuke",
+          "reprimand",
+          "berate"
+        ],
+        "examples": [
+          {
+            "text": "My urban, academic friends chastise me for romanticizing rural life.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To punish, especially by corporal punishment.",
+        "ko": "벌하다, 체벌하다",
+        "synonyms": [
+          "punish",
+          "discipline",
+          "chasten",
+          "penalize"
+        ],
+        "examples": [
+          {
+            "text": "In earlier centuries, schoolmasters routinely chastised disobedient pupils with a cane.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cast"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 chastier에서 왔고 라틴어 castīgō에서 갈라졌습니다. castigate와 같은 어원으로, 순수하게 바로잡는 꾸짖음입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "chauvinism",
+    "score": 52,
+    "zipf": 2.49,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "fanatical patriotism",
+        "ko": "맹목적 애국주의, 국수주의",
+        "synonyms": [
+          "jingoism",
+          "ultranationalism",
+          "xenophobia"
+        ],
+        "examples": [
+          {
+            "text": "The politician's speeches mixed economic grievance with a crude chauvinism that appealed to nervous voters.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Unwarranted bias, favoritism, or devotion to one's own particular group, cause, or idea.",
+        "ko": "자기 집단 우월주의, 배타적 편향",
+        "synonyms": [
+          "bias",
+          "partisanship",
+          "prejudice",
+          "sexism"
+        ],
+        "examples": [
+          {
+            "text": "Feminists say that male chauvinism is still prevalent in cultures worldwide.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ism"
+    ],
+    "origin": {
+      "ko": "프랑스어 chauvinisme에서 왔고, 지나치게 애국적이던 전설적 병사 Nicolas Chauvin의 이름에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "chauvinist",
+    "score": 35,
+    "zipf": 2.37,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an extreme bellicose nationalist",
+        "ko": "맹목적 애국주의자, 쇼비니스트",
+        "synonyms": [
+          "jingoist",
+          "jingo",
+          "ultranationalist"
+        ],
+        "examples": [
+          {
+            "text": "The chauvinist insisted that his country's culture was superior to every other and refused to hear criticism.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a person with a prejudiced belief in the superiority of his or her own kind",
+        "ko": "우월주의자, 성차별주의자",
+        "synonyms": [
+          "bigot",
+          "sexist"
+        ],
+        "examples": [
+          {
+            "text": "The manager was a chauvinist who assumed that his female colleagues could not handle technical work.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ist"
+    ],
+    "origin": {
+      "ko": "chauvinism에서 파생된 말로, 병사 Nicolas Chauvin의 이름에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "chauvinistic",
+    "score": 34,
+    "zipf": 2.3,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "fanatically patriotic",
+        "ko": "맹목적으로 애국적인, 국수주의적인",
+        "synonyms": [
+          "jingoistic",
+          "nationalistic",
+          "ultranationalistic",
+          "superpatriotic"
+        ],
+        "examples": [
+          {
+            "text": "It would be smallmindedly chauvinistic to pretend that Scotland was other than a strong participant in the furthering of British Imperial ambitions.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of or relating to persons convinced of the superiority of their own gender or kind",
+        "ko": "자기 집단 우월적인, 성차별적인",
+        "synonyms": [
+          "sexist",
+          "biased",
+          "prejudiced"
+        ],
+        "examples": [
+          {
+            "text": "The senator's chauvinistic remarks about working mothers drew sharp criticism from both parties.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ic"
+    ]
+  },
+  {
+    "word": "check",
+    "score": 16,
+    "zipf": 5.31,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "hold back, as of a danger or an enemy; check the expansion or influence of",
+        "ko": "저지하다, 억제하다",
+        "synonyms": [
+          "curb",
+          "restrain",
+          "arrest",
+          "contain",
+          "halt"
+        ],
+        "examples": [
+          {
+            "text": "Check the growth of communism in South East Asia",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the act of restraining power or action or limiting excess",
+        "ko": "억제, 견제",
+        "synonyms": [
+          "curb",
+          "restraint",
+          "bridle",
+          "control"
+        ],
+        "examples": [
+          {
+            "text": "checks and balances",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "examine so as to determine accuracy, quality, or condition",
+        "ko": "확인하다, 점검하다",
+        "synonyms": [
+          "verify",
+          "inspect",
+          "examine",
+          "test"
+        ],
+        "examples": [
+          {
+            "text": "check your facts",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "페르시아어 shāh('왕')가 아랍어와 프랑스어를 거쳐 체스의 '장군!'이 되었고, 그것을 막는다는 뜻에서 '저지하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "checkered",
+    "score": 48,
+    "zipf": 2.89,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by changeable fortune",
+        "ko": "우여곡절 많은, 기복이 심한",
+        "synonyms": [
+          "varied",
+          "eventful",
+          "inconsistent",
+          "erratic"
+        ],
+        "examples": [
+          {
+            "text": "The former mayor had a checkered career, marked by early triumphs, a corruption scandal, and a late comeback.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "patterned with alternating squares of color",
+        "ko": "체크무늬의",
+        "synonyms": [
+          "checked",
+          "chequered"
+        ],
+        "examples": [
+          {
+            "text": "That is a checkered tablecloth.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "체스판(chequer)에서 온 말입니다. 격자무늬처럼 밝고 어두운 칸이 번갈아 나타나듯 기복이 많다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cherish",
+    "score": 26,
+    "zipf": 3.52,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be fond of; be attached to",
+        "ko": "소중히 여기다, 아끼다",
+        "synonyms": [
+          "treasure",
+          "prize",
+          "hold dear",
+          "value"
+        ],
+        "examples": [
+          {
+            "text": "I cherish your friendship.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To treat with affection, care, and tenderness; to nurture or protect with care.",
+        "ko": "정성껏 돌보다, 품다",
+        "synonyms": [
+          "nurture",
+          "foster",
+          "protect"
+        ],
+        "examples": [
+          {
+            "text": "For decades she cherished the hope that her missing brother would one day return home.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 cherir에서 왔고, cher(소중한)는 라틴어 cārus(사랑하는)에서 갈라졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "chicanery",
+    "score": 65,
+    "zipf": 2.24,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the use of tricks to deceive someone (usually to extract money from them)",
+        "ko": "속임수, 사기",
+        "synonyms": [
+          "trickery",
+          "deception",
+          "guile",
+          "subterfuge",
+          "fraud"
+        ],
+        "examples": [
+          {
+            "text": "The contractor won the bid through legal chicanery rather than the merit of his proposal.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 chicanerie('속임수')에서 왔고 chicaner(트집 잡다)에서 갈라졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "chide",
+    "score": 33,
+    "zipf": 2.18,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "censure severely or angrily",
+        "ko": "꾸짖다, 나무라다",
+        "synonyms": [
+          "scold",
+          "rebuke",
+          "reprimand",
+          "reproach",
+          "upbraid"
+        ],
+        "examples": [
+          {
+            "text": "The mother scolded the child for entering a stranger's car",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 ċīdan('꾸짖다, 다투다')에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "chimera",
+    "score": 32,
+    "zipf": 2.85,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a grotesque product of the imagination",
+        "ko": "기괴한 환상, 망상",
+        "synonyms": [
+          "fantasy",
+          "illusion",
+          "delusion",
+          "fancy"
+        ],
+        "examples": [
+          {
+            "text": "Although now considered a pseudo-science, the 'Abbasids were also fascinated by alchemy and the chimera of transforming base metals into gold for their treasury.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Anything composed of very disparate parts.",
+        "ko": "이질적 요소의 혼합물, 키메라",
+        "synonyms": [
+          "hybrid",
+          "amalgam",
+          "patchwork"
+        ],
+        "examples": [
+          {
+            "text": "He built his car one piece at a time, producing a chimera with the head of a Volkswagen, the body of a Geely, and the tail of an aftermarket Porsche.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 Khimaira('불을 뿜는 괴물', 원래는 암염소)에서 왔습니다. 사자, 염소, 뱀이 섞인 괴물이 '기괴한 환상'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "chivalrous",
+    "score": 52,
+    "zipf": 2.55,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "being attentive to women like an ideal knight",
+        "ko": "기사도적인, 정중한",
+        "synonyms": [
+          "gallant",
+          "knightly",
+          "courteous",
+          "gentlemanly"
+        ],
+        "examples": [
+          {
+            "text": "He made the chivalrous gesture of offering his coat to the stranger waiting in the cold.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 chevalerous에서 왔고 chivalry(기사도)와 같은 어원입니다. 말 탄 기사다운 정중함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "choleric",
+    "score": 45,
+    "zipf": 1.79,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "quickly aroused to anger",
+        "ko": "화를 잘 내는, 성마른",
+        "synonyms": [
+          "irascible",
+          "hot-tempered",
+          "quick-tempered",
+          "testy",
+          "irritable"
+        ],
+        "examples": [
+          {
+            "text": "The choleric general lashed out at his officers whenever the slightest detail went wrong.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "chol",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 colerique에서 왔고, choler(담즙)에 -ic가 붙었습니다. 담즙이 넘치면 화를 잘 낸다고 보았습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "chortle",
+    "score": 32,
+    "zipf": 2.11,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "laugh quietly or with restraint",
+        "ko": "킬킬 웃다, 낄낄거리다",
+        "synonyms": [
+          "chuckle",
+          "snicker",
+          "titter"
+        ],
+        "examples": [
+          {
+            "text": "The old fellow chortled as he recalled his youthful adventures.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a soft partly suppressed laugh",
+        "ko": "낄낄 웃음",
+        "synonyms": [
+          "chuckle",
+          "snicker"
+        ],
+        "examples": [
+          {
+            "text": "He frequently interrupted himself with chortles while he told us his favorite joke.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "루이스 캐럴이 'Jabberwocky'에서 chuckle(킬킬)과 snort(코웃음)를 섞어 만든 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "chronological",
+    "score": 27,
+    "zipf": 3.4,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "relating to or arranged according to temporal order",
+        "ko": "연대순의, 시간 순서의",
+        "synonyms": [
+          "sequential",
+          "temporal"
+        ],
+        "examples": [
+          {
+            "text": "The live report lists all the events in chronological order.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "chron",
+      "log",
+      "-ical"
+    ],
+    "origin": {
+      "ko": "그리스어 khronos(시간)와 -logia에서 온 chronology에 -ical이 붙은 말입니다. 시간 순서대로 나열한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "churlish",
+    "score": 65,
+    "zipf": 2.19,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "rude and boorish",
+        "ko": "무례한, 상스러운",
+        "synonyms": [
+          "boorish",
+          "rude",
+          "surly",
+          "uncouth",
+          "ungracious"
+        ],
+        "examples": [
+          {
+            "text": "It seemed churlish to refuse the invitation after the family had gone to such trouble.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Stingy or grudging.",
+        "ko": "인색한, 마지못해 하는",
+        "synonyms": [
+          "grudging",
+          "stingy",
+          "miserly",
+          "niggardly"
+        ],
+        "examples": [
+          {
+            "text": "The firm's churlish offer of severance angered the longtime employees.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ish"
+    ],
+    "origin": {
+      "ko": "고대 영어 ċeorlisċ에서 왔고, churl(평민, 상것)에 -ish가 붙었습니다. 천한 사람처럼 무례하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

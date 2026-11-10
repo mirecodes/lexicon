@@ -1,0 +1,254 @@
+[
+  {
+    "word": "ephemeral",
+    "score": 79,
+    "zipf": 2.99,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lasting a very short time",
+        "ko": "덧없는, 단명하는, 순간적인",
+        "synonyms": [
+          "transient",
+          "fleeting",
+          "short-lived",
+          "transitory",
+          "evanescent"
+        ],
+        "examples": [
+          {
+            "text": "the ephemeral joys of childhood",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "epi-",
+      "hemer",
+      "-al"
+    ],
+    "origin": {
+      "ko": "그리스어 ephḗmeros(하루 동안 사는)에서 왔습니다. 하루살이처럼 짧게 지속된다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "epicure",
+    "score": 45,
+    "zipf": 1.83,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person devoted to refined sensuous enjoyment (especially good food and drink)",
+        "ko": "미식가, 식도락가",
+        "synonyms": [
+          "gourmet",
+          "gastronome",
+          "bon vivant",
+          "epicurean",
+          "connoisseur"
+        ],
+        "examples": [
+          {
+            "text": "The epicure traveled across Europe sampling regional cheeses and rare vintages.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 그리스 철학자 에피쿠로스의 이름에서 왔습니다. 그가 즐거움을 추구하는 삶을 가르쳤다 해서, 음식을 즐기는 미식가를 가리키게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "epigram",
+    "score": 33,
+    "zipf": 2.17,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a witty saying",
+        "ko": "경구, 풍자적 단시",
+        "synonyms": [
+          "quip",
+          "aphorism",
+          "witticism",
+          "maxim",
+          "bon mot"
+        ],
+        "examples": [
+          {
+            "text": "Wilde's epigrams still sparkle with irony more than a century after they were written.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "epi-",
+      "graph"
+    ],
+    "origin": {
+      "ko": "그리스어 epígramma(비문, 새겨 쓴 글)에서 왔습니다. 짧게 새긴 글이 '경구'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "epiphany",
+    "score": 29,
+    "zipf": 3.16,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An illuminating realization or discovery, often resulting in a personal feeling of elation, awe, or wonder.",
+        "ko": "갑작스러운 깨달음, 통찰",
+        "synonyms": [
+          "revelation",
+          "insight",
+          "realization",
+          "eureka moment",
+          "awakening"
+        ],
+        "examples": [
+          {
+            "text": "It came to her in an epiphany what her life's work was to be.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "epi-",
+      "phan"
+    ],
+    "origin": {
+      "ko": "그리스어 epipháneia(나타남, 현현)에서 왔습니다. 진실이 갑자기 눈앞에 나타나는 순간을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "epistolary",
+    "score": 34,
+    "zipf": 2.3,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "written in the form of or carried on by letters or correspondence",
+        "ko": "편지 형식의, 서간체의",
+        "synonyms": [
+          "epistolatory",
+          "written",
+          "correspondent"
+        ],
+        "examples": [
+          {
+            "text": "the epistolatory novel",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "epi-",
+      "stol",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "그리스어 epistolḗ(보낸 글, 편지)에서 라틴어 epistola를 거쳐 왔습니다. 편지로 이루어진 글이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "eponym",
+    "score": 27,
+    "zipf": 1.57,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the name derived from a person (real or imaginary)",
+        "ko": "사람 이름에서 유래한 명칭",
+        "synonyms": [
+          "namesake"
+        ],
+        "examples": [
+          {
+            "text": "Alexandria is an eponym derived from the name of Alexander the Great.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the person for whom something is named",
+        "ko": "이름의 유래가 된 인물, 명조",
+        "synonyms": [
+          "namesake"
+        ],
+        "examples": [
+          {
+            "text": "Constantine I is the eponym for Constantinople",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "epi-",
+      "onym"
+    ],
+    "origin": {
+      "ko": "그리스어 epṓnumos(이름을 따서 붙인)에서 왔습니다. 사람 이름 위에 얹어 붙인 명칭이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

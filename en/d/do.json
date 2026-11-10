@@ -1,0 +1,839 @@
+[
+  {
+    "word": "docile",
+    "score": 48,
+    "zipf": 2.93,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "willing to be taught or led or supervised or directed",
+        "ko": "순종적인, 다루기 쉬운",
+        "synonyms": [
+          "compliant",
+          "tractable",
+          "submissive",
+          "obedient",
+          "meek"
+        ],
+        "examples": [
+          {
+            "text": "the docile masses of an enslaved nation",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "doc",
+      "-ile"
+    ],
+    "origin": {
+      "ko": "라틴어 docilis(가르치기 쉬운)에서 왔고 docēre(가르치다)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "doctrinaire",
+    "score": 63,
+    "zipf": 2.0,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "stubbornly insistent on theory without regard for practicality or suitability",
+        "ko": "교조적인, 이론만 고집하는",
+        "synonyms": [
+          "dogmatic",
+          "rigid",
+          "inflexible",
+          "ideological"
+        ],
+        "examples": [
+          {
+            "text": "The minister's doctrinaire insistence on austerity ignored the evidence that the policy was deepening the recession.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a stubborn person of arbitrary or arrogant opinions",
+        "ko": "교조주의자, 이론가",
+        "synonyms": [
+          "dogmatist",
+          "ideologue"
+        ],
+        "examples": [
+          {
+            "text": "Critics called him a doctrinaire who would never bend his principles to fit the realities of governing.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "doc",
+      "-aire"
+    ],
+    "origin": {
+      "ko": "프랑스어 doctrinaire에서 왔고 doctrine에 -aire가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "document",
+    "score": 16,
+    "zipf": 4.5,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "record in detail",
+        "ko": "상세히 기록하다, 문서로 남기다",
+        "synonyms": [
+          "record",
+          "chronicle",
+          "log",
+          "detail"
+        ],
+        "examples": [
+          {
+            "text": "The parents documented every step of their child's development",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "support or supply with references",
+        "ko": "증거 자료로 뒷받침하다",
+        "synonyms": [
+          "substantiate",
+          "corroborate",
+          "cite"
+        ],
+        "examples": [
+          {
+            "text": "Can you document your claims?",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "doc",
+      "-ment"
+    ],
+    "origin": {
+      "ko": "라틴어 documentum(가르침, 증거)에서 왔습니다. 가르치고 증명하는 것이 '문서'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "documentary",
+    "score": 18,
+    "zipf": 4.31,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "relating to or consisting of or derived from documents",
+        "ko": "문서에 의한, 문서로 된",
+        "synonyms": [
+          "documental",
+          "written",
+          "recorded"
+        ],
+        "examples": [
+          {
+            "text": "Historians found documentary evidence of the treaty in the national archives.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A film, TV program, publication etc. which presents a social, political, scientific or historical subject in a factual or informative manner.",
+        "ko": "다큐멘터리, 기록물",
+        "synonyms": [
+          "documentary film",
+          "nonfiction film"
+        ],
+        "examples": [
+          {
+            "text": "Fifteen documentaries are in sharp-elbowed competition to be among the five Oscar nominees.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "doc",
+      "-ment",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "프랑스어 documentaire에서 왔고 document에 -ary가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "doff",
+    "score": 32,
+    "zipf": 2.11,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to take off from the body or head",
+        "ko": "(옷·모자를) 벗다",
+        "synonyms": [
+          "remove",
+          "take off",
+          "shed"
+        ],
+        "examples": [
+          {
+            "text": "He doffed his hat",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To cast aside or get rid of (something), to throw off.",
+        "ko": "버리다, 내던지다",
+        "synonyms": [
+          "discard",
+          "shed",
+          "throw off"
+        ],
+        "examples": [
+          {
+            "text": "Doff that stupid idea: it will never work.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "do off가 줄어든 말입니다. '벗다'라는 뜻이며, don(do on)의 반대입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dog",
+    "score": 16,
+    "zipf": 5.1,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "go after with the intent to catch",
+        "ko": "끈질기게 따라다니다, 괴롭히다",
+        "synonyms": [
+          "pursue",
+          "trail",
+          "hound",
+          "plague"
+        ],
+        "examples": [
+          {
+            "text": "Allegations of corruption dogged the senator throughout his final term in office.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 docga에서 왔지만 기원이 분명하지 않습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dogged",
+    "score": 47,
+    "zipf": 2.97,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "stubbornly unyielding",
+        "ko": "끈질긴, 완강한",
+        "synonyms": [
+          "persistent",
+          "tenacious",
+          "unyielding",
+          "pertinacious",
+          "steadfast"
+        ],
+        "examples": [
+          {
+            "text": "dogged persistence",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "dog에 -ed가 붙은 말입니다. 개처럼 끈질기게 물고 늘어진다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "doggerel",
+    "score": 29,
+    "zipf": 1.79,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a comic verse of irregular measure",
+        "ko": "엉터리 시, 졸작 시",
+        "synonyms": [
+          "jingle",
+          "rhyme",
+          "verse"
+        ],
+        "examples": [
+          {
+            "text": "he had heard some silly doggerel that kept running through his mind",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Any writing of crude composition.",
+        "ko": "조잡한 글",
+        "synonyms": [
+          "trash",
+          "drivel"
+        ],
+        "examples": [
+          {
+            "text": "The campaign speeches devolved into patriotic doggerel that impressed few thoughtful listeners.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "dog에 경멸 접미사 -rel이 붙은 것으로 봅니다. 개 수준의 시라는 느낌입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dogmatic",
+    "score": 80,
+    "zipf": 2.93,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Asserting dogmas or beliefs in a superior or arrogant way; opinionated, dictatorial.",
+        "ko": "독단적인, 교조적인",
+        "synonyms": [
+          "opinionated",
+          "doctrinaire",
+          "dictatorial",
+          "assertive"
+        ],
+        "examples": [
+          {
+            "text": "The dogmatic professor refused to consider any theory that challenged his own long-held views.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "characterized by assertion of unproved or unprovable principles",
+        "ko": "입증되지 않은 원칙을 내세우는",
+        "synonyms": [
+          "dogmatical",
+          "unproven"
+        ],
+        "examples": [
+          {
+            "text": "Her dogmatic claims rested on assumptions that no experiment had ever confirmed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dogm",
+      "-atic"
+    ],
+    "origin": {
+      "ko": "그리스어 dógma(신조)에서 후기 라틴어 dogmaticus를 거쳐 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "doleful",
+    "score": 30,
+    "zipf": 1.9,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "filled with or evoking sadness",
+        "ko": "애처로운, 슬픔에 잠긴",
+        "synonyms": [
+          "mournful",
+          "woeful",
+          "melancholy",
+          "sorrowful"
+        ],
+        "examples": [
+          {
+            "text": "The doleful peal of the bell indicated another funeral was being held.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dol(슬픔)",
+      "-ful"
+    ],
+    "origin": {
+      "ko": "중세 영어 dole(슬픔)에 -ful이 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dolorous",
+    "score": 28,
+    "zipf": 1.7,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing sorrow",
+        "ko": "슬픔에 잠긴, 애통해하는",
+        "synonyms": [
+          "mournful",
+          "sorrowful",
+          "doleful",
+          "lugubrious"
+        ],
+        "examples": [
+          {
+            "text": "The dolorous strains of the funeral march drifted slowly across the silent village square.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dol(슬픔)",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 dolōrōsus(고통스러운)에서 왔고 dolor(고통)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dormant",
+    "score": 27,
+    "zipf": 3.41,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "inactive but capable of becoming active",
+        "ko": "잠재된, 휴면 상태의",
+        "synonyms": [
+          "latent",
+          "inactive",
+          "quiescent",
+          "suspended"
+        ],
+        "examples": [
+          {
+            "text": "her feelings of affection are dormant but easily awakened",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "in a condition of biological rest or suspended animation",
+        "ko": "동면 중인, 활동을 멈춘",
+        "synonyms": [
+          "hibernating",
+          "torpid",
+          "sleeping"
+        ],
+        "examples": [
+          {
+            "text": "Grass goes dormant during the winter, waiting for spring before it grows again.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dorm",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 dormiō(자다)의 현재분사에서 왔습니다. 잠든 듯 쉬다가 깨어날 수 있다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dormer",
+    "score": 34,
+    "zipf": 2.72,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a gabled extension built out from a sloping roof to accommodate a vertical window",
+        "ko": "지붕창, 지붕 위로 낸 창",
+        "synonyms": [
+          "dormer window"
+        ],
+        "examples": [
+          {
+            "text": "Sunlight streamed through the dormer into the cramped attic bedroom under the sloping roof.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dorm"
+    ],
+    "origin": {
+      "ko": "프랑스어 dormoir(침실)에서 왔습니다. 다락 침실에 낸 창에서 '지붕창'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dotage",
+    "score": 30,
+    "zipf": 1.95,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "mental infirmity as a consequence of old age; sometimes shown by foolish infatuations",
+        "ko": "노망, 노쇠",
+        "synonyms": [
+          "senility",
+          "second childhood"
+        ],
+        "examples": [
+          {
+            "text": "In his dotage the once-formidable judge could scarcely remember the names of his own grandchildren.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Fondness or attentiveness, especially to an excessive degree.",
+        "ko": "맹목적인 애정, 지나친 애착",
+        "synonyms": [
+          "infatuation",
+          "doting"
+        ],
+        "examples": [
+          {
+            "text": "His dotage on his youngest daughter blinded him to her obvious faults.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-age"
+    ],
+    "origin": {
+      "ko": "중세 영어 doten(멍청해지다)에 -age가 붙은 말입니다. 늙어 정신이 흐려진 상태를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dote",
+    "score": 33,
+    "zipf": 2.23,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "shower with love; show excessive affection for",
+        "ko": "맹목적으로 사랑하다, 애지중지하다",
+        "synonyms": [
+          "adore",
+          "cherish",
+          "indulge",
+          "fawn"
+        ],
+        "examples": [
+          {
+            "text": "Grandmother dotes on the twins",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "be foolish or senile due to old age",
+        "ko": "노망나다",
+        "synonyms": [
+          "decline"
+        ],
+        "examples": [
+          {
+            "text": "The old king began to dote, signing decrees he could no longer understand.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 저지 독일어 doten(어리석다)에서 왔다고 봅니다. 어리석을 만큼 애정을 쏟는다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "doughty",
+    "score": 33,
+    "zipf": 2.83,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Bold; brave, courageous.",
+        "ko": "용감한, 불굴의",
+        "synonyms": [
+          "brave",
+          "valiant",
+          "intrepid",
+          "stouthearted"
+        ],
+        "examples": [
+          {
+            "text": "The doughty old general led the final charge despite his age and several wounds.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 dohtiġ(유능한, 용감한)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dovetail",
+    "score": 51,
+    "zipf": 2.43,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To combine or fit (things) together well.",
+        "ko": "잘 들어맞다, 꼭 맞물리다",
+        "synonyms": [
+          "mesh",
+          "fit",
+          "interlock",
+          "coincide"
+        ],
+        "examples": [
+          {
+            "text": "The parts of your essay should dovetail so that it is cohesive and coherent.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a mortise joint formed by interlocking tenons and mortises",
+        "ko": "장부이음, 열장이음",
+        "synonyms": [
+          "dovetail joint"
+        ],
+        "examples": [
+          {
+            "text": "The cabinetmaker joined the drawer with a hand-cut dovetail that has lasted over a century.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "dove(비둘기)와 tail(꼬리)을 합친 말입니다. 비둘기 꼬리 모양으로 파서 맞물리는 짜맞춤 이음에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dowdy",
+    "score": 35,
+    "zipf": 2.41,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking in smartness or taste",
+        "ko": "촌스러운, 세련되지 못한",
+        "synonyms": [
+          "frumpy",
+          "unfashionable",
+          "drab",
+          "shabby"
+        ],
+        "examples": [
+          {
+            "text": "a dowdy grey outfit",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

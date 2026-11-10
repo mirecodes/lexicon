@@ -1,0 +1,846 @@
+[
+  {
+    "word": "sob",
+    "score": 28,
+    "zipf": 3.27,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "weep convulsively",
+        "ko": "흐느끼다, 흐느껴 울다",
+        "synonyms": [
+          "weep",
+          "cry",
+          "wail",
+          "blubber"
+        ],
+        "examples": [
+          {
+            "text": "He was sobbing inconsolably",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "convulsive gasp made while weeping",
+        "ko": "흐느낌, 울음소리",
+        "synonyms": [
+          "sobbing",
+          "wail",
+          "whimper"
+        ],
+        "examples": [
+          {
+            "text": "A single sob escaped her as she read the letter announcing the news.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 sobben에서 왔습니다. 흐느끼는 소리를 흉내 낸 말로 보입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sobriquet",
+    "score": 48,
+    "zipf": 2.11,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A familiar name for a person or thing; a nickname (sometimes assumed by the person, but often given by others) that is descriptive.",
+        "ko": "별명, 가명",
+        "synonyms": [
+          "nickname",
+          "moniker",
+          "cognomen",
+          "byname"
+        ],
+        "examples": [
+          {
+            "text": "“The Bard” is a sobriquet of English playwright William Shakespeare.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어에서 왔고 원래 '턱 밑을 톡 치는 것'을 뜻했습니다. 가볍고 친근한 별명이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "solecism",
+    "score": 54,
+    "zipf": 1.13,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An error in the use of language.",
+        "ko": "어법 위반, 문법 오류",
+        "synonyms": [
+          "error",
+          "blunder",
+          "barbarism",
+          "mistake"
+        ],
+        "examples": [
+          {
+            "text": "Prepositions are also prone to particular solecisms and infelicities.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a socially awkward or tactless act",
+        "ko": "예의에 어긋난 행동, 실례",
+        "synonyms": [
+          "faux pas",
+          "gaffe",
+          "impropriety",
+          "breach of etiquette"
+        ],
+        "examples": [
+          {
+            "text": "Arriving at the formal dinner in casual clothes was a solecism that the hosts politely ignored.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 soloikismos에서 왔습니다. 소아시아 도시 솔로이 사람들의 어법이 아테네인 귀에 틀려 보인 데서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "solicitous",
+    "score": 64,
+    "zipf": 2.09,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing hovering attentiveness",
+        "ko": "세심히 배려하는, 걱정하며 챙기는",
+        "synonyms": [
+          "attentive",
+          "caring",
+          "concerned",
+          "considerate"
+        ],
+        "examples": [
+          {
+            "text": "solicitous about her health",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "full of anxiety and concern",
+        "ko": "염려하는, 걱정스러운",
+        "synonyms": [
+          "anxious",
+          "worried",
+          "concerned",
+          "apprehensive"
+        ],
+        "examples": [
+          {
+            "text": "solicitous parents",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "solid",
+      "cit",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 sollicitus(마음이 온통 흔들린)에서 왔습니다. 걱정하며 챙기는 마음입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "solicitude",
+    "score": 30,
+    "zipf": 1.91,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Special or pronounced concern or attention.",
+        "ko": "배려, 세심한 관심",
+        "synonyms": [
+          "concern",
+          "care",
+          "attentiveness",
+          "consideration"
+        ],
+        "examples": [
+          {
+            "text": "The nurse treated the elderly patient with a solicitude that touched the whole family.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a feeling of excessive concern",
+        "ko": "지나친 걱정, 염려",
+        "synonyms": [
+          "anxiety",
+          "worry",
+          "apprehension",
+          "solicitousness"
+        ],
+        "examples": [
+          {
+            "text": "Her constant solicitude about his health began to feel smothering rather than kind.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "solid",
+      "cit",
+      "-tude"
+    ],
+    "origin": {
+      "ko": "라틴어 sollicitūdō(불안)에서 왔습니다. 마음이 쓰이는 상태에서 세심한 배려가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "solidarity",
+    "score": 22,
+    "zipf": 3.89,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a union of interests or purposes or sympathies among members of a group",
+        "ko": "연대, 결속",
+        "synonyms": [
+          "unity",
+          "cohesion",
+          "unanimity",
+          "camaraderie"
+        ],
+        "examples": [
+          {
+            "text": "Workers across the city struck in solidarity with the dismissed miners.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "solid",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "프랑스어 solidarité에서 왔고 라틴어 solidus(단단한)와 이어집니다. 단단히 하나로 뭉친 연대입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "soliloquy",
+    "score": 36,
+    "zipf": 2.45,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The act of a character speaking to themselves so as to reveal their thoughts to the audience.",
+        "ko": "독백",
+        "synonyms": [
+          "monologue",
+          "aside"
+        ],
+        "examples": [
+          {
+            "text": "At the end of the second act the main villain gave a soliloquy detailing his plans to attack the protagonist.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sol(혼자)",
+      "loqu"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 sōliloquium에서 왔고 '혼자 말하기'를 뜻합니다. 아우구스티누스의 책 제목에서 퍼졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "solvent",
+    "score": 27,
+    "zipf": 3.44,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "capable of meeting financial obligations",
+        "ko": "지불 능력이 있는",
+        "synonyms": [
+          "creditworthy",
+          "financially sound",
+          "in the black"
+        ],
+        "examples": [
+          {
+            "text": "Despite a difficult year, the company remained solvent and paid all its suppliers on time.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a liquid substance capable of dissolving other substances",
+        "ko": "용매",
+        "synonyms": [
+          "dissolvent",
+          "thinner"
+        ],
+        "examples": [
+          {
+            "text": "Water is often called the universal solvent because it dissolves so many different substances.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "solv",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 solvens(풀어내는)에서 왔습니다. 빚을 '풀어 갚을' 수 있다는 데서 지불 능력이 있다는 뜻이 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "somatic",
+    "score": 32,
+    "zipf": 2.93,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "affecting or characteristic of the body as opposed to the mind or spirit",
+        "ko": "신체의, 육체의",
+        "synonyms": [
+          "bodily",
+          "corporeal",
+          "physical",
+          "corporal"
+        ],
+        "examples": [
+          {
+            "text": "Anxiety often produces somatic symptoms such as headaches, a racing heart, and stomach pain.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "som",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 sōma(몸)에서 온 sōmatikos에서 왔습니다. 정신과 대비되는 신체의 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "somnolent",
+    "score": 44,
+    "zipf": 1.72,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "inclined to or marked by drowsiness",
+        "ko": "졸린, 졸음을 유발하는",
+        "synonyms": [
+          "drowsy",
+          "sleepy",
+          "dozy",
+          "slumberous"
+        ],
+        "examples": [
+          {
+            "text": "The somnolent village seemed to doze through the long, hot afternoon.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "somn",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 somnus(잠)에서 온 somnolentus에서 왔습니다. 잠이 오는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sonorous",
+    "score": 50,
+    "zipf": 2.26,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "full and loud and deep",
+        "ko": "낭랑한, 울려 퍼지는",
+        "synonyms": [
+          "resonant",
+          "rich",
+          "deep",
+          "booming",
+          "resounding"
+        ],
+        "examples": [
+          {
+            "text": "He was selected to give the opening speech thanks to his imposing, sonorous voice.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "son",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 sonor(소리)에서 온 sonōrus에서 왔습니다. 소리가 풍부하고 깊게 울린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sophisticated",
+    "score": 20,
+    "zipf": 4.05,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having or appealing to those having worldly knowledge and refinement and savoir-faire",
+        "ko": "세련된, 교양 있는",
+        "synonyms": [
+          "worldly",
+          "cultured",
+          "refined",
+          "urbane"
+        ],
+        "examples": [
+          {
+            "text": "a sophisticated audience",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "ahead in development; complex or intricate",
+        "ko": "정교한, 고도로 발달된",
+        "synonyms": [
+          "advanced",
+          "complex",
+          "intricate",
+          "elaborate"
+        ],
+        "examples": [
+          {
+            "text": "The lab built a sophisticated imaging system capable of tracking individual cells in real time.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "soph",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 sophisticatus에서 왔고 그리스어 sophos(지혜로운)와 이어집니다. 처음에는 '세련되게 꾸민'이라는 뜻이었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sophistry",
+    "score": 48,
+    "zipf": 2.15,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone",
+        "ko": "궤변, 그럴듯한 거짓 논리",
+        "synonyms": [
+          "sophism",
+          "fallacy",
+          "casuistry",
+          "quibble"
+        ],
+        "examples": [
+          {
+            "text": "The lawyer's sophistry made a weak case sound convincing, but the judge saw through it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "soph",
+      "-ry"
+    ],
+    "origin": {
+      "ko": "그리스어 sophistēs(지혜로운 사람, 소피스트)에서 왔습니다. 그럴듯하게 꾸민 궤변이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "soporific",
+    "score": 80,
+    "zipf": 2.1,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "sleep inducing",
+        "ko": "졸음을 유발하는, 최면성의",
+        "synonyms": [
+          "sleep-inducing",
+          "somnolent",
+          "hypnotic",
+          "narcotic"
+        ],
+        "examples": [
+          {
+            "text": "The professor delivered a soporific lecture.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a drug that induces sleep",
+        "ko": "수면제",
+        "synonyms": [
+          "sedative",
+          "hypnotic",
+          "narcotic"
+        ],
+        "examples": [
+          {
+            "text": "The doctor prescribed a soporific to help the patient sleep.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sopor",
+      "-fic"
+    ],
+    "origin": {
+      "ko": "라틴어 sopor(깊은 잠)에서 왔습니다. 잠을 만들어내는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sordid",
+    "score": 47,
+    "zipf": 2.99,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "morally degraded",
+        "ko": "도덕적으로 타락한, 추잡한",
+        "synonyms": [
+          "squalid",
+          "seamy",
+          "sleazy",
+          "depraved"
+        ],
+        "examples": [
+          {
+            "text": "The trial exposed the sordid details of the senator's bribery scheme.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "foul and run-down and repulsive",
+        "ko": "더럽고 누추한",
+        "synonyms": [
+          "squalid",
+          "filthy",
+          "seedy",
+          "dingy"
+        ],
+        "examples": [
+          {
+            "text": "They rented a sordid apartment together.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "meanly avaricious and mercenary",
+        "ko": "인색하고 탐욕스러운",
+        "synonyms": [
+          "avaricious",
+          "grasping",
+          "mercenary",
+          "venal"
+        ],
+        "examples": [
+          {
+            "text": "The heir's sordid greed drove him to quarrel with his siblings over every trinket in the estate.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 sordidus(더러운)에서 왔습니다. 몸이 더러운 데서 도덕적으로 추잡하다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sound",
+    "score": 32,
+    "zipf": 5.15,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "exercising or showing good judgment",
+        "ko": "건전한, 분별력 있는",
+        "synonyms": [
+          "judicious",
+          "prudent",
+          "sensible",
+          "levelheaded"
+        ],
+        "examples": [
+          {
+            "text": "The advisor gave sound counsel, urging the board to delay the acquisition until the figures were clearer.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "logically valid",
+        "ko": "타당한, 근거가 확실한",
+        "synonyms": [
+          "valid",
+          "well-founded",
+          "cogent",
+          "reasoned"
+        ],
+        "examples": [
+          {
+            "text": "a sound argument",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "financially secure and safe",
+        "ko": "재정적으로 안정된, 견실한",
+        "synonyms": [
+          "secure",
+          "stable",
+          "solvent",
+          "reliable"
+        ],
+        "examples": [
+          {
+            "text": "a sound economy",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "in good condition; free from defect or damage or decay",
+        "ko": "온전한, 튼튼한",
+        "synonyms": [
+          "intact",
+          "solid",
+          "undamaged",
+          "robust"
+        ],
+        "examples": [
+          {
+            "text": "the wall is sound",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "형용사 sound는 고대 영어 sund(건강한, 온전한)에서 왔습니다. 온전하고 건강해 믿을 만하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

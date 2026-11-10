@@ -1,0 +1,1567 @@
+[
+  {
+    "word": "beatific",
+    "score": 47,
+    "zipf": 2.04,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Blessed, blissful, heavenly.",
+        "ko": "더없이 행복한, 지복의",
+        "synonyms": [
+          "blissful",
+          "rapturous",
+          "serene"
+        ],
+        "examples": [
+          {
+            "text": "The monk wore a beatific expression as he listened to the choir fill the ancient cathedral.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "marked by utter benignity; resembling or befitting an angel or saint",
+        "ko": "천사 같은, 성자다운",
+        "synonyms": [
+          "angelic",
+          "saintly"
+        ],
+        "examples": [
+          {
+            "text": "A beatific smile spread across her face when she saw her grandchildren at the door.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "beat",
+      "fac(만들다)",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "라틴어 beatificus(행복하게 만드는)에서 왔습니다. beatus(복된)와 facere(만들다)가 합쳐진 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "becoming",
+    "score": 16,
+    "zipf": 4.81,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "according with custom or propriety",
+        "ko": "예의에 맞는, 적절한",
+        "synonyms": [
+          "seemly",
+          "decorous",
+          "proper"
+        ],
+        "examples": [
+          {
+            "text": "The senator's becoming restraint during the debate won praise even from his political opponents.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "displaying or setting off to best advantage",
+        "ko": "잘 어울리는, 돋보이게 하는",
+        "synonyms": [
+          "flattering",
+          "attractive"
+        ],
+        "examples": [
+          {
+            "text": "She chose a becoming shade of green that brought out the color of her eyes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "befuddled",
+    "score": 36,
+    "zipf": 2.47,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Confused or perplexed.",
+        "ko": "어리둥절한, 당황한",
+        "synonyms": [
+          "bewildered",
+          "baffled",
+          "muddled",
+          "confused"
+        ],
+        "examples": [
+          {
+            "text": "The befuddled tourists studied the subway map for several minutes before finding the right line.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "beg",
+    "score": 20,
+    "zipf": 4.05,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "call upon in supplication; entreat",
+        "ko": "간청하다, 애원하다",
+        "synonyms": [
+          "implore",
+          "beseech",
+          "entreat",
+          "plead"
+        ],
+        "examples": [
+          {
+            "text": "The defendant begged the judge for mercy, promising to repay every cent he had taken.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "dodge, avoid answering, or take for granted",
+        "ko": "(논점을) 회피하다, 당연한 것으로 전제하다",
+        "synonyms": [
+          "evade",
+          "sidestep",
+          "assume"
+        ],
+        "examples": [
+          {
+            "text": "Calling the policy a success because it is popular begs the question of whether it works.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "begrudge",
+    "score": 35,
+    "zipf": 2.57,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To grudge about or over; be envious or covetous.",
+        "ko": "시기하다, 못마땅해하다",
+        "synonyms": [
+          "resent",
+          "envy",
+          "grudge"
+        ],
+        "examples": [
+          {
+            "text": "No one begrudged the veteran actor his award after decades of overlooked performances.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To give reluctantly.",
+        "ko": "마지못해 주다, 아까워하다",
+        "synonyms": [
+          "grudge",
+          "stint"
+        ],
+        "examples": [
+          {
+            "text": "The landlord begrudged every dollar he spent on repairs to the aging building.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "be-",
+      "grudge"
+    ],
+    "origin": {
+      "ko": "중세 영어 bigrucchen(~에 대해 투덜대다)에서 왔습니다. be-(~에 대해)와 grudge(불평)가 합쳐진 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "beguile",
+    "score": 47,
+    "zipf": 2.04,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To deceive or delude (using guile).",
+        "ko": "속이다, 현혹하다",
+        "synonyms": [
+          "deceive",
+          "hoodwink",
+          "delude",
+          "dupe"
+        ],
+        "examples": [
+          {
+            "text": "The swindler beguiled retirees into investing their savings in a company that did not exist.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To charm, delight or captivate.",
+        "ko": "마음을 사로잡다, 매혹하다",
+        "synonyms": [
+          "charm",
+          "captivate",
+          "enchant",
+          "enthrall"
+        ],
+        "examples": [
+          {
+            "text": "The storyteller beguiled the children with tales of dragons and hidden treasure.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "be-",
+      "guile"
+    ],
+    "origin": {
+      "ko": "중세 영어 begilen에서 왔고 be-와 guile(꾀)이 합쳐진 말입니다. 꾀로 홀려 속인다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "behoove",
+    "score": 32,
+    "zipf": 2.09,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be appropriate or necessary",
+        "ko": "~해야 마땅하다, ~하는 것이 도리이다",
+        "synonyms": [
+          "befit",
+          "be incumbent upon"
+        ],
+        "examples": [
+          {
+            "text": "It behooves us to reflect on this matter",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 behofian(필요하다)에서 왔습니다. 필요하니 마땅히 해야 한다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "beleaguer",
+    "score": 22,
+    "zipf": 1.11,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "annoy persistently",
+        "ko": "끊임없이 괴롭히다",
+        "synonyms": [
+          "badger",
+          "pester",
+          "harass",
+          "plague"
+        ],
+        "examples": [
+          {
+            "text": "Reporters beleaguered the mayor with questions about the budget at every public appearance.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "surround so as to force to give up",
+        "ko": "포위 공격하다",
+        "synonyms": [
+          "besiege",
+          "encircle",
+          "hem in"
+        ],
+        "examples": [
+          {
+            "text": "The army beleaguered the fortress for months, hoping hunger would force its defenders to yield.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "be-"
+    ],
+    "origin": {
+      "ko": "네덜란드어 belegeren(포위하다)에서 왔고 '진영을 에워싸다'가 원뜻입니다. 사방에서 끊임없이 괴롭힌다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "belfry",
+    "score": 35,
+    "zipf": 2.56,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a bell tower; usually stands alone unattached to a building",
+        "ko": "종탑",
+        "synonyms": [
+          "campanile",
+          "bell tower"
+        ],
+        "examples": [
+          {
+            "text": "Pigeons nested in the belfry, and the old bell rang only on holidays.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 berfroi(방어용 탑)에서 왔습니다. 종(bell)과 혼동되어 bel-로 바뀌어 '종탑'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "belie",
+    "score": 84,
+    "zipf": 2.45,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To give a false representation of.",
+        "ko": "잘못 전하다, 실제와 다르게 보이게 하다",
+        "synonyms": [
+          "misrepresent",
+          "disguise"
+        ],
+        "examples": [
+          {
+            "text": "Her smooth complexion and dark hair belie her actual age.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To contradict, to show (something) to be false.",
+        "ko": "모순되다, 거짓임을 드러내다",
+        "synonyms": [
+          "contradict",
+          "refute",
+          "negate"
+        ],
+        "examples": [
+          {
+            "text": "Her obvious nervousness belied what she said.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "be-",
+      "lie"
+    ],
+    "origin": {
+      "ko": "고대 영어 belēogan(거짓으로 속이다)에서 왔습니다. 겉모습이 실제를 속여 다르게 보이게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "belittle",
+    "score": 32,
+    "zipf": 2.86,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To disparage, depreciate, or minimize the importance, value, merit, or significance of someone or something.",
+        "ko": "깎아내리다, 얕보다",
+        "synonyms": [
+          "disparage",
+          "denigrate",
+          "downplay",
+          "minimize"
+        ],
+        "examples": [
+          {
+            "text": "Critics belittled the young architect's design until the finished building won an international prize.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "be-",
+      "little"
+    ],
+    "origin": {
+      "ko": "be-와 little을 합쳐 1782년 제퍼슨이 만든 말입니다. 남을 작게 만든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bellicose",
+    "score": 34,
+    "zipf": 2.28,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having or showing a ready disposition to fight",
+        "ko": "호전적인, 싸우기 좋아하는",
+        "synonyms": [
+          "combative",
+          "pugnacious",
+          "belligerent",
+          "warlike"
+        ],
+        "examples": [
+          {
+            "text": "You don't have to be so bellicose, and we can work out a peaceful solution.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "bell",
+      "-ose"
+    ],
+    "origin": {
+      "ko": "라틴어 bellicosus(전쟁을 좋아하는)에서 왔고 bellum(전쟁)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "belligerent",
+    "score": 47,
+    "zipf": 3.04,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Aggressively hostile, eager to fight.",
+        "ko": "적대적인, 공격적인",
+        "synonyms": [
+          "hostile",
+          "aggressive",
+          "combative",
+          "pugnacious"
+        ],
+        "examples": [
+          {
+            "text": "The belligerent customer shouted at the staff and refused to leave until he got a refund.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "engaged in war",
+        "ko": "교전 중인",
+        "synonyms": [
+          "warring",
+          "militant"
+        ],
+        "examples": [
+          {
+            "text": "The council urged the belligerent nations to open talks before the conflict spread further.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "bell",
+      "ger",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 belligerans(전쟁을 수행하는)에서 왔습니다. bellum(전쟁)과 gerere(수행하다)가 합쳐진 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bemoan",
+    "score": 34,
+    "zipf": 2.29,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To moan or complain about (something).",
+        "ko": "한탄하다, 애석해하다",
+        "synonyms": [
+          "lament",
+          "bewail",
+          "deplore"
+        ],
+        "examples": [
+          {
+            "text": "He bemoaned the drought but went on watering his lawn.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "be-",
+      "moan"
+    ],
+    "origin": {
+      "ko": "고대 영어 bemǣnan(한탄하다)에서 왔습니다. 어떤 일을 두고 신음하며 슬퍼한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bemuse",
+    "score": 23,
+    "zipf": 1.22,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To confuse or bewilder.",
+        "ko": "어리둥절하게 하다, 혼란스럽게 하다",
+        "synonyms": [
+          "bewilder",
+          "puzzle",
+          "perplex",
+          "confuse"
+        ],
+        "examples": [
+          {
+            "text": "The contradictory instructions bemused the new employees, who could not tell which rule applied.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "be-",
+      "muse"
+    ],
+    "origin": {
+      "ko": "be-와 muse(곰곰이 생각하다)가 합쳐진 말입니다. 생각에 빠져 멍해진다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bemused",
+    "score": 35,
+    "zipf": 2.56,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "perplexed and bewildered",
+        "ko": "어리둥절한, 당혹스러운",
+        "synonyms": [
+          "puzzled",
+          "bewildered",
+          "confused",
+          "baffled"
+        ],
+        "examples": [
+          {
+            "text": "The bemused audience wondered whether the strange ending was a joke or a mistake.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "deeply absorbed in thought",
+        "ko": "생각에 잠긴, 멍한",
+        "synonyms": [
+          "preoccupied",
+          "pensive",
+          "engrossed"
+        ],
+        "examples": [
+          {
+            "text": "The professor stood bemused at the window, lost in thought about an unsolved proof.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "be-",
+      "muse"
+    ],
+    "origin": {
+      "ko": "bemuse(어리둥절하게 하다)에 -ed가 붙은 말입니다. 생각에 빠져 멍한 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "beneficent",
+    "score": 49,
+    "zipf": 2.19,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "doing or producing good",
+        "ko": "선행을 베푸는, 자비로운",
+        "synonyms": [
+          "benevolent",
+          "charitable",
+          "generous",
+          "kind"
+        ],
+        "examples": [
+          {
+            "text": "The beneficent donor quietly funded scholarships for hundreds of students in the region.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "bene",
+      "fac(만들다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 bene(잘)와 facere(하다)에서 온 말입니다. 좋은 일을 하는 사람이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "benevolent",
+    "score": 44,
+    "zipf": 3.34,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "intending or showing kindness",
+        "ko": "자애로운, 인정 많은",
+        "synonyms": [
+          "kindly",
+          "charitable",
+          "altruistic",
+          "well-meaning"
+        ],
+        "examples": [
+          {
+            "text": "The benevolent headmaster often paid the fees of students whose families could not afford them.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "bene",
+      "vol(원하다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 benevolens(호의를 가진)에서 왔습니다. 남이 잘되기를 바라는 마음입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "benighted",
+    "score": 49,
+    "zipf": 2.18,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking enlightenment or knowledge or culture",
+        "ko": "무지몽매한, 미개한",
+        "synonyms": [
+          "unenlightened",
+          "ignorant",
+          "backward",
+          "uncultured"
+        ],
+        "examples": [
+          {
+            "text": "The reformer regarded the village's superstitions as the habits of a benighted and fearful age.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "be-",
+      "night"
+    ],
+    "origin": {
+      "ko": "benight(밤이 덮치다)에 -ed가 붙은 말입니다. 어둠에 덮여 앞이 안 보이는 데서 '무지몽매한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "benign",
+    "score": 58,
+    "zipf": 3.51,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Kind; gentle; mild.",
+        "ko": "상냥한, 온화한",
+        "synonyms": [
+          "kindly",
+          "gentle",
+          "amiable",
+          "genial"
+        ],
+        "examples": [
+          {
+            "text": "The benign old judge treated first-time offenders with patience rather than severity.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not dangerous to health; not recurrent or progressive (especially of a tumor)",
+        "ko": "(종양이) 양성의, 해가 없는",
+        "synonyms": [
+          "harmless",
+          "nonmalignant"
+        ],
+        "examples": [
+          {
+            "text": "The biopsy showed the tumor was benign, and no further treatment was needed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Of a climate or environment, mild and favorable.",
+        "ko": "(기후·환경이) 온화한, 쾌적한",
+        "synonyms": [
+          "mild",
+          "temperate",
+          "favorable"
+        ],
+        "examples": [
+          {
+            "text": "The benign climate of the valley allows farmers to harvest two crops each year.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "bene",
+      "gen"
+    ],
+    "origin": {
+      "ko": "라틴어 benignus(친절한)에서 왔습니다. bene(좋은)와 genus(태생)가 합쳐져 '좋은 성품을 타고난'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bent",
+    "score": 37,
+    "zipf": 3.99,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An inclination or talent.",
+        "ko": "소질, 성향",
+        "synonyms": [
+          "inclination",
+          "penchant",
+          "aptitude",
+          "propensity",
+          "knack"
+        ],
+        "examples": [
+          {
+            "text": "He had a natural bent for painting.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Determined or insistent; inclined, set.",
+        "ko": "~하기로 굳게 마음먹은, 열중한",
+        "synonyms": [
+          "determined",
+          "resolved",
+          "set",
+          "intent"
+        ],
+        "examples": [
+          {
+            "text": "They were bent on mischief.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "bend(구부리다)에 -t가 붙은 말입니다. 마음이 한쪽으로 기운 데서 '성향, 소질'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bequeath",
+    "score": 36,
+    "zipf": 2.47,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "leave or give by will after one's death",
+        "ko": "유언으로 물려주다, 유증하다",
+        "synonyms": [
+          "will",
+          "leave",
+          "hand down"
+        ],
+        "examples": [
+          {
+            "text": "My aunt bequeathed me all her jewelry",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To hand down; to transmit.",
+        "ko": "후세에 전하다, 물려주다",
+        "synonyms": [
+          "pass on",
+          "transmit",
+          "impart"
+        ],
+        "examples": [
+          {
+            "text": "The ancient empire bequeathed to later generations a legal tradition that still shapes modern law.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "be-",
+      "queath"
+    ],
+    "origin": {
+      "ko": "고대 영어 becweþan(말하다, 유언으로 남기다)에서 왔습니다. 말로 남긴다는 뜻이 '유증하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "berate",
+    "score": 35,
+    "zipf": 2.44,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "censure severely or angrily",
+        "ko": "심하게 꾸짖다, 질책하다",
+        "synonyms": [
+          "scold",
+          "rebuke",
+          "reprimand",
+          "castigate",
+          "chide"
+        ],
+        "examples": [
+          {
+            "text": "The coach berated his players in the locker room after they squandered a ten-point lead.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "be-",
+      "rate"
+    ],
+    "origin": {
+      "ko": "be-와 rate(꾸짖다)가 합쳐진 말입니다. 몹시 호되게 나무란다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bereft",
+    "score": 49,
+    "zipf": 2.8,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Deprived of, stripped of, robbed of.",
+        "ko": "~을 빼앗긴, ~이 없는",
+        "synonyms": [
+          "deprived",
+          "devoid",
+          "destitute",
+          "lacking"
+        ],
+        "examples": [
+          {
+            "text": "The proposal was bereft of any evidence, and the committee rejected it within minutes.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Pained by the loss of someone.",
+        "ko": "(사별로) 상실감에 빠진, 비탄에 잠긴",
+        "synonyms": [
+          "bereaved",
+          "grief-stricken",
+          "forlorn"
+        ],
+        "examples": [
+          {
+            "text": "I was utterly bereft in the months following my wife's death.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "be-",
+      "reave"
+    ],
+    "origin": {
+      "ko": "중세 영어 bireven(빼앗다)의 과거분사에서 왔습니다. 소중한 것을 빼앗긴 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "beseech",
+    "score": 34,
+    "zipf": 2.74,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "ask for or request earnestly",
+        "ko": "간청하다, 애원하다",
+        "synonyms": [
+          "implore",
+          "entreat",
+          "beg",
+          "plead with"
+        ],
+        "examples": [
+          {
+            "text": "The villagers besought the governor to send food before the winter closed the mountain roads.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "be-",
+      "seech"
+    ],
+    "origin": {
+      "ko": "고대 영어 sēċan(찾다)에 be-가 붙은 말입니다. 간절히 찾아가 청한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "besiege",
+    "score": 67,
+    "zipf": 2.36,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "surround so as to force to give up",
+        "ko": "포위하다, 포위 공격하다",
+        "synonyms": [
+          "beleaguer",
+          "encircle",
+          "lay siege to"
+        ],
+        "examples": [
+          {
+            "text": "The Turks besieged Vienna",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "harass, as with questions or requests",
+        "ko": "(질문·요구로) 쇄도하다, 시달리게 하다",
+        "synonyms": [
+          "inundate",
+          "pester",
+          "hound",
+          "swamp"
+        ],
+        "examples": [
+          {
+            "text": "The press photographers besieged the movie star",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "be-"
+    ],
+    "origin": {
+      "ko": "중세 영어 besegen에서 왔고, be-(둘레에)에 siege(포위)가 붙은 말입니다. 성 둘레를 빙 둘러싸는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "besmirch",
+    "score": 31,
+    "zipf": 2.0,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To tarnish something, especially someone's reputation.",
+        "ko": "(명예를) 더럽히다, 중상하다",
+        "synonyms": [
+          "sully",
+          "defame",
+          "smear",
+          "slander",
+          "tarnish"
+        ],
+        "examples": [
+          {
+            "text": "The newspaper was on a campaign to besmirch the actor.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "be-"
+    ],
+    "origin": {
+      "ko": "중세 영어 besmorchen에서 왔고, be-에 smirch(얼룩지게 하다)가 붙은 말입니다. 명예에 얼룩을 묻히는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "besotted",
+    "score": 34,
+    "zipf": 2.34,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Infatuated.",
+        "ko": "푹 빠진, 홀딱 반한",
+        "synonyms": [
+          "infatuated",
+          "smitten",
+          "enamored"
+        ],
+        "examples": [
+          {
+            "text": "He was so besotted with the young singer that he attended every one of her concerts.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "very drunk",
+        "ko": "곤드레만드레 취한",
+        "synonyms": [
+          "intoxicated",
+          "drunken",
+          "inebriated"
+        ],
+        "examples": [
+          {
+            "text": "The besotted sailors stumbled back to the ship long after midnight, singing loudly.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bestow",
+    "score": 31,
+    "zipf": 2.98,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "give as a gift",
+        "ko": "수여하다, 주다",
+        "synonyms": [
+          "confer",
+          "grant",
+          "present",
+          "award"
+        ],
+        "examples": [
+          {
+            "text": "Medals were bestowed on the winning team.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 bestowen에서 왔습니다. '짐을 싣듯 자리에 놓아 두다'에서 '아낌없이 내려 주다'로 발전했습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "betoken",
+    "score": 24,
+    "zipf": 1.33,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be a signal for or a symptom of",
+        "ko": "~의 징후이다, 나타내다",
+        "synonyms": [
+          "indicate",
+          "signify",
+          "bespeak"
+        ],
+        "examples": [
+          {
+            "text": "The sudden rise in unemployment betokens deeper problems in the region's economy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "indicate, as with a sign or an omen",
+        "ko": "~의 전조가 되다, 예고하다",
+        "synonyms": [
+          "portend",
+          "presage",
+          "augur",
+          "foreshadow"
+        ],
+        "examples": [
+          {
+            "text": "Dark clouds on the horizon betokened a storm that sailors had learned to fear.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 betācnian('나타내다, 표시하다')에서 왔고, be-에 token(표지)이 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "betray",
+    "score": 59,
+    "zipf": 3.42,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "deliver to an enemy by treachery",
+        "ko": "배신하여 넘기다, 배반하다",
+        "synonyms": [
+          "sell out",
+          "double-cross",
+          "forsake"
+        ],
+        "examples": [
+          {
+            "text": "The spy betrayed his country",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "reveal unintentionally",
+        "ko": "무심코 드러내다, 내비치다",
+        "synonyms": [
+          "reveal",
+          "expose",
+          "give away"
+        ],
+        "examples": [
+          {
+            "text": "Her smile betrayed her true feelings",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 betrayen('반역하다')에서 왔고, traitor(반역자), treason(반역)과 같은 계통입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "betrothed",
+    "score": 32,
+    "zipf": 2.86,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "pledged to be married",
+        "ko": "약혼한",
+        "synonyms": [
+          "engaged",
+          "affianced"
+        ],
+        "examples": [
+          {
+            "text": "The betrothed couple announced that their wedding would take place in the spring.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "One who is betrothed, i.e. a fiancé or fiancée.",
+        "ko": "약혼자",
+        "synonyms": [
+          "fiancé",
+          "fiancée",
+          "intended"
+        ],
+        "examples": [
+          {
+            "text": "She introduced him as her betrothed.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 betroth(약혼시키다)에 과거분사형 -ed가 붙은 형태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bevy",
+    "score": 52,
+    "zipf": 2.55,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a large gathering of people of a particular type",
+        "ko": "한 떼, 무리",
+        "synonyms": [
+          "group",
+          "throng",
+          "cluster",
+          "flock"
+        ],
+        "examples": [
+          {
+            "text": "A bevy of reporters crowded around the senator as she left the hearing room.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 bevey에서 왔으나 정확한 기원은 불분명합니다. 앵글로노르만어에서 왔을 가능성이 있습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

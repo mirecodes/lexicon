@@ -1,0 +1,36 @@
+[
+  {
+    "word": "pyrrhic",
+    "score": 34,
+    "zipf": 2.26,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of or relating to or resembling Pyrrhus or his exploits (especially his sustaining staggering losses in order to defeat the Romans)",
+        "ko": "피로스의 승리 같은, 희생이 너무 커서 득이 없는",
+        "synonyms": [
+          "costly",
+          "ruinous",
+          "hollow"
+        ],
+        "examples": [
+          {
+            "text": "The company won the lawsuit, but legal fees made it a Pyrrhic victory.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 purrhichē('전쟁 춤')에서 온 말로, 로마와 싸워 이기고도 큰 손실을 본 왕 피로스에서 '희생이 큰 승리'라는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

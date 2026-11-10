@@ -1,0 +1,815 @@
+[
+  {
+    "word": "spangle",
+    "score": 28,
+    "zipf": 1.72,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "adornment consisting of a small piece of shiny material used to decorate clothing",
+        "ko": "반짝이 장식, 스팽글",
+        "synonyms": [
+          "sequin",
+          "paillette"
+        ],
+        "examples": [
+          {
+            "text": "The dancer's gown was covered in silver spangles that caught the stage lights with every turn.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To flash, glitter, or sparkle.",
+        "ko": "반짝이다, 빛나다",
+        "synonyms": [
+          "coruscate",
+          "scintillate",
+          "glitter"
+        ],
+        "examples": [
+          {
+            "text": "Frost began to spangle the fields as the first light of morning crossed the valley.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 spang(작은 장신구)에 작다는 뜻의 -el이 붙은 말입니다. 작은 반짝이 조각을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sparse",
+    "score": 27,
+    "zipf": 3.36,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not dense",
+        "ko": "드문드문한, 희박한",
+        "synonyms": [
+          "scanty",
+          "meager",
+          "thin",
+          "scattered"
+        ],
+        "examples": [
+          {
+            "text": "trees were sparse",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "spars"
+    ],
+    "origin": {
+      "ko": "라틴어 sparsus(흩뿌려진)에서 왔습니다. 여기저기 드문드문 흩어진 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "spartan",
+    "score": 75,
+    "zipf": 3.37,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "practicing great self-denial",
+        "ko": "검소한, 금욕적인",
+        "synonyms": [
+          "austere",
+          "ascetic",
+          "frugal",
+          "plain"
+        ],
+        "examples": [
+          {
+            "text": "I went on the retreat to the monastery, thinking I would be sleeping in a spartan cell, only to discover a simple but comfortable bedroom.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "resolute in the face of pain or danger or adversity",
+        "ko": "불굴의, 용맹스러운",
+        "synonyms": [
+          "stoic",
+          "hardy",
+          "courageous"
+        ],
+        "examples": [
+          {
+            "text": "The spartan legionaries vowed to fight to the death.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 그리스 도시국가 스파르타 사람들이 검소하고 금욕적이었던 데서 나온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "spat",
+    "score": 28,
+    "zipf": 3.3,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A brief argument, falling out, quarrel.",
+        "ko": "사소한 말다툼",
+        "synonyms": [
+          "tiff",
+          "squabble",
+          "quarrel"
+        ],
+        "examples": [
+          {
+            "text": "get into a trivial spat over punctuality",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "engage in a brief and petty quarrel",
+        "ko": "사소한 일로 다투다",
+        "synonyms": [
+          "bicker",
+          "squabble",
+          "wrangle"
+        ],
+        "examples": [
+          {
+            "text": "The two senators spat openly over the budget before the cameras this week.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "어원이 불확실합니다. 침 뱉는 듯한 spit와 관련 있을 수 있습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "spate",
+    "score": 49,
+    "zipf": 2.79,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A sudden increase or rush of something; a flood, an outburst, an outpouring.",
+        "ko": "쇄도, 갑작스러운 급증",
+        "synonyms": [
+          "flood",
+          "outburst",
+          "surge",
+          "rash"
+        ],
+        "examples": [
+          {
+            "text": "A spate of resignations followed the announcement of the merger.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the occurrence of a water flow resulting from sudden rain or melting snow",
+        "ko": "갑작스러운 홍수, 급류",
+        "synonyms": [
+          "freshet",
+          "flood"
+        ],
+        "examples": [
+          {
+            "text": "The river rose in a spate after three days of heavy rain in the hills.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 spate(홍수)에서 왔습니다. 갑자기 불어난 물이 쇄도하는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "spearhead",
+    "score": 33,
+    "zipf": 2.83,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be the leader of",
+        "ko": "선봉에 서다, 주도하다",
+        "synonyms": [
+          "lead",
+          "head",
+          "pioneer"
+        ],
+        "examples": [
+          {
+            "text": "She spearheaded the effort to find a cure for the disease",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "someone who leads or initiates an activity (attack or campaign etc.)",
+        "ko": "선봉, 주도자",
+        "synonyms": [
+          "leader",
+          "vanguard",
+          "driving force"
+        ],
+        "examples": [
+          {
+            "text": "The young economist became the intellectual spearhead of the reform movement.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-head"
+    ],
+    "origin": {
+      "ko": "중세 영어 spere-hed(창의 끝)에서 왔습니다. 창끝처럼 맨 앞에서 이끈다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "specious",
+    "score": 100,
+    "zipf": 2.45,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "plausible but false",
+        "ko": "그럴듯하지만 틀린, 허울만 좋은",
+        "synonyms": [
+          "spurious",
+          "fallacious",
+          "misleading"
+        ],
+        "examples": [
+          {
+            "text": "This idea that we must see through what we have started is specious, however good it may sound.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "based on pretense; deceptively pleasing",
+        "ko": "겉만 번지르르한, 기만적으로 매력적인",
+        "synonyms": [
+          "meretricious",
+          "gilded",
+          "glossy"
+        ],
+        "examples": [
+          {
+            "text": "The brochure's specious glamour hid the shoddy construction of the resort.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "spec",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 speciōsus(보기 좋은)에서 왔습니다. 겉보기만 좋고 알맹이는 틀렸다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "spectral",
+    "score": 26,
+    "zipf": 3.46,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "resembling or characteristic of a phantom",
+        "ko": "유령 같은, 으스스한",
+        "synonyms": [
+          "ghostly",
+          "phantasmal",
+          "ghostlike",
+          "apparitional"
+        ],
+        "examples": [
+          {
+            "text": "The spectral chain-rattling and moans gave me the chills.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of or relating to a spectrum",
+        "ko": "스펙트럼의",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "spectral analysis",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "spec",
+      "-al"
+    ],
+    "origin": {
+      "ko": "spectre(유령)에 -al이 붙은 말로, 라틴어 spectrum(보이는 형상)에서 나왔습니다. 눈에 보이는 환영 같다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "spectrum",
+    "score": 18,
+    "zipf": 4.26,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a broad range of related objects or values or qualities or ideas or activities",
+        "ko": "넓은 범위, 폭넓은 분포",
+        "synonyms": [
+          "range",
+          "continuum",
+          "gamut"
+        ],
+        "examples": [
+          {
+            "text": "As Mr. Obama prepared to take the oath, his approval rating touched a remarkable 70 percent in some polling — a reflection of good will across the political spectrum.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an ordered array of the components of an emission or wave",
+        "ko": "스펙트럼",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "The prism split the sunlight into its visible spectrum of colors.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "spec"
+    ],
+    "origin": {
+      "ko": "라틴어 spectrum(모습, 환영)에서 왔고 specere(보다)와 이어집니다. 눈에 보이는 빛의 띠가 넓은 범위라는 뜻으로 확장되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "speculate",
+    "score": 26,
+    "zipf": 3.48,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To make an inference based on inconclusive evidence; to surmise or conjecture.",
+        "ko": "추측하다, 짐작하다",
+        "synonyms": [
+          "conjecture",
+          "surmise",
+          "theorize",
+          "hypothesize"
+        ],
+        "examples": [
+          {
+            "text": "We can speculate that in many instances the sharks are not feeding on their victims, but only in a few cases can we guess what they are doing.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "reflect deeply on a subject",
+        "ko": "숙고하다, 사색하다",
+        "synonyms": [
+          "ponder",
+          "contemplate",
+          "meditate",
+          "muse"
+        ],
+        "examples": [
+          {
+            "text": "philosophers have speculated on the question of God for thousands of years",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To make a risky trade in the hope of making a profit; to venture or gamble.",
+        "ko": "투기하다",
+        "synonyms": [
+          "gamble",
+          "venture"
+        ],
+        "examples": [
+          {
+            "text": "Many small investors lost their savings by speculating in volatile currency markets.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "spec",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 speculor(망루에서 살피다)에서 왔습니다. 멀리서 내다보며 짐작한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "spendthrift",
+    "score": 65,
+    "zipf": 2.23,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone who spends money prodigally",
+        "ko": "낭비가, 돈을 헤프게 쓰는 사람",
+        "synonyms": [
+          "prodigal",
+          "wastrel",
+          "squanderer"
+        ],
+        "examples": [
+          {
+            "text": "The heir proved a spendthrift and had exhausted the family fortune within a decade.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "recklessly wasteful",
+        "ko": "낭비하는, 헤픈",
+        "synonyms": [
+          "extravagant",
+          "prodigal",
+          "profligate",
+          "improvident"
+        ],
+        "examples": [
+          {
+            "text": "Critics condemned the spendthrift government for ignoring the growing deficit.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "spend(쓰다)와 thrift(저축, 재산)가 합쳐진 말입니다. 모은 재산을 써 버리는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "splenetic",
+    "score": 25,
+    "zipf": 1.42,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "very irritable",
+        "ko": "성마른, 짜증을 잘 내는",
+        "synonyms": [
+          "irascible",
+          "peevish",
+          "waspish",
+          "bad-tempered",
+          "testy"
+        ],
+        "examples": [
+          {
+            "text": "The splenetic critic dismissed the entire exhibition in a single bitter paragraph.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "splen",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "라틴어 splen(비장)에서 왔습니다. 옛날에는 분노가 비장의 체액에서 생긴다고 믿었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sporadic",
+    "score": 60,
+    "zipf": 3.29,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "recurring in scattered and irregular or unpredictable instances",
+        "ko": "산발적인, 간헐적인",
+        "synonyms": [
+          "intermittent",
+          "occasional",
+          "episodic",
+          "infrequent"
+        ],
+        "examples": [
+          {
+            "text": "a city subjected to sporadic bombing raids",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "spars",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 sporas(흩어진)에서 왔고 '씨 뿌림'과 이어집니다. 씨앗이 흩어지듯 여기저기 드문드문 일어납니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sportive",
+    "score": 50,
+    "zipf": 2.33,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "given to merry frolicking",
+        "ko": "장난기 많은, 명랑하게 뛰노는",
+        "synonyms": [
+          "playful",
+          "frolicsome",
+          "coltish",
+          "rollicking"
+        ],
+        "examples": [
+          {
+            "text": "The sportive lambs leapt and chased one another across the spring meadow all afternoon.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ive"
+    ],
+    "origin": {
+      "ko": "sport(놀이)에 -ive가 붙은 말입니다. 신나게 뛰놀며 장난친다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "spurious",
+    "score": 63,
+    "zipf": 2.96,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "ostensibly valid, but not actually valid",
+        "ko": "타당해 보이나 실은 그릇된",
+        "synonyms": [
+          "specious",
+          "fallacious",
+          "unsound"
+        ],
+        "examples": [
+          {
+            "text": "His argument was spurious and had no validity.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "False, not authentic, not genuine.",
+        "ko": "가짜의, 진짜가 아닌",
+        "synonyms": [
+          "fake",
+          "counterfeit",
+          "bogus",
+          "inauthentic"
+        ],
+        "examples": [
+          {
+            "text": "a spurious work of art",
+            "source": "oewn"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ous"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 spurius(사생아의, 가짜의)에서 왔습니다. 정통이 아닌 가짜라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "spurn",
+    "score": 51,
+    "zipf": 2.36,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "reject with contempt",
+        "ko": "냉대하며 거절하다, 퇴짜 놓다",
+        "synonyms": [
+          "scorn",
+          "disdain",
+          "rebuff",
+          "reject"
+        ],
+        "examples": [
+          {
+            "text": "She spurned his advances",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 spurnan(걷어차다)에서 왔습니다. 발로 걷어차듯 경멸하며 거절한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,663 @@
+[
+  {
+    "word": "audacious",
+    "score": 96,
+    "zipf": 2.95,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "disposed to venture or take risks",
+        "ko": "대담한, 과감한",
+        "synonyms": [
+          "daring",
+          "bold",
+          "venturesome",
+          "intrepid"
+        ],
+        "examples": [
+          {
+            "text": "It was an audacious thing for her to attempt, but boldness had often served her turn before.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "unrestrained by convention or propriety",
+        "ko": "뻔뻔한, 무례한",
+        "synonyms": [
+          "brazen",
+          "impudent",
+          "insolent",
+          "brash"
+        ],
+        "examples": [
+          {
+            "text": "an audacious trick to pull",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "aud",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 audax(대담한)에서 왔고 audere(감히 ~하다)에서 나왔습니다. 두려움 없이 덤비는 태도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "audacity",
+    "score": 28,
+    "zipf": 3.27,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "aggressive boldness or unmitigated effrontery",
+        "ko": "뻔뻔스러움, 철면피",
+        "synonyms": [
+          "effrontery",
+          "gall",
+          "temerity",
+          "chutzpah",
+          "nerve"
+        ],
+        "examples": [
+          {
+            "text": "he had the audacity to question my decision",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "fearless daring",
+        "ko": "대담함, 용기",
+        "synonyms": [
+          "boldness",
+          "daring",
+          "intrepidity",
+          "temerity"
+        ],
+        "examples": [
+          {
+            "text": "The explorers' audacity carried them across the uncharted ice cap in midwinter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "aud",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 audax(대담한)에서 왔습니다. 대담함이 지나쳐 '뻔뻔함'의 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "augment",
+    "score": 77,
+    "zipf": 3.19,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "enlarge or increase",
+        "ko": "늘리다, 증대시키다",
+        "synonyms": [
+          "increase",
+          "enlarge",
+          "boost",
+          "supplement",
+          "amplify"
+        ],
+        "examples": [
+          {
+            "text": "The money from renting out a spare room can augment a salary.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "aug",
+      "-ment"
+    ],
+    "origin": {
+      "ko": "라틴어 augmentum(증가)에서 왔고 augere(늘리다)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "augury",
+    "score": 62,
+    "zipf": 1.9,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An omen or prediction; a foreboding; a prophecy.",
+        "ko": "전조, 조짐, 예언",
+        "synonyms": [
+          "omen",
+          "portent",
+          "sign",
+          "prophecy",
+          "harbinger"
+        ],
+        "examples": [
+          {
+            "text": "The sudden drop in orders was read by analysts as an augury of a coming downturn.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 augurium(새점)에서 왔습니다. 고대 로마 점술가가 새의 움직임으로 앞일을 점친 데서 '전조'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "august",
+    "score": 64,
+    "zipf": 5.1,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Awe-inspiring, majestic, noble, venerable.",
+        "ko": "위엄 있는, 존엄한",
+        "synonyms": [
+          "majestic",
+          "venerable",
+          "noble",
+          "stately",
+          "revered"
+        ],
+        "examples": [
+          {
+            "text": "an august patron of the arts",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "aug"
+    ],
+    "origin": {
+      "ko": "라틴어 augustus(위엄 있는)에서 왔고 augere(늘리다)에서 나왔습니다. 로마 황제 칭호 Augustus와도 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "auspices",
+    "score": 29,
+    "zipf": 3.22,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Protection or patronage.",
+        "ko": "후원, 보호",
+        "synonyms": [
+          "aegis",
+          "patronage",
+          "sponsorship",
+          "protection"
+        ],
+        "examples": [
+          {
+            "text": "The project took place under the auspices of the local church.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 auspicium(새를 보고 치는 점)에서 왔습니다. 길조를 내려주는 보호라는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "auspicious",
+    "score": 62,
+    "zipf": 3.09,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "auguring favorable circumstances and good luck",
+        "ko": "상서로운, 길조의",
+        "synonyms": [
+          "propitious",
+          "favorable",
+          "promising",
+          "fortunate"
+        ],
+        "examples": [
+          {
+            "text": "an auspicious beginning for the campaign",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 auspicium(새점)에서 왔고 auspex(새점 치는 사람)와 이어집니다. 새가 길조를 보인다는 데서 '상서로운'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "austere",
+    "score": 95,
+    "zipf": 3.0,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "practicing great self-denial",
+        "ko": "금욕적인, 엄격한",
+        "synonyms": [
+          "ascetic",
+          "spartan",
+          "abstemious",
+          "self-denying"
+        ],
+        "examples": [
+          {
+            "text": "a desert nomad's austere life",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "severely simple",
+        "ko": "꾸밈없는, 소박한",
+        "synonyms": [
+          "stark",
+          "plain",
+          "spare",
+          "unadorned"
+        ],
+        "examples": [
+          {
+            "text": "The interior of the church was as austere as the parishioners were dour.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of a stern or strict bearing or demeanor; forbidding in aspect",
+        "ko": "엄격한, 준엄한",
+        "synonyms": [
+          "stern",
+          "severe",
+          "forbidding",
+          "strict"
+        ],
+        "examples": [
+          {
+            "text": "The headmistress was an austere old woman.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 austēros(떫은, 혀를 마르게 하는)에서 왔습니다. 입안을 건조하게 하는 떫음에서 '엄격한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "autocratic",
+    "score": 32,
+    "zipf": 2.9,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characteristic of an absolute ruler or absolute rule; having absolute sovereignty",
+        "ko": "독재적인, 전제적인",
+        "synonyms": [
+          "dictatorial",
+          "despotic",
+          "authoritarian",
+          "tyrannical"
+        ],
+        "examples": [
+          {
+            "text": "In recent years, the prime minister has become increasingly autocratic.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "offensively self-assured or given to exercising usually unwarranted power",
+        "ko": "독단적인, 오만하게 군림하는",
+        "synonyms": [
+          "domineering",
+          "bossy",
+          "peremptory",
+          "overbearing"
+        ],
+        "examples": [
+          {
+            "text": "Despite his lack of actual authority, his autocratic demeanour annoyed many of his colleagues.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "auto-",
+      "crat",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "autocrat(독재자)에 -ic이 붙은 말입니다. 그리스어 '스스로 통치하는'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "automate",
+    "score": 30,
+    "zipf": 3.08,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make automatic or control or operate automatically",
+        "ko": "자동화하다",
+        "synonyms": [
+          "mechanize",
+          "computerize"
+        ],
+        "examples": [
+          {
+            "text": "We saved time and money by automating the process.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "auto-"
+    ],
+    "origin": {
+      "ko": "automation(자동화)에서 거꾸로 만들어진 말입니다. 그리스어 automatos(스스로 움직이는)가 바탕입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "autonomous",
+    "score": 38,
+    "zipf": 3.85,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(of political bodies) not controlled by outside forces",
+        "ko": "자치의, 독립된",
+        "synonyms": [
+          "independent",
+          "self-governing",
+          "sovereign"
+        ],
+        "examples": [
+          {
+            "text": "an autonomous judiciary",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "(of persons) free from external control and constraint in e.g. action and judgment",
+        "ko": "자율적인, 자주적인",
+        "synonyms": [
+          "self-directed",
+          "self-reliant",
+          "independent"
+        ],
+        "examples": [
+          {
+            "text": "Teachers argue that autonomous students learn more than those who simply follow instructions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "auto-",
+      "nom(법)",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "그리스어 autonomos(자기 법을 따르는)에서 왔습니다. 스스로 정한 법으로 사는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "autonomy",
+    "score": 22,
+    "zipf": 3.86,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "personal independence",
+        "ko": "자율성, 자주성",
+        "synonyms": [
+          "self-direction",
+          "independence",
+          "self-reliance",
+          "freedom"
+        ],
+        "examples": [
+          {
+            "text": "Financial independence and micro retirement have come to represent the autonomy I've created for myself, which is a powerful feeling.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "immunity from arbitrary exercise of authority: political independence",
+        "ko": "자치(권), 정치적 독립",
+        "synonyms": [
+          "self-government",
+          "sovereignty",
+          "liberty",
+          "home rule"
+        ],
+        "examples": [
+          {
+            "text": "The province demanded greater autonomy from the central government.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "auto-",
+      "nom(법)"
+    ],
+    "origin": {
+      "ko": "그리스어 autonomia(자기 법을 가짐)에서 왔습니다. 스스로 규칙을 정하는 독립을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "auxiliary",
+    "score": 24,
+    "zipf": 3.74,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "functioning in a supporting capacity",
+        "ko": "보조의, 부수적인",
+        "synonyms": [
+          "subsidiary",
+          "supplementary",
+          "ancillary",
+          "supporting"
+        ],
+        "examples": [
+          {
+            "text": "the main library and its auxiliary branches",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Held in reserve for exceptional circumstances.",
+        "ko": "예비의, 비상용의",
+        "synonyms": [
+          "reserve",
+          "backup",
+          "spare"
+        ],
+        "examples": [
+          {
+            "text": "The hospital switched to its auxiliary generators when the main grid failed.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "aug",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "라틴어 auxiliarius(조력자)에서 왔고 auxilium(도움)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

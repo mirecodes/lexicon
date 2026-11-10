@@ -1,0 +1,710 @@
+[
+  {
+    "word": "amalgam",
+    "score": 32,
+    "zipf": 2.85,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a combination or blend of diverse things",
+        "ko": "혼합물, 융합체",
+        "synonyms": [
+          "blend",
+          "mixture",
+          "fusion",
+          "composite",
+          "medley"
+        ],
+        "examples": [
+          {
+            "text": "The city's cuisine is an amalgam of Portuguese, African, and Indian traditions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 라틴어 amalgama(수은 합금)에서 왔고 그리스어 '부드럽게 하다'와 연결됩니다. 여러 물질이 섞인 혼합물이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "amalgamate",
+    "score": 65,
+    "zipf": 2.23,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to bring or combine together or with something else",
+        "ko": "합병하다, 융합하다",
+        "synonyms": [
+          "merge",
+          "combine",
+          "unite",
+          "blend",
+          "fuse"
+        ],
+        "examples": [
+          {
+            "text": "The two rival banks agreed to amalgamate in order to compete with larger international firms.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 라틴어 amalgamare(수은과 합금하다)에서 왔습니다. 서로 섞어 하나로 융합한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "amalgamation",
+    "score": 30,
+    "zipf": 3.08,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The process of amalgamating; a mixture, merger or consolidation.",
+        "ko": "합병, 융합",
+        "synonyms": [
+          "merger",
+          "fusion",
+          "union",
+          "consolidation",
+          "blend"
+        ],
+        "examples": [
+          {
+            "text": "The amalgamation of the three small colleges created the region's largest university.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 라틴어 amalgamatio에서 왔고 amalgam(합금)과 같은 뿌리입니다. 섞어 하나로 만드는 과정입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ambiguous",
+    "score": 41,
+    "zipf": 3.57,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having more than one possible meaning",
+        "ko": "애매한, 모호한",
+        "synonyms": [
+          "equivocal",
+          "unclear",
+          "vague",
+          "uncertain",
+          "cryptic"
+        ],
+        "examples": [
+          {
+            "text": "The ambiguous wording of the contract allowed each side to claim victory in the dispute.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ambi-",
+      "ag",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 ambiguus(이리저리 오락가락하는)에서 왔습니다. 양쪽으로 흔들려 뜻이 정해지지 않은 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ambivalent",
+    "score": 63,
+    "zipf": 3.01,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Simultaneously experiencing or expressing opposing or contradictory feelings, beliefs, motivations, or meanings.",
+        "ko": "상반된 감정을 동시에 느끼는, 양면적인",
+        "synonyms": [
+          "conflicted",
+          "torn",
+          "equivocal",
+          "undecided",
+          "uncertain"
+        ],
+        "examples": [
+          {
+            "text": "She felt ambivalent about the promotion, which promised higher pay but demanded constant travel.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ambi-",
+      "val",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "독일어 Ambivalenz에서 온 말입니다. 두 방향으로 동시에 강한 감정이 작용한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ambrosia",
+    "score": 34,
+    "zipf": 2.65,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Anything delightfully sweet and pleasing.",
+        "ko": "맛과 향이 뛰어난 음식, 감미로운 것",
+        "synonyms": [
+          "delicacy",
+          "nectar",
+          "delight",
+          "treat"
+        ],
+        "examples": [
+          {
+            "text": "After days of dry rations, the ripe peaches tasted like ambrosia to the exhausted hikers.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "(classical mythology) the food and drink of the gods; mortals who ate it became immortal",
+        "ko": "(신화) 신들의 음식",
+        "synonyms": [
+          "nectar",
+          "food of the gods"
+        ],
+        "examples": [
+          {
+            "text": "In Greek myth, the gods preserved their immortality by feasting on ambrosia.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "a-(부정)",
+      "brot"
+    ],
+    "origin": {
+      "ko": "그리스어 ambrosia(불사)에서 왔습니다. 신들이 먹어 죽지 않게 해 준다는 음식이 '감미로운 것'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ameliorate",
+    "score": 83,
+    "zipf": 2.56,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to make better",
+        "ko": "개선하다, 나아지게 하다",
+        "synonyms": [
+          "improve",
+          "better",
+          "amend",
+          "enhance",
+          "mitigate"
+        ],
+        "examples": [
+          {
+            "text": "New housing programs were designed to ameliorate conditions in the city's poorest neighborhoods.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "meli",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "프랑스어 améliorer(개선하다)에서 왔고 라틴어 melior(더 좋은)에서 나왔습니다. 더 좋게 만든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "amenable",
+    "score": 96,
+    "zipf": 2.89,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "responsive to suggestions and influences",
+        "ko": "순응하는, 말을 잘 듣는",
+        "synonyms": [
+          "tractable",
+          "compliant",
+          "agreeable",
+          "docile",
+          "receptive"
+        ],
+        "examples": [
+          {
+            "text": "The director was amenable to changes, provided that the central scene remained untouched.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "liable to answer to a higher authority",
+        "ko": "책임을 져야 하는, 복종할 의무가 있는",
+        "synonyms": [
+          "accountable",
+          "answerable",
+          "responsible",
+          "subject"
+        ],
+        "examples": [
+          {
+            "text": "Officials are amenable to the courts, which can review any decision they make.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "min(몰다)",
+      "-able"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 amener(이끌어 오다)에서 왔습니다. 이끄는 대로 따라올 수 있다는 데서 '순응하는'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "amend",
+    "score": 26,
+    "zipf": 3.55,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make amendments to",
+        "ko": "(법안 등을) 수정하다, 개정하다",
+        "synonyms": [
+          "revise",
+          "modify",
+          "alter",
+          "change",
+          "emend"
+        ],
+        "examples": [
+          {
+            "text": "Lawmakers voted to amend the constitution so that elections could be held every four years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "set straight or right",
+        "ko": "바로잡다, 고치다",
+        "synonyms": [
+          "rectify",
+          "correct",
+          "remedy",
+          "repair",
+          "reform"
+        ],
+        "examples": [
+          {
+            "text": "He tried to amend his earlier carelessness by working extra hours through the winter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "mend"
+    ],
+    "origin": {
+      "ko": "라틴어 emendare(결점을 없애다)에서 왔습니다. 잘못을 걷어내 고친다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "amiable",
+    "score": 49,
+    "zipf": 2.84,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "diffusing warmth and friendliness",
+        "ko": "상냥한, 붙임성 있는",
+        "synonyms": [
+          "affable",
+          "genial",
+          "cordial",
+          "good-natured",
+          "friendly"
+        ],
+        "examples": [
+          {
+            "text": "The amiable innkeeper chatted with every traveler and remembered each regular's favorite dish.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "am",
+      "-able"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 amicabilis(우호적인)에서 왔고 amicus(친구)에서 나왔습니다. 친구처럼 다정한 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "amicable",
+    "score": 47,
+    "zipf": 2.97,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by friendship and good will",
+        "ko": "우호적인, 원만한",
+        "synonyms": [
+          "friendly",
+          "cordial",
+          "harmonious",
+          "peaceable",
+          "civil"
+        ],
+        "examples": [
+          {
+            "text": "The partners reached an amicable settlement and avoided a long and costly trial.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "am",
+      "-able"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 amicabilis(우호적인)에서 왔고 amicus(친구)에서 나왔습니다. 친구 사이 같은 원만함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "amorphous",
+    "score": 64,
+    "zipf": 2.95,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having no definite form or distinct shape",
+        "ko": "뚜렷한 형태가 없는, 무정형의",
+        "synonyms": [
+          "formless",
+          "shapeless",
+          "indistinct",
+          "nebulous",
+          "vague"
+        ],
+        "examples": [
+          {
+            "text": "Through the fog, the ship appeared as an amorphous gray mass on the horizon.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Lacking organization or unity.",
+        "ko": "체계가 없는, 조직화되지 않은",
+        "synonyms": [
+          "unstructured",
+          "disorganized",
+          "nebulous",
+          "unfocused"
+        ],
+        "examples": [
+          {
+            "text": "The amorphous movement had no clear leader, no budget, and no agreed set of goals.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "a-(부정)",
+      "morph",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "그리스어 amorphos(형태 없는)에서 왔습니다. 모양이 갖춰지지 않은 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "amortize",
+    "score": 45,
+    "zipf": 1.81,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "liquidate gradually",
+        "ko": "(부채를) 분할 상환하다",
+        "synonyms": [
+          "pay off",
+          "write off",
+          "liquidate gradually"
+        ],
+        "examples": [
+          {
+            "text": "The firm plans to amortize the loan over twenty years through fixed monthly payments.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "mor(죽음)",
+      "-ize"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 amortir(죽게 하다)에서 왔습니다. 빚을 조금씩 '죽여' 없애는 데서 '분할 상환하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "amply",
+    "score": 35,
+    "zipf": 2.61,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "sufficiently; more than adequately",
+        "ko": "충분히, 넉넉하게",
+        "synonyms": [
+          "fully",
+          "abundantly",
+          "generously",
+          "richly",
+          "sufficiently"
+        ],
+        "examples": [
+          {
+            "text": "The generous grant amply covered the costs of the expedition, leaving funds for a second season.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 amplus(넓은, 풍부한)에서 온 ample에 -ly가 붙은 말입니다. 넉넉하고 풍부하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "amuck",
+    "score": 32,
+    "zipf": 2.05,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "wildly; without self-control",
+        "ko": "광란하여, 제정신을 잃고",
+        "synonyms": [
+          "amok",
+          "wildly",
+          "berserk",
+          "frenziedly"
+        ],
+        "examples": [
+          {
+            "text": "Without strict supervision, the project ran amuck, with costs doubling and deadlines ignored.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "말레이어 amok(광란하며 덤벼드는)에서 왔다고 알려져 있습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "amulet",
+    "score": 31,
+    "zipf": 2.99,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a trinket or piece of jewelry usually hung about the neck and thought to be a magical protection against evil or disease",
+        "ko": "부적, 액막이",
+        "synonyms": [
+          "talisman",
+          "charm",
+          "fetish"
+        ],
+        "examples": [
+          {
+            "text": "The traveler wore a small stone amulet around his neck to ward off misfortune.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어를 거쳐 라틴어 amuletum(부적)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

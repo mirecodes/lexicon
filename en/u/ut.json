@@ -1,0 +1,161 @@
+[
+  {
+    "word": "utilitarian",
+    "score": 31,
+    "zipf": 3.05,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Practical and functional, present for use, not just for show.",
+        "ko": "실용적인, 기능 위주의",
+        "synonyms": [
+          "practical",
+          "functional",
+          "pragmatic"
+        ],
+        "examples": [
+          {
+            "text": "The architect favored a utilitarian design, with no ornament that did not serve a purpose.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Pertaining to utilitarianism.",
+        "ko": "공리주의의",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "A utilitarian approach to ethics judges actions by whether they maximize overall happiness.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "us",
+      "-arian"
+    ],
+    "origin": {
+      "ko": "utility에 -arian을 붙여 철학자 벤담이 만든 말입니다. 쓸모를 따진다는 뜻이 '실용적인'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "utter",
+    "score": 22,
+    "zipf": 3.85,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "complete and absolute",
+        "ko": "완전한, 전적인",
+        "synonyms": [
+          "absolute",
+          "complete",
+          "total",
+          "sheer",
+          "downright"
+        ],
+        "examples": [
+          {
+            "text": "The experiment ended in utter failure, leaving the researchers with no usable data.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "express in speech",
+        "ko": "말하다, 입 밖에 내다",
+        "synonyms": [
+          "say",
+          "voice",
+          "express",
+          "articulate"
+        ],
+        "examples": [
+          {
+            "text": "Stunned by the verdict, she could not utter a single word in her own defense.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "put into circulation",
+        "ko": "위조 화폐 등을 유통시키다",
+        "synonyms": [
+          "circulate",
+          "pass off"
+        ],
+        "examples": [
+          {
+            "text": "He was convicted of uttering counterfeit banknotes at several shops in the city.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 ūtera('바깥쪽의')에서 왔고 out의 비교급입니다. 끝까지 바깥으로 나갔다는 뜻이 '완전한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "utterly",
+    "score": 21,
+    "zipf": 4.02,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "Completely; entirely; to the fullest extent.",
+        "ko": "완전히, 전적으로",
+        "synonyms": [
+          "completely",
+          "entirely",
+          "totally",
+          "absolutely"
+        ],
+        "examples": [
+          {
+            "text": "Well, now we are utterly lost.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "utter에 -ly를 붙인 부사입니다. '완전히'라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

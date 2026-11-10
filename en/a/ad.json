@@ -1,0 +1,788 @@
+[
+  {
+    "word": "adage",
+    "score": 32,
+    "zipf": 2.95,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An old saying which has obtained credit by long use.",
+        "ko": "격언, 속담",
+        "synonyms": [
+          "proverb",
+          "maxim",
+          "saw",
+          "aphorism",
+          "byword"
+        ],
+        "examples": [
+          {
+            "text": "The old adage that haste makes waste proved true when the rushed project collapsed.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 adage를 거쳐 라틴어에서 온 말로, 오래 전해 내려온 격언을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "adamant",
+    "score": 28,
+    "zipf": 3.28,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Firm; unshakeable; unyielding; determined.",
+        "ko": "요지부동의, 단호한",
+        "synonyms": [
+          "unyielding",
+          "inflexible",
+          "intransigent",
+          "obdurate",
+          "resolute"
+        ],
+        "examples": [
+          {
+            "text": "The mayor remained adamant that the bridge would be rebuilt, despite mounting criticism of its cost.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "a-(부정)",
+      "dam(길들이다)"
+    ],
+    "origin": {
+      "ko": "그리스어 adamas(정복할 수 없는)에서 왔고 diamond와 같은 뿌리입니다. 꺾이지 않는 단단함이 '요지부동'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "adept",
+    "score": 28,
+    "zipf": 3.33,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Well skilled; completely versed; thoroughly proficient.",
+        "ko": "능숙한, 숙달된",
+        "synonyms": [
+          "proficient",
+          "skilled",
+          "adroit",
+          "deft",
+          "expert"
+        ],
+        "examples": [
+          {
+            "text": "She was adept at translating dense legal language into plain terms that clients could understand.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "apt"
+    ],
+    "origin": {
+      "ko": "라틴어 adeptus(성취한 사람)에서 왔습니다. 기술을 몸에 익혀 얻어낸 사람이 '능숙한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "adhere",
+    "score": 25,
+    "zipf": 3.57,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "follow through or carry out a plan without deviation",
+        "ko": "고수하다, 준수하다",
+        "synonyms": [
+          "abide by",
+          "comply",
+          "observe",
+          "follow",
+          "stick to"
+        ],
+        "examples": [
+          {
+            "text": "Auditors must adhere strictly to the professional standards set by the regulatory body.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "come or be in close contact with; stick or hold together and resist separation",
+        "ko": "들러붙다, 접착하다",
+        "synonyms": [
+          "stick",
+          "cling",
+          "cleave",
+          "cohere",
+          "bond"
+        ],
+        "examples": [
+          {
+            "text": "The paint failed to adhere to the damp wall and peeled away within days.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "be a devoted follower or supporter",
+        "ko": "지지하다, 신봉하다",
+        "synonyms": [
+          "support",
+          "uphold",
+          "espouse",
+          "cleave"
+        ],
+        "examples": [
+          {
+            "text": "Many members of the movement adhered to the doctrine long after its founder had died.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "her"
+    ],
+    "origin": {
+      "ko": "라틴어 adhaerere(~에 달라붙다)에서 왔습니다. 딱 붙어 떨어지지 않는 데서 '고수하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "adjudicate",
+    "score": 36,
+    "zipf": 2.47,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "put on trial or hear a case and sit as the judge at the trial of",
+        "ko": "판결하다, 심판하다",
+        "synonyms": [
+          "judge",
+          "arbitrate",
+          "rule on",
+          "try",
+          "decide"
+        ],
+        "examples": [
+          {
+            "text": "A special tribunal was created to adjudicate disputes between the two trading partners.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "jud",
+      "dic",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 adiudicare(판결을 내리다)에서 왔습니다. ad와 iudicare(재판하다)가 합쳐진 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "adjure",
+    "score": 24,
+    "zipf": 1.33,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "ask for or request earnestly",
+        "ko": "간곡히 요청하다, 애원하다",
+        "synonyms": [
+          "beseech",
+          "entreat",
+          "implore",
+          "beg",
+          "urge"
+        ],
+        "examples": [
+          {
+            "text": "The widow adjured the council to reopen the investigation into her husband's death.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "command solemnly",
+        "ko": "엄숙히 명령하다, 맹세시키다",
+        "synonyms": [
+          "charge",
+          "command",
+          "enjoin",
+          "bind"
+        ],
+        "examples": [
+          {
+            "text": "The judge adjured the witnesses to tell the whole truth, reminding them of the oath they had taken.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "jur"
+    ],
+    "origin": {
+      "ko": "라틴어 adiurare(맹세시키다)에서 왔습니다. 맹세하듯 간곡히 청한다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "admonish",
+    "score": 82,
+    "zipf": 2.29,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "take to task",
+        "ko": "꾸짖다, 질책하다",
+        "synonyms": [
+          "reprimand",
+          "rebuke",
+          "chide",
+          "reprove",
+          "scold"
+        ],
+        "examples": [
+          {
+            "text": "The coach admonished the players for their careless play in the opening minutes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "warn strongly; put on guard",
+        "ko": "경고하다, 주의를 주다",
+        "synonyms": [
+          "caution",
+          "warn",
+          "counsel",
+          "forewarn"
+        ],
+        "examples": [
+          {
+            "text": "Doctors admonished the public to avoid unnecessary travel while the outbreak continued.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "mon(일깨우다)",
+      "-ish"
+    ],
+    "origin": {
+      "ko": "라틴어 admonere(일깨우다, 경고하다)에서 왔습니다. 상기시켜 주는 데서 '꾸짖다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "admonitory",
+    "score": 24,
+    "zipf": 1.29,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "serving to warn",
+        "ko": "경고하는, 훈계하는",
+        "synonyms": [
+          "cautionary",
+          "warning",
+          "monitory",
+          "reproving",
+          "exemplary"
+        ],
+        "examples": [
+          {
+            "text": "The article served as an admonitory tale about the dangers of unchecked financial speculation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "mon(일깨우다)",
+      "-ory"
+    ],
+    "origin": {
+      "ko": "라틴어 admonere(일깨우다)에서 나온 말입니다. 주의를 환기시키는 경고성을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "adroit",
+    "score": 50,
+    "zipf": 2.31,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "quick or skillful or adept in action or thought",
+        "ko": "노련한, 기민한",
+        "synonyms": [
+          "deft",
+          "dexterous",
+          "skillful",
+          "adept",
+          "nimble"
+        ],
+        "examples": [
+          {
+            "text": "An adroit negotiator, she turned the hostile meeting into an agreement acceptable to both sides.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "reg"
+    ],
+    "origin": {
+      "ko": "프랑스어 à droit(바르게)에서 왔습니다. 오른쪽(droit)처럼 곧게 잘 다루는 데서 '노련한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "adulation",
+    "score": 35,
+    "zipf": 2.6,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "servile flattery; exaggerated and hypocritical praise",
+        "ko": "아첨, 지나친 찬사",
+        "synonyms": [
+          "flattery",
+          "fawning",
+          "sycophancy",
+          "worship",
+          "idolization"
+        ],
+        "examples": [
+          {
+            "text": "The young actor, unused to such adulation, struggled to keep his sense of perspective.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 adulatio(아첨)에서 왔습니다. 꼬리 치며 비위를 맞추는 모습이 어원 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "adulterate",
+    "score": 60,
+    "zipf": 1.65,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones",
+        "ko": "불순물을 섞다, 품질을 떨어뜨리다",
+        "synonyms": [
+          "debase",
+          "contaminate",
+          "dilute",
+          "taint",
+          "corrupt"
+        ],
+        "examples": [
+          {
+            "text": "Unscrupulous merchants were caught adulterating the spices with cheap powdered filler.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "alter",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 adulterare에서 왔고 '다른 것에 가까이 가다'가 문자 그대로의 뜻입니다. 다른 것을 섞어 질을 떨어뜨리게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "adumbrate",
+    "score": 22,
+    "zipf": 1.07,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "describe roughly or briefly or give the main points or summary of",
+        "ko": "개요를 서술하다, 윤곽을 그리다",
+        "synonyms": [
+          "outline",
+          "sketch",
+          "delineate",
+          "summarize"
+        ],
+        "examples": [
+          {
+            "text": "In her opening lecture, the professor adumbrated the arguments she would develop over the semester.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To foreshadow vaguely.",
+        "ko": "조짐을 보이다, 암시하다",
+        "synonyms": [
+          "foreshadow",
+          "presage",
+          "prefigure",
+          "portend",
+          "intimate"
+        ],
+        "examples": [
+          {
+            "text": "Early poems by the author adumbrate themes that would dominate her mature work.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "umbr",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 adumbrare(그림자를 드리우다)에서 왔습니다. 그림자처럼 윤곽만 그린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "adventitious",
+    "score": 31,
+    "zipf": 1.96,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "associated by chance and not an integral part",
+        "ko": "우연히 부가된, 외래의",
+        "synonyms": [
+          "accidental",
+          "extrinsic",
+          "incidental",
+          "fortuitous",
+          "chance"
+        ],
+        "examples": [
+          {
+            "text": "The theory dismissed the similarities between the two languages as adventitious rather than evidence of a common origin.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "ven(오다)",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 adventicius(외부에서 온)에서 왔습니다. 밖에서 우연히 도착한 것이라 '외래의'라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "adverse",
+    "score": 54,
+    "zipf": 3.89,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "contrary to your interests or welfare",
+        "ko": "불리한, 해로운",
+        "synonyms": [
+          "unfavorable",
+          "harmful",
+          "detrimental",
+          "inimical",
+          "untoward"
+        ],
+        "examples": [
+          {
+            "text": "The drug was withdrawn after patients reported adverse reactions, including severe headaches and dizziness.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "vert"
+    ],
+    "origin": {
+      "ko": "라틴어 adversus(~을 향해 돌린)에서 왔습니다. 나를 향해 맞서 있다는 데서 '불리한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "advert",
+    "score": 26,
+    "zipf": 3.46,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make reference to",
+        "ko": "언급하다, 주의를 환기하다",
+        "synonyms": [
+          "allude",
+          "refer",
+          "mention",
+          "touch on",
+          "cite"
+        ],
+        "examples": [
+          {
+            "text": "In his closing remarks, the senator adverted briefly to the budget crisis he had faced earlier.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "give heed (to)",
+        "ko": "주의를 기울이다",
+        "synonyms": [
+          "heed",
+          "attend",
+          "notice",
+          "regard"
+        ],
+        "examples": [
+          {
+            "text": "Readers should advert to the footnotes, where the author qualifies many of her boldest claims.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "vert"
+    ],
+    "origin": {
+      "ko": "라틴어 advertere(~쪽으로 돌리다)에서 왔습니다. 주의를 그쪽으로 돌린다는 뜻에서 '언급하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "advocate",
+    "score": 67,
+    "zipf": 4.21,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "speak, plead, or argue in favor of",
+        "ko": "옹호하다, 지지를 주장하다",
+        "synonyms": [
+          "champion",
+          "support",
+          "recommend",
+          "urge",
+          "espouse"
+        ],
+        "examples": [
+          {
+            "text": "The report advocates stricter limits on emissions from coal-fired power stations.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a person who pleads for a cause or propounds an idea",
+        "ko": "옹호자, 지지자",
+        "synonyms": [
+          "proponent",
+          "champion",
+          "supporter",
+          "exponent",
+          "backer"
+        ],
+        "examples": [
+          {
+            "text": "As a lifelong advocate of public libraries, she donated her book collection to the town.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "voc",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 advocatus(도움을 청해 불려온 사람)에서 왔습니다. 곁에서 변호해 주는 사람이 '옹호하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

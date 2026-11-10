@@ -1,0 +1,41 @@
+[
+  {
+    "word": "cynical",
+    "score": 41,
+    "zipf": 3.59,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Skeptical of the integrity, sincerity, or motives of others.",
+        "ko": "냉소적인, 불신하는",
+        "synonyms": [
+          "skeptical",
+          "distrustful",
+          "sardonic",
+          "jaded"
+        ],
+        "examples": [
+          {
+            "text": "Years of covering city politics had made the reporter cynical about every promise a candidate made.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-al"
+    ],
+    "origin": {
+      "ko": "그리스어 kunikós(개 같은)에서 왔습니다. 견유학파(Cynic)를 가리키던 말이 '냉소적인'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

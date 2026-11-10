@@ -1,0 +1,195 @@
+[
+  {
+    "word": "goad",
+    "score": 67,
+    "zipf": 2.65,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To incite or provoke.",
+        "ko": "자극하다, 몰아붙이다",
+        "synonyms": [
+          "prod",
+          "spur",
+          "provoke",
+          "incite",
+          "needle"
+        ],
+        "examples": [
+          {
+            "text": "Rivals goaded the young senator into making a speech he would later regret.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a pointed instrument that is used to prod into a state of motion",
+        "ko": "(가축을 모는) 막대기",
+        "synonyms": [
+          "prod",
+          "stick"
+        ],
+        "examples": [
+          {
+            "text": "The drover used a sharpened goad to keep the oxen moving along the muddy road.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 gād '찌르는 막대'에서 왔습니다. 소를 막대로 찔러 몰듯 사람을 몰아붙입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "goosebumps",
+    "score": 31,
+    "zipf": 3.01,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "small bumps on the skin caused by cold, fear, or strong emotion",
+        "ko": "소름",
+        "synonyms": [
+          "gooseflesh",
+          "goose pimples"
+        ],
+        "examples": [
+          {
+            "text": "The choir's final chord gave the whole audience goosebumps.",
+            "source": "generated"
+          }
+        ],
+        "source": "generated",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gossamer",
+    "score": 35,
+    "zipf": 2.44,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by unusual lightness and delicacy",
+        "ko": "가볍고 섬세한, 거미줄 같은",
+        "synonyms": [
+          "ethereal",
+          "delicate",
+          "airy",
+          "filmy",
+          "flimsy"
+        ],
+        "examples": [
+          {
+            "text": "The dancer's gossamer costume floated behind her like morning mist.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "filaments from a web that was spun by a spider",
+        "ko": "거미줄",
+        "synonyms": [
+          "cobweb",
+          "web",
+          "gauze"
+        ],
+        "examples": [
+          {
+            "text": "Gossamer glistened with dew between the branches of the hedge at dawn.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세영어 gossomer로, goose(거위)와 summer(여름)의 합성에서 왔다는 설이 유력합니다. 늦가을 맑은 날 떠다니는 거미줄을 가리키던 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gouge",
+    "score": 50,
+    "zipf": 2.71,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "obtain by coercion or intimidation",
+        "ko": "바가지 씌우다, 갈취하다",
+        "synonyms": [
+          "extort",
+          "overcharge",
+          "fleece",
+          "swindle",
+          "wring"
+        ],
+        "examples": [
+          {
+            "text": "Some merchants gouged desperate residents by tripling the price of bottled water after the flood.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make a groove in",
+        "ko": "파다, 도려내다",
+        "synonyms": [
+          "scoop",
+          "carve",
+          "incise",
+          "hollow"
+        ],
+        "examples": [
+          {
+            "text": "The glacier gouged deep valleys into the bedrock as it advanced.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "후기 라틴어 gubia '둥근 끌'에서 고대 프랑스어를 거쳐 왔습니다. 끌로 파내듯 돈을 뜯어낸다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

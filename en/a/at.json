@@ -1,0 +1,234 @@
+[
+  {
+    "word": "atavism",
+    "score": 42,
+    "zipf": 1.49,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a reappearance of an earlier characteristic",
+        "ko": "격세유전, 선조 회귀",
+        "synonyms": [
+          "reversion",
+          "throwback"
+        ],
+        "examples": [
+          {
+            "text": "The recurrence of tribal rivalries in the region struck the historian as a kind of political atavism.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "atav",
+      "-ism"
+    ],
+    "origin": {
+      "ko": "프랑스어 atavisme에서 왔고 라틴어 atavus(고조부, 조상)에서 나왔습니다. 조상의 특징이 다시 나타나는 현상입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "attenuate",
+    "score": 82,
+    "zipf": 2.35,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "become weaker, in strength, value, or magnitude",
+        "ko": "약해지다, 줄어들다",
+        "synonyms": [
+          "weaken",
+          "diminish",
+          "dwindle",
+          "lessen"
+        ],
+        "examples": [
+          {
+            "text": "Over successive decades the party's influence began to attenuate as its core voters aged.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To make thinner, as by physically reshaping, starving, or decaying.",
+        "ko": "가늘게 하다, 여위게 하다",
+        "synonyms": [
+          "thin",
+          "slim",
+          "emaciate",
+          "rarefy"
+        ],
+        "examples": [
+          {
+            "text": "Lovell, wan and hollow-eyed, his arm in a sling, his once burly frame gaunt and attenuated with disease, nodded.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "tenu",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 attenuare(얇게 만들다)에서 왔습니다. 가늘고 약해지는 것을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "attitude",
+    "score": 16,
+    "zipf": 4.58,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a complex mental state involving beliefs and feelings and values and dispositions to act in certain ways",
+        "ko": "태도, 마음가짐",
+        "synonyms": [
+          "outlook",
+          "disposition",
+          "stance",
+          "mindset"
+        ],
+        "examples": [
+          {
+            "text": "he had the attitude that work was fun",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 attitude에서 왔고 이탈리아어 attitudine(적성, 자세)을 거쳤습니다. 몸의 자세에서 마음가짐으로 뜻이 넓어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "attribute",
+    "score": 23,
+    "zipf": 3.77,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "attribute or credit to",
+        "ko": "~의 탓[덕]으로 돌리다",
+        "synonyms": [
+          "ascribe",
+          "impute",
+          "credit",
+          "assign"
+        ],
+        "examples": [
+          {
+            "text": "This poem is attributed to Browning.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A characteristic or quality of a thing.",
+        "ko": "속성, 특성",
+        "synonyms": [
+          "trait",
+          "quality",
+          "characteristic",
+          "feature"
+        ],
+        "examples": [
+          {
+            "text": "His finest attribute is his kindness.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "trib(주다)"
+    ],
+    "origin": {
+      "ko": "라틴어 attribuere(~에게 할당하다)에서 왔습니다. 원인이나 공을 누군가에게 배정한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "attune",
+    "score": 31,
+    "zipf": 1.97,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "adjust or accustom to; bring into harmony with",
+        "ko": "적응시키다, 조화시키다",
+        "synonyms": [
+          "adapt",
+          "accustom",
+          "harmonize",
+          "adjust"
+        ],
+        "examples": [
+          {
+            "text": "By meditating, I try to attune myself to the greater cosmos.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "ton"
+    ],
+    "origin": {
+      "ko": "ad-(~쪽으로)와 tune(곡조)이 합쳐진 말입니다. 음을 맞추듯 조화시킨다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "word": "draconian",
+    "score": 32,
+    "zipf": 2.88,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Very severe, cruel, or harsh.",
+        "ko": "가혹한, 매우 엄격한",
+        "synonyms": [
+          "harsh",
+          "severe",
+          "stringent",
+          "rigorous",
+          "punitive"
+        ],
+        "examples": [
+          {
+            "text": "The mayor announced draconian budget cuts today.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-an"
+    ],
+    "origin": {
+      "ko": "기원전 7세기 아테네의 입법자 드라콘(Draco)에서 왔습니다. 그가 만든 법이 지나치게 가혹해 '가혹한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dregs",
+    "score": 35,
+    "zipf": 2.62,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The worst and lowest part of something.",
+        "ko": "쓰레기, 최하층",
+        "synonyms": [
+          "scum",
+          "riffraff",
+          "refuse",
+          "rabble"
+        ],
+        "examples": [
+          {
+            "text": "the dregs of society",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "sediment that has settled at the bottom of a liquid",
+        "ko": "찌꺼기, 침전물",
+        "synonyms": [
+          "sediment",
+          "lees",
+          "residue",
+          "grounds"
+        ],
+        "examples": [
+          {
+            "text": "He drained the cup and grimaced at the bitter dregs of coffee clinging to the bottom.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "droll",
+    "score": 67,
+    "zipf": 2.58,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "comical in an odd or whimsical manner",
+        "ko": "익살스러운, 기묘하게 우스운",
+        "synonyms": [
+          "whimsical",
+          "waggish",
+          "amusing",
+          "comical",
+          "quaint"
+        ],
+        "examples": [
+          {
+            "text": "a droll little man with a quiet tongue-in-cheek kind of humor",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 drôle(익살꾼)에서 왔고 중세 네덜란드어 drol(작은 요괴)로 거슬러 올라갑니다. troll과 이중어입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

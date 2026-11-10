@@ -1,0 +1,1530 @@
+[
+  {
+    "word": "apathetic",
+    "score": 33,
+    "zipf": 2.84,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by a lack of interest",
+        "ko": "무관심한, 냉담한",
+        "synonyms": [
+          "indifferent",
+          "unconcerned",
+          "listless"
+        ],
+        "examples": [
+          {
+            "text": "an apathetic audience",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "a-(부정)",
+      "path",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "apathy(무감정)에서 나온 형용사입니다. 감정이 일어나지 않는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "apathy",
+    "score": 76,
+    "zipf": 3.26,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the trait of lacking enthusiasm for or interest in things generally",
+        "ko": "무관심, 냉담",
+        "synonyms": [
+          "indifference",
+          "unconcern",
+          "numbness"
+        ],
+        "examples": [
+          {
+            "text": "Widespread voter apathy left the municipal election decided by barely a fifth of eligible residents.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "a-(부정)",
+      "path"
+    ],
+    "origin": {
+      "ko": "그리스어 apatheia(고통받지 않음, 무감정)에서 왔습니다. 감정이 전혀 일지 않는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "apex",
+    "score": 24,
+    "zipf": 3.71,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the highest point (of something)",
+        "ko": "정점, 꼭대기",
+        "synonyms": [
+          "peak",
+          "summit",
+          "acme",
+          "vertex",
+          "zenith"
+        ],
+        "examples": [
+          {
+            "text": "the apex of the building",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 apex(끝, 꼭대기)를 그대로 빌려온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aphorism",
+    "score": 52,
+    "zipf": 2.49,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a short pithy instructive saying",
+        "ko": "격언, 경구",
+        "synonyms": [
+          "maxim",
+          "adage",
+          "apothegm",
+          "saw"
+        ],
+        "examples": [
+          {
+            "text": "The essayist's best-known aphorism holds that every victory carries the seed of its own complacency.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "apo-",
+      "hor",
+      "-ism"
+    ],
+    "origin": {
+      "ko": "그리스어 aphorismos(경계를 짓기, 정의)에서 왔습니다. 핵심을 구분해 짧게 뽑아낸 말이 '격언'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aphoristic",
+    "score": 27,
+    "zipf": 1.64,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "terse and witty and like a maxim",
+        "ko": "경구적인, 간결하고 재치 있는",
+        "synonyms": [
+          "epigrammatic",
+          "pithy",
+          "gnomic",
+          "terse"
+        ],
+        "examples": [
+          {
+            "text": "Her aphoristic style made the lectures easy to quote but hard to summarize.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "apo-",
+      "hor",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 aphoristikos에서 왔고 aphorism(격언)과 같은 뿌리입니다. 격언처럼 간결하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aplomb",
+    "score": 35,
+    "zipf": 2.36,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "great coolness and composure under strain",
+        "ko": "침착, 태연자약",
+        "synonyms": [
+          "poise",
+          "composure",
+          "sang-froid",
+          "assurance"
+        ],
+        "examples": [
+          {
+            "text": "The diplomat answered the hostile questions with remarkable aplomb.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 aplomb(다림줄처럼 수직)를 그대로 빌려온 말입니다. 추처럼 흔들리지 않는 침착함을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "apocryphal",
+    "score": 82,
+    "zipf": 2.66,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "being of questionable authenticity",
+        "ko": "출처가 의심스러운, 진위가 불확실한",
+        "synonyms": [
+          "spurious",
+          "dubious",
+          "fictitious",
+          "unauthenticated"
+        ],
+        "examples": [
+          {
+            "text": "Many scholars consider the stories of the monk Teilo to be apocryphal.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "apo-",
+      "crypt"
+    ],
+    "origin": {
+      "ko": "그리스어 apokryphos(감춰진)에서 왔습니다. 출처를 숨겨 진위가 의심스러운 글을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "apogee",
+    "score": 51,
+    "zipf": 2.57,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a final climactic stage",
+        "ko": "절정, 정점",
+        "synonyms": [
+          "culmination",
+          "zenith",
+          "pinnacle",
+          "peak",
+          "acme"
+        ],
+        "examples": [
+          {
+            "text": "The cult of the chief executive reached its apogee in the nineteen-nineties, a period when C.E.O.s seemed not so much to serve their companies as to embody them.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "apo-",
+      "ge"
+    ],
+    "origin": {
+      "ko": "그리스어 apogeion(지구에서 먼)에서 왔습니다. 지구에서 가장 멀어진 지점이 '정점'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "apologist",
+    "score": 49,
+    "zipf": 2.77,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who argues to defend or justify some policy or institution",
+        "ko": "옹호자, 변호자",
+        "synonyms": [
+          "defender",
+          "advocate",
+          "vindicator",
+          "justifier"
+        ],
+        "examples": [
+          {
+            "text": "The senator was widely criticized as an apologist for the industry he was supposed to regulate.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "apo-",
+      "log",
+      "-ist"
+    ],
+    "origin": {
+      "ko": "그리스어 apologia(변론)에서 왔습니다. 말로 변호하는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "apostate",
+    "score": 82,
+    "zipf": 2.67,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a disloyal person who betrays or deserts their cause or religion or political party or friend etc.",
+        "ko": "배교자, 변절자",
+        "synonyms": [
+          "renegade",
+          "turncoat",
+          "defector",
+          "deserter"
+        ],
+        "examples": [
+          {
+            "text": "Party loyalists branded him an apostate after he endorsed the rival coalition.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not faithful to religion or party or cause",
+        "ko": "배교의, 변절한",
+        "synonyms": [
+          "disloyal",
+          "renegade",
+          "traitorous"
+        ],
+        "examples": [
+          {
+            "text": "We must punish this apostate priest.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "apo-",
+      "st"
+    ],
+    "origin": {
+      "ko": "그리스어 apostates(반역자)에서 왔고 '떨어져 서다'가 문자 그대로의 뜻입니다. 신앙에서 등을 돌린 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "apostle",
+    "score": 26,
+    "zipf": 3.46,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an ardent early supporter of a cause or reform",
+        "ko": "(주의·개혁의) 열렬한 주창자, 선구적 옹호자",
+        "synonyms": [
+          "advocate",
+          "champion",
+          "proponent",
+          "pioneer"
+        ],
+        "examples": [
+          {
+            "text": "an apostle of revolution",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "apo-",
+      "stol"
+    ],
+    "origin": {
+      "ko": "그리스어 apostolos(파견된 사람)에서 왔습니다. 사명을 띠고 보내진 사람이 '열렬한 주창자'로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "apothegm",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a short pithy instructive saying",
+        "ko": "격언, 금언",
+        "synonyms": [
+          "aphorism",
+          "maxim",
+          "adage",
+          "proverb"
+        ],
+        "examples": [
+          {
+            "text": "The old editor's favorite apothegm was that a sentence should earn its place or lose it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "apo-",
+      "phtheg"
+    ],
+    "origin": {
+      "ko": "그리스어 apophthegma(또렷이 내뱉은 말)에서 왔습니다. 짧고 힘 있게 말한 금언입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "apotheosis",
+    "score": 51,
+    "zipf": 2.43,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The best moment or highest point in the development of something, for example of a life or career; the apex, culmination, or climax (of a development).",
+        "ko": "극치, 절정",
+        "synonyms": [
+          "culmination",
+          "pinnacle",
+          "apex",
+          "climax",
+          "zenith"
+        ],
+        "examples": [
+          {
+            "text": "The apotheosis of her career was her appointment as chairman.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the elevation of a person (as to the status of a god)",
+        "ko": "신격화, 숭상",
+        "synonyms": [
+          "deification",
+          "exaltation",
+          "glorification"
+        ],
+        "examples": [
+          {
+            "text": "As a former mortal who underwent apotheosis, Hercules was important to the emperors.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "apo-",
+      "the(신)"
+    ],
+    "origin": {
+      "ko": "그리스어 apotheosis(신격화)에서 왔습니다. 인간이 신의 자리에 오른다는 데서 '극치'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "apparent",
+    "score": 18,
+    "zipf": 4.32,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "appearing as such but not necessarily so",
+        "ko": "외관상의, 겉보기의",
+        "synonyms": [
+          "ostensible",
+          "seeming",
+          "outward"
+        ],
+        "examples": [
+          {
+            "text": "the committee investigated some apparent discrepancies",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "clearly revealed to the mind or the senses or judgment",
+        "ko": "명백한, 분명한",
+        "synonyms": [
+          "evident",
+          "manifest",
+          "obvious",
+          "patent",
+          "plain"
+        ],
+        "examples": [
+          {
+            "text": "Her disappointment was apparent to everyone.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "par(나타나다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 apparere(눈앞에 나타나다)에서 왔습니다. 눈에 보이는 대로라는 데서 '겉보기의'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "appeal",
+    "score": 16,
+    "zipf": 4.67,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "attractiveness that interests or pleases or stimulates",
+        "ko": "매력, 호소력",
+        "synonyms": [
+          "charm",
+          "allure",
+          "attraction"
+        ],
+        "examples": [
+          {
+            "text": "It's blowing a gale and this holiday destination loses all its appeal in an instant in weather like this.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "request earnestly (something from somebody); ask for aid or protection",
+        "ko": "호소하다, 간청하다",
+        "synonyms": [
+          "entreat",
+          "plead",
+          "petition",
+          "implore"
+        ],
+        "examples": [
+          {
+            "text": "The minister appealed to citizens to conserve water during the drought.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "take a court case to a higher court for review",
+        "ko": "항소하다, 상소하다",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "He was found guilty but appealed immediately",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "peal"
+    ],
+    "origin": {
+      "ko": "라틴어 appellare(~를 부르다)에서 왔습니다. 호소해 부르는 데서 사람을 끄는 '매력'으로 뜻이 넓어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "appease",
+    "score": 61,
+    "zipf": 3.2,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause to be more favorably inclined; gain the good will of",
+        "ko": "달래다, 회유하다",
+        "synonyms": [
+          "placate",
+          "pacify",
+          "mollify",
+          "conciliate",
+          "propitiate"
+        ],
+        "examples": [
+          {
+            "text": "The airline offered free upgrades to appease passengers whose flights had been canceled.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "overcome or allay",
+        "ko": "(욕구·불안을) 가라앉히다, 충족시키다",
+        "synonyms": [
+          "quell",
+          "allay",
+          "assuage",
+          "satisfy"
+        ],
+        "examples": [
+          {
+            "text": "A small snack was enough to appease his hunger until dinner.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "pac"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 apeser(평화롭게 하다)에서 왔습니다. 화난 상대를 평화 쪽으로 이끄는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "append",
+    "score": 35,
+    "zipf": 2.64,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "add to the very end",
+        "ko": "덧붙이다, 첨부하다",
+        "synonyms": [
+          "add",
+          "attach",
+          "affix",
+          "tack on",
+          "supplement"
+        ],
+        "examples": [
+          {
+            "text": "He appended a glossary to his novel where he used an invented language",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "pend"
+    ],
+    "origin": {
+      "ko": "라틴어 appendere(~에 매달다)에서 왔습니다. 뒤에 덧달아 붙인다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "appoint",
+    "score": 24,
+    "zipf": 3.7,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "create and charge with a task or function",
+        "ko": "임명하다, 지명하다",
+        "synonyms": [
+          "name",
+          "nominate",
+          "designate",
+          "assign"
+        ],
+        "examples": [
+          {
+            "text": "The governor appointed a panel of experts to review the state's water policy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "furnish",
+        "ko": "(방 등을) 갖추다, 비치하다",
+        "synonyms": [
+          "equip",
+          "furnish",
+          "fit out"
+        ],
+        "examples": [
+          {
+            "text": "a beautifully appointed house",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "pung"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 apointier(정하다)에서 왔고 '요점으로 가져가다'가 원뜻입니다. 사안을 정해 사람을 지명하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "apposite",
+    "score": 48,
+    "zipf": 2.05,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "being of striking appropriateness and pertinence",
+        "ko": "적절한, 딱 들어맞는",
+        "synonyms": [
+          "apt",
+          "pertinent",
+          "relevant",
+          "germane",
+          "fitting"
+        ],
+        "examples": [
+          {
+            "text": "the successful copywriter is a master of apposite and evocative verbal images",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "pos"
+    ],
+    "origin": {
+      "ko": "라틴어 appositus(곁에 놓인)에서 왔습니다. 딱 알맞은 자리에 놓였다는 데서 '적절한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "appreciable",
+    "score": 33,
+    "zipf": 2.78,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "enough to be estimated or measured",
+        "ko": "상당한, 눈에 띄는",
+        "synonyms": [
+          "considerable",
+          "noticeable",
+          "perceptible",
+          "significant"
+        ],
+        "examples": [
+          {
+            "text": "appreciable amounts of noxious wastes are dumped into the harbor",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "preci",
+      "-able"
+    ],
+    "origin": {
+      "ko": "프랑스어 appréciable에서 왔습니다. 값을 매길 만큼 눈에 띈다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "apprehension",
+    "score": 46,
+    "zipf": 3.09,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "fearful expectation or anticipation",
+        "ko": "불안, 염려",
+        "synonyms": [
+          "dread",
+          "anxiety",
+          "misgiving",
+          "trepidation",
+          "foreboding"
+        ],
+        "examples": [
+          {
+            "text": "the student looked around the examination room with apprehension",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the cognitive condition of someone who understands",
+        "ko": "이해, 파악",
+        "synonyms": [
+          "understanding",
+          "grasp",
+          "comprehension",
+          "discernment"
+        ],
+        "examples": [
+          {
+            "text": "The child's apprehension of moral rules develops long before she can articulate them.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the act of apprehending (especially apprehending a criminal)",
+        "ko": "체포, 검거",
+        "synonyms": [
+          "arrest",
+          "capture",
+          "seizure"
+        ],
+        "examples": [
+          {
+            "text": "The warrant had been issued for his apprehension on the charge of rioting.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "prehend",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 apprehensio(붙잡음)에서 왔습니다. 마음을 움켜쥔 두려움이 '불안'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "apprise",
+    "score": 46,
+    "zipf": 1.9,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "inform (somebody) of something",
+        "ko": "알리다, 통지하다",
+        "synonyms": [
+          "inform",
+          "notify",
+          "advise",
+          "acquaint"
+        ],
+        "examples": [
+          {
+            "text": "Have the students been apprised of the tuition hike?",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "prehend"
+    ],
+    "origin": {
+      "ko": "프랑스어 apprendre(배우다, 가르치다)의 과거분사에서 왔습니다. 잡아서 이해시킨다는 뜻에서 '알리다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "approach",
+    "score": 16,
+    "zipf": 4.93,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "ideas or actions intended to deal with a problem or situation",
+        "ko": "접근법, 방식",
+        "synonyms": [
+          "method",
+          "strategy",
+          "tack",
+          "attack"
+        ],
+        "examples": [
+          {
+            "text": "his approach to every problem is to draw up a list of pros and cons",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "begin to deal with",
+        "ko": "(문제 등에) 착수하다, 접근하다",
+        "synonyms": [
+          "tackle",
+          "address",
+          "set about"
+        ],
+        "examples": [
+          {
+            "text": "approach a task",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "come near or verge on, resemble, come nearer in quality, or character",
+        "ko": "근접하다, 비슷해지다",
+        "synonyms": [
+          "approximate",
+          "border on",
+          "verge on"
+        ],
+        "examples": [
+          {
+            "text": "His playing approaches that of Horowitz",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "prop"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 appropiare(가까이 가다)에서 왔고 prope(가까이)에서 나왔습니다. 다가가는 방식이 '접근법'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "approbation",
+    "score": 66,
+    "zipf": 2.3,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "official approval",
+        "ko": "승인, 인가",
+        "synonyms": [
+          "approval",
+          "sanction",
+          "consent",
+          "endorsement"
+        ],
+        "examples": [
+          {
+            "text": "The new curriculum went into effect only after receiving the board's formal approbation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The act of approving; an assenting to the propriety of a thing with some degree of pleasure or satisfaction; approval, sanction, commendation or official recognition.",
+        "ko": "찬성, 칭찬",
+        "synonyms": [
+          "commendation",
+          "praise",
+          "acclaim"
+        ],
+        "examples": [
+          {
+            "text": "The young painter craved the approbation of the critics more than any prize.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "prob",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "라틴어 approbatio에서 왔고 approbare(좋다고 인정하다)에서 나왔습니다. 공식적으로 승인하는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "approbatory",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "expressing or manifesting praise or approval",
+        "ko": "칭찬하는, 찬성하는",
+        "synonyms": [
+          "approving",
+          "commendatory",
+          "laudatory",
+          "favorable"
+        ],
+        "examples": [
+          {
+            "text": "The coach gave an approbatory nod as the rookie completed the drill flawlessly.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "prob",
+      "-ory"
+    ],
+    "origin": {
+      "ko": "라틴어 approbare(좋다고 인정하다)에서 나온 말입니다. 찬성과 칭찬을 나타냅니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "appropriate",
+    "score": 48,
+    "zipf": 4.67,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "give or assign a resource to a particular person or cause",
+        "ko": "(자금을) 배정하다, 충당하다",
+        "synonyms": [
+          "allocate",
+          "earmark",
+          "allot",
+          "set aside"
+        ],
+        "examples": [
+          {
+            "text": "Congress appropriated additional funds for rural broadband expansion.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To take to oneself; to claim or use, especially as by an exclusive right.",
+        "ko": "전유하다, 도용하다",
+        "synonyms": [
+          "seize",
+          "commandeer",
+          "usurp",
+          "expropriate"
+        ],
+        "examples": [
+          {
+            "text": "Critics accused the designer of appropriating motifs from indigenous artists without credit.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "suitable for a particular person or place or condition etc",
+        "ko": "적절한, 알맞은",
+        "synonyms": [
+          "suitable",
+          "fitting",
+          "proper"
+        ],
+        "examples": [
+          {
+            "text": "a book not appropriate for children",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "propri",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 appropriare(자기 것으로 만들다)에서 왔습니다. 몫으로 따로 배정한다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "appurtenance",
+    "score": 23,
+    "zipf": 1.19,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a supplementary component that improves capability",
+        "ko": "부속물, 부속품",
+        "synonyms": [
+          "accessory",
+          "accoutrement",
+          "adjunct",
+          "add-on"
+        ],
+        "examples": [
+          {
+            "text": "The mansion's grand staircase and fountains were mere appurtenances to its real value, the land.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "equipment consisting of miscellaneous articles needed for a particular operation or sport etc.",
+        "ko": "장비, 용구",
+        "synonyms": [
+          "gear",
+          "paraphernalia",
+          "equipment"
+        ],
+        "examples": [
+          {
+            "text": "A couple of hair gloves, with a flesh-brush, may be added to the toilet appurtenances.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "per-",
+      "ten(잡다)",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 apartenance에서 왔고 라틴어 appertinere(속하다)와 연결됩니다. 본체에 딸려 속한 것이 '부속물'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "appurtenant",
+    "score": 25,
+    "zipf": 1.41,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "furnishing added support",
+        "ko": "부속의, 보조적인",
+        "synonyms": [
+          "ancillary",
+          "auxiliary",
+          "accessory",
+          "subsidiary",
+          "adjunct"
+        ],
+        "examples": [
+          {
+            "text": "a right of way appurtenant to land or buildings",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "per-",
+      "ten(잡다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 apurtenant에서 왔고 '속하다'라는 뜻의 appertain과 같은 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "apropos",
+    "score": 50,
+    "zipf": 2.69,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of an appropriate or pertinent nature",
+        "ko": "적절한, 시의적절한",
+        "synonyms": [
+          "pertinent",
+          "apt",
+          "relevant",
+          "germane"
+        ],
+        "examples": [
+          {
+            "text": "The quotation from Orwell seemed particularly apropos given the week's headlines.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "prep",
+        "en": "Regarding, concerning, in regard to, on the subject of.",
+        "ko": "~에 관하여, ~와 관련해서",
+        "synonyms": [
+          "regarding",
+          "concerning",
+          "re"
+        ],
+        "examples": [
+          {
+            "text": "Apropos the budget, the committee has yet to reach a decision.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 à propos(그 주제에 대해)에서 왔습니다. 화제에 딱 맞는다는 데서 '적절한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "apt",
+    "score": 40,
+    "zipf": 3.69,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "being of striking appropriateness and pertinence",
+        "ko": "적절한, 딱 맞는",
+        "synonyms": [
+          "apposite",
+          "pertinent",
+          "fitting",
+          "suitable"
+        ],
+        "examples": [
+          {
+            "text": "an apt metaphor",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "(usually followed by ‘to’) naturally disposed toward",
+        "ko": "~하기 쉬운, ~하는 경향이 있는",
+        "synonyms": [
+          "inclined",
+          "liable",
+          "prone",
+          "likely",
+          "tending"
+        ],
+        "examples": [
+          {
+            "text": "This tree, if unprotected, is apt to be stripped of its leaves by a leaf-cutting ant.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "mentally quick and resourceful",
+        "ko": "영리한, 이해가 빠른",
+        "synonyms": [
+          "clever",
+          "quick",
+          "bright",
+          "gifted"
+        ],
+        "examples": [
+          {
+            "text": "an apt pupil",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "apt"
+    ],
+    "origin": {
+      "ko": "라틴어 aptus(알맞은, 들어맞는)에서 왔습니다. 서로 꼭 맞게 붙는다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

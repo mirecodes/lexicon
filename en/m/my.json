@@ -1,0 +1,119 @@
+[
+  {
+    "word": "myopic",
+    "score": 83,
+    "zipf": 2.64,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking foresight or scope",
+        "ko": "근시안적인, 선견지명이 없는",
+        "synonyms": [
+          "shortsighted",
+          "nearsighted",
+          "narrow-minded",
+          "improvident"
+        ],
+        "examples": [
+          {
+            "text": "Cutting research funding to balance one year's budget is a myopic policy with lasting costs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "unable to see distant objects clearly",
+        "ko": "근시의",
+        "synonyms": [
+          "nearsighted",
+          "shortsighted"
+        ],
+        "examples": [
+          {
+            "text": "Corrective lenses compensate for the excessive positive diopters of the myopic eye.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "my",
+      "op(눈)"
+    ],
+    "origin": {
+      "ko": "그리스어 myōps는 '눈을 가늘게 뜨는 사람', 즉 근시입니다. 멀리 보지 못한다는 뜻이 선견지명이 없다는 비유가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "myriad",
+    "score": 26,
+    "zipf": 3.49,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "too numerous to be counted",
+        "ko": "무수한, 셀 수 없이 많은",
+        "synonyms": [
+          "countless",
+          "innumerable",
+          "numberless",
+          "multitudinous",
+          "untold"
+        ],
+        "examples": [
+          {
+            "text": "Earth hosts myriad animals.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A countless number or multitude (of specified things)",
+        "ko": "무수히 많은 수, 다수",
+        "synonyms": [
+          "multitude",
+          "host",
+          "legion",
+          "plethora"
+        ],
+        "examples": [
+          {
+            "text": "Earth hosts a myriad of animals.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "myri"
+    ],
+    "origin": {
+      "ko": "그리스어 myrias '1만'에서 왔습니다. 만 단위라서 셀 수 없이 많다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

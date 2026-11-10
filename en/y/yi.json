@@ -1,0 +1,77 @@
+[
+  {
+    "word": "yield",
+    "score": 35,
+    "zipf": 4.16,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "give in, as to influence or pressure",
+        "ko": "굴복하다, 양보하다",
+        "synonyms": [
+          "submit",
+          "relent",
+          "capitulate",
+          "succumb",
+          "bow"
+        ],
+        "examples": [
+          {
+            "text": "After hours of pressure, the committee finally yielded to the protesters' demands.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "give or supply",
+        "ko": "산출하다, 낳다",
+        "synonyms": [
+          "produce",
+          "generate",
+          "bear",
+          "provide"
+        ],
+        "examples": [
+          {
+            "text": "This year's crop yielded 1,000 bushels of corn",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the income or profit arising from such transactions as the sale of land or other property",
+        "ko": "수익, 수익률",
+        "synonyms": [
+          "return",
+          "profit",
+          "proceeds",
+          "revenue"
+        ],
+        "examples": [
+          {
+            "text": "Government bonds offered a modest yield compared with the riskier stocks.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 ġieldan('지불하다')에서 왔습니다. 값을 내준다는 뜻이 '굴복하다, 양보하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

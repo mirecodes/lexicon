@@ -1,0 +1,420 @@
+[
+  {
+    "word": "escalate",
+    "score": 28,
+    "zipf": 3.35,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "increase in extent or intensity",
+        "ko": "확대되다, 단계적으로 악화시키다",
+        "synonyms": [
+          "intensify",
+          "step up",
+          "heighten",
+          "worsen",
+          "expand"
+        ],
+        "examples": [
+          {
+            "text": "Violence escalated during the election.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "escalator(에스컬레이터)에서 거꾸로 만들어진 말입니다. 계단이 오르듯 규모가 점점 커진다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "eschew",
+    "score": 99,
+    "zipf": 2.57,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "avoid and stay away from deliberately; stay clear of",
+        "ko": "피하다, 삼가다, 멀리하다",
+        "synonyms": [
+          "shun",
+          "avoid",
+          "forswear",
+          "abstain from",
+          "spurn"
+        ],
+        "examples": [
+          {
+            "text": "The monk eschewed all luxury and lived on bread and water.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑크어 *skiuhijan(두려워 피하다)에서 앵글로노르만어를 거쳐 왔습니다. 꺼려서 멀리한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "esoteric",
+    "score": 77,
+    "zipf": 3.17,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "confined to and understandable by only an enlightened inner circle",
+        "ko": "소수만 이해하는, 난해한, 비전의",
+        "synonyms": [
+          "arcane",
+          "recondite",
+          "abstruse",
+          "obscure",
+          "cryptic"
+        ],
+        "examples": [
+          {
+            "text": "The writing in this manual is very esoteric; I’d need a degree in engineering just to understand it!",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 esōterikós(안쪽 모임에 속한)에서 왔습니다. 원래 철학자들이 제자 내부에만 가르친 비밀 교리를 가리켰습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "espouse",
+    "score": 66,
+    "zipf": 2.68,
+    "lists": [
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "choose and follow; as of theories, ideas, policies, strategies or plans",
+        "ko": "(주의·사상을) 지지하다, 채택하다",
+        "synonyms": [
+          "adopt",
+          "embrace",
+          "champion",
+          "advocate",
+          "support"
+        ],
+        "examples": [
+          {
+            "text": "The candidate espouses Republican ideals",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To marry.",
+        "ko": "결혼하다, 아내로 맞다",
+        "synonyms": [
+          "marry",
+          "wed"
+        ],
+        "examples": [
+          {
+            "text": "The prince espoused a foreign duchess to seal the alliance between the two kingdoms.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 spōnsāre(약혼하다, 맹세하다)에서 고대 프랑스어를 거쳐 왔습니다. 배우자를 맞듯 사상을 받아들인다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "establish",
+    "score": 16,
+    "zipf": 4.46,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "establish the validity of something, as by an example, explanation or experiment",
+        "ko": "입증하다, 증명하다",
+        "synonyms": [
+          "prove",
+          "demonstrate",
+          "verify",
+          "show",
+          "confirm"
+        ],
+        "examples": [
+          {
+            "text": "to establish a fact",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "set up or found",
+        "ko": "설립하다, 세우다",
+        "synonyms": [
+          "found",
+          "set up",
+          "institute",
+          "launch",
+          "create"
+        ],
+        "examples": [
+          {
+            "text": "The council voted to establish a fund for victims of the flood.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "st"
+    ],
+    "origin": {
+      "ko": "라틴어 stabilīre(굳히다)에서 고대 프랑스어를 거쳐 왔습니다. stabilis(튼튼한)처럼 굳게 세워 입증한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "esteem",
+    "score": 22,
+    "zipf": 3.9,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the condition of being honored (esteemed or respected or well regarded)",
+        "ko": "존경, 좋은 평판",
+        "synonyms": [
+          "regard",
+          "respect",
+          "admiration",
+          "honor",
+          "reverence"
+        ],
+        "examples": [
+          {
+            "text": "We hold her in high esteem.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "regard highly; think much of",
+        "ko": "존경하다, 높이 평가하다",
+        "synonyms": [
+          "respect",
+          "value",
+          "prize",
+          "admire",
+          "revere"
+        ],
+        "examples": [
+          {
+            "text": "Students esteem the teacher for her patience and her unfailing honesty.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 aestimāre(값을 매기다)에서 프랑스어를 거쳐 왔습니다. 높은 가치를 매기는 데서 '존경'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "estimable",
+    "score": 65,
+    "zipf": 2.17,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "deserving of esteem and respect",
+        "ko": "존경할 만한, 훌륭한",
+        "synonyms": [
+          "admirable",
+          "respectable",
+          "honorable",
+          "worthy",
+          "commendable"
+        ],
+        "examples": [
+          {
+            "text": "The estimable judge was widely respected for her fairness and integrity.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "may be computed or estimated",
+        "ko": "추정할 수 있는, 어림잡을 수 있는",
+        "synonyms": [
+          "computable",
+          "calculable",
+          "measurable"
+        ],
+        "examples": [
+          {
+            "text": "The risk of failure is estimable from the historical data.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 aestimābilis(값을 매길 수 있는)에서 왔습니다. 높이 평가할 만한 '훌륭한'이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "estrange",
+    "score": 33,
+    "zipf": 2.16,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "arouse hostility or indifference in where there had formerly been love, affection, or friendliness",
+        "ko": "소원하게 만들다, 멀어지게 하다",
+        "synonyms": [
+          "alienate",
+          "disaffect",
+          "separate",
+          "antagonize"
+        ],
+        "examples": [
+          {
+            "text": "A bitter inheritance dispute served to estrange the two brothers for decades.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "extra"
+    ],
+    "origin": {
+      "ko": "라틴어 extrāneus(외부인)에서 고대 프랑스어 estranger를 거쳐 왔습니다. 가깝던 사람을 낯선 사람으로 대한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "estranged",
+    "score": 29,
+    "zipf": 3.24,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having become a stranger, of one who formerly was close, as a relative, friend, lover, or spouse.",
+        "ko": "소원해진, 사이가 멀어진",
+        "synonyms": [
+          "alienated",
+          "separated",
+          "disaffected",
+          "distanced"
+        ],
+        "examples": [
+          {
+            "text": "He managed to become estranged from all of his friends.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "extra"
+    ]
+  }
+]

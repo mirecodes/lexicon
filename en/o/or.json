@@ -1,0 +1,327 @@
+[
+  {
+    "word": "oration",
+    "score": 35,
+    "zipf": 2.6,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A formal, often ceremonial speech.",
+        "ko": "(격식 있는) 연설",
+        "synonyms": [
+          "speech",
+          "address",
+          "discourse",
+          "declamation"
+        ],
+        "examples": [
+          {
+            "text": "a funeral oration; an impassioned oration; to make / deliver / pronounce an oration",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "or(말하다)",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "라틴어 ōrātiō '말하기, 연설'에서 왔고, ōrō는 '연설하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "oratorio",
+    "score": 36,
+    "zipf": 2.51,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a musical composition for voices and orchestra based on a religious text",
+        "ko": "오라토리오, 성담곡",
+        "synonyms": [
+          "cantata"
+        ],
+        "examples": [
+          {
+            "text": "The choir spent the winter rehearsing Handel's oratorio for the spring concert.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "or(말하다)"
+    ],
+    "origin": {
+      "ko": "이탈리아어 oratorio에서 왔고, 라틴어 ōrātōrius가 원형입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ordain",
+    "score": 36,
+    "zipf": 2.48,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To decree.",
+        "ko": "명하다, 법령으로 정하다",
+        "synonyms": [
+          "decree",
+          "order",
+          "enact",
+          "dictate"
+        ],
+        "examples": [
+          {
+            "text": "The council ordained that no new buildings be raised within the old city walls.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To predestine.",
+        "ko": "운명으로 정하다",
+        "synonyms": [
+          "predestine",
+          "foreordain",
+          "destine"
+        ],
+        "examples": [
+          {
+            "text": "Believing that fate had ordained their meeting, the two refused to part.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To admit into the ministry, for example as a priest, bishop, minister or Buddhist monk, or to authorize as a rabbi.",
+        "ko": "성직자로 임명하다, 서품하다",
+        "synonyms": [
+          "consecrate",
+          "appoint",
+          "invest"
+        ],
+        "examples": [
+          {
+            "text": "She was ordained as a minister after four years of seminary training.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ord"
+    ],
+    "origin": {
+      "ko": "라틴어 ordinare '질서를 세우다'에서 왔고, ordo는 '질서'입니다. 질서를 세워 법으로 정한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ornate",
+    "score": 61,
+    "zipf": 3.19,
+    "lists": [
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Elaborately ornamented, often to excess.",
+        "ko": "화려하게 장식된, 과하게 꾸민",
+        "synonyms": [
+          "elaborate",
+          "florid",
+          "baroque",
+          "fancy",
+          "gaudy"
+        ],
+        "examples": [
+          {
+            "text": "The ornate ceiling of the opera house was covered in gilded carvings.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "marked by elaborate rhetoric and elaborated with decorative details",
+        "ko": "(문체가) 화려한, 수사가 풍부한",
+        "synonyms": [
+          "flowery",
+          "florid",
+          "highflown"
+        ],
+        "examples": [
+          {
+            "text": "The professor's ornate, adjective-laden style made even simple points sound grand.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "orn",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 ōrnātus '장식된'에서 왔고, ōrnō는 '갖추다, 꾸미다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "orotund",
+    "score": 39,
+    "zipf": 1.2,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Of speech or writing: bombastic, pompous.",
+        "ko": "과장된, 허세 부리는",
+        "synonyms": [
+          "bombastic",
+          "pompous",
+          "grandiloquent",
+          "turgid"
+        ],
+        "examples": [
+          {
+            "text": "The senator's orotund oratory filled the chamber but said remarkably little.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "(of sounds) full and rich",
+        "ko": "(목소리가) 낭랑한, 울림이 풍부한",
+        "synonyms": [
+          "resonant",
+          "booming",
+          "sonorous",
+          "rotund"
+        ],
+        "examples": [
+          {
+            "text": "orotund tones",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "or(입)",
+      "rotund"
+    ],
+    "origin": {
+      "ko": "라틴어 ōre rotundō, 즉 '둥근 입으로'에서 왔습니다. 입을 크게 둥글려 말하는 데서 과장되고 거창한 말투가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "orthodox",
+    "score": 38,
+    "zipf": 3.93,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Adhering to whatever is customary, traditional, or generally accepted.",
+        "ko": "정통의, 관습을 따르는",
+        "synonyms": [
+          "conventional",
+          "traditional",
+          "conformist",
+          "established"
+        ],
+        "examples": [
+          {
+            "text": "The orthodox view among economists held that lower taxes would raise growth, but the data disagreed.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Conforming to the accepted, established, or traditional doctrines of a given faith, religion, or ideology.",
+        "ko": "정통 교리를 따르는",
+        "synonyms": [
+          "doctrinal",
+          "strict",
+          "devout"
+        ],
+        "examples": [
+          {
+            "text": "The orthodox clergy condemned the new interpretation as a departure from sacred doctrine.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ortho-",
+      "dox"
+    ],
+    "origin": {
+      "ko": "그리스어 orthodoxos, 즉 '바른(orthós) 의견(dóxa)'에서 왔습니다. 정통이라 인정받는 견해를 따른다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

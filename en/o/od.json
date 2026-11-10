@@ -1,0 +1,100 @@
+[
+  {
+    "word": "odious",
+    "score": 49,
+    "zipf": 2.77,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Arousing or meriting strong dislike, aversion, or intense displeasure.",
+        "ko": "혐오스러운, 아주 불쾌한",
+        "synonyms": [
+          "hateful",
+          "detestable",
+          "repugnant",
+          "abhorrent",
+          "loathsome"
+        ],
+        "examples": [
+          {
+            "text": "Critics found the regime's treatment of dissidents odious and called for sanctions.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "od(미워하다)",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 odiōsus '미움을 사는'에서 왔고, odium은 '증오'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "odium",
+    "score": 31,
+    "zipf": 2.0,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Hatred; dislike.",
+        "ko": "증오, 반감",
+        "synonyms": [
+          "hatred",
+          "animosity",
+          "abhorrence",
+          "detestation"
+        ],
+        "examples": [
+          {
+            "text": "His conduct brought him into odium, or, brought odium upon him.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "state of disgrace resulting from detestable behavior",
+        "ko": "비난, 불명예",
+        "synonyms": [
+          "disgrace",
+          "opprobrium",
+          "infamy",
+          "stigma"
+        ],
+        "examples": [
+          {
+            "text": "The governor bore the odium of the failed policy long after leaving office.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "od(미워하다)"
+    ],
+    "origin": {
+      "ko": "라틴어 odium '증오'를 그대로 가져온 학술 차용어입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

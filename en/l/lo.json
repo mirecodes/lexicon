@@ -1,0 +1,372 @@
+[
+  {
+    "word": "loath",
+    "score": 50,
+    "zipf": 2.67,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Averse, disinclined; reluctant, unwilling. Always followed by a verbal phrase.",
+        "ko": "꺼리는, ~하기 싫어하는",
+        "synonyms": [
+          "reluctant",
+          "unwilling",
+          "averse",
+          "disinclined",
+          "loth"
+        ],
+        "examples": [
+          {
+            "text": "I was loath to return to the office without the Henderson file.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 lāð '악의적인, 혐오스러운'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "loathe",
+    "score": 30,
+    "zipf": 3.11,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "find repugnant",
+        "ko": "몹시 싫어하다, 혐오하다",
+        "synonyms": [
+          "abhor",
+          "detest",
+          "abominate",
+          "despise",
+          "execrate"
+        ],
+        "examples": [
+          {
+            "text": "I absolutely loathe this place.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 lāþian에서 왔고 loath와 같은 뿌리입니다. 혐오스럽게 여긴다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lode",
+    "score": 34,
+    "zipf": 2.71,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A rich source of supply.",
+        "ko": "풍부한 공급원, 보고",
+        "synonyms": [
+          "mine",
+          "treasury",
+          "reservoir",
+          "trove",
+          "wellspring"
+        ],
+        "examples": [
+          {
+            "text": "The archive proved a rich lode of material for historians of the period.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a deposit of valuable ore occurring within definite boundaries separating it from surrounding rocks",
+        "ko": "광맥",
+        "synonyms": [
+          "vein",
+          "seam",
+          "deposit"
+        ],
+        "examples": [
+          {
+            "text": "Prospectors struck a lode of silver high in the canyon wall.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 lād '길, 여정'에서 왔습니다. 광업 용어로 굳어 '광맥'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lofty",
+    "score": 28,
+    "zipf": 3.34,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of high moral or intellectual value; elevated in nature or style",
+        "ko": "고결한, 숭고한",
+        "synonyms": [
+          "exalted",
+          "noble",
+          "elevated",
+          "sublime",
+          "high-minded"
+        ],
+        "examples": [
+          {
+            "text": "The founders' lofty ideals of equality were rarely matched by their actual policies.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Extremely proud; arrogant; haughty.",
+        "ko": "오만한, 거만한",
+        "synonyms": [
+          "haughty",
+          "arrogant",
+          "disdainful",
+          "supercilious"
+        ],
+        "examples": [
+          {
+            "text": "The critic dismissed the debut with a lofty wave of his hand.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Idealistic, implying over-optimism.",
+        "ko": "이상만 높은, 지나치게 야심 찬",
+        "synonyms": [
+          "ambitious",
+          "idealistic",
+          "grandiose",
+          "aspirational"
+        ],
+        "examples": [
+          {
+            "text": "a lofty goal",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 loft(하늘, 위층)에 -y가 붙은 말입니다. 높이 솟아 고귀하다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "log",
+    "score": 17,
+    "zipf": 4.37,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a written record of events on a voyage (of a ship or plane)",
+        "ko": "항해 일지, 기록",
+        "synonyms": [
+          "record",
+          "journal",
+          "logbook",
+          "chronicle"
+        ],
+        "examples": [
+          {
+            "text": "The captain's log recorded every change of course during the storm.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "enter into a log, as on ships and planes",
+        "ko": "기록하다",
+        "synonyms": [
+          "record",
+          "register",
+          "note",
+          "document"
+        ],
+        "examples": [
+          {
+            "text": "Technicians logged every temperature reading throughout the three-week experiment.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the exponent required to produce a given number",
+        "ko": "로그, 대수",
+        "synonyms": [
+          "logarithm"
+        ],
+        "examples": [
+          {
+            "text": "Taking the log of both sides turns the exponential equation into a linear one.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 logge '통나무'에서 왔습니다. 배의 속도를 재던 나무 부표(chip log)에서 항해 일지가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "loquacious",
+    "score": 80,
+    "zipf": 2.11,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "full of trivial conversation",
+        "ko": "수다스러운, 말 많은",
+        "synonyms": [
+          "garrulous",
+          "talkative",
+          "chatty",
+          "voluble",
+          "verbose"
+        ],
+        "examples": [
+          {
+            "text": "The loquacious host kept his guests at the table long after the meal was finished.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "loqu",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 loquāx '말 많은'에서 왔고 loquor '말하다'에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lout",
+    "score": 32,
+    "zipf": 2.13,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an awkward stupid person",
+        "ko": "촌뜨기, 어리석고 서투른 사람",
+        "synonyms": [
+          "oaf",
+          "clod",
+          "lummox",
+          "boor",
+          "bumpkin"
+        ],
+        "examples": [
+          {
+            "text": "The clumsy lout knocked over the display and then stood there gaping.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A troublemaker, often violent; a rude violent person; a yob.",
+        "ko": "난폭한 불량배",
+        "synonyms": [
+          "hooligan",
+          "thug",
+          "yob",
+          "ruffian",
+          "brute"
+        ],
+        "examples": [
+          {
+            "text": "A gang of drunken louts wrecked the bus shelter on their way home.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 lūtan '몸을 숙이다'와 이어진 중세 영어에서 왔다고 보입니다. 구부정한 촌뜨기의 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

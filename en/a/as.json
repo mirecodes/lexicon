@@ -1,0 +1,962 @@
+[
+  {
+    "word": "ascendancy",
+    "score": 48,
+    "zipf": 2.88,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the state that exists when one person or group has power over another",
+        "ko": "우위, 지배적 지위",
+        "synonyms": [
+          "dominance",
+          "supremacy",
+          "control",
+          "superiority",
+          "sway"
+        ],
+        "examples": [
+          {
+            "text": "The Tory hard right is in the ascendancy, and a fascist street movement – led by convicted fraudster Tommy Robinson – represents a growing threat.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "scend",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "ascend(오르다)에서 나왔습니다. 남보다 위로 올라서 있는 상태가 '우위'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ascertain",
+    "score": 76,
+    "zipf": 3.29,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "find out, learn, or determine with certainty, usually by making an inquiry or other effort",
+        "ko": "확인하다, 알아내다",
+        "synonyms": [
+          "determine",
+          "establish",
+          "verify",
+          "discover",
+          "learn"
+        ],
+        "examples": [
+          {
+            "text": "As soon as we ascertain what the situation is, we can plan how to proceed.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "cert"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 acertener(확실하게 하다)에서 왔고 라틴어 certus(확실한)에서 나왔습니다. 확실한 쪽으로 가져가 알아내는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ascetic",
+    "score": 81,
+    "zipf": 2.81,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "practicing great self-denial",
+        "ko": "금욕적인, 엄격히 절제하는",
+        "synonyms": [
+          "austere",
+          "abstemious",
+          "spartan",
+          "self-denying"
+        ],
+        "examples": [
+          {
+            "text": "This experience enables Nāgārjuna to recognize that desire is the root cause of suffering and motivates him to turn to a more ascetic lifestyle.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "someone who practices self denial as a spiritual discipline",
+        "ko": "금욕주의자, 고행자",
+        "synonyms": [
+          "abstainer",
+          "hermit",
+          "monk"
+        ],
+        "examples": [
+          {
+            "text": "Female ascetics find shelter in a wide variety of establishments and vary greatly in the degree to which they travel.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 askētēs(수행자)에서 왔고 askeō(훈련하다)에서 나왔습니다. 몸과 마음을 단련하는 금욕 수행을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ascribe",
+    "score": 66,
+    "zipf": 2.75,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "attribute or credit to",
+        "ko": "~의 탓으로 돌리다, ~의 것으로 여기다",
+        "synonyms": [
+          "attribute",
+          "impute",
+          "credit",
+          "assign",
+          "accredit"
+        ],
+        "examples": [
+          {
+            "text": "It is arguable as to whether we can truly ascribe this play to Shakespeare.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "scrib"
+    ],
+    "origin": {
+      "ko": "라틴어 ascribere(~에 써넣다)에서 왔습니다. 이름이나 원인을 적어 넣어 '~의 탓으로 돌리다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aseptic",
+    "score": 33,
+    "zipf": 2.23,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "free of or using methods to keep free of pathological microorganisms",
+        "ko": "무균의, 소독된",
+        "synonyms": [
+          "sterile",
+          "germ-free",
+          "sanitary"
+        ],
+        "examples": [
+          {
+            "text": "Pharmaceuticals are packaged using aseptic techniques.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "a-(부정)",
+      "sept",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 a-(없는)와 septikos(썩게 하는)에서 왔습니다. 부패나 세균이 없는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "askance",
+    "score": 48,
+    "zipf": 2.1,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "with suspicion or disapproval",
+        "ko": "의심스러운 듯이, 못마땅하게",
+        "synonyms": [
+          "suspiciously",
+          "skeptically",
+          "disapprovingly",
+          "distrustfully"
+        ],
+        "examples": [
+          {
+            "text": "he looked askance at the offer",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adv",
+        "en": "with a side or oblique glance",
+        "ko": "곁눈질로, 비스듬히",
+        "synonyms": [
+          "sideways",
+          "obliquely",
+          "asquint"
+        ],
+        "examples": [
+          {
+            "text": "I glanced askance at this strange creature, and found him watching me with his queer, restless eyes.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "asperity",
+    "score": 57,
+    "zipf": 1.38,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "harshness of manner",
+        "ko": "(태도·말투의) 거칠고 퉁명스러움",
+        "synonyms": [
+          "sharpness",
+          "acerbity",
+          "harshness",
+          "severity",
+          "brusqueness"
+        ],
+        "examples": [
+          {
+            "text": "The senator answered the reporter's question with unexpected asperity.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "something hard to endure",
+        "ko": "혹독함, 고난",
+        "synonyms": [
+          "hardship",
+          "rigor",
+          "severity",
+          "grimness"
+        ],
+        "examples": [
+          {
+            "text": "the asperity of northern winters",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "asper",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 asperitas(거칢)에서 왔고 asper(거친)에서 나왔습니다. 표면의 거칠함이 말투의 퉁명스러움으로 옮겨졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aspersion",
+    "score": 58,
+    "zipf": 1.48,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a disparaging remark",
+        "ko": "비방, 중상",
+        "synonyms": [
+          "slur",
+          "calumny",
+          "slander",
+          "defamation",
+          "smear"
+        ],
+        "examples": [
+          {
+            "text": "The candidate refused to cast aspersions on her opponent's character without evidence.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "spars",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 aspersio(뿌림)에서 왔습니다. 남에게 더러운 말을 끼얹는 모습이 '비방'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "assail",
+    "score": 96,
+    "zipf": 2.11,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "attack someone physically or emotionally",
+        "ko": "공격하다, 습격하다",
+        "synonyms": [
+          "attack",
+          "assault",
+          "beset",
+          "set upon"
+        ],
+        "examples": [
+          {
+            "text": "Our ears were assailed by her joyous efforts on her new saxophone.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "attack in speech or writing",
+        "ko": "맹렬히 비난하다",
+        "synonyms": [
+          "criticize",
+          "lambaste",
+          "censure",
+          "denounce",
+          "berate"
+        ],
+        "examples": [
+          {
+            "text": "Opposition leaders assailed the budget as reckless and unfair to working families.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "sal"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 assalire(~를 향해 뛰어들다)에서 왔습니다. 달려들어 공격하는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "assay",
+    "score": 28,
+    "zipf": 3.28,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a quantitative or qualitative test of a substance (especially an ore or a drug) to determine its components; frequently used to test for the presence or concentration of infectious agents or antibodies etc.",
+        "ko": "분석, 시금",
+        "synonyms": [
+          "analysis",
+          "test",
+          "evaluation"
+        ],
+        "examples": [
+          {
+            "text": "The laboratory ran an assay to measure the concentration of the compound in each sample.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make an effort or attempt",
+        "ko": "시도하다",
+        "synonyms": [
+          "try",
+          "attempt",
+          "essay",
+          "endeavor"
+        ],
+        "examples": [
+          {
+            "text": "Chemists tried to assay the ore sample to see how much silver it contained.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 essai(시도, 시험)에서 왔고 essay와 같은 말에서 갈라졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "assent",
+    "score": 31,
+    "zipf": 3.03,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to agree or express agreement",
+        "ko": "동의하다, 찬성하다",
+        "synonyms": [
+          "agree",
+          "consent",
+          "acquiesce",
+          "concur",
+          "accede"
+        ],
+        "examples": [
+          {
+            "text": "The princess assented to all that was suggested.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "agreement with a statement or proposal to do something",
+        "ko": "동의, 찬성",
+        "synonyms": [
+          "consent",
+          "acquiescence",
+          "approval",
+          "agreement"
+        ],
+        "examples": [
+          {
+            "text": "He lowered his head in assent.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "sent"
+    ],
+    "origin": {
+      "ko": "라틴어 assentire(~에 같은 느낌을 갖다)에서 왔습니다. 마음이 같아 동의한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "assert",
+    "score": 25,
+    "zipf": 3.62,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To declare with assurance or plainly and strongly; to state positively.",
+        "ko": "단언하다, 주장하다",
+        "synonyms": [
+          "affirm",
+          "aver",
+          "avow",
+          "maintain",
+          "contend"
+        ],
+        "examples": [
+          {
+            "text": "He would often assert that there was life on other planets.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "insist on having one's opinions and rights recognized",
+        "ko": "(자신의 권리·의견을) 강력히 내세우다",
+        "synonyms": [
+          "insist on",
+          "stand up for",
+          "press"
+        ],
+        "examples": [
+          {
+            "text": "Women should assert themselves more!",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "ser"
+    ],
+    "origin": {
+      "ko": "라틴어 asserere(손을 얹어 자유인이라 선언하다)에서 왔습니다. 확신을 갖고 당당히 선언한다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "assertive",
+    "score": 29,
+    "zipf": 3.19,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "aggressively self-assured",
+        "ko": "단정적인, 자기주장이 강한",
+        "synonyms": [
+          "forceful",
+          "self-assured",
+          "pushy",
+          "dogmatic"
+        ],
+        "examples": [
+          {
+            "text": "an energetic assertive boy who was always ready to argue",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "ser",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 assertivus에서 왔고 assert(단언하다)와 같은 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "assiduous",
+    "score": 65,
+    "zipf": 2.15,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by care and persistent effort",
+        "ko": "부지런한, 꾸준히 노력하는",
+        "synonyms": [
+          "diligent",
+          "sedulous",
+          "industrious",
+          "persevering",
+          "meticulous"
+        ],
+        "examples": [
+          {
+            "text": "her assiduous attempts to learn French",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "sed",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 assiduus(곁에 붙어 앉아 있는)에서 왔습니다. 자리를 뜨지 않고 꾸준히 일하는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "assiduously",
+    "score": 35,
+    "zipf": 2.44,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "with care and persistence",
+        "ko": "부지런히, 공들여",
+        "synonyms": [
+          "diligently",
+          "industriously",
+          "sedulously",
+          "painstakingly"
+        ],
+        "examples": [
+          {
+            "text": "she worked assiduously on the senior thesis",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "sed",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "assiduous(부지런한)에 -ly가 붙은 말입니다. 라틴어 '곁에 앉아 있는'에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "assuage",
+    "score": 83,
+    "zipf": 2.63,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "provide physical relief, as from pain",
+        "ko": "(고통을) 덜어 주다, 완화하다",
+        "synonyms": [
+          "relieve",
+          "alleviate",
+          "ease",
+          "mitigate",
+          "palliate"
+        ],
+        "examples": [
+          {
+            "text": "A cool compress can assuage the pain of a mild burn.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cause to be more favorably inclined; gain the good will of",
+        "ko": "달래다, 진정시키다",
+        "synonyms": [
+          "pacify",
+          "placate",
+          "mollify",
+          "appease",
+          "soothe"
+        ],
+        "examples": [
+          {
+            "text": "The mayor tried to assuage residents' fears with a public briefing on the new safety measures.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "satisfy (thirst)",
+        "ko": "(갈증·욕구를) 채우다, 풀다",
+        "synonyms": [
+          "quench",
+          "slake",
+          "allay"
+        ],
+        "examples": [
+          {
+            "text": "A long drink from the mountain stream was enough to assuage her thirst.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "suav"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 asuagier(달래다)에서 왔고 라틴어 suavis(달콤한)에서 나왔습니다. 고통을 달콤하게 어루만져 누그러뜨립니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "astringent",
+    "score": 52,
+    "zipf": 2.51,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Sharp, caustic, severe.",
+        "ko": "신랄한, 가차 없는",
+        "synonyms": [
+          "caustic",
+          "acerbic",
+          "biting",
+          "harsh",
+          "trenchant"
+        ],
+        "examples": [
+          {
+            "text": "The critic's astringent review left the young playwright shaken.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "sour or bitter in taste",
+        "ko": "떫은, 쓴맛의",
+        "synonyms": [
+          "acerbic",
+          "tart",
+          "bitter",
+          "sour"
+        ],
+        "examples": [
+          {
+            "text": "The unripe persimmon left an astringent, puckering taste in her mouth.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "tending to draw together or constrict soft organic tissue",
+        "ko": "수렴성의, 조직을 수축시키는",
+        "synonyms": [
+          "styptic",
+          "constricting"
+        ],
+        "examples": [
+          {
+            "text": "astringent cosmetic lotions",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "string",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 adstringere(바싹 묶다)에서 왔습니다. 조이는 듯한 날카로움이 '신랄한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "astute",
+    "score": 30,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by practical hardheaded intelligence",
+        "ko": "예리한, 영리한",
+        "synonyms": [
+          "shrewd",
+          "sharp",
+          "perceptive",
+          "canny",
+          "discerning"
+        ],
+        "examples": [
+          {
+            "text": "an astute tenant always reads the small print in a lease",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 astutus(교활한, 약삭빠른)에서 왔고 astus(꾀)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "asunder",
+    "score": 35,
+    "zipf": 2.6,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "into parts or pieces",
+        "ko": "산산이, 따로따로 떨어져",
+        "synonyms": [
+          "apart",
+          "in pieces",
+          "to pieces"
+        ],
+        "examples": [
+          {
+            "text": "The bitter dispute threatened to tear the coalition asunder.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 on sundur(따로, 떨어져)에서 왔습니다. 서로 갈라져 따로 떨어진 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

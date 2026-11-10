@@ -1,0 +1,751 @@
+[
+  {
+    "word": "noble",
+    "score": 19,
+    "zipf": 4.24,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having honorable qualities; having moral eminence and freedom from anything petty, mean or dubious in conduct and character.",
+        "ko": "고결한, 숭고한",
+        "synonyms": [
+          "honorable",
+          "virtuous",
+          "magnanimous",
+          "high-minded"
+        ],
+        "examples": [
+          {
+            "text": "He made a noble effort.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "impressive in size, manner, or appearance",
+        "ko": "웅장한, 위풍당당한",
+        "synonyms": [
+          "imposing",
+          "stately",
+          "grand",
+          "majestic"
+        ],
+        "examples": [
+          {
+            "text": "The noble facade of the library dominated the square.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of or belonging to or constituting the hereditary aristocracy especially as derived from feudal times",
+        "ko": "귀족의, 고귀한 신분의",
+        "synonyms": [
+          "aristocratic",
+          "highborn"
+        ],
+        "examples": [
+          {
+            "text": "of noble birth",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "gno"
+    ],
+    "origin": {
+      "ko": "라틴어 nōbilis는 '알려진, 유명한'이라는 뜻입니다. 이름이 널리 알려진 사람이 고귀한 사람이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "noisome",
+    "score": 60,
+    "zipf": 1.68,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Offensive to the senses; disgusting, unpleasant, nauseous, especially having an undesirable smell.",
+        "ko": "역겨운, 악취가 나는",
+        "synonyms": [
+          "foul",
+          "fetid",
+          "malodorous",
+          "revolting"
+        ],
+        "examples": [
+          {
+            "text": "A noisome odor rose from the abandoned cellar, and the workers refused to enter.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Hurtful or noxious to health; unwholesome, insalubrious.",
+        "ko": "유해한, 건강에 해로운",
+        "synonyms": [
+          "noxious",
+          "harmful",
+          "unwholesome",
+          "pernicious"
+        ],
+        "examples": [
+          {
+            "text": "Residents blamed the noisome fumes from the tannery for the town's chronic respiratory illness.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-some"
+    ],
+    "origin": {
+      "ko": "annoy(괴롭히다)에서 앞부분이 떨어져 나간 noy에 -some이 붙은 말입니다. 성가시고 불쾌하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nominal",
+    "score": 73,
+    "zipf": 3.6,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Insignificantly small.",
+        "ko": "명목상의, 아주 적은",
+        "synonyms": [
+          "token",
+          "trifling",
+          "minimal"
+        ],
+        "examples": [
+          {
+            "text": "He gave me only a nominal sum for my services.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Existing in name only.",
+        "ko": "명목뿐인, 유명무실한",
+        "synonyms": [
+          "titular",
+          "ceremonial",
+          "so-called"
+        ],
+        "examples": [
+          {
+            "text": "a nominal difference",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "nom(이름)",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 nōmen '이름'에서 왔습니다. 이름뿐이고 실질이 없다는 데서 '명목상의'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nonchalant",
+    "score": 50,
+    "zipf": 2.74,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Indifferent; unconcerned; behaving as if detached.",
+        "ko": "무관심한, 태연한",
+        "synonyms": [
+          "unconcerned",
+          "insouciant",
+          "blasé",
+          "casual"
+        ],
+        "examples": [
+          {
+            "text": "He is far too nonchalant about such a serious matter.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "non-",
+      "cal",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 nonchaloir '마음 쓰지 않다'에서 왔습니다. 마음이 달아오르지 않는 태연한 태도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nonentity",
+    "score": 29,
+    "zipf": 1.84,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An unimportant or insignificant person or thing.",
+        "ko": "보잘것없는 사람, 하찮은 존재",
+        "synonyms": [
+          "nobody",
+          "cipher",
+          "lightweight"
+        ],
+        "examples": [
+          {
+            "text": "Once a political nonentity, she rose within a decade to lead the party.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "non-"
+    ]
+  },
+  {
+    "word": "nonplus",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To bewilder or perplex (someone); to confound, to flummox.",
+        "ko": "당황하게 하다, 어리둥절하게 하다",
+        "synonyms": [
+          "perplex",
+          "baffle",
+          "bewilder",
+          "flummox",
+          "confound"
+        ],
+        "examples": [
+          {
+            "text": "The student's unexpected question nonplussed the professor, who had no ready answer.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "non-",
+      "plus"
+    ],
+    "origin": {
+      "ko": "라틴어 nōn plūs '더 이상 없다'에서 왔습니다. 더는 나아갈 수 없는 막막한 상태라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nonplussed",
+    "score": 48,
+    "zipf": 2.12,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Unsure how to act or respond; bewildered, perplexed.",
+        "ko": "당황한, 어쩔 줄 모르는",
+        "synonyms": [
+          "bewildered",
+          "perplexed",
+          "baffled",
+          "at a loss"
+        ],
+        "examples": [
+          {
+            "text": "The candidate looked nonplussed when the moderator quoted his own earlier speech back to him.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Unaffected, unfazed; unimpressed.",
+        "ko": "동요하지 않는, 태연한",
+        "synonyms": [
+          "unfazed",
+          "unperturbed",
+          "blasé"
+        ],
+        "examples": [
+          {
+            "text": "Surprisingly nonplussed by the uproar, the veteran diplomat calmly continued his remarks.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "non-",
+      "plus"
+    ],
+    "origin": {
+      "ko": "라틴어 nōn plūs '더 이상 없다'에서 나온 nonplus의 과거분사형입니다. 말문이 막혀 더 나아가지 못하는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nontrivial",
+    "score": 34,
+    "zipf": 2.29,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Not obvious or easy to prove; not self-evident.",
+        "ko": "자명하지 않은, 간단치 않은",
+        "synonyms": [
+          "substantial",
+          "significant",
+          "complex"
+        ],
+        "examples": [
+          {
+            "text": "Extending the theorem to higher dimensions is a nontrivial problem that took mathematicians decades.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "non-",
+      "-al"
+    ]
+  },
+  {
+    "word": "normative",
+    "score": 30,
+    "zipf": 3.1,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Attempting to establish or prescribe a norm.",
+        "ko": "규범적인, 표준을 제시하는",
+        "synonyms": [
+          "prescriptive",
+          "prescribing"
+        ],
+        "examples": [
+          {
+            "text": "normative grammar",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Conforming to a norm or norms.",
+        "ko": "표준에 맞는, 정상적인",
+        "synonyms": [
+          "standard",
+          "typical"
+        ],
+        "examples": [
+          {
+            "text": "normative behaviour",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "norm",
+      "-ative"
+    ],
+    "origin": {
+      "ko": "라틴어 norma '기준'에 -ative가 붙은 말로, 표준을 정해 제시한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nostrum",
+    "score": 34,
+    "zipf": 2.31,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An ineffective but favorite remedy for a problem, usually involving political action.",
+        "ko": "만병통치약식 해결책, 돌팔이 처방",
+        "synonyms": [
+          "panacea",
+          "cure-all",
+          "quick fix"
+        ],
+        "examples": [
+          {
+            "text": "Economists warned that tax cuts alone were a political nostrum, not a cure for stagnation.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "patent medicine whose efficacy is questionable",
+        "ko": "효능이 의심스러운 특허 의약품",
+        "synonyms": [
+          "snake oil",
+          "quack remedy"
+        ],
+        "examples": [
+          {
+            "text": "Peddlers sold bottled nostrums at county fairs, promising to cure everything from baldness to grief.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "nostr"
+    ],
+    "origin": {
+      "ko": "라틴어 nostrum '우리의 것'에서 왔습니다. '우리만의 비방'이라며 내세우는 만병통치약 같은 처방을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "notion",
+    "score": 19,
+    "zipf": 4.17,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A sentiment; an opinion.",
+        "ko": "생각, 견해",
+        "synonyms": [
+          "belief",
+          "opinion",
+          "idea",
+          "impression"
+        ],
+        "examples": [
+          {
+            "text": "The notion that talent alone guarantees success has been challenged by recent research.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an odd or fanciful or capricious idea",
+        "ko": "변덕스러운 생각, 엉뚱한 생각",
+        "synonyms": [
+          "whim",
+          "fancy",
+          "caprice"
+        ],
+        "examples": [
+          {
+            "text": "She took a sudden notion to sell the house and sail around the world.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "not",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 nōtiō '알게 됨, 개념'에서 왔고, nōscō는 '알다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "notoriety",
+    "score": 29,
+    "zipf": 3.19,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the state of being known for some unfavorable act or quality",
+        "ko": "악명, 나쁜 평판",
+        "synonyms": [
+          "infamy",
+          "ill repute",
+          "disrepute"
+        ],
+        "examples": [
+          {
+            "text": "The senator gained notoriety for his habit of abruptly reversing his positions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "not",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 nōtus '알려진'에서 나온 말입니다. 널리 알려졌다는 뜻이 나쁜 쪽으로 알려진 악명이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "notwithstanding",
+    "score": 26,
+    "zipf": 3.48,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "prep",
+        "en": "In spite of, despite.",
+        "ko": "~에도 불구하고",
+        "synonyms": [
+          "despite",
+          "regardless of",
+          "in spite of"
+        ],
+        "examples": [
+          {
+            "text": "Notwithstanding repeated warnings, the company continued to dump waste into the river.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adv",
+        "en": "Nevertheless, all the same.",
+        "ko": "그럼에도 불구하고",
+        "synonyms": [
+          "nevertheless",
+          "nonetheless",
+          "still"
+        ],
+        "examples": [
+          {
+            "text": "He, notwithstanding, persisted in his inquiries.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어에서 not과 withstanding(맞서 버팀)을 합쳐 만든 말로, '~이 막지 못하더라도'라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "novel",
+    "score": 32,
+    "zipf": 4.63,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "original and of a kind not seen before",
+        "ko": "신기한, 참신한",
+        "synonyms": [
+          "new",
+          "original",
+          "innovative",
+          "unprecedented",
+          "fresh"
+        ],
+        "examples": [
+          {
+            "text": "the computer produced a completely novel proof of a well-known theorem",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "nov"
+    ],
+    "origin": {
+      "ko": "라틴어 novus '새로운'의 지소형 novellus에서 왔습니다. 새롭고 신선하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "noxious",
+    "score": 48,
+    "zipf": 2.91,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Harmful; injurious.",
+        "ko": "유해한, 해로운",
+        "synonyms": [
+          "harmful",
+          "toxic",
+          "poisonous",
+          "pernicious"
+        ],
+        "examples": [
+          {
+            "text": "Regulators ordered the plant to stop releasing noxious fumes near the residential district.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Morally corrupting.",
+        "ko": "도덕적으로 해로운, 타락시키는",
+        "synonyms": [
+          "corrupting",
+          "pernicious",
+          "baleful"
+        ],
+        "examples": [
+          {
+            "text": "Moralists condemned the pamphlet as a noxious influence on impressionable young readers.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "noc",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 noxius '해를 끼치는'에서 왔고, nocēre는 '해치다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

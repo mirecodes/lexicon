@@ -1,0 +1,389 @@
+[
+  {
+    "word": "opaque",
+    "score": 75,
+    "zipf": 3.37,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "hard or impossible to understand",
+        "ko": "이해하기 어려운, 불명료한",
+        "synonyms": [
+          "unintelligible",
+          "obscure",
+          "impenetrable",
+          "cryptic"
+        ],
+        "examples": [
+          {
+            "text": "The contract's opaque language hid several costly obligations from the unwary buyer.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Allowing little light to pass through, not translucent or transparent.",
+        "ko": "불투명한",
+        "synonyms": [
+          "cloudy",
+          "murky",
+          "nontransparent"
+        ],
+        "examples": [
+          {
+            "text": "The opaque glass shielded the room from the street.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 opacus '그늘진, 어두운'에서 왔습니다. 빛이 통하지 않는다는 뜻이 이해하기 어렵다로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "opine",
+    "score": 50,
+    "zipf": 2.3,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To express an opinion; to state as an opinion; to suppose, consider (that).",
+        "ko": "의견을 말하다, ~라고 생각하다",
+        "synonyms": [
+          "suggest",
+          "venture",
+          "state",
+          "hold"
+        ],
+        "examples": [
+          {
+            "text": "I opined that matters would soon become considerably worse.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "opin"
+    ],
+    "origin": {
+      "ko": "라틴어 opīnor '의견을 갖다'에서 왔습니다. 자기 생각을 밝힌다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "oppress",
+    "score": 32,
+    "zipf": 2.88,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To keep down by unjust force.",
+        "ko": "억압하다, 탄압하다",
+        "synonyms": [
+          "suppress",
+          "subjugate",
+          "persecute",
+          "tyrannize",
+          "crush"
+        ],
+        "examples": [
+          {
+            "text": "The rural poor were oppressed by the land-owners.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To make sad or gloomy.",
+        "ko": "우울하게 하다, 짓누르다",
+        "synonyms": [
+          "depress",
+          "weigh down",
+          "burden"
+        ],
+        "examples": [
+          {
+            "text": "We were oppressed by the constant grey skies.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "press"
+    ],
+    "origin": {
+      "ko": "라틴어 opprimere '위에서 짓누르다'에서 왔습니다. 힘으로 눌러서 꼼짝 못 하게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "opprobrium",
+    "score": 64,
+    "zipf": 2.11,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Disgrace or bad reputation arising from exceedingly shameful behaviour; ignominy.",
+        "ko": "치욕, 불명예",
+        "synonyms": [
+          "disgrace",
+          "ignominy",
+          "infamy",
+          "obloquy"
+        ],
+        "examples": [
+          {
+            "text": "The company faced public opprobrium after the memo revealing the cover-up was leaked.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Scornful contempt or reproach; (countable) an instance of this.",
+        "ko": "비난, 경멸",
+        "synonyms": [
+          "censure",
+          "reproach",
+          "contempt",
+          "derision"
+        ],
+        "examples": [
+          {
+            "text": "The senator's remarks drew widespread opprobrium from members of both parties.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "probr",
+      "-ium"
+    ],
+    "origin": {
+      "ko": "라틴어 opprobrium '비난, 치욕'에서 왔습니다. 상대 얼굴 앞에 치욕을 들이대는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "optimal",
+    "score": 22,
+    "zipf": 3.94,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "most desirable possible under a restriction expressed or implied",
+        "ko": "최적의, 최선의",
+        "synonyms": [
+          "optimum",
+          "best",
+          "ideal",
+          "peak"
+        ],
+        "examples": [
+          {
+            "text": "Engineers searched for the optimal design that would satisfy both the budget and safety limits.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "optim",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 optimus '가장 좋은'에 영어 -al이 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "optimum",
+    "score": 26,
+    "zipf": 3.54,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The best or most favorable condition, or the greatest amount or degree possible under specific sets of comparable circumstances.",
+        "ko": "최적 조건, 최적량",
+        "synonyms": [
+          "peak",
+          "ideal",
+          "best"
+        ],
+        "examples": [
+          {
+            "text": "Crop yields reach their optimum when rainfall and temperature stay within a narrow range.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "most desirable possible under a restriction expressed or implied",
+        "ko": "최적의, 가장 바람직한",
+        "synonyms": [
+          "optimal",
+          "best",
+          "ideal"
+        ],
+        "examples": [
+          {
+            "text": "an optimum return on capital",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "optim"
+    ],
+    "origin": {
+      "ko": "라틴어 optimus '가장 좋은'의 중성형을 신라틴어로 쓴 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "opulence",
+    "score": 34,
+    "zipf": 2.69,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "wealth as evidenced by sumptuous living",
+        "ko": "호화로움, 부유함",
+        "synonyms": [
+          "luxury",
+          "sumptuousness",
+          "affluence",
+          "lavishness"
+        ],
+        "examples": [
+          {
+            "text": "Visitors were stunned by the opulence of the palace, with its gilded ceilings and marble floors.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "op(부)",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "프랑스어 opulence에서 왔고, 라틴어 opulentia가 원형입니다. 재물이 넘치는 호화로움을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "opulent",
+    "score": 32,
+    "zipf": 2.91,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "ostentatiously rich and superior in quality",
+        "ko": "호화로운, 부유한",
+        "synonyms": [
+          "luxurious",
+          "lavish",
+          "sumptuous",
+          "plush",
+          "affluent"
+        ],
+        "examples": [
+          {
+            "text": "The opulent hotel lobby glittered with crystal chandeliers and gold leaf.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "op(부)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 opulentus에서 왔고, ops는 '부, 힘, 자원'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "word": "oscillate",
+    "score": 35,
+    "zipf": 2.42,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To vacillate between conflicting opinions, etc.",
+        "ko": "(의견 등이) 흔들리다, 갈팡질팡하다",
+        "synonyms": [
+          "waver",
+          "vacillate",
+          "fluctuate",
+          "hesitate"
+        ],
+        "examples": [
+          {
+            "text": "The mood for change oscillated from day to day.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To swing back and forth, especially if with a regular rhythm.",
+        "ko": "진동하다, 왔다 갔다 하다",
+        "synonyms": [
+          "swing",
+          "sway",
+          "vibrate",
+          "fluctuate"
+        ],
+        "examples": [
+          {
+            "text": "A pendulum oscillates slower as it gets longer.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 ōscillō '흔들리다'에서 왔고, ōscillum은 '그네'입니다. 그네처럼 이쪽저쪽 흔들린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ossify",
+    "score": 72,
+    "zipf": 1.34,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To become (or cause to become) inflexible and rigid in habits or opinions.",
+        "ko": "경직되다, 굳어지다",
+        "synonyms": [
+          "harden",
+          "stiffen",
+          "fossilize",
+          "calcify",
+          "rigidify"
+        ],
+        "examples": [
+          {
+            "text": "Before long, the entire organization ossifies.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "become bony",
+        "ko": "뼈로 변하다, 골화하다",
+        "synonyms": [
+          "harden",
+          "calcify"
+        ],
+        "examples": [
+          {
+            "text": "The tissue ossified",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "oss",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "라틴어 os, ossis '뼈'에 -ify가 붙은 말입니다. 뼈처럼 굳어 융통성이 없어진다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ostensible",
+    "score": 52,
+    "zipf": 2.5,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Appearing as such; being such in appearance; professed, supposed (rather than demonstrably true or real).",
+        "ko": "표면상의, 겉으로 내세우는",
+        "synonyms": [
+          "apparent",
+          "professed",
+          "seeming",
+          "supposed",
+          "alleged"
+        ],
+        "examples": [
+          {
+            "text": "The ostensible purpose of the meeting was to review the budget, but the real aim was to remove the director.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "tend",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 ostendō '앞에 내밀어 보이다'에서 왔습니다. 겉으로 내보이는 모습이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ostensive",
+    "score": 24,
+    "zipf": 1.31,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Clearly demonstrative.",
+        "ko": "명백히 보여 주는, 직시적인",
+        "synonyms": [
+          "demonstrative",
+          "manifest",
+          "explicit"
+        ],
+        "examples": [
+          {
+            "text": "The teacher gave an ostensive definition by pointing directly at the object while naming it.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "represented or appearing as such; pretended",
+        "ko": "표면상의, 겉으로 그렇게 보이는",
+        "synonyms": [
+          "ostensible",
+          "apparent",
+          "professed"
+        ],
+        "examples": [
+          {
+            "text": "His ostensive purpose was charity, his real goal popularity.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "tend",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 ostēnsīvus에서 왔고, ostendō '앞에 내밀어 보이다'가 원형입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ostentatious",
+    "score": 66,
+    "zipf": 2.68,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "intended to attract notice and impress others",
+        "ko": "과시하는, 허세 부리는",
+        "synonyms": [
+          "showy",
+          "flashy",
+          "pretentious",
+          "flamboyant",
+          "gaudy"
+        ],
+        "examples": [
+          {
+            "text": "His ostentatious display of wealth, from the gold watch to the chauffeured car, alienated his colleagues.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "tend",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 ostentātus '내보이기'에서 왔습니다. 남의 눈앞에 자꾸 내미는 과시하는 태도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ostracize",
+    "score": 29,
+    "zipf": 1.79,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "expel from a community or group",
+        "ko": "추방하다, 따돌리다",
+        "synonyms": [
+          "banish",
+          "exclude",
+          "shun",
+          "blackball",
+          "cast out"
+        ],
+        "examples": [
+          {
+            "text": "The village ostracized anyone who refused to follow its strict customs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ostrac",
+      "-ize"
+    ],
+    "origin": {
+      "ko": "고대 그리스에서 추방할 사람의 이름을 도자기 조각(óstrakon)에 적어 투표한 데서 왔습니다. 그래서 따돌리고 추방한다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

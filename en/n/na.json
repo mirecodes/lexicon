@@ -1,0 +1,208 @@
+[
+  {
+    "word": "nadir",
+    "score": 80,
+    "zipf": 2.86,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The lowest point; time of greatest depression.",
+        "ko": "최저점, 바닥",
+        "synonyms": [
+          "low point",
+          "bottom",
+          "rock bottom",
+          "trough"
+        ],
+        "examples": [
+          {
+            "text": "The team's fortunes reached their nadir after a ninth consecutive defeat.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "아랍어 '천정(zenith)의 맞은편 지점'이라는 표현에서 왔습니다. 하늘 꼭대기의 정반대가 최저점입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "naive",
+    "score": 56,
+    "zipf": 3.75,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Lacking worldly experience, wisdom, or judgement; unsophisticated.",
+        "ko": "순진한, 세상 물정 모르는",
+        "synonyms": [
+          "gullible",
+          "unsophisticated",
+          "credulous",
+          "ingenuous",
+          "artless"
+        ],
+        "examples": [
+          {
+            "text": "It was naive to assume that the rival firm would simply hand over its customers.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Produced in a simple, childlike style, deliberately rejecting sophisticated techniques.",
+        "ko": "소박파 양식의, 소박한",
+        "synonyms": [
+          "primitive",
+          "unschooled"
+        ],
+        "examples": [
+          {
+            "text": "The gallery devoted a wing to naive painting by self-taught artists from rural villages.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "nat"
+    ],
+    "origin": {
+      "ko": "프랑스어 naïve는 라틴어 nātīvus '타고난, 자연 그대로의'에서 왔습니다. 꾸밈없이 타고난 그대로라 순진하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "narcissist",
+    "score": 31,
+    "zipf": 2.99,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "One who shows extreme love and admiration for themself.",
+        "ko": "자기도취자, 나르시시스트",
+        "synonyms": [
+          "egotist",
+          "egoist",
+          "self-admirer"
+        ],
+        "examples": [
+          {
+            "text": "The CEO, a notorious narcissist, took credit for every success and blamed others for failures.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ist"
+    ],
+    "origin": {
+      "ko": "그리스 신화에서 자기 물에 비친 모습에 반한 나르키소스에 -ist가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nascent",
+    "score": 62,
+    "zipf": 3.08,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Emerging; just coming into existence.",
+        "ko": "막 생겨나는, 초기의",
+        "synonyms": [
+          "emerging",
+          "incipient",
+          "budding",
+          "embryonic",
+          "developing"
+        ],
+        "examples": [
+          {
+            "text": "Regulators struggled to keep pace with the nascent industry of commercial drone delivery.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "nat",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 nāscēns '태어나는 중인'에서 왔습니다. 막 태어나는 단계라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "natty",
+    "score": 34,
+    "zipf": 2.75,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Smart and fashionable.",
+        "ko": "말쑥한, 맵시 있는",
+        "synonyms": [
+          "dapper",
+          "spruce",
+          "smart",
+          "trim",
+          "snappy"
+        ],
+        "examples": [
+          {
+            "text": "The natty gentleman arrived in a pressed linen suit and a bright silk pocket square.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

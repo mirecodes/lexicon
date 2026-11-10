@@ -1,0 +1,1124 @@
+[
+  {
+    "word": "sacrosanct",
+    "score": 51,
+    "zipf": 2.43,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Beyond alteration, criticism, or interference, especially due to religious sanction; inviolable.",
+        "ko": "신성불가침의, 비판할 수 없는",
+        "synonyms": [
+          "inviolable",
+          "sacred",
+          "untouchable",
+          "hallowed"
+        ],
+        "examples": [
+          {
+            "text": "After decades of being considered politically sacrosanct, why are homeowner mortgage write-offs suddenly on the chopping block?",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sacr",
+      "sanct"
+    ],
+    "origin": {
+      "ko": "라틴어 sacrōsānctus에서 왔습니다. '의식으로 신성하게 된' 것이라 건드릴 수 없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sadistic",
+    "score": 29,
+    "zipf": 3.18,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Delighting in or feeling pleasure from the pain or humiliation of others.",
+        "ko": "가학적인, 잔혹한",
+        "synonyms": [
+          "cruel",
+          "brutal",
+          "merciless",
+          "savage"
+        ],
+        "examples": [
+          {
+            "text": "The sadistic warden seemed to take real pleasure in devising new humiliations for the inmates.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "어원 정보가 없습니다. 일반적으로 프랑스 작가 사드(Sade) 후작의 이름에서 나온 말로 알려져 있습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sagacious",
+    "score": 77,
+    "zipf": 1.8,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "acutely insightful and wise",
+        "ko": "현명한, 통찰력 있는",
+        "synonyms": [
+          "perspicacious",
+          "sapient",
+          "shrewd",
+          "astute",
+          "discerning"
+        ],
+        "examples": [
+          {
+            "text": "observant and thoughtful, he was given to asking sagacious questions",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sag",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 sagāx(날카로운 감각의)에서 왔습니다. 냄새를 잘 맡는 사냥개처럼 통찰력이 예리하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sage",
+    "score": 23,
+    "zipf": 3.83,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having wisdom that comes with age and experience",
+        "ko": "현명한, 지혜로운",
+        "synonyms": [
+          "wise",
+          "judicious",
+          "prudent",
+          "sagacious"
+        ],
+        "examples": [
+          {
+            "text": "The senator offered sage advice to the newcomers, drawing on four decades of political experience.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a mentor in spiritual and philosophical topics who is renowned for profound wisdom",
+        "ko": "현인, 성현",
+        "synonyms": [
+          "wise man",
+          "guru",
+          "philosopher",
+          "mentor"
+        ],
+        "examples": [
+          {
+            "text": "Villagers traveled for days to consult the sage, who was famed for his wisdom.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sap"
+    ],
+    "origin": {
+      "ko": "라틴어 sapere(맛보다, 현명하다)에서 왔습니다. 맛을 분별하듯 사리를 분별하는 지혜입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "salient",
+    "score": 62,
+    "zipf": 3.12,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having a quality that thrusts itself into attention",
+        "ko": "두드러진, 가장 중요한",
+        "synonyms": [
+          "prominent",
+          "conspicuous",
+          "striking",
+          "outstanding",
+          "noticeable"
+        ],
+        "examples": [
+          {
+            "text": "The report's most salient finding was that wages had stagnated for a decade.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Worthy of note; pertinent or relevant.",
+        "ko": "요점이 되는, 핵심적인",
+        "synonyms": [
+          "pertinent",
+          "relevant",
+          "important",
+          "key"
+        ],
+        "examples": [
+          {
+            "text": "The article is not exhaustive, but it covers the salient points pretty well.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sal",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 saliēns(뛰어오르는)에서 왔습니다. 튀어나와 눈에 띄는 데서 두드러진, 핵심적인 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "salubrious",
+    "score": 64,
+    "zipf": 2.13,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "promoting health; healthful",
+        "ko": "건강에 좋은, 쾌적한",
+        "synonyms": [
+          "healthful",
+          "wholesome",
+          "salutary",
+          "beneficial"
+        ],
+        "examples": [
+          {
+            "text": "The doctor recommended the salubrious mountain air as a cure for the patient's chronic cough.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "salu",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 salūbris(건강한)에 -ous가 붙었습니다. 건강에 좋다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "salutary",
+    "score": 35,
+    "zipf": 2.41,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Effecting or designed to effect an improvement; remedial.",
+        "ko": "유익한, 교정적인",
+        "synonyms": [
+          "beneficial",
+          "remedial",
+          "advantageous",
+          "wholesome"
+        ],
+        "examples": [
+          {
+            "text": "salutary advice",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "salu",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "라틴어 salus(건강)에서 온 salutaris에서 왔습니다. 건강을 되찾게 하는 이로운 효과를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sanctimonious",
+    "score": 67,
+    "zipf": 2.58,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "excessively or hypocritically pious",
+        "ko": "독실한 체하는, 위선적인",
+        "synonyms": [
+          "self-righteous",
+          "holier-than-thou",
+          "pharisaical",
+          "smug",
+          "hypocritical"
+        ],
+        "examples": [
+          {
+            "text": "The sanctimonious columnist lectured readers on morality while quietly ignoring the rules himself.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sanct",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 sanctus(거룩한)에서 나온 말입니다. 거룩한 척하는 위선을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sanction",
+    "score": 75,
+    "zipf": 3.43,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "official permission or approval",
+        "ko": "승인, 허가",
+        "synonyms": [
+          "approval",
+          "authorization",
+          "endorsement",
+          "imprimatur"
+        ],
+        "examples": [
+          {
+            "text": "The whalers had been operating in the contested waters off the island with sanction from the Japanese government.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A penalty, punishment, or some coercive measure, intended to ensure compliance; especially one adopted by several nations, or by an international body.",
+        "ko": "제재, 처벌",
+        "synonyms": [
+          "penalty",
+          "punishment",
+          "embargo",
+          "boycott"
+        ],
+        "examples": [
+          {
+            "text": "The United States enacted a new round of sanctions against the apartheid regime of South Africa.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "give authority or permission to",
+        "ko": "승인하다, 허가하다",
+        "synonyms": [
+          "approve",
+          "authorize",
+          "endorse",
+          "permit"
+        ],
+        "examples": [
+          {
+            "text": "The board refused to sanction the merger until regulators completed their review.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sanct",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 sānctiō(법령, 확정)에서 왔습니다. 법적으로 확정된 승인이라는 뜻이며 제재의 뜻도 갖게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sangfroid",
+    "score": 23,
+    "zipf": 1.22,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Composure, self-possession or imperturbability especially when in a dangerous situation.",
+        "ko": "침착, 냉정, 태연함",
+        "synonyms": [
+          "composure",
+          "aplomb",
+          "poise",
+          "equanimity",
+          "unflappability"
+        ],
+        "examples": [
+          {
+            "text": "He handled the stressful situation with great sangfroid.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 sang-froid에서 왔고 '차가운 피'를 뜻합니다. 피가 차분하다는 이미지에서 침착함이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sanguine",
+    "score": 82,
+    "zipf": 2.74,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "confidently optimistic and cheerful",
+        "ko": "낙천적인, 자신감 있는",
+        "synonyms": [
+          "optimistic",
+          "hopeful",
+          "confident",
+          "buoyant",
+          "upbeat"
+        ],
+        "examples": [
+          {
+            "text": "I'm sanguine about the eventual success of the project.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "inclined to a healthy reddish color often associated with outdoor life",
+        "ko": "혈색 좋은, 붉은 얼굴의",
+        "synonyms": [
+          "ruddy",
+          "rubicund",
+          "florid"
+        ],
+        "examples": [
+          {
+            "text": "The old sailor's sanguine complexion spoke of decades spent at sea in all weathers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sangu",
+      "-ine"
+    ],
+    "origin": {
+      "ko": "라틴어 sanguis(피)에서 왔습니다. 중세 의학에서 피가 많으면 명랑하고 낙천적이라고 여겼습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sap",
+    "score": 25,
+    "zipf": 3.6,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To gradually drain (someone's energy or vitality).",
+        "ko": "서서히 약화시키다, 기력을 빼앗다",
+        "synonyms": [
+          "drain",
+          "deplete",
+          "exhaust",
+          "undermine",
+          "weaken"
+        ],
+        "examples": [
+          {
+            "text": "The relentless humidity sapped the hikers' energy long before they reached the summit.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A naive person; a simpleton.",
+        "ko": "멍청이, 호구",
+        "synonyms": [
+          "fool",
+          "simpleton",
+          "dupe",
+          "patsy"
+        ],
+        "examples": [
+          {
+            "text": "Don't be a sap and believe every promise the salesman makes.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a watery solution of sugars, salts, and minerals that circulates through the vascular system of a plant",
+        "ko": "수액",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "In early spring the maple's sap begins to rise, and farmers tap the trunks to collect it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 sæp(수액)에서 왔습니다. 동사 sap은 프랑스어에서 온 별개의 말로, 땅굴을 파 무너뜨리듯 서서히 약화시킨다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sardonic",
+    "score": 67,
+    "zipf": 2.58,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "disdainfully or ironically humorous; scornful and mocking",
+        "ko": "냉소적인, 비웃는",
+        "synonyms": [
+          "mocking",
+          "sarcastic",
+          "cynical",
+          "derisive",
+          "scornful"
+        ],
+        "examples": [
+          {
+            "text": "He distances himself from people with his nasty, sardonic laughter.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 sardonios에서 왔습니다. 사르데냐 식물을 먹으면 얼굴이 일그러져 비웃는 듯하다는 설이 있습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sartorial",
+    "score": 35,
+    "zipf": 2.36,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of or relating to a tailor or to tailoring",
+        "ko": "옷차림의, 재단의",
+        "synonyms": [
+          "tailoring",
+          "vestiary"
+        ],
+        "examples": [
+          {
+            "text": "His sartorial rebellions were slight: he wore jeans, for example, when giving tutorials.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sart",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 sartor(재단사)에서 왔고, sarcire(깁다)에서 나왔습니다. 재단과 옷차림에 관한 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sate",
+    "score": 35,
+    "zipf": 2.58,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "fill to satisfaction",
+        "ko": "충분히 만족시키다, 물리게 하다",
+        "synonyms": [
+          "satiate",
+          "satisfy",
+          "gratify",
+          "slake",
+          "glut"
+        ],
+        "examples": [
+          {
+            "text": "At last he stopped, his hunger and thirst sated.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sat"
+    ],
+    "origin": {
+      "ko": "옛 영어 sade(물리다)에서 왔고, satiate 같은 말의 영향을 받아 모양이 바뀌었습니다. 배불리 채운다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "satiate",
+    "score": 50,
+    "zipf": 2.25,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To satisfy to excess. To fill to satiety.",
+        "ko": "물리도록 채우다, 포식시키다",
+        "synonyms": [
+          "glut",
+          "surfeit",
+          "cloy",
+          "gorge",
+          "sate"
+        ],
+        "examples": [
+          {
+            "text": "The lavish banquet satiated the guests so thoroughly that none could manage dessert.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To fill to satisfaction; to satisfy.",
+        "ko": "충분히 만족시키다",
+        "synonyms": [
+          "satisfy",
+          "sate",
+          "slake",
+          "quench"
+        ],
+        "examples": [
+          {
+            "text": "Nothing seemed to satiate her desire for knowledge.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sat",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 satis(충분한)에서 온 satiāre에서 왔습니다. 충분을 넘도록 채운다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "satire",
+    "score": 25,
+    "zipf": 3.65,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a genre of literature and performing arts, in which shortcomings are held up to ridicule, ideally with the intent of shaming others",
+        "ko": "풍자(문학)",
+        "synonyms": [
+          "parody",
+          "lampoon",
+          "burlesque",
+          "irony"
+        ],
+        "examples": [
+          {
+            "text": "Swift's Gulliver's Travels is often read as satire aimed at the political follies of his age.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A satirical work.",
+        "ko": "풍자 작품",
+        "synonyms": [
+          "lampoon",
+          "parody",
+          "spoof"
+        ],
+        "examples": [
+          {
+            "text": "a stinging satire of American politics.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sat"
+    ],
+    "origin": {
+      "ko": "라틴어 lanx satura(가득 담은 접시)에서 왔습니다. 여러 소재를 뒤섞은 글이 풍자문학이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "satirical",
+    "score": 27,
+    "zipf": 3.36,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "exposing human folly to ridicule",
+        "ko": "풍자적인",
+        "synonyms": [
+          "satiric",
+          "mocking",
+          "ironic",
+          "sardonic"
+        ],
+        "examples": [
+          {
+            "text": "a persistent campaign of mockery by the satirical fortnightly magazine",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sat",
+      "-ical"
+    ],
+    "origin": {
+      "ko": "satire에 -ical이 붙은 말로, 풍자하는 성질을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "saturate",
+    "score": 35,
+    "zipf": 2.57,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "infuse or fill completely",
+        "ko": "흠뻑 적시다, 가득 채우다",
+        "synonyms": [
+          "soak",
+          "drench",
+          "impregnate",
+          "permeate",
+          "imbue"
+        ],
+        "examples": [
+          {
+            "text": "Modern television is saturated with violence.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To cause to become completely permeated with, or soaked (especially with a liquid).",
+        "ko": "흠뻑 젖게 하다",
+        "synonyms": [
+          "drench",
+          "soak",
+          "douse"
+        ],
+        "examples": [
+          {
+            "text": "Rain saturated their clothes.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sat",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 satur(가득 찬)에서 온 saturāre에서 왔습니다. 빈틈없이 가득 채워 흠뻑 적신다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "saturnine",
+    "score": 44,
+    "zipf": 1.74,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing a brooding ill humor",
+        "ko": "음울한, 침울한",
+        "synonyms": [
+          "gloomy",
+          "morose",
+          "dour",
+          "sullen",
+          "glum"
+        ],
+        "examples": [
+          {
+            "text": "The saturnine professor rarely smiled and answered most questions with a weary grunt.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ine"
+    ],
+    "origin": {
+      "ko": "로마 신 사투르누스(토성)에서 왔습니다. 토성의 영향을 받은 사람은 음울하다고 믿었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "savant",
+    "score": 50,
+    "zipf": 2.71,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A person of learning, especially one who is versed in literature or science.",
+        "ko": "학자, 석학",
+        "synonyms": [
+          "scholar",
+          "sage",
+          "pundit",
+          "erudite"
+        ],
+        "examples": [
+          {
+            "text": "The young savant astonished the faculty with his command of ancient languages and modern physics.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sap"
+    ],
+    "origin": {
+      "ko": "프랑스어 savant(아는 사람)에서 왔고, 라틴어 sapere에서 나왔습니다. 많이 아는 학자를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "savor",
+    "score": 31,
+    "zipf": 2.98,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "derive or receive pleasure from; get enjoyment from; take pleasure in",
+        "ko": "음미하다, 즐기다",
+        "synonyms": [
+          "relish",
+          "enjoy",
+          "appreciate",
+          "delight in"
+        ],
+        "examples": [
+          {
+            "text": "After years of hard work, she paused to savor her victory.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "have flavor; taste of something",
+        "ko": "~의 기미가 있다, 맛이 나다",
+        "synonyms": [
+          "taste",
+          "smack"
+        ],
+        "examples": [
+          {
+            "text": "His praise savored of condescension, leaving the young writer more insulted than flattered.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sap"
+    ],
+    "origin": {
+      "ko": "라틴어 sapor(맛)에서 온 말로 알려져 있습니다. 맛을 음미한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "savvy",
+    "score": 25,
+    "zipf": 3.56,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Shrewd, well-informed and perceptive.",
+        "ko": "요령 있는, 영리한, 정통한",
+        "synonyms": [
+          "shrewd",
+          "astute",
+          "knowledgeable",
+          "canny"
+        ],
+        "examples": [
+          {
+            "text": "A savvy investor, she sold her shares months before the market began to decline.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the cognitive condition of someone who understands",
+        "ko": "실용적 지식, 요령",
+        "synonyms": [
+          "understanding",
+          "discernment",
+          "know-how",
+          "shrewdness"
+        ],
+        "examples": [
+          {
+            "text": "Her political savvy helped the campaign navigate a series of unexpected crises.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sap"
+    ],
+    "origin": {
+      "ko": "포르투갈어 sabe(안다)에서 온 크리올어를 거쳐 영어에 들어왔고, 라틴어 sapere에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

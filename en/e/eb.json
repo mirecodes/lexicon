@@ -1,0 +1,116 @@
+[
+  {
+    "word": "ebb",
+    "score": 31,
+    "zipf": 3.04,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "fall away or decline",
+        "ko": "쇠퇴하다, 점차 줄다",
+        "synonyms": [
+          "wane",
+          "recede",
+          "decline",
+          "subside"
+        ],
+        "examples": [
+          {
+            "text": "The patient's strength ebbed away",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a gradual decline (in size or strength or power or number)",
+        "ko": "쇠퇴, 감퇴",
+        "synonyms": [
+          "wane",
+          "decline",
+          "ebbing"
+        ],
+        "examples": [
+          {
+            "text": "Painting was then at its lowest ebb.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "flow back or recede",
+        "ko": "썰물이 되다, 빠지다",
+        "synonyms": [
+          "recede",
+          "retreat",
+          "flow back"
+        ],
+        "examples": [
+          {
+            "text": "the tides ebbed at noon",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 ebba(썰물)에서 왔습니다. 물이 빠지듯 점차 줄어든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ebullient",
+    "score": 81,
+    "zipf": 2.17,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "joyously unrestrained",
+        "ko": "열광적인, 활기가 넘치는",
+        "synonyms": [
+          "exuberant",
+          "high-spirited",
+          "effervescent",
+          "exultant"
+        ],
+        "examples": [
+          {
+            "text": "Marina's oddly ebullient words seemed to come to her slow as balloons",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "bull",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 ēbulliō(끓어오르다)에서 왔습니다. 기쁨이 보글보글 끓어오르는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

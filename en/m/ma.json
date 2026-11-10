@@ -1,0 +1,1944 @@
+[
+  {
+    "word": "macabre",
+    "score": 48,
+    "zipf": 2.93,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "shockingly repellent; inspiring horror",
+        "ko": "섬뜩한, 소름 끼치는",
+        "synonyms": [
+          "ghastly",
+          "gruesome",
+          "grisly",
+          "grim"
+        ],
+        "examples": [
+          {
+            "text": "The museum's macabre exhibit of medieval torture devices left many visitors visibly shaken.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Obsessed with death or the gruesome.",
+        "ko": "죽음에 집착하는, 음산한",
+        "synonyms": [
+          "morbid",
+          "ghoulish"
+        ],
+        "examples": [
+          {
+            "text": "The novelist's macabre fascination with funerals shaped every chapter of her debut.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 danse macabre '죽음의 무도'에서 왔다고 하며, 정확한 어원은 불확실합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "machinate",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To devise a plot or secret plan; to conspire.",
+        "ko": "음모를 꾸미다, 획책하다",
+        "synonyms": [
+          "plot",
+          "conspire",
+          "scheme",
+          "contrive"
+        ],
+        "examples": [
+          {
+            "text": "Had she already managed to machinate a cushy job for her husband?",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "machin",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 machinor '꾀하다'에서 왔고 māchina(장치, 계략)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "machination",
+    "score": 59,
+    "zipf": 1.64,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a crafty and involved plot to achieve your (usually sinister) ends",
+        "ko": "음모, 책략",
+        "synonyms": [
+          "intrigue",
+          "plot",
+          "scheme",
+          "conspiracy"
+        ],
+        "examples": [
+          {
+            "text": "Historians have traced the downfall of the minister to the political machinations of his rivals.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "machin",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "프랑스어와 라틴어 māchinātiō에서 왔고 machinate(꾀하다)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "madrigal",
+    "score": 36,
+    "zipf": 2.47,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A song for a small number of unaccompanied voices; from 13th century Italy.",
+        "ko": "마드리갈(무반주 다성 성악곡)",
+        "synonyms": [
+          "partsong"
+        ],
+        "examples": [
+          {
+            "text": "The choir opened its Renaissance program with a madrigal sung without any instrumental accompaniment.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 madrigale에서 왔고 라틴어 mātrīcālis와 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "maelstrom",
+    "score": 50,
+    "zipf": 2.69,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A chaotic or turbulent situation.",
+        "ko": "대혼란, 소용돌이 같은 상황",
+        "synonyms": [
+          "turmoil",
+          "pandemonium",
+          "chaos",
+          "tumult"
+        ],
+        "examples": [
+          {
+            "text": "He escaped at last, dizzy from the maelstrom of conflicting emotions that had caught and whirled him.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a powerful circular current of water (usually the result of conflicting tides)",
+        "ko": "큰 소용돌이",
+        "synonyms": [
+          "whirlpool",
+          "vortex"
+        ],
+        "examples": [
+          {
+            "text": "Sailors in the strait feared the maelstrom that formed whenever opposing tides collided.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "네덜란드어 malen '빙빙 돌다'와 stroom '물살'이 합쳐졌습니다. 노르웨이 앞바다의 거대한 소용돌이 이름에서 '대혼란'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "magisterial",
+    "score": 68,
+    "zipf": 2.46,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "offensively self-assured or given to exercising usually unwarranted power",
+        "ko": "오만한, 권위적인",
+        "synonyms": [
+          "domineering",
+          "peremptory",
+          "imperious",
+          "autocratic"
+        ],
+        "examples": [
+          {
+            "text": "The critic's magisterial tone suggested that no other reading of the poem could possibly be valid.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Befitting the status or skill of a magister or master; authoritative, masterly.",
+        "ko": "권위 있는, 대가다운",
+        "synonyms": [
+          "authoritative",
+          "masterly",
+          "commanding"
+        ],
+        "examples": [
+          {
+            "text": "Her magisterial survey of the period remains the standard reference for graduate students.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "후기 라틴어 magisterialis에서 왔고 라틴어 magisterium '스승의 직분'과 이어집니다. 스승 같은 권위를 내세우는 태도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "magnanimous",
+    "score": 83,
+    "zipf": 2.61,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "noble and generous in spirit",
+        "ko": "도량이 넓은, 관대한",
+        "synonyms": [
+          "generous",
+          "big-hearted",
+          "large-hearted",
+          "unselfish"
+        ],
+        "examples": [
+          {
+            "text": "The magnanimous victor praised his defeated opponent and refused to gloat over the result.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "magn",
+      "anim",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 magnanimus에서 왔고 magnus(큰)와 animus(마음)가 합쳐졌습니다. 마음이 크니 '도량이 넓은'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "magnate",
+    "score": 47,
+    "zipf": 3.04,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a very wealthy or powerful businessperson",
+        "ko": "거물, 실업계의 큰손",
+        "synonyms": [
+          "tycoon",
+          "mogul",
+          "baron"
+        ],
+        "examples": [
+          {
+            "text": "The shipping magnate donated millions to the new maritime museum.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "magn"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 magnātēs에서 왔고 magnus(큰)에서 나왔습니다. 큰 인물, 곧 거물입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "maintain",
+    "score": 16,
+    "zipf": 4.65,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To declare or affirm (a clause) to be true; to assert.",
+        "ko": "주장하다, 단언하다",
+        "synonyms": [
+          "assert",
+          "contend",
+          "insist",
+          "affirm"
+        ],
+        "examples": [
+          {
+            "text": "The defendant maintained his innocence throughout the lengthy trial.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cause to continue in a certain state, position, or activity",
+        "ko": "유지하다, 지속하다",
+        "synonyms": [
+          "keep",
+          "sustain",
+          "preserve"
+        ],
+        "examples": [
+          {
+            "text": "maintain contact",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "man",
+      "ten(잡다)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 maintenir에서 왔고 라틴어 manū tenēre '손으로 붙들다'와 이어집니다. 손에 쥐고 놓지 않으니 '주장하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "majority",
+    "score": 16,
+    "zipf": 4.94,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the property resulting from being or relating to the greater in number of two parts; the main part",
+        "ko": "대다수, 과반",
+        "synonyms": [
+          "bulk",
+          "preponderance"
+        ],
+        "examples": [
+          {
+            "text": "The majority of his customers prefer it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Legal adulthood, age of majority.",
+        "ko": "성년, 법적 성인 연령",
+        "synonyms": [
+          "adulthood"
+        ],
+        "examples": [
+          {
+            "text": "The heir would not control the estate until he reached his majority at twenty-one.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "magn",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "프랑스어와 중세 라틴어를 거쳐 라틴어 maior '더 큰'에서 왔습니다. 수가 더 큰 쪽이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "makeshift",
+    "score": 45,
+    "zipf": 3.18,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "done or made using whatever is available",
+        "ko": "임시변통의, 급조한",
+        "synonyms": [
+          "improvised",
+          "stopgap",
+          "temporary",
+          "jury-rigged"
+        ],
+        "examples": [
+          {
+            "text": "They used the ledge and a few branches for a makeshift shelter.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "make shift(임시변통하다)에서 나온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "maladroit",
+    "score": 28,
+    "zipf": 1.71,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Not adroit; awkward, clumsy, inept.",
+        "ko": "서투른, 어설픈",
+        "synonyms": [
+          "clumsy",
+          "inept",
+          "awkward",
+          "bungling"
+        ],
+        "examples": [
+          {
+            "text": "His maladroit handling of the negotiations alienated both allies and opponents.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mal-"
+    ],
+    "origin": {
+      "ko": "프랑스어 maladroit에서 왔고 mal-(나쁘게)과 adroit(솜씨 좋은)가 합쳐졌습니다. 솜씨가 서투르다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "malady",
+    "score": 36,
+    "zipf": 2.55,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Any ailment or disease of the body; especially, a lingering or deep-seated disorder.",
+        "ko": "질병, 고질병",
+        "synonyms": [
+          "illness",
+          "ailment",
+          "disease",
+          "affliction"
+        ],
+        "examples": [
+          {
+            "text": "The village doctor could not identify the strange malady that had weakened so many residents.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "any unwholesome or desperate condition",
+        "ko": "병폐, 폐단",
+        "synonyms": [
+          "ill",
+          "affliction"
+        ],
+        "examples": [
+          {
+            "text": "Economists often cite corruption as the chief malady of the fragile young democracy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mal-",
+      "hab"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 maladie '병'에서 왔고 라틴어 male habitus '상태가 나쁜'과 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "malaise",
+    "score": 33,
+    "zipf": 2.84,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An ambiguous feeling of mental or moral depression.",
+        "ko": "막연한 불안감, 침체감",
+        "synonyms": [
+          "melancholy",
+          "angst",
+          "lethargy",
+          "unease"
+        ],
+        "examples": [
+          {
+            "text": "A deep malaise settled over the company after the third round of layoffs.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A feeling of general bodily discomfort, fatigue or unpleasantness, often at the onset of illness.",
+        "ko": "불쾌감, 몸이 나른한 증상",
+        "synonyms": [
+          "unease",
+          "discomfort"
+        ],
+        "examples": [
+          {
+            "text": "She felt a vague malaise all morning before the fever finally set in.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mal-"
+    ],
+    "origin": {
+      "ko": "프랑스어 malaise에서 왔고 mal-(나쁜)과 aise(편안함)가 합쳐졌습니다. 편치 않은 기분입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "malapropism",
+    "score": 25,
+    "zipf": 1.39,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The blundering use of an absurdly inappropriate word or expression in place of a similar-sounding one.",
+        "ko": "비슷한 소리의 말로 잘못 쓰는 우스꽝스러운 실수",
+        "synonyms": [
+          "malaprop",
+          "solecism"
+        ],
+        "examples": [
+          {
+            "text": "The script employed malapropism to great effect.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mal-",
+      "-ism"
+    ],
+    "origin": {
+      "ko": "셰리든의 희곡 속 인물 Mrs. Malaprop의 이름에서 왔습니다. 이름은 프랑스어 mal à propos '부적절하게'에서 만든 것으로 보입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "malcontent",
+    "score": 32,
+    "zipf": 2.05,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A person who is not satisfied with current conditions; a discontented person, a rebel.",
+        "ko": "불평분자, 불만을 품은 사람",
+        "synonyms": [
+          "rebel",
+          "dissident",
+          "grumbler",
+          "agitator"
+        ],
+        "examples": [
+          {
+            "text": "The regime tried to silence every malcontent who dared to criticize its economic policies.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "discontented as toward authority",
+        "ko": "불만을 품은, 반항적인",
+        "synonyms": [
+          "disaffected",
+          "rebellious",
+          "discontented"
+        ],
+        "examples": [
+          {
+            "text": "A malcontent faction within the party plotted to unseat its leader.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mal-"
+    ],
+    "origin": {
+      "ko": "중세 프랑스어 malcontent에서 왔고 mal-과 content(만족한)가 합쳐졌습니다. 만족하지 못하는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "malediction",
+    "score": 43,
+    "zipf": 1.57,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A curse.",
+        "ko": "저주, 악담",
+        "synonyms": [
+          "curse",
+          "imprecation",
+          "anathema"
+        ],
+        "examples": [
+          {
+            "text": "The exiled prince hurled a bitter malediction at the court that had betrayed him.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mal-",
+      "dic",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 maledictiō에서 왔고 malus(나쁜)와 dictiō(말)가 합쳐졌습니다. 나쁜 말을 퍼붓는 '저주'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "malevolent",
+    "score": 80,
+    "zipf": 2.92,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having or displaying ill will; wishing harm on others.",
+        "ko": "악의적인, 적의를 품은",
+        "synonyms": [
+          "malicious",
+          "spiteful",
+          "hostile",
+          "malign"
+        ],
+        "examples": [
+          {
+            "text": "The villain fixed the hero with a malevolent stare before slipping out of the room.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having or exerting a malignant influence",
+        "ko": "해로운 영향을 미치는",
+        "synonyms": [
+          "malefic",
+          "malign",
+          "baleful"
+        ],
+        "examples": [
+          {
+            "text": "malevolent stars",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mal-",
+      "vol(원하다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 male(나쁘게)과 volens(바라는)가 합쳐졌습니다. 남에게 나쁜 일을 바라는 마음입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "malfeasance",
+    "score": 51,
+    "zipf": 2.6,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Misconduct or wrongdoing, especially by a public official and causing damage.",
+        "ko": "(공무원의) 위법 행위, 비행",
+        "synonyms": [
+          "misconduct",
+          "wrongdoing",
+          "misdeed",
+          "corruption"
+        ],
+        "examples": [
+          {
+            "text": "By then, Mr. Altman had gathered more allies. Mr. Nadella, now confident that Mr. Altman was not guilty of malfeasance, threw Microsoft’s weight behind him.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mal-",
+      "fac(만들다)",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 malfaire '악행을 하다'에서 왔고 라틴어 malefaciō와 이어집니다. 나쁜 짓을 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "malice",
+    "score": 44,
+    "zipf": 3.34,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Intention to harm or deprive in an illegal or immoral way. Desire to take pleasure in another's misfortune.",
+        "ko": "악의, 적의",
+        "synonyms": [
+          "spite",
+          "ill will",
+          "venom",
+          "malevolence"
+        ],
+        "examples": [
+          {
+            "text": "Your voice positively drips malice.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mal-"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어를 거쳐 라틴어 malitia '못됨, 악의'에서 왔고 malus(나쁜)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "malign",
+    "score": 35,
+    "zipf": 2.59,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To make defamatory statements about; to slander or traduce.",
+        "ko": "비방하다, 중상하다",
+        "synonyms": [
+          "slander",
+          "defame",
+          "traduce",
+          "disparage",
+          "denigrate"
+        ],
+        "examples": [
+          {
+            "text": "The senator accused the press of maligning him with unsubstantiated rumors.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "evil or harmful in nature or influence",
+        "ko": "해로운, 악의 있는",
+        "synonyms": [
+          "malevolent",
+          "baleful",
+          "pernicious"
+        ],
+        "examples": [
+          {
+            "text": "prompted by malign motives",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mal-",
+      "gen"
+    ],
+    "origin": {
+      "ko": "라틴어 malignus에서 왔고 malus(나쁜)와 genus(종류)가 합쳐졌습니다. 성질이 나쁘다는 데서 남을 헐뜯는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "malinger",
+    "score": 39,
+    "zipf": 1.18,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To feign illness, injury, or incapacitation in order to avoid work, obligation, or perilous risk.",
+        "ko": "꾀병을 부리다",
+        "synonyms": [
+          "shirk",
+          "feign",
+          "skulk"
+        ],
+        "examples": [
+          {
+            "text": "It is not uncommon on exam days for several students to malinger rather than prepare themselves.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 malingre '허약한'에서 온 malingrer에서 왔습니다. 허약한 척한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "malingerer",
+    "score": 25,
+    "zipf": 1.36,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone shirking their duty by feigning illness or incapacity",
+        "ko": "꾀병 부리는 사람",
+        "synonyms": [
+          "shirker",
+          "skulker",
+          "slacker",
+          "shammer"
+        ],
+        "examples": [
+          {
+            "text": "The army doctor quickly exposed the recruit as a malingerer faking a back injury.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "malinger(꾀병 부리다)에 '~하는 사람'을 뜻하는 -er이 붙었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "malleable",
+    "score": 97,
+    "zipf": 2.82,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "easily influenced",
+        "ko": "영향받기 쉬운, 순응적인",
+        "synonyms": [
+          "pliable",
+          "impressionable",
+          "tractable",
+          "docile"
+        ],
+        "examples": [
+          {
+            "text": "Young children have malleable minds that readily absorb the attitudes of those around them.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "capable of being shaped or bent or drawn out",
+        "ko": "(금속 등이) 전성이 있는, 가단성의",
+        "synonyms": [
+          "ductile",
+          "pliable",
+          "pliant",
+          "plastic"
+        ],
+        "examples": [
+          {
+            "text": "malleable metals such as gold",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mall",
+      "-able"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 malleābilis에서 왔고 malleus(망치)에서 나왔습니다. 망치질로 모양이 바뀌듯 쉽게 영향을 받습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "malodorous",
+    "score": 45,
+    "zipf": 1.83,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having an unpleasant smell",
+        "ko": "악취가 나는",
+        "synonyms": [
+          "foul-smelling",
+          "fetid",
+          "stinking",
+          "rank"
+        ],
+        "examples": [
+          {
+            "text": "There were malodorous garbage bags aplenty outside her house.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mal-",
+      "odor",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "mal-(나쁜), odor(냄새), -ous가 합쳐진 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "manacle",
+    "score": 25,
+    "zipf": 1.42,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "shackle that consists of a metal loop that can be locked around the wrist; usually used in pairs",
+        "ko": "수갑, 족쇄",
+        "synonyms": [
+          "handcuff",
+          "shackle",
+          "fetter"
+        ],
+        "examples": [
+          {
+            "text": "The guards removed the manacles from the prisoner's wrists before he entered the courtroom.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "confine or restrain with or as if with manacles or handcuffs",
+        "ko": "수갑을 채우다, 속박하다",
+        "synonyms": [
+          "handcuff",
+          "shackle",
+          "fetter"
+        ],
+        "examples": [
+          {
+            "text": "Guards manacled the prisoner at the wrists before leading him down to the cells.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "man"
+    ],
+    "origin": {
+      "ko": "라틴어 manicula '쟁기 손잡이, 수갑'에서 왔고 manus(손)에서 나왔습니다. 손을 묶는 쇠고랑입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "manifest",
+    "score": 56,
+    "zipf": 3.68,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "clearly revealed to the mind or the senses or judgment",
+        "ko": "명백한, 분명한",
+        "synonyms": [
+          "apparent",
+          "evident",
+          "obvious",
+          "patent",
+          "palpable"
+        ],
+        "examples": [
+          {
+            "text": "The effects of the drought were manifest to anyone who saw the parched and cracked fields.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To become manifest; to be revealed.",
+        "ko": "나타나다, 드러나다",
+        "synonyms": [
+          "appear",
+          "emerge",
+          "surface"
+        ],
+        "examples": [
+          {
+            "text": "His osteoporosis first manifested as pain in his hips.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes",
+        "ko": "(증거로) 보여주다, 나타내다",
+        "synonyms": [
+          "demonstrate",
+          "evince",
+          "display",
+          "exhibit"
+        ],
+        "examples": [
+          {
+            "text": "The buildings in Rome manifest a high level of architectural sophistication",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "man"
+    ],
+    "origin": {
+      "ko": "라틴어 manifestus '손에 잡힐 듯한'에서 왔습니다. 손으로 만질 수 있을 만큼 분명하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "manifestation",
+    "score": 27,
+    "zipf": 3.43,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a manifest indication of the existence or presence or nature of some person or thing",
+        "ko": "(존재·성질의) 표명, 징후",
+        "synonyms": [
+          "indication",
+          "sign",
+          "expression",
+          "symptom"
+        ],
+        "examples": [
+          {
+            "text": "a manifestation of disease",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The embodiment of an intangible, or variable thing.",
+        "ko": "구현된 모습, 현현",
+        "synonyms": [
+          "embodiment",
+          "incarnation"
+        ],
+        "examples": [
+          {
+            "text": "This particular manifestation resembled a young girl crying.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "man"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 manifestātiō에서 왔고 manifest에 -ation이 붙었습니다. 겉으로 분명히 드러냄을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mannered",
+    "score": 47,
+    "zipf": 3.04,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having unnatural mannerisms",
+        "ko": "부자연스러운, 가식적인",
+        "synonyms": [
+          "affected",
+          "artificial",
+          "stilted",
+          "pretentious"
+        ],
+        "examples": [
+          {
+            "text": "The actor's mannered delivery made every line sound rehearsed and oddly lifeless.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "manner(태도)에 -ed가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "manumit",
+    "score": 24,
+    "zipf": 1.32,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To release (someone) from slavery; to free.",
+        "ko": "노예를 해방하다",
+        "synonyms": [
+          "emancipate",
+          "liberate",
+          "free",
+          "enfranchise"
+        ],
+        "examples": [
+          {
+            "text": "In his will, the planter chose to manumit every enslaved person on his estate.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "man",
+      "mit(보내다)"
+    ],
+    "origin": {
+      "ko": "라틴어 manūmittere '손에서 내보내다'에서 왔습니다. 주인의 손에서 놓아 보낸다는 데서 '노예 해방'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mar",
+    "score": 35,
+    "zipf": 4.19,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make imperfect",
+        "ko": "망치다, 손상하다",
+        "synonyms": [
+          "spoil",
+          "impair",
+          "blemish",
+          "vitiate",
+          "ruin"
+        ],
+        "examples": [
+          {
+            "text": "A series of petty disputes marred what should have been a triumphant conference.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 mierran '망치다, 방해하다'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "maraud",
+    "score": 24,
+    "zipf": 1.31,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To move about in roving fashion looking for plunder; to loiter.",
+        "ko": "약탈하러 돌아다니다",
+        "synonyms": [
+          "plunder",
+          "pillage",
+          "raid",
+          "ravage"
+        ],
+        "examples": [
+          {
+            "text": "Bands of deserters marauded through the countryside, stealing grain and livestock from frightened farmers.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 marauder에서 왔고 maraud '악당, 방랑자'에서 나왔습니다. 떠돌며 약탈하는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "marginalize",
+    "score": 35,
+    "zipf": 2.38,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "relegate to a lower or outer edge, as of specific groups of people",
+        "ko": "소외시키다, 주변으로 밀어내다",
+        "synonyms": [
+          "sideline",
+          "exclude",
+          "ostracize",
+          "disenfranchise"
+        ],
+        "examples": [
+          {
+            "text": "We must not marginalize the poor in our society",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "marg",
+      "-ize"
+    ],
+    "origin": {
+      "ko": "margin(가장자리)에 -ize가 붙은 말입니다. 가장자리로 밀어낸다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "martial",
+    "score": 36,
+    "zipf": 4.06,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Of, relating to, or suggestive of war; warlike.",
+        "ko": "전쟁의, 호전적인",
+        "synonyms": [
+          "warlike",
+          "bellicose",
+          "military",
+          "soldierly"
+        ],
+        "examples": [
+          {
+            "text": "The parade's martial music and marching columns stirred a fierce patriotic mood in the crowd.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 Mārtiālis '전쟁의 신 마르스의'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "martinet",
+    "score": 64,
+    "zipf": 2.07,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A strict disciplinarian.",
+        "ko": "엄격한 규율주의자",
+        "synonyms": [
+          "disciplinarian",
+          "stickler",
+          "taskmaster",
+          "tyrant"
+        ],
+        "examples": [
+          {
+            "text": "The new principal proved a martinet who punished students for the smallest breach of the dress code.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "17세기 프랑스 군 장교 장 마르티네의 이름에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "masticate",
+    "score": 25,
+    "zipf": 1.37,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "chew (food); to bite and grind with the teeth",
+        "ko": "씹다, 저작하다",
+        "synonyms": [
+          "chew",
+          "munch",
+          "champ"
+        ],
+        "examples": [
+          {
+            "text": "The cow stood, quietly masticating its cud.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 masticō '씹다'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "matriarch",
+    "score": 34,
+    "zipf": 2.71,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A female leader of a family, a tribe or an ethnic or religious group.",
+        "ko": "여가장, 여성 우두머리",
+        "synonyms": [
+          "materfamilias",
+          "grande dame"
+        ],
+        "examples": [
+          {
+            "text": "The family matriarch presided over every holiday dinner and settled all disputes with a glance.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "matr",
+      "arch"
+    ],
+    "origin": {
+      "ko": "라틴어 māter(어머니)와 그리스어 -arkhēs(우두머리)가 합쳐졌습니다. 어머니가 이끄는 집안의 지도자입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "maudlin",
+    "score": 67,
+    "zipf": 2.39,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Extravagantly or excessively sentimental; mawkish, self-pitying.",
+        "ko": "감상이 지나친, 눈물 많은",
+        "synonyms": [
+          "mawkish",
+          "sentimental",
+          "mushy",
+          "weepy",
+          "soppy"
+        ],
+        "examples": [
+          {
+            "text": "The film slides into maudlin melodrama in its final act, lingering on every tearful farewell.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 Maudelen, 곧 마리아 막달레나의 방언형에서 왔습니다. 눈물짓는 모습으로 그려지던 데서 눈물 많은 감상이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "maul",
+    "score": 32,
+    "zipf": 2.9,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To savage; to cause serious physical wounds.",
+        "ko": "할퀴어 중상을 입히다",
+        "synonyms": [
+          "mangle",
+          "maim",
+          "savage",
+          "batter"
+        ],
+        "examples": [
+          {
+            "text": "The bear mauled him in a terrible way.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To criticise harshly.",
+        "ko": "혹평하다",
+        "synonyms": [
+          "excoriate",
+          "castigate",
+          "pillory",
+          "savage"
+        ],
+        "examples": [
+          {
+            "text": "The latest film by the Cohen brothers was mauled by the press, and was a box-office flop to boot.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 malle '철퇴'에서 왔고 라틴어 malleus '망치'와 이어집니다. 망치로 내리치듯 심하게 상처 입힌다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "maunder",
+    "score": 31,
+    "zipf": 1.97,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To speak in a disorganized or desultory manner; to babble or prattle.",
+        "ko": "두서없이 지껄이다",
+        "synonyms": [
+          "ramble",
+          "babble",
+          "prattle",
+          "drone"
+        ],
+        "examples": [
+          {
+            "text": "What are you maundering about? He's going out from here a free man and whole—he's not going to die.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To wander or walk aimlessly.",
+        "ko": "정처 없이 거닐다",
+        "synonyms": [
+          "meander",
+          "drift",
+          "dawdle"
+        ],
+        "examples": [
+          {
+            "text": "He maundered through the empty streets for hours, unable to decide where to go.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "maund '구걸하다'에서 나온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "maverick",
+    "score": 60,
+    "zipf": 3.33,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "One who is unconventional or does not abide by rules.",
+        "ko": "독불장군, 비순응주의자",
+        "synonyms": [
+          "nonconformist",
+          "individualist",
+          "rebel",
+          "iconoclast"
+        ],
+        "examples": [
+          {
+            "text": "Among historians he was a maverick because of his belief that history is meaningless.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "independent in behavior or thought",
+        "ko": "독자적인, 비정통의",
+        "synonyms": [
+          "unorthodox",
+          "independent",
+          "unconventional"
+        ],
+        "examples": [
+          {
+            "text": "The maverick senator frequently voted against her own party's leadership.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "소에 낙인을 찍지 않았던 텍사스 변호사 새뮤얼 매버릭의 이름에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mawkish",
+    "score": 46,
+    "zipf": 1.93,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Excessively or falsely sentimental; showing a sickly excess of sentiment.",
+        "ko": "감상적인, 느끼한",
+        "synonyms": [
+          "maudlin",
+          "sentimental",
+          "saccharine",
+          "treacly",
+          "mushy"
+        ],
+        "examples": [
+          {
+            "text": "The greeting card's mawkish verse made even its intended recipient wince.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "maxim",
+    "score": 59,
+    "zipf": 3.39,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A precept; a succinct statement or observation of a rule of conduct or moral teaching.",
+        "ko": "격언, 금언",
+        "synonyms": [
+          "adage",
+          "aphorism",
+          "axiom",
+          "precept",
+          "saw"
+        ],
+        "examples": [
+          {
+            "text": "The old maxim that honesty is the best policy guided the merchant throughout his career.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "후기 라틴어 maxima '공리'에서 왔고 라틴어 maximus '가장 큰'과 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

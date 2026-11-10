@@ -1,0 +1,40 @@
+[
+  {
+    "word": "aquiline",
+    "score": 28,
+    "zipf": 1.71,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "curved down like an eagle's beak",
+        "ko": "독수리 부리처럼 굽은, 매부리코의",
+        "synonyms": [
+          "hooked",
+          "curved",
+          "eaglelike"
+        ],
+        "examples": [
+          {
+            "text": "Frank's aquiline nose jutted out from underneath his glasses.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "aquil",
+      "-ine"
+    ],
+    "origin": {
+      "ko": "라틴어 aquilinus(독수리 같은)에서 왔고 aquila(독수리)에서 나왔습니다. 독수리 부리처럼 굽은 코를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "word": "equable",
+    "score": 27,
+    "zipf": 1.63,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not easily irritated",
+        "ko": "차분한, 침착한, 성격이 온화한",
+        "synonyms": [
+          "even-tempered",
+          "placid",
+          "calm",
+          "serene",
+          "unflappable"
+        ],
+        "examples": [
+          {
+            "text": "an equable temper",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not varying",
+        "ko": "변함없는, 한결같은, 고른",
+        "synonyms": [
+          "steady",
+          "uniform",
+          "constant",
+          "stable",
+          "even"
+        ],
+        "examples": [
+          {
+            "text": "The island's equable climate means temperatures rarely change much through the year.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "equ",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 aequābilis(고른, 한결같은)에서 왔습니다. aequus는 '평평한'이라는 뜻이며, 감정이 고르게 유지된다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "equanimity",
+    "score": 67,
+    "zipf": 2.4,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "steadiness of mind under stress",
+        "ko": "평정, 침착, 태연",
+        "synonyms": [
+          "composure",
+          "calm",
+          "poise",
+          "serenity",
+          "aplomb"
+        ],
+        "examples": [
+          {
+            "text": "he accepted their problems with composure and she with equanimity",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "equ",
+      "anim",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 aequanimitās에서 왔습니다. '고른 마음'이라는 뜻으로, 흔들리지 않는 평정을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "equitable",
+    "score": 59,
+    "zipf": 3.36,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "fair to all parties as dictated by reason and conscience",
+        "ko": "공정한, 공평한",
+        "synonyms": [
+          "fair",
+          "just",
+          "impartial",
+          "even-handed",
+          "unbiased"
+        ],
+        "examples": [
+          {
+            "text": "an equitable distribution of gifts among the children",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "equ",
+      "-able"
+    ],
+    "origin": {
+      "ko": "프랑스어 équitable에서 왔고, equity(공평)와 이어집니다. 모두에게 고르게 대한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "equivocal",
+    "score": 51,
+    "zipf": 2.37,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "open to two or more interpretations; or of uncertain nature or significance; or (often) intended to mislead",
+        "ko": "모호한, 애매한, 불분명한",
+        "synonyms": [
+          "ambiguous",
+          "vague",
+          "indeterminate",
+          "uncertain",
+          "evasive"
+        ],
+        "examples": [
+          {
+            "text": "an equivocal statement",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "open to question",
+        "ko": "의심스러운, 수상한",
+        "synonyms": [
+          "dubious",
+          "questionable",
+          "suspect",
+          "doubtful"
+        ],
+        "examples": [
+          {
+            "text": "The committee's equivocal conduct during the audit raised suspicions about its motives.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "equ",
+      "voc",
+      "-al"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 aequivocus(같은 이름으로 불리는)에서 왔습니다. 같은 말이 여러 뜻으로 들려 모호하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "equivocate",
+    "score": 60,
+    "zipf": 1.72,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be deliberately ambiguous or unclear in order to mislead or withhold information",
+        "ko": "얼버무리다, 모호하게 말하다",
+        "synonyms": [
+          "prevaricate",
+          "hedge",
+          "tergiversate",
+          "dodge",
+          "evade"
+        ],
+        "examples": [
+          {
+            "text": "Pressed about the missing funds, the treasurer began to equivocate and change the subject.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "equ",
+      "voc",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 aequivocāre(같은 이름으로 부르다)에서 왔습니다. 두 가지로 해석되는 말로 일부러 얼버무린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

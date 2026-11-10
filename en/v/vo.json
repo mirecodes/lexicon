@@ -1,0 +1,278 @@
+[
+  {
+    "word": "vociferous",
+    "score": 100,
+    "zipf": 2.45,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Making or characterized by a noisy outcry; clamorous.",
+        "ko": "소리 높여 외치는, 떠들썩한",
+        "synonyms": [
+          "clamorous",
+          "noisy",
+          "loud",
+          "strident"
+        ],
+        "examples": [
+          {
+            "text": "Vociferous protesters filled the square, chanting demands until the council agreed to meet them.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Vocally and forcefully opinionated.",
+        "ko": "강경하게 주장하는",
+        "synonyms": [
+          "outspoken",
+          "vehement",
+          "insistent"
+        ],
+        "examples": [
+          {
+            "text": "Not even the most vociferous advocates of reform were willing to go to such lengths.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "voc",
+      "fer",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 vōcifer('소리를 실어 나르는')에 -ous를 붙였습니다. 목소리를 크게 내뱉는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "volatile",
+    "score": 40,
+    "zipf": 3.72,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "tending to vary often or widely",
+        "ko": "변동이 심한, 불안정한",
+        "synonyms": [
+          "unstable",
+          "erratic",
+          "fluctuating",
+          "unpredictable"
+        ],
+        "examples": [
+          {
+            "text": "Investors avoided the volatile market, where prices swung wildly from one day to the next.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "liable to lead to sudden change or violence",
+        "ko": "일촉즉발의, 폭발하기 쉬운",
+        "synonyms": [
+          "explosive",
+          "tense",
+          "charged"
+        ],
+        "examples": [
+          {
+            "text": "Troops were sent to keep order in the volatile border region after the disputed election.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "evaporating readily at normal temperatures and pressures",
+        "ko": "휘발성의",
+        "synonyms": [
+          "evaporative"
+        ],
+        "examples": [
+          {
+            "text": "Volatile solvents such as acetone must be stored in sealed containers to prevent evaporation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vol(날다)",
+      "-ile"
+    ],
+    "origin": {
+      "ko": "라틴어 volātilis('날아다니는')에서 왔고 volō('날다')와 이어집니다. 날아가 버리듯 불안정한 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "volubility",
+    "score": 22,
+    "zipf": 1.07,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the quality of being facile in speech and writing",
+        "ko": "달변, 유창하고 말이 많음",
+        "synonyms": [
+          "fluency",
+          "garrulity",
+          "loquacity",
+          "talkativeness"
+        ],
+        "examples": [
+          {
+            "text": "His volubility at dinner parties often left others unable to get a word in.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "volv",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 volūbilitās에서 왔고 voluble에 -ity를 붙인 형태입니다. 말이 술술 굴러 나오는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "voluble",
+    "score": 79,
+    "zipf": 2.04,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by a ready flow of speech",
+        "ko": "말이 많은, 달변의",
+        "synonyms": [
+          "garrulous",
+          "talkative",
+          "loquacious",
+          "fluent",
+          "chatty"
+        ],
+        "examples": [
+          {
+            "text": "The voluble taxi driver told us his whole life story before we had even left the airport.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "volv",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 volūbilis('구르는')에서 왔고 volvō('굴리다')와 이어집니다. 말이 굴러가듯 막힘없이 나옵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "voracious",
+    "score": 33,
+    "zipf": 2.77,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having a great appetite for anything; eager.",
+        "ko": "탐욕스러운, 열렬한",
+        "synonyms": [
+          "insatiable",
+          "avid",
+          "eager",
+          "ravenous"
+        ],
+        "examples": [
+          {
+            "text": "a voracious reader",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "devouring or craving food in great quantities",
+        "ko": "게걸스럽게 먹는",
+        "synonyms": [
+          "ravenous",
+          "gluttonous",
+          "greedy",
+          "insatiable"
+        ],
+        "examples": [
+          {
+            "text": "After days in the mountains, the voracious hikers emptied every dish on the table.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vor",
+      "-acious"
+    ],
+    "origin": {
+      "ko": "라틴어 vorāx('게걸스러운')에 -acious를 붙였습니다. 먹을 것에 달려드는 식탐이 '탐욕스러운'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

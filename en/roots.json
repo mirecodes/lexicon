@@ -1,0 +1,3506 @@
+{
+"-able": {
+"type": "suffix",
+"ko": "~할 수 있는"
+},
+"-acious": {
+"type": "suffix",
+"ko": "~하는 경향의"
+},
+"-acity": {
+"type": "suffix",
+"ko": "~하는 성질"
+},
+"-acy": {
+"type": "suffix",
+"ko": "상태, 성질"
+},
+"-age": {
+"type": "suffix",
+"ko": "상태, 행위"
+},
+"-aire": {
+"type": "suffix",
+"ko": "~파"
+},
+"-al": {
+"type": "suffix",
+"ko": "~의"
+},
+"-an": {
+"type": "suffix",
+"ko": "~의, ~하는 사람"
+},
+"-ance": {
+"type": "suffix",
+"ko": "상태, 행위"
+},
+"-ane": {
+"type": "suffix",
+"ko": "~의"
+},
+"-ant": {
+"type": "suffix",
+"ko": "~하는"
+},
+"-ar": {
+"type": "suffix",
+"ko": "~의"
+},
+"-arch": {
+"type": "suffix",
+"ko": "우두머리"
+},
+"-arian": {
+"type": "suffix",
+"ko": "~주의자"
+},
+"-ary": {
+"type": "suffix",
+"ko": "~의, ~에 관한"
+},
+"-ate": {
+"type": "suffix",
+"ko": "~하다"
+},
+"-atic": {
+"type": "suffix",
+"ko": "~의"
+},
+"-ation": {
+"type": "suffix",
+"ko": "~함, 행위"
+},
+"-ative": {
+"type": "suffix",
+"ko": "~하는"
+},
+"-bund": {
+"type": "suffix",
+"ko": "~하려는"
+},
+"-cracy": {
+"type": "suffix",
+"ko": "통치, 지배"
+},
+"-er": {
+"type": "suffix",
+"ko": "~하는 사람"
+},
+"-esce": {
+"type": "suffix",
+"ko": "~해지기 시작하다"
+},
+"-escence": {
+"type": "suffix",
+"ko": "시작되는 상태"
+},
+"-escent": {
+"type": "suffix",
+"ko": "~해지는"
+},
+"-et": {
+"type": "suffix",
+"ko": "작은"
+},
+"-etto": {
+"type": "suffix",
+"ko": "작은"
+},
+"-fic": {
+"type": "suffix",
+"ko": "~을 만드는"
+},
+"-ful": {
+"type": "suffix",
+"ko": "~가득한"
+},
+"-fy": {
+"type": "suffix",
+"ko": "~하게 하다"
+},
+"-head": {
+"type": "suffix",
+"ko": "머리"
+},
+"-ic": {
+"type": "suffix",
+"ko": "~의, ~적인"
+},
+"-ical": {
+"type": "suffix",
+"ko": "~의, ~적인"
+},
+"-id": {
+"type": "suffix",
+"ko": "~한 상태"
+},
+"-ient": {
+"type": "suffix",
+"ko": "~하는"
+},
+"-ile": {
+"type": "suffix",
+"ko": "~하기 쉬운"
+},
+"-illo": {
+"type": "suffix",
+"ko": "작은"
+},
+"-ine": {
+"type": "suffix",
+"ko": "~같은"
+},
+"-ing": {
+"type": "suffix",
+"ko": "~하게 하는"
+},
+"-ion": {
+"type": "suffix",
+"ko": "~함, 행위"
+},
+"-ior": {
+"type": "suffix",
+"ko": "더 ~한"
+},
+"-ious": {
+"type": "suffix",
+"ko": "~이 많은"
+},
+"-ish": {
+"type": "suffix",
+"ko": "~같은"
+},
+"-ism": {
+"type": "suffix",
+"ko": "주의"
+},
+"-ist": {
+"type": "suffix",
+"ko": "~하는 사람"
+},
+"-ition": {
+"type": "suffix",
+"ko": "행위, 상태"
+},
+"-ity": {
+"type": "suffix",
+"ko": "~성, 상태"
+},
+"-ium": {
+"type": "suffix",
+"ko": "명사형"
+},
+"-ive": {
+"type": "suffix",
+"ko": "~하는"
+},
+"-ize": {
+"type": "suffix",
+"ko": "~하게 하다"
+},
+"-latry": {
+"type": "suffix",
+"ko": "숭배"
+},
+"-less": {
+"type": "suffix",
+"ko": "~이 없는"
+},
+"-ling": {
+"type": "suffix",
+"ko": "어린 것"
+},
+"-logy": {
+"type": "suffix",
+"ko": "학문"
+},
+"-ly": {
+"type": "suffix",
+"ko": "~하게"
+},
+"-m": {
+"type": "suffix",
+"ko": "명사형"
+},
+"-ment": {
+"type": "suffix",
+"ko": "결과, 것"
+},
+"-ness": {
+"type": "suffix",
+"ko": "~함, 상태"
+},
+"-or": {
+"type": "suffix",
+"ko": "~하는 사람"
+},
+"-ory": {
+"type": "suffix",
+"ko": "~하는"
+},
+"-ose": {
+"type": "suffix",
+"ko": "~이 많은"
+},
+"-osis": {
+"type": "suffix",
+"ko": "과정"
+},
+"-ous": {
+"type": "suffix",
+"ko": "~이 많은"
+},
+"-phobia": {
+"type": "suffix",
+"ko": "공포, 혐오"
+},
+"-phobic": {
+"type": "suffix",
+"ko": "공포증의"
+},
+"-ry": {
+"type": "suffix",
+"ko": "행위, 기술"
+},
+"-sis": {
+"type": "suffix",
+"ko": "상태, 과정"
+},
+"-some": {
+"type": "suffix",
+"ko": "~하기 쉬운"
+},
+"-tude": {
+"type": "suffix",
+"ko": "상태, 성질"
+},
+"-ual": {
+"type": "suffix",
+"ko": "~의"
+},
+"-ulent": {
+"type": "suffix",
+"ko": "~이 가득한"
+},
+"-ulous": {
+"type": "suffix",
+"ko": "~하기 쉬운"
+},
+"-ure": {
+"type": "suffix",
+"ko": "결과, 행위"
+},
+"-ury": {
+"type": "suffix",
+"ko": "~하는 일"
+},
+"-ution": {
+"type": "suffix",
+"ko": "행위"
+},
+"-y": {
+"type": "suffix",
+"ko": "~한, 상태"
+},
+"a-(강조)": {
+"type": "prefix",
+"ko": "강조"
+},
+"a-(부정)": {
+"type": "prefix",
+"ko": "~이 없는 (부정)"
+},
+"ab-": {
+"type": "prefix",
+"ko": "~에서 떨어져"
+},
+"ace": {
+"type": "root",
+"ko": "치료"
+},
+"acerb": {
+"type": "root",
+"ko": "쓴"
+},
+"acid": {
+"type": "root",
+"ko": "신"
+},
+"acr": {
+"type": "root",
+"ko": "날카로운"
+},
+"acu": {
+"type": "root",
+"ko": "뾰족한"
+},
+"ad-": {
+"type": "prefix",
+"ko": "~쪽으로"
+},
+"aedi": {
+"type": "root",
+"ko": "집"
+},
+"ag": {
+"type": "root",
+"ko": "몰다, 행하다"
+},
+"agog": {
+"type": "root",
+"ko": "이끌다"
+},
+"agon": {
+"type": "root",
+"ko": "싸움"
+},
+"agr": {
+"type": "root",
+"ko": "들판"
+},
+"al": {
+"type": "root",
+"ko": "자라다"
+},
+"alacr": {
+"type": "root",
+"ko": "활발한"
+},
+"alg": {
+"type": "root",
+"ko": "고통"
+},
+"ali": {
+"type": "root",
+"ko": "다른"
+},
+"alt": {
+"type": "root",
+"ko": "높은"
+},
+"alter": {
+"type": "root",
+"ko": "다른"
+},
+"am": {
+"type": "root",
+"ko": "사랑하다"
+},
+"ambi-": {
+"type": "prefix",
+"ko": "양쪽으로"
+},
+"ambul": {
+"type": "root",
+"ko": "걷다"
+},
+"amic": {
+"type": "root",
+"ko": "친구"
+},
+"ana-": {
+"type": "prefix",
+"ko": "거슬러"
+},
+"anim": {
+"type": "root",
+"ko": "마음"
+},
+"ann": {
+"type": "root",
+"ko": "해, 년"
+},
+"ante-": {
+"type": "prefix",
+"ko": "앞의"
+},
+"anthrop": {
+"type": "root",
+"ko": "사람"
+},
+"anti-": {
+"type": "prefix",
+"ko": "맞서"
+},
+"antiqu": {
+"type": "root",
+"ko": "옛날의"
+},
+"apo-": {
+"type": "prefix",
+"ko": "떨어져"
+},
+"apt": {
+"type": "root",
+"ko": "맞는"
+},
+"aquil": {
+"type": "root",
+"ko": "독수리"
+},
+"arbit": {
+"type": "root",
+"ko": "판단"
+},
+"arc": {
+"type": "root",
+"ko": "가두다"
+},
+"arch": {
+"type": "root",
+"ko": "시작, 다스리다"
+},
+"arch-": {
+"type": "prefix",
+"ko": "으뜸의"
+},
+"ard": {
+"type": "root",
+"ko": "타다"
+},
+"arg": {
+"type": "root",
+"ko": "일하지 않는"
+},
+"arm": {
+"type": "root",
+"ko": "무기"
+},
+"art": {
+"type": "root",
+"ko": "기술"
+},
+"artic": {
+"type": "root",
+"ko": "마디, 관절"
+},
+"asper": {
+"type": "root",
+"ko": "거친"
+},
+"atav": {
+"type": "root",
+"ko": "먼 조상"
+},
+"aud": {
+"type": "root",
+"ko": "대담하다"
+},
+"aug": {
+"type": "root",
+"ko": "늘리다"
+},
+"auto-": {
+"type": "prefix",
+"ko": "스스로"
+},
+"av": {
+"type": "root",
+"ko": "갈망하다"
+},
+"avunc": {
+"type": "root",
+"ko": "외삼촌"
+},
+"bale": {
+"type": "root",
+"ko": "재앙"
+},
+"banal": {
+"type": "root",
+"ko": "진부한"
+},
+"bark": {
+"type": "root",
+"ko": "배"
+},
+"base": {
+"type": "root",
+"ko": "낮은"
+},
+"bat": {
+"type": "root",
+"ko": "치다"
+},
+"be-": {
+"type": "prefix",
+"ko": "완전히"
+},
+"bear": {
+"type": "root",
+"ko": "나르다"
+},
+"beat": {
+"type": "root",
+"ko": "복된"
+},
+"bel": {
+"type": "root",
+"ko": "아름다운"
+},
+"bell": {
+"type": "root",
+"ko": "전쟁"
+},
+"bene": {
+"type": "root",
+"ko": "좋은"
+},
+"bet": {
+"type": "root",
+"ko": "부추기다"
+},
+"bi-": {
+"type": "prefix",
+"ko": "둘"
+},
+"bib": {
+"type": "root",
+"ko": "마시다"
+},
+"bide": {
+"type": "root",
+"ko": "기다리다"
+},
+"bil(담즙)": {
+"type": "root",
+"ko": "담즙"
+},
+"bil(힘)": {
+"type": "root",
+"ko": "힘 있는"
+},
+"bio": {
+"type": "root",
+"ko": "삶, 생명"
+},
+"bol": {
+"type": "root",
+"ko": "던지다"
+},
+"brev": {
+"type": "root",
+"ko": "짧은"
+},
+"brot": {
+"type": "root",
+"ko": "죽을 운명"
+},
+"bull": {
+"type": "root",
+"ko": "끓다"
+},
+"byss": {
+"type": "root",
+"ko": "깊은 곳"
+},
+"caco-": {
+"type": "prefix",
+"ko": "나쁜"
+},
+"cad": {
+"type": "root",
+"ko": "떨어지다"
+},
+"cadaver": {
+"type": "root",
+"ko": "시체"
+},
+"cal": {
+"type": "root",
+"ko": "따뜻하다"
+},
+"calc": {
+"type": "root",
+"ko": "밟다"
+},
+"call": {
+"type": "root",
+"ko": "굳은살"
+},
+"camp": {
+"type": "root",
+"ko": "들판"
+},
+"cand": {
+"type": "root",
+"ko": "하얀"
+},
+"canon": {
+"type": "root",
+"ko": "규범"
+},
+"cant": {
+"type": "root",
+"ko": "노래하다"
+},
+"cap(머리)": {
+"type": "root",
+"ko": "머리"
+},
+"cap(잡다)": {
+"type": "root",
+"ko": "잡다"
+},
+"carn": {
+"type": "root",
+"ko": "살, 고기"
+},
+"carp": {
+"type": "root",
+"ko": "뽑다"
+},
+"carto-": {
+"type": "prefix",
+"ko": "지도"
+},
+"cast": {
+"type": "root",
+"ko": "순수한"
+},
+"cata-": {
+"type": "prefix",
+"ko": "아래로"
+},
+"caust": {
+"type": "root",
+"ko": "태우다"
+},
+"ced": {
+"type": "root",
+"ko": "가다"
+},
+"celer": {
+"type": "root",
+"ko": "빠른"
+},
+"cend": {
+"type": "root",
+"ko": "불태우다"
+},
+"cens": {
+"type": "root",
+"ko": "평가하다"
+},
+"centr": {
+"type": "root",
+"ko": "중심"
+},
+"cerebr": {
+"type": "root",
+"ko": "뇌"
+},
+"cern": {
+"type": "root",
+"ko": "가려내다"
+},
+"cert": {
+"type": "root",
+"ko": "확실한"
+},
+"chol": {
+"type": "root",
+"ko": "담즙"
+},
+"chron": {
+"type": "root",
+"ko": "시간"
+},
+"cil": {
+"type": "root",
+"ko": "부르다"
+},
+"cili": {
+"type": "root",
+"ko": "눈썹"
+},
+"cing": {
+"type": "root",
+"ko": "띠를 두르다"
+},
+"cipher": {
+"type": "root",
+"ko": "암호"
+},
+"circum-": {
+"type": "prefix",
+"ko": "둘레에"
+},
+"cis": {
+"type": "root",
+"ko": "자르다"
+},
+"cit": {
+"type": "root",
+"ko": "불러내다, 움직이다"
+},
+"clam": {
+"type": "root",
+"ko": "외치다"
+},
+"clar": {
+"type": "root",
+"ko": "또렷한"
+},
+"clast": {
+"type": "root",
+"ko": "깨뜨리다"
+},
+"clav": {
+"type": "root",
+"ko": "열쇠"
+},
+"clem": {
+"type": "root",
+"ko": "온화한"
+},
+"clin": {
+"type": "root",
+"ko": "기울다"
+},
+"clud": {
+"type": "root",
+"ko": "닫다"
+},
+"clys": {
+"type": "root",
+"ko": "씻어내다"
+},
+"coc": {
+"type": "root",
+"ko": "익히다"
+},
+"coll": {
+"type": "root",
+"ko": "목"
+},
+"comit": {
+"type": "root",
+"ko": "동반하다"
+},
+"con-": {
+"type": "prefix",
+"ko": "함께"
+},
+"contra-": {
+"type": "prefix",
+"ko": "반대로"
+},
+"cop(자르다)": {
+"type": "root",
+"ko": "자르다"
+},
+"cop(풍부)": {
+"type": "root",
+"ko": "풍부"
+},
+"cord": {
+"type": "root",
+"ko": "마음, 심장"
+},
+"cori": {
+"type": "root",
+"ko": "가죽"
+},
+"corn": {
+"type": "root",
+"ko": "뿔"
+},
+"corp": {
+"type": "root",
+"ko": "몸"
+},
+"cosm": {
+"type": "root",
+"ko": "우주, 질서"
+},
+"cosmo-": {
+"type": "prefix",
+"ko": "세계"
+},
+"count": {
+"type": "root",
+"ko": "세다"
+},
+"cras": {
+"type": "root",
+"ko": "섞다"
+},
+"crat": {
+"type": "root",
+"ko": "통치"
+},
+"cred": {
+"type": "root",
+"ko": "믿다"
+},
+"crep": {
+"type": "root",
+"ko": "소리 나다"
+},
+"cresc": {
+"type": "root",
+"ko": "자라다"
+},
+"cret": {
+"type": "root",
+"ko": "결정하다"
+},
+"crim": {
+"type": "root",
+"ko": "죄, 비난"
+},
+"cruc": {
+"type": "root",
+"ko": "십자가"
+},
+"crud": {
+"type": "root",
+"ko": "날것, 거친"
+},
+"cry": {
+"type": "root",
+"ko": "외치다"
+},
+"crypt": {
+"type": "root",
+"ko": "숨기다"
+},
+"cul": {
+"type": "root",
+"ko": "숨기다"
+},
+"culmin": {
+"type": "root",
+"ko": "꼭대기"
+},
+"culp": {
+"type": "root",
+"ko": "잘못, 죄"
+},
+"cumb": {
+"type": "root",
+"ko": "눕다"
+},
+"cup": {
+"type": "root",
+"ko": "욕망"
+},
+"cur(달리다)": {
+"type": "root",
+"ko": "달리다"
+},
+"cur(돌봄)": {
+"type": "root",
+"ko": "돌보다, 근심"
+},
+"curv": {
+"type": "root",
+"ko": "굽은"
+},
+"cuss": {
+"type": "root",
+"ko": "치다, 흔들다"
+},
+"d": {
+"type": "root",
+"ko": "두다, 주다"
+},
+"dam(길들이다)": {
+"type": "root",
+"ko": "길들이다"
+},
+"dam(손해)": {
+"type": "root",
+"ko": "손해"
+},
+"de-": {
+"type": "prefix",
+"ko": "아래로, 떨어져"
+},
+"decim": {
+"type": "root",
+"ko": "열 번째"
+},
+"decor": {
+"type": "root",
+"ko": "어울림, 품위"
+},
+"deik": {
+"type": "root",
+"ko": "보여 주다"
+},
+"dem": {
+"type": "root",
+"ko": "민중"
+},
+"di": {
+"type": "root",
+"ko": "날"
+},
+"di-": {
+"type": "prefix",
+"ko": "둘"
+},
+"dia-": {
+"type": "prefix",
+"ko": "가로질러"
+},
+"dic": {
+"type": "root",
+"ko": "말하다"
+},
+"dign": {
+"type": "root",
+"ko": "품위, 가치"
+},
+"dis-": {
+"type": "prefix",
+"ko": "따로, 떨어져"
+},
+"div(묶다)": {
+"type": "root",
+"ko": "묶다"
+},
+"div(신)": {
+"type": "root",
+"ko": "신"
+},
+"doc": {
+"type": "root",
+"ko": "가르치다"
+},
+"dogm": {
+"type": "root",
+"ko": "교리"
+},
+"dol(속임수)": {
+"type": "root",
+"ko": "속임수"
+},
+"dol(슬픔)": {
+"type": "root",
+"ko": "슬픔, 아픔"
+},
+"don": {
+"type": "root",
+"ko": "주다"
+},
+"dorm": {
+"type": "root",
+"ko": "자다"
+},
+"dox": {
+"type": "root",
+"ko": "의견"
+},
+"du": {
+"type": "root",
+"ko": "둘"
+},
+"duc": {
+"type": "root",
+"ko": "이끌다"
+},
+"dulc": {
+"type": "root",
+"ko": "달콤한"
+},
+"dur": {
+"type": "root",
+"ko": "단단한"
+},
+"dys-": {
+"type": "prefix",
+"ko": "나쁜"
+},
+"eco": {
+"type": "root",
+"ko": "집"
+},
+"eg": {
+"type": "root",
+"ko": "부족하다"
+},
+"ego": {
+"type": "root",
+"ko": "나, 자아"
+},
+"em": {
+"type": "root",
+"ko": "피"
+},
+"empt": {
+"type": "root",
+"ko": "취하다"
+},
+"entomo": {
+"type": "root",
+"ko": "곤충"
+},
+"epi-": {
+"type": "prefix",
+"ko": "위에"
+},
+"equ": {
+"type": "root",
+"ko": "같은, 평평한"
+},
+"err": {
+"type": "root",
+"ko": "헤매다"
+},
+"ess": {
+"type": "root",
+"ko": "있다"
+},
+"eu-": {
+"type": "prefix",
+"ko": "좋은"
+},
+"ex-": {
+"type": "prefix",
+"ko": "밖으로"
+},
+"extra": {
+"type": "root",
+"ko": "바깥의"
+},
+"fa": {
+"type": "root",
+"ko": "말하다"
+},
+"fac(만들다)": {
+"type": "root",
+"ko": "하다, 만들다"
+},
+"fac(얼굴)": {
+"type": "root",
+"ko": "얼굴"
+},
+"fall": {
+"type": "root",
+"ko": "속이다"
+},
+"fas": {
+"type": "root",
+"ko": "신의 법"
+},
+"fast": {
+"type": "root",
+"ko": "단단히 고정된"
+},
+"fatig": {
+"type": "root",
+"ko": "지치게 하다"
+},
+"felic": {
+"type": "root",
+"ko": "행복한"
+},
+"fer": {
+"type": "root",
+"ko": "나르다"
+},
+"ferv": {
+"type": "root",
+"ko": "끓다"
+},
+"fet": {
+"type": "root",
+"ko": "낳다"
+},
+"fid": {
+"type": "root",
+"ko": "믿다"
+},
+"fig": {
+"type": "root",
+"ko": "빚다"
+},
+"fin": {
+"type": "root",
+"ko": "끝, 경계"
+},
+"fiss": {
+"type": "root",
+"ko": "쪼개다"
+},
+"fla": {
+"type": "root",
+"ko": "불다"
+},
+"flagr": {
+"type": "root",
+"ko": "불타다"
+},
+"flamm": {
+"type": "root",
+"ko": "불꽃"
+},
+"flect": {
+"type": "root",
+"ko": "구부리다"
+},
+"flict": {
+"type": "root",
+"ko": "치다"
+},
+"flor": {
+"type": "root",
+"ko": "꽃"
+},
+"flu": {
+"type": "root",
+"ko": "흐르다"
+},
+"fly": {
+"type": "root",
+"ko": "파리"
+},
+"for-": {
+"type": "prefix",
+"ko": "멀리"
+},
+"fore-": {
+"type": "prefix",
+"ko": "앞의"
+},
+"foris": {
+"type": "root",
+"ko": "밖에"
+},
+"form": {
+"type": "root",
+"ko": "모양"
+},
+"fort": {
+"type": "root",
+"ko": "강한"
+},
+"fra-": {
+"type": "prefix",
+"ko": "사이에"
+},
+"fract": {
+"type": "root",
+"ko": "깨다"
+},
+"franch": {
+"type": "root",
+"ko": "자유로운"
+},
+"front": {
+"type": "root",
+"ko": "이마"
+},
+"fruct": {
+"type": "root",
+"ko": "열매"
+},
+"fug": {
+"type": "root",
+"ko": "달아나다"
+},
+"fulg": {
+"type": "root",
+"ko": "빛나다"
+},
+"fulmin": {
+"type": "root",
+"ko": "번개"
+},
+"funct": {
+"type": "root",
+"ko": "수행하다"
+},
+"fund": {
+"type": "root",
+"ko": "바닥"
+},
+"fur": {
+"type": "root",
+"ko": "도둑"
+},
+"furc": {
+"type": "root",
+"ko": "갈래"
+},
+"fus": {
+"type": "root",
+"ko": "붓다"
+},
+"fusc": {
+"type": "root",
+"ko": "어두운"
+},
+"fut": {
+"type": "root",
+"ko": "쳐서 물리치다"
+},
+"gad": {
+"type": "root",
+"ko": "쇠꼬챙이"
+},
+"gain-": {
+"type": "prefix",
+"ko": "맞서"
+},
+"galvan": {
+"type": "root",
+"ko": "갈바니(인명)"
+},
+"garrul": {
+"type": "root",
+"ko": "수다 떨다"
+},
+"ge": {
+"type": "root",
+"ko": "땅"
+},
+"gel": {
+"type": "root",
+"ko": "얼다"
+},
+"gen": {
+"type": "root",
+"ko": "낳다, 태생"
+},
+"gent": {
+"type": "root",
+"ko": "가문"
+},
+"ger": {
+"type": "root",
+"ko": "수행하다, 나르다"
+},
+"glaci": {
+"type": "root",
+"ko": "얼음"
+},
+"glor": {
+"type": "root",
+"ko": "영광"
+},
+"glot": {
+"type": "root",
+"ko": "혀, 언어"
+},
+"gno": {
+"type": "root",
+"ko": "알다"
+},
+"gorg": {
+"type": "root",
+"ko": "목구멍"
+},
+"grad": {
+"type": "root",
+"ko": "걷다, 단계"
+},
+"gran": {
+"type": "root",
+"ko": "낟알, 곡식"
+},
+"grand": {
+"type": "root",
+"ko": "큰"
+},
+"graph": {
+"type": "root",
+"ko": "쓰다"
+},
+"grat": {
+"type": "root",
+"ko": "기쁜"
+},
+"grav": {
+"type": "root",
+"ko": "무거운"
+},
+"greg": {
+"type": "root",
+"ko": "무리"
+},
+"gru": {
+"type": "root",
+"ko": "일치하다"
+},
+"grudge": {
+"type": "root",
+"ko": "불평하다"
+},
+"guile": {
+"type": "root",
+"ko": "속임수"
+},
+"gull": {
+"type": "root",
+"ko": "속이다"
+},
+"gust": {
+"type": "root",
+"ko": "맛보다"
+},
+"gyn": {
+"type": "root",
+"ko": "여자"
+},
+"gyr": {
+"type": "root",
+"ko": "모임"
+},
+"hab": {
+"type": "root",
+"ko": "가지다"
+},
+"hagi": {
+"type": "root",
+"ko": "성스러운"
+},
+"ham": {
+"type": "root",
+"ko": "오금"
+},
+"hap": {
+"type": "root",
+"ko": "우연"
+},
+"haust": {
+"type": "root",
+"ko": "퍼내다"
+},
+"hazard": {
+"type": "root",
+"ko": "위험"
+},
+"head": {
+"type": "root",
+"ko": "머리"
+},
+"heart": {
+"type": "root",
+"ko": "마음"
+},
+"hedon": {
+"type": "root",
+"ko": "쾌락"
+},
+"heg": {
+"type": "root",
+"ko": "이끌다"
+},
+"hemer": {
+"type": "root",
+"ko": "하루"
+},
+"her": {
+"type": "root",
+"ko": "붙다"
+},
+"hermit": {
+"type": "root",
+"ko": "은둔자"
+},
+"hetero-": {
+"type": "prefix",
+"ko": "다른"
+},
+"hier": {
+"type": "root",
+"ko": "신성한"
+},
+"hilar": {
+"type": "root",
+"ko": "즐거운"
+},
+"hire": {
+"type": "root",
+"ko": "고용하다"
+},
+"histrion": {
+"type": "root",
+"ko": "배우"
+},
+"hol": {
+"type": "root",
+"ko": "전체"
+},
+"hom": {
+"type": "root",
+"ko": "사람"
+},
+"homal": {
+"type": "root",
+"ko": "고른"
+},
+"homo-": {
+"type": "prefix",
+"ko": "같은"
+},
+"hood": {
+"type": "root",
+"ko": "두건"
+},
+"hor": {
+"type": "root",
+"ko": "경계"
+},
+"horr": {
+"type": "root",
+"ko": "몸서리치다"
+},
+"hort": {
+"type": "root",
+"ko": "격려하다"
+},
+"hot": {
+"type": "root",
+"ko": "뜨거운"
+},
+"hum": {
+"type": "root",
+"ko": "땅"
+},
+"hyper-": {
+"type": "prefix",
+"ko": "넘어서"
+},
+"hyster": {
+"type": "root",
+"ko": "자궁"
+},
+"icon": {
+"type": "root",
+"ko": "형상"
+},
+"ide": {
+"type": "root",
+"ko": "생각"
+},
+"idio": {
+"type": "root",
+"ko": "고유한"
+},
+"idol": {
+"type": "root",
+"ko": "우상"
+},
+"imit": {
+"type": "root",
+"ko": "흉내 내다"
+},
+"imper": {
+"type": "root",
+"ko": "명령하다"
+},
+"in-(부정)": {
+"type": "prefix",
+"ko": "~이 아닌 (부정)"
+},
+"in-(안으로)": {
+"type": "prefix",
+"ko": "안으로, 안에"
+},
+"init": {
+"type": "root",
+"ko": "시작"
+},
+"insul": {
+"type": "root",
+"ko": "섬"
+},
+"inter-": {
+"type": "prefix",
+"ko": "사이"
+},
+"intuit": {
+"type": "root",
+"ko": "직관"
+},
+"ira": {
+"type": "root",
+"ko": "분노"
+},
+"it": {
+"type": "root",
+"ko": "가다"
+},
+"iter(길)": {
+"type": "root",
+"ko": "길, 여행"
+},
+"iter(다시)": {
+"type": "root",
+"ko": "다시, 또"
+},
+"ject": {
+"type": "root",
+"ko": "던지다"
+},
+"joc": {
+"type": "root",
+"ko": "농담"
+},
+"jud": {
+"type": "root",
+"ko": "판결"
+},
+"jug": {
+"type": "root",
+"ko": "잇다, 묶다"
+},
+"jur": {
+"type": "root",
+"ko": "맹세하다"
+},
+"jurg": {
+"type": "root",
+"ko": "꾸짖다"
+},
+"just": {
+"type": "root",
+"ko": "올바른"
+},
+"juxta-": {
+"type": "prefix",
+"ko": "가까이"
+},
+"kine": {
+"type": "root",
+"ko": "움직이다"
+},
+"labor": {
+"type": "root",
+"ko": "일하다"
+},
+"lacer": {
+"type": "root",
+"ko": "찢다"
+},
+"lacrim": {
+"type": "root",
+"ko": "눈물"
+},
+"lanc": {
+"type": "root",
+"ko": "창"
+},
+"lapid": {
+"type": "root",
+"ko": "돌"
+},
+"lass": {
+"type": "root",
+"ko": "지친"
+},
+"lat(나르다)": {
+"type": "root",
+"ko": "나르다"
+},
+"lat(넓은)": {
+"type": "root",
+"ko": "넓은"
+},
+"lat(숨다)": {
+"type": "root",
+"ko": "숨다"
+},
+"latr": {
+"type": "root",
+"ko": "숭배하다"
+},
+"laud": {
+"type": "root",
+"ko": "칭찬하다"
+},
+"lax": {
+"type": "root",
+"ko": "느슨한"
+},
+"leg(고르다)": {
+"type": "root",
+"ko": "고르다, 읽다"
+},
+"leg(보내다)": {
+"type": "root",
+"ko": "보내다"
+},
+"lent": {
+"type": "root",
+"ko": "부드러운"
+},
+"leth": {
+"type": "root",
+"ko": "망각"
+},
+"lev": {
+"type": "root",
+"ko": "가벼운, 들다"
+},
+"lex": {
+"type": "root",
+"ko": "말, 단어"
+},
+"lib": {
+"type": "root",
+"ko": "저울질하다"
+},
+"liber": {
+"type": "root",
+"ko": "자유로운"
+},
+"libr": {
+"type": "root",
+"ko": "책"
+},
+"lic(꾀다)": {
+"type": "root",
+"ko": "꾀다, 끌다"
+},
+"lic(허락)": {
+"type": "root",
+"ko": "허락되다"
+},
+"lie": {
+"type": "root",
+"ko": "거짓말"
+},
+"lig": {
+"type": "root",
+"ko": "묶다"
+},
+"lim": {
+"type": "root",
+"ko": "문턱, 높이"
+},
+"limit": {
+"type": "root",
+"ko": "경계"
+},
+"lin": {
+"type": "root",
+"ko": "선"
+},
+"linqu": {
+"type": "root",
+"ko": "떠나다, 남기다"
+},
+"list": {
+"type": "root",
+"ko": "욕구"
+},
+"little": {
+"type": "root",
+"ko": "작은"
+},
+"log": {
+"type": "root",
+"ko": "말"
+},
+"loqu": {
+"type": "root",
+"ko": "말하다"
+},
+"luc": {
+"type": "root",
+"ko": "빛"
+},
+"lucr": {
+"type": "root",
+"ko": "이익"
+},
+"luct": {
+"type": "root",
+"ko": "씨름하다"
+},
+"lud": {
+"type": "root",
+"ko": "놀다"
+},
+"lux": {
+"type": "root",
+"ko": "사치, 과잉"
+},
+"lys": {
+"type": "root",
+"ko": "풀다"
+},
+"macer": {
+"type": "root",
+"ko": "마른"
+},
+"machin": {
+"type": "root",
+"ko": "장치, 계략"
+},
+"macul": {
+"type": "root",
+"ko": "얼룩"
+},
+"magn": {
+"type": "root",
+"ko": "큰"
+},
+"mal-": {
+"type": "prefix",
+"ko": "나쁜"
+},
+"mall": {
+"type": "root",
+"ko": "망치"
+},
+"man": {
+"type": "root",
+"ko": "손"
+},
+"mand": {
+"type": "root",
+"ko": "명령하다"
+},
+"marg": {
+"type": "root",
+"ko": "가장자리"
+},
+"mater": {
+"type": "root",
+"ko": "물질"
+},
+"math": {
+"type": "root",
+"ko": "배우다"
+},
+"matr": {
+"type": "root",
+"ko": "어머니"
+},
+"me": {
+"type": "root",
+"ko": "지나가다"
+},
+"med": {
+"type": "root",
+"ko": "고치다"
+},
+"medi": {
+"type": "root",
+"ko": "가운데"
+},
+"medit": {
+"type": "root",
+"ko": "숙고하다"
+},
+"mel": {
+"type": "root",
+"ko": "꿀"
+},
+"melan": {
+"type": "root",
+"ko": "검은"
+},
+"meli": {
+"type": "root",
+"ko": "더 좋은"
+},
+"mend": {
+"type": "root",
+"ko": "결점"
+},
+"ment": {
+"type": "root",
+"ko": "마음"
+},
+"mer": {
+"type": "root",
+"ko": "받을 자격이 있다"
+},
+"merc": {
+"type": "root",
+"ko": "보수"
+},
+"meta-": {
+"type": "prefix",
+"ko": "넘어"
+},
+"metr": {
+"type": "root",
+"ko": "재다"
+},
+"micro-": {
+"type": "prefix",
+"ko": "작은"
+},
+"milit": {
+"type": "root",
+"ko": "군인"
+},
+"mim": {
+"type": "root",
+"ko": "흉내"
+},
+"min(돌출)": {
+"type": "root",
+"ko": "튀어나오다"
+},
+"min(몰다)": {
+"type": "root",
+"ko": "몰다"
+},
+"min(작은)": {
+"type": "root",
+"ko": "작은"
+},
+"mis-": {
+"type": "prefix",
+"ko": "잘못"
+},
+"misc": {
+"type": "root",
+"ko": "섞다"
+},
+"miser": {
+"type": "root",
+"ko": "불쌍한"
+},
+"mit(미워하다)": {
+"type": "root",
+"ko": "미워하다"
+},
+"mit(보내다)": {
+"type": "root",
+"ko": "보내다"
+},
+"mit(부드러운)": {
+"type": "root",
+"ko": "부드러운"
+},
+"moan": {
+"type": "root",
+"ko": "신음하다"
+},
+"mod": {
+"type": "root",
+"ko": "척도, 방식"
+},
+"moll": {
+"type": "root",
+"ko": "부드러운"
+},
+"mon(일깨우다)": {
+"type": "root",
+"ko": "일깨우다"
+},
+"mon(하나)": {
+"type": "root",
+"ko": "혼자, 하나"
+},
+"monet": {
+"type": "root",
+"ko": "화폐"
+},
+"mono-": {
+"type": "prefix",
+"ko": "하나"
+},
+"monstr": {
+"type": "root",
+"ko": "보여 주다"
+},
+"mor(관습)": {
+"type": "root",
+"ko": "관습, 도덕"
+},
+"mor(죽음)": {
+"type": "root",
+"ko": "죽다, 죽음"
+},
+"mor(지체)": {
+"type": "root",
+"ko": "지체하다"
+},
+"morb": {
+"type": "root",
+"ko": "병"
+},
+"mord": {
+"type": "root",
+"ko": "물다"
+},
+"morph": {
+"type": "root",
+"ko": "모양, 형태"
+},
+"mot": {
+"type": "root",
+"ko": "움직이다"
+},
+"mount": {
+"type": "root",
+"ko": "오르다"
+},
+"multi-": {
+"type": "prefix",
+"ko": "많은"
+},
+"mun": {
+"type": "root",
+"ko": "선물"
+},
+"mund": {
+"type": "root",
+"ko": "세계"
+},
+"mur": {
+"type": "root",
+"ko": "벽"
+},
+"muse": {
+"type": "root",
+"ko": "골똘히 생각하다"
+},
+"mut": {
+"type": "root",
+"ko": "바꾸다"
+},
+"my": {
+"type": "root",
+"ko": "눈을 감다"
+},
+"myri": {
+"type": "root",
+"ko": "무수한"
+},
+"nat": {
+"type": "root",
+"ko": "태어나다"
+},
+"ne-": {
+"type": "prefix",
+"ko": "아닌"
+},
+"nebul": {
+"type": "root",
+"ko": "안개"
+},
+"nec": {
+"type": "root",
+"ko": "죽음"
+},
+"neg": {
+"type": "root",
+"ko": "부인하다"
+},
+"neg-": {
+"type": "prefix",
+"ko": "아닌"
+},
+"neo-": {
+"type": "prefix",
+"ko": "새로운"
+},
+"nerv": {
+"type": "root",
+"ko": "신경"
+},
+"neutr": {
+"type": "root",
+"ko": "어느 쪽도 아닌"
+},
+"nex": {
+"type": "root",
+"ko": "묶다"
+},
+"night": {
+"type": "root",
+"ko": "밤"
+},
+"nigr": {
+"type": "root",
+"ko": "검은"
+},
+"nihil": {
+"type": "root",
+"ko": "아무것도 없음"
+},
+"nob": {
+"type": "root",
+"ko": "고귀한"
+},
+"noc": {
+"type": "root",
+"ko": "해치다"
+},
+"nom(법)": {
+"type": "root",
+"ko": "법, 관리하다"
+},
+"nom(이름)": {
+"type": "root",
+"ko": "이름"
+},
+"non-": {
+"type": "prefix",
+"ko": "아닌"
+},
+"norm": {
+"type": "root",
+"ko": "기준, 규범"
+},
+"nostr": {
+"type": "root",
+"ko": "우리의"
+},
+"not": {
+"type": "root",
+"ko": "알다, 표시하다"
+},
+"nov": {
+"type": "root",
+"ko": "새로운"
+},
+"null": {
+"type": "root",
+"ko": "없는"
+},
+"numer": {
+"type": "root",
+"ko": "수, 세다"
+},
+"numin": {
+"type": "root",
+"ko": "신의 뜻"
+},
+"nunc": {
+"type": "root",
+"ko": "알리다"
+},
+"ob-": {
+"type": "prefix",
+"ko": "맞서"
+},
+"od(노래)": {
+"type": "root",
+"ko": "노래"
+},
+"od(미워하다)": {
+"type": "root",
+"ko": "미워하다"
+},
+"odor": {
+"type": "root",
+"ko": "냄새"
+},
+"odyn": {
+"type": "root",
+"ko": "고통"
+},
+"offic": {
+"type": "root",
+"ko": "직무"
+},
+"ol": {
+"type": "root",
+"ko": "냄새 나다"
+},
+"omin": {
+"type": "root",
+"ko": "징조"
+},
+"omni-": {
+"type": "prefix",
+"ko": "모든"
+},
+"oner": {
+"type": "root",
+"ko": "짐, 부담"
+},
+"onym": {
+"type": "root",
+"ko": "이름"
+},
+"op(눈)": {
+"type": "root",
+"ko": "눈, 보다"
+},
+"op(부)": {
+"type": "root",
+"ko": "부, 힘"
+},
+"opin": {
+"type": "root",
+"ko": "의견"
+},
+"opl": {
+"type": "root",
+"ko": "무기"
+},
+"optim": {
+"type": "root",
+"ko": "최선의"
+},
+"or(말하다)": {
+"type": "root",
+"ko": "말하다, 빌다"
+},
+"or(입)": {
+"type": "root",
+"ko": "입"
+},
+"orbit": {
+"type": "root",
+"ko": "궤도"
+},
+"ord": {
+"type": "root",
+"ko": "질서"
+},
+"orn": {
+"type": "root",
+"ko": "꾸미다"
+},
+"ortho-": {
+"type": "prefix",
+"ko": "바른"
+},
+"oss": {
+"type": "root",
+"ko": "뼈"
+},
+"ostrac": {
+"type": "root",
+"ko": "도자기 조각"
+},
+"pac": {
+"type": "root",
+"ko": "평화"
+},
+"palat": {
+"type": "root",
+"ko": "궁전"
+},
+"palin-": {
+"type": "prefix",
+"ko": "다시"
+},
+"pall": {
+"type": "root",
+"ko": "창백하다"
+},
+"palli": {
+"type": "root",
+"ko": "망토"
+},
+"palp": {
+"type": "root",
+"ko": "만지다"
+},
+"pan-": {
+"type": "prefix",
+"ko": "모든"
+},
+"pans": {
+"type": "root",
+"ko": "펴다"
+},
+"par(같은)": {
+"type": "root",
+"ko": "같은, 동등한"
+},
+"par(나타나다)": {
+"type": "root",
+"ko": "나타나다"
+},
+"par(준비)": {
+"type": "root",
+"ko": "준비하다"
+},
+"para-": {
+"type": "prefix",
+"ko": "곁에"
+},
+"part": {
+"type": "root",
+"ko": "부분"
+},
+"pass(겪다)": {
+"type": "root",
+"ko": "겪다, 감정"
+},
+"pass(지나가다)": {
+"type": "root",
+"ko": "지나가다"
+},
+"past": {
+"type": "root",
+"ko": "먹이다"
+},
+"pat(걷다)": {
+"type": "root",
+"ko": "걷다"
+},
+"pat(열림)": {
+"type": "root",
+"ko": "열려 있다"
+},
+"path": {
+"type": "root",
+"ko": "감정"
+},
+"patho-": {
+"type": "prefix",
+"ko": "병, 고통"
+},
+"patr(아버지)": {
+"type": "root",
+"ko": "아버지, 조국"
+},
+"patr(이루다)": {
+"type": "root",
+"ko": "이루다"
+},
+"patri-": {
+"type": "prefix",
+"ko": "아버지"
+},
+"pauc": {
+"type": "root",
+"ko": "적은"
+},
+"peal": {
+"type": "root",
+"ko": "부르다"
+},
+"pecc": {
+"type": "root",
+"ko": "죄짓다"
+},
+"pecun": {
+"type": "root",
+"ko": "돈, 재산"
+},
+"ped(발)": {
+"type": "root",
+"ko": "발"
+},
+"ped(아이)": {
+"type": "root",
+"ko": "아이"
+},
+"peir": {
+"type": "root",
+"ko": "시도, 경험"
+},
+"pej": {
+"type": "root",
+"ko": "더 나쁜"
+},
+"pel": {
+"type": "root",
+"ko": "몰다"
+},
+"pen(거의)": {
+"type": "root",
+"ko": "거의"
+},
+"pen(후회)": {
+"type": "root",
+"ko": "후회하다"
+},
+"pend": {
+"type": "root",
+"ko": "달다, 매달다"
+},
+"penur": {
+"type": "root",
+"ko": "부족"
+},
+"pept": {
+"type": "root",
+"ko": "소화하다"
+},
+"per-": {
+"type": "prefix",
+"ko": "완전히, 통과하여"
+},
+"peri-": {
+"type": "prefix",
+"ko": "주위에"
+},
+"peril": {
+"type": "root",
+"ko": "위험"
+},
+"pet": {
+"type": "root",
+"ko": "구하다"
+},
+"phan": {
+"type": "root",
+"ko": "보이다"
+},
+"pher": {
+"type": "root",
+"ko": "나르다"
+},
+"phet": {
+"type": "root",
+"ko": "말하다"
+},
+"phil": {
+"type": "root",
+"ko": "사랑하다"
+},
+"phlegm": {
+"type": "root",
+"ko": "점액"
+},
+"phon": {
+"type": "root",
+"ko": "소리"
+},
+"phren": {
+"type": "root",
+"ko": "마음, 정신"
+},
+"phtheg": {
+"type": "root",
+"ko": "말하다"
+},
+"phys": {
+"type": "root",
+"ko": "자연"
+},
+"phyt": {
+"type": "root",
+"ko": "식물"
+},
+"pi": {
+"type": "root",
+"ko": "경건한"
+},
+"pinn": {
+"type": "root",
+"ko": "봉우리"
+},
+"plac": {
+"type": "root",
+"ko": "기쁘게 하다"
+},
+"plaint": {
+"type": "root",
+"ko": "한탄"
+},
+"plant": {
+"type": "root",
+"ko": "발바닥"
+},
+"plast": {
+"type": "root",
+"ko": "빚다"
+},
+"plat": {
+"type": "root",
+"ko": "평평한"
+},
+"plaus": {
+"type": "root",
+"ko": "박수치다"
+},
+"ple": {
+"type": "root",
+"ko": "채우다"
+},
+"pleb": {
+"type": "root",
+"ko": "평민"
+},
+"plic": {
+"type": "root",
+"ko": "접다"
+},
+"plod": {
+"type": "root",
+"ko": "터지다"
+},
+"plumb": {
+"type": "root",
+"ko": "납"
+},
+"plus": {
+"type": "root",
+"ko": "더"
+},
+"plut": {
+"type": "root",
+"ko": "부, 재물"
+},
+"poen": {
+"type": "root",
+"ko": "벌"
+},
+"point": {
+"type": "root",
+"ko": "점, 음표"
+},
+"pol(극)": {
+"type": "root",
+"ko": "극, 축"
+},
+"pol(다듬다)": {
+"type": "root",
+"ko": "다듬다, 윤내다"
+},
+"polem": {
+"type": "root",
+"ko": "전쟁"
+},
+"polit": {
+"type": "root",
+"ko": "시민, 도시"
+},
+"poly": {
+"type": "root",
+"ko": "많은"
+},
+"pomp": {
+"type": "root",
+"ko": "화려한 행렬"
+},
+"ponder": {
+"type": "root",
+"ko": "무게"
+},
+"pont": {
+"type": "root",
+"ko": "다리"
+},
+"popul": {
+"type": "root",
+"ko": "민중"
+},
+"port(나르다)": {
+"type": "root",
+"ko": "나르다"
+},
+"port(항구)": {
+"type": "root",
+"ko": "항구"
+},
+"portent": {
+"type": "root",
+"ko": "전조"
+},
+"pos": {
+"type": "root",
+"ko": "놓다"
+},
+"post-": {
+"type": "prefix",
+"ko": "뒤에"
+},
+"postul": {
+"type": "root",
+"ko": "요구하다"
+},
+"pot": {
+"type": "root",
+"ko": "힘, 할 수 있다"
+},
+"prac": {
+"type": "root",
+"ko": "행하다"
+},
+"prav": {
+"type": "root",
+"ko": "비뚤어진"
+},
+"pre-": {
+"type": "prefix",
+"ko": "미리, 앞에"
+},
+"prec": {
+"type": "root",
+"ko": "기도하다"
+},
+"preci": {
+"type": "root",
+"ko": "값"
+},
+"pred": {
+"type": "root",
+"ko": "약탈"
+},
+"prehend": {
+"type": "root",
+"ko": "잡다"
+},
+"pres": {
+"type": "root",
+"ko": "앞에 있는"
+},
+"press": {
+"type": "root",
+"ko": "누르다"
+},
+"preter-": {
+"type": "prefix",
+"ko": "넘어"
+},
+"prim": {
+"type": "root",
+"ko": "첫째"
+},
+"pro-": {
+"type": "prefix",
+"ko": "앞으로"
+},
+"prob": {
+"type": "root",
+"ko": "시험하다, 인정하다"
+},
+"probr": {
+"type": "root",
+"ko": "치욕, 비난"
+},
+"prol": {
+"type": "root",
+"ko": "자손"
+},
+"prop": {
+"type": "root",
+"ko": "가까운"
+},
+"propri": {
+"type": "root",
+"ko": "자기 것의"
+},
+"prud": {
+"type": "root",
+"ko": "앞을 내다봄"
+},
+"psest": {
+"type": "root",
+"ko": "긁다"
+},
+"pud": {
+"type": "root",
+"ko": "부끄러워하다"
+},
+"puer": {
+"type": "root",
+"ko": "아이"
+},
+"pug": {
+"type": "root",
+"ko": "주먹"
+},
+"pulchr": {
+"type": "root",
+"ko": "아름다운"
+},
+"pung": {
+"type": "root",
+"ko": "찌르다"
+},
+"purg": {
+"type": "root",
+"ko": "깨끗이 하다"
+},
+"pusill": {
+"type": "root",
+"ko": "아주 작은"
+},
+"put": {
+"type": "root",
+"ko": "셈하다, 생각하다"
+},
+"putr": {
+"type": "root",
+"ko": "썩다"
+},
+"quadr": {
+"type": "root",
+"ko": "넷"
+},
+"qual": {
+"type": "root",
+"ko": "성질"
+},
+"queath": {
+"type": "root",
+"ko": "말하다"
+},
+"quer(구하다)": {
+"type": "root",
+"ko": "구하다, 묻다"
+},
+"quer(불평)": {
+"type": "root",
+"ko": "불평하다"
+},
+"qui": {
+"type": "root",
+"ko": "쉬다"
+},
+"quite": {
+"type": "root",
+"ko": "갚다"
+},
+"rad": {
+"type": "root",
+"ko": "뿌리"
+},
+"ram": {
+"type": "root",
+"ko": "가지"
+},
+"rap": {
+"type": "root",
+"ko": "낚아채다"
+},
+"rar": {
+"type": "root",
+"ko": "드문"
+},
+"ras": {
+"type": "root",
+"ko": "긁다"
+},
+"rat": {
+"type": "root",
+"ko": "셈하다"
+},
+"rate": {
+"type": "root",
+"ko": "꾸짖다"
+},
+"re-": {
+"type": "prefix",
+"ko": "다시, 뒤로"
+},
+"reave": {
+"type": "root",
+"ko": "빼앗다"
+},
+"reg": {
+"type": "root",
+"ko": "다스리다, 곧은"
+},
+"rest": {
+"type": "root",
+"ko": "멈추다"
+},
+"retro-": {
+"type": "prefix",
+"ko": "뒤로"
+},
+"rhet": {
+"type": "root",
+"ko": "말하다"
+},
+"rid": {
+"type": "root",
+"ko": "웃다"
+},
+"rig(바로잡다)": {
+"type": "root",
+"ko": "바로잡다"
+},
+"rig(뻣뻣함)": {
+"type": "root",
+"ko": "뻣뻣하다"
+},
+"riv": {
+"type": "root",
+"ko": "시내, 흐름"
+},
+"robust": {
+"type": "root",
+"ko": "단단한, 힘"
+},
+"rod": {
+"type": "root",
+"ko": "갉다"
+},
+"rog": {
+"type": "root",
+"ko": "묻다, 요청하다"
+},
+"ros": {
+"type": "root",
+"ko": "장미"
+},
+"rotund": {
+"type": "root",
+"ko": "둥근"
+},
+"rubr": {
+"type": "root",
+"ko": "붉은"
+},
+"rud": {
+"type": "root",
+"ko": "거친"
+},
+"rupt": {
+"type": "root",
+"ko": "깨다"
+},
+"rus": {
+"type": "root",
+"ko": "시골"
+},
+"sacr": {
+"type": "root",
+"ko": "신성한"
+},
+"sag": {
+"type": "root",
+"ko": "알아채다"
+},
+"sal": {
+"type": "root",
+"ko": "뛰다"
+},
+"salu": {
+"type": "root",
+"ko": "건강"
+},
+"sanct": {
+"type": "root",
+"ko": "거룩한"
+},
+"sangu": {
+"type": "root",
+"ko": "피"
+},
+"sap": {
+"type": "root",
+"ko": "맛보다, 알다"
+},
+"sart": {
+"type": "root",
+"ko": "꿰매다"
+},
+"sat": {
+"type": "root",
+"ko": "가득찬"
+},
+"say": {
+"type": "root",
+"ko": "말하다"
+},
+"scend": {
+"type": "root",
+"ko": "오르다"
+},
+"schis": {
+"type": "root",
+"ko": "쪼개다"
+},
+"sci": {
+"type": "root",
+"ko": "알다"
+},
+"sciss": {
+"type": "root",
+"ko": "자르다"
+},
+"scrib": {
+"type": "root",
+"ko": "쓰다"
+},
+"scrut": {
+"type": "root",
+"ko": "살펴보다"
+},
+"se-": {
+"type": "prefix",
+"ko": "따로"
+},
+"secul": {
+"type": "root",
+"ko": "시대, 세대"
+},
+"sed": {
+"type": "root",
+"ko": "앉다"
+},
+"seech": {
+"type": "root",
+"ko": "찾다"
+},
+"sem": {
+"type": "root",
+"ko": "표시, 의미"
+},
+"semin": {
+"type": "root",
+"ko": "씨앗"
+},
+"sent": {
+"type": "root",
+"ko": "느끼다"
+},
+"sept": {
+"type": "root",
+"ko": "부패"
+},
+"sequ": {
+"type": "root",
+"ko": "따르다"
+},
+"ser": {
+"type": "root",
+"ko": "엮다, 잇다"
+},
+"serv": {
+"type": "root",
+"ko": "지키다, 섬기다"
+},
+"sever": {
+"type": "root",
+"ko": "엄격한"
+},
+"sext": {
+"type": "root",
+"ko": "여섯"
+},
+"sibil": {
+"type": "root",
+"ko": "쉭쉭 소리내다"
+},
+"sicc": {
+"type": "root",
+"ko": "마른"
+},
+"sider": {
+"type": "root",
+"ko": "별"
+},
+"sign": {
+"type": "root",
+"ko": "서명, 표"
+},
+"simil": {
+"type": "root",
+"ko": "같은"
+},
+"sine": {
+"type": "root",
+"ko": "없이"
+},
+"sinu": {
+"type": "root",
+"ko": "굽이, 곡선"
+},
+"skep": {
+"type": "root",
+"ko": "살펴보다"
+},
+"sol(위로)": {
+"type": "root",
+"ko": "위로하다"
+},
+"sol(익숙)": {
+"type": "root",
+"ko": "익숙하다"
+},
+"sol(혼자)": {
+"type": "root",
+"ko": "혼자"
+},
+"solid": {
+"type": "root",
+"ko": "단단한, 온전한"
+},
+"solv": {
+"type": "root",
+"ko": "풀다"
+},
+"som": {
+"type": "root",
+"ko": "몸"
+},
+"somn": {
+"type": "root",
+"ko": "잠"
+},
+"son": {
+"type": "root",
+"ko": "소리"
+},
+"soph": {
+"type": "root",
+"ko": "지혜"
+},
+"sopor": {
+"type": "root",
+"ko": "깊은 잠"
+},
+"souci": {
+"type": "root",
+"ko": "걱정"
+},
+"spars": {
+"type": "root",
+"ko": "흩뿌리다"
+},
+"spat": {
+"type": "root",
+"ko": "공간"
+},
+"spec": {
+"type": "root",
+"ko": "보다"
+},
+"sper(뿌리다)": {
+"type": "root",
+"ko": "뿌리다"
+},
+"sper(희망)": {
+"type": "root",
+"ko": "희망"
+},
+"spir": {
+"type": "root",
+"ko": "숨 쉬다"
+},
+"splen": {
+"type": "root",
+"ko": "비장"
+},
+"spoil": {
+"type": "root",
+"ko": "전리품"
+},
+"st": {
+"type": "root",
+"ko": "서다"
+},
+"stand": {
+"type": "root",
+"ko": "서다"
+},
+"stead": {
+"type": "root",
+"ko": "자리"
+},
+"stigm": {
+"type": "root",
+"ko": "낙인, 표시"
+},
+"still": {
+"type": "root",
+"ko": "방울"
+},
+"stinct": {
+"type": "root",
+"ko": "찌르다"
+},
+"stip": {
+"type": "root",
+"ko": "동전, 기부"
+},
+"stol": {
+"type": "root",
+"ko": "보내다"
+},
+"strat(군대)": {
+"type": "root",
+"ko": "군대"
+},
+"strat(층)": {
+"type": "root",
+"ko": "펼치다, 층"
+},
+"strep": {
+"type": "root",
+"ko": "소란을 피우다"
+},
+"stri": {
+"type": "root",
+"ko": "홈, 줄"
+},
+"string": {
+"type": "root",
+"ko": "조이다, 묶다"
+},
+"strong": {
+"type": "root",
+"ko": "강한"
+},
+"stru": {
+"type": "root",
+"ko": "쌓다"
+},
+"stult": {
+"type": "root",
+"ko": "어리석은"
+},
+"stup": {
+"type": "root",
+"ko": "얼떨떨하다"
+},
+"suav": {
+"type": "root",
+"ko": "달콤한"
+},
+"sub-": {
+"type": "prefix",
+"ko": "아래"
+},
+"subter-": {
+"type": "prefix",
+"ko": "아래로"
+},
+"sum(취하다)": {
+"type": "root",
+"ko": "취하다"
+},
+"sum(합계)": {
+"type": "root",
+"ko": "합계, 꼭대기"
+},
+"sup": {
+"type": "root",
+"ko": "던지다"
+},
+"super-": {
+"type": "prefix",
+"ko": "위, 넘어"
+},
+"surg": {
+"type": "root",
+"ko": "일어나다"
+},
+"syc": {
+"type": "root",
+"ko": "무화과"
+},
+"syn-": {
+"type": "prefix",
+"ko": "함께"
+},
+"tac": {
+"type": "root",
+"ko": "침묵하다"
+},
+"tali": {
+"type": "root",
+"ko": "같은 갚음"
+},
+"tang": {
+"type": "root",
+"ko": "닿다, 만지다"
+},
+"tangle": {
+"type": "root",
+"ko": "엉키다"
+},
+"tax(배열)": {
+"type": "root",
+"ko": "배열하다"
+},
+"tax(세금)": {
+"type": "root",
+"ko": "세금, 부담"
+},
+"temn": {
+"type": "root",
+"ko": "경멸하다"
+},
+"temper": {
+"type": "root",
+"ko": "알맞게 조절하다"
+},
+"tempor": {
+"type": "root",
+"ko": "때, 시간"
+},
+"ten(시도)": {
+"type": "root",
+"ko": "시도하다"
+},
+"ten(잡다)": {
+"type": "root",
+"ko": "잡다"
+},
+"tend": {
+"type": "root",
+"ko": "뻗다"
+},
+"tenu": {
+"type": "root",
+"ko": "얇은"
+},
+"tep": {
+"type": "root",
+"ko": "따뜻한"
+},
+"ter": {
+"type": "root",
+"ko": "문지르다"
+},
+"termin": {
+"type": "root",
+"ko": "경계, 끝"
+},
+"terr(겁주다)": {
+"type": "root",
+"ko": "겁주다"
+},
+"terr(땅)": {
+"type": "root",
+"ko": "땅"
+},
+"test": {
+"type": "root",
+"ko": "증언하다"
+},
+"tex": {
+"type": "root",
+"ko": "짜다, 엮다"
+},
+"the(놓다)": {
+"type": "root",
+"ko": "놓다"
+},
+"the(신)": {
+"type": "root",
+"ko": "신"
+},
+"tim": {
+"type": "root",
+"ko": "두려워하다"
+},
+"toll": {
+"type": "root",
+"ko": "들다"
+},
+"tom": {
+"type": "root",
+"ko": "자르다"
+},
+"ton": {
+"type": "root",
+"ko": "음, 가락"
+},
+"torp": {
+"type": "root",
+"ko": "마비되다"
+},
+"torr": {
+"type": "root",
+"ko": "태우다"
+},
+"tort": {
+"type": "root",
+"ko": "비틀다"
+},
+"tract": {
+"type": "root",
+"ko": "끌다"
+},
+"trans-": {
+"type": "prefix",
+"ko": "가로질러"
+},
+"trepid": {
+"type": "root",
+"ko": "떨리는"
+},
+"tri": {
+"type": "root",
+"ko": "셋"
+},
+"trib(문지르다)": {
+"type": "root",
+"ko": "문지르다"
+},
+"trib(주다)": {
+"type": "root",
+"ko": "주다, 나눠 주다"
+},
+"trucul": {
+"type": "root",
+"ko": "사나운"
+},
+"trud": {
+"type": "root",
+"ko": "밀다"
+},
+"trunc": {
+"type": "root",
+"ko": "줄기, 자르다"
+},
+"tu": {
+"type": "root",
+"ko": "지켜보다"
+},
+"tund": {
+"type": "root",
+"ko": "두드리다"
+},
+"turb": {
+"type": "root",
+"ko": "휘젓다"
+},
+"turg": {
+"type": "root",
+"ko": "부풀다"
+},
+"turp": {
+"type": "root",
+"ko": "추한"
+},
+"type": {
+"type": "root",
+"ko": "틀, 찍은 자국"
+},
+"uber": {
+"type": "root",
+"ko": "풍부한"
+},
+"ubi": {
+"type": "root",
+"ko": "어디에"
+},
+"ulter": {
+"type": "root",
+"ko": "저편의"
+},
+"umbr": {
+"type": "root",
+"ko": "그늘"
+},
+"un-": {
+"type": "prefix",
+"ko": "부정"
+},
+"und": {
+"type": "root",
+"ko": "물결"
+},
+"ung": {
+"type": "root",
+"ko": "바르다"
+},
+"uni": {
+"type": "root",
+"ko": "하나"
+},
+"up-": {
+"type": "prefix",
+"ko": "위로"
+},
+"urb": {
+"type": "root",
+"ko": "도시"
+},
+"ure": {
+"type": "root",
+"ko": "실행, 단련"
+},
+"us": {
+"type": "root",
+"ko": "쓰다"
+},
+"vac": {
+"type": "root",
+"ko": "비다"
+},
+"vad": {
+"type": "root",
+"ko": "가다"
+},
+"vag": {
+"type": "root",
+"ko": "떠돌다"
+},
+"val": {
+"type": "root",
+"ko": "강하다"
+},
+"van": {
+"type": "root",
+"ko": "빈"
+},
+"vap": {
+"type": "root",
+"ko": "김, 증기"
+},
+"vari": {
+"type": "root",
+"ko": "다른"
+},
+"varic": {
+"type": "root",
+"ko": "다리를 벌린"
+},
+"ve-": {
+"type": "prefix",
+"ko": "결여"
+},
+"veh": {
+"type": "root",
+"ko": "나르다"
+},
+"ven(오다)": {
+"type": "root",
+"ko": "오다"
+},
+"ven(은혜)": {
+"type": "root",
+"ko": "은혜, 용서"
+},
+"vener": {
+"type": "root",
+"ko": "존경하다"
+},
+"ver(두려움)": {
+"type": "root",
+"ko": "두려워하다, 존경하다"
+},
+"ver(봄)": {
+"type": "root",
+"ko": "봄"
+},
+"ver(참된)": {
+"type": "root",
+"ko": "참된"
+},
+"verb": {
+"type": "root",
+"ko": "말, 단어"
+},
+"verd": {
+"type": "root",
+"ko": "푸른"
+},
+"verg": {
+"type": "root",
+"ko": "기울다"
+},
+"vert": {
+"type": "root",
+"ko": "돌리다"
+},
+"vest": {
+"type": "root",
+"ko": "옷"
+},
+"vet": {
+"type": "root",
+"ko": "오래된"
+},
+"vi(길)": {
+"type": "root",
+"ko": "길"
+},
+"vi(삶)": {
+"type": "root",
+"ko": "삶"
+},
+"vic": {
+"type": "root",
+"ko": "대신, 교대"
+},
+"vid(나누다)": {
+"type": "root",
+"ko": "나누다"
+},
+"vid(보다)": {
+"type": "root",
+"ko": "보다"
+},
+"vig": {
+"type": "root",
+"ko": "힘, 활력"
+},
+"vil": {
+"type": "root",
+"ko": "천한"
+},
+"vin": {
+"type": "root",
+"ko": "포도주"
+},
+"vinc": {
+"type": "root",
+"ko": "이기다"
+},
+"vind": {
+"type": "root",
+"ko": "주장하다"
+},
+"viol": {
+"type": "root",
+"ko": "해치다, 범하다"
+},
+"vir(남자)": {
+"type": "root",
+"ko": "남자, 사람"
+},
+"vir(독)": {
+"type": "root",
+"ko": "독"
+},
+"visc": {
+"type": "root",
+"ko": "끈끈이"
+},
+"vit": {
+"type": "root",
+"ko": "삶"
+},
+"viv": {
+"type": "root",
+"ko": "살다"
+},
+"voc": {
+"type": "root",
+"ko": "부르다"
+},
+"vol(날다)": {
+"type": "root",
+"ko": "날다"
+},
+"vol(원하다)": {
+"type": "root",
+"ko": "원하다"
+},
+"volv": {
+"type": "root",
+"ko": "구르다"
+},
+"vor": {
+"type": "root",
+"ko": "게걸스레 먹다"
+},
+"vulg": {
+"type": "root",
+"ko": "대중"
+},
+"vuls": {
+"type": "root",
+"ko": "잡아당기다"
+},
+"wan-": {
+"type": "prefix",
+"ko": "결여"
+},
+"wink": {
+"type": "root",
+"ko": "눈을 감다"
+},
+"xeno": {
+"type": "root",
+"ko": "낯선, 외국의"
+},
+"zeal": {
+"type": "root",
+"ko": "열성"
+}
+}

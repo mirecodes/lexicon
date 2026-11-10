@@ -1,0 +1,487 @@
+[
+  {
+    "word": "hoary",
+    "score": 82,
+    "zipf": 2.29,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Old or old-fashioned; trite.",
+        "ko": "케케묵은, 진부한",
+        "synonyms": [
+          "stale",
+          "antiquated",
+          "hackneyed",
+          "timeworn"
+        ],
+        "examples": [
+          {
+            "text": "The comedian relied on hoary jokes that audiences had heard a hundred times before.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "showing characteristics of age, especially having grey or white hair",
+        "ko": "백발의, 늙어 희끗한",
+        "synonyms": [
+          "grey",
+          "grizzled",
+          "white-haired",
+          "venerable"
+        ],
+        "examples": [
+          {
+            "text": "The hoary old fisherman mended his nets on the dock each morning.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "hoar(서리처럼 하얀)에 -y가 붙은 말로 봅니다. 백발이 된 늙음이 '케케묵은'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hobble",
+    "score": 35,
+    "zipf": 2.41,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "hamper the action or progress of",
+        "ko": "방해하다, 속박하다",
+        "synonyms": [
+          "hamper",
+          "hamstring",
+          "impede",
+          "shackle"
+        ],
+        "examples": [
+          {
+            "text": "The chairman was hobbled by the all-powerful dean",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "walk impeded by some physical limitation or injury",
+        "ko": "절뚝거리며 걷다",
+        "synonyms": [
+          "limp",
+          "totter",
+          "stumble"
+        ],
+        "examples": [
+          {
+            "text": "The old woman hobbles down to the store every day",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세영어 hoblen에서 왔고 네덜란드어 hobbelen과 같은 계통입니다. 절뚝거리며 걷는 이미지에서 '방해하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hodgepodge",
+    "score": 67,
+    "zipf": 2.38,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A collection containing a variety of miscellaneous things.",
+        "ko": "뒤죽박죽, 잡동사니",
+        "synonyms": [
+          "mishmash",
+          "jumble",
+          "farrago",
+          "medley",
+          "miscellany"
+        ],
+        "examples": [
+          {
+            "text": "His latest sculpture is a hodgepodge of kitchen clutter and scrap glued together.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 네덜란드어 hutspot '고기를 잘게 썰어 한 솥에 끓인 요리'에서 왔습니다. 여러 재료를 섞은 솥이 '뒤죽박죽'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "homage",
+    "score": 25,
+    "zipf": 3.61,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "respectful deference",
+        "ko": "경의, 존경",
+        "synonyms": [
+          "tribute",
+          "reverence",
+          "deference",
+          "respect"
+        ],
+        "examples": [
+          {
+            "text": "The ceremony paid homage to the volunteers who rebuilt the town after the earthquake.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "An artistic work imitating another in a flattering style.",
+        "ko": "(타 작품에 대한) 오마주",
+        "synonyms": [
+          "tribute",
+          "pastiche",
+          "allusion"
+        ],
+        "examples": [
+          {
+            "text": "The director's final scene is a loving homage to the silent comedies of the 1920s.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hom",
+      "-age"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 homināticum '봉신으로서의 봉사'에서 왔고 라틴어 homō(사람)가 뿌리입니다. 주군에게 바치는 충성이 '경의'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "homespun",
+    "score": 36,
+    "zipf": 2.47,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Plain and homely; unsophisticated and unpretentious.",
+        "ko": "소박한, 꾸밈없는",
+        "synonyms": [
+          "plain",
+          "unpretentious",
+          "rustic",
+          "folksy"
+        ],
+        "examples": [
+          {
+            "text": "The senator's homespun charm and folksy anecdotes won over skeptical rural voters.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "home(집)과 spun(실을 자은)이 합쳐진 말입니다. 집에서 손수 짠 천처럼 소박하고 꾸밈없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "homily",
+    "score": 35,
+    "zipf": 2.63,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A moralizing lecture.",
+        "ko": "훈계, 설교조의 말",
+        "synonyms": [
+          "lecture",
+          "sermonizing",
+          "platitude",
+          "exhortation"
+        ],
+        "examples": [
+          {
+            "text": "The teacher followed the prank with a long homily on responsibility and respect.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A sermon, especially concerning a practical matter.",
+        "ko": "설교",
+        "synonyms": [
+          "sermon",
+          "preachment",
+          "discourse"
+        ],
+        "examples": [
+          {
+            "text": "The pastor's Sunday homily focused on forgiveness within families.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 homilía '군중과의 모임, 강론'에서 왔습니다. hómilos(군중)에서 나온 말로 군중 앞에서 하는 설교가 '훈계'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "homogeneous",
+    "score": 45,
+    "zipf": 3.22,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "all of the same or similar kind or nature",
+        "ko": "동질의, 균일한",
+        "synonyms": [
+          "uniform",
+          "alike",
+          "identical",
+          "consistent"
+        ],
+        "examples": [
+          {
+            "text": "a close-knit homogeneous group",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "homo-",
+      "gen",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "그리스어 homogenḗs '같은 종류의'에서 왔습니다. homós(같은)와 génos(종류)가 합쳐졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hoodwink",
+    "score": 63,
+    "zipf": 1.96,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To deceive using a disguise; to beguile, dupe, mislead.",
+        "ko": "속이다, 기만하다",
+        "synonyms": [
+          "dupe",
+          "deceive",
+          "bamboozle",
+          "hoax",
+          "delude"
+        ],
+        "examples": [
+          {
+            "text": "The con artist hoodwinked investors into believing the company held vast gold reserves.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hood",
+      "wink"
+    ],
+    "origin": {
+      "ko": "hood(두건)와 wink(눈 감다)가 합쳐진 말입니다. 두건으로 눈을 가려 놓고 속인다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "horde",
+    "score": 29,
+    "zipf": 3.23,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a vast multitude",
+        "ko": "무리, 큰 떼",
+        "synonyms": [
+          "throng",
+          "swarm",
+          "multitude",
+          "host"
+        ],
+        "examples": [
+          {
+            "text": "We were beset by a horde of street vendors who thought we were tourists and would buy their cheap souvenirs.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "튀르크어 ordu '군대 주둔지'에서 폴란드어, 독일어, 프랑스어를 거쳐 들어왔습니다. 유목 군대 무리에서 '큰 떼'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hotly",
+    "score": 32,
+    "zipf": 2.93,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "in a heated manner",
+        "ko": "격렬하게, 열띠게",
+        "synonyms": [
+          "heatedly",
+          "passionately",
+          "vehemently",
+          "fiercely"
+        ],
+        "examples": [
+          {
+            "text": "the children were arguing hotly",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hot"
+    ],
+    "origin": {
+      "ko": "고대영어 hātlīce '열렬히'에서 왔습니다. hot(뜨거운)에 -ly가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hound",
+    "score": 27,
+    "zipf": 3.43,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "pursue or chase relentlessly",
+        "ko": "끈질기게 쫓다, 괴롭히다",
+        "synonyms": [
+          "harass",
+          "hunt",
+          "badger",
+          "pursue",
+          "dog"
+        ],
+        "examples": [
+          {
+            "text": "the detectives hounded the suspect until they found him",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 hund '개'에서 왔습니다. 사냥개가 짐승을 끈질기게 쫓듯 괴롭힌다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

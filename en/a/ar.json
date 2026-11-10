@@ -1,0 +1,1052 @@
+[
+  {
+    "word": "arbiter",
+    "score": 31,
+    "zipf": 2.98,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone with the power to settle matters at will",
+        "ko": "결정권자, 절대적 권위자",
+        "synonyms": [
+          "authority",
+          "judge",
+          "controller"
+        ],
+        "examples": [
+          {
+            "text": "she was the final arbiter on all matters of fashion",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "someone chosen to judge and decide a disputed issue",
+        "ko": "중재인, 심판",
+        "synonyms": [
+          "arbitrator",
+          "umpire",
+          "referee",
+          "mediator"
+        ],
+        "examples": [
+          {
+            "text": "The two firms agreed to accept the ruling of a neutral arbiter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 arbiter(증인, 심판)에서 왔고 '보러 가는 사람'이 원뜻입니다. 직접 보고 판결하는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "arbitrary",
+    "score": 55,
+    "zipf": 3.85,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "based on or subject to individual discretion or preference or sometimes impulse or caprice",
+        "ko": "임의적인, 제멋대로의",
+        "synonyms": [
+          "capricious",
+          "random",
+          "whimsical",
+          "discretionary"
+        ],
+        "examples": [
+          {
+            "text": "The decision to use 18 years as the legal age of adulthood was arbitrary, as both age 17 and 19 were reasonable alternatives.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Determined by impulse rather than reason; often connoting heavy-handedness.",
+        "ko": "독단적인, 전횡적인",
+        "synonyms": [
+          "despotic",
+          "autocratic",
+          "high-handed",
+          "unreasoned"
+        ],
+        "examples": [
+          {
+            "text": "the arbitrary rule of a dictator",
+            "source": "oewn"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "arbit",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "라틴어 arbitrarius에서 왔고 arbiter(심판)에서 나왔습니다. 심판 마음대로라는 데서 '제멋대로의'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "arbitrate",
+    "score": 35,
+    "zipf": 2.36,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To make a judgment (on a dispute) as an arbitrator or arbiter",
+        "ko": "중재하다, 판정하다",
+        "synonyms": [
+          "adjudicate",
+          "mediate",
+          "judge",
+          "settle"
+        ],
+        "examples": [
+          {
+            "text": "to arbitrate a disputed case",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "arbit",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 arbitrari(심판 노릇을 하다)에서 왔습니다. 제3자가 판정을 내린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "arcane",
+    "score": 63,
+    "zipf": 2.99,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "requiring secret or mysterious knowledge",
+        "ko": "비밀스러운, 난해한",
+        "synonyms": [
+          "esoteric",
+          "recondite",
+          "obscure",
+          "abstruse",
+          "cryptic"
+        ],
+        "examples": [
+          {
+            "text": "The tax code is so arcane that even seasoned accountants disagree about its provisions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "arc"
+    ],
+    "origin": {
+      "ko": "라틴어 arcanus(숨겨진)에서 왔고 '상자에 가둬 두다'와 연결됩니다. 닫혀 있어 비밀스럽다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "arch",
+    "score": 21,
+    "zipf": 4.02,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "naughtily or annoyingly playful",
+        "ko": "짓궂은, 장난기 어린",
+        "synonyms": [
+          "impish",
+          "mischievous",
+          "puckish",
+          "roguish",
+          "playful"
+        ],
+        "examples": [
+          {
+            "text": "I attempted to hide my emotions, but an arch remark escaped my lips.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Principal; primary.",
+        "ko": "주된, 최고의 (적 등)",
+        "synonyms": [
+          "chief",
+          "principal",
+          "foremost",
+          "leading"
+        ],
+        "examples": [
+          {
+            "text": "They were arch enemies.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "arch-"
+    ],
+    "origin": {
+      "ko": "그리스어 접두사 arch-(으뜸)가 어원이며 흔한 짝인 'arch rogue(대악당)'를 거쳐 '짓궂은'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "archaic",
+    "score": 75,
+    "zipf": 3.36,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "so extremely old as seeming to belong to an earlier period",
+        "ko": "고풍의, 시대에 뒤떨어진",
+        "synonyms": [
+          "antiquated",
+          "antediluvian",
+          "obsolete",
+          "outmoded",
+          "old-fashioned"
+        ],
+        "examples": [
+          {
+            "text": "The company's archaic filing system slowed every request for records.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "arch",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 arkhaikos(옛날식의)에서 왔고 arkhe(시작)에서 나왔습니다. 처음 시절의 것이라 '고풍의'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "archetype",
+    "score": 47,
+    "zipf": 2.96,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An original model of which all other similar concepts, objects, or persons are merely copied, derivative, emulated, or patterned.",
+        "ko": "원형, 전형",
+        "synonyms": [
+          "prototype",
+          "model",
+          "paradigm",
+          "original"
+        ],
+        "examples": [
+          {
+            "text": "Critics often cite Hamlet as the archetype of the indecisive, brooding hero.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "An ideal example of something; a quintessence.",
+        "ko": "전형적인 본보기, 진수",
+        "synonyms": [
+          "epitome",
+          "quintessence",
+          "exemplar"
+        ],
+        "examples": [
+          {
+            "text": "She was the archetype of the self-made entrepreneur.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "arch",
+      "type"
+    ],
+    "origin": {
+      "ko": "그리스어 arkhetypon(처음 찍어낸 틀)에서 왔습니다. 모든 복제의 원본이 '원형'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ardent",
+    "score": 44,
+    "zipf": 3.28,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by intense emotion",
+        "ko": "열렬한, 열정적인",
+        "synonyms": [
+          "fervent",
+          "passionate",
+          "fervid",
+          "zealous",
+          "impassioned"
+        ],
+        "examples": [
+          {
+            "text": "an ardent lover",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ard",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 ardere(타다)의 현재분사에서 왔습니다. 불타는 듯한 열정이 '열렬한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ardor",
+    "score": 34,
+    "zipf": 2.34,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a feeling of strong eagerness (usually in favor of a person or cause)",
+        "ko": "열의, 열정",
+        "synonyms": [
+          "zeal",
+          "fervor",
+          "passion",
+          "enthusiasm",
+          "fire"
+        ],
+        "examples": [
+          {
+            "text": "they were imbued with a revolutionary ardor",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ard",
+      "-or"
+    ],
+    "origin": {
+      "ko": "라틴어 ardor(불타오름)에서 왔고 ardere(타다)에서 나왔습니다. 마음속에서 타오르는 열정입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "arduous",
+    "score": 61,
+    "zipf": 3.18,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by effort to the point of exhaustion; especially physical effort",
+        "ko": "몹시 힘든, 고된",
+        "synonyms": [
+          "grueling",
+          "laborious",
+          "strenuous",
+          "punishing",
+          "taxing"
+        ],
+        "examples": [
+          {
+            "text": "The movement towards a peaceful settlement has been a long and arduous political struggle.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 arduus(가파른, 높은, 힘든)에서 왔습니다. 가파른 비탈을 오르듯 힘겹다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aria",
+    "score": 27,
+    "zipf": 3.39,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an elaborate song for solo voice",
+        "ko": "아리아, 영창",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "The soprano's final aria drew a standing ovation from the audience.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 aria(공기, 노래 곡조)에서 왔고 그리스어 aēr(공기)와 연결됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "armada",
+    "score": 30,
+    "zipf": 3.12,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a large fleet",
+        "ko": "함대, 대규모 선단",
+        "synonyms": [
+          "fleet",
+          "flotilla",
+          "navy"
+        ],
+        "examples": [
+          {
+            "text": "An armada of fishing boats set out at dawn to protest the new quotas.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "arm"
+    ],
+    "origin": {
+      "ko": "스페인어 armada(무장한 선단)에서 왔고 라틴어 armare(무장하다)에서 나왔습니다. army와 같은 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "arrant",
+    "score": 30,
+    "zipf": 1.89,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Complete; downright; utter.",
+        "ko": "순전한, 철저한 (나쁜 의미)",
+        "synonyms": [
+          "utter",
+          "downright",
+          "unmitigated",
+          "out-and-out",
+          "thoroughgoing"
+        ],
+        "examples": [
+          {
+            "text": "The pundit dismissed the proposal as arrant nonsense.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "err",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "errant(떠돌아다니는)의 변형입니다. '떠돌이 악당'처럼 나쁜 말과 어울려 '순전한'이라는 강조어가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "arresting",
+    "score": 26,
+    "zipf": 3.5,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "commanding attention",
+        "ko": "시선을 끄는, 눈길을 사로잡는",
+        "synonyms": [
+          "striking",
+          "captivating",
+          "riveting",
+          "gripping",
+          "stunning"
+        ],
+        "examples": [
+          {
+            "text": "an arresting drawing of people turning into animals",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "rest"
+    ],
+    "origin": {
+      "ko": "arrest(멈추게 하다)에서 나온 말입니다. 발길을 붙잡을 만큼 눈길을 끈다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "arriviste",
+    "score": 22,
+    "zipf": 1.11,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who has suddenly risen to a higher economic status but has not gained social acceptance of others in that class",
+        "ko": "벼락출세자, 졸부",
+        "synonyms": [
+          "upstart",
+          "parvenu",
+          "nouveau riche",
+          "social climber"
+        ],
+        "examples": [
+          {
+            "text": "The old families snubbed the arriviste whose fortune had come from a single lucky merger.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 arriviste에서 왔고 arriver(도착하다)에서 나왔습니다. 막 도착해 올라선 사람을 빗댄 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "arrogate",
+    "score": 76,
+    "zipf": 1.69,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To appropriate or lay claim to something for oneself without right.",
+        "ko": "가로채다, 월권하여 차지하다",
+        "synonyms": [
+          "usurp",
+          "commandeer",
+          "appropriate",
+          "expropriate",
+          "seize"
+        ],
+        "examples": [
+          {
+            "text": "The executive branch has steadily arrogated powers that the constitution reserves to the legislature.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "rog",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 arrogare(요구해 자기 것으로 삼다)에서 왔습니다. 권리 없이 제 것으로 요구하는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "artful",
+    "score": 32,
+    "zipf": 2.88,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by skill in achieving a desired end especially with cunning or craft",
+        "ko": "교묘한, 능란한",
+        "synonyms": [
+          "crafty",
+          "cunning",
+          "wily",
+          "adroit",
+          "shrewd"
+        ],
+        "examples": [
+          {
+            "text": "an artful choice of metaphors",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not straightforward or candid; giving a false appearance of frankness",
+        "ko": "위선적인, 솔직한 척하는",
+        "synonyms": [
+          "disingenuous",
+          "devious",
+          "insincere",
+          "calculating"
+        ],
+        "examples": [
+          {
+            "text": "His artful display of humility fooled no one who knew his ambitions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "art",
+      "-ful"
+    ],
+    "origin": {
+      "ko": "art(기술)에 -ful(가득한)이 붙은 말입니다. 재주가 가득해 교묘하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "articulate",
+    "score": 42,
+    "zipf": 3.54,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "expressing yourself easily or characterized by clear expressive language",
+        "ko": "말을 잘하는, 또렷하게 표현하는",
+        "synonyms": [
+          "eloquent",
+          "fluent",
+          "lucid",
+          "well-spoken",
+          "coherent"
+        ],
+        "examples": [
+          {
+            "text": "She’s a bright, articulate young woman.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "put into words or an expression",
+        "ko": "분명하게 표현하다, 명확히 말하다",
+        "synonyms": [
+          "express",
+          "voice",
+          "formulate",
+          "state",
+          "enunciate"
+        ],
+        "examples": [
+          {
+            "text": "I like this painting, but I can’t articulate why.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "unite by forming a joint or joints",
+        "ko": "관절로 잇다, 마디로 연결되다",
+        "synonyms": [
+          "join",
+          "connect",
+          "hinge"
+        ],
+        "examples": [
+          {
+            "text": "The lower jaw articulates with the skull at the temporomandibular joint.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "artic",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 articulatus(마디가 있는)에서 왔습니다. 말을 마디마디 또렷이 끊어 낸다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "artifact",
+    "score": 27,
+    "zipf": 3.41,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a man-made object taken as a whole",
+        "ko": "인공물, 유물",
+        "synonyms": [
+          "artefact",
+          "relic",
+          "handiwork"
+        ],
+        "examples": [
+          {
+            "text": "The dig produced many Roman artifacts.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A finding or structure in an experiment or investigation that is not a true feature of the object under observation, but is a result of external action, the test arrangement, or an experimental error.",
+        "ko": "(실험·관찰 과정에서 생긴) 인위적 결과, 허상",
+        "synonyms": [
+          "distortion",
+          "anomaly",
+          "error"
+        ],
+        "examples": [
+          {
+            "text": "The spot on his lung turned out to be an artifact of the X-ray process.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "art",
+      "fac(만들다)"
+    ],
+    "origin": {
+      "ko": "라틴어 arte(솜씨로)와 factum(만든 것)이 합쳐진 말입니다. 솜씨로 만든 물건이 '인공물'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "artifice",
+    "score": 35,
+    "zipf": 2.58,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Crafty deception.",
+        "ko": "교활한 속임수, 술책",
+        "synonyms": [
+          "trickery",
+          "guile",
+          "deception",
+          "subterfuge",
+          "duplicity"
+        ],
+        "examples": [
+          {
+            "text": "The notion that consequence can be as easily managed as PR is the ultimate artifice and the ultimate delusion.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a deceptive maneuver (especially to avoid capture)",
+        "ko": "계략, 책략",
+        "synonyms": [
+          "ruse",
+          "stratagem",
+          "ploy",
+          "wile"
+        ],
+        "examples": [
+          {
+            "text": "The spy escaped across the border through an elaborate artifice involving forged papers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "art",
+      "fac(만들다)"
+    ],
+    "origin": {
+      "ko": "라틴어 artificium(솜씨로 만든 것)에서 왔습니다. 재주를 부린 꾸밈이 '교활한 속임수'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "artless",
+    "score": 63,
+    "zipf": 2.02,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "simple and natural; without cunning or deceit",
+        "ko": "꾸밈없는, 순박한",
+        "synonyms": [
+          "ingenuous",
+          "guileless",
+          "naive",
+          "candid",
+          "unaffected"
+        ],
+        "examples": [
+          {
+            "text": "an artless manner",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "showing lack of art",
+        "ko": "서투른, 조악한",
+        "synonyms": [
+          "crude",
+          "clumsy",
+          "unskilled"
+        ],
+        "examples": [
+          {
+            "text": "an artless translation",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "art",
+      "-less"
+    ],
+    "origin": {
+      "ko": "art(기교)에 -less(없는)가 붙은 말입니다. 꾸밈이나 잔재주가 없어 순박하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "artlessness",
+    "score": 23,
+    "zipf": 1.17,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the quality of innocent naivete",
+        "ko": "순진함, 꾸밈없음",
+        "synonyms": [
+          "innocence",
+          "ingenuousness",
+          "naturalness",
+          "simplicity"
+        ],
+        "examples": [
+          {
+            "text": "The child's artlessness disarmed even the most skeptical members of the committee.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "art",
+      "-less",
+      "-ness"
+    ],
+    "origin": {
+      "ko": "artless(꾸밈없는)에 -ness가 붙은 말로, 기교 없이 순수한 상태를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

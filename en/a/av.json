@@ -1,0 +1,363 @@
+[
+  {
+    "word": "avarice",
+    "score": 84,
+    "zipf": 2.5,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "extreme greed for material wealth",
+        "ko": "탐욕, 물욕",
+        "synonyms": [
+          "greed",
+          "cupidity",
+          "covetousness",
+          "rapacity"
+        ],
+        "examples": [
+          {
+            "text": "The novel portrays a banker whose avarice ultimately costs him his family and his friends.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "av"
+    ],
+    "origin": {
+      "ko": "라틴어 avaritia(탐욕)에서 왔고 avere(갈망하다)와 이어집니다. 재물을 몹시 탐내는 마음입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "avaricious",
+    "score": 63,
+    "zipf": 2.04,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "immoderately desirous of acquiring e.g. wealth",
+        "ko": "탐욕스러운, 욕심 많은",
+        "synonyms": [
+          "greedy",
+          "covetous",
+          "grasping",
+          "rapacious",
+          "miserly"
+        ],
+        "examples": [
+          {
+            "text": "they are avaricious and will do anything for money",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "av",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 avaritia(탐욕)에서 왔고 avere(갈망하다)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aver",
+    "score": 49,
+    "zipf": 2.2,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to declare or affirm solemnly and formally as true",
+        "ko": "단언하다, 확언하다",
+        "synonyms": [
+          "assert",
+          "affirm",
+          "avow",
+          "declare",
+          "maintain"
+        ],
+        "examples": [
+          {
+            "text": "The defendant continued to aver that he had never seen the document before the trial.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "ver(참된)"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 advērare에서 왔고 라틴어 verus(참된)에서 나왔습니다. 참이라고 확언한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aversion",
+    "score": 44,
+    "zipf": 3.25,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a feeling of intense dislike",
+        "ko": "강한 반감, 혐오",
+        "synonyms": [
+          "antipathy",
+          "distaste",
+          "repugnance",
+          "loathing"
+        ],
+        "examples": [
+          {
+            "text": "Due to her aversion to the outdoors she complained throughout the entire camping trip.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "vert",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 aversio(외면함)에서 왔습니다. 얼굴을 돌려 피하는 마음이 '혐오'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "avert",
+    "score": 30,
+    "zipf": 3.14,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "prevent the occurrence of; prevent from happening; to protect from or to keep away anything undesirable; to ward off",
+        "ko": "막다, 피하다",
+        "synonyms": [
+          "prevent",
+          "avoid",
+          "forestall",
+          "ward off",
+          "stave off"
+        ],
+        "examples": [
+          {
+            "text": "How can the danger be averted?",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "turn away or aside",
+        "ko": "(시선을) 돌리다",
+        "synonyms": [
+          "turn away",
+          "divert",
+          "deflect"
+        ],
+        "examples": [
+          {
+            "text": "I averted my eyes while my friend typed in her password.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "vert"
+    ],
+    "origin": {
+      "ko": "라틴어 avertere(돌려 버리다)에서 왔습니다. 눈이나 사건을 딴 쪽으로 돌려 피한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "avid",
+    "score": 42,
+    "zipf": 3.5,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by active interest and enthusiasm",
+        "ko": "열렬한, 열광적인",
+        "synonyms": [
+          "keen",
+          "eager",
+          "zealous",
+          "ardent",
+          "enthusiastic"
+        ],
+        "examples": [
+          {
+            "text": "an avid sports fan",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "(often followed by ‘for’) ardently or excessively desirous",
+        "ko": "갈망하는, 탐욕스러운",
+        "synonyms": [
+          "greedy",
+          "craving",
+          "hungry",
+          "eager"
+        ],
+        "examples": [
+          {
+            "text": "avid for adventure",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "av"
+    ],
+    "origin": {
+      "ko": "라틴어 avidus(탐하는, 열망하는)에서 왔고 aveo(갈망하다)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "avocation",
+    "score": 30,
+    "zipf": 1.91,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an auxiliary activity",
+        "ko": "취미, 부업",
+        "synonyms": [
+          "hobby",
+          "pastime",
+          "pursuit",
+          "sideline"
+        ],
+        "examples": [
+          {
+            "text": "Gardening is a wholesome avocation that encourages appreciation for nature and concern for the preservation and enhancement of our environment.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "voc",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "라틴어 avocatio(딴 데로 불러냄)에서 왔습니다. 본업에서 불려 나와 하는 일이 '취미, 부업'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "avuncular",
+    "score": 29,
+    "zipf": 1.82,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "resembling an uncle in kindness or indulgence",
+        "ko": "삼촌 같은, 자상하고 너그러운",
+        "synonyms": [
+          "kindly",
+          "genial",
+          "benevolent",
+          "indulgent"
+        ],
+        "examples": [
+          {
+            "text": "The avuncular professor put nervous first-year students at ease with gentle jokes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "avunc",
+      "-ar"
+    ],
+    "origin": {
+      "ko": "라틴어 avunculus(외삼촌)에서 왔습니다. 삼촌처럼 너그럽다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

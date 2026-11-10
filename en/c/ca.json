@@ -1,0 +1,1853 @@
+[
+  {
+    "word": "cabal",
+    "score": 47,
+    "zipf": 3.04,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a clique (often secret) that seeks power usually through intrigue",
+        "ko": "(비밀) 정치 음모 집단, 도당",
+        "synonyms": [
+          "clique",
+          "junto",
+          "faction",
+          "camarilla"
+        ],
+        "examples": [
+          {
+            "text": "A cabal of senior officials quietly worked to remove the director before the audit became public.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 cabale에서 왔고, 히브리어 qabbalah('전수받은 것', 유대 신비주의)까지 거슬러 갑니다. 소수만 아는 비밀 모임의 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cacophonous",
+    "score": 46,
+    "zipf": 1.94,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having an unpleasant sound",
+        "ko": "불협화음의, 시끄럽고 거슬리는",
+        "synonyms": [
+          "discordant",
+          "harsh",
+          "strident",
+          "raucous"
+        ],
+        "examples": [
+          {
+            "text": "The cacophonous traffic outside made it impossible to hear the lecture in the old hall.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "caco-",
+      "phon",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "그리스어 kakophōnos('나쁜 소리의')에서 왔습니다. kakos(나쁜)와 phōnē(소리)가 합쳐졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cacophony",
+    "score": 35,
+    "zipf": 2.61,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A mix of discordant sounds; dissonance.",
+        "ko": "불협화음, 소음",
+        "synonyms": [
+          "din",
+          "dissonance",
+          "racket",
+          "clamor"
+        ],
+        "examples": [
+          {
+            "text": "A cacophony of car horns and shouting vendors greeted travelers stepping off the train.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "caco-",
+      "phon"
+    ],
+    "origin": {
+      "ko": "그리스어 kakophōnia에서 왔고, kakos(나쁜)와 phōnē(소리)가 합쳐진 말입니다. 거슬리는 소리의 뒤섞임입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cadaverous",
+    "score": 44,
+    "zipf": 1.67,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "very thin especially from disease or hunger or cold",
+        "ko": "송장처럼 여윈, 앙상한",
+        "synonyms": [
+          "gaunt",
+          "emaciated",
+          "haggard",
+          "skeletal"
+        ],
+        "examples": [
+          {
+            "text": "After months in the prison camp, the cadaverous survivors could barely stand without help.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cadaver",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 cadāverōsus에서 왔습니다. 시체(cadaver)처럼 핼쑥하고 말랐다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cajole",
+    "score": 65,
+    "zipf": 2.19,
+    "lists": [
+      "GregMat",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "ko": "감언이설로 꾀다, 구슬리다",
+        "synonyms": [
+          "coax",
+          "wheedle",
+          "inveigle",
+          "sweet-talk"
+        ],
+        "examples": [
+          {
+            "text": "She cajoled her reluctant brother into lending her the car by promising to pay for gas.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 cajoler에서 왔고, 어치(새)처럼 재잘대다와 새장으로 꾀어 들이다가 섞인 말로 봅니다. 달콤한 말로 새장에 꾀는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "callous",
+    "score": 62,
+    "zipf": 3.07,
+    "lists": [
+      "GregMat",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Emotionally hardened; unfeeling and indifferent to the suffering/feelings of others.",
+        "ko": "냉담한, 무정한",
+        "synonyms": [
+          "heartless",
+          "unfeeling",
+          "insensitive",
+          "hardhearted"
+        ],
+        "examples": [
+          {
+            "text": "She was so callous that she could criticise a cancer patient for wearing a wig.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "call",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 callōsus('살갗이 굳은')에서 왔습니다. 굳은살처럼 마음이 무뎌진 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "callow",
+    "score": 52,
+    "zipf": 2.46,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "young and inexperienced",
+        "ko": "미숙한, 풋내기의",
+        "synonyms": [
+          "immature",
+          "green",
+          "naive",
+          "unseasoned",
+          "raw"
+        ],
+        "examples": [
+          {
+            "text": "The callow recruit had never seen real combat and trembled at the first distant explosion.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 calu('털 없는, 대머리의')에서 왔습니다. 아직 털도 안 난 새끼처럼 미숙하다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "calumny",
+    "score": 79,
+    "zipf": 1.97,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a false accusation of an offense or a malicious misrepresentation of someone's words or actions",
+        "ko": "중상모략, 비방",
+        "synonyms": [
+          "slander",
+          "defamation",
+          "aspersion",
+          "libel",
+          "smear"
+        ],
+        "examples": [
+          {
+            "text": "The candidate denounced the rumors as calumny invented by rivals desperate to ruin his reputation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 calumnia('거짓 고발, 악의적 모함')에서 왔고, challenge와 같은 어원에서 갈라진 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cameo",
+    "score": 26,
+    "zipf": 3.48,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A single very brief appearance, especially by a prominent celebrity in a movie or song.",
+        "ko": "(유명인의) 짧은 특별 출연",
+        "synonyms": [
+          "walk-on",
+          "guest appearance",
+          "bit part"
+        ],
+        "examples": [
+          {
+            "text": "The famous director made a brief cameo as a taxi driver in his own film.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "engraving or carving in low relief on a stone (as in a brooch or ring)",
+        "ko": "카메오(양각 보석 세공)",
+        "synonyms": [
+          "relief carving",
+          "intaglio"
+        ],
+        "examples": [
+          {
+            "text": "Her grandmother's cameo, carved from shell, showed a delicate profile of a young woman.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 cammeo(양각 보석 장식)에서 왔고 기원은 불명입니다. 브로치 속 얼굴처럼 눈에 띄는 짧은 출연이 연상됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "campaign",
+    "score": 16,
+    "zipf": 5.0,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a series of actions advancing a principle or tending toward a particular end",
+        "ko": "(조직적인) 운동, 캠페인",
+        "synonyms": [
+          "crusade",
+          "drive",
+          "movement",
+          "effort"
+        ],
+        "examples": [
+          {
+            "text": "Health groups launched a campaign to persuade teenagers to give up smoking.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person; be an advocate for",
+        "ko": "운동을 벌이다, 옹호 활동을 하다",
+        "synonyms": [
+          "crusade",
+          "agitate",
+          "lobby",
+          "press"
+        ],
+        "examples": [
+          {
+            "text": "She campaigned for better social security.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "camp"
+    ],
+    "origin": {
+      "ko": "이탈리아어 campagna('들판, 군사 작전')에서 왔고 라틴어 campus(들판)에서 갈라졌습니다. 들판에서 벌이는 작전이 '운동'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "canard",
+    "score": 67,
+    "zipf": 2.43,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a deliberately misleading fabrication",
+        "ko": "허위 사실, 유언비어",
+        "synonyms": [
+          "hoax",
+          "fabrication",
+          "falsehood",
+          "false rumor"
+        ],
+        "examples": [
+          {
+            "text": "The claim that the dam was unsafe turned out to be a canard spread by its opponents.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 canard('오리, 거짓 소문')를 빌려 온 말입니다. 오리를 '반만 판다'는 옛 표현에서 왔다는 설이 있습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "candid",
+    "score": 74,
+    "zipf": 3.45,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Straightforward, open and sincere, whether people find either refreshing or distasteful.",
+        "ko": "솔직한, 숨김없는",
+        "synonyms": [
+          "frank",
+          "forthright",
+          "outspoken",
+          "blunt"
+        ],
+        "examples": [
+          {
+            "text": "In a candid interview, the coach admitted that the team had played poorly all season.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Impartial and free from prejudice.",
+        "ko": "공정한, 편견 없는",
+        "synonyms": [
+          "unbiased",
+          "impartial",
+          "fair",
+          "objective"
+        ],
+        "examples": [
+          {
+            "text": "The committee asked for a candid assessment of the proposal from someone with no stake in the outcome.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cand"
+    ],
+    "origin": {
+      "ko": "라틴어 candidus('하얀')에서 왔습니다. 속이 희고 깨끗해 숨길 것 없이 솔직하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "candidness",
+    "score": 25,
+    "zipf": 1.41,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the quality of being honest and straightforward in attitude and speech",
+        "ko": "솔직함, 숨김없음",
+        "synonyms": [
+          "candor",
+          "frankness",
+          "directness",
+          "forthrightness"
+        ],
+        "examples": [
+          {
+            "text": "Readers admired the candidness of the memoir, which described the author's failures without excuses.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cand"
+    ]
+  },
+  {
+    "word": "canny",
+    "score": 32,
+    "zipf": 2.89,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Knowing, shrewd, astute.",
+        "ko": "약삭빠른, 영리한",
+        "synonyms": [
+          "shrewd",
+          "astute",
+          "savvy",
+          "sharp"
+        ],
+        "examples": [
+          {
+            "text": "The canny lawyer knew just how to get what he wanted.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Careful, prudent, cautious.",
+        "ko": "신중한, 조심스러운",
+        "synonyms": [
+          "prudent",
+          "cautious",
+          "careful",
+          "wary"
+        ],
+        "examples": [
+          {
+            "text": "A canny investor, she kept most of her savings in cash until the market settled.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "북부 영어 방언에서 온 말로, can('알다')에 -y가 붙었습니다. 아는 게 많아 약삭빠르다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "canon",
+    "score": 20,
+    "zipf": 4.11,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A generally accepted principle; a rule.",
+        "ko": "규범, 원칙",
+        "synonyms": [
+          "principle",
+          "rule",
+          "standard",
+          "precept"
+        ],
+        "examples": [
+          {
+            "text": "The trial must proceed according to the canons of law.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A group of literary works that are generally accepted as representing a field.",
+        "ko": "정전, 대표 작품군",
+        "synonyms": [
+          "classics",
+          "masterworks",
+          "corpus"
+        ],
+        "examples": [
+          {
+            "text": "Scholars have argued for decades about which authors deserve a place in the literary canon.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 kanōn('측량용 막대, 기준')에서 왔고, 갈대를 뜻하는 셈어에서 유래했습니다. 곧은 자가 '규범'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "canonical",
+    "score": 28,
+    "zipf": 3.32,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "According to recognised or orthodox rules.",
+        "ko": "정통의, 규범에 맞는",
+        "synonyms": [
+          "orthodox",
+          "standard",
+          "accepted",
+          "authoritative"
+        ],
+        "examples": [
+          {
+            "text": "The men played golf in the most canonical way, with no local rules.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Present in a canon, religious or otherwise.",
+        "ko": "정경에 속하는, 정전으로 인정된",
+        "synonyms": [
+          "authorized",
+          "sanctioned",
+          "accepted"
+        ],
+        "examples": [
+          {
+            "text": "The Gospel of Luke is a canonical New Testament book.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "canon",
+      "-ical"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 canōnicālis에서 왔고, canon(규범)에 -ical이 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "canonize",
+    "score": 46,
+    "zipf": 1.85,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "declare (a dead person) to be a saint",
+        "ko": "성인으로 시성하다",
+        "synonyms": [
+          "sanctify",
+          "saint",
+          "beatify"
+        ],
+        "examples": [
+          {
+            "text": "After he was shown to have performed a miracle, the priest was canonized",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To regard (an artistic or written work or its creator) as one of a group that are representative of a particular field.",
+        "ko": "정전으로 인정하다, 대표작으로 떠받들다",
+        "synonyms": [
+          "exalt",
+          "enshrine",
+          "glorify"
+        ],
+        "examples": [
+          {
+            "text": "Critics canonized the novel soon after its release, and schools placed it on every reading list.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "canon",
+      "-ize"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 canōnizāre에서 왔고, 그리스어 kanōn(기준)에서 갈라졌습니다. 성인의 공식 목록에 올린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cant",
+    "score": 18,
+    "zipf": 4.35,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Empty, hypocritical talk.",
+        "ko": "위선적인 말, 입에 발린 말",
+        "synonyms": [
+          "hypocrisy",
+          "humbug",
+          "sanctimony",
+          "platitudes"
+        ],
+        "examples": [
+          {
+            "text": "The speech was full of political cant about sacrifice from leaders who had never sacrificed anything.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "An argot, the jargon of a particular class or subgroup.",
+        "ko": "(특정 집단의) 은어, 전문 용어",
+        "synonyms": [
+          "argot",
+          "jargon",
+          "slang",
+          "lingo"
+        ],
+        "examples": [
+          {
+            "text": "He had the look of a prince, but the cant of a fishmonger.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "heel over",
+        "ko": "기울다, 기울이다",
+        "synonyms": [
+          "tilt",
+          "slant",
+          "tip",
+          "lean"
+        ],
+        "examples": [
+          {
+            "text": "The old fence began to cant toward the road after the heavy spring rains.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cant"
+    ],
+    "origin": {
+      "ko": "라틴어 cantō('노래하다')에서 왔고 chant와 같은 어원입니다. 입에 발린 읊조림이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cantankerous",
+    "score": 34,
+    "zipf": 2.34,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having a difficult and contrary disposition",
+        "ko": "심술궂은, 괴팍한",
+        "synonyms": [
+          "crotchety",
+          "ornery",
+          "irascible",
+          "grumpy",
+          "contrary"
+        ],
+        "examples": [
+          {
+            "text": "The cantankerous old neighbor complained about every noise and refused to speak to anyone on the street.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "옛말 contenkerous에서 왔고, contentious(다투기 좋아하는)와 rancorous(원한 깊은)가 섞였다고 추정합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "canto",
+    "score": 33,
+    "zipf": 2.81,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a major division of a long poem",
+        "ko": "(장편시의) 편, 칸토",
+        "synonyms": [
+          "section",
+          "book",
+          "division"
+        ],
+        "examples": [
+          {
+            "text": "In the third canto of the epic, the hero descends into the underworld.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cant"
+    ],
+    "origin": {
+      "ko": "이탈리아어 canto('노래')에서 왔고 chant와 같은 어원입니다. 긴 시를 노래의 한 대목처럼 나눈 단위입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "capitulate",
+    "score": 68,
+    "zipf": 2.5,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To surrender on stipulated terms, end all resistance, give up, go along with or comply.",
+        "ko": "항복하다, 굴복하다",
+        "synonyms": [
+          "surrender",
+          "yield",
+          "submit",
+          "give in",
+          "relent"
+        ],
+        "examples": [
+          {
+            "text": "He argued and hollered for so long that I finally capitulated just to make him stop.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cap(머리)"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 capitulō('항목별로 정리하다, 협상하다')에서 왔고, capitulum(작은 머리, 장)에서 갈라졌습니다. 조건을 항목별로 적어 항복한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "caprice",
+    "score": 32,
+    "zipf": 2.86,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An impulsive, seemingly unmotivated action, change of mind, or notion.",
+        "ko": "변덕, 일시적 기분",
+        "synonyms": [
+          "whim",
+          "impulse",
+          "fancy",
+          "vagary"
+        ],
+        "examples": [
+          {
+            "text": "On a sudden caprice, the heiress canceled her wedding and sailed for Europe.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 capriccio에서 왔고, caporiccio('소름, 갑작스러운 놀람')에서 갈라졌습니다. 갑작스런 충동이 '변덕'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "capricious",
+    "score": 97,
+    "zipf": 2.79,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Impulsive and unpredictable; determined by chance, impulse, or whim.",
+        "ko": "변덕스러운, 종잡을 수 없는",
+        "synonyms": [
+          "fickle",
+          "whimsical",
+          "erratic",
+          "mercurial",
+          "arbitrary"
+        ],
+        "examples": [
+          {
+            "text": "The capricious ruler granted favors one day and withdrew them the next without any explanation.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 capriccioso에서 왔고 caprice에 -ious가 붙은 말입니다. 변덕에 좌우되는 성질을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "captious",
+    "score": 39,
+    "zipf": 1.19,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "tending to find and call attention to faults",
+        "ko": "흠잡기 좋아하는, 트집 잡는",
+        "synonyms": [
+          "carping",
+          "faultfinding",
+          "hypercritical",
+          "nitpicking",
+          "cavilling"
+        ],
+        "examples": [
+          {
+            "text": "The captious reviewer seized on every small error and ignored the book's real achievements.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cap(잡다)"
+    ],
+    "origin": {
+      "ko": "라틴어 captiōsus(말로 함정에 빠뜨리는)에서 왔습니다. 꼬투리를 잡으려 드는 성격입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cardinal",
+    "score": 54,
+    "zipf": 3.9,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Of fundamental importance; crucial, pivotal.",
+        "ko": "기본적인, 가장 중요한",
+        "synonyms": [
+          "fundamental",
+          "essential",
+          "chief",
+          "paramount",
+          "key"
+        ],
+        "examples": [
+          {
+            "text": "Honesty is the cardinal virtue in science, since every result depends on trust in the data.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 cardinālis('문 경첩에 관한')에서 왔습니다. 경첩에 문이 매달리듯 모든 것이 달린 '핵심'이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "careen",
+    "score": 30,
+    "zipf": 1.91,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To lurch or sway violently from side to side.",
+        "ko": "좌우로 크게 흔들리다, 기우뚱거리다",
+        "synonyms": [
+          "lurch",
+          "sway",
+          "tilt",
+          "reel"
+        ],
+        "examples": [
+          {
+            "text": "The overloaded cart careened down the muddy hill, shedding crates at every bend.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To move swiftly and in an uncontrolled way.",
+        "ko": "통제 불능으로 질주하다",
+        "synonyms": [
+          "hurtle",
+          "career",
+          "speed",
+          "barrel"
+        ],
+        "examples": [
+          {
+            "text": "The runaway truck careened through the intersection before crashing into a wall.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 carène('배의 용골')에서 왔고 라틴어 carīna(용골)까지 거슬러 갑니다. 배를 한쪽으로 기울이던 데서 '기우뚱거리다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "caricature",
+    "score": 29,
+    "zipf": 3.19,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a representation of a person that is exaggerated for comic effect",
+        "ko": "풍자만화, 희화",
+        "synonyms": [
+          "cartoon",
+          "parody",
+          "lampoon",
+          "burlesque"
+        ],
+        "examples": [
+          {
+            "text": "The newspaper ran a caricature of the mayor with an enormous nose and tiny feet.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A grotesque misrepresentation.",
+        "ko": "왜곡된 묘사, 우스꽝스러운 모방",
+        "synonyms": [
+          "distortion",
+          "travesty",
+          "parody"
+        ],
+        "examples": [
+          {
+            "text": "Critics said the film offered a caricature of rural life, reducing farmers to simple-minded stereotypes.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 caricatura에서 왔고, 라틴어 carrus(수레)에서 갈라졌습니다. character와는 관계가 없는 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "carping",
+    "score": 31,
+    "zipf": 2.02,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "complaining excessively.",
+        "ko": "트집 잡는, 불평이 많은",
+        "synonyms": [
+          "captious",
+          "faultfinding",
+          "critical",
+          "nitpicking"
+        ],
+        "examples": [
+          {
+            "text": "Ignoring the carping critics, the chef kept the menu exactly as she had designed it.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "persistent petty and unjustified criticism",
+        "ko": "끊임없는 트집, 사소한 비난",
+        "synonyms": [
+          "faultfinding",
+          "cavilling",
+          "nitpicking"
+        ],
+        "examples": [
+          {
+            "text": "Constant carping from the audience made it hard for the speaker to finish his argument.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "carrion",
+    "score": 34,
+    "zipf": 2.71,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the dead and rotting body of an animal; unfit for human food",
+        "ko": "썩어 가는 동물 사체",
+        "synonyms": [
+          "carcass",
+          "remains",
+          "decaying flesh"
+        ],
+        "examples": [
+          {
+            "text": "Vultures feed on carrion.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "carn"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 charoigne에서 왔고 라틴어 caro('살')가 뿌리입니다. 썩어 가는 살덩이를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cartographer",
+    "score": 35,
+    "zipf": 2.37,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who makes maps",
+        "ko": "지도 제작자",
+        "synonyms": [
+          "mapmaker",
+          "chartmaker"
+        ],
+        "examples": [
+          {
+            "text": "The cartographer spent two years surveying the coastline before completing an accurate chart of the bay.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "carto-",
+      "graph"
+    ],
+    "origin": {
+      "ko": "cartography에서 파생된 말로, 프랑스어 carte(지도)에 그리스어 graphō(쓰다)가 합쳐진 형태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cartography",
+    "score": 34,
+    "zipf": 2.67,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the making of maps and charts",
+        "ko": "지도 제작(법)",
+        "synonyms": [
+          "mapmaking",
+          "charting"
+        ],
+        "examples": [
+          {
+            "text": "Advances in satellite imaging transformed cartography, making detailed maps of remote regions cheap to produce.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "carto-",
+      "graph"
+    ],
+    "origin": {
+      "ko": "프랑스어 cartographie에서 왔고, carte(지도)와 그리스어 graphō(쓰다)가 합쳐졌습니다. 지도를 그리는 일입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "castigate",
+    "score": 78,
+    "zipf": 1.92,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To punish or reprimand someone severely.",
+        "ko": "호되게 꾸짖다, 엄하게 벌하다",
+        "synonyms": [
+          "reprimand",
+          "chastise",
+          "rebuke",
+          "berate",
+          "scold"
+        ],
+        "examples": [
+          {
+            "text": "The editorial castigated the board for ignoring safety warnings that might have prevented the disaster.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cast"
+    ],
+    "origin": {
+      "ko": "라틴어 castīgō('꾸짖다')에서 왔고, castus(순결한)에서 갈라졌습니다. 순수하게 바로잡으려고 혹독하게 벌한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cataclysm",
+    "score": 51,
+    "zipf": 2.64,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an event resulting in great loss and misfortune",
+        "ko": "대재앙, 큰 참사",
+        "synonyms": [
+          "catastrophe",
+          "calamity",
+          "disaster",
+          "debacle"
+        ],
+        "examples": [
+          {
+            "text": "The First World War was a cataclysm that destroyed empires and reshaped the map of Europe.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a sudden violent change in the earth's surface",
+        "ko": "지각 변동, 천지 격변",
+        "synonyms": [
+          "upheaval",
+          "convulsion",
+          "flood"
+        ],
+        "examples": [
+          {
+            "text": "Geologists believe a cataclysm of volcanic eruptions reshaped the entire plateau millions of years ago.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cata-",
+      "clys"
+    ],
+    "origin": {
+      "ko": "그리스어 kataklysmos('홍수')에서 왔습니다. 위에서 아래로 쏟아져 모든 것을 휩쓰는 대홍수의 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cataclysmic",
+    "score": 34,
+    "zipf": 2.67,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Of or pertaining to a cataclysm; causing great destruction or upheaval; catastrophic.",
+        "ko": "대변동의, 파멸적인",
+        "synonyms": [
+          "catastrophic",
+          "calamitous",
+          "devastating",
+          "disastrous"
+        ],
+        "examples": [
+          {
+            "text": "It is believed that a cataclysmic impact caused the extinction of the dinosaurs.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cata-",
+      "clys",
+      "-ic"
+    ]
+  },
+  {
+    "word": "catalyst",
+    "score": 39,
+    "zipf": 3.76,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Something that encourages progress or change.",
+        "ko": "촉매, 변화를 촉발하는 것",
+        "synonyms": [
+          "stimulus",
+          "spark",
+          "trigger",
+          "impetus"
+        ],
+        "examples": [
+          {
+            "text": "Economic development and integration are working as a catalyst for peace.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "(chemistry) a substance that initiates or accelerates a chemical reaction without itself being affected",
+        "ko": "(화학) 촉매",
+        "synonyms": [
+          "accelerator"
+        ],
+        "examples": [
+          {
+            "text": "Platinum serves as a catalyst in the converter, speeding up the breakdown of harmful exhaust gases.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cata-",
+      "lys",
+      "-ist"
+    ],
+    "origin": {
+      "ko": "그리스어 katalysis('풀어 헤침')에서 왔습니다. 굳은 상태를 풀어 변화를 일으키는 것이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "categorical",
+    "score": 32,
+    "zipf": 2.88,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Absolute; having no exception.",
+        "ko": "절대적인, 무조건적인",
+        "synonyms": [
+          "absolute",
+          "unqualified",
+          "unconditional",
+          "explicit",
+          "flat"
+        ],
+        "examples": [
+          {
+            "text": "The spokesman gave a categorical denial, insisting that no such meeting had ever taken place.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "후기 라틴어 catēgoricus에서 왔고 category에 -ical이 붙은 말입니다. 범주에 딱 잘라 넣는 단정적인 태도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cathartic",
+    "score": 49,
+    "zipf": 2.81,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "emotionally purging",
+        "ko": "감정을 정화하는, 카타르시스를 주는",
+        "synonyms": [
+          "purifying",
+          "cleansing",
+          "releasing",
+          "purgative"
+        ],
+        "examples": [
+          {
+            "text": "Writing the letter, though she never mailed it, proved a cathartic way to process her grief.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 kathartikos('깨끗이 하는')에서 왔습니다. 마음속 감정을 씻어 내는 정화입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "catholic",
+    "score": 48,
+    "zipf": 4.55,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "All-embracing.",
+        "ko": "포괄적인, 폭넓은",
+        "synonyms": [
+          "eclectic",
+          "universal",
+          "broad",
+          "wide-ranging",
+          "liberal"
+        ],
+        "examples": [
+          {
+            "text": "Her catholic taste in music ranged from medieval chants to modern jazz and folk songs.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cata-",
+      "hol"
+    ],
+    "origin": {
+      "ko": "그리스어 katholikos('보편적인')에서 왔고, kata(~에 걸쳐)와 holos(전체)가 합쳐졌습니다. 전체를 아우른다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "caucus",
+    "score": 25,
+    "zipf": 3.58,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a closed political meeting",
+        "ko": "(정당의) 비공개 간부 회의, 당원 집회",
+        "synonyms": [
+          "party meeting",
+          "assembly",
+          "conclave"
+        ],
+        "examples": [
+          {
+            "text": "The party caucus met behind closed doors to settle on a candidate before the vote.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "meet to select a candidate or promote a policy",
+        "ko": "당원 회의를 열다",
+        "synonyms": [
+          "confer",
+          "convene"
+        ],
+        "examples": [
+          {
+            "text": "Lawmakers from the region caucused to agree on a common position before the budget debate.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "기원은 불명입니다. 북미 원주민 알곤킨어에서 왔다는 설이 자주 거론됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "caustic",
+    "score": 63,
+    "zipf": 2.97,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "harsh or corrosive in tone",
+        "ko": "신랄한, 비꼬는",
+        "synonyms": [
+          "acerbic",
+          "biting",
+          "scathing",
+          "sarcastic",
+          "mordant"
+        ],
+        "examples": [
+          {
+            "text": "The critic's caustic review dismissed the play as a tedious exercise in self-indulgence.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of a substance, especially a strong acid; capable of destroying or eating away by chemical action",
+        "ko": "부식성의, 가성의",
+        "synonyms": [
+          "corrosive",
+          "vitriolic",
+          "erosive"
+        ],
+        "examples": [
+          {
+            "text": "Workers wore gloves and goggles when handling the caustic cleaning solution.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "caust"
+    ],
+    "origin": {
+      "ko": "라틴어 causticus와 그리스어 kaustikos('타는')에서 왔습니다. 불에 태우듯 부식시키는 날카로운 말투입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cavalier",
+    "score": 77,
+    "zipf": 3.17,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Lacking the proper care or concern for something important, reckless, rash, high-handed.",
+        "ko": "무심한, 거만하고 방자한",
+        "synonyms": [
+          "offhand",
+          "dismissive",
+          "high-handed",
+          "flippant",
+          "nonchalant"
+        ],
+        "examples": [
+          {
+            "text": "The executive's cavalier attitude toward safety complaints alarmed regulators and angered the workers.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a gallant or courtly gentleman",
+        "ko": "기사도 정신의 신사",
+        "synonyms": [
+          "chevalier",
+          "gallant",
+          "gentleman"
+        ],
+        "examples": [
+          {
+            "text": "The old cavalier bowed deeply and kissed her hand before escorting her to the dance.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "후기 라틴어 caballārius('기마병')에서 온 프랑스어를 거쳤고, 라틴어 caballus(말)가 뿌리입니다. 말 탄 기사의 거만함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

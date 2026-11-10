@@ -1,0 +1,676 @@
+[
+  {
+    "word": "waffle",
+    "score": 28,
+    "zipf": 3.3,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To be indecisive about something; to dither, to vacillate, to waver.",
+        "ko": "우유부단하게 굴다, 망설이다",
+        "synonyms": [
+          "dither",
+          "vacillate",
+          "waver",
+          "hesitate"
+        ],
+        "examples": [
+          {
+            "text": "The governor continued to waffle on the tax bill, pleasing neither supporters nor critics.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To speak or write evasively or vaguely.",
+        "ko": "얼버무리다, 두루뭉술하게 말하다",
+        "synonyms": [
+          "equivocate",
+          "hedge",
+          "prevaricate"
+        ],
+        "examples": [
+          {
+            "text": "He waffled on for much of the earnings call without addressing the fall in share price.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "스코틀랜드어 waffle('흔들리다, 펄럭이다')에서 온 동사입니다. 이리저리 흔들리는 모습이 '우유부단하게 굴다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "waive",
+    "score": 29,
+    "zipf": 3.24,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To relinquish (a right etc.); to give up claim to; to forgo.",
+        "ko": "(권리 등을) 포기하다, 면제하다",
+        "synonyms": [
+          "relinquish",
+          "forgo",
+          "renounce",
+          "surrender",
+          "dispense with"
+        ],
+        "examples": [
+          {
+            "text": "If you waive the right to be silent, anything you say can be used against you in a court of law.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "앵글로노르만어 weyver('버리다')에서 왔습니다. 권리를 버려 둔다는 뜻이 '포기하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "wan",
+    "score": 23,
+    "zipf": 3.8,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "abnormally deficient in color as suggesting physical or emotional distress",
+        "ko": "창백한, 핼쑥한",
+        "synonyms": [
+          "pale",
+          "pallid",
+          "ashen",
+          "sickly"
+        ],
+        "examples": [
+          {
+            "text": "The patient looked wan and exhausted after the long night of fever.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "lacking vitality as from weariness or illness or unhappiness",
+        "ko": "힘없는, 기운 없는",
+        "synonyms": [
+          "feeble",
+          "listless",
+          "languid"
+        ],
+        "examples": [
+          {
+            "text": "a wan smile",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 wann('어두운, 칙칙한')에서 왔습니다. 안색이 어둡고 핏기 없는 모습이 '창백한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "wander",
+    "score": 24,
+    "zipf": 3.67,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking",
+        "ko": "주제에서 벗어나다, 딴 데로 빠지다",
+        "synonyms": [
+          "digress",
+          "stray",
+          "ramble",
+          "drift"
+        ],
+        "examples": [
+          {
+            "text": "During the long lecture, my attention began to wander toward the clock on the wall.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "move about aimlessly or without any destination, often in search of food or employment",
+        "ko": "방황하다, 어슬렁거리다",
+        "synonyms": [
+          "roam",
+          "stray",
+          "rove",
+          "meander",
+          "drift"
+        ],
+        "examples": [
+          {
+            "text": "The children wandered through the old market, stopping at every stall that caught their eye.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 wandrian('떠돌다')에서 왔고 '돌다, 바꾸다'는 뜻의 어근과 이어집니다. 길에서 벗어나 헤매는 것이 '딴 데로 빠지다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "wane",
+    "score": 49,
+    "zipf": 2.83,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To progressively lose its splendor, value, ardor, power, intensity etc.; to decline.",
+        "ko": "점차 약해지다, 쇠퇴하다",
+        "synonyms": [
+          "decline",
+          "dwindle",
+          "ebb",
+          "diminish",
+          "subside"
+        ],
+        "examples": [
+          {
+            "text": "Public enthusiasm for the project began to wane once the costs became clear.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "decrease in phase",
+        "ko": "(달이) 이지러지다",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "The moon is waning, so the nights will grow darker this week.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 wanian('줄어들다')에서 왔고 '부족, 결핍'을 뜻하는 말과 이어집니다. 달이 이지러지는 모습이 '쇠퇴하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "wanting",
+    "score": 16,
+    "zipf": 4.49,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "inadequate in amount or degree",
+        "ko": "부족한, 모자라는",
+        "synonyms": [
+          "deficient",
+          "lacking",
+          "inadequate",
+          "insufficient"
+        ],
+        "examples": [
+          {
+            "text": "The committee found the proposal wanting in both detail and ambition.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "nonexistent",
+        "ko": "없는, 결여된",
+        "synonyms": [
+          "absent",
+          "missing",
+          "lacking"
+        ],
+        "examples": [
+          {
+            "text": "Basic courtesy was sadly wanting in the way the staff treated the customers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "want('모자라다')에 -ing를 붙인 말입니다. 모자란 상태가 '부족한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "wanton",
+    "score": 80,
+    "zipf": 2.86,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "occurring without motivation or provocation",
+        "ko": "이유 없는, 무자비한",
+        "synonyms": [
+          "unprovoked",
+          "gratuitous",
+          "senseless",
+          "malicious"
+        ],
+        "examples": [
+          {
+            "text": "The report condemned the wanton destruction of the village by retreating troops.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "casual and unrestrained in sexual behavior",
+        "ko": "방탕한, 음란한",
+        "synonyms": [
+          "promiscuous",
+          "lewd",
+          "licentious",
+          "loose"
+        ],
+        "examples": [
+          {
+            "text": "The preacher denounced the wanton behavior of the court.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "spend wastefully",
+        "ko": "낭비하다",
+        "synonyms": [
+          "squander",
+          "waste",
+          "fritter"
+        ],
+        "examples": [
+          {
+            "text": "The young man wantoned away his inheritance.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "wan-"
+    ],
+    "origin": {
+      "ko": "중세 영어 wantoun으로, wan-('아닌')과 towen('가르침을 받은')의 결합입니다. 교육받지 못해 제멋대로라는 뜻이 '이유 없는'으로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "warble",
+    "score": 32,
+    "zipf": 2.08,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To sing like a bird, especially with trills.",
+        "ko": "지저귀다, 떨리는 소리로 노래하다",
+        "synonyms": [
+          "trill",
+          "chirp",
+          "twitter",
+          "sing"
+        ],
+        "examples": [
+          {
+            "text": "A thrush warbled from the top of the hedge as the sun rose over the meadow.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "warrant",
+    "score": 35,
+    "zipf": 4.24,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "provide adequate grounds to justify (a certain course of action)",
+        "ko": "정당화하다, ~할 만한 근거가 되다",
+        "synonyms": [
+          "justify",
+          "merit",
+          "deserve",
+          "necessitate"
+        ],
+        "examples": [
+          {
+            "text": "The minor delay hardly warrants such an angry complaint to the airline.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a writ from a court commanding police to perform specified acts",
+        "ko": "영장",
+        "synonyms": [
+          "writ",
+          "summons"
+        ],
+        "examples": [
+          {
+            "text": "an arrest warrant issued by the court",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "stand behind and guarantee the quality, accuracy, or condition of",
+        "ko": "보증하다",
+        "synonyms": [
+          "guarantee",
+          "vouch for",
+          "certify"
+        ],
+        "examples": [
+          {
+            "text": "The manufacturer warrants every part of the engine for five years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 warant('보호자, 보증')에서 왔고 프랑크어 '막다'에서 나왔습니다. 보증해 준다는 뜻이 '정당화하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "wary",
+    "score": 41,
+    "zipf": 3.57,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by keen caution and watchful prudence",
+        "ko": "경계하는, 조심스러운",
+        "synonyms": [
+          "cautious",
+          "careful",
+          "circumspect",
+          "vigilant",
+          "guarded"
+        ],
+        "examples": [
+          {
+            "text": "He is wary of dogs.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "openly distrustful and unwilling to confide",
+        "ko": "의심하는, 믿지 않는",
+        "synonyms": [
+          "suspicious",
+          "leery",
+          "mistrustful",
+          "distrustful"
+        ],
+        "examples": [
+          {
+            "text": "After being cheated once, the investors grew wary of any proposal that promised quick returns.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "형용사 ware('조심하는')에 -y를 붙인 말입니다. '경계하는'이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "wax",
+    "score": 38,
+    "zipf": 3.92,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "go up or advance",
+        "ko": "커지다, 증대하다",
+        "synonyms": [
+          "grow",
+          "increase",
+          "expand",
+          "swell"
+        ],
+        "examples": [
+          {
+            "text": "The company's fortunes waxed as demand for its software soared.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "increase in phase",
+        "ko": "(달이) 차다",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "As the moon waxes toward full, the tides along the coast grow stronger.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 weaxan('자라다')에서 왔습니다. 달이 차오르듯 커지는 것이 '커지다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "waylay",
+    "score": 27,
+    "zipf": 1.59,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To lie in wait for and attack from ambush.",
+        "ko": "매복하여 습격하다",
+        "synonyms": [
+          "ambush",
+          "ambuscade",
+          "intercept"
+        ],
+        "examples": [
+          {
+            "text": "Bandits waylaid the merchant's caravan in a narrow canyon and made off with the goods.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To accost or intercept unexpectedly.",
+        "ko": "불쑥 붙잡아 세우다",
+        "synonyms": [
+          "accost",
+          "buttonhole",
+          "intercept"
+        ],
+        "examples": [
+          {
+            "text": "Reporters waylaid the senator in the corridor and demanded an answer about the scandal.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "way('길')와 lay('놓다')의 결합이고 중세 네덜란드어 wegelagen을 본뜬 것으로 봅니다. 길목에 숨어 기다리는 것이 '매복 습격하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "wayward",
+    "score": 30,
+    "zipf": 3.09,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "resistant to guidance or discipline",
+        "ko": "제멋대로인, 고집 센",
+        "synonyms": [
+          "willful",
+          "headstrong",
+          "unruly",
+          "obstinate",
+          "perverse"
+        ],
+        "examples": [
+          {
+            "text": "The wayward teenager ignored every curfew his parents set.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "away와 -ward가 줄어든 말입니다. 길에서 벗어나 제멋대로 가는 것이 '제멋대로인'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

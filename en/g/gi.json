@@ -1,0 +1,164 @@
+[
+  {
+    "word": "gibe",
+    "score": 31,
+    "zipf": 1.97,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "laugh at with contempt and derision",
+        "ko": "조롱하다, 비웃다",
+        "synonyms": [
+          "jeer",
+          "scoff",
+          "taunt",
+          "mock",
+          "flout"
+        ],
+        "examples": [
+          {
+            "text": "Rival fans gibed at the visiting team's goalkeeper after every missed save.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an aggressive remark directed at a person like a missile and intended to have a telling effect",
+        "ko": "비꼬는 말, 야유",
+        "synonyms": [
+          "jab",
+          "dig",
+          "barb",
+          "taunt",
+          "jeer"
+        ],
+        "examples": [
+          {
+            "text": "The columnist ended his article with a pointed gibe at the minister's economic record.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "be compatible, similar or consistent; coincide in their characteristics",
+        "ko": "일치하다, 들어맞다",
+        "synonyms": [
+          "agree",
+          "tally",
+          "match",
+          "correspond",
+          "jibe"
+        ],
+        "examples": [
+          {
+            "text": "The suspect's alibi did not gibe with the timeline recorded by the security cameras.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gird",
+    "score": 33,
+    "zipf": 2.22,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To prepare (oneself) for an action.",
+        "ko": "대비하다, 각오를 다지다",
+        "synonyms": [
+          "brace",
+          "steel",
+          "prepare",
+          "fortify"
+        ],
+        "examples": [
+          {
+            "text": "The senator girded herself for a bruising confirmation battle.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To encircle with, or as if with a belt.",
+        "ko": "(띠로) 두르다, 둘러싸다",
+        "synonyms": [
+          "girdle",
+          "encircle",
+          "ring",
+          "surround"
+        ],
+        "examples": [
+          {
+            "text": "A broad moat girded the ancient fortress on three sides.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 gyrdan '허리띠를 두르다'에서 왔습니다. 띠를 졸라매고 일할 채비를 하는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gist",
+    "score": 45,
+    "zipf": 3.18,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The main idea or substance, or the most essential part, of a longer or more complicated matter; the crux, the heart, the pith.",
+        "ko": "요지, 핵심",
+        "synonyms": [
+          "essence",
+          "crux",
+          "substance",
+          "core",
+          "thrust"
+        ],
+        "examples": [
+          {
+            "text": "Skim the abstract first so that you grasp the gist of the paper before reading it closely.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 gist '(소송이) 놓여 있다'에서 왔고 gesir(눕다)에서 나왔습니다. 사건이 바탕을 두는 핵심이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

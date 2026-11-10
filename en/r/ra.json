@@ -1,0 +1,1531 @@
+[
+  {
+    "word": "raconteur",
+    "score": 64,
+    "zipf": 2.13,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person skilled in telling anecdotes",
+        "ko": "이야기꾼, 입담 좋은 사람",
+        "synonyms": [
+          "storyteller",
+          "anecdotist",
+          "narrator"
+        ],
+        "examples": [
+          {
+            "text": "The retired diplomat was a gifted raconteur who held dinner guests spellbound with tales of his postings abroad.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 raconteur('이야기하는 사람')를 그대로 빌려 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "radical",
+    "score": 18,
+    "zipf": 4.33,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(used of opinions and actions) far beyond the norm",
+        "ko": "급진적인, 극단적인",
+        "synonyms": [
+          "extreme",
+          "extremist",
+          "drastic"
+        ],
+        "examples": [
+          {
+            "text": "Critics dismissed the senator's proposal as too radical for a cautious and divided legislature.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "arising from or going to the root or source",
+        "ko": "근본적인, 본질적인",
+        "synonyms": [
+          "fundamental",
+          "basic",
+          "profound"
+        ],
+        "examples": [
+          {
+            "text": "a radical flaw in the plan",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "markedly new or introducing radical change",
+        "ko": "혁신적인, 획기적인",
+        "synonyms": [
+          "revolutionary",
+          "innovative"
+        ],
+        "examples": [
+          {
+            "text": "The architect's radical design abandoned every convention of the traditional civic building.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "rad",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 rādīcālis('뿌리의')에서 왔습니다. 뿌리부터 뒤엎는다는 뜻에서 '급진적인'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "raffish",
+    "score": 26,
+    "zipf": 1.55,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by a carefree unconventionality or disreputableness",
+        "ko": "방탕하지만 매력 있는, 제멋대로인",
+        "synonyms": [
+          "rakish",
+          "disreputable",
+          "devil-may-care"
+        ],
+        "examples": [
+          {
+            "text": "The painter's raffish charm and shabby velvet coat made him a favorite at every bohemian gathering.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "raff('하층민')에 -ish가 붙은 말로, riffraff와 이어집니다. 격식에 매이지 않는 제멋대로의 태도를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "raft",
+    "score": 26,
+    "zipf": 3.46,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "(often followed by ‘of’) a large number or amount or extent",
+        "ko": "다수, 많은 양",
+        "synonyms": [
+          "host",
+          "slew",
+          "multitude"
+        ],
+        "examples": [
+          {
+            "text": "The new law was accompanied by a raft of amendments that confused even seasoned lawyers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "rail",
+    "score": 17,
+    "zipf": 4.41,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "complain bitterly",
+        "ko": "격렬히 항의하다, 비난하다",
+        "synonyms": [
+          "inveigh",
+          "rant",
+          "fulminate"
+        ],
+        "examples": [
+          {
+            "text": "Residents railed against the council's decision to close the library without any public consultation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 railler('조롱하다')에서 왔습니다. 소리 높여 비난하며 항의한다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "raillery",
+    "score": 22,
+    "zipf": 1.08,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Good-natured banter, jest, or ridicule.",
+        "ko": "농담, 놀림, 희롱",
+        "synonyms": [
+          "banter",
+          "badinage",
+          "teasing"
+        ],
+        "examples": [
+          {
+            "text": "Their friendly raillery over chess made the long train journey pass quickly.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 raillerie에서 빌려 온 말로 railler('놀리다')와 이어집니다. 악의 없는 놀림을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "raiment",
+    "score": 48,
+    "zipf": 2.07,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "especially fine or decorative clothing",
+        "ko": "의복, 화려한 옷",
+        "synonyms": [
+          "attire",
+          "regalia",
+          "garb"
+        ],
+        "examples": [
+          {
+            "text": "The king appeared in ceremonial raiment embroidered with gold thread and sewn with pearls.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ment"
+    ],
+    "origin": {
+      "ko": "중세 영어 arayment에서 앞소리가 떨어져 나온 말로 array('차려입히다')와 이어집니다. 잘 갖춰 입은 옷을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rakish",
+    "score": 47,
+    "zipf": 2.01,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Dashingly, carelessly, or sportingly unconventional or stylish; jaunty; characterized by a devil-may-care unconventionality; having a somewhat disreputable quality or appearance.",
+        "ko": "멋을 부린, 약간 방탕한",
+        "synonyms": [
+          "jaunty",
+          "dashing",
+          "raffish"
+        ],
+        "examples": [
+          {
+            "text": "a hat worn at a rakish angle",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Like a rake; dissolute; profligate.",
+        "ko": "방탕한, 난봉꾼 같은",
+        "synonyms": [
+          "dissolute",
+          "profligate",
+          "debauched"
+        ],
+        "examples": [
+          {
+            "text": "The novel follows a rakish aristocrat who squanders his inheritance on gambling and extravagant parties.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "rake('방탕한 남자')에 -ish가 붙은 말입니다. 약간 방탕하지만 멋을 부린 태도를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ramification",
+    "score": 30,
+    "zipf": 1.94,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a development that complicates a situation",
+        "ko": "파생 결과, 복잡한 영향",
+        "synonyms": [
+          "consequence",
+          "complication",
+          "repercussion"
+        ],
+        "examples": [
+          {
+            "text": "the court's decision had many unforeseen ramifications",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the act of branching out or dividing into branches",
+        "ko": "분기, 갈라짐",
+        "synonyms": [
+          "branching",
+          "forking",
+          "divergence"
+        ],
+        "examples": [
+          {
+            "text": "Botanists studied the ramification of the root system across several soil types.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ram",
+      "fac(만들다)",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 rāmificātiō에서 왔고 rāmus('가지')와 '만들다'가 합쳐졌습니다. 나뭇가지처럼 갈라진 복잡한 결과입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ramify",
+    "score": 23,
+    "zipf": 1.18,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "have or develop complicating consequences",
+        "ko": "복잡한 결과를 낳다",
+        "synonyms": [
+          "complicate",
+          "multiply"
+        ],
+        "examples": [
+          {
+            "text": "A small change in tax policy can ramify through the whole economy in unpredictable ways.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To divide into branches or subdivisions.",
+        "ko": "가지를 치다, 분기하다",
+        "synonyms": [
+          "branch",
+          "fork",
+          "diverge"
+        ],
+        "examples": [
+          {
+            "text": "Beyond the delta, the river begins to ramify into dozens of narrow channels.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ram",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "라틴어 rāmus('가지')와 -ficō('만들다')에서 왔습니다. 가지가 갈라지듯 결과가 복잡하게 뻗습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rampant",
+    "score": 26,
+    "zipf": 3.55,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Rife, or occurring widely, frequently or menacingly.",
+        "ko": "만연한, 걷잡을 수 없는",
+        "synonyms": [
+          "rife",
+          "widespread",
+          "unchecked"
+        ],
+        "examples": [
+          {
+            "text": "There was rampant corruption in the city.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "unrestrained and violent",
+        "ko": "난폭한, 제멋대로 날뛰는",
+        "synonyms": [
+          "unrestrained",
+          "raging",
+          "wild"
+        ],
+        "examples": [
+          {
+            "text": "rampant aggression",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 ramper('기어오르다')의 현재분사에서 왔습니다. 뒷발로 일어선 사나운 모습에서 '걷잡을 수 없는'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rampart",
+    "score": 33,
+    "zipf": 2.77,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A defensive structure; a protective barrier; a bulwark.",
+        "ko": "방어물, 보루",
+        "synonyms": [
+          "bulwark",
+          "bastion",
+          "safeguard"
+        ],
+        "examples": [
+          {
+            "text": "A free press is often described as the last rampart against abuse of government power.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an embankment built around a space for defensive purposes",
+        "ko": "성벽, 방어용 둑",
+        "synonyms": [
+          "bulwark",
+          "wall",
+          "fortification"
+        ],
+        "examples": [
+          {
+            "text": "they stormed the ramparts of the city",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "par(준비)"
+    ],
+    "origin": {
+      "ko": "프랑스어 rempart에서 왔고 remparer('방어하다')에서 나왔습니다. 성을 다시 단단히 준비해 지키는 방벽입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rancor",
+    "score": 36,
+    "zipf": 2.51,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a feeling of deep and bitter anger and ill-will",
+        "ko": "깊은 원한, 앙심",
+        "synonyms": [
+          "resentment",
+          "bitterness",
+          "animus",
+          "spite"
+        ],
+        "examples": [
+          {
+            "text": "Years after the lawsuit, rancor still poisoned relations between the two branches of the family.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 rancor('썩은 냄새, 원한')에서 왔고 rancid('썩은')와 같은 뿌리입니다. 마음속에서 썩어 가는 원한입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rancorous",
+    "score": 30,
+    "zipf": 1.94,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Full of rancor; bitter; unforgiving.",
+        "ko": "원한에 찬, 악의적인",
+        "synonyms": [
+          "bitter",
+          "resentful",
+          "acrimonious",
+          "spiteful"
+        ],
+        "examples": [
+          {
+            "text": "rancorous speech",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "rancor('깊은 원한')에 -ous가 붙은 말입니다. 라틴어 rancor는 '썩음'에서 '원한'이 된 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "range",
+    "score": 16,
+    "zipf": 5.12,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an area in which something acts or operates or has power or control:",
+        "ko": "범위, 영역",
+        "synonyms": [
+          "scope",
+          "reach",
+          "compass",
+          "ambit"
+        ],
+        "examples": [
+          {
+            "text": "The committee's investigation was limited in range, leaving several important questions unanswered.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a variety of different things or activities",
+        "ko": "다양성, 여러 종류",
+        "synonyms": [
+          "variety",
+          "array",
+          "spectrum"
+        ],
+        "examples": [
+          {
+            "text": "he answered a range of questions",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 rengier('줄 세우다')에서 왔고 renc('줄')는 프랑크어 hring('고리')에서 나왔습니다. 줄 세운 영역이 '범위'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ranging",
+    "score": 19,
+    "zipf": 4.19,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "wandering freely",
+        "ko": "자유로이 떠도는",
+        "synonyms": [
+          "roaming",
+          "wandering",
+          "rambling"
+        ],
+        "examples": [
+          {
+            "text": "The professor's ranging mind moved easily from medieval law to modern astrophysics.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "rank",
+    "score": 17,
+    "zipf": 4.44,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "conspicuously and outrageously bad or reprehensible",
+        "ko": "지독한, 터무니없는",
+        "synonyms": [
+          "egregious",
+          "flagrant",
+          "glaring",
+          "gross"
+        ],
+        "examples": [
+          {
+            "text": "The report condemned the minister's rank hypocrisy in lecturing others about thrift while living lavishly.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "very offensive in smell or taste",
+        "ko": "악취가 나는, 역겨운",
+        "synonyms": [
+          "foul",
+          "fetid",
+          "rancid"
+        ],
+        "examples": [
+          {
+            "text": "a rank cigar",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "very fertile; producing profuse growth",
+        "ko": "무성한, 지나치게 우거진",
+        "synonyms": [
+          "lush",
+          "luxuriant",
+          "overgrown"
+        ],
+        "examples": [
+          {
+            "text": "rank earth",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "relative status",
+        "ko": "지위, 등급",
+        "synonyms": [
+          "standing",
+          "station",
+          "grade"
+        ],
+        "examples": [
+          {
+            "text": "his salary was determined by his rank and seniority",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "rankle",
+    "score": 44,
+    "zipf": 1.74,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "gnaw into; make resentful or angry",
+        "ko": "마음을 괴롭히다, 분개하게 하다",
+        "synonyms": [
+          "irritate",
+          "fester",
+          "gall",
+          "chafe"
+        ],
+        "examples": [
+          {
+            "text": "The injustice rankled her",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 rancler('곪다')에서 왔고 라틴어 dracunculus('작은 뱀')로 거슬러 갑니다. 곪은 상처처럼 마음을 쑤신다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rapacious",
+    "score": 35,
+    "zipf": 2.39,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "excessively greedy and grasping",
+        "ko": "탐욕스러운, 강탈하는",
+        "synonyms": [
+          "avaricious",
+          "voracious",
+          "predatory",
+          "grasping"
+        ],
+        "examples": [
+          {
+            "text": "Rapacious landlords raised rents sharply, forcing long-time tenants out of the neighborhood.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "living by preying on other animals especially by catching living prey",
+        "ko": "약탈성의, 육식성의",
+        "synonyms": [
+          "predatory",
+          "raptorial",
+          "ravening"
+        ],
+        "examples": [
+          {
+            "text": "The rapacious hawk circled above the field, scanning for mice in the tall grass.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "rap",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 rapāx('낚아채는, 탐욕스러운')에서 왔고 rapere('움켜쥐다')와 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rapprochement",
+    "score": 35,
+    "zipf": 2.62,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the reestablishing of cordial relations",
+        "ko": "화해, 관계 회복",
+        "synonyms": [
+          "reconciliation",
+          "détente",
+          "reunion"
+        ],
+        "examples": [
+          {
+            "text": "The two rival nations pursued a cautious rapprochement after decades of mutual hostility.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-"
+    ],
+    "origin": {
+      "ko": "프랑스어 rapprocher('다시 가까이 가져가다')에서 온 말을 그대로 빌려 왔습니다. 멀어진 사이를 다시 가깝게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rapt",
+    "score": 36,
+    "zipf": 2.53,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "giving or marked by complete attention to",
+        "ko": "몰두한, 넋을 잃은",
+        "synonyms": [
+          "engrossed",
+          "absorbed",
+          "intent",
+          "spellbound"
+        ],
+        "examples": [
+          {
+            "text": "The audience listened in rapt silence as the survivor described her ordeal.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "feeling great rapture or delight",
+        "ko": "황홀해하는, 환희에 찬",
+        "synonyms": [
+          "ecstatic",
+          "enraptured",
+          "rapturous"
+        ],
+        "examples": [
+          {
+            "text": "The child wore a rapt expression as the fireworks lit the night sky.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "rap"
+    ],
+    "origin": {
+      "ko": "라틴어 raptus('낚아채인')에서 왔습니다. 마음을 빼앗겨 넋을 잃고 몰두한 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rarefied",
+    "score": 68,
+    "zipf": 2.46,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Distant from the lives and everyday concerns of ordinary people; esoteric, exclusive, select.",
+        "ko": "고상한, 소수에게만 해당하는, 난해한",
+        "synonyms": [
+          "esoteric",
+          "exclusive",
+          "elite"
+        ],
+        "examples": [
+          {
+            "text": "This is one of the most sought-after models in the rarefied world of high-performance sports car collecting.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Less dense than usual; thin.",
+        "ko": "희박한, 밀도가 낮은",
+        "synonyms": [
+          "thin",
+          "attenuated"
+        ],
+        "examples": [
+          {
+            "text": "The air at high altitudes at the top of mountains is rarefied.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "rar",
+      "-fy"
+    ]
+  },
+  {
+    "word": "rash",
+    "score": 24,
+    "zipf": 3.67,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "imprudently incurring risk",
+        "ko": "성급한, 경솔한",
+        "synonyms": [
+          "reckless",
+          "hasty",
+          "impetuous",
+          "foolhardy"
+        ],
+        "examples": [
+          {
+            "text": "The CEO's rash decision to expand overseas without research nearly bankrupted the company.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a series of unexpected and unpleasant occurrences",
+        "ko": "잇따른 발생, 급증",
+        "synonyms": [
+          "spate",
+          "wave",
+          "outbreak"
+        ],
+        "examples": [
+          {
+            "text": "a rash of bank robberies",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ratify",
+    "score": 32,
+    "zipf": 2.94,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "approve and express assent, responsibility, or obligation",
+        "ko": "비준하다, 승인하다",
+        "synonyms": [
+          "approve",
+          "confirm",
+          "endorse",
+          "sanction"
+        ],
+        "examples": [
+          {
+            "text": "All parties ratified the peace treaty",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "rat",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "라틴어 ratus('헤아려 정해진')에서 온 중세 라틴어 ratificare에서 왔습니다. 확정된 것으로 만든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rational",
+    "score": 20,
+    "zipf": 4.06,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "consistent with or based on or using reason",
+        "ko": "이성적인, 합리적인",
+        "synonyms": [
+          "reasonable",
+          "logical",
+          "sensible"
+        ],
+        "examples": [
+          {
+            "text": "rational behavior",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "capable of being expressed as a quotient of integers",
+        "ko": "유리수의, 정수의 비로 나타낼 수 있는",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "The students showed that every repeating decimal is a rational number.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "rat",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 ratio('이성, 계산')의 형용사형 rationalis에서 왔습니다. 따져 헤아리는 힘이 이성입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rationalism",
+    "score": 35,
+    "zipf": 2.6,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "(philosophy) the doctrine that knowledge is acquired by reason without resort to experience",
+        "ko": "합리론, 이성주의",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "Descartes is often cited as the founder of modern rationalism, which prizes deduction over observation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the doctrine that reason is the right basis for regulating conduct",
+        "ko": "이성 중시 사상",
+        "synonyms": [
+          "freethinking"
+        ],
+        "examples": [
+          {
+            "text": "Enlightenment rationalism encouraged thinkers to question tradition and judge beliefs by reasoned argument.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "rat",
+      "-al",
+      "-ism"
+    ],
+    "origin": {
+      "ko": "rational에 -ism이 붙은 말입니다. 이성으로 지식을 얻는다고 보는 입장입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "raucous",
+    "score": 33,
+    "zipf": 2.82,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unpleasantly loud and harsh",
+        "ko": "시끄럽고 거친, 귀에 거슬리는",
+        "synonyms": [
+          "strident",
+          "harsh",
+          "grating"
+        ],
+        "examples": [
+          {
+            "text": "A raucous cry from the crows echoed across the empty field at dawn.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "disturbing the public peace; loud and rough",
+        "ko": "소란스러운, 떠들썩한",
+        "synonyms": [
+          "rowdy",
+          "boisterous",
+          "unruly"
+        ],
+        "examples": [
+          {
+            "text": "a raucous party",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 raucus('목쉰, 거친')에서 왔습니다. 쉰 목소리처럼 시끄럽고 거칠다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ravage",
+    "score": 35,
+    "zipf": 2.58,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause extensive destruction or ruin utterly",
+        "ko": "황폐화시키다, 파괴하다",
+        "synonyms": [
+          "devastate",
+          "destroy",
+          "lay waste",
+          "ruin"
+        ],
+        "examples": [
+          {
+            "text": "Floods ravaged the countryside, destroying crops and leaving thousands of families without homes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "(usually plural) a destructive action",
+        "ko": "파괴, 참화",
+        "synonyms": [
+          "devastation",
+          "depredation",
+          "havoc"
+        ],
+        "examples": [
+          {
+            "text": "the ravages of time",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 ravir('낚아채 가다')에서 왔고 라틴어 rapere('움켜쥐다')로 거슬러 갑니다. 모조리 휩쓸어 황폐하게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rave",
+    "score": 26,
+    "zipf": 3.52,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "praise enthusiastically",
+        "ko": "열광적으로 칭찬하다",
+        "synonyms": [
+          "gush",
+          "enthuse",
+          "rhapsodize"
+        ],
+        "examples": [
+          {
+            "text": "She raved about that new restaurant",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To speak or write wildly or incoherently.",
+        "ko": "헛소리하다, 횡설수설하다",
+        "synonyms": [
+          "rant",
+          "babble",
+          "rage"
+        ],
+        "examples": [
+          {
+            "text": "The feverish patient raved through the night, calling out names no one in the room recognized.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an extravagantly enthusiastic review",
+        "ko": "극찬하는 평",
+        "synonyms": [
+          "acclaim",
+          "paean"
+        ],
+        "examples": [
+          {
+            "text": "he gave it a rave",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 raver('헛소리하다')에서 왔고 어원은 불확실합니다. 미친 듯 떠든다는 데서 열광적으로 칭찬한다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ravel",
+    "score": 34,
+    "zipf": 2.71,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "tangle or complicate",
+        "ko": "얽히게 하다, 복잡하게 만들다",
+        "synonyms": [
+          "tangle",
+          "entangle",
+          "snarl",
+          "complicate"
+        ],
+        "examples": [
+          {
+            "text": "a ravelled story",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "disentangle",
+        "ko": "풀다, 해결하다",
+        "synonyms": [
+          "unravel",
+          "untangle",
+          "resolve"
+        ],
+        "examples": [
+          {
+            "text": "can you unravel the mystery?",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "네덜란드어 ravelen('엉키다, 풀리다')을 빌려 온 말입니다. 실이 엉키는 모습에서 얽히게 한다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ravenous",
+    "score": 33,
+    "zipf": 2.76,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "extremely hungry",
+        "ko": "몹시 배고픈, 게걸스러운",
+        "synonyms": [
+          "famished",
+          "starving",
+          "voracious"
+        ],
+        "examples": [
+          {
+            "text": "After hiking all day, the ravenous campers devoured every scrap of dinner.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Greedy, characterized by strong desires.",
+        "ko": "탐욕스러운, 갈망하는",
+        "synonyms": [
+          "greedy",
+          "insatiable",
+          "avid"
+        ],
+        "examples": [
+          {
+            "text": "The ravenous appetite of the young firm for new markets worried its cautious investors.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 ravineus에서 왔으며 ravin('약탈')에 -ous가 붙은 말입니다. 먹이를 낚아채는 맹수처럼 몹시 굶주린 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "raze",
+    "score": 36,
+    "zipf": 2.52,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "tear down so as to make flat with the ground",
+        "ko": "완전히 파괴하다, 철거하다",
+        "synonyms": [
+          "demolish",
+          "level",
+          "flatten",
+          "bulldoze"
+        ],
+        "examples": [
+          {
+            "text": "The old factory district was razed to make room for a public park.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 raser('깎다, 밀다')에서 왔습니다. 땅과 평평하게 밀어 버린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

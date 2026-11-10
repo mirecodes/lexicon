@@ -1,0 +1,383 @@
+[
+  {
+    "word": "sybarite",
+    "score": 74,
+    "zipf": 1.46,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person addicted to luxury and pleasures of the senses",
+        "ko": "향락가, 사치와 쾌락에 빠진 사람",
+        "synonyms": [
+          "voluptuary",
+          "hedonist",
+          "epicure",
+          "sensualist"
+        ],
+        "examples": [
+          {
+            "text": "The sybarite spent his afternoons in silk robes, sampling rare wines and ignoring his estates.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아 남부의 그리스 도시 시바리스 주민에서 왔습니다. 부와 향락으로 유명했던 도시입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sycophant",
+    "score": 81,
+    "zipf": 2.2,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who tries to please someone in order to gain a personal advantage",
+        "ko": "아첨꾼, 알랑쇠",
+        "synonyms": [
+          "toady",
+          "flatterer",
+          "lackey",
+          "yes-man",
+          "bootlicker"
+        ],
+        "examples": [
+          {
+            "text": "Surrounded by sycophants, the chairman never heard a single honest criticism of his plans.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "syc",
+      "phan"
+    ],
+    "origin": {
+      "ko": "그리스어 sykophantēs(밀고자, 사기꾼)에서 왔고 '무화과를 보여 주는 자'가 글자 뜻입니다. 이후 아첨꾼을 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "syllogism",
+    "score": 32,
+    "zipf": 2.12,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "deductive reasoning in which a conclusion is derived from two premises",
+        "ko": "삼단논법",
+        "synonyms": [
+          "deduction"
+        ],
+        "examples": [
+          {
+            "text": "All humans are mortal; Socrates is human; therefore Socrates is mortal is the classic syllogism.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "syn-",
+      "log",
+      "-ism"
+    ],
+    "origin": {
+      "ko": "그리스어 syllogismos(추론)에서 왔습니다. 전제들을 함께 모아 결론을 셈해 내는 논법입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "symbiosis",
+    "score": 50,
+    "zipf": 2.71,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the relation between two different species of organisms that are interdependent; each gains benefits from the other",
+        "ko": "공생",
+        "synonyms": [
+          "mutualism",
+          "interdependence"
+        ],
+        "examples": [
+          {
+            "text": "Bees and flowers display symbiosis. The bees get nectar and the flowers get pollinated.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The state of people of different types, races, cultures, communities, etc., living together.",
+        "ko": "(집단 간) 공존, 상호 의존",
+        "synonyms": [
+          "coexistence",
+          "partnership",
+          "interdependence"
+        ],
+        "examples": [
+          {
+            "text": "The newspaper and the city's politicians lived in an uneasy symbiosis, each needing the other.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "syn-",
+      "bio",
+      "-sis"
+    ],
+    "origin": {
+      "ko": "그리스어 symbiōsis(함께 삶)에서 왔습니다. 서로 의지하며 함께 사는 공생입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "symmetry",
+    "score": 26,
+    "zipf": 3.51,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "balance among the parts of something",
+        "ko": "균형, 조화",
+        "synonyms": [
+          "balance",
+          "proportion",
+          "harmony",
+          "evenness"
+        ],
+        "examples": [
+          {
+            "text": "The architect prized the perfect symmetry of the building's two wings.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "(mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane",
+        "ko": "대칭",
+        "synonyms": [
+          "correspondence",
+          "balance"
+        ],
+        "examples": [
+          {
+            "text": "A snowflake displays six-fold symmetry about its center.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "syn-",
+      "metr",
+      "-y"
+    ],
+    "origin": {
+      "ko": "그리스어 symmetria에서 왔고 '함께 잰 것'을 뜻합니다. 부분들이 같은 척도로 맞는 균형입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "synchronous",
+    "score": 31,
+    "zipf": 3.0,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "occurring or existing at the same time or having the same period or phase",
+        "ko": "동시에 일어나는, 동기의",
+        "synonyms": [
+          "simultaneous",
+          "coincident",
+          "concurrent"
+        ],
+        "examples": [
+          {
+            "text": "a synchronous set of clocks",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "syn-",
+      "chron",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 synchronus에서 왔고 그리스어로 '시간을 함께하는'을 뜻합니다. 같은 때에 일어난다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "syncopated",
+    "score": 34,
+    "zipf": 2.26,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "stressing a normally weak beat",
+        "ko": "당김음의, 싱코페이션이 들어간",
+        "synonyms": [
+          "offbeat",
+          "accented"
+        ],
+        "examples": [
+          {
+            "text": "The drummer's syncopated rhythm gave the old folk tune an unexpected jazz-like energy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "syn-",
+      "cop(자르다)",
+      "-ate"
+    ]
+  },
+  {
+    "word": "synoptic",
+    "score": 52,
+    "zipf": 2.45,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "presenting a summary or general view of a whole",
+        "ko": "개관적인, 일람의",
+        "synonyms": [
+          "comprehensive",
+          "summary",
+          "overall"
+        ],
+        "examples": [
+          {
+            "text": "a synoptic presentation of a physical theory",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "syn-",
+      "op(눈)",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 synoptikos(한눈에 보는)에서 왔습니다. 전체를 함께 한눈에 내려다보는 개관입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "syntax",
+    "score": 26,
+    "zipf": 3.53,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the grammatical arrangement of words in sentences",
+        "ko": "구문론, 문장 구조",
+        "synonyms": [
+          "sentence structure",
+          "grammar"
+        ],
+        "examples": [
+          {
+            "text": "The poet's unusual syntax forces readers to pause and reconstruct each sentence's meaning.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "syn-",
+      "tax(배열)"
+    ],
+    "origin": {
+      "ko": "그리스어 syntaxis(함께 배열함)에서 왔습니다. 단어를 알맞게 늘어놓는 문장 구조입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

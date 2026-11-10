@@ -1,0 +1,766 @@
+[
+  {
+    "word": "gadfly",
+    "score": 32,
+    "zipf": 2.12,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A person who upsets the status quo by posing novel or upsetting questions, or attempts to stimulate innovation by being an irritant.",
+        "ko": "기존 질서에 도전하는 비판자, 귀찮게 구는 사람",
+        "synonyms": [
+          "critic",
+          "provocateur",
+          "nonconformist",
+          "agitator"
+        ],
+        "examples": [
+          {
+            "text": "Socrates, the Athenian gadfly, tormented the city's leaders with relentless questions about justice.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a persistently annoying person",
+        "ko": "끈질기게 성가시게 구는 사람",
+        "synonyms": [
+          "pest",
+          "nuisance",
+          "pesterer",
+          "irritant"
+        ],
+        "examples": [
+          {
+            "text": "The reporter became a gadfly, pestering the mayor at every public appearance.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "gad",
+      "fly"
+    ],
+    "origin": {
+      "ko": "소를 모는 뾰족한 막대(gad)처럼 소를 물어 괴롭히는 파리(fly)입니다. 가만있는 사람을 쿡쿡 찌르는 비판자가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gaffe",
+    "score": 50,
+    "zipf": 2.66,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a socially awkward or tactless act",
+        "ko": "실언, 실수",
+        "synonyms": [
+          "faux pas",
+          "blunder",
+          "solecism",
+          "slip",
+          "bloomer"
+        ],
+        "examples": [
+          {
+            "text": "The candidate's gaffe about rural voters dominated the news for an entire week.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 gaffe '실수'에서 왔고, 옛 오크어 gaf(걸쇠, 갈고리)가 어원입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gainsay",
+    "score": 74,
+    "zipf": 1.54,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To say something in contradiction to.",
+        "ko": "부인하다, 반박하다",
+        "synonyms": [
+          "deny",
+          "contradict",
+          "dispute",
+          "refute",
+          "controvert"
+        ],
+        "examples": [
+          {
+            "text": "No one could gainsay the evidence of the scientists' decade of careful measurements.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "gain-",
+      "say"
+    ],
+    "origin": {
+      "ko": "중세영어 gainsayen에서 왔습니다. 상대의 말에 맞서(gain-) 말한다(say)는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gale",
+    "score": 25,
+    "zipf": 3.62,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a strong wind moving 45-90 knots; force 7 to 10 on Beaufort scale",
+        "ko": "강풍, 돌풍",
+        "synonyms": [
+          "storm",
+          "tempest",
+          "squall"
+        ],
+        "examples": [
+          {
+            "text": "A gale tore shingles from the roofs and kept the ferries tied up in harbor.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "An outburst, especially of laughter.",
+        "ko": "(웃음 등의) 폭발",
+        "synonyms": [
+          "outburst",
+          "peal",
+          "burst",
+          "fit"
+        ],
+        "examples": [
+          {
+            "text": "The comedian's closing joke drew a gale of laughter from the audience.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gall",
+    "score": 28,
+    "zipf": 3.3,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the trait of being rude and impertinent; inclined to take liberties",
+        "ko": "뻔뻔함, 철면피",
+        "synonyms": [
+          "impudence",
+          "nerve",
+          "audacity",
+          "insolence",
+          "effrontery"
+        ],
+        "examples": [
+          {
+            "text": "He had the gall to ask for a raise right after losing the firm's biggest client.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "become or make sore by or as if by rubbing",
+        "ko": "쓰라리게 하다, 화나게 하다",
+        "synonyms": [
+          "chafe",
+          "irritate",
+          "vex",
+          "rankle",
+          "irk"
+        ],
+        "examples": [
+          {
+            "text": "It galled her that colleagues with less experience were promoted ahead of her.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a feeling of deep and bitter anger and ill-will",
+        "ko": "쓰라린 분노, 원한",
+        "synonyms": [
+          "rancor",
+          "bitterness",
+          "resentment",
+          "spleen"
+        ],
+        "examples": [
+          {
+            "text": "Years of rejection filled the poet with gall that bled into every line he wrote.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 gealla '쓸개즙'에서 왔습니다. 쓸개즙이 성격과 연결된다던 옛 체액설 때문에 '뻔뻔함'이라는 뜻이 생겼습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "galvanize",
+    "score": 50,
+    "zipf": 2.31,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to stimulate to action",
+        "ko": "자극하여 행동하게 하다",
+        "synonyms": [
+          "spur",
+          "rouse",
+          "stimulate",
+          "electrify",
+          "energize"
+        ],
+        "examples": [
+          {
+            "text": "The shocking report galvanized residents into demanding cleaner drinking water.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cover with zinc",
+        "ko": "아연 도금하다",
+        "synonyms": [
+          "zinc-coat",
+          "plate"
+        ],
+        "examples": [
+          {
+            "text": "Workers galvanize the steel beams to protect them from rust.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "galvan",
+      "-ize"
+    ],
+    "origin": {
+      "ko": "이탈리아 생리학자 갈바니(Galvani)의 이름에서 왔습니다. 전기 자극을 주듯 사람을 자극해 움직이게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gambit",
+    "score": 30,
+    "zipf": 3.1,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Any ploy or stratagem.",
+        "ko": "책략, 계략",
+        "synonyms": [
+          "ploy",
+          "stratagem",
+          "maneuver",
+          "ruse",
+          "tactic"
+        ],
+        "examples": [
+          {
+            "text": "Their promise to lower taxes is clearly an election-year gambit.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an opening remark intended to secure an advantage for the speaker",
+        "ko": "(대화의) 서두 발언, 선수",
+        "synonyms": [
+          "opener",
+          "ploy",
+          "opening move"
+        ],
+        "examples": [
+          {
+            "text": "She began the negotiation with a bold gambit, offering to waive the penalty clause.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 gambetto '다리 걸기'에서 왔고 gamba(다리)에서 나왔습니다. 상대를 넘어뜨리는 수가 '책략'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gambol",
+    "score": 45,
+    "zipf": 1.79,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "play boisterously",
+        "ko": "뛰놀다, 장난치며 돌아다니다",
+        "synonyms": [
+          "frolic",
+          "romp",
+          "caper",
+          "frisk",
+          "cavort"
+        ],
+        "examples": [
+          {
+            "text": "Lambs gambol across the meadow each spring while their mothers graze nearby.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 gambade '껑충 뛰어오름'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "garble",
+    "score": 28,
+    "zipf": 1.65,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To corrupt; to make unreadable, incomprehensible, or unintelligible.",
+        "ko": "(내용을) 왜곡하다, 뒤섞어 알아볼 수 없게 하다",
+        "synonyms": [
+          "scramble",
+          "distort",
+          "jumble",
+          "muddle"
+        ],
+        "examples": [
+          {
+            "text": "A poor phone connection garbled the message so badly that no one understood the instructions.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make false by mutilation or addition; as of a message or story",
+        "ko": "(사실을) 왜곡하다, 조작하다",
+        "synonyms": [
+          "falsify",
+          "distort",
+          "misrepresent",
+          "warp"
+        ],
+        "examples": [
+          {
+            "text": "The tabloid garbled the senator's remarks to make them sound far more inflammatory.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "아랍어 ḡarbala '체로 치다'에서 중세 라틴어와 앵글로노르만어를 거쳐 왔습니다. 체로 쳐 뒤섞는다는 이미지가 '왜곡하다'로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "garish",
+    "score": 35,
+    "zipf": 2.58,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "tastelessly showy",
+        "ko": "야하고 번지르르한, 저속하게 화려한",
+        "synonyms": [
+          "gaudy",
+          "flashy",
+          "loud",
+          "tawdry",
+          "brassy"
+        ],
+        "examples": [
+          {
+            "text": "The casino's garish neon signs lit up the street long after midnight.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "garner",
+    "score": 42,
+    "zipf": 3.55,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "assemble or get together",
+        "ko": "모으다, 수집하다",
+        "synonyms": [
+          "gather",
+          "collect",
+          "amass",
+          "accumulate"
+        ],
+        "examples": [
+          {
+            "text": "The survey team garnered data from more than two thousand households across the region.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "acquire or deserve by one's efforts or actions",
+        "ko": "(노력으로) 얻다, 획득하다",
+        "synonyms": [
+          "earn",
+          "win",
+          "gain",
+          "reap",
+          "attract"
+        ],
+        "examples": [
+          {
+            "text": "The young director garnered widespread praise for her debut film.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 grānārium '곡물 창고'에서 왔고 granary와 같은 말에서 갈라진 쌍둥이입니다. 곡식을 창고에 거두어들이는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "garrulous",
+    "score": 80,
+    "zipf": 2.11,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Excessively or tiresomely talkative.",
+        "ko": "수다스러운, 말 많은",
+        "synonyms": [
+          "loquacious",
+          "talkative",
+          "voluble",
+          "verbose",
+          "chatty"
+        ],
+        "examples": [
+          {
+            "text": "The garrulous host kept his guests at the door for an hour with stories.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "garrul",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 garrulus '수다스러운'에서 왔고, garriō(재잘거리다)에서 나온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gauche",
+    "score": 68,
+    "zipf": 2.53,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking social polish",
+        "ko": "세련되지 못한, 서투른",
+        "synonyms": [
+          "awkward",
+          "tactless",
+          "unpolished",
+          "clumsy",
+          "graceless"
+        ],
+        "examples": [
+          {
+            "text": "It seemed gauche to the hostess that he asked the price of every painting on her walls.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 gauche '왼쪽의, 서투른'에서 왔습니다. 왼쪽을 어색하고 서투르다고 여긴 데서 나온 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gaunt",
+    "score": 32,
+    "zipf": 2.9,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "very thin especially from disease or hunger or cold",
+        "ko": "앙상한, 수척한",
+        "synonyms": [
+          "emaciated",
+          "haggard",
+          "skeletal",
+          "cadaverous",
+          "lean"
+        ],
+        "examples": [
+          {
+            "text": "After months in the wilderness, the explorers returned gaunt and exhausted.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Of a place or thing: bleak, desolate.",
+        "ko": "황량한, 음산한",
+        "synonyms": [
+          "bleak",
+          "desolate",
+          "barren",
+          "stark"
+        ],
+        "examples": [
+          {
+            "text": "The gaunt ruins of the abandoned factory loomed over the empty, windswept valley.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gawk",
+    "score": 35,
+    "zipf": 2.4,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "look with amazement; look stupidly",
+        "ko": "멍하니 쳐다보다",
+        "synonyms": [
+          "gape",
+          "goggle",
+          "stare",
+          "gawp",
+          "ogle"
+        ],
+        "examples": [
+          {
+            "text": "Tourists stopped to gawk at the film star as she stepped out of the limousine.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an awkward stupid person",
+        "ko": "얼간이, 멍청이",
+        "synonyms": [
+          "oaf",
+          "lout",
+          "clod",
+          "simpleton"
+        ],
+        "examples": [
+          {
+            "text": "The boy, a tall and shy gawk, tripped over his own feet on the way to the stage.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gawky",
+    "score": 46,
+    "zipf": 1.91,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking grace in movement or posture",
+        "ko": "어색하고 어설픈, 서투른",
+        "synonyms": [
+          "awkward",
+          "clumsy",
+          "ungainly",
+          "lanky",
+          "uncoordinated"
+        ],
+        "examples": [
+          {
+            "text": "The gawky teenager grew into an elegant dancer within a few years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

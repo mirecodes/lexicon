@@ -1,0 +1,75 @@
+[
+  {
+    "word": "bygone",
+    "score": 33,
+    "zipf": 2.83,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "well in the past; former",
+        "ko": "지나간, 옛날의",
+        "synonyms": [
+          "past",
+          "former",
+          "olden",
+          "departed"
+        ],
+        "examples": [
+          {
+            "text": "The museum recreates the daily life of a bygone era with remarkable care.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "by(옆을 지나)와 gone(가 버린)이 합쳐진 말로, 곁을 지나가 버린 과거를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "byzantine",
+    "score": 60,
+    "zipf": 3.35,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "highly complex or intricate and occasionally devious",
+        "ko": "극도로 복잡한, 미로 같은",
+        "synonyms": [
+          "convoluted",
+          "labyrinthine",
+          "tortuous",
+          "intricate",
+          "tangled"
+        ],
+        "examples": [
+          {
+            "text": "Applicants struggled with the byzantine rules governing permits, which changed from one office to the next.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "비잔티움(비잔틴 제국)에서 온 말입니다. 제국의 복잡한 관료 체제와 궁정 음모에서 '미로 같은'이란 뜻이 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

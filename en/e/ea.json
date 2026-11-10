@@ -1,0 +1,76 @@
+[
+  {
+    "word": "earnest",
+    "score": 40,
+    "zipf": 3.66,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by a firm and humorless belief in the validity of your opinions",
+        "ko": "진지한, 진심 어린",
+        "synonyms": [
+          "sincere",
+          "solemn",
+          "serious",
+          "fervent"
+        ],
+        "examples": [
+          {
+            "text": "both sides were deeply in earnest, even passionate",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Strenuous; diligent.",
+        "ko": "열성적인, 성실한",
+        "synonyms": [
+          "diligent",
+          "assiduous",
+          "industrious",
+          "sedulous"
+        ],
+        "examples": [
+          {
+            "text": "earnest efforts",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A sum of money paid in advance as a deposit; hence, a pledge, a guarantee, an indication of something to come.",
+        "ko": "계약금, 보증, 징표",
+        "synonyms": [
+          "pledge",
+          "deposit",
+          "token",
+          "guarantee"
+        ],
+        "examples": [
+          {
+            "text": "The firm paid a small sum as earnest money to show it intended to complete the purchase.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 eornest(진지함, 열의)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

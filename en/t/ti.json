@@ -1,0 +1,169 @@
+[
+  {
+    "word": "tide",
+    "score": 20,
+    "zipf": 4.05,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "something that may increase or decrease (like the tides of the sea)",
+        "ko": "(여론·사건 등의) 흐름, 추세",
+        "synonyms": [
+          "current",
+          "trend",
+          "tendency",
+          "drift"
+        ],
+        "examples": [
+          {
+            "text": "The tide of public opinion has turned.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To carry over or through a problem or difficulty.",
+        "ko": "(어려움을) 넘기게 해주다",
+        "synonyms": [
+          "sustain",
+          "tide over",
+          "carry"
+        ],
+        "examples": [
+          {
+            "text": "A small emergency loan tided the bakery over until the holiday orders began arriving.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 tīd('때, 시간')에서 왔고 time과 친척입니다. 때에 맞춰 오가는 바닷물이 '흐름, 추세'로 비유되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "timely",
+    "score": 22,
+    "zipf": 3.85,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "done or happening at the appropriate or proper time",
+        "ko": "시기적절한, 때맞춘",
+        "synonyms": [
+          "opportune",
+          "well-timed",
+          "seasonable",
+          "prompt"
+        ],
+        "examples": [
+          {
+            "text": "a timely warning",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 tīmlīc에서 왔고 time에 -ly를 붙인 형태입니다. 때에 맞는다는 뜻 그대로 '시기적절한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "timorous",
+    "score": 61,
+    "zipf": 1.81,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "timid by nature or revealing timidity",
+        "ko": "겁 많은, 소심한",
+        "synonyms": [
+          "timid",
+          "fearful",
+          "faint-hearted",
+          "diffident"
+        ],
+        "examples": [
+          {
+            "text": "The timorous clerk never dared to question a decision made by his superiors.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tim",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 timor('두려움')에서 온 중세 라틴어 timōrōsus에서 왔습니다. 두려움이 가득하다는 뜻에서 '겁 많은'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tirade",
+    "score": 64,
+    "zipf": 2.87,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A long, angry or violent speech.",
+        "ko": "장황한 비난, 맹렬한 연설",
+        "synonyms": [
+          "diatribe",
+          "harangue",
+          "rant",
+          "philippic",
+          "broadside"
+        ],
+        "examples": [
+          {
+            "text": "The coach launched into a tirade about the team's carelessness that lasted until the buses departed.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 tirade('긴 독백, 장광설')를 그대로 빌려 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

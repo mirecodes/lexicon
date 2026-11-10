@@ -1,0 +1,1071 @@
+[
+  {
+    "word": "anachronism",
+    "score": 52,
+    "zipf": 2.53,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "something located at a time when it could not have existed or occurred",
+        "ko": "시대착오, 시대에 맞지 않는 것",
+        "synonyms": [
+          "misdating",
+          "mistiming",
+          "relic",
+          "throwback"
+        ],
+        "examples": [
+          {
+            "text": "A wristwatch in the medieval battle scene was a glaring anachronism that the film's editors missed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ana-",
+      "chron",
+      "-ism"
+    ],
+    "origin": {
+      "ko": "그리스어 anachronismos(시간을 잘못 잡음)에서 왔습니다. 시간을 거스르는 듯한 어긋남이 '시대착오'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "anachronistic",
+    "score": 66,
+    "zipf": 2.69,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "chronologically misplaced",
+        "ko": "시대착오적인",
+        "synonyms": [
+          "outdated",
+          "outmoded",
+          "archaic",
+          "misplaced",
+          "obsolete"
+        ],
+        "examples": [
+          {
+            "text": "Critics called the dress code anachronistic, a leftover from an era when offices were all-male.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ana-",
+      "chron",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "anachronism에서 파생된 말로, 그리스어 '시간을 잘못 잡음'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "analgesia",
+    "score": 35,
+    "zipf": 2.37,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "absence of the sense of pain without loss of consciousness",
+        "ko": "무통각, 진통",
+        "synonyms": [
+          "pain relief",
+          "insensibility to pain",
+          "anesthesia"
+        ],
+        "examples": [
+          {
+            "text": "The patient received epidural analgesia during labor and remained fully awake throughout.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "a-(부정)",
+      "alg"
+    ],
+    "origin": {
+      "ko": "그리스어 analgesia(고통을 못 느낌)에서 왔습니다. an-(없는)과 algos(고통)가 합쳐진 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "analgesic",
+    "score": 34,
+    "zipf": 2.68,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "capable of relieving pain",
+        "ko": "진통 효과가 있는",
+        "synonyms": [
+          "anodyne",
+          "painkilling",
+          "pain-relieving",
+          "analgetic"
+        ],
+        "examples": [
+          {
+            "text": "The cream has a mild analgesic effect that eases sore muscles after exercise.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a medicine used to relieve pain",
+        "ko": "진통제",
+        "synonyms": [
+          "painkiller",
+          "anodyne",
+          "pain pill"
+        ],
+        "examples": [
+          {
+            "text": "Doctors recommended a simple analgesic rather than a stronger prescription drug.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "a-(부정)",
+      "alg",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "analgesia(고통 없음)에 -ic이 붙은 말입니다. 그리스어 algos(고통)가 바탕입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "analogous",
+    "score": 59,
+    "zipf": 3.36,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "similar or equivalent in some respects though otherwise dissimilar",
+        "ko": "유사한, 비슷한 점이 있는",
+        "synonyms": [
+          "comparable",
+          "parallel",
+          "similar",
+          "akin",
+          "corresponding"
+        ],
+        "examples": [
+          {
+            "text": "The economist argued that the housing bubble was analogous to the tulip mania of the seventeenth century.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ana-",
+      "log",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "그리스어 analogos(비례하는)에서 왔습니다. 서로 비율이 맞아 비슷하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "anarchy",
+    "score": 26,
+    "zipf": 3.52,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a state of lawlessness and disorder (usually resulting from a failure of government)",
+        "ko": "무정부 상태, 무질서",
+        "synonyms": [
+          "lawlessness",
+          "disorder",
+          "chaos",
+          "mayhem",
+          "turmoil"
+        ],
+        "examples": [
+          {
+            "text": "After the dictator fell, the capital descended into anarchy as rival militias fought for control.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "a-(부정)",
+      "arch"
+    ],
+    "origin": {
+      "ko": "그리스어 anarchia(지배자 없음)에서 왔습니다. 다스리는 이가 없는 무질서 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "anathema",
+    "score": 33,
+    "zipf": 2.79,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Something which is vehemently disliked by somebody.",
+        "ko": "극도로 혐오하는 대상, 기피 대상",
+        "synonyms": [
+          "bugbear",
+          "bête noire",
+          "abomination",
+          "taboo",
+          "pariah"
+        ],
+        "examples": [
+          {
+            "text": "Censorship was anathema to the editor, who had fought all his life for a free press.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a formal ecclesiastical curse accompanied by excommunication",
+        "ko": "(교회의) 파문, 저주",
+        "synonyms": [
+          "curse",
+          "excommunication",
+          "malediction",
+          "ban"
+        ],
+        "examples": [
+          {
+            "text": "The council pronounced an anathema upon the heretic and expelled him from the church.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ana-",
+      "the(놓다)"
+    ],
+    "origin": {
+      "ko": "그리스어 anathema(바쳐진 것)에서 왔습니다. 저주받아 바쳐진 것이라는 뜻이 '극도로 혐오하는 대상'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "anemic",
+    "score": 33,
+    "zipf": 2.76,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking vigor or energy",
+        "ko": "활기 없는, 무기력한",
+        "synonyms": [
+          "feeble",
+          "weak",
+          "listless",
+          "lackluster",
+          "insipid"
+        ],
+        "examples": [
+          {
+            "text": "Despite heavy promotion, the film's anemic box-office returns disappointed its producers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "a-(부정)",
+      "em",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 an-(없는)과 haima(피)에서 온 anemia(빈혈)에서 나왔습니다. 피가 부족해 기운 없는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "animosity",
+    "score": 45,
+    "zipf": 3.17,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a feeling of ill will arousing active hostility",
+        "ko": "적개심, 반감",
+        "synonyms": [
+          "hostility",
+          "enmity",
+          "antipathy",
+          "rancor",
+          "hatred"
+        ],
+        "examples": [
+          {
+            "text": "Years of border disputes had bred deep animosity between the two neighboring villages.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "anim",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 animositas(기세, 격정)에서 왔고 animus(마음)에서 나왔습니다. 마음속 격한 감정이 '적개심'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "animus",
+    "score": 50,
+    "zipf": 2.7,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A feeling of enmity, animosity or ill will.",
+        "ko": "적의, 악의",
+        "synonyms": [
+          "animosity",
+          "hostility",
+          "enmity",
+          "antipathy",
+          "ill will"
+        ],
+        "examples": [
+          {
+            "text": "The judge found no evidence of personal animus behind the prosecutor's decision to bring charges.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "anim"
+    ],
+    "origin": {
+      "ko": "라틴어 animus(마음, 정신, 격정)를 그대로 빌려왔으며 '숨 쉬다'에서 나왔습니다. 마음속 적의를 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "annul",
+    "score": 36,
+    "zipf": 2.49,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "declare invalid",
+        "ko": "무효로 하다",
+        "synonyms": [
+          "invalidate",
+          "nullify",
+          "void",
+          "quash",
+          "rescind"
+        ],
+        "examples": [
+          {
+            "text": "The high court moved to annul the election results after finding evidence of widespread fraud.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "null"
+    ],
+    "origin": {
+      "ko": "라틴어 annullare(없는 것으로 만들다)에서 왔습니다. 효력을 0으로 되돌린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "anodyne",
+    "score": 81,
+    "zipf": 2.18,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Noncontentious, blandly agreeable, unlikely to cause offence or debate.",
+        "ko": "무난한, 논란의 여지가 없는",
+        "synonyms": [
+          "bland",
+          "innocuous",
+          "inoffensive",
+          "unobjectionable",
+          "harmless"
+        ],
+        "examples": [
+          {
+            "text": "The candidate gave an anodyne speech that offended no one and inspired even fewer.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "capable of relieving pain",
+        "ko": "진통 작용을 하는",
+        "synonyms": [
+          "analgesic",
+          "painkilling",
+          "soothing",
+          "palliative"
+        ],
+        "examples": [
+          {
+            "text": "Herbal teas were once valued for their mild anodyne properties.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "a-(부정)",
+      "odyn"
+    ],
+    "origin": {
+      "ko": "그리스어 anodynos(고통 없는)에서 왔습니다. 아픔을 주지 않는 데서 '무난한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "anoint",
+    "score": 52,
+    "zipf": 2.48,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To choose or nominate somebody for a leading or otherwise important position, especially formally or officially, or as an intended successor.",
+        "ko": "(중요한 자리에) 지명하다, 후계자로 정하다",
+        "synonyms": [
+          "designate",
+          "nominate",
+          "appoint",
+          "ordain",
+          "select"
+        ],
+        "examples": [
+          {
+            "text": "The retiring chairman anointed his deputy as his successor months before the board's formal vote.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "administer an oil or ointment to; often in a religious ceremony of blessing",
+        "ko": "(성유를) 바르다, 축성하다",
+        "synonyms": [
+          "consecrate",
+          "bless",
+          "oil",
+          "sanctify"
+        ],
+        "examples": [
+          {
+            "text": "The priest anointed the new king with sacred oil during the coronation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "ung"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 enoindre(기름을 바르다)에서 왔습니다. 머리에 기름을 부어 선택된 자로 세우는 의식이 어원입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "anomalous",
+    "score": 64,
+    "zipf": 2.94,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "deviating from the general or common order or type",
+        "ko": "변칙적인, 이례적인",
+        "synonyms": [
+          "abnormal",
+          "irregular",
+          "atypical",
+          "aberrant",
+          "incongruous"
+        ],
+        "examples": [
+          {
+            "text": "The anomalous results puzzled the team, since they contradicted every previous experiment.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "a-(부정)",
+      "homal",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "그리스어 anōmalos(고르지 않은)에서 왔습니다. 일반적인 질서에서 벗어난 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "anomaly",
+    "score": 42,
+    "zipf": 3.47,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "deviation from the normal or common order or form or rule",
+        "ko": "이례, 변칙",
+        "synonyms": [
+          "irregularity",
+          "aberration",
+          "exception",
+          "oddity",
+          "deviation"
+        ],
+        "examples": [
+          {
+            "text": "The unusually warm week in January was an anomaly in an otherwise bitterly cold winter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "a-(부정)",
+      "homal"
+    ],
+    "origin": {
+      "ko": "그리스어 anōmalia(고르지 않음)에서 왔습니다. homalos(평평한)를 부정해 '울퉁불퉁한 예외'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "antagonize",
+    "score": 51,
+    "zipf": 2.58,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "provoke the hostility of",
+        "ko": "적대감을 불러일으키다, 반감을 사다",
+        "synonyms": [
+          "provoke",
+          "alienate",
+          "offend",
+          "aggravate",
+          "irritate"
+        ],
+        "examples": [
+          {
+            "text": "The company antagonized its workers by announcing layoffs just before the holiday season.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "anti-",
+      "agon",
+      "-ize"
+    ],
+    "origin": {
+      "ko": "그리스어 antagonizesthai(맞서 싸우다)에서 왔습니다. 상대를 적으로 돌려 맞서게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "antedate",
+    "score": 56,
+    "zipf": 1.28,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be earlier in time; go back further",
+        "ko": "~보다 앞서다, 시기가 앞서다",
+        "synonyms": [
+          "predate",
+          "precede",
+          "antecede",
+          "come before"
+        ],
+        "examples": [
+          {
+            "text": "Cave paintings in the region antedate the earliest known written language by thousands of years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ante-",
+      "d"
+    ],
+    "origin": {
+      "ko": "라틴어 ante(앞)와 date(날짜)가 합쳐진 말입니다. 날짜가 더 앞선다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "anthropocentrism",
+    "score": 26,
+    "zipf": 1.53,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an inclination to evaluate reality exclusively in terms of human values",
+        "ko": "인간중심주의",
+        "synonyms": [
+          "human-centeredness",
+          "anthropocentricity",
+          "humanocentrism"
+        ],
+        "examples": [
+          {
+            "text": "Environmental philosophers criticize anthropocentrism for treating nature as valuable only when it serves human needs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "anthrop",
+      "centr",
+      "-ism"
+    ],
+    "origin": {
+      "ko": "20세기 초에 anthropocentric에 -ism을 붙여 만든 말입니다. 인간을 세계의 중심에 두는 입장입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "anthropomorphic",
+    "score": 34,
+    "zipf": 2.73,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "suggesting human characteristics for animals or inanimate things",
+        "ko": "의인화된, 인간의 특성을 부여한",
+        "synonyms": [
+          "humanlike",
+          "personified",
+          "anthropomorphous"
+        ],
+        "examples": [
+          {
+            "text": "The children's book gave the fox an anthropomorphic personality, complete with spectacles and a pocket watch.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "anthrop",
+      "morph",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 anthropos(인간)와 morphe(형태)가 합쳐진 말입니다. 인간의 모습을 입힌다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "antic",
+    "score": 34,
+    "zipf": 2.33,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a ludicrous or grotesque act done for fun and amusement",
+        "ko": "익살스러운 행동, 장난",
+        "synonyms": [
+          "prank",
+          "caper",
+          "escapade",
+          "stunt",
+          "trick"
+        ],
+        "examples": [
+          {
+            "text": "The comedian's wild antics on stage kept the audience laughing for the entire evening.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 antico(고대의)에서 왔고, 고대 벽화의 기괴한 그림을 가리키던 말입니다. 우스꽝스러운 행동으로 뜻이 옮겨졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "antipathy",
+    "score": 82,
+    "zipf": 2.7,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a feeling of intense dislike",
+        "ko": "강한 반감, 혐오",
+        "synonyms": [
+          "aversion",
+          "animosity",
+          "hostility",
+          "enmity",
+          "repugnance"
+        ],
+        "examples": [
+          {
+            "text": "The two scholars shared a long-standing antipathy that surfaced at every conference they attended.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "anti-",
+      "path"
+    ],
+    "origin": {
+      "ko": "그리스어 antipatheia(반대되는 감정)에서 왔습니다. 마음이 거꾸로 향하는 강한 반감입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "antiquated",
+    "score": 30,
+    "zipf": 3.06,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "so extremely old as seeming to belong to an earlier period",
+        "ko": "구식의, 시대에 뒤떨어진",
+        "synonyms": [
+          "outdated",
+          "archaic",
+          "obsolete",
+          "old-fashioned",
+          "antediluvian"
+        ],
+        "examples": [
+          {
+            "text": "The agency still relied on antiquated computers that frequently failed during busy periods.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "antiqu"
+    ],
+    "origin": {
+      "ko": "antiquate에 -ed가 붙은 말로, 라틴어 antiquus(옛날의)에서 나왔습니다. 낡아서 시대에 뒤떨어졌다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "antithesis",
+    "score": 31,
+    "zipf": 2.96,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "exact opposite",
+        "ko": "정반대, 대조",
+        "synonyms": [
+          "opposite",
+          "contrary",
+          "reverse",
+          "converse",
+          "inverse"
+        ],
+        "examples": [
+          {
+            "text": "The quiet librarian was the antithesis of the flamboyant showman who had preceded him.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the juxtaposition of contrasting words or ideas to give a feeling of balance",
+        "ko": "대구법, 대조법",
+        "synonyms": [
+          "contrast",
+          "juxtaposition",
+          "opposition"
+        ],
+        "examples": [
+          {
+            "text": "“To err is human; to forgive, divine” is a classic antithesis that balances two opposed ideas.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "anti-",
+      "the(놓다)"
+    ],
+    "origin": {
+      "ko": "그리스어 antithesis(맞세워 놓음)에서 왔습니다. 서로 반대편에 놓인 것이 '정반대'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "antithetical",
+    "score": 51,
+    "zipf": 2.61,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "sharply contrasted in character or purpose",
+        "ko": "정반대의, 상충하는",
+        "synonyms": [
+          "opposed",
+          "contrary",
+          "incompatible",
+          "opposite",
+          "conflicting"
+        ],
+        "examples": [
+          {
+            "text": "Her cautious temperament was antithetical to the reckless approach favored by the rest of the team.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "anti-",
+      "the(놓다)",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "라틴어 antitheticus에서 왔고 antithesis(맞세워 놓음)와 같은 뿌리입니다. 서로 정반대로 놓인 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

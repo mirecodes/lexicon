@@ -1,0 +1,179 @@
+[
+  {
+    "word": "egalitarian",
+    "score": 46,
+    "zipf": 3.06,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "favoring social equality",
+        "ko": "평등주의의, 평등을 지향하는",
+        "synonyms": [
+          "equalitarian",
+          "classless",
+          "democratic",
+          "unstratified"
+        ],
+        "examples": [
+          {
+            "text": "The founders envisioned an egalitarian community in which land and labor were shared equally.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 égalitaire에 영어 -ian이 붙은 말입니다. '평등'을 뜻하는 égal에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "egotist",
+    "score": 30,
+    "zipf": 1.94,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a conceited and self-centered person",
+        "ko": "자기중심적인 사람, 자부심 강한 사람",
+        "synonyms": [
+          "egoist",
+          "narcissist",
+          "braggart",
+          "swellhead"
+        ],
+        "examples": [
+          {
+            "text": "The egotist dominated every conversation, steering it back to his own achievements.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ego",
+      "-ist"
+    ],
+    "origin": {
+      "ko": "영어 ego(나)에 -ist가 붙었습니다. 늘 '나'만 내세우는 사람이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "egregious",
+    "score": 94,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "conspicuously and outrageously bad or reprehensible",
+        "ko": "터무니없이 나쁜, 지독한, 가증스러운",
+        "synonyms": [
+          "flagrant",
+          "glaring",
+          "gross",
+          "outrageous",
+          "blatant"
+        ],
+        "examples": [
+          {
+            "text": "The student has made egregious errors on the examination.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "greg",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 'e + grex(양 떼)', 곧 '무리에서 튀어나온'이 원뜻입니다. 원래는 칭찬이었으나 지금은 '지독하게 눈에 띄는 나쁜'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "egress",
+    "score": 34,
+    "zipf": 2.67,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An exit or way out.",
+        "ko": "출구, 나가는 길",
+        "synonyms": [
+          "exit",
+          "way out",
+          "outlet",
+          "departure"
+        ],
+        "examples": [
+          {
+            "text": "The window provides an egress in the event of an emergency.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The process of exiting or leaving.",
+        "ko": "외출, 퇴장, 나감",
+        "synonyms": [
+          "departure",
+          "exit",
+          "exodus"
+        ],
+        "examples": [
+          {
+            "text": "Barricades blocked the egress of protesters from the square.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "grad"
+    ],
+    "origin": {
+      "ko": "라틴어 ēgressus(밖으로 나감)에서 왔습니다. 밖으로 걸어 나가는 길이 '출구'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,877 @@
+[
+  {
+    "word": "placate",
+    "score": 81,
+    "zipf": 2.77,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause to be more favorably inclined; gain the good will of",
+        "ko": "달래다, 회유하다, 진정시키다",
+        "synonyms": [
+          "appease",
+          "mollify",
+          "pacify",
+          "conciliate",
+          "assuage"
+        ],
+        "examples": [
+          {
+            "text": "The mayor tried to placate angry residents by promising a full review of the zoning decision.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "plac",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 plācō '달래다'에서 왔고, 원래 '부드럽게 하다'라는 뜻입니다. please와 뿌리가 같습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "placid",
+    "score": 79,
+    "zipf": 3.01,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not easily irritated",
+        "ko": "차분한, 온화한, 좀처럼 화내지 않는",
+        "synonyms": [
+          "equable",
+          "even-tempered",
+          "serene",
+          "unflappable"
+        ],
+        "examples": [
+          {
+            "text": "Her placid temperament kept the team calm even when deadlines collapsed around them.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "calm and quiet; peaceful; tranquil",
+        "ko": "고요한, 평온한",
+        "synonyms": [
+          "calm",
+          "tranquil",
+          "serene",
+          "still"
+        ],
+        "examples": [
+          {
+            "text": "a placid lake",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "plac",
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 placidus '평온한'에서 왔고, placeō는 '마음에 들다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "plaintive",
+    "score": 36,
+    "zipf": 2.46,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "expressing sorrow",
+        "ko": "애처로운, 구슬픈",
+        "synonyms": [
+          "mournful",
+          "melancholy",
+          "doleful",
+          "sorrowful"
+        ],
+        "examples": [
+          {
+            "text": "The plaintive cry of the lost child echoed across the empty station.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "plaint",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 pleintif '한탄하는'에서 왔고, plainte는 '탄식'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "plastic",
+    "score": 32,
+    "zipf": 4.51,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "capable of being influenced or formed",
+        "ko": "(영향을 받아) 형성되기 쉬운, 유연한",
+        "synonyms": [
+          "pliant",
+          "malleable",
+          "impressionable"
+        ],
+        "examples": [
+          {
+            "text": "Neuroscientists stress that the adolescent brain remains remarkably plastic and responsive to new experience.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "capable of being molded or modeled (especially of earth or clay or other soft material)",
+        "ko": "빚을 수 있는, 가소성의",
+        "synonyms": [
+          "moldable",
+          "malleable",
+          "pliable"
+        ],
+        "examples": [
+          {
+            "text": "plastic substances such as wax or clay",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "plast",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 plastikós '빚을 수 있는'에서 왔고, plássō는 '빚어 만들다'입니다. 모양을 쉽게 만들 수 있다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "platitude",
+    "score": 97,
+    "zipf": 2.17,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a trite or obvious remark",
+        "ko": "상투적인 말, 진부한 표현",
+        "synonyms": [
+          "cliche",
+          "banality",
+          "commonplace",
+          "bromide",
+          "truism"
+        ],
+        "examples": [
+          {
+            "text": "The senator's speech was little more than a string of platitudes about hard work and opportunity.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "plat",
+      "-tude"
+    ],
+    "origin": {
+      "ko": "프랑스어 platitude에서 왔고, plat는 '평평한'입니다. 밋밋하고 평범한 상투어를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "plausible",
+    "score": 25,
+    "zipf": 3.64,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "apparently reasonable and credible, and therefore convincing",
+        "ko": "그럴듯한, 타당해 보이는",
+        "synonyms": [
+          "credible",
+          "believable",
+          "reasonable",
+          "tenable"
+        ],
+        "examples": [
+          {
+            "text": "a plausible excuse",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "given to or characterized by presenting specious arguments",
+        "ko": "말만 그럴듯한, 교묘하게 설득하는",
+        "synonyms": [
+          "specious",
+          "glib",
+          "smooth-talking"
+        ],
+        "examples": [
+          {
+            "text": "The plausible salesman argued so smoothly that few noticed the holes in his claims.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "plaus",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 plausibilis '박수받을 만한'에서 왔고, plaudere는 '박수치다'입니다. 박수받을 만큼 그럴듯하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "plead",
+    "score": 25,
+    "zipf": 3.63,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To beg, beseech, or implore, especially emotionally.",
+        "ko": "간청하다, 애원하다",
+        "synonyms": [
+          "beg",
+          "implore",
+          "entreat",
+          "beseech"
+        ],
+        "examples": [
+          {
+            "text": "He pleaded with me not to leave the house.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To offer by way of excuse.",
+        "ko": "(변명으로) 내세우다, 구실로 삼다",
+        "synonyms": [
+          "allege",
+          "claim",
+          "cite"
+        ],
+        "examples": [
+          {
+            "text": "Not wishing to attend the banquet, I pleaded illness.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "enter a plea, as in courts of law",
+        "ko": "(법정에서) 답변하다, 항변하다",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "She pleaded not guilty",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "plac"
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 plaider '변론하다'에서 왔고, 라틴어 placeō '마음에 들다'와 이어집니다. 법정에서 호소하던 데서 간청하다가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "plebeian",
+    "score": 51,
+    "zipf": 2.44,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Common, particularly (derogatory) vulgar, crude, coarse, uncultured.",
+        "ko": "저속한, 천한, 교양 없는",
+        "synonyms": [
+          "vulgar",
+          "coarse",
+          "common",
+          "unrefined"
+        ],
+        "examples": [
+          {
+            "text": "The critic dismissed the novel as plebeian entertainment unworthy of serious attention.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of or associated with the great masses of people",
+        "ko": "평민의, 서민의",
+        "synonyms": [
+          "common",
+          "proletarian"
+        ],
+        "examples": [
+          {
+            "text": "the common people in those days suffered greatly",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pleb",
+      "-an"
+    ],
+    "origin": {
+      "ko": "라틴어 plēbēius '평민의'에서 왔고, plēbēs는 '평민'입니다. 고상하지 않고 저속하다는 뜻으로도 쓰입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "plenitude",
+    "score": 30,
+    "zipf": 1.92,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An abundance; a full supply.",
+        "ko": "풍부, 충만, 다량",
+        "synonyms": [
+          "abundance",
+          "plenty",
+          "profusion",
+          "fullness"
+        ],
+        "examples": [
+          {
+            "text": "Mankind's old greatness was created in scarcity. But what may we expect from plenitude?",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ple",
+      "-tude"
+    ],
+    "origin": {
+      "ko": "라틴어 plēnitūdō '가득 참'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "plethora",
+    "score": 45,
+    "zipf": 3.24,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An excessive amount or number; an abundance.",
+        "ko": "과다, 과잉, 넘쳐남",
+        "synonyms": [
+          "excess",
+          "surfeit",
+          "glut",
+          "superfluity",
+          "overabundance"
+        ],
+        "examples": [
+          {
+            "text": "The menu offers a plethora of cuisines from around the world.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ple"
+    ],
+    "origin": {
+      "ko": "그리스어 plēthṓra '가득함'에서 후기 라틴어를 거쳐 왔습니다. 넘치도록 가득한 과잉을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pliant",
+    "score": 49,
+    "zipf": 2.17,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "capable of being bent or flexed or twisted without breaking",
+        "ko": "휘기 쉬운, 유연한",
+        "synonyms": [
+          "flexible",
+          "pliable",
+          "supple",
+          "bendable"
+        ],
+        "examples": [
+          {
+            "text": "a pliant young tree",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Easily influenced; tractable.",
+        "ko": "순응하는, 영향 받기 쉬운, 고분고분한",
+        "synonyms": [
+          "compliant",
+          "yielding",
+          "amenable",
+          "docile",
+          "malleable"
+        ],
+        "examples": [
+          {
+            "text": "The pliant committee approved every proposal the chairman put before it.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "plic",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 ploiant '구부러지는'에서 왔고, ploiier는 '접다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "plodding",
+    "score": 51,
+    "zipf": 2.57,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Progressing slowly and laboriously.",
+        "ko": "느릿느릿 힘겹게 나아가는, 지루하고 더딘",
+        "synonyms": [
+          "laborious",
+          "slow",
+          "tedious",
+          "dogged"
+        ],
+        "examples": [
+          {
+            "text": "The film's plodding pace left the audience restless long before the final act.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ploy",
+    "score": 45,
+    "zipf": 3.22,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A tactic, strategy, or scheme.",
+        "ko": "책략, 계략, 술책",
+        "synonyms": [
+          "ruse",
+          "stratagem",
+          "gambit",
+          "maneuver",
+          "subterfuge"
+        ],
+        "examples": [
+          {
+            "text": "The free T-shirt is really a ploy to get you inside to see their sales pitch.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "employ나 deploy가 줄어든 말이거나, 라틴어 plicāre '접다'에서 왔다는 두 가지 설이 있습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "plucky",
+    "score": 83,
+    "zipf": 2.62,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having or showing pluck, courage or spirit in trying circumstances.",
+        "ko": "용감한, 담찬, 기개 있는",
+        "synonyms": [
+          "brave",
+          "spunky",
+          "gutsy",
+          "feisty",
+          "courageous"
+        ],
+        "examples": [
+          {
+            "text": "The plucky underdog team held on through three rounds of brutal competition.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "pluck(배짱, 끈기)에 -y가 붙은 말로, 어려운 상황에서도 담차다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "plumb",
+    "score": 32,
+    "zipf": 2.92,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To think about or explore in depth, to get to the bottom of.",
+        "ko": "깊이 파고들다, 탐구하다",
+        "synonyms": [
+          "fathom",
+          "probe",
+          "explore",
+          "delve into"
+        ],
+        "examples": [
+          {
+            "text": "The novel plumbs the depths of grief without ever slipping into sentimentality.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To determine the depth, generally of a liquid; to sound.",
+        "ko": "(수심을) 재다",
+        "synonyms": [
+          "sound",
+          "fathom"
+        ],
+        "examples": [
+          {
+            "text": "Sailors plumbed the channel before guiding the heavy ship toward the harbor.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "exactly vertical",
+        "ko": "수직의",
+        "synonyms": [
+          "vertical",
+          "perpendicular",
+          "upright"
+        ],
+        "examples": [
+          {
+            "text": "The mason checked that the new wall was plumb before laying the next course of bricks.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "plumb"
+    ],
+    "origin": {
+      "ko": "라틴어 plumbum '납'에서 왔습니다. 납추를 늘어뜨려 깊이를 재는 데서 깊이 파고들다가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "plummet",
+    "score": 32,
+    "zipf": 2.85,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To drop swiftly, in a direct manner; to fall quickly.",
+        "ko": "급락하다, 곤두박질치다",
+        "synonyms": [
+          "plunge",
+          "tumble",
+          "nosedive",
+          "crash"
+        ],
+        "examples": [
+          {
+            "text": "After its ascent, the arrow plummeted to earth.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "plumb",
+      "-et"
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 plommet '납 추'에서 왔고, 라틴어 plumbum '납'이 원형입니다. 납추처럼 곤두박질친다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "plus",
+    "score": 16,
+    "zipf": 4.95,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An asset or useful addition.",
+        "ko": "이점, 장점, 플러스 요인",
+        "synonyms": [
+          "asset",
+          "advantage",
+          "benefit",
+          "bonus"
+        ],
+        "examples": [
+          {
+            "text": "He is a real plus to the team.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "involving advantage or good",
+        "ko": "유리한, 긍정적인",
+        "synonyms": [
+          "positive",
+          "favorable",
+          "beneficial"
+        ],
+        "examples": [
+          {
+            "text": "a plus (or positive) factor",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 plūs '더'에서 왔습니다. 더해진 이점이라는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "plutocracy",
+    "score": 33,
+    "zipf": 2.24,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a political system governed by the wealthy people",
+        "ko": "금권 정치, 부호 지배 체제",
+        "synonyms": [
+          "oligarchy"
+        ],
+        "examples": [
+          {
+            "text": "Critics warned that unlimited campaign donations were turning the republic into a plutocracy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "plut",
+      "-cracy"
+    ],
+    "origin": {
+      "ko": "그리스어 ploutokratía, 즉 '부(ploûtos)로 다스림'에서 왔습니다. 부자들이 지배하는 정치 체제입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "word": "glacial",
+    "score": 27,
+    "zipf": 3.39,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "devoid of warmth and cordiality; expressive of unfriendliness or disdain",
+        "ko": "냉랭한, 쌀쌀맞은",
+        "synonyms": [
+          "frosty",
+          "icy",
+          "frigid",
+          "chilly",
+          "wintry"
+        ],
+        "examples": [
+          {
+            "text": "She greeted her former rival with a glacial smile and a curt nod.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Very slow.",
+        "ko": "매우 느린, 더딘",
+        "synonyms": [
+          "sluggish",
+          "plodding",
+          "leisurely",
+          "gradual"
+        ],
+        "examples": [
+          {
+            "text": "Progress on the new bridge has been glacial, with only a few girders in place after two years.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "extremely cold",
+        "ko": "극도로 추운",
+        "synonyms": [
+          "frigid",
+          "icy",
+          "arctic",
+          "gelid",
+          "freezing"
+        ],
+        "examples": [
+          {
+            "text": "The hikers endured glacial winds that cut through even their heaviest jackets.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "glaci",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 glaciālis '얼음의'에서 왔고 glaciēs(얼음)가 뿌리입니다. 얼음처럼 차가운 태도가 '냉랭한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "glean",
+    "score": 34,
+    "zipf": 2.73,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To gather (something, now chiefly something intangible such as experience or information) in small amounts over a period of time, often with some difficulty; to scrape together.",
+        "ko": "(정보 등을) 조금씩 모으다, 알아내다",
+        "synonyms": [
+          "gather",
+          "extract",
+          "learn",
+          "cull",
+          "garner"
+        ],
+        "examples": [
+          {
+            "text": "Historians have gleaned much of what we know about daily life from merchants' account books.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "gather, as of natural products",
+        "ko": "(수확 후 남은 이삭 등을) 줍다",
+        "synonyms": [
+          "gather",
+          "harvest",
+          "reap",
+          "pick"
+        ],
+        "examples": [
+          {
+            "text": "Poor villagers were allowed to glean the leftover grain once the fields had been harvested.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "후기 라틴어 glenāre '모으다'에서 고대 프랑스어를 거쳐 왔습니다. 추수 뒤 떨어진 이삭을 줍는 데서 '조금씩 모으다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "glib",
+    "score": 99,
+    "zipf": 2.64,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having only superficial plausibility",
+        "ko": "그럴듯하기만 한, 말만 번지르르한",
+        "synonyms": [
+          "slick",
+          "pat",
+          "facile",
+          "superficial"
+        ],
+        "examples": [
+          {
+            "text": "The consultant offered glib assurances that the merger would cost no one a job.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Having a ready flow of words but lacking thought or understanding; superficial; shallow.",
+        "ko": "말은 유창하나 깊이 없는",
+        "synonyms": [
+          "facile",
+          "shallow",
+          "fluent",
+          "smooth-tongued"
+        ],
+        "examples": [
+          {
+            "text": "Critics dismissed his glib answers as clever phrases with no substance behind them.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "'미끄러운'을 뜻하던 glibbery 또는 저지 독일어 glibberig의 줄임말입니다. 미끄러지듯 매끄러운 말솜씨라는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "glower",
+    "score": 60,
+    "zipf": 1.74,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "look angry or sullen, wrinkle one's forehead, as if to signal disapproval",
+        "ko": "노려보다, 얼굴을 찌푸리다",
+        "synonyms": [
+          "glare",
+          "scowl",
+          "frown",
+          "lower"
+        ],
+        "examples": [
+          {
+            "text": "The coach glowered at the referee after the controversial call went against his team.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "스칸디나비아어 계통으로 보이며 glow(노려보다)에 -er이 붙은 말로 설명됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "glum",
+    "score": 36,
+    "zipf": 2.52,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Despondent; moody; sullen.",
+        "ko": "침울한, 우울한",
+        "synonyms": [
+          "morose",
+          "dour",
+          "gloomy",
+          "sullen",
+          "dejected"
+        ],
+        "examples": [
+          {
+            "text": "The players sat glum and silent in the locker room after the defeat.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 저지 독일어 glum '침울한'에서 왔을 것으로 봅니다. gloom(우울)과 같은 계통입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "glut",
+    "score": 33,
+    "zipf": 2.81,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An excess, too much.",
+        "ko": "과잉, 공급 과다",
+        "synonyms": [
+          "surfeit",
+          "surplus",
+          "excess",
+          "oversupply",
+          "plethora"
+        ],
+        "examples": [
+          {
+            "text": "A glut of cheap imports drove local steel producers out of business.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "supply with an excess of",
+        "ko": "넘치게 공급하다",
+        "synonyms": [
+          "flood",
+          "saturate",
+          "oversupply",
+          "inundate"
+        ],
+        "examples": [
+          {
+            "text": "Foreign producers glutted the market with cheap grain, causing prices to collapse.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 gluttīre '삼키다'에서 고대 프랑스어 gloter를 거쳐 왔습니다. 게걸스레 삼킨 듯 넘쳐나는 상태가 '과잉'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

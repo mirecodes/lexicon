@@ -1,0 +1,381 @@
+[
+  {
+    "word": "hubbub",
+    "score": 36,
+    "zipf": 2.51,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "loud confused noise from many sources",
+        "ko": "소란, 아수라장",
+        "synonyms": [
+          "uproar",
+          "din",
+          "commotion",
+          "tumult",
+          "brouhaha"
+        ],
+        "examples": [
+          {
+            "text": "The hubbub of the crowded market made it impossible to hold a quiet conversation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "아일랜드어의 전투 함성에서 왔을 가능성이 있으며 확실하지는 않습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hubris",
+    "score": 48,
+    "zipf": 2.94,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "overbearing pride or presumption",
+        "ko": "오만, 자만",
+        "synonyms": [
+          "arrogance",
+          "conceit",
+          "presumption",
+          "pride"
+        ],
+        "examples": [
+          {
+            "text": "Antitrust prosecutors target big companies that exude hubris.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 hýbris '오만, 방자함'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "humble",
+    "score": 20,
+    "zipf": 4.11,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by meekness or modesty; not arrogant or prideful",
+        "ko": "겸손한, 거만하지 않은",
+        "synonyms": [
+          "modest",
+          "meek",
+          "unassuming",
+          "unpretentious"
+        ],
+        "examples": [
+          {
+            "text": "Despite her many awards, the scientist remained humble and credited her students for the discovery.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To defeat or reduce the power, independence, or pride of.",
+        "ko": "굴복시키다, 자존심을 꺾다",
+        "synonyms": [
+          "humiliate",
+          "abase",
+          "chasten",
+          "mortify"
+        ],
+        "examples": [
+          {
+            "text": "The unexpected defeat humbled the champions and forced them to rethink their strategy.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "low or inferior in station or quality",
+        "ko": "미천한, 보잘것없는",
+        "synonyms": [
+          "lowly",
+          "modest",
+          "plain",
+          "unpretentious"
+        ],
+        "examples": [
+          {
+            "text": "The famous chef began his career in a humble kitchen behind a roadside diner.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hum"
+    ],
+    "origin": {
+      "ko": "라틴어 humilis '낮은'에서 왔고 humus(땅)가 뿌리입니다. 땅에 가까이 낮추는 태도가 '겸손한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "humdrum",
+    "score": 67,
+    "zipf": 2.43,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "tediously repetitious or lacking in variety",
+        "ko": "단조로운, 따분한",
+        "synonyms": [
+          "monotonous",
+          "dull",
+          "mundane",
+          "tedious",
+          "prosaic"
+        ],
+        "examples": [
+          {
+            "text": "After years of a humdrum office routine, she longed for a career with real variety.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "소리를 흉내 낸 말로, hum(웅얼거림)을 겹친 것으로 봅니다. 같은 소리가 계속되는 단조로움입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "humiliate",
+    "score": 30,
+    "zipf": 3.08,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause to feel shame; hurt the pride of",
+        "ko": "굴욕감을 주다, 창피 주다",
+        "synonyms": [
+          "mortify",
+          "shame",
+          "abase",
+          "demean",
+          "chagrin"
+        ],
+        "examples": [
+          {
+            "text": "He humiliated his colleague by criticising him in front of the boss",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hum",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 humiliō '낮추다'에서 왔고 humus(땅)가 뿌리입니다. 땅바닥으로 끌어내리듯 창피를 줍니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hummock",
+    "score": 27,
+    "zipf": 1.61,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a small natural hill",
+        "ko": "작은 언덕, 둔덕",
+        "synonyms": [
+          "knoll",
+          "mound",
+          "hillock"
+        ],
+        "examples": [
+          {
+            "text": "Hikers crossed the marsh by stepping from one grassy hummock to the next.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "hurtle",
+    "score": 31,
+    "zipf": 2.04,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To move rapidly, violently, or without control, especially in a noisy manner.",
+        "ko": "돌진하다, 맹렬히 날아가다",
+        "synonyms": [
+          "rush",
+          "speed",
+          "careen",
+          "plunge"
+        ],
+        "examples": [
+          {
+            "text": "The car hurtled down the hill at 90 miles per hour.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세영어 hurtelen '던지다, 부딪치다'에서 왔고 hurt에 반복을 뜻하는 -el이 붙은 말입니다. 부딪칠 듯 맹렬히 돌진하는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "husband",
+    "score": 32,
+    "zipf": 5.0,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "use cautiously and frugally",
+        "ko": "아껴 쓰다, 절약하다",
+        "synonyms": [
+          "conserve",
+          "economize",
+          "save",
+          "ration"
+        ],
+        "examples": [
+          {
+            "text": "Hikers must husband their water carefully during the long crossing of the desert.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 hūsbonda로, hūs(집)와 bonda(주인)가 합쳐진 말입니다. 집을 건사하는 사람이라 살림을 아껴 쓰는 뜻이 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "husbandry",
+    "score": 32,
+    "zipf": 2.93,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The prudent management or conservation of resources.",
+        "ko": "자원의 신중한 관리, 절약",
+        "synonyms": [
+          "thrift",
+          "frugality",
+          "economy",
+          "stewardship"
+        ],
+        "examples": [
+          {
+            "text": "Careful husbandry of the city's water supply carried residents through three years of drought.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the practice of cultivating the land or raising stock",
+        "ko": "농업, 축산",
+        "synonyms": [
+          "farming",
+          "agriculture",
+          "cultivation"
+        ],
+        "examples": [
+          {
+            "text": "Advances in animal husbandry dramatically increased milk yields during the nineteenth century.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세영어 husbondrye '살림 관리'에서 왔고 husband(집 주인)에서 나왔습니다. 집안 살림을 알뜰히 꾸리는 일이 '자원의 신중한 관리'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

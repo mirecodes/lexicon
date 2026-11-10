@@ -1,0 +1,264 @@
+[
+  {
+    "word": "eugenic",
+    "score": 32,
+    "zipf": 2.14,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "pertaining to or causing improvement in the offspring produced",
+        "ko": "우생학의, 자손 개량의",
+        "synonyms": [
+          "genetic",
+          "hereditary"
+        ],
+        "examples": [
+          {
+            "text": "Early twentieth-century eugenic policies sought to control who was permitted to have children.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "eu-",
+      "gen",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 eu(좋은)와 -genēs(태생의)가 합쳐졌습니다. 좋은 태생, 곧 우량한 자손을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "eulogy",
+    "score": 47,
+    "zipf": 3.02,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a formal expression of praise for someone who has died recently",
+        "ko": "추도 연설, 추도사",
+        "synonyms": [
+          "tribute",
+          "elegy",
+          "panegyric",
+          "oration"
+        ],
+        "examples": [
+          {
+            "text": "Her son delivered a moving eulogy at the funeral.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a formal expression of praise",
+        "ko": "찬사, 칭송",
+        "synonyms": [
+          "encomium",
+          "panegyric",
+          "paean",
+          "tribute",
+          "accolade"
+        ],
+        "examples": [
+          {
+            "text": "The review was a long eulogy to the architect's lifetime of work.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "eu-",
+      "log"
+    ],
+    "origin": {
+      "ko": "그리스어 eulogía(좋은 말, 칭찬)에서 라틴어를 거쳐 왔습니다. 고인에 대한 좋은 말이 '추도사'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "euphemism",
+    "score": 64,
+    "zipf": 2.92,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an inoffensive or indirect expression that is substituted for one that is considered offensive or too harsh",
+        "ko": "완곡어법, 완곡한 표현",
+        "synonyms": [
+          "understatement",
+          "circumlocution",
+          "genteelism"
+        ],
+        "examples": [
+          {
+            "text": "\"Passed away\" is a common euphemism for \"died\" in polite conversation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "eu-",
+      "phet",
+      "-ism"
+    ],
+    "origin": {
+      "ko": "그리스어 euphēmía(불길한 말을 피하고 좋은 말만 하기)에서 왔습니다. 거북한 말을 부드럽게 돌려 말하는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "euphony",
+    "score": 60,
+    "zipf": 1.67,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A pronunciation of letters and syllables which is pleasing to the ear.",
+        "ko": "듣기 좋은 음, 쾌음조",
+        "synonyms": [
+          "harmony",
+          "melodiousness",
+          "music",
+          "mellifluousness"
+        ],
+        "examples": [
+          {
+            "text": "The poet chose each word for its euphony as much as its meaning.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "eu-",
+      "phon",
+      "-y"
+    ],
+    "origin": {
+      "ko": "그리스어 euphōnía(좋은 소리)에서 프랑스어를 거쳐 왔습니다. 듣기 좋은 소리를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "euphoria",
+    "score": 29,
+    "zipf": 3.24,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a feeling of great (usually exaggerated) elation",
+        "ko": "극도의 행복감, 희열, 도취감",
+        "synonyms": [
+          "elation",
+          "bliss",
+          "exhilaration",
+          "rapture",
+          "jubilation"
+        ],
+        "examples": [
+          {
+            "text": "The euphoria of victory faded quickly once the hard work of governing began.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "eu-",
+      "pher"
+    ],
+    "origin": {
+      "ko": "그리스어 euphoríā(잘 견딤, 순조로움)에서 왔습니다. 몸이 잘 버티는 기분 좋은 상태가 '희열'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "euphoric",
+    "score": 32,
+    "zipf": 2.85,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "exaggerated feeling of well-being or elation",
+        "ko": "행복감에 도취된, 극도로 들뜬",
+        "synonyms": [
+          "elated",
+          "ecstatic",
+          "jubilant",
+          "blissful",
+          "exultant"
+        ],
+        "examples": [
+          {
+            "text": "Fans were euphoric after their team won the championship for the first time in decades.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "eu-",
+      "pher",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 eúphoros(잘 견디는)에서 왔습니다. euphoria의 형용사형으로 '행복감에 찬'이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "word": "dais",
+    "score": 35,
+    "zipf": 2.62,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a platform raised above the surrounding level to give prominence to the person on it",
+        "ko": "연단, 단상",
+        "synonyms": [
+          "podium",
+          "rostrum",
+          "platform",
+          "stage"
+        ],
+        "examples": [
+          {
+            "text": "The guest of honor climbed onto the dais and waited for the applause to fade.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 discus(원반, 쟁반)에서 고대 프랑스어 deis로 이어졌습니다. 쟁반이나 식탁처럼 높이 놓인 대가 '연단'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dalliance",
+    "score": 33,
+    "zipf": 2.24,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A wasting of time in idleness or trifles.",
+        "ko": "빈둥거리며 시간을 허비함, 어물쩍거림",
+        "synonyms": [
+          "dawdling",
+          "trifling",
+          "idling",
+          "delay"
+        ],
+        "examples": [
+          {
+            "text": "Any further dalliance over the budget would push the project past its funding deadline.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Playful flirtation; amorous play.",
+        "ko": "희롱, 장난스러운 연애",
+        "synonyms": [
+          "flirtation",
+          "fling",
+          "coquetry"
+        ],
+        "examples": [
+          {
+            "text": "The novel recounts the duchess's brief dalliance with a young painter at court.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ance"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 dalier(수다 떨다)에서 중세 영어를 거쳐 왔고, dally에 -ance가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dapper",
+    "score": 32,
+    "zipf": 2.91,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Stylishly dressed, neatly dressed, spiffy.",
+        "ko": "말쑥한, 멋지게 차려입은",
+        "synonyms": [
+          "natty",
+          "spruce",
+          "trim",
+          "debonair"
+        ],
+        "examples": [
+          {
+            "text": "The dapper gentleman in the pinstriped suit tipped his hat to every passerby.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 네덜란드어 dapper(씩씩한, 재빠른)에서 왔습니다. '기운찬'이 '말쑥한' 쪽으로 바뀌었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "daunt",
+    "score": 31,
+    "zipf": 2.04,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To discourage, intimidate.",
+        "ko": "기를 꺾다, 위축시키다",
+        "synonyms": [
+          "intimidate",
+          "discourage",
+          "dismay",
+          "unnerve",
+          "cow"
+        ],
+        "examples": [
+          {
+            "text": "Failing the first exam did not daunt her; she simply studied harder for the retake.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 danter(길들이다)에서 왔고 라틴어 domāre(길들이다)가 뿌리입니다. 길들이듯 기를 꺾는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "daunting",
+    "score": 43,
+    "zipf": 3.4,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Appearing to be difficult; challenging.",
+        "ko": "엄두가 안 나는, 벅찬",
+        "synonyms": [
+          "formidable",
+          "intimidating",
+          "overwhelming",
+          "challenging"
+        ],
+        "examples": [
+          {
+            "text": "It was a daunting task, but it was accomplished with some forward planning.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ing"
+    ],
+    "origin": {
+      "ko": "daunt(기를 꺾다)에 -ing가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dawdle",
+    "score": 31,
+    "zipf": 1.97,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To spend time idly and unfruitfully; to waste time.",
+        "ko": "빈둥거리다, 꾸물거리다",
+        "synonyms": [
+          "dally",
+          "loiter",
+          "idle",
+          "linger",
+          "tarry"
+        ],
+        "examples": [
+          {
+            "text": "If we dawdle over breakfast any longer, we will miss the train to the airport.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "word": "affable",
+    "score": 82,
+    "zipf": 2.66,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "diffusing warmth and friendliness",
+        "ko": "상냥한, 붙임성 있는",
+        "synonyms": [
+          "amiable",
+          "genial",
+          "cordial",
+          "friendly",
+          "gracious"
+        ],
+        "examples": [
+          {
+            "text": "The affable host greeted every guest by name and made even strangers feel welcome.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "fa",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 affabilis(말을 걸기 쉬운)에서 왔습니다. 누구든 말 붙이기 편한 사람이 '상냥한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "affect",
+    "score": 16,
+    "zipf": 4.59,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "have an effect upon",
+        "ko": "영향을 미치다",
+        "synonyms": [
+          "influence",
+          "impact",
+          "alter",
+          "sway",
+          "touch"
+        ],
+        "examples": [
+          {
+            "text": "Scientists are studying how rising temperatures affect the migration patterns of coastal birds.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the conscious subjective aspect of feeling or emotion",
+        "ko": "정서, 감정 표현",
+        "synonyms": [
+          "emotion",
+          "feeling",
+          "mood"
+        ],
+        "examples": [
+          {
+            "text": "The patient's flat affect worried the therapist, who saw no change in his expression throughout the session.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "fac(만들다)"
+    ],
+    "origin": {
+      "ko": "라틴어 afficere(~에 작용하다)에서 왔습니다. 무언가에 힘을 가해 변화를 일으키는 것이 '영향을 미치다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "affectation",
+    "score": 50,
+    "zipf": 2.29,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a deliberate pretense or exaggerated display",
+        "ko": "허식, 가장된 태도",
+        "synonyms": [
+          "pretense",
+          "pose",
+          "mannerism",
+          "artifice",
+          "pretension"
+        ],
+        "examples": [
+          {
+            "text": "His fake British accent was an affectation that fooled no one who knew him well.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "fac(만들다)",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "라틴어 affectare(~인 체하다)에서 왔습니다. 일부러 꾸며 보이는 태도가 '허식'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "affected",
+    "score": 16,
+    "zipf": 4.64,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "speaking or behaving in an artificial way to make an impression",
+        "ko": "꾸민, 가식적인",
+        "synonyms": [
+          "artificial",
+          "pretentious",
+          "mannered",
+          "insincere",
+          "unnatural"
+        ],
+        "examples": [
+          {
+            "text": "The poet's affected manner of speaking made his sincere ideas hard to take seriously.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "acted upon; influenced",
+        "ko": "영향을 받은",
+        "synonyms": [
+          "influenced",
+          "touched",
+          "altered",
+          "impacted"
+        ],
+        "examples": [
+          {
+            "text": "Farmers in the affected region will receive aid after the prolonged drought.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "fac(만들다)"
+    ],
+    "origin": {
+      "ko": "affect(~인 체하다)에 -ed가 붙은 말입니다. 일부러 꾸며낸 태도를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "affinity",
+    "score": 25,
+    "zipf": 3.61,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a close connection marked by community of interests or similarity in nature or character",
+        "ko": "유사성, 밀접한 관련",
+        "synonyms": [
+          "kinship",
+          "similarity",
+          "resemblance",
+          "rapport",
+          "likeness"
+        ],
+        "examples": [
+          {
+            "text": "Critics noted a striking affinity between the painter's early work and Japanese woodblock prints.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A natural attraction or feeling of kinship to a person or thing.",
+        "ko": "끌림, 친밀감",
+        "synonyms": [
+          "liking",
+          "fondness",
+          "attraction",
+          "sympathy",
+          "empathy"
+        ],
+        "examples": [
+          {
+            "text": "She felt a natural affinity for the desert and returned to it every spring.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "fin",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 affinité에서 왔고 라틴어로 '경계를 맞댄'이라는 뜻입니다. 이웃처럼 가까운 관계가 '밀접한 관련'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "afflict",
+    "score": 35,
+    "zipf": 2.43,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause great unhappiness for; distress",
+        "ko": "괴롭히다, 고통을 주다",
+        "synonyms": [
+          "torment",
+          "plague",
+          "distress",
+          "trouble",
+          "beset"
+        ],
+        "examples": [
+          {
+            "text": "Chronic uncertainty afflicted the village for years after the factory closed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "flict"
+    ],
+    "origin": {
+      "ko": "라틴어 affligere(내리치다)에서 왔습니다. 계속 얻어맞는 듯한 고통이 '괴롭히다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "affluent",
+    "score": 27,
+    "zipf": 3.37,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having an abundant supply of money or possessions of value",
+        "ko": "부유한, 풍족한",
+        "synonyms": [
+          "wealthy",
+          "prosperous",
+          "rich",
+          "opulent",
+          "moneyed"
+        ],
+        "examples": [
+          {
+            "text": "The affluent suburbs funded their schools generously while neighboring districts struggled.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a branch that flows into the main stream",
+        "ko": "지류",
+        "synonyms": [
+          "tributary",
+          "feeder",
+          "branch"
+        ],
+        "examples": [
+          {
+            "text": "The river swelled as each affluent carried meltwater down from the mountains.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "flu",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 affluere(~로 흘러들다)에서 왔습니다. 재물이 풍부하게 흘러드는 모습이 '부유한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "afford",
+    "score": 16,
+    "zipf": 4.57,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be the cause or source of",
+        "ko": "제공하다, 주다",
+        "synonyms": [
+          "provide",
+          "offer",
+          "yield",
+          "give",
+          "furnish"
+        ],
+        "examples": [
+          {
+            "text": "The hilltop affords a sweeping view of the harbor and the distant islands.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "have the financial means to do something or buy something",
+        "ko": "~할 여유가 되다",
+        "synonyms": [
+          "manage",
+          "bear the cost of",
+          "spare"
+        ],
+        "examples": [
+          {
+            "text": "Few families in the region could afford the tuition without taking on heavy debt.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 forthian(앞으로 나아가게 하다, 이루다)에서 왔습니다. 해낼 수 있다는 뜻이 '제공하다'로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "affront",
+    "score": 32,
+    "zipf": 2.89,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a deliberately offensive act or something producing the effect of deliberate disrespect",
+        "ko": "모욕, 무례한 언행",
+        "synonyms": [
+          "insult",
+          "slight",
+          "offense",
+          "indignity",
+          "snub"
+        ],
+        "examples": [
+          {
+            "text": "The delegation regarded the late invitation as an affront to their country's dignity.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "treat, mention, or speak to rudely",
+        "ko": "모욕하다, 무례하게 대하다",
+        "synonyms": [
+          "insult",
+          "offend",
+          "slight",
+          "snub"
+        ],
+        "examples": [
+          {
+            "text": "The remark so affronted the committee that several members left the room.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "front"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 afronter(이마를 치다)에서 왔습니다. 얼굴을 정면으로 때리는 듯한 무례가 '모욕'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

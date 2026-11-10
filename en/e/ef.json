@@ -1,0 +1,540 @@
+[
+  {
+    "word": "efface",
+    "score": 26,
+    "zipf": 1.55,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "remove completely from recognition or memory",
+        "ko": "지우다, 말소하다",
+        "synonyms": [
+          "obliterate",
+          "erase",
+          "expunge",
+          "wipe out"
+        ],
+        "examples": [
+          {
+            "text": "Decades of peace could not efface the memory of the siege from the town's collective mind.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make inconspicuous",
+        "ko": "눈에 띄지 않게 하다, 자신을 낮추다",
+        "synonyms": [
+          "withdraw",
+          "self-efface"
+        ],
+        "examples": [
+          {
+            "text": "She tended to efface herself in meetings, letting louder colleagues claim the credit.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "fac(얼굴)"
+    ],
+    "origin": {
+      "ko": "프랑스어 effacer에서 왔습니다. 얼굴(face)을 지워 없앤다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "effervescence",
+    "score": 32,
+    "zipf": 2.1,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Vivacity.",
+        "ko": "활기, 쾌활함, 들뜬 기분",
+        "synonyms": [
+          "vivacity",
+          "exuberance",
+          "liveliness",
+          "high spirits",
+          "sparkle"
+        ],
+        "examples": [
+          {
+            "text": "The host's effervescence kept the dinner party lively until well past midnight.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The escape of gas from solution in a liquid, especially the escape of carbon dioxide from a carbonated drink.",
+        "ko": "거품이 일어남, 발포",
+        "synonyms": [
+          "fizz",
+          "bubbling",
+          "fizziness"
+        ],
+        "examples": [
+          {
+            "text": "The effervescence of the tablet in water released a stream of tiny bubbles.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "ferv",
+      "-escence"
+    ],
+    "origin": {
+      "ko": "프랑스어 effervescence에서 왔습니다. 거품이 보글보글 일어나는 모습이 '활기'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "effervescent",
+    "score": 36,
+    "zipf": 2.51,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by high spirits or excitement",
+        "ko": "활기찬, 들뜬, 쾌활한",
+        "synonyms": [
+          "bubbly",
+          "vivacious",
+          "ebullient",
+          "lively",
+          "animated"
+        ],
+        "examples": [
+          {
+            "text": "Her effervescent personality made her the center of every gathering.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Giving off bubbles; fizzy.",
+        "ko": "거품이 나는, 발포성의",
+        "synonyms": [
+          "fizzy",
+          "bubbly",
+          "sparkling"
+        ],
+        "examples": [
+          {
+            "text": "The effervescent mineral water tingled on her tongue.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "ferv",
+      "-escent"
+    ],
+    "origin": {
+      "ko": "라틴어 effervescere(끓어 넘치다)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "effete",
+    "score": 32,
+    "zipf": 2.1,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "deprived of vigor and the ability to be effective",
+        "ko": "활력을 잃은, 무기력한, 쇠약한",
+        "synonyms": [
+          "feeble",
+          "enervated",
+          "decadent",
+          "ineffectual",
+          "spent"
+        ],
+        "examples": [
+          {
+            "text": "Critics dismissed the aging regime as an effete institution unable to meet any real challenge.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "affected, overrefined, and effeminate",
+        "ko": "나약하고 세련된 척하는, 귀족연한",
+        "synonyms": [
+          "affected",
+          "overrefined",
+          "precious",
+          "foppish"
+        ],
+        "examples": [
+          {
+            "text": "He mocked the critics as effete snobs who had never worked a day outdoors.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "fet"
+    ],
+    "origin": {
+      "ko": "라틴어 effētus '새끼를 다 낳아 지친'에서 왔습니다. 기력이 소진된 상태가 '무기력한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "efficacious",
+    "score": 68,
+    "zipf": 2.55,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "producing or capable of producing an intended result or having a striking effect",
+        "ko": "효과적인, 효험 있는",
+        "synonyms": [
+          "effective",
+          "effectual",
+          "potent",
+          "powerful"
+        ],
+        "examples": [
+          {
+            "text": "Researchers found the new antibiotic highly efficacious against drug-resistant infections.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "fac(만들다)",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 efficāx(효과적인)에서 왔고 efficere(이루어내다)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "efficacy",
+    "score": 24,
+    "zipf": 3.68,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "capacity or power to produce a desired effect",
+        "ko": "효능, 효험, 효력",
+        "synonyms": [
+          "effectiveness",
+          "potency",
+          "power",
+          "efficaciousness"
+        ],
+        "examples": [
+          {
+            "text": "concern about the safety and efficacy of the vaccine",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "fac(만들다)",
+      "-acy"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 efficācia에서 왔고 efficere(이루어내다)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "effigy",
+    "score": 49,
+    "zipf": 2.81,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A dummy or other crude representation of a person, group or object that is hated.",
+        "ko": "(증오 대상을 본뜬) 인형, 허수아비",
+        "synonyms": [
+          "dummy",
+          "guy",
+          "image"
+        ],
+        "examples": [
+          {
+            "text": "Protesters burned an effigy of the minister outside the parliament building.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a representation of a person (especially in the form of sculpture)",
+        "ko": "조각상, 초상, 상(像)",
+        "synonyms": [
+          "statue",
+          "likeness",
+          "image",
+          "figure"
+        ],
+        "examples": [
+          {
+            "text": "the coin bears an effigy of Lincoln",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "fig"
+    ],
+    "origin": {
+      "ko": "라틴어 effigiēs(초상, 형상)에서 왔고 effingō(본떠 만들다)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "effluvium",
+    "score": 26,
+    "zipf": 1.51,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A gaseous or vaporous emission, especially a foul-smelling one.",
+        "ko": "악취, 불쾌한 발산물",
+        "synonyms": [
+          "stench",
+          "miasma",
+          "fumes",
+          "exhalation"
+        ],
+        "examples": [
+          {
+            "text": "A foul effluvium rose from the stagnant canal on hot afternoons.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "flu"
+    ],
+    "origin": {
+      "ko": "라틴어 effluvium(흘러 나감)에서 왔습니다. 밖으로 흘러나오는 냄새를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "effrontery",
+    "score": 78,
+    "zipf": 1.94,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Insolent and shameless audacity.",
+        "ko": "뻔뻔함, 철면피, 무례한 대담함",
+        "synonyms": [
+          "audacity",
+          "impudence",
+          "gall",
+          "nerve",
+          "temerity"
+        ],
+        "examples": [
+          {
+            "text": "We even had the effrontery to suggest that he should leave the country.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "front",
+      "-ry"
+    ],
+    "origin": {
+      "ko": "프랑스어 effronterie에서 왔고 effronté(철면피)에서 나왔습니다. 이마(front)가 두꺼워 부끄러움을 모르는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "effulgence",
+    "score": 26,
+    "zipf": 1.48,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A state of being bright and radiant, splendor, brilliance.",
+        "ko": "눈부신 빛, 광채, 찬란함",
+        "synonyms": [
+          "radiance",
+          "brilliance",
+          "splendor",
+          "luminosity",
+          "refulgence"
+        ],
+        "examples": [
+          {
+            "text": "The effulgence of the setting sun turned the whole valley gold.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "fulg",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "라틴어 fulgere(빛나다)에서 왔습니다. 밖으로 뿜어져 나오는 빛이 '눈부신 광채'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "effusive",
+    "score": 36,
+    "zipf": 2.45,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Gushy; unrestrained, extravagant or excessive (in emotional expression).",
+        "ko": "감정이 넘치는, 과장되게 열렬한",
+        "synonyms": [
+          "gushing",
+          "exuberant",
+          "demonstrative",
+          "lavish",
+          "profuse"
+        ],
+        "examples": [
+          {
+            "text": "effusive praise",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "fus",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 effūsīvus에서 왔습니다. 감정을 물처럼 쏟아낸다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

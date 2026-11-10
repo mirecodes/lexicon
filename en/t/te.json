@@ -1,0 +1,1331 @@
+[
+  {
+    "word": "tedious",
+    "score": 26,
+    "zipf": 3.5,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "so lacking in interest as to cause mental weariness",
+        "ko": "지루한, 따분한",
+        "synonyms": [
+          "boring",
+          "tiresome",
+          "wearisome",
+          "irksome",
+          "monotonous"
+        ],
+        "examples": [
+          {
+            "text": "The auditor spent weeks on the tedious task of reconciling thousands of nearly identical invoices by hand.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "using or containing too many words",
+        "ko": "장황한, 말이 많은",
+        "synonyms": [
+          "long-winded",
+          "verbose",
+          "wordy",
+          "prolix"
+        ],
+        "examples": [
+          {
+            "text": "The report's tedious preamble buried its single useful recommendation under pages of needless qualification.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 taedium(싫증, 지침)에서 온 taediōsus에서 왔습니다. 지치고 싫증 나는 지루함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "teem",
+    "score": 32,
+    "zipf": 2.07,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To be prolific; to abound; to be rife.",
+        "ko": "(~로) 가득하다, 우글거리다",
+        "synonyms": [
+          "swarm",
+          "abound",
+          "brim",
+          "bristle"
+        ],
+        "examples": [
+          {
+            "text": "Fish teem in this pond.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To pour (especially with rain)",
+        "ko": "(비가) 쏟아지다",
+        "synonyms": [
+          "pour",
+          "stream"
+        ],
+        "examples": [
+          {
+            "text": "By evening the rain was teeming down, and the streets emptied of pedestrians.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 tēman(새끼를 낳다)에서 온 말이 유력합니다. 번식해 우글거린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "telling",
+    "score": 16,
+    "zipf": 4.92,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "powerfully persuasive",
+        "ko": "설득력 있는, 효과적인",
+        "synonyms": [
+          "cogent",
+          "weighty",
+          "compelling",
+          "forceful"
+        ],
+        "examples": [
+          {
+            "text": "The senator's most telling argument was a simple comparison of costs before and after the reform.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Revealing information; bearing significance.",
+        "ko": "많은 것을 드러내는, 의미심장한",
+        "synonyms": [
+          "revealing",
+          "significant",
+          "indicative",
+          "telltale"
+        ],
+        "examples": [
+          {
+            "text": "a telling smile",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "tell(말하다)에 -ing이 붙은 말입니다. 말이 먹혀드는 효과적인 힘을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "telltale",
+    "score": 32,
+    "zipf": 2.9,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Revealing something, especially something not intended to be known.",
+        "ko": "숨기려던 것을 드러내는, 들통나게 하는",
+        "synonyms": [
+          "revealing",
+          "telling",
+          "indicative"
+        ],
+        "examples": [
+          {
+            "text": "A telltale blush crept into her cheeks as he approached.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "someone who gossips indiscreetly",
+        "ko": "고자질쟁이, 수다쟁이",
+        "synonyms": [
+          "tattletale",
+          "tattler",
+          "talebearer",
+          "blabbermouth"
+        ],
+        "examples": [
+          {
+            "text": "Nobody trusted the office telltale, who repeated every private remark to the manager within the hour.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "tell(말하다)과 tale(이야기)이 합쳐진 말입니다. 비밀을 이야기해 버리듯 드러내 보입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "temerity",
+    "score": 67,
+    "zipf": 2.42,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Reckless boldness; foolish bravery.",
+        "ko": "무모함, 무분별한 대담함",
+        "synonyms": [
+          "audacity",
+          "rashness",
+          "recklessness",
+          "foolhardiness"
+        ],
+        "examples": [
+          {
+            "text": "One day when he knew old Lobbs was out, Nathaniel Pipkin had the temerity to kiss his hand to Maria Lobbs.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Effrontery; impudence.",
+        "ko": "뻔뻔함, 건방짐",
+        "synonyms": [
+          "effrontery",
+          "gall",
+          "cheek",
+          "impudence",
+          "chutzpah"
+        ],
+        "examples": [
+          {
+            "text": "The intern had the temerity to correct the chief executive in front of the entire board.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 temeritās(우연, 무모함)에서 왔고 temere(되는대로, 경솔히)와 이어집니다. 앞뒤 안 재는 무모한 용기입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "temper",
+    "score": 39,
+    "zipf": 3.81,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make more temperate, acceptable, or suitable by adding something else",
+        "ko": "누그러뜨리다, 완화하다",
+        "synonyms": [
+          "moderate",
+          "mollify",
+          "soften",
+          "season",
+          "assuage"
+        ],
+        "examples": [
+          {
+            "text": "The editor tempered her harsh critique with genuine praise for the author's vivid characters.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A tendency to become angry.",
+        "ko": "성미, 화를 잘 내는 성질",
+        "synonyms": [
+          "irritability",
+          "irascibility",
+          "petulance"
+        ],
+        "examples": [
+          {
+            "text": "He has quite a temper when dealing with salespeople.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To strengthen or toughen a material, especially metal, by heat treatment; anneal.",
+        "ko": "(금속을) 단련하다, 담금질하다",
+        "synonyms": [
+          "anneal",
+          "harden",
+          "toughen"
+        ],
+        "examples": [
+          {
+            "text": "The blacksmith tempered the blade in oil so that it would hold an edge without becoming brittle.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "temper"
+    ],
+    "origin": {
+      "ko": "라틴어 temperāre(알맞게 섞다, 조절하다)에서 왔습니다. 강한 것을 누그러뜨려 균형을 맞춘다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "temperance",
+    "score": 46,
+    "zipf": 3.15,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the trait of avoiding excesses",
+        "ko": "절제, 자제",
+        "synonyms": [
+          "moderation",
+          "restraint",
+          "self-control",
+          "abstemiousness"
+        ],
+        "examples": [
+          {
+            "text": "The philosopher praised temperance as the virtue that keeps appetite from overruling reason.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Moderation in the use of intoxicating substances; sobriety; specifically, complete abstinence from alcoholic beverages; teetotalism.",
+        "ko": "금주, 절주",
+        "synonyms": [
+          "sobriety",
+          "abstinence",
+          "teetotalism"
+        ],
+        "examples": [
+          {
+            "text": "The temperance movement of the nineteenth century campaigned for abstinence from alcohol across much of the country.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "temper",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "라틴어 temperantia(절제)에서 왔습니다. 지나치지 않게 조절하는 태도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "temperate",
+    "score": 28,
+    "zipf": 3.33,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not extreme in behavior",
+        "ko": "절제하는, 온건한",
+        "synonyms": [
+          "moderate",
+          "restrained",
+          "measured",
+          "self-controlled"
+        ],
+        "examples": [
+          {
+            "text": "Her temperate response to the insult surprised colleagues who expected an angry outburst.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "(of weather or climate) free from extremes; mild; or characteristic of such weather or climate",
+        "ko": "(기후가) 온화한, 온대의",
+        "synonyms": [
+          "mild",
+          "clement",
+          "moderate"
+        ],
+        "examples": [
+          {
+            "text": "These trees can only grow in temperate climates.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "temper",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 temperātus(알맞게 조절된)에서 왔습니다. 극단으로 치우치지 않고 온건하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tempered",
+    "score": 26,
+    "zipf": 3.53,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Moderated or balanced by other considerations.",
+        "ko": "완화된, 누그러진",
+        "synonyms": [
+          "moderated",
+          "softened",
+          "qualified",
+          "mitigated"
+        ],
+        "examples": [
+          {
+            "text": "The council gave the plan a tempered endorsement, approving it while demanding stricter oversight of costs.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "made hard or flexible or resilient especially by heat treatment",
+        "ko": "단련된, 강화 처리된",
+        "synonyms": [
+          "hardened",
+          "toughened",
+          "treated"
+        ],
+        "examples": [
+          {
+            "text": "The vault door was fitted with tempered glass that could withstand repeated blows.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "temper"
+    ],
+    "origin": {
+      "ko": "temper(누그러뜨리다)의 과거분사입니다. 다른 요소로 조절되어 완화되었다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tempestuous",
+    "score": 52,
+    "zipf": 2.49,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by violent emotions or behavior",
+        "ko": "격정적인, 격렬한",
+        "synonyms": [
+          "stormy",
+          "turbulent",
+          "passionate",
+          "volatile"
+        ],
+        "examples": [
+          {
+            "text": "After their tempestuous argument, they did not speak to each other for weeks.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "(of the elements) as if showing violent anger",
+        "ko": "(날씨가) 폭풍우 치는, 사나운",
+        "synonyms": [
+          "stormy",
+          "raging",
+          "wild",
+          "furious"
+        ],
+        "examples": [
+          {
+            "text": "Sailors avoided the tempestuous waters off the cape during the winter months.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tempor",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 tempestuōsus(폭풍 같은)에서 왔고 tempestās(날씨, 폭풍)에서 나왔습니다. 폭풍처럼 격렬하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "temporal",
+    "score": 25,
+    "zipf": 3.63,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characteristic of or devoted to the temporal world as opposed to the spiritual world",
+        "ko": "현세의, 세속적인",
+        "synonyms": [
+          "worldly",
+          "secular",
+          "earthly",
+          "mundane"
+        ],
+        "examples": [
+          {
+            "text": "Medieval popes claimed authority over temporal rulers as well as over matters of the soul.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of or relating to or limited by time",
+        "ko": "시간의, 시간과 관련된",
+        "synonyms": [
+          "chronological",
+          "time-related"
+        ],
+        "examples": [
+          {
+            "text": "The study examined the temporal ordering of events rather than their spatial arrangement.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not eternal",
+        "ko": "일시적인, 덧없는",
+        "synonyms": [
+          "transient",
+          "fleeting",
+          "transitory",
+          "ephemeral"
+        ],
+        "examples": [
+          {
+            "text": "The preacher reminded the congregation that wealth and fame are merely temporal comforts.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tempor",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 temporālis(시간의)에서 왔습니다. 영원과 대비되는 덧없는 현세의 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "temporize",
+    "score": 23,
+    "zipf": 1.18,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "draw out a discussion or process in order to gain time",
+        "ko": "시간을 끌다, 질질 끌며 미루다",
+        "synonyms": [
+          "stall",
+          "procrastinate",
+          "hedge",
+          "delay"
+        ],
+        "examples": [
+          {
+            "text": "The speaker temporized in order to delay the vote",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To discuss, to negotiate; to reach a compromise.",
+        "ko": "타협하다, 협상하다",
+        "synonyms": [
+          "compromise",
+          "negotiate",
+          "parley"
+        ],
+        "examples": [
+          {
+            "text": "Unwilling to temporize with the rebels, the governor demanded their immediate surrender.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tempor",
+      "-ize"
+    ],
+    "origin": {
+      "ko": "프랑스어 temporiser(때를 기다리다)에서 왔고 라틴어 tempus(시간)와 이어집니다. 시간을 벌려고 끌고 미룹니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tenable",
+    "score": 51,
+    "zipf": 2.4,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "capable of being maintained or justified; well-founded",
+        "ko": "옹호할 수 있는, 타당한",
+        "synonyms": [
+          "defensible",
+          "justifiable",
+          "sound",
+          "plausible"
+        ],
+        "examples": [
+          {
+            "text": "Back in the 1800s, many did not consider Darwin's theory of evolution to be tenable at all.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ten(잡다)",
+      "-able"
+    ],
+    "origin": {
+      "ko": "프랑스어 tenir(붙잡다)에서 나온 tenable에서 왔습니다. 붙들고 지킬 만한 타당한 주장입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tenacious",
+    "score": 63,
+    "zipf": 3.04,
+    "lists": [
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "stubbornly unyielding",
+        "ko": "끈질긴, 집요한",
+        "synonyms": [
+          "dogged",
+          "persistent",
+          "pertinacious",
+          "resolute",
+          "unyielding"
+        ],
+        "examples": [
+          {
+            "text": "The tenacious reporter pursued the story for three years despite threats and mounting legal costs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "good at remembering",
+        "ko": "기억력이 좋은",
+        "synonyms": [
+          "retentive",
+          "recollective"
+        ],
+        "examples": [
+          {
+            "text": "Her tenacious memory allowed her to recite long passages of poetry she had read decades earlier.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Clinging to an object or surface; adhesive.",
+        "ko": "달라붙는, 점착성의",
+        "synonyms": [
+          "adhesive",
+          "clinging",
+          "sticky",
+          "cohesive"
+        ],
+        "examples": [
+          {
+            "text": "The tenacious mud clung to our boots and slowed the whole hike.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ten(잡다)",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 tenāx('꽉 붙잡는')에서 왔습니다. 한번 쥔 것을 놓지 않는 모습이 '끈질긴'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tendentious",
+    "score": 63,
+    "zipf": 1.98,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having a tendency, written or spoken, with a partisan, biased or prejudiced purpose, especially a controversial one; implicitly or explicitly slanted; biased.",
+        "ko": "편향된, 특정 입장을 옹호하려는",
+        "synonyms": [
+          "partisan",
+          "slanted",
+          "biased",
+          "one-sided",
+          "prejudiced"
+        ],
+        "examples": [
+          {
+            "text": "Critics dismissed the documentary as a tendentious account that ignored evidence contradicting its thesis.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tend",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "tendency에 -ious를 붙이고 독일어 tendenziös를 본떠 만들었습니다. 한쪽으로 기우는 경향이 '편향된'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tender",
+    "score": 20,
+    "zipf": 4.09,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "offer or present for acceptance",
+        "ko": "제출하다, 정식으로 제안하다",
+        "synonyms": [
+          "offer",
+          "proffer",
+          "submit",
+          "present"
+        ],
+        "examples": [
+          {
+            "text": "The minister tendered his resignation after the audit revealed irregularities in his department.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Sensitive or painful to the touch.",
+        "ko": "만지면 아픈, 예민한",
+        "synonyms": [
+          "sore",
+          "sensitive",
+          "painful",
+          "raw"
+        ],
+        "examples": [
+          {
+            "text": "Be careful: that area is tender.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Fond, loving, gentle, or sweet.",
+        "ko": "다정한, 부드러운",
+        "synonyms": [
+          "affectionate",
+          "loving",
+          "gentle",
+          "fond"
+        ],
+        "examples": [
+          {
+            "text": "Suzanne was such a tender mother to her children.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 tener('부드러운')에서 온 형용사에서 나온 동사입니다. 이 사전 정보만으로는 '제출하다' 의미로 이어진 과정이 분명하지 않습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tentative",
+    "score": 26,
+    "zipf": 3.45,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Uncertain; subject to future change.",
+        "ko": "잠정적인, 확정되지 않은",
+        "synonyms": [
+          "provisional",
+          "provisory",
+          "conditional",
+          "unconfirmed"
+        ],
+        "examples": [
+          {
+            "text": "We have a tentative plan for the weekend, but nothing is confirmed yet.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "unsettled in mind or opinion",
+        "ko": "주저하는, 확신 없는",
+        "synonyms": [
+          "hesitant",
+          "doubtful",
+          "uncertain",
+          "diffident"
+        ],
+        "examples": [
+          {
+            "text": "The student offered a tentative answer, watching the professor's face for any sign of approval.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ten(시도)",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 tentātīvus('시험해 보는')에서 왔습니다. 일단 해 보는 단계라서 '잠정적인'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tenuous",
+    "score": 47,
+    "zipf": 3.02,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking substance or significance",
+        "ko": "근거가 빈약한, 보잘것없는",
+        "synonyms": [
+          "flimsy",
+          "slight",
+          "weak",
+          "insubstantial",
+          "thin"
+        ],
+        "examples": [
+          {
+            "text": "His argument was not convincing in the debate, considering how tenuous it was.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Thin in substance or consistency.",
+        "ko": "가느다란, 희박한",
+        "synonyms": [
+          "slender",
+          "delicate",
+          "gossamer",
+          "rarefied"
+        ],
+        "examples": [
+          {
+            "text": "A tenuous mist hung over the valley, thinning as the sun climbed higher.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tenu",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 tenuis('얇은')에 -ous를 붙였습니다. 실처럼 가늘어 끊어질 듯한 근거가 '빈약한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tepid",
+    "score": 34,
+    "zipf": 2.71,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "feeling or showing little interest or enthusiasm",
+        "ko": "열의 없는, 미온적인",
+        "synonyms": [
+          "lukewarm",
+          "halfhearted",
+          "apathetic",
+          "unenthusiastic"
+        ],
+        "examples": [
+          {
+            "text": "He gave me a tepid response to the proposal.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "moderately warm",
+        "ko": "미지근한",
+        "synonyms": [
+          "lukewarm"
+        ],
+        "examples": [
+          {
+            "text": "The bath had gone tepid by the time she finally climbed in.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tep",
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 tepidus('미지근한')에서 왔습니다. 뜨겁지도 차갑지도 않은 물처럼 열의가 없다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "terrestrial",
+    "score": 26,
+    "zipf": 3.48,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of or relating to or inhabiting the land as opposed to the sea or air",
+        "ko": "육지의, 지상에 사는",
+        "synonyms": [
+          "land-based",
+          "earthbound",
+          "ground-dwelling"
+        ],
+        "examples": [
+          {
+            "text": "Unlike its aquatic cousins, this terrestrial salamander spends nearly its whole life beneath fallen logs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "concerned with the world or worldly matters",
+        "ko": "세속적인, 현세의",
+        "synonyms": [
+          "worldly",
+          "mundane",
+          "earthly",
+          "secular"
+        ],
+        "examples": [
+          {
+            "text": "The poet turned from celestial visions to the plain terrestrial concerns of rent and bread.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "terr(땅)",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 terra('땅')에서 온 terrestris에서 왔습니다. 땅에 속한다는 뜻에서 '육지의'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "territory",
+    "score": 16,
+    "zipf": 4.6,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an area of knowledge or interest",
+        "ko": "(지식·관심의) 영역, 분야",
+        "synonyms": [
+          "domain",
+          "field",
+          "province",
+          "sphere"
+        ],
+        "examples": [
+          {
+            "text": "Quantum computing remains uncharted territory for most economists, who are only beginning to study its likely effects on markets.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A geographic area under control of a single governing entity such as state or municipality; an area whose borders are determined by the scope of political power rather than solely by natural features such as rivers and ridges.",
+        "ko": "영토, 관할 지역",
+        "synonyms": [
+          "dominion",
+          "jurisdiction",
+          "domain",
+          "province"
+        ],
+        "examples": [
+          {
+            "text": "Troops were forbidden to cross into neighboring territory without the express approval of the government.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "terr(땅)"
+    ],
+    "origin": {
+      "ko": "라틴어 territōrium('땅의 구역')에서 왔습니다. 땅의 영역이 지식·관심의 '분야'로 확장되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "terse",
+    "score": 50,
+    "zipf": 2.67,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "brief and to the point; effectively cut short",
+        "ko": "간결한, 간명한",
+        "synonyms": [
+          "concise",
+          "succinct",
+          "laconic",
+          "pithy",
+          "crisp"
+        ],
+        "examples": [
+          {
+            "text": "The memo was terse, listing three decisions and the names of those responsible for each.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Of manner or speech: abruptly or brusquely short; curt.",
+        "ko": "퉁명스러운, 무뚝뚝한",
+        "synonyms": [
+          "curt",
+          "brusque",
+          "abrupt",
+          "short"
+        ],
+        "examples": [
+          {
+            "text": "His terse reply, a single word, made it clear that the conversation was over.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 tersus('깨끗이 닦인')에서 왔습니다. 군더더기를 닦아낸 듯 깔끔한 표현이 '간결한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "testator",
+    "score": 32,
+    "zipf": 2.12,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who makes a will",
+        "ko": "유언자",
+        "synonyms": [
+          "legator",
+          "devisor",
+          "will-maker"
+        ],
+        "examples": [
+          {
+            "text": "The court ruled that the testator had been of sound mind when she signed the will.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "test",
+      "-or"
+    ],
+    "origin": {
+      "ko": "라틴어 testari('증언하다, 유언하다')에서 온 말입니다. 유언으로 뜻을 증언하는 사람을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "word": "wraith",
+    "score": 47,
+    "zipf": 3.03,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a malevolent or haunting spirit",
+        "ko": "유령, 망령",
+        "synonyms": [
+          "ghost",
+          "specter",
+          "apparition",
+          "phantom",
+          "spirit"
+        ],
+        "examples": [
+          {
+            "text": "Villagers claimed a pale wraith drifted across the marsh each night before the first frost.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "wrangle",
+    "score": 35,
+    "zipf": 2.6,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to quarrel noisily, angrily or disruptively",
+        "ko": "시끄럽게 말다툼하다",
+        "synonyms": [
+          "squabble",
+          "bicker",
+          "quarrel",
+          "argue",
+          "altercate"
+        ],
+        "examples": [
+          {
+            "text": "The heirs wrangled for years over who should inherit the family estate.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an angry dispute",
+        "ko": "언쟁, 논쟁",
+        "synonyms": [
+          "quarrel",
+          "dispute",
+          "altercation",
+          "squabble"
+        ],
+        "examples": [
+          {
+            "text": "A bitter wrangle over funding delayed the construction of the new library.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 네덜란드어와 저지 독일어에서 온 말로 '비틀다, 싸우다'와 이어집니다. 서로 비틀며 다투는 모습이 '말다툼하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "wreak",
+    "score": 32,
+    "zipf": 2.94,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To cause harm; to afflict; to inflict; to harm or injure; to let out harm.",
+        "ko": "(피해를) 입히다, (분노를) 발산하다",
+        "synonyms": [
+          "inflict",
+          "cause",
+          "unleash",
+          "exact"
+        ],
+        "examples": [
+          {
+            "text": "The earthquake wreaked havoc in the city.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 wrecan('몰아내다, 복수하다')에서 왔습니다. 복수로 해를 가하는 것이 '(피해를) 입히다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "wry",
+    "score": 32,
+    "zipf": 2.86,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "humorously sarcastic or mocking",
+        "ko": "냉소적인, 비꼬는",
+        "synonyms": [
+          "dry",
+          "ironic",
+          "sardonic",
+          "droll"
+        ],
+        "examples": [
+          {
+            "text": "With a wry smile, the veteran reporter remarked that the politician's promises were nothing new.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "bent to one side",
+        "ko": "일그러진, 비뚤어진",
+        "synonyms": [
+          "twisted",
+          "crooked",
+          "contorted",
+          "askew"
+        ],
+        "examples": [
+          {
+            "text": "He made a wry face as he swallowed the bitter medicine.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 wrīġian('비틀다, 휘다')에서 왔습니다. 입을 비튼 표정에서 '비꼬는'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

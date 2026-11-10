@@ -1,0 +1,853 @@
+[
+  {
+    "word": "headlong",
+    "score": 34,
+    "zipf": 2.72,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "excessively quick",
+        "ko": "성급한, 앞뒤 가리지 않는",
+        "synonyms": [
+          "hasty",
+          "precipitate",
+          "impetuous",
+          "rash"
+        ],
+        "examples": [
+          {
+            "text": "The company's headlong expansion into new markets left it with dangerously thin cash reserves.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adv",
+        "en": "in a hasty and foolhardy manner",
+        "ko": "무모하게, 앞뒤 재지 않고",
+        "synonyms": [
+          "rashly",
+          "recklessly",
+          "precipitately"
+        ],
+        "examples": [
+          {
+            "text": "he fell headlong in love with his cousin",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "head"
+    ],
+    "origin": {
+      "ko": "중세영어 hedling '머리부터'가 long처럼 바뀐 말입니다. 머리부터 곧장 뛰어드는 성급함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "headstrong",
+    "score": 34,
+    "zipf": 2.69,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "habitually disposed to disobedience and opposition",
+        "ko": "고집 센, 제멋대로인",
+        "synonyms": [
+          "willful",
+          "obstinate",
+          "wayward",
+          "self-willed"
+        ],
+        "examples": [
+          {
+            "text": "The headstrong young prince ignored every warning from his advisers and marched into the mountains.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "head",
+      "strong"
+    ],
+    "origin": {
+      "ko": "head(머리)와 strong(강한)의 합성어입니다. 머릿속 생각이 너무 세서 고집이 셉니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "heady",
+    "score": 32,
+    "zipf": 2.93,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Intoxicating or stupefying.",
+        "ko": "취하게 하는, 도취시키는",
+        "synonyms": [
+          "intoxicating",
+          "potent",
+          "strong"
+        ],
+        "examples": [
+          {
+            "text": "The cocktail was a heady mixture of spirits.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Exhilarating or exciting; producing a feeling of high energy or confidence",
+        "ko": "짜릿한, 들뜨게 하는",
+        "synonyms": [
+          "exhilarating",
+          "thrilling",
+          "stimulating",
+          "euphoric"
+        ],
+        "examples": [
+          {
+            "text": "The rock concert was a heady mixture of their greatest hits.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "marked by defiant disregard for danger or consequences",
+        "ko": "무모한, 경솔한",
+        "synonyms": [
+          "rash",
+          "reckless",
+          "foolhardy",
+          "impetuous"
+        ],
+        "examples": [
+          {
+            "text": "The heady young trader gambled the firm's capital on a single volatile stock.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "head",
+      "-y"
+    ],
+    "origin": {
+      "ko": "중세영어 hedi로 head(머리)에 -y가 붙은 말입니다. 머리로 훅 올라오는 취기가 '도취시키는'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hearken",
+    "score": 34,
+    "zipf": 2.29,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "listen; used mostly in the imperative",
+        "ko": "귀 기울이다, 경청하다",
+        "synonyms": [
+          "hark",
+          "listen",
+          "heed",
+          "attend"
+        ],
+        "examples": [
+          {
+            "text": "The villagers gathered to hearken to the elder's account of the long-forgotten flood.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 hercnian '귀 기울이다'에서 왔고 hark에 -en이 붙은 모양입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hector",
+    "score": 25,
+    "zipf": 3.57,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To dominate or intimidate in a blustering way; to bully, to domineer.",
+        "ko": "윽박지르다, 으르대다",
+        "synonyms": [
+          "bully",
+          "browbeat",
+          "intimidate",
+          "domineer"
+        ],
+        "examples": [
+          {
+            "text": "The coach was known to hector his players until they were too frightened to make mistakes.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "호메로스의 일리아드에 나오는 트로이 영웅 Hector에서 왔습니다. 영웅 행세하듯 큰소리치며 남을 윽박지른다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hedge",
+    "score": 40,
+    "zipf": 3.74,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To avoid verbal commitment.",
+        "ko": "말을 얼버무리다, 확답을 피하다",
+        "synonyms": [
+          "equivocate",
+          "dodge",
+          "evade",
+          "prevaricate"
+        ],
+        "examples": [
+          {
+            "text": "He carefully hedged his statements with weasel words.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "minimize loss or risk",
+        "ko": "(손실·위험을) 방지하다, 헤지하다",
+        "synonyms": [
+          "safeguard",
+          "insure",
+          "protect"
+        ],
+        "examples": [
+          {
+            "text": "Many investors buy gold to hedge against inflation and currency swings.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a fence formed by a row of closely planted shrubs or bushes",
+        "ko": "산울타리",
+        "synonyms": [
+          "hedgerow",
+          "fence",
+          "windbreak"
+        ],
+        "examples": [
+          {
+            "text": "A tall hedge of boxwood screened the garden from the road.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 heċġ '울타리'에서 왔습니다. 울타리를 쳐 두듯 확답을 피하고 빠져나갈 구석을 남깁니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hedonist",
+    "score": 47,
+    "zipf": 2.04,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone motivated by desires for sensual pleasures",
+        "ko": "쾌락주의자",
+        "synonyms": [
+          "pleasure seeker",
+          "epicure",
+          "sensualist",
+          "voluptuary"
+        ],
+        "examples": [
+          {
+            "text": "The novel's hero is a hedonist who spends his inheritance on lavish parties and travel.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hedon",
+      "-ist"
+    ],
+    "origin": {
+      "ko": "그리스어 hēdonḗ(쾌락)에 -ist가 붙은 말입니다. 쾌락을 좇는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "heed",
+    "score": 42,
+    "zipf": 3.45,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "pay close attention to; give heed to",
+        "ko": "주의를 기울이다, 귀담아듣다",
+        "synonyms": [
+          "mind",
+          "observe",
+          "regard",
+          "attend to"
+        ],
+        "examples": [
+          {
+            "text": "Heed the advice of the old men",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 hēdan '주의하다, 지키다'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hegemony",
+    "score": 62,
+    "zipf": 3.13,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the dominance or leadership of one social group or nation over others",
+        "ko": "패권, 주도권",
+        "synonyms": [
+          "dominance",
+          "supremacy",
+          "ascendancy",
+          "leadership"
+        ],
+        "examples": [
+          {
+            "text": "Historians debate how Britain maintained naval hegemony throughout the nineteenth century.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "heg"
+    ],
+    "origin": {
+      "ko": "그리스어 hēgemonía '지도력, 최고 지휘'에서 왔고, hēgeisthai(이끌다)에서 나온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "herculean",
+    "score": 36,
+    "zipf": 2.52,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "extremely difficult; requiring the strength of a Hercules",
+        "ko": "엄청난 힘이 드는, 매우 힘든",
+        "synonyms": [
+          "arduous",
+          "formidable",
+          "gargantuan",
+          "backbreaking"
+        ],
+        "examples": [
+          {
+            "text": "Rebuilding the flooded town in a single season was a herculean task for the small crew.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "displaying superhuman strength or power",
+        "ko": "초인적인 힘을 지닌",
+        "synonyms": [
+          "powerful",
+          "mighty",
+          "superhuman"
+        ],
+        "examples": [
+          {
+            "text": "With a herculean effort, the climber hauled his injured partner over the ledge.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스 신화의 힘센 영웅 Hercules에서 온 말입니다. 헤라클레스만큼의 힘이 필요할 정도로 엄청나다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "heretic",
+    "score": 31,
+    "zipf": 3.0,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who holds unorthodox opinions in any field (not merely religion)",
+        "ko": "이단자, 비정통적 견해를 가진 사람",
+        "synonyms": [
+          "dissenter",
+          "nonconformist",
+          "iconoclast",
+          "apostate"
+        ],
+        "examples": [
+          {
+            "text": "Early proponents of continental drift were dismissed as heretics by the geological establishment.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Someone whose beliefs are contrary to the fundamental tenets of a religion they claim to belong to.",
+        "ko": "이단자(교리에 어긋나는 신앙을 가진 자)",
+        "synonyms": [
+          "apostate",
+          "dissident",
+          "schismatic"
+        ],
+        "examples": [
+          {
+            "text": "The council condemned the priest as a heretic for denying the doctrine of the Trinity.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 hairetikos '선택할 수 있는'에서 왔고 hairéō(고르다)가 뿌리입니다. 정통 대신 자기 믿음을 골라 택한 사람이 '이단자'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "heretical",
+    "score": 32,
+    "zipf": 2.85,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by departure from accepted beliefs or standards",
+        "ko": "이단의, 통념에 어긋나는",
+        "synonyms": [
+          "unorthodox",
+          "heterodox",
+          "dissident",
+          "iconoclastic"
+        ],
+        "examples": [
+          {
+            "text": "Her heretical claim that the old theory was flawed provoked outrage among senior colleagues.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "heretic(이단자)에 -al이 붙은 말입니다. 그리스어 hairéō(고르다)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hermetic",
+    "score": 51,
+    "zipf": 2.56,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "completely sealed; completely airtight",
+        "ko": "밀폐된, 기밀의",
+        "synonyms": [
+          "airtight",
+          "sealed",
+          "impermeable"
+        ],
+        "examples": [
+          {
+            "text": "The specimens were kept in hermetic containers to prevent any contamination from outside air.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Isolated, away from outside influence.",
+        "ko": "외부와 단절된, 폐쇄적인",
+        "synonyms": [
+          "insular",
+          "isolated",
+          "cloistered",
+          "secluded"
+        ],
+        "examples": [
+          {
+            "text": "The monastery's hermetic community had little contact with the changing world beyond its walls.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 라틴어 hermeticus로, 연금술사 헤르메스 트리스메기스토스에서 왔습니다. 그가 보물 상자를 마법으로 완전히 봉인했다는 전설에서 '밀폐된'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hermitage",
+    "score": 32,
+    "zipf": 2.92,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A place of seclusion.",
+        "ko": "은거지, 은둔처",
+        "synonyms": [
+          "retreat",
+          "refuge",
+          "sanctuary",
+          "hideaway"
+        ],
+        "examples": [
+          {
+            "text": "The novelist treated her remote cabin as a hermitage where she could write without interruption.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the abode of a hermit",
+        "ko": "은자의 거처, 암자",
+        "synonyms": [
+          "cell",
+          "retreat"
+        ],
+        "examples": [
+          {
+            "text": "The pilgrims climbed the cliff to reach the hermitage carved into the rock.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hermit",
+      "-age"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 ermitage로, hermit(은둔자)에 -age가 붙은 말입니다. 그리스어 erēmítēs(외딴 곳에 사는 사람)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "heterodox",
+    "score": 34,
+    "zipf": 2.33,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by departure from accepted beliefs or standards",
+        "ko": "이단적인, 정통에서 벗어난",
+        "synonyms": [
+          "unorthodox",
+          "heretical",
+          "dissident",
+          "nonconformist"
+        ],
+        "examples": [
+          {
+            "text": "Most Christian denominations consider each other heterodox.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hetero-",
+      "dox"
+    ],
+    "origin": {
+      "ko": "그리스어 heteródoxos로, héteros(다른)와 dóxa(의견)가 합쳐졌습니다. 남과 다른 의견이라 '이단적인'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "heterogeneous",
+    "score": 46,
+    "zipf": 3.08,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "consisting of elements that are not of the same kind or nature",
+        "ko": "이질적인, 다양한 요소로 이루어진",
+        "synonyms": [
+          "diverse",
+          "varied",
+          "mixed",
+          "miscellaneous"
+        ],
+        "examples": [
+          {
+            "text": "the population of the United States is vast and heterogeneous",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hetero-",
+      "gen",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "그리스어 heterogenḗs '서로 다른 종류의'에서 왔습니다. héteros(다른)와 génos(종류)가 합쳐졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hew",
+    "score": 51,
+    "zipf": 2.61,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To act according to, to conform to; usually construed with to.",
+        "ko": "(원칙 등을) 고수하다, 따르다",
+        "synonyms": [
+          "adhere",
+          "conform",
+          "abide",
+          "stick"
+        ],
+        "examples": [
+          {
+            "text": "Few men measured up to his standard of righteousness; he hewed to the line.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make or shape as with an axe",
+        "ko": "쳐서 만들다, 깎아 내다",
+        "synonyms": [
+          "chop",
+          "carve",
+          "cut",
+          "fashion"
+        ],
+        "examples": [
+          {
+            "text": "The settlers hewed a rough path through the dense forest to reach the river.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 hēawan '도끼로 찍어 베다'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "heyday",
+    "score": 46,
+    "zipf": 3.09,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A period of success, popularity, or power; prime.",
+        "ko": "전성기, 황금시대",
+        "synonyms": [
+          "prime",
+          "peak",
+          "zenith",
+          "golden age"
+        ],
+        "examples": [
+          {
+            "text": "The early twentieth century was the heyday of the steam locomotive.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "16세기 감탄사 heyda에서 왔고, 뒤에 day(날, 시기)로 풀이되어 '전성기'라는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

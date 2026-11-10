@@ -1,0 +1,235 @@
+[
+  {
+    "word": "squalid",
+    "score": 51,
+    "zipf": 2.6,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "foul and run-down and repulsive",
+        "ko": "더럽고 누추한",
+        "synonyms": [
+          "sordid",
+          "filthy",
+          "seedy",
+          "wretched"
+        ],
+        "examples": [
+          {
+            "text": "a squalid overcrowded apartment in the poorest part of town",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Showing or characterized by a contemptible lack of moral standards.",
+        "ko": "비열한, 도덕적으로 타락한",
+        "synonyms": [
+          "sordid",
+          "sleazy",
+          "base"
+        ],
+        "examples": [
+          {
+            "text": "a squalid attempt to buy votes",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 squālēre(거칠고 더럽다)에서 온 squalidus에서 왔습니다. 더럽고 누추한 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "squalor",
+    "score": 34,
+    "zipf": 2.69,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Filthiness and degradation, as from neglect or poverty",
+        "ko": "불결함, 비참한 상태",
+        "synonyms": [
+          "filth",
+          "sordidness",
+          "wretchedness"
+        ],
+        "examples": [
+          {
+            "text": "The heterogenous indigent multitude, everywhere wearing nearly the same aspect of squalor.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-or"
+    ],
+    "origin": {
+      "ko": "라틴어 squālor(더러움)에서 왔습니다. 방치되어 불결하고 초라한 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "squander",
+    "score": 50,
+    "zipf": 2.74,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "spend thoughtlessly; throw away",
+        "ko": "낭비하다, 허비하다",
+        "synonyms": [
+          "waste",
+          "dissipate",
+          "fritter away"
+        ],
+        "examples": [
+          {
+            "text": "You squandered the opportunity to get an advanced degree",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "16세기 말 처음 보이며 어원은 불확실합니다. scatter와 wander의 혼합일 수 있다고 봅니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "squeamish",
+    "score": 35,
+    "zipf": 2.63,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Easily shocked, sickened or frightened; tending to be nauseated or nervous; oversensitive.",
+        "ko": "메스꺼워하는, 예민한",
+        "synonyms": [
+          "queasy",
+          "fastidious",
+          "delicate"
+        ],
+        "examples": [
+          {
+            "text": "He might have made a good doctor, had he not been so squeamish at the sight of blood.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Averse or reluctant.",
+        "ko": "꺼리는, 내켜하지 않는",
+        "synonyms": [
+          "reluctant",
+          "averse"
+        ],
+        "examples": [
+          {
+            "text": "Regulators were squeamish about confronting the powerful bank, so the abuses continued.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "어원이 분명하지 않습니다. 현기증과 메스꺼움을 뜻하는 방언 말과 섞였다고 봅니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "squelch",
+    "score": 50,
+    "zipf": 2.35,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "suppress or crush completely",
+        "ko": "억누르다, 진압하다",
+        "synonyms": [
+          "quell",
+          "quash",
+          "suppress",
+          "quench"
+        ],
+        "examples": [
+          {
+            "text": "Even the king's announcement could not squelch the rumors.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To make a sucking, splashing noise as when walking on muddy ground.",
+        "ko": "철벅철벅 소리를 내다",
+        "synonyms": [
+          "squish",
+          "slosh"
+        ],
+        "examples": [
+          {
+            "text": "The mud squelched underfoot; it had been raining all night.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "어원은 알려져 있지 않고, 철벅 눌러 으깨는 소리를 흉내 낸 말로 보입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

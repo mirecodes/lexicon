@@ -1,0 +1,1203 @@
+[
+  {
+    "word": "abase",
+    "score": 43,
+    "zipf": 1.56,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause to feel shame; hurt the pride of",
+        "ko": "굴욕감을 주다, 체면을 깎다",
+        "synonyms": [
+          "humiliate",
+          "degrade",
+          "demean",
+          "humble",
+          "mortify"
+        ],
+        "examples": [
+          {
+            "text": "The senator seemed determined to abase his rival by publicly questioning his honesty before the entire committee.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 abaissier(낮추다)에서 왔습니다. 남을 아래로 끌어내리는 모습에서 '굴욕을 주다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abate",
+    "score": 50,
+    "zipf": 2.68,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "become less in amount or intensity",
+        "ko": "약해지다, 누그러지다",
+        "synonyms": [
+          "subside",
+          "diminish",
+          "wane",
+          "ebb",
+          "let up"
+        ],
+        "examples": [
+          {
+            "text": "The storm abated",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To lessen (something) in force or intensity; to moderate.",
+        "ko": "완화하다, 줄이다",
+        "synonyms": [
+          "alleviate",
+          "mitigate",
+          "assuage",
+          "diminish",
+          "temper"
+        ],
+        "examples": [
+          {
+            "text": "Officials hoped that a public apology would abate the anger of residents living near the plant.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "bat"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 abatre(때려 눕히다)에서 왔습니다. 세게 눕혀 기세를 꺾는다는 데서 '약해지다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abdicate",
+    "score": 50,
+    "zipf": 2.66,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "give up, such as power, as of monarchs and emperors, or duties and obligations",
+        "ko": "퇴위하다, (책임을) 포기하다",
+        "synonyms": [
+          "renounce",
+          "relinquish",
+          "resign",
+          "surrender",
+          "forsake"
+        ],
+        "examples": [
+          {
+            "text": "Critics argued that the board had abdicated its responsibility by ignoring repeated warnings about the company's finances.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "dic",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 abdicare(거부하다)에서 왔습니다. 자리를 '멀리 선언해 버린다'는 뜻에서 '퇴위하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aberrant",
+    "score": 82,
+    "zipf": 2.69,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "markedly different from an accepted norm",
+        "ko": "정상에서 벗어난, 일탈적인",
+        "synonyms": [
+          "deviant",
+          "anomalous",
+          "abnormal",
+          "atypical",
+          "irregular"
+        ],
+        "examples": [
+          {
+            "text": "The researchers discarded the aberrant readings, which differed sharply from every other measurement in the data set.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "err",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 aberrare(길을 잃다)에서 왔습니다. 정해진 길에서 벗어나 헤매는 모습이 '일탈적인'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aberration",
+    "score": 31,
+    "zipf": 2.98,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a state or condition markedly different from the norm",
+        "ko": "정상에서 벗어남, 일탈",
+        "synonyms": [
+          "deviation",
+          "anomaly",
+          "irregularity",
+          "departure",
+          "quirk"
+        ],
+        "examples": [
+          {
+            "text": "Analysts described the sudden drop in sales as an aberration rather than the start of a lasting decline.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "err",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "라틴어 aberrare(길을 벗어나 헤매다)에서 왔습니다. 정상 경로에서 벗어난 상태를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abet",
+    "score": 51,
+    "zipf": 2.41,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "assist or encourage, usually in some wrongdoing",
+        "ko": "(나쁜 일을) 부추기다, 방조하다",
+        "synonyms": [
+          "incite",
+          "aid",
+          "instigate",
+          "encourage",
+          "countenance"
+        ],
+        "examples": [
+          {
+            "text": "Prosecutors charged the accountant with abetting the fraud by deliberately falsifying the company's quarterly records.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "bet"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 abeter(꾀다)에서 왔고, 사냥개를 몰아 물게 한다는 뜻이 어원에 있습니다. 나쁜 일을 부추기는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abeyance",
+    "score": 83,
+    "zipf": 2.36,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "temporary cessation or suspension",
+        "ko": "일시 중단, 보류 상태",
+        "synonyms": [
+          "suspension",
+          "dormancy",
+          "latency",
+          "remission"
+        ],
+        "examples": [
+          {
+            "text": "The merger plans were held in abeyance until regulators completed their review of the proposed deal.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 abeance에서 왔고 원래 '입을 벌리고 바라봄'이라는 뜻입니다. 기대하며 기다리는 상태에서 '보류'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abhor",
+    "score": 51,
+    "zipf": 2.64,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "find repugnant",
+        "ko": "혐오하다, 몹시 싫어하다",
+        "synonyms": [
+          "loathe",
+          "detest",
+          "abominate",
+          "execrate",
+          "despise"
+        ],
+        "examples": [
+          {
+            "text": "She abhorred cruelty of any kind and refused to support anyone who tolerated it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "horr"
+    ],
+    "origin": {
+      "ko": "라틴어 abhorrēre에서 왔습니다. '몸서리치며 뒤로 물러나다'라는 뜻이 지금의 '혐오하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abide",
+    "score": 25,
+    "zipf": 3.59,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "put up with something or somebody unpleasant",
+        "ko": "참다, 견디다",
+        "synonyms": [
+          "tolerate",
+          "endure",
+          "stomach",
+          "bear",
+          "brook"
+        ],
+        "examples": [
+          {
+            "text": "The editor could not abide careless prose and returned the manuscript with every page heavily marked.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "Used in a phrasal verb: abide by (“to accept and act in accordance with”).",
+        "ko": "(규칙·결정을) 따르다, 준수하다",
+        "synonyms": [
+          "obey",
+          "observe",
+          "comply with",
+          "adhere to",
+          "follow"
+        ],
+        "examples": [
+          {
+            "text": "All member nations promised to abide by the ruling of the international tribunal.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "a-(강조)",
+      "bide"
+    ],
+    "origin": {
+      "ko": "고대 영어 ābīdan(기다리다, 머물다)에서 왔습니다. 끝까지 버티며 기다리는 데서 '참다, 견디다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abject",
+    "score": 31,
+    "zipf": 3.0,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "most unfortunate or miserable",
+        "ko": "비참한, 처참한",
+        "synonyms": [
+          "wretched",
+          "miserable",
+          "pitiable",
+          "forlorn",
+          "squalid"
+        ],
+        "examples": [
+          {
+            "text": "Thousands of families lived in abject poverty, without clean water or reliable shelter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "showing humiliation or submissiveness",
+        "ko": "굴욕적인, 비굴한",
+        "synonyms": [
+          "servile",
+          "groveling",
+          "cringing",
+          "submissive",
+          "slavish"
+        ],
+        "examples": [
+          {
+            "text": "The minister issued an abject apology, begging the public to forgive his remarks.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "ject"
+    ],
+    "origin": {
+      "ko": "라틴어 abiectus(내던져진)에서 왔습니다. 버려져 내팽개쳐진 처지가 '비참한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abjure",
+    "score": 93,
+    "zipf": 1.82,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "formally reject or disavow a formerly held belief, usually under pressure",
+        "ko": "(공식적으로) 철회하다, 포기를 맹세하다",
+        "synonyms": [
+          "recant",
+          "renounce",
+          "forswear",
+          "retract",
+          "repudiate"
+        ],
+        "examples": [
+          {
+            "text": "Under threat of imprisonment, the scholar was forced to abjure the theories he had championed for decades.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "jur"
+    ],
+    "origin": {
+      "ko": "라틴어 abiurare(맹세로 부인하다)에서 왔습니다. 맹세하며 이전 믿음을 내던지는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abound",
+    "score": 44,
+    "zipf": 3.27,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be abundant or plentiful; exist in large quantities",
+        "ko": "풍부하다, 많이 존재하다",
+        "synonyms": [
+          "teem",
+          "proliferate",
+          "overflow",
+          "thrive"
+        ],
+        "examples": [
+          {
+            "text": "Rumors abounded after the CEO's sudden departure, though the company offered no explanation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "und"
+    ],
+    "origin": {
+      "ko": "라틴어 abundare(넘쳐흐르다)에서 왔고 unda(파도)와 연결됩니다. 파도처럼 넘쳐나는 데서 '풍부하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aboveboard",
+    "score": 28,
+    "zipf": 1.66,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "without concealment or deception; honest",
+        "ko": "공명정대한, 숨김없는",
+        "synonyms": [
+          "honest",
+          "straightforward",
+          "open",
+          "legitimate",
+          "candid"
+        ],
+        "examples": [
+          {
+            "text": "The council insisted that every contract be awarded through an open and aboveboard bidding process.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "abrasive",
+    "score": 29,
+    "zipf": 3.22,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Being rough and coarse in manner or disposition; overly aggressive and causing irritation.",
+        "ko": "거슬리는, 신경을 건드리는",
+        "synonyms": [
+          "harsh",
+          "caustic",
+          "grating",
+          "irritating",
+          "brusque"
+        ],
+        "examples": [
+          {
+            "text": "His abrasive management style alienated colleagues who might otherwise have supported his reforms.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "causing abrasion",
+        "ko": "마모시키는, 긁는",
+        "synonyms": [
+          "scratchy",
+          "rough",
+          "grinding",
+          "scouring"
+        ],
+        "examples": [
+          {
+            "text": "Workers wore gloves because the abrasive surface of the stone could quickly scrape the skin.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "ras",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 abrasivus에서 왔습니다. 표면을 긁어내는 성질이 거슬리는 태도를 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abreast",
+    "score": 48,
+    "zipf": 2.95,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "being up to particular standard or level especially in being up to date in knowledge",
+        "ko": "(최신 정보를) 잘 알고 있는",
+        "synonyms": [
+          "informed",
+          "up to date",
+          "au courant",
+          "conversant"
+        ],
+        "examples": [
+          {
+            "text": "Good journalists keep abreast of developments in the fields they cover.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "a-(~에)와 breast(가슴)가 합쳐진 말입니다. 가슴을 나란히 맞춘 모습에서 '뒤처지지 않고 나란히 알고 있는'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abridge",
+    "score": 30,
+    "zipf": 1.95,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "reduce in scope while retaining essential elements",
+        "ko": "요약하다, 축약하다",
+        "synonyms": [
+          "condense",
+          "shorten",
+          "abbreviate",
+          "truncate",
+          "epitomize"
+        ],
+        "examples": [
+          {
+            "text": "The publisher chose to abridge the nineteenth-century novel so that modern readers could finish it in a weekend.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "lessen, diminish, or curtail",
+        "ko": "(권리 등을) 축소하다, 제한하다",
+        "synonyms": [
+          "curtail",
+          "restrict",
+          "reduce",
+          "limit",
+          "diminish"
+        ],
+        "examples": [
+          {
+            "text": "The court ruled that the new statute unlawfully abridged citizens' freedom of assembly.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "brev"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 abbreviare(짧게 만들다)에서 왔습니다. 글을 짧게 줄인다는 뜻으로 abbreviate와 같은 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abrogate",
+    "score": 48,
+    "zipf": 2.08,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "revoke formally",
+        "ko": "(법·협정을) 폐지하다, 무효화하다",
+        "synonyms": [
+          "repeal",
+          "annul",
+          "rescind",
+          "revoke",
+          "nullify"
+        ],
+        "examples": [
+          {
+            "text": "The government threatened to abrogate the treaty if its neighbor continued to violate the border agreement.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "rog",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 abrogare(법안을 철회하다)에서 왔습니다. 제안된 법을 물리쳐 '폐지하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abscission",
+    "score": 27,
+    "zipf": 1.56,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the act of cutting something off",
+        "ko": "절단, 잘라냄",
+        "synonyms": [
+          "excision",
+          "severance",
+          "removal"
+        ],
+        "examples": [
+          {
+            "text": "Autumn leaves fall through abscission, in which the tree seals off the stem before releasing the leaf.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "sciss",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 abscindere(잘라내다)에서 왔습니다. 떼어 잘라내는 행위를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abscond",
+    "score": 48,
+    "zipf": 2.07,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "run away; usually includes taking something or somebody along",
+        "ko": "(몰래) 달아나다, 도주하다",
+        "synonyms": [
+          "flee",
+          "decamp",
+          "bolt",
+          "escape",
+          "skip town"
+        ],
+        "examples": [
+          {
+            "text": "The treasurer absconded with the club's savings, leaving members unable to pay the rent.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "con-",
+      "d"
+    ],
+    "origin": {
+      "ko": "라틴어 abscondere(숨기다)에서 왔습니다. 멀리 가서 몸을 숨기는 데서 '몰래 달아나다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abstain",
+    "score": 62,
+    "zipf": 3.07,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "choose not to consume",
+        "ko": "삼가다, 자제하다",
+        "synonyms": [
+          "refrain",
+          "forgo",
+          "desist",
+          "eschew",
+          "abjure"
+        ],
+        "examples": [
+          {
+            "text": "Patients were advised to abstain from alcohol for the duration of the treatment.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "refrain from voting",
+        "ko": "기권하다",
+        "synonyms": [
+          "withhold one's vote",
+          "decline to vote"
+        ],
+        "examples": [
+          {
+            "text": "Three delegates chose to abstain, leaving the resolution just short of the votes it needed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "ten(잡다)"
+    ],
+    "origin": {
+      "ko": "라틴어 abstinere(스스로 붙잡아 두다)에서 왔습니다. 손을 뻗지 않고 자신을 붙드는 모습이 '삼가다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abstemious",
+    "score": 44,
+    "zipf": 1.74,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "sparing in consumption of especially food and drink",
+        "ko": "절제하는, 소식하는",
+        "synonyms": [
+          "temperate",
+          "abstinent",
+          "sparing",
+          "moderate",
+          "frugal"
+        ],
+        "examples": [
+          {
+            "text": "Though he could afford lavish banquets, the philosopher led an abstemious life of bread, water, and study.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 abstemius(술을 삼가는)에서 왔습니다. 독한 술에서 멀리 떨어진다는 뜻이 '절제하는'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abstract",
+    "score": 20,
+    "zipf": 4.14,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "existing only in the mind; separated from embodiment",
+        "ko": "추상적인, 관념적인",
+        "synonyms": [
+          "theoretical",
+          "conceptual",
+          "intangible",
+          "notional"
+        ],
+        "examples": [
+          {
+            "text": "Students often find justice easier to discuss as an abstract principle than to apply to real cases.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "An abridgement or summary of a longer publication.",
+        "ko": "요약, 초록",
+        "synonyms": [
+          "summary",
+          "synopsis",
+          "precis",
+          "digest",
+          "abridgment"
+        ],
+        "examples": [
+          {
+            "text": "Reviewers read the abstract of each submitted paper before deciding which ones deserved a full evaluation.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "tract"
+    ],
+    "origin": {
+      "ko": "라틴어 abstrahere(끌어내다)에서 왔습니다. 구체적 사물에서 성질만 끌어낸 것이 '추상적인'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abstruse",
+    "score": 64,
+    "zipf": 2.13,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge",
+        "ko": "난해한, 이해하기 어려운",
+        "synonyms": [
+          "recondite",
+          "esoteric",
+          "arcane",
+          "obscure",
+          "cryptic"
+        ],
+        "examples": [
+          {
+            "text": "The physicist's abstruse argument left most of the audience nodding politely while understanding very little.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ab-",
+      "trud"
+    ],
+    "origin": {
+      "ko": "라틴어 abstrusus(감춰진)에서 왔습니다. 깊숙이 밀어 넣어 숨긴 것이라 이해하기 어렵습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abut",
+    "score": 36,
+    "zipf": 2.54,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "lie adjacent to another or share a boundary",
+        "ko": "인접하다, 맞닿다",
+        "synonyms": [
+          "border",
+          "adjoin",
+          "neighbor",
+          "touch",
+          "verge on"
+        ],
+        "examples": [
+          {
+            "text": "The new library abuts the old courthouse, sharing a wall along its entire eastern side.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 abuter(끝이 닿다)에서 왔습니다. 한쪽 끝이 다른 것에 맞닿는다는 뜻에서 '인접하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abysmal",
+    "score": 48,
+    "zipf": 2.92,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Extremely bad; terrible.",
+        "ko": "형편없는, 최악의",
+        "synonyms": [
+          "dreadful",
+          "atrocious",
+          "appalling",
+          "awful",
+          "dismal"
+        ],
+        "examples": [
+          {
+            "text": "The team's abysmal performance in the second half cost it the championship.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "resembling an abyss in depth; so deep as to be unmeasurable",
+        "ko": "깊이를 헤아릴 수 없는, 끝없는",
+        "synonyms": [
+          "unfathomable",
+          "bottomless",
+          "abyssal",
+          "profound"
+        ],
+        "examples": [
+          {
+            "text": "Explorers peered into the abysmal darkness of the trench, unable to see where it ended.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "abysm(심연)에 -al이 붙은 말입니다. 바닥 모를 심연처럼 한없이 나쁘다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "abyss",
+    "score": 27,
+    "zipf": 3.4,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a bottomless gulf or pit; any unfathomable (or apparently unfathomable) cavity or chasm or void extending below (often used figuratively)",
+        "ko": "심연, 깊은 구렁",
+        "synonyms": [
+          "chasm",
+          "gulf",
+          "void",
+          "abysm",
+          "pit"
+        ],
+        "examples": [
+          {
+            "text": "After the scandal, the once-admired firm seemed to teeter on the edge of an abyss.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "a-(부정)",
+      "byss"
+    ],
+    "origin": {
+      "ko": "그리스어 abyssos(바닥 없는)에서 왔습니다. 바닥이 없는 구렁이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

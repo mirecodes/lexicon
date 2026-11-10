@@ -1,0 +1,233 @@
+[
+  {
+    "word": "sham",
+    "score": 26,
+    "zipf": 3.45,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A fake; an imitation that purports to be genuine.",
+        "ko": "가짜, 사기, 눈속임",
+        "synonyms": [
+          "fake",
+          "fraud",
+          "counterfeit",
+          "hoax",
+          "imposture"
+        ],
+        "examples": [
+          {
+            "text": "The time-share deal was a sham.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Intended to deceive; false.",
+        "ko": "가짜의, 거짓된",
+        "synonyms": [
+          "fake",
+          "bogus",
+          "counterfeit",
+          "pretended",
+          "spurious"
+        ],
+        "examples": [
+          {
+            "text": "It was only a sham wedding: they didn't care much for one another, but wanted their parents to stop hassling them.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make believe with the intent to deceive",
+        "ko": "~인 체하다, 가장하다",
+        "synonyms": [
+          "feign",
+          "pretend",
+          "fake",
+          "simulate"
+        ],
+        "examples": [
+          {
+            "text": "He shammed a headache",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "기원이 확실하지 않습니다. shame의 방언형일 것으로 추정됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "shard",
+    "score": 31,
+    "zipf": 3.0,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a broken piece of a brittle artifact",
+        "ko": "(유리·도자기의) 깨진 조각",
+        "synonyms": [
+          "fragment",
+          "sherd",
+          "splinter",
+          "shiver"
+        ],
+        "examples": [
+          {
+            "text": "Archaeologists pieced together the ancient vase from hundreds of pottery shards found at the site.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 sċeard(깨진 조각)에서 왔고 '벤 자국, 홈'과 이어집니다. 깨져 나간 날카로운 조각입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sherbet",
+    "score": 36,
+    "zipf": 2.5,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a frozen dessert made primarily of fruit juice and sugar, but also containing milk or egg-white or gelatin",
+        "ko": "셔벗(과즙 얼음과자)",
+        "synonyms": [
+          "sorbet"
+        ],
+        "examples": [
+          {
+            "text": "After the heavy meal, the waiter brought a small dish of lemon sherbet to cleanse the palate.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "아랍어 sharba(마실 것)가 페르시아어와 튀르크어를 거쳐 들어왔습니다. 달콤한 과즙 음료가 얼음과자가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "shirk",
+    "score": 34,
+    "zipf": 2.66,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "avoid (one's assigned duties)",
+        "ko": "(책임·의무를) 회피하다",
+        "synonyms": [
+          "evade",
+          "dodge",
+          "neglect",
+          "avoid",
+          "shun"
+        ],
+        "examples": [
+          {
+            "text": "The derelict soldier shirked his duties",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "1633년경 처음 보이며 어원이 불확실합니다. shark나 독일어 Schurke(악당)와 연관된다는 설이 있습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "shrill",
+    "score": 32,
+    "zipf": 2.88,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having or emitting a high-pitched and sharp tone or tones",
+        "ko": "날카로운, 째지는",
+        "synonyms": [
+          "piercing",
+          "high-pitched",
+          "sharp",
+          "screeching"
+        ],
+        "examples": [
+          {
+            "text": "The woods rang with shrill cries of the birds.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "being sharply insistent on being heard",
+        "ko": "격앙된, 앙칼진",
+        "synonyms": [
+          "strident",
+          "vehement",
+          "clamorous"
+        ],
+        "examples": [
+          {
+            "text": "Her shrill criticism of the plan alienated even those who shared her concerns.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 shrille에서 왔고 소리를 흉내 낸 의성어에서 나온 것으로 봅니다. 날카롭게 높은 소리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

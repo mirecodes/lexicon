@@ -1,0 +1,502 @@
+[
+  {
+    "word": "lucid",
+    "score": 76,
+    "zipf": 3.27,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Clear; easily understood.",
+        "ko": "명쾌한, 이해하기 쉬운",
+        "synonyms": [
+          "clear",
+          "limpid",
+          "perspicuous",
+          "coherent",
+          "intelligible"
+        ],
+        "examples": [
+          {
+            "text": "The professor's lucid explanation made a notoriously difficult theorem accessible to first-year students.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having a clear mind",
+        "ko": "정신이 맑은, 제정신인",
+        "synonyms": [
+          "rational",
+          "sane",
+          "clearheaded",
+          "coherent"
+        ],
+        "examples": [
+          {
+            "text": "a lucid moment in his madness",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "luc",
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 lucidus에서 왔고 lūceō '빛나다'에서 나왔습니다. 빛처럼 환히 맑다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lucrative",
+    "score": 25,
+    "zipf": 3.56,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "producing a sizeable profit",
+        "ko": "수익이 큰, 돈이 되는",
+        "synonyms": [
+          "profitable",
+          "remunerative",
+          "moneymaking",
+          "gainful",
+          "fruitful"
+        ],
+        "examples": [
+          {
+            "text": "Selling software subscriptions proved far more lucrative than the company's original hardware business.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lucr",
+      "-ative"
+    ],
+    "origin": {
+      "ko": "프랑스어를 거쳐 라틴어 lucrativus '이익이 되는'에서 왔고 lucrum(이익)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lugubrious",
+    "score": 79,
+    "zipf": 2.02,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Gloomy, mournful or dismal, especially to an exaggerated degree.",
+        "ko": "몹시 슬픈 듯한, 우울한",
+        "synonyms": [
+          "mournful",
+          "doleful",
+          "gloomy",
+          "dismal",
+          "funereal"
+        ],
+        "examples": [
+          {
+            "text": "His client’s lugubrious expression tipped off the detective that something lurked beneath her optimistic words.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 lūgubris '애도하는, 침울한'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lull",
+    "score": 46,
+    "zipf": 3.08,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make calm or still",
+        "ko": "진정시키다, 달래다",
+        "synonyms": [
+          "soothe",
+          "calm",
+          "quiet",
+          "hush",
+          "pacify"
+        ],
+        "examples": [
+          {
+            "text": "The gentle rocking of the train lulled the exhausted children to sleep.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "calm by deception",
+        "ko": "안심시켜 방심하게 하다",
+        "synonyms": [
+          "delude",
+          "beguile",
+          "mislead",
+          "soothe"
+        ],
+        "examples": [
+          {
+            "text": "Don't let yourself be lulled into a false state of security",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a pause during which things are calm or activities are diminished",
+        "ko": "소강상태, 잠잠한 시기",
+        "synonyms": [
+          "letup",
+          "pause",
+          "respite",
+          "calm",
+          "hiatus"
+        ],
+        "examples": [
+          {
+            "text": "there was a lull in the storm",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 lullen에서 왔고, 아이를 달랠 때 내던 la-la 같은 소리에서 나왔다고 봅니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lumber",
+    "score": 25,
+    "zipf": 3.59,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "move heavily or clumsily",
+        "ko": "육중하게 쿵쿵 걷다, 느릿느릿 움직이다",
+        "synonyms": [
+          "plod",
+          "trudge",
+          "shuffle",
+          "stump",
+          "blunder"
+        ],
+        "examples": [
+          {
+            "text": "The heavy man lumbered across the room",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To load down with things, to fill, to encumber, to impose an unwanted burden on.",
+        "ko": "짐을 지우다, 떠맡기다",
+        "synonyms": [
+          "burden",
+          "saddle",
+          "encumber",
+          "load"
+        ],
+        "examples": [
+          {
+            "text": "I got lumbered with that boring woman all afternoon.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the wood of trees cut and prepared for use as building material",
+        "ko": "목재, 재목",
+        "synonyms": [
+          "timber",
+          "wood",
+          "planks"
+        ],
+        "examples": [
+          {
+            "text": "The builders ordered several tons of lumber for the new community center.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "luminary",
+    "score": 35,
+    "zipf": 2.39,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a celebrity who is an inspiration to others",
+        "ko": "명사, 선구자적 인물",
+        "synonyms": [
+          "leading light",
+          "notable",
+          "celebrity",
+          "eminence",
+          "star"
+        ],
+        "examples": [
+          {
+            "text": "he was host to a large gathering of luminaries",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "luc",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 lūminārium '빛을 내는 것'에서 왔고 lūmen(빛)에서 나왔습니다. 빛나는 별처럼 뛰어난 명사입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "luminous",
+    "score": 45,
+    "zipf": 3.24,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Emitting light; glowing brightly; shining.",
+        "ko": "빛을 내는, 환하게 빛나는",
+        "synonyms": [
+          "radiant",
+          "glowing",
+          "shining",
+          "incandescent",
+          "brilliant"
+        ],
+        "examples": [
+          {
+            "text": "The luminous dial of the old clock glowed faintly in the dark bedroom.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Clear; enlightening; easy to understand.",
+        "ko": "명쾌한, 깨우침을 주는",
+        "synonyms": [
+          "lucid",
+          "illuminating",
+          "clear",
+          "enlightening"
+        ],
+        "examples": [
+          {
+            "text": "a luminous explanation",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "luc",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "프랑스어를 거쳐 라틴어 lūminōsus에서 왔고 lūmen(빛)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lurid",
+    "score": 34,
+    "zipf": 2.73,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "glaringly vivid and graphic; marked by sensationalism",
+        "ko": "선정적인, 충격적일 만큼 생생한",
+        "synonyms": [
+          "sensational",
+          "graphic",
+          "shocking",
+          "gruesome",
+          "melodramatic"
+        ],
+        "examples": [
+          {
+            "text": "lurid details of the accident",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "shining with an unnatural red glow as of fire seen through smoke",
+        "ko": "불길한 붉은빛의",
+        "synonyms": [
+          "fiery",
+          "glaring",
+          "ominous",
+          "baleful"
+        ],
+        "examples": [
+          {
+            "text": "a lurid sunset",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 lūridus '창백한 노란색의'에서 왔습니다. 병든 듯한 섬뜩한 빛깔이 선정적인 뜻으로 번졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "luxuriant",
+    "score": 34,
+    "zipf": 2.35,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "produced or growing in extreme abundance",
+        "ko": "무성한, 풍성한",
+        "synonyms": [
+          "lush",
+          "profuse",
+          "exuberant",
+          "abundant",
+          "riotous"
+        ],
+        "examples": [
+          {
+            "text": "Luxuriant vines covered the ruined walls of the abandoned monastery.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "marked by complexity and richness of detail",
+        "ko": "정교하고 화려한",
+        "synonyms": [
+          "elaborate",
+          "ornate",
+          "rich",
+          "intricate",
+          "florid"
+        ],
+        "examples": [
+          {
+            "text": "The poet's luxuriant imagery occasionally overwhelmed the simple story beneath it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lux",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 lūxuriāns에서 왔고 lūxuria '사치, 넘침'에서 나왔습니다. 넘치도록 무성하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

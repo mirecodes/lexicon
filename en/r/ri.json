@@ -1,0 +1,416 @@
+[
+  {
+    "word": "ribald",
+    "score": 64,
+    "zipf": 2.08,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "humorously vulgar",
+        "ko": "상스럽고 외설적인, 음란하게 우스운",
+        "synonyms": [
+          "bawdy",
+          "off-color",
+          "coarse",
+          "lewd"
+        ],
+        "examples": [
+          {
+            "text": "The comedian's ribald jokes delighted the late-night crowd but scandalized the more conservative members of the audience.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 ribaud(불량배, 건달)에서 왔습니다. 건달의 상스러운 농담이라는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ridden",
+    "score": 25,
+    "zipf": 3.62,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Oppressed, dominated or plagued by.",
+        "ko": "~에 시달리는, 지배당하는",
+        "synonyms": [
+          "plagued",
+          "afflicted",
+          "beset"
+        ],
+        "examples": [
+          {
+            "text": "The region, ridden by corruption and debt, struggled to attract any foreign investment.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "ride의 과거분사 형태입니다. '~에 올라타 짓눌린' 데서 시달리는 뜻이 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rider",
+    "score": 21,
+    "zipf": 4.02,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a clause that is appended to a legislative bill",
+        "ko": "(법안의) 추가 조항, 부가 조항",
+        "synonyms": [
+          "amendment",
+          "addendum",
+          "proviso"
+        ],
+        "examples": [
+          {
+            "text": "Lawmakers attached an unrelated rider to the spending bill, provoking objections from the opposition.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "An additional matter or question arising in corollary; a qualification.",
+        "ko": "단서, 부가 조건",
+        "synonyms": [
+          "qualification",
+          "proviso",
+          "caveat"
+        ],
+        "examples": [
+          {
+            "text": "The committee approved the plan, adding a rider that funding be reviewed after one year.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-er"
+    ],
+    "origin": {
+      "ko": "ride에 -er이 붙은 말입니다. 법안 '위에 올라탄' 추가 조항이라는 비유로 쓰입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rife",
+    "score": 30,
+    "zipf": 3.15,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Widespread, common, prevalent, current (mainly of unpleasant or harmful things).",
+        "ko": "(나쁜 것이) 만연한, 횡행하는",
+        "synonyms": [
+          "prevalent",
+          "widespread",
+          "rampant"
+        ],
+        "examples": [
+          {
+            "text": "Rumors were rife that the factory was about to shut down.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Full of (mostly unpleasant or harmful things).",
+        "ko": "~로 가득 찬",
+        "synonyms": [
+          "fraught",
+          "teeming",
+          "replete"
+        ],
+        "examples": [
+          {
+            "text": "Many post-colonial governments were rife with lawlessness and corruption.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 rīfe(풍부한, 흔한)에서 왔습니다. 풍부함이 점점 나쁜 것의 만연이라는 뜻으로 굳었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rift",
+    "score": 25,
+    "zipf": 3.64,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a personal or social separation (as between opposing factions)",
+        "ko": "불화, 분열, 균열",
+        "synonyms": [
+          "rupture",
+          "breach",
+          "split",
+          "schism"
+        ],
+        "examples": [
+          {
+            "text": "The disagreement over funding opened a deep rift between the two founders of the company.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A chasm or fissure.",
+        "ko": "갈라진 틈, 균열",
+        "synonyms": [
+          "fissure",
+          "chasm",
+          "crevice",
+          "cleft"
+        ],
+        "examples": [
+          {
+            "text": "The Grand Canyon is a rift in the Earth's surface, but is smaller than some of the undersea ones.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "북유럽어에서 온 말로 '찢어진 틈'을 뜻합니다. 땅의 균열이 사람 사이의 불화로 확장되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rigor",
+    "score": 30,
+    "zipf": 3.07,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the quality of being valid and rigorous",
+        "ko": "엄밀함, 철저함",
+        "synonyms": [
+          "cogency",
+          "validity",
+          "exactness",
+          "thoroughness"
+        ],
+        "examples": [
+          {
+            "text": "Reviewers praised the study for its methodological rigor and its careful handling of confounding variables.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "excessive sternness",
+        "ko": "가혹함, 엄격함",
+        "synonyms": [
+          "severity",
+          "harshness",
+          "strictness"
+        ],
+        "examples": [
+          {
+            "text": "The rigor of the new regime left the prisoners with little hope of leniency.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "something hard to endure",
+        "ko": "견디기 힘든 시련, 혹독함",
+        "synonyms": [
+          "hardship",
+          "asperity",
+          "severity"
+        ],
+        "examples": [
+          {
+            "text": "The explorers were unprepared for the rigors of an Arctic winter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "rig(뻣뻣함)",
+      "-or"
+    ],
+    "origin": {
+      "ko": "라틴어 rigor(뻣뻣함, 혹독함)에서 왔습니다. 뻣뻣하게 물러서지 않는 태도가 엄밀함이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rile",
+    "score": 52,
+    "zipf": 2.49,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To make angry.",
+        "ko": "화나게 하다, 짜증나게 하다",
+        "synonyms": [
+          "anger",
+          "irritate",
+          "nettle",
+          "vex",
+          "exasperate"
+        ],
+        "examples": [
+          {
+            "text": "Nothing riles an anti-mosque demonstrator more than being called a bigot.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make turbid by stirring up the sediments of",
+        "ko": "(침전물을 휘저어) 흐리게 하다",
+        "synonyms": [
+          "roil",
+          "stir up",
+          "muddy"
+        ],
+        "examples": [
+          {
+            "text": "The heavy rains riled the normally clear stream, turning it the color of coffee.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "roil의 방언 발음에서 나왔습니다. 물을 휘저어 흐리게 하듯 마음을 휘저어 화나게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ripple",
+    "score": 27,
+    "zipf": 3.41,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A small spreading change, impact, or effect produced by a larger or more consequential action.",
+        "ko": "파문, 잔물결 같은 영향",
+        "synonyms": [
+          "repercussion",
+          "reverberation",
+          "aftereffect"
+        ],
+        "examples": [
+          {
+            "text": "The central bank's surprise decision sent a ripple of anxiety through global financial markets.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To propagate like a moving wave.",
+        "ko": "파문처럼 퍼지다",
+        "synonyms": [
+          "spread",
+          "undulate",
+          "radiate"
+        ],
+        "examples": [
+          {
+            "text": "These problems were complicated by a foreign exchange crunch which rippled through the economy in 1961-1962, […]",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 동사에서 나온 말로, 잔물결이 퍼지듯 작은 영향이 번지는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

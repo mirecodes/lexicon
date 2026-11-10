@@ -1,0 +1,78 @@
+[
+  {
+    "word": "issue",
+    "score": 16,
+    "zipf": 5.23,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an important question that is in dispute and must be settled",
+        "ko": "쟁점, 현안",
+        "synonyms": [
+          "question",
+          "matter",
+          "problem",
+          "topic"
+        ],
+        "examples": [
+          {
+            "text": "politicians never discuss the real issues",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "prepare and issue for public distribution or sale",
+        "ko": "발행하다, 발표하다",
+        "synonyms": [
+          "publish",
+          "release",
+          "announce",
+          "put out"
+        ],
+        "examples": [
+          {
+            "text": "The central bank issued a statement reassuring investors about the stability of the currency.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "come out of",
+        "ko": "나오다, 흘러나오다",
+        "synonyms": [
+          "emerge",
+          "flow",
+          "emanate",
+          "stream"
+        ],
+        "examples": [
+          {
+            "text": "Water issued from the hole in the wall",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 issue '출구'에서 왔고 라틴어 exeō '나가다'와 이어집니다. 법정에서 쟁점으로 나온다는 뜻으로 퍼졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

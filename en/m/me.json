@@ -1,0 +1,1111 @@
+[
+  {
+    "word": "meander",
+    "score": 50,
+    "zipf": 2.69,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to move or cause to move in a sinuous, spiral, or circular course",
+        "ko": "구불구불 흐르다, 굽이쳐 가다",
+        "synonyms": [
+          "wind",
+          "wander",
+          "snake",
+          "zigzag"
+        ],
+        "examples": [
+          {
+            "text": "The stream meandered through the valley.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To be intricate.",
+        "ko": "두서없이 이어지다, 갈피 없이 흘러가다",
+        "synonyms": [
+          "ramble",
+          "digress",
+          "wander"
+        ],
+        "examples": [
+          {
+            "text": "His speech meandered through various topics.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "소아시아의 강 Maeander에서 왔습니다. 구불구불 흐르기로 유명한 강 이름이 '굽이쳐 가다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mediate",
+    "score": 30,
+    "zipf": 3.13,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "act between parties with a view to reconciling differences",
+        "ko": "중재하다, 조정하다",
+        "synonyms": [
+          "arbitrate",
+          "intercede",
+          "reconcile",
+          "negotiate"
+        ],
+        "examples": [
+          {
+            "text": "Negotiators managed to mediate a ceasefire.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To act as an intermediary causal or communicative agent; to convey.",
+        "ko": "매개하다, 전달하다",
+        "synonyms": [
+          "convey",
+          "transmit",
+          "channel"
+        ],
+        "examples": [
+          {
+            "text": "Hormones mediate the body's response to stress by carrying signals between distant organs.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "medi",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 mediō '가운데 있다'에서 왔고 medius(가운데)에서 나왔습니다. 양쪽 사이 가운데에 선다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "melancholy",
+    "score": 27,
+    "zipf": 3.39,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by or causing or expressing sadness",
+        "ko": "우울한, 슬픈",
+        "synonyms": [
+          "gloomy",
+          "sorrowful",
+          "wistful",
+          "doleful"
+        ],
+        "examples": [
+          {
+            "text": "The melancholy melody of the cello filled the empty hall at dusk.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Great sadness or depression, especially of a thoughtful or introspective nature.",
+        "ko": "우울, 침울함",
+        "synonyms": [
+          "despondency",
+          "dejection",
+          "gloom",
+          "sadness"
+        ],
+        "examples": [
+          {
+            "text": "A quiet melancholy settled over the poet as autumn deepened.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "melan",
+      "chol"
+    ],
+    "origin": {
+      "ko": "그리스어 melankholía에서 왔고 mélas(검은)와 kholḗ(담즙)가 합쳐졌습니다. 검은 담즙이 우울을 일으킨다고 믿던 데서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "melange",
+    "score": 34,
+    "zipf": 2.28,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A mixture of different things; a disordered mixture.",
+        "ko": "뒤섞인 것, 혼합물",
+        "synonyms": [
+          "medley",
+          "hodgepodge",
+          "mishmash",
+          "assortment",
+          "jumble"
+        ],
+        "examples": [
+          {
+            "text": "The room was a melange of comic books and posters.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "misc"
+    ],
+    "origin": {
+      "ko": "프랑스어 mélange에서 왔고 mêler(섞다)와 라틴어 misceō에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "melee",
+    "score": 29,
+    "zipf": 3.22,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a noisy riotous fight",
+        "ko": "난투, 혼전",
+        "synonyms": [
+          "brawl",
+          "scuffle",
+          "scrimmage",
+          "free-for-all"
+        ],
+        "examples": [
+          {
+            "text": "The protest degenerated into a melee as police and demonstrators clashed in the square.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "misc"
+    ],
+    "origin": {
+      "ko": "프랑스어 mêlée에서 왔고 라틴어 misceō '섞다'에서 나왔습니다. 뒤엉켜 싸우는 난투입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mellifluous",
+    "score": 32,
+    "zipf": 2.08,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Sweet, smooth and musical; pleasant to hear (generally used of a person's voice, tone or writing style).",
+        "ko": "감미로운, 듣기 좋은",
+        "synonyms": [
+          "dulcet",
+          "euphonious",
+          "honeyed",
+          "melodious"
+        ],
+        "examples": [
+          {
+            "text": "The radio host's mellifluous voice made even the weather report sound like poetry.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mel",
+      "flu",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 mellifluus '꿀처럼 흐르는'에서 왔습니다. 꿀처럼 달고 매끄러운 소리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mendacious",
+    "score": 32,
+    "zipf": 2.06,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Lying, untruthful or dishonest.",
+        "ko": "거짓말을 잘하는, 부정직한",
+        "synonyms": [
+          "lying",
+          "dishonest",
+          "untruthful",
+          "deceitful"
+        ],
+        "examples": [
+          {
+            "text": "He was dismissed as a mendacious witness.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "intentionally untrue",
+        "ko": "고의로 거짓인, 허위의",
+        "synonyms": [
+          "false",
+          "fallacious",
+          "spurious"
+        ],
+        "examples": [
+          {
+            "text": "The campaign relied on mendacious claims that were debunked within hours of their release.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어와 라틴어 mendāx '거짓말하는'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mendacity",
+    "score": 64,
+    "zipf": 2.14,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The fact or condition of being untruthful; dishonesty.",
+        "ko": "거짓말하는 성향, 부정직",
+        "synonyms": [
+          "dishonesty",
+          "untruthfulness",
+          "duplicity",
+          "deceit"
+        ],
+        "examples": [
+          {
+            "text": "Critics condemned the mendacity of a campaign built on invented statistics.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A deceit, falsehood, or lie.",
+        "ko": "거짓말, 허위",
+        "synonyms": [
+          "lie",
+          "falsehood",
+          "untruth"
+        ],
+        "examples": [
+          {
+            "text": "The memoir was riddled with small mendacities meant to flatter its author.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "후기 라틴어 mendacitas에서 왔고 라틴어 mendāx '거짓말하는'에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mendicant",
+    "score": 81,
+    "zipf": 2.18,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a pauper who lives by begging",
+        "ko": "거지, 탁발하는 사람",
+        "synonyms": [
+          "beggar",
+          "panhandler",
+          "supplicant"
+        ],
+        "examples": [
+          {
+            "text": "A lone mendicant sat outside the cathedral, holding out a battered tin cup.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "practicing beggary",
+        "ko": "구걸하는, 탁발하는",
+        "synonyms": [
+          "begging",
+          "supplicant"
+        ],
+        "examples": [
+          {
+            "text": "The mendicant friars of the thirteenth century relied entirely on public charity for their food.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 mendīcāns '구걸하는'에서 왔고 mendīcō '구걸하다'에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mercenary",
+    "score": 28,
+    "zipf": 3.26,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Motivated by personal gain.",
+        "ko": "돈만 밝히는, 이익만 좇는",
+        "synonyms": [
+          "venal",
+          "greedy",
+          "grasping",
+          "avaricious"
+        ],
+        "examples": [
+          {
+            "text": "Her mercenary attitude toward friendship left her isolated once her fortune vanished.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a person hired to fight for another country than their own",
+        "ko": "외국인 용병",
+        "synonyms": [
+          "soldier of fortune",
+          "hireling"
+        ],
+        "examples": [
+          {
+            "text": "The besieged king hired mercenaries from across the border to defend the capital.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "merc",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "라틴어 mercēnārius '돈을 받고 일하는'에서 왔고 mercēs(보수)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mercurial",
+    "score": 97,
+    "zipf": 2.82,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "liable to sudden unpredictable change",
+        "ko": "변덕스러운, 종잡을 수 없는",
+        "synonyms": [
+          "erratic",
+          "fickle",
+          "capricious",
+          "volatile",
+          "unpredictable"
+        ],
+        "examples": [
+          {
+            "text": "Her mercurial temperament made her a thrilling but exhausting colleague.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Having a lively or volatile character; animated, changeable, quick-witted.",
+        "ko": "활발하고 재치 있는, 기민한",
+        "synonyms": [
+          "animated",
+          "quick-witted",
+          "lively",
+          "sprightly"
+        ],
+        "examples": [
+          {
+            "text": "The mercurial editor praised a draft one day and rejected it the next.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "로마 신 메르쿠리우스(Mercury)와 관련됨을 뜻하는 라틴어 mercuriālis에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "meretricious",
+    "score": 43,
+    "zipf": 1.56,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "based on pretense; deceptively pleasing",
+        "ko": "겉만 번지르르한, 그럴듯하게 속이는",
+        "synonyms": [
+          "specious",
+          "spurious",
+          "factitious",
+          "glossy"
+        ],
+        "examples": [
+          {
+            "text": "The film's earnest message was undercut by a meretricious plot built on cheap spectacle.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "tastelessly showy",
+        "ko": "천박하게 화려한",
+        "synonyms": [
+          "gaudy",
+          "garish",
+          "flashy",
+          "tawdry"
+        ],
+        "examples": [
+          {
+            "text": "The hotel lobby was a meretricious display of gilt and marble.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 meretrīcius에서 왔고 meretrīx '창녀'에서 나왔습니다. 겉만 화려하게 꾸며 유혹한다는 뜻으로 번졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "merit",
+    "score": 20,
+    "zipf": 4.08,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "any admirable quality or attribute",
+        "ko": "장점, 가치",
+        "synonyms": [
+          "virtue",
+          "worth",
+          "excellence",
+          "strength"
+        ],
+        "examples": [
+          {
+            "text": "Reviewers disagreed about the merit of the novel, though all praised its ambition.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "be worthy or deserving",
+        "ko": "~할 만하다, 받을 자격이 있다",
+        "synonyms": [
+          "deserve",
+          "earn",
+          "warrant"
+        ],
+        "examples": [
+          {
+            "text": "Her performance merited wild applause.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mer"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 merite에서 왔고 라틴어 meritum '받을 만한 것'에서 나왔습니다. 보상받을 만한 가치입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "meritocracy",
+    "score": 36,
+    "zipf": 2.55,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Rule by merit and talent.",
+        "ko": "능력주의 사회, 실력 사회",
+        "synonyms": [
+          "rule by merit",
+          "technocracy"
+        ],
+        "examples": [
+          {
+            "text": "As a small nation without natural resources, Singapore relies on education and meritocracy to develop its economy.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mer",
+      "-cracy"
+    ],
+    "origin": {
+      "ko": "merit(능력)에 -cracy(지배)가 붙은 말입니다. 1956년 사회학자 앨런 폭스가 만들었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "meritorious",
+    "score": 31,
+    "zipf": 2.98,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "deserving reward or praise",
+        "ko": "칭찬할 만한, 가치 있는",
+        "synonyms": [
+          "praiseworthy",
+          "commendable",
+          "laudable",
+          "deserving"
+        ],
+        "examples": [
+          {
+            "text": "The soldier received a medal for meritorious service during the long campaign.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mer",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 meritōrius에서 왔고 mereō '얻다, 자격이 있다'에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mesmerize",
+    "score": 31,
+    "zipf": 1.97,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To spellbind; to enthrall.",
+        "ko": "넋을 잃게 하다, 매혹하다",
+        "synonyms": [
+          "enthrall",
+          "captivate",
+          "spellbind",
+          "entrance",
+          "bewitch"
+        ],
+        "examples": [
+          {
+            "text": "She mesmerized the audience with her tricks",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "induce hypnosis in",
+        "ko": "최면을 걸다",
+        "synonyms": [
+          "hypnotize"
+        ],
+        "examples": [
+          {
+            "text": "The stage performer claimed he could mesmerize any volunteer within seconds.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ize"
+    ],
+    "origin": {
+      "ko": "mesmerism(최면술)에서 거꾸로 만들어진 말에 -ize가 붙은 것입니다. 1829년에 처음 쓰였습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "metamorphosis",
+    "score": 31,
+    "zipf": 3.03,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a striking change in appearance or character or circumstances",
+        "ko": "탈바꿈, 완전한 변화",
+        "synonyms": [
+          "transformation",
+          "transfiguration",
+          "transmutation",
+          "conversion"
+        ],
+        "examples": [
+          {
+            "text": "The sleepy fishing village underwent a rapid metamorphosis into a bustling tourist resort.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the marked and rapid transformation of a larva into an adult that occurs in some animals",
+        "ko": "(곤충 등의) 변태",
+        "synonyms": [
+          "transformation"
+        ],
+        "examples": [
+          {
+            "text": "The metamorphosis of a tadpole into a frog takes several weeks.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "meta-",
+      "morph",
+      "-osis"
+    ],
+    "origin": {
+      "ko": "그리스어 metamórphōsis에서 왔고 metá(변화)와 morphḗ(모양)가 합쳐졌습니다. 모양이 바뀐다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "metaphorical",
+    "score": 30,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "expressing one thing in terms normally denoting another",
+        "ko": "은유적인, 비유적인",
+        "synonyms": [
+          "figurative",
+          "symbolic",
+          "allegorical"
+        ],
+        "examples": [
+          {
+            "text": "The poet's storm is metaphorical, standing for the turmoil in the speaker's marriage.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "meta-",
+      "pher",
+      "-ical"
+    ],
+    "origin": {
+      "ko": "그리스어 metaphorá(metaphor)에서 파생된 말입니다. 한 사물의 뜻을 다른 것으로 옮겨 나른다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "metaphysical",
+    "score": 29,
+    "zipf": 3.22,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "highly abstract and overly theoretical",
+        "ko": "지나치게 추상적인, 관념적인",
+        "synonyms": [
+          "abstract",
+          "abstruse",
+          "theoretical",
+          "esoteric"
+        ],
+        "examples": [
+          {
+            "text": "The seminar drifted into metaphysical debates that had little bearing on the actual experiment.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "transcending physical matter or the laws of nature",
+        "ko": "형이상학적인, 초자연적인",
+        "synonyms": [
+          "supernatural",
+          "incorporeal",
+          "immaterial",
+          "transcendental"
+        ],
+        "examples": [
+          {
+            "text": "Many ancient philosophers sought metaphysical truths beyond the reach of the senses.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "meta-",
+      "phys",
+      "-ical"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 metaphysicālis에서 왔고 meta-와 physical이 합쳐졌습니다. 자연(물리)을 넘어선 추상의 영역입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "meteoric",
+    "score": 34,
+    "zipf": 2.7,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Like a meteor in speed, brilliance, or ephemeralness.",
+        "ko": "유성처럼 빠른, 급부상한",
+        "synonyms": [
+          "rapid",
+          "swift",
+          "dazzling",
+          "spectacular"
+        ],
+        "examples": [
+          {
+            "text": "Her meteoric rise to power was followed by a slow, lackluster career at the top.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "meteor(유성)에 -ic이 붙은 말입니다. 유성처럼 빠르고 눈부시다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "meticulous",
+    "score": 77,
+    "zipf": 3.24,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Characterized by very precise, conscientious attention to details.",
+        "ko": "꼼꼼한, 세심한",
+        "synonyms": [
+          "painstaking",
+          "scrupulous",
+          "punctilious",
+          "fastidious",
+          "thorough"
+        ],
+        "examples": [
+          {
+            "text": "The archivist kept meticulous records of every manuscript that passed through the library.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 meticulōsus '겁 많은'에서 왔고 metus '두려움'에서 나왔습니다. 프랑스어를 거치며 '세심한'이라는 뜻이 더해졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mettle",
+    "score": 34,
+    "zipf": 2.72,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A quality of courage and endurance.",
+        "ko": "용기, 기개",
+        "synonyms": [
+          "courage",
+          "spirit",
+          "pluck",
+          "fortitude",
+          "grit"
+        ],
+        "examples": [
+          {
+            "text": "The harsh winter tested the mettle of every member of the expedition.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "metal(금속)의 비유적 쓰임에서 나왔습니다. 쇠처럼 단단한 기개라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mettlesome",
+    "score": 32,
+    "zipf": 0.0,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Marked by mettle or bravery; courageous.",
+        "ko": "용감한, 기개 있는",
+        "synonyms": [
+          "spirited",
+          "plucky",
+          "courageous",
+          "gritty",
+          "spunky"
+        ],
+        "examples": [
+          {
+            "text": "The mettlesome young pilot volunteered for the most dangerous missions of the war.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-some"
+    ],
+    "origin": {
+      "ko": "mettle(기개)에 -some이 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

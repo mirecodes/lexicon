@@ -1,0 +1,61 @@
+[
+  {
+    "word": "dyspeptic",
+    "score": 60,
+    "zipf": 1.74,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "irritable as if suffering from indigestion",
+        "ko": "까다롭고 짜증을 잘 내는, 심술궂은",
+        "synonyms": [
+          "irritable",
+          "bilious",
+          "morose",
+          "testy",
+          "crabby"
+        ],
+        "examples": [
+          {
+            "text": "The dyspeptic critic greeted every new production with a weary scowl and a scathing review.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "suffering from dyspepsia",
+        "ko": "소화불량의",
+        "synonyms": [
+          "indigestive"
+        ],
+        "examples": [
+          {
+            "text": "The dyspeptic patient avoided fried food and rich sauces after every meal.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dys-",
+      "pept",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 dúspeptos(소화가 어려운)에서 왔습니다. 소화불량으로 짜증 내는 사람에 빗댔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

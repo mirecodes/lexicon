@@ -1,0 +1,97 @@
+[
+  {
+    "word": "onerous",
+    "score": 64,
+    "zipf": 2.92,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not easily borne; wearing",
+        "ko": "부담스러운, 힘든",
+        "synonyms": [
+          "burdensome",
+          "taxing",
+          "oppressive",
+          "arduous"
+        ],
+        "examples": [
+          {
+            "text": "Small businesses complained that the new reporting requirements were onerous and costly to meet.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "oner",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 onerosus에서 왔고, onus는 '짐'입니다. 어깨에 얹힌 짐처럼 힘겹다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "onset",
+    "score": 24,
+    "zipf": 3.72,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the beginning or early stages",
+        "ko": "시작, 개시",
+        "synonyms": [
+          "start",
+          "outset",
+          "beginning",
+          "commencement"
+        ],
+        "examples": [
+          {
+            "text": "the onset of pneumonia",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "(military) an offensive against an enemy (using weapons)",
+        "ko": "공격, 맹공",
+        "synonyms": [
+          "attack",
+          "onslaught",
+          "assault",
+          "onrush"
+        ],
+        "examples": [
+          {
+            "text": "The sudden onset of the enemy cavalry scattered the unprepared defenders.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "on과 set을 합친 말로, 원래 '덮쳐서 공격하다'라는 뜻이었다가 일의 시작을 가리키게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,1018 @@
+[
+  {
+    "word": "flag",
+    "score": 48,
+    "zipf": 4.58,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "droop, sink, or settle from or as if from pressure or loss of tautness",
+        "ko": "시들해지다, 처지다, 기력이 떨어지다",
+        "synonyms": [
+          "droop",
+          "sag",
+          "wilt",
+          "languish",
+          "tire"
+        ],
+        "examples": [
+          {
+            "text": "As the marathon dragged on, the runners' enthusiasm began to flag in the afternoon heat.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "become less intense",
+        "ko": "약해지다, 시들해지다",
+        "synonyms": [
+          "abate",
+          "wane",
+          "subside",
+          "ease off"
+        ],
+        "examples": [
+          {
+            "text": "Public interest in the reform plan flagged once the initial controversy faded from the headlines.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "emblem usually consisting of a rectangular piece of cloth of distinctive design",
+        "ko": "깃발, 기",
+        "synonyms": [
+          "banner",
+          "standard",
+          "ensign"
+        ],
+        "examples": [
+          {
+            "text": "The flag of France has three vertical stripes.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "flagrant",
+    "score": 31,
+    "zipf": 3.01,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "conspicuously and outrageously bad or reprehensible",
+        "ko": "노골적인, 악명 높은, 지독한",
+        "synonyms": [
+          "egregious",
+          "blatant",
+          "glaring",
+          "gross",
+          "rank"
+        ],
+        "examples": [
+          {
+            "text": "The judge condemned the company's flagrant violation of environmental regulations.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "flagr",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 flagrāre(활활 타다)의 현재분사에서 왔습니다. 불타듯 눈에 확 띄는 노골적인 잘못입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "flail",
+    "score": 36,
+    "zipf": 2.55,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To wave or swing vigorously",
+        "ko": "마구 휘두르다, 버둥거리다",
+        "synonyms": [
+          "thrash",
+          "thresh",
+          "wave"
+        ],
+        "examples": [
+          {
+            "text": "He stopped in his tracks – then, flailing his arms wildly in the air, began to stagger backwards.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "give a thrashing to; beat hard",
+        "ko": "세게 때리다, 매질하다",
+        "synonyms": [
+          "thrash",
+          "beat",
+          "lam"
+        ],
+        "examples": [
+          {
+            "text": "The angry crowd flailed at the fallen statue with sticks and iron bars.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 fligel(도리깨)에서 왔습니다. 곡식을 터는 도리깨를 휘두르듯 팔을 마구 휘두른다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "flair",
+    "score": 26,
+    "zipf": 3.54,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a natural talent",
+        "ko": "타고난 재능, 소질",
+        "synonyms": [
+          "knack",
+          "gift",
+          "talent",
+          "aptitude"
+        ],
+        "examples": [
+          {
+            "text": "he has a flair for mathematics",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "distinctive and stylish elegance",
+        "ko": "세련된 멋, 스타일",
+        "synonyms": [
+          "panache",
+          "elan",
+          "style",
+          "dash"
+        ],
+        "examples": [
+          {
+            "text": "The chef presented even the simplest dishes with remarkable flair.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 flair(냄새)에서 왔습니다. 냄새로 알아채는 감각이 '타고난 재능'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "flamboyant",
+    "score": 30,
+    "zipf": 3.06,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by ostentation but often tasteless",
+        "ko": "화려한, 과시적인",
+        "synonyms": [
+          "showy",
+          "ostentatious",
+          "splashy",
+          "extravagant"
+        ],
+        "examples": [
+          {
+            "text": "The singer was known for his flamboyant costumes and theatrical stage presence.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "elaborately or excessively ornamented",
+        "ko": "지나치게 장식적인, 현란한",
+        "synonyms": [
+          "florid",
+          "aureate",
+          "ornate"
+        ],
+        "examples": [
+          {
+            "text": "The orator's flamboyant prose, crowded with metaphors and flourishes, exhausted his readers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ant"
+    ],
+    "origin": {
+      "ko": "프랑스어 flamboyer(불타오르다)에서 왔습니다. 불꽃처럼 눈에 띄게 화려하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "flay",
+    "score": 36,
+    "zipf": 2.49,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To lash or whip.",
+        "ko": "채찍질하다, 호되게 비판하다",
+        "synonyms": [
+          "lash",
+          "whip",
+          "excoriate",
+          "castigate"
+        ],
+        "examples": [
+          {
+            "text": "Critics flayed the minister in the press for his handling of the crisis.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "strip the skin off",
+        "ko": "가죽을 벗기다",
+        "synonyms": [
+          "skin"
+        ],
+        "examples": [
+          {
+            "text": "The hunters flayed the deer and stretched its hide to dry in the sun.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fledgling",
+    "score": 62,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "young and inexperienced",
+        "ko": "풋내기의, 미숙한, 신생의",
+        "synonyms": [
+          "callow",
+          "unfledged",
+          "green",
+          "nascent"
+        ],
+        "examples": [
+          {
+            "text": "The fledgling company struggled to compete against established industry giants.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "any new participant in some activity",
+        "ko": "신참, 초보자",
+        "synonyms": [
+          "neophyte",
+          "newcomer",
+          "novice",
+          "tyro"
+        ],
+        "examples": [
+          {
+            "text": "As a fledgling in the diplomatic corps, she spent months learning protocol.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ling"
+    ],
+    "origin": {
+      "ko": "fledge(날 준비를 하다)에 -ling이 붙었습니다. 막 날기 시작하는 어린 새라서 '풋내기'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fleece",
+    "score": 27,
+    "zipf": 3.36,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To con or trick (someone) out of money.",
+        "ko": "사기 쳐서 돈을 빼앗다, 바가지 씌우다",
+        "synonyms": [
+          "swindle",
+          "cheat",
+          "overcharge",
+          "defraud",
+          "rob"
+        ],
+        "examples": [
+          {
+            "text": "Unscrupulous contractors fleeced elderly homeowners by charging for repairs that were never made.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the wool of a sheep or similar animal",
+        "ko": "양모, 양털",
+        "synonyms": [
+          "wool"
+        ],
+        "examples": [
+          {
+            "text": "The shepherd sheared the fleece from each sheep before the summer heat arrived.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 flēos(양털)에서 왔습니다. 양털을 깎듯 돈을 털어 간다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fleeting",
+    "score": 28,
+    "zipf": 3.32,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lasting for a markedly brief time",
+        "ko": "순식간의, 덧없는",
+        "synonyms": [
+          "ephemeral",
+          "transient",
+          "evanescent",
+          "momentary",
+          "fugitive"
+        ],
+        "examples": [
+          {
+            "text": "a fleeting glance",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 flēotan(떠다니다, 흘러가다)에서 왔습니다. 물에 떠 흘러가듯 순식간에 지나간다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "flippant",
+    "score": 51,
+    "zipf": 2.59,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing inappropriate levity",
+        "ko": "경솔한, 불손한, 건방진",
+        "synonyms": [
+          "glib",
+          "frivolous",
+          "pert",
+          "irreverent",
+          "offhand"
+        ],
+        "examples": [
+          {
+            "text": "Her flippant reply to a serious question offended the grieving family.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "북부 영어 방언 flip(재잘대다)의 현재분사에서 왔습니다. 진지한 일에 재잘거리며 가볍게 구는 태도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "florid",
+    "score": 51,
+    "zipf": 2.39,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "elaborately or excessively ornamented",
+        "ko": "지나치게 화려한, 현란한",
+        "synonyms": [
+          "flamboyant",
+          "ornate",
+          "aureate",
+          "flowery"
+        ],
+        "examples": [
+          {
+            "text": "the senator's florid speech",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "inclined to a healthy reddish color often associated with outdoor life",
+        "ko": "혈색 좋은, 불그레한",
+        "synonyms": [
+          "ruddy",
+          "rubicund",
+          "sanguine",
+          "rosy"
+        ],
+        "examples": [
+          {
+            "text": "The old sailor's florid face bore the marks of decades spent at sea.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "flor",
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 floridus(꽃이 핀)에서 프랑스어를 거쳐 왔습니다. 꽃이 만발한 듯 지나치게 화려하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "flotilla",
+    "score": 32,
+    "zipf": 2.87,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a fleet of small craft",
+        "ko": "소함대, 소형 선단",
+        "synonyms": [
+          "fleet",
+          "armada",
+          "squadron"
+        ],
+        "examples": [
+          {
+            "text": "Toward the horizon a flotilla of fishing-boats showed immutable, pink-lacquered by the evening sun.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "스페인어 flota(함대)의 지소형입니다. 작은 배들의 무리를 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "flotsam",
+    "score": 35,
+    "zipf": 2.38,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Debris floating in a river or sea, in particular fragments from a shipwreck.",
+        "ko": "표류물, 난파 잔해",
+        "synonyms": [
+          "wreckage",
+          "debris",
+          "jetsam"
+        ],
+        "examples": [
+          {
+            "text": "After the storm, flotsam from the wrecked trawler washed up along the beach for miles.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 flotaison(떠다님)에서 왔고 float(뜨다)와 이어집니다. 난파 후 바다 위에 떠다니는 잔해입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "flounder",
+    "score": 33,
+    "zipf": 2.78,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To act clumsily or confused; to struggle or be flustered.",
+        "ko": "허둥대다, 갈팡질팡하다",
+        "synonyms": [
+          "struggle",
+          "falter",
+          "blunder",
+          "fumble"
+        ],
+        "examples": [
+          {
+            "text": "He gave a good speech, but floundered when audience members asked questions he could not answer well.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "walk with great difficulty",
+        "ko": "허우적거리며 나아가다",
+        "synonyms": [
+          "stagger",
+          "struggle",
+          "wallow"
+        ],
+        "examples": [
+          {
+            "text": "The hikers floundered through waist-deep snow toward the distant cabin.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "flourish",
+    "score": 26,
+    "zipf": 3.53,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "grow vigorously",
+        "ko": "번성하다, 무성하게 자라다",
+        "synonyms": [
+          "thrive",
+          "prosper",
+          "boom",
+          "bloom"
+        ],
+        "examples": [
+          {
+            "text": "The barley flourished in the warm weather.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a showy gesture",
+        "ko": "과시하는 동작, 화려한 몸짓",
+        "synonyms": [
+          "display",
+          "fanfare",
+          "flamboyance"
+        ],
+        "examples": [
+          {
+            "text": "With many flourishes of the captured banner, they marched down the avenue.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "move or swing back and forth",
+        "ko": "휘두르다, 흔들다",
+        "synonyms": [
+          "brandish",
+          "wave",
+          "wield"
+        ],
+        "examples": [
+          {
+            "text": "They flourished the banner as they stormed the palace.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "flor",
+      "-ish"
+    ],
+    "origin": {
+      "ko": "라틴어 flōrēre(꽃피다)에서 고대 프랑스어를 거쳐 왔습니다. 꽃이 피듯 무성하게 번성한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "flout",
+    "score": 50,
+    "zipf": 2.25,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "treat with contemptuous disregard",
+        "ko": "무시하다, 경멸하며 어기다",
+        "synonyms": [
+          "defy",
+          "disregard",
+          "scorn",
+          "violate",
+          "spurn"
+        ],
+        "examples": [
+          {
+            "text": "flout the rules",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "laugh at with contempt and derision",
+        "ko": "조롱하다, 비웃다",
+        "synonyms": [
+          "jeer",
+          "scoff",
+          "gibe",
+          "mock"
+        ],
+        "examples": [
+          {
+            "text": "Hecklers flouted the candidate throughout his speech, mocking every promise he made.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fluke",
+    "score": 30,
+    "zipf": 3.14,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a stroke of luck",
+        "ko": "뜻밖의 행운, 우연",
+        "synonyms": [
+          "chance",
+          "accident",
+          "windfall",
+          "coincidence"
+        ],
+        "examples": [
+          {
+            "text": "We've classified by a fluke; actually, the first goal was just a total fluke.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "flummox",
+    "score": 40,
+    "zipf": 1.34,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be a mystery or bewildering to",
+        "ko": "당황하게 하다, 어리둥절하게 하다",
+        "synonyms": [
+          "perplex",
+          "baffle",
+          "bewilder",
+          "confound",
+          "puzzle"
+        ],
+        "examples": [
+          {
+            "text": "The complexity of the tax code flummoxed even experienced accountants.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "flush",
+    "score": 23,
+    "zipf": 3.8,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having an abundant supply of money or possessions of value",
+        "ko": "돈이 넉넉한, 부유한",
+        "synonyms": [
+          "affluent",
+          "wealthy",
+          "moneyed",
+          "loaded"
+        ],
+        "examples": [
+          {
+            "text": "a speculator flush with cash",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "turn red, as if in embarrassment or shame",
+        "ko": "얼굴이 붉어지다",
+        "synonyms": [
+          "blush",
+          "redden",
+          "crimson"
+        ],
+        "examples": [
+          {
+            "text": "She flushed with embarrassment when the teacher praised her in front of the whole class.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of a surface exactly even with an adjoining one, forming the same plane",
+        "ko": "평평한, 같은 높이의",
+        "synonyms": [
+          "level",
+          "even",
+          "flat"
+        ],
+        "examples": [
+          {
+            "text": "a door flush with the wall",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "flustered",
+    "score": 32,
+    "zipf": 2.93,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "thrown into a state of agitated confusion; (‘rattled’ is an informal term)",
+        "ko": "당황한, 허둥대는",
+        "synonyms": [
+          "rattled",
+          "agitated",
+          "perturbed",
+          "discombobulated"
+        ],
+        "examples": [
+          {
+            "text": "The speaker became quite flustered when she dropped all her notes.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "flux",
+    "score": 25,
+    "zipf": 3.57,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A state of ongoing change.",
+        "ko": "끊임없는 변화, 유동",
+        "synonyms": [
+          "instability",
+          "change",
+          "fluidity"
+        ],
+        "examples": [
+          {
+            "text": "The schedule is in flux at the moment.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a flow or discharge",
+        "ko": "흐름, 유출",
+        "synonyms": [
+          "flow",
+          "fluxion",
+          "discharge"
+        ],
+        "examples": [
+          {
+            "text": "Researchers tracked the steady flux of migrants across the border over two decades.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "flu"
+    ],
+    "origin": {
+      "ko": "라틴어 fluxus(흐름)에서 고대 프랑스어를 거쳐 왔습니다. 계속 흘러 변한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

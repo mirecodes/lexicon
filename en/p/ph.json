@@ -1,0 +1,414 @@
+[
+  {
+    "word": "phalanx",
+    "score": 48,
+    "zipf": 2.85,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A large group of people, animals or things, compact or closely massed, or tightly knit and united in common purpose.",
+        "ko": "밀집한 무리, 결속된 집단",
+        "synonyms": [
+          "throng",
+          "cohort",
+          "bloc",
+          "array"
+        ],
+        "examples": [
+          {
+            "text": "A phalanx of reporters blocked the courthouse steps as the defendant arrived.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a body of troops in close array",
+        "ko": "밀집 대형의 부대, 방진",
+        "synonyms": [
+          "formation",
+          "legion"
+        ],
+        "examples": [
+          {
+            "text": "The Macedonian phalanx advanced with long spears lowered.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 phálanx '전투 대형'에서 왔습니다. 방패를 맞대고 빽빽이 선 대열을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "phantasmagorical",
+    "score": 25,
+    "zipf": 1.37,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by fantastic imagery and incongruous juxtapositions",
+        "ko": "환상적이고 기괴한, 몽환적인",
+        "synonyms": [
+          "phantasmagoric",
+          "surreal",
+          "fantastical",
+          "dreamlike"
+        ],
+        "examples": [
+          {
+            "text": "The film's phantasmagorical landscapes blend melting clocks with floating cities.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "phantasmagoria(환등 쇼처럼 뒤섞인 환영)에 -ical이 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "philanthropist",
+    "score": 30,
+    "zipf": 3.12,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone who makes charitable donations intended to increase human well-being",
+        "ko": "자선가, 박애주의자",
+        "synonyms": [
+          "benefactor",
+          "donor",
+          "altruist",
+          "humanitarian"
+        ],
+        "examples": [
+          {
+            "text": "The philanthropist donated millions to build a new children's hospital.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "phil",
+      "anthrop",
+      "-ist"
+    ],
+    "origin": {
+      "ko": "philanthropy에 -ist가 붙은 말로, 인류를 사랑하는 마음으로 베푸는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "philanthropy",
+    "score": 28,
+    "zipf": 3.32,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "voluntary promotion of human welfare",
+        "ko": "박애, 자선 활동",
+        "synonyms": [
+          "charity",
+          "benevolence",
+          "altruism",
+          "humanitarianism"
+        ],
+        "examples": [
+          {
+            "text": "The university's new science wing was made possible by a lifetime of quiet philanthropy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "phil",
+      "anthrop",
+      "-y"
+    ],
+    "origin": {
+      "ko": "그리스어 philanthrōpía '인류에 대한 사랑'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "philistine",
+    "score": 83,
+    "zipf": 2.58,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who is uninterested in intellectual pursuits",
+        "ko": "교양 없는 속물, 문화에 무관심한 사람",
+        "synonyms": [
+          "lowbrow",
+          "boor",
+          "barbarian",
+          "anti-intellectual"
+        ],
+        "examples": [
+          {
+            "text": "The director dismissed his critics as philistines who could not appreciate serious art.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "smug and ignorant and indifferent or hostile to artistic and cultural values",
+        "ko": "속물적인, 문화를 무시하는",
+        "synonyms": [
+          "uncultured",
+          "lowbrow",
+          "boorish"
+        ],
+        "examples": [
+          {
+            "text": "The council's philistine decision to close the library angered local writers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "독일어 Philister에서 영향을 받은 말로, 성경 속 블레셋 사람에서 나왔습니다. 대학 구성원이 아닌 교양 없는 사람, 문화에 무관심한 속물을 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "philology",
+    "score": 34,
+    "zipf": 2.73,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The humanistic study of texts and their languages, especially ancient or classical languages.",
+        "ko": "문헌학, 언어·문헌 연구",
+        "synonyms": [
+          "linguistics",
+          "textual scholarship"
+        ],
+        "examples": [
+          {
+            "text": "Her training in philology allowed her to date the manuscript from its spelling alone.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "phil",
+      "log"
+    ],
+    "origin": {
+      "ko": "그리스어 philología '말과 학문에 대한 사랑'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "philosophical",
+    "score": 22,
+    "zipf": 3.95,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by the attitude of a philosopher; meeting trouble with level-headed detachment",
+        "ko": "달관한, 침착하게 받아들이는",
+        "synonyms": [
+          "stoic",
+          "composed",
+          "resigned",
+          "calm"
+        ],
+        "examples": [
+          {
+            "text": "She bore the desertion with philosophical indifference.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of or relating to philosophy or philosophers",
+        "ko": "철학의, 철학적인",
+        "synonyms": [
+          "philosophic"
+        ],
+        "examples": [
+          {
+            "text": "philosophical writing",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "phil",
+      "soph",
+      "-ical"
+    ],
+    "origin": {
+      "ko": "그리스어 philosophía '지혜에 대한 사랑'에서 왔습니다. 철학자처럼 침착하게 받아들이는 태도를 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "phlegmatic",
+    "score": 96,
+    "zipf": 2.07,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Not easily excited to action or passion; calm; sluggish.",
+        "ko": "무덤덤한, 침착한",
+        "synonyms": [
+          "stolid",
+          "impassive",
+          "unflappable",
+          "stoic",
+          "apathetic"
+        ],
+        "examples": [
+          {
+            "text": "The phlegmatic captain barely reacted as the storm battered the ship around him.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "phlegm",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 phlégma는 고대 의학에서 차분하고 굼뜬 성격을 만든다고 본 체액입니다. 여기서 무덤덤하고 침착하다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "phony",
+    "score": 28,
+    "zipf": 3.35,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "fraudulent; having a misleading appearance",
+        "ko": "가짜의, 거짓된",
+        "synonyms": [
+          "bogus",
+          "fake",
+          "counterfeit",
+          "spurious",
+          "sham"
+        ],
+        "examples": [
+          {
+            "text": "A good jeweler should be able to tell a real stone from a phony one.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A person who professes beliefs or opinions that they do not hold.",
+        "ko": "위선자, 사기꾼",
+        "synonyms": [
+          "fraud",
+          "impostor",
+          "charlatan",
+          "hypocrite",
+          "pretender"
+        ],
+        "examples": [
+          {
+            "text": "He's such a phony, he doesn't believe half of what he says.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

@@ -1,0 +1,646 @@
+[
+  {
+    "word": "clad",
+    "score": 25,
+    "zipf": 3.58,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "wearing or provided with clothing; sometimes used in combination",
+        "ko": "옷을 입은, ~을 입은",
+        "synonyms": [
+          "clothed",
+          "dressed",
+          "attired"
+        ],
+        "examples": [
+          {
+            "text": "Her downcast eyes were almost mesmerized by the huge tweed-clad knees which towered like monoliths beside her.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having an outer covering especially of thin metal",
+        "ko": "겉을 씌운, 피복된",
+        "synonyms": [
+          "covered",
+          "sheathed",
+          "plated"
+        ],
+        "examples": [
+          {
+            "text": "armor-clad",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 clethen('옷을 입히다')의 과거분사에서 왔고, 천(cloth)과 같은 계통입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "clamber",
+    "score": 33,
+    "zipf": 2.22,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "climb awkwardly, as if by scrambling",
+        "ko": "기어오르다, 허우적대며 오르다",
+        "synonyms": [
+          "scramble",
+          "scrabble",
+          "scale"
+        ],
+        "examples": [
+          {
+            "text": "The children clambered over the jungle gym.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 clambren('기어오르다')에서 왔습니다. 정확한 기원은 불확실합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "clamor",
+    "score": 35,
+    "zipf": 2.62,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "loud and persistent outcry from many people",
+        "ko": "아우성, 소란스러운 항의",
+        "synonyms": [
+          "outcry",
+          "uproar",
+          "hue and cry",
+          "furor"
+        ],
+        "examples": [
+          {
+            "text": "he ignored the clamor of the crowd",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make loud demands",
+        "ko": "시끄럽게 요구하다, 아우성치다",
+        "synonyms": [
+          "demand",
+          "cry out",
+          "agitate"
+        ],
+        "examples": [
+          {
+            "text": "Anyone who tastes our food seems to clamor for more.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a loud harsh or strident noise",
+        "ko": "소음, 시끄러운 소리",
+        "synonyms": [
+          "din",
+          "racket",
+          "cacophony"
+        ],
+        "examples": [
+          {
+            "text": "The clamor of the construction site made conversation on the street nearly impossible.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "clam"
+    ],
+    "origin": {
+      "ko": "라틴어 clāmor('외침')에서 왔고, clāmō(외치다)에서 갈라졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "clamorous",
+    "score": 30,
+    "zipf": 1.87,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "conspicuously and offensively loud; given to vehement outcry",
+        "ko": "시끄러운, 소란스러운",
+        "synonyms": [
+          "vociferous",
+          "strident",
+          "noisy",
+          "blatant"
+        ],
+        "examples": [
+          {
+            "text": "a clamorous fire alarm",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Insistently expressing a desire for something.",
+        "ko": "끈덕지게 요구하는",
+        "synonyms": [
+          "vociferous",
+          "insistent",
+          "importunate"
+        ],
+        "examples": [
+          {
+            "text": "Clamorous voters demanded that the council reverse its decision before the next election.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "clam",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "clamor에 -ous가 붙은 말이고, 라틴어 clāmōrōsus와 비교됩니다. 아우성이 가득하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "clandestine",
+    "score": 61,
+    "zipf": 3.21,
+    "lists": [
+      "GregMat",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "conducted with or marked by hidden aims or methods",
+        "ko": "은밀한, 비밀리에 하는",
+        "synonyms": [
+          "secret",
+          "covert",
+          "surreptitious",
+          "furtive",
+          "undercover"
+        ],
+        "examples": [
+          {
+            "text": "clandestine military operations",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 clandestīnus('비밀의, 숨겨진')에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "clangor",
+    "score": 23,
+    "zipf": 1.19,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a loud resonant repeating noise",
+        "ko": "쨍그랑거리는 소리, 요란한 금속음",
+        "synonyms": [
+          "clang",
+          "din",
+          "clash",
+          "racket"
+        ],
+        "examples": [
+          {
+            "text": "The clangor of the factory bells echoed through the valley at dawn.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make a loud resonant noise",
+        "ko": "쨍그랑 울리다",
+        "synonyms": [
+          "clang",
+          "clash",
+          "resound"
+        ],
+        "examples": [
+          {
+            "text": "the alarm clangored throughout the building",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "clarion",
+    "score": 32,
+    "zipf": 2.92,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "loud and clear",
+        "ko": "크고 또렷한, 낭랑한",
+        "synonyms": [
+          "resounding",
+          "ringing",
+          "piercing"
+        ],
+        "examples": [
+          {
+            "text": "a clarion call",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a medieval brass instrument with a clear shrill tone",
+        "ko": "클라리온, 옛 나팔",
+        "synonyms": [
+          "trumpet",
+          "bugle"
+        ],
+        "examples": [
+          {
+            "text": "At dawn a clarion sounded from the castle wall to summon the garrison.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "clar"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 clāriō('나팔')에서 왔고, 라틴어 clārus(또렷한, 큰 소리의)에서 갈라졌습니다. 맑고 날카로운 나팔 소리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cleave",
+    "score": 32,
+    "zipf": 2.85,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "come or be in close contact with; stick or hold together and resist separation",
+        "ko": "달라붙다, 고수하다",
+        "synonyms": [
+          "cling",
+          "adhere",
+          "stick",
+          "cohere"
+        ],
+        "examples": [
+          {
+            "text": "Despite mounting evidence, the committee continued to cleave to its original theory.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "separate or cut with a tool, such as a sharp instrument",
+        "ko": "쪼개다, 가르다",
+        "synonyms": [
+          "split",
+          "sever",
+          "rive",
+          "hew"
+        ],
+        "examples": [
+          {
+            "text": "With one blow the woodsman cleaved the log in two.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "뜻이 반대인 '쪼개다'와 '들러붙다'는 서로 다른 고대 영어 동사에서 왔습니다. 이 뜻은 '들러붙다'(clifian, clīfan) 쪽입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "clemency",
+    "score": 31,
+    "zipf": 2.97,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "leniency and compassion shown toward offenders by a person or agency charged with administering justice",
+        "ko": "관용, 자비",
+        "synonyms": [
+          "mercy",
+          "leniency",
+          "mercifulness",
+          "compassion"
+        ],
+        "examples": [
+          {
+            "text": "The defendant pleaded for clemency, citing her cooperation and her lack of any prior offenses.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A pardon, commutation, or similar reduction, removal, or postponement of legal penalties by an executive officer of a state.",
+        "ko": "감형, 사면",
+        "synonyms": [
+          "pardon",
+          "reprieve",
+          "commutation"
+        ],
+        "examples": [
+          {
+            "text": "The governor granted clemency to the prisoner hours before the scheduled execution.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 clēmentia('온화함, 관대함')에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "clinch",
+    "score": 28,
+    "zipf": 3.29,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "settle conclusively",
+        "ko": "확정짓다, 결판내다",
+        "synonyms": [
+          "settle",
+          "secure",
+          "seal",
+          "decide"
+        ],
+        "examples": [
+          {
+            "text": "I already planned to buy the car, but the color was what really clinched it for me.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To fasten securely or permanently.",
+        "ko": "단단히 고정하다",
+        "synonyms": [
+          "fasten",
+          "secure",
+          "fix"
+        ],
+        "examples": [
+          {
+            "text": "The carpenter clinched the boards together so that no storm could pull them apart.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "hold in a tight grasp",
+        "ko": "꽉 움켜쥐다",
+        "synonyms": [
+          "clench",
+          "grip",
+          "clasp"
+        ],
+        "examples": [
+          {
+            "text": "Nervous in the storm, she clinched the steering wheel with both hands.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "16세기에 clench(꽉 죄다)가 바뀐 말입니다. 못 끝을 꽉 구부려 확실히 고정한다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cloak",
+    "score": 25,
+    "zipf": 3.57,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "hide under a false appearance",
+        "ko": "가장하다, 숨기다",
+        "synonyms": [
+          "mask",
+          "conceal",
+          "disguise",
+          "dissemble"
+        ],
+        "examples": [
+          {
+            "text": "The regime cloaked its repression in the language of national security.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "anything that covers or conceals",
+        "ko": "덮개, 위장",
+        "synonyms": [
+          "mask",
+          "guise",
+          "veil",
+          "pretext"
+        ],
+        "examples": [
+          {
+            "text": "Night hid her movements with its cloak of darkness.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 라틴어 clocca('종')에서 왔습니다. 종 모양의 여행용 망토에서 왔고, 몸을 덮어 감추는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cloying",
+    "score": 50,
+    "zipf": 2.29,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "overly sweet",
+        "ko": "지나치게 달콤한, 느끼한",
+        "synonyms": [
+          "saccharine",
+          "syrupy",
+          "treacly",
+          "sickly"
+        ],
+        "examples": [
+          {
+            "text": "The frosting was so cloying that most guests left half of their slices untouched.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Unpleasantly excessive.",
+        "ko": "물리게 하는, 과해서 불쾌한",
+        "synonyms": [
+          "excessive",
+          "saccharine",
+          "sentimental",
+          "sickening"
+        ],
+        "examples": [
+          {
+            "text": "The cloying fondness she displayed was what, in the end, drove me away.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "cloy(물리게 하다)에 -ing가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

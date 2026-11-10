@@ -1,0 +1,2418 @@
+[
+  {
+    "word": "peccadillo",
+    "score": 57,
+    "zipf": 1.35,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A small flaw or sin.",
+        "ko": "사소한 잘못, 가벼운 죄",
+        "synonyms": [
+          "misdeed",
+          "indiscretion",
+          "lapse",
+          "foible"
+        ],
+        "examples": [
+          {
+            "text": "Voters were willing to forgive the candidate's youthful peccadilloes but not his dishonesty about them.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pecc",
+      "-illo"
+    ],
+    "origin": {
+      "ko": "스페인어 pecadillo, 즉 pecado(죄)에 지소사가 붙은 말로 '작은 죄'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "peculiar",
+    "score": 24,
+    "zipf": 3.67,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Out of the ordinary; odd; strange; unusual.",
+        "ko": "기이한, 특이한",
+        "synonyms": [
+          "odd",
+          "strange",
+          "curious",
+          "bizarre",
+          "eccentric"
+        ],
+        "examples": [
+          {
+            "text": "The sky had a peculiar appearance before the storm.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Common or usual for a certain place or circumstance; specific or particular.",
+        "ko": "~에 고유한, 특유의",
+        "synonyms": [
+          "distinctive",
+          "characteristic",
+          "specific",
+          "particular"
+        ],
+        "examples": [
+          {
+            "text": "Kangaroos are peculiar to Australia.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pecun",
+      "-ar"
+    ],
+    "origin": {
+      "ko": "라틴어 pecūliāris '자기 소유의'에서 왔고, pecus는 '가축'입니다. 자기만의 것이라 남과 다르고 독특하다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pecuniary",
+    "score": 36,
+    "zipf": 2.48,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "relating to or involving money",
+        "ko": "금전상의, 돈과 관련된",
+        "synonyms": [
+          "monetary",
+          "financial",
+          "fiscal"
+        ],
+        "examples": [
+          {
+            "text": "He chose the degree for pecuniary reasons, but had no real interest in it.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pecun",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "라틴어 pecūnia '돈'에서 왔고, 가축(pecū)이 곧 재산이었던 데서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pedagogical",
+    "score": 30,
+    "zipf": 3.07,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of or relating to pedagogy",
+        "ko": "교육학의, 교수법의",
+        "synonyms": [
+          "pedagogic",
+          "educational",
+          "instructional"
+        ],
+        "examples": [
+          {
+            "text": "The school adopted a new pedagogical approach that emphasizes discussion over lectures.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ped(아이)",
+      "agog",
+      "-ical"
+    ],
+    "origin": {
+      "ko": "pedagogy(교육학)에 -ical이 붙은 말로, 그리스어 '아이를 이끄는' 일에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pedagogue",
+    "score": 31,
+    "zipf": 2.02,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A pedant; one who by teaching has become overly formal or pedantic in his or her ways; one who has the manner of a teacher.",
+        "ko": "현학적인 교사, 훈장 티를 내는 사람",
+        "synonyms": [
+          "pedant",
+          "dogmatist",
+          "schoolmaster"
+        ],
+        "examples": [
+          {
+            "text": "The old pedagogue corrected every grammatical slip at the dinner table.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "someone who educates young people",
+        "ko": "교육자, 교사",
+        "synonyms": [
+          "teacher",
+          "educator",
+          "instructor"
+        ],
+        "examples": [
+          {
+            "text": "A gifted pedagogue, she made even difficult proofs seem approachable to beginners.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ped(아이)",
+      "agog"
+    ],
+    "origin": {
+      "ko": "그리스어 paidagōgós '아이를 이끄는 사람'에서 왔습니다. 아이를 이끌던 인도자가 지나치게 딱딱한 훈장 같은 교사를 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pedantic",
+    "score": 98,
+    "zipf": 2.66,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by a narrow focus on or display of learning especially its trivial aspects",
+        "ko": "학식을 과시하는, 사소한 형식에 얽매이는",
+        "synonyms": [
+          "didactic",
+          "donnish",
+          "fussy",
+          "bookish",
+          "hairsplitting"
+        ],
+        "examples": [
+          {
+            "text": "His pedantic insistence on citing every source slowed the discussion to a crawl.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "peddle",
+    "score": 33,
+    "zipf": 2.76,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "sell or offer for sale from place to place",
+        "ko": "행상하다, 팔러 다니다",
+        "synonyms": [
+          "hawk",
+          "vend",
+          "huckster",
+          "sell"
+        ],
+        "examples": [
+          {
+            "text": "Street vendors peddle cheap souvenirs to tourists near the cathedral.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To spread or cause to spread.",
+        "ko": "(소문·사상 등을) 퍼뜨리다",
+        "synonyms": [
+          "disseminate",
+          "spread",
+          "propagate",
+          "promote"
+        ],
+        "examples": [
+          {
+            "text": "Christine walked a dangerous line, peddling gossip about her detested son-in-law.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "pedlar(행상인)에서 거꾸로 만든 말로, burglar에서 burgle이 나온 것과 같은 방식입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pedestrian",
+    "score": 56,
+    "zipf": 3.71,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking wit or imagination",
+        "ko": "평범한, 지루한",
+        "synonyms": [
+          "prosaic",
+          "dull",
+          "banal",
+          "mundane",
+          "uninspired"
+        ],
+        "examples": [
+          {
+            "text": "a pedestrian movie plot",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a person who travels by foot",
+        "ko": "보행자",
+        "synonyms": [
+          "walker"
+        ],
+        "examples": [
+          {
+            "text": "The new law requires drivers to yield to every pedestrian at the crosswalk.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ped(발)",
+      "-an"
+    ],
+    "origin": {
+      "ko": "라틴어 pedester '걸어서 가는'에서 왔고, ped는 '발'입니다. 걸어 다니는 보통 수준이라 평범하고 재미없다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "peevish",
+    "score": 30,
+    "zipf": 1.91,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Constantly complaining, especially in a childish way due to insignificant matters; fretful, whiny.",
+        "ko": "짜증 잘 내는, 투덜대는",
+        "synonyms": [
+          "petulant",
+          "querulous",
+          "fretful",
+          "cranky",
+          "irritable"
+        ],
+        "examples": [
+          {
+            "text": "Due to the long wait, there were several peevish patients in the doctor’s waiting room.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "pejorative",
+    "score": 66,
+    "zipf": 2.74,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Disparaging, belittling or derogatory.",
+        "ko": "경멸적인, 비하하는",
+        "synonyms": [
+          "derogatory",
+          "disparaging",
+          "belittling",
+          "deprecatory"
+        ],
+        "examples": [
+          {
+            "text": "Critics used the term in a pejorative sense to dismiss the whole movement.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pej",
+      "-ative"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 peiōrāre '악화시키다'에서 왔고, peior는 '더 나쁜'입니다. 가치를 깎아내리는 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pellucid",
+    "score": 75,
+    "zipf": 1.6,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(of language) transparently clear; easily understandable",
+        "ko": "(문장이) 명쾌한, 이해하기 쉬운",
+        "synonyms": [
+          "lucid",
+          "limpid",
+          "perspicuous",
+          "crystal clear"
+        ],
+        "examples": [
+          {
+            "text": "Written in spare, pellucid prose, the book reads like a close-to-the-bone memoir.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "transmitting light; able to be seen through with clarity",
+        "ko": "투명한, 맑은",
+        "synonyms": [
+          "transparent",
+          "clear",
+          "limpid",
+          "crystalline"
+        ],
+        "examples": [
+          {
+            "text": "Divers admired the pellucid water of the mountain lake.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "luc",
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 pellūcidus '속까지 환히 비치는'에서 왔습니다. 빛이 통과할 만큼 투명하게 명쾌하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "penchant",
+    "score": 78,
+    "zipf": 3.07,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a strong liking",
+        "ko": "강한 취향, 경향",
+        "synonyms": [
+          "predilection",
+          "fondness",
+          "inclination",
+          "proclivity",
+          "taste"
+        ],
+        "examples": [
+          {
+            "text": "He has a penchant for fine wine.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 pencher '기울다'의 현재분사입니다. 마음이 한쪽으로 기우는 강한 취향입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pendulous",
+    "score": 32,
+    "zipf": 2.1,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Hanging from, or as if from, a support.",
+        "ko": "아래로 늘어진, 매달린",
+        "synonyms": [
+          "hanging",
+          "dangling",
+          "drooping",
+          "suspended"
+        ],
+        "examples": [
+          {
+            "text": "Pendulous clusters of wisteria hung from the garden pergola.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pend",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 pendulus '매달린'에서 왔고, pendeō는 '매달리다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "penitent",
+    "score": 51,
+    "zipf": 2.58,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "feeling or expressing remorse for misdeeds",
+        "ko": "뉘우치는, 참회하는",
+        "synonyms": [
+          "repentant",
+          "contrite",
+          "remorseful",
+          "sorry"
+        ],
+        "examples": [
+          {
+            "text": "The penitent thief returned the stolen money and begged for forgiveness.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pen(후회)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 paenitēns '후회하는'에서 왔고, paeniteō는 '뉘우치다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pensive",
+    "score": 35,
+    "zipf": 2.63,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "deeply or seriously thoughtful",
+        "ko": "생각에 잠긴, 사색적인",
+        "synonyms": [
+          "contemplative",
+          "reflective",
+          "meditative",
+          "musing",
+          "ruminative"
+        ],
+        "examples": [
+          {
+            "text": "He sat in pensive silence, weighing his options carefully.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "showing pensive sadness",
+        "ko": "수심에 잠긴, 구슬픈",
+        "synonyms": [
+          "wistful",
+          "melancholy"
+        ],
+        "examples": [
+          {
+            "text": "Her pensive gaze followed the departing train long after it vanished.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pend",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 pensif '생각에 잠긴'에서 왔고, 라틴어 pēnsō는 '무게를 달다, 곰곰이 따지다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "penumbra",
+    "score": 34,
+    "zipf": 2.25,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A partially shaded area around the edges of a shadow, especially an eclipse.",
+        "ko": "반그림자, 반음영",
+        "synonyms": [
+          "partial shadow",
+          "half-shadow"
+        ],
+        "examples": [
+          {
+            "text": "The other places see the penumbra of the moon's shadow fall on the earth, so the eclipse is partial, and part of the sun's disc is still visible.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "An area of uncertainty or intermediacy between two mutually exclusive states or categories.",
+        "ko": "모호한 중간 영역, 경계 지대",
+        "synonyms": [
+          "gray area",
+          "fringe",
+          "borderland"
+        ],
+        "examples": [
+          {
+            "text": "The new technology operates in a legal penumbra that regulators have yet to address.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pen(거의)",
+      "umbr"
+    ],
+    "origin": {
+      "ko": "신라틴어 pēnumbra에서 왔으며, paene(거의) + umbra(그림자)로 '거의 그림자'라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "penurious",
+    "score": 57,
+    "zipf": 1.43,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "excessively unwilling to spend",
+        "ko": "인색한, 구두쇠 같은",
+        "synonyms": [
+          "parsimonious",
+          "miserly",
+          "stingy",
+          "niggardly"
+        ],
+        "examples": [
+          {
+            "text": "The penurious landlord refused to repair the heating even in midwinter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not having enough money to pay for necessities",
+        "ko": "찢어지게 가난한, 궁핍한",
+        "synonyms": [
+          "impecunious",
+          "destitute",
+          "penniless",
+          "needy"
+        ],
+        "examples": [
+          {
+            "text": "A penurious student, he lived on bread and tea for most of the winter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "penur",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 pēnūriōsus에서 왔고, 라틴어 penuria는 '결핍'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "penury",
+    "score": 32,
+    "zipf": 2.09,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a state of extreme poverty or destitution",
+        "ko": "극심한 빈곤, 궁핍",
+        "synonyms": [
+          "destitution",
+          "indigence",
+          "poverty",
+          "privation"
+        ],
+        "examples": [
+          {
+            "text": "The poet died in penury, his work unrecognized until decades later.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "penur",
+      "-y"
+    ],
+    "origin": {
+      "ko": "라틴어 pēnūria '결핍, 궁핍'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "peon",
+    "score": 34,
+    "zipf": 2.32,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A person of low rank or importance.",
+        "ko": "하찮은 사람, 말단",
+        "synonyms": [
+          "underling",
+          "drudge",
+          "lackey",
+          "menial"
+        ],
+        "examples": [
+          {
+            "text": "He is well dressed in cheap clothing. Like an office peon whose wife works in a laundry.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a laborer who is obliged to do menial work",
+        "ko": "(허드렛일을 하는) 노동자, 막일꾼",
+        "synonyms": [
+          "drudge",
+          "laborer",
+          "serf"
+        ],
+        "examples": [
+          {
+            "text": "Landowners once kept entire families as peons, bound to the estate by debt.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "후기 라틴어 pedōnem '보행자'에서 왔습니다. 걸어 다니는 하인이라는 데서 말단 인물을 가리키게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "per se",
+    "score": 18,
+    "zipf": 4.26,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "Without determination by or involvement of extraneous factors; by its very nature.",
+        "ko": "그 자체로, 본질적으로",
+        "synonyms": [
+          "intrinsically",
+          "in itself",
+          "as such",
+          "by itself"
+        ],
+        "examples": [
+          {
+            "text": "Some people say that a hangover is caused by impurities in the drink, not by the alcohol per se.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-"
+    ],
+    "origin": {
+      "ko": "라틴어 per sē '그 자체로'를 그대로 쓰는 표현입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "percipient",
+    "score": 23,
+    "zipf": 1.17,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by ease and quickness in perceiving",
+        "ko": "통찰력 있는, 지각이 빠른",
+        "synonyms": [
+          "perceptive",
+          "astute",
+          "discerning",
+          "perspicacious"
+        ],
+        "examples": [
+          {
+            "text": "A percipient observer, she noticed the subtle shift in the negotiators' tone.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "cap(잡다)",
+      "-ient"
+    ],
+    "origin": {
+      "ko": "라틴어 percipiō '완전히 파악하다'에서 왔습니다. 재빨리 붙잡아 알아채는 통찰력입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "peregrinate",
+    "score": 32,
+    "zipf": 0.0,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To travel from place to place, or from one country to another, especially on foot; hence, to sojourn in foreign countries.",
+        "ko": "두루 여행하다, 편력하다",
+        "synonyms": [
+          "wander",
+          "roam",
+          "journey",
+          "traverse"
+        ],
+        "examples": [
+          {
+            "text": "As a young scholar, he peregrinated across Europe, studying in a dozen universities.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "agr",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 peregrīnārī '외국에서 살거나 여행하다'에서 왔습니다. 땅을 가로질러 두루 다닌다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "peremptory",
+    "score": 48,
+    "zipf": 2.08,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not allowing contradiction or refusal",
+        "ko": "단호한, 거부를 허용하지 않는",
+        "synonyms": [
+          "imperative",
+          "commanding",
+          "categorical",
+          "dictatorial"
+        ],
+        "examples": [
+          {
+            "text": "spoke in peremptory tones",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "offensively self-assured or given to exercising usually unwarranted power",
+        "ko": "거만한, 독단적인",
+        "synonyms": [
+          "imperious",
+          "bossy",
+          "domineering",
+          "high-handed"
+        ],
+        "examples": [
+          {
+            "text": "The new supervisor's peremptory manner quickly alienated the whole team.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "empt",
+      "-ory"
+    ],
+    "origin": {
+      "ko": "라틴어 peremptōrius '결정적인'에서 왔고, perimō는 '없애다'입니다. 토론의 여지를 아예 없애 버리는 단호함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "perennial",
+    "score": 58,
+    "zipf": 3.51,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Appearing or recurring again and again; recurrent.",
+        "ko": "되풀이되는, 상습적인",
+        "synonyms": [
+          "recurrent",
+          "persistent",
+          "habitual",
+          "chronic"
+        ],
+        "examples": [
+          {
+            "text": "Change is a perennial theme in politics.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "lasting an indefinitely long time; suggesting self-renewal",
+        "ko": "영속하는, 끊임없이 지속되는",
+        "synonyms": [
+          "enduring",
+          "everlasting",
+          "perpetual",
+          "ceaseless"
+        ],
+        "examples": [
+          {
+            "text": "perennial happiness",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "lasting three seasons or more",
+        "ko": "(식물이) 다년생의",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "the common buttercup is a popular perennial plant",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "ann",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 perennis '해를 꿰뚫는'에서 왔습니다. 해마다 되풀이된다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "perfidious",
+    "score": 64,
+    "zipf": 2.09,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "tending to betray; especially having a treacherous character as attributed to the Carthaginians by the Romans",
+        "ko": "배신을 일삼는, 불충한",
+        "synonyms": [
+          "treacherous",
+          "disloyal",
+          "faithless",
+          "traitorous"
+        ],
+        "examples": [
+          {
+            "text": "The king, betrayed by his perfidious advisors, lost both his throne and his army.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "fid",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 perfidia '배신'에서 왔고, fidēs는 '믿음'입니다. 믿음을 저버리는 성향입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "perfidy",
+    "score": 47,
+    "zipf": 2.02,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an act of deliberate betrayal",
+        "ko": "배신 행위",
+        "synonyms": [
+          "treachery",
+          "betrayal",
+          "treason",
+          "duplicity"
+        ],
+        "examples": [
+          {
+            "text": "The ally's perfidy, revealed only after the treaty was signed, shocked the entire nation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "fid",
+      "-y"
+    ],
+    "origin": {
+      "ko": "라틴어 perfidia '신의를 저버림'에서 왔고, fidēs는 '믿음'입니다. fidelity와 같은 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "perfunctory",
+    "score": 84,
+    "zipf": 2.45,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "hasty and without attention to detail; not thorough",
+        "ko": "형식적인, 건성으로 하는",
+        "synonyms": [
+          "cursory",
+          "superficial",
+          "casual",
+          "desultory"
+        ],
+        "examples": [
+          {
+            "text": "The inspector gave the wiring a perfunctory glance and moved on to the next room.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "done or produced as a formality only",
+        "ko": "의례적인, 요식적인",
+        "synonyms": [
+          "pro forma",
+          "token",
+          "mechanical",
+          "routine"
+        ],
+        "examples": [
+          {
+            "text": "The committee gave the proposal only a perfunctory review before approving it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "funct",
+      "-ory"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 perfunctōrius '건성인'에서 왔고, perfungor는 '해치우다'입니다. 겨우 해치우듯 형식만 채운다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "perilous",
+    "score": 29,
+    "zipf": 3.18,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "fraught with danger",
+        "ko": "위험한, 위태로운",
+        "synonyms": [
+          "dangerous",
+          "hazardous",
+          "precarious",
+          "risky"
+        ],
+        "examples": [
+          {
+            "text": "a perilous voyage across the Atlantic in a small boat",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "peril",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 perilleus에서 왔고, peril(위험)에 -ous가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "peripatetic",
+    "score": 66,
+    "zipf": 2.31,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Constantly travelling.",
+        "ko": "떠돌아다니는, 순회하는",
+        "synonyms": [
+          "itinerant",
+          "nomadic",
+          "wandering",
+          "roving",
+          "vagabond"
+        ],
+        "examples": [
+          {
+            "text": "The peripatetic conductor spent most of the year touring orchestras on three continents.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "peri-",
+      "pat(걷다)",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 peripatētikós '이리저리 걷기 좋아하는'에서 왔습니다. 두루 걸어 다닌다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "peripheral",
+    "score": 40,
+    "zipf": 3.66,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "related to the key issue but not of central importance",
+        "ko": "부수적인, 중요하지 않은",
+        "synonyms": [
+          "secondary",
+          "marginal",
+          "tangential",
+          "incidental"
+        ],
+        "examples": [
+          {
+            "text": "energy is far from a peripheral issue in the economy",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "on or near an edge or constituting an outer boundary; the outer area",
+        "ko": "주변부의, 가장자리의",
+        "synonyms": [
+          "outlying",
+          "outer",
+          "marginal"
+        ],
+        "examples": [
+          {
+            "text": "peripheral suburbs",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "peri-",
+      "pher",
+      "-al"
+    ],
+    "origin": {
+      "ko": "그리스어 periphéreia '둘레'에서 왔습니다. 중심이 아니라 가장자리에 있어 부수적이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "perish",
+    "score": 28,
+    "zipf": 3.32,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+        "ko": "죽다, 사라지다",
+        "synonyms": [
+          "die",
+          "expire",
+          "succumb"
+        ],
+        "examples": [
+          {
+            "text": "The children perished in the fire",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To decay in such a way that it cannot be used for its original purpose",
+        "ko": "썩다, 상해서 못 쓰게 되다",
+        "synonyms": [
+          "rot",
+          "spoil",
+          "decay",
+          "decompose"
+        ],
+        "examples": [
+          {
+            "text": "The difficulty is that fresh foods perish due to the multiplication in them of harmful bacteria.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "it"
+    ],
+    "origin": {
+      "ko": "라틴어 perīre '지나가 버리다'에서 왔고, per(통해) + īre(가다)로 이루어졌습니다. 사라져 가는 데서 죽다가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "permeate",
+    "score": 67,
+    "zipf": 2.63,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "spread or diffuse through",
+        "ko": "스며들다, 퍼지다",
+        "synonyms": [
+          "pervade",
+          "penetrate",
+          "saturate",
+          "imbue",
+          "suffuse"
+        ],
+        "examples": [
+          {
+            "text": "An atmosphere of distrust has permeated this administration",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "pass through",
+        "ko": "침투하다, 통과하다",
+        "synonyms": [
+          "percolate",
+          "filter",
+          "seep"
+        ],
+        "examples": [
+          {
+            "text": "Water permeates sand easily",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "me",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 permeō '통과하다'에서 왔습니다. 속속들이 지나가며 스며든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pernicious",
+    "score": 80,
+    "zipf": 2.87,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "working or spreading in a hidden and usually injurious way",
+        "ko": "은밀히 해로운, 치명적인",
+        "synonyms": [
+          "insidious",
+          "deleterious",
+          "noxious",
+          "baneful"
+        ],
+        "examples": [
+          {
+            "text": "Critics warned of the pernicious influence of misinformation on public trust.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "exceedingly harmful",
+        "ko": "극히 해로운, 치명적인",
+        "synonyms": [
+          "destructive",
+          "deadly",
+          "pestilent"
+        ],
+        "examples": [
+          {
+            "text": "Poverty has a pernicious effect on children's long-term health.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "nec",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 perniciōsus '파멸적인'에서 왔고, perniciēs는 '파괴'입니다. nex는 '죽음'이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "peroration",
+    "score": 25,
+    "zipf": 1.4,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "(rhetoric) the concluding section of an oration",
+        "ko": "(연설의) 결론부, 맺음말",
+        "synonyms": [
+          "conclusion",
+          "summation",
+          "finale"
+        ],
+        "examples": [
+          {
+            "text": "he summarized his main points in his peroration",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "or(말하다)",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "라틴어 perōrō '끝까지 말하다, 연설을 맺다'에서 왔습니다. 연설을 끝까지 말해 마무리하는 부분입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "perpetrate",
+    "score": 52,
+    "zipf": 2.48,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "perform an act, usually with a negative connotation",
+        "ko": "(범죄·나쁜 짓을) 저지르다",
+        "synonyms": [
+          "commit",
+          "carry out",
+          "perform",
+          "inflict"
+        ],
+        "examples": [
+          {
+            "text": "perpetrate a crime",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "patr(이루다)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 perpetrāre '끝까지 해내다'에서 왔습니다. 일을 끝까지 해치운다는 뜻이 나쁜 짓을 저지른다로 쓰입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "perpetual",
+    "score": 25,
+    "zipf": 3.61,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "continuing forever or indefinitely",
+        "ko": "영구적인, 끝없는",
+        "synonyms": [
+          "eternal",
+          "everlasting",
+          "endless",
+          "unending"
+        ],
+        "examples": [
+          {
+            "text": "Medieval alchemists dreamed of a perpetual source of energy and eternal youth.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "uninterrupted in time and indefinitely long continuing",
+        "ko": "끊임없는, 계속되는",
+        "synonyms": [
+          "ceaseless",
+          "incessant",
+          "constant",
+          "unremitting"
+        ],
+        "examples": [
+          {
+            "text": "Residents complained of the perpetual noise from the highway outside their windows.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "pet",
+      "-ual"
+    ],
+    "origin": {
+      "ko": "라틴어 perpetuus '끊임없이 이어지는'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "perpetuate",
+    "score": 45,
+    "zipf": 3.19,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause to continue or prevail",
+        "ko": "영속시키다, 존속시키다",
+        "synonyms": [
+          "sustain",
+          "preserve",
+          "prolong",
+          "maintain"
+        ],
+        "examples": [
+          {
+            "text": "perpetuate a myth",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "pet",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 perpetuō '끊임없이 이어지게 하다'에서 왔고, perpetuus '영원한'이 원형입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "perquisite",
+    "score": 45,
+    "zipf": 1.8,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an incidental benefit awarded for certain types of employment (especially if it is regarded as a right)",
+        "ko": "부수입, 특전",
+        "synonyms": [
+          "perk",
+          "fringe benefit",
+          "bonus",
+          "privilege"
+        ],
+        "examples": [
+          {
+            "text": "The perquisites of this job include health insurance and a performance bonus.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a right reserved exclusively by a particular person or group (especially a hereditary or official right)",
+        "ko": "특권, 전유 권리",
+        "synonyms": [
+          "prerogative",
+          "privilege",
+          "right"
+        ],
+        "examples": [
+          {
+            "text": "Private jets and motor yachts are perquisites of the rich.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "quer(구하다)"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 perquīsītum '이익을 보고 얻은 것'에서 왔습니다. 본 급여 외에 따로 얻는 부수입을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "perseverance",
+    "score": 28,
+    "zipf": 3.34,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "persistent determination",
+        "ko": "인내, 끈기",
+        "synonyms": [
+          "persistence",
+          "tenacity",
+          "doggedness",
+          "steadfastness"
+        ],
+        "examples": [
+          {
+            "text": "Years of perseverance finally paid off when the team published its landmark study.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "sever",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "라틴어 persevērantia '꿋꿋함'에서 왔습니다. 끝까지 엄격하게 버티는 끈기입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "persist",
+    "score": 26,
+    "zipf": 3.53,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be persistent, refuse to stop",
+        "ko": "고집하다, 끈질기게 계속하다",
+        "synonyms": [
+          "persevere",
+          "insist",
+          "continue",
+          "hold on"
+        ],
+        "examples": [
+          {
+            "text": "The child persisted and kept asking questions",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To continue to exist.",
+        "ko": "계속 존재하다, 지속되다",
+        "synonyms": [
+          "endure",
+          "linger",
+          "remain",
+          "survive"
+        ],
+        "examples": [
+          {
+            "text": "Throughout the period, toothy giants persisted in the oceans. Perhaps the most spectacular was the megalodon shark.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "st"
+    ],
+    "origin": {
+      "ko": "라틴어 persistere '끝까지 서 있다'에서 왔습니다. 물러나지 않고 계속 버틴다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "perspicacious",
+    "score": 60,
+    "zipf": 1.7,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "acutely insightful and wise",
+        "ko": "통찰력 있는, 혜안이 있는",
+        "synonyms": [
+          "sagacious",
+          "astute",
+          "shrewd",
+          "discerning",
+          "perceptive"
+        ],
+        "examples": [
+          {
+            "text": "much too perspicacious to be taken in by such a spurious argument",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "spec",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 perspicāx '날카롭게 꿰뚫어 보는'에서 왔고, perspiciō는 '속까지 들여다보다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "perspicacity",
+    "score": 28,
+    "zipf": 1.73,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Acute discernment or understanding; insight.",
+        "ko": "통찰력, 예리한 판단력",
+        "synonyms": [
+          "acuity",
+          "insight",
+          "shrewdness",
+          "astuteness",
+          "sagacity"
+        ],
+        "examples": [
+          {
+            "text": "The investor's perspicacity allowed her to foresee the market crash months in advance.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "spec",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 perspicācitās '날카롭게 꿰뚫어 봄'에서 왔고, perspiciō는 '속까지 들여다보다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "perspicuous",
+    "score": 24,
+    "zipf": 1.25,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(of language) transparently clear; easily understandable",
+        "ko": "(표현이) 명료한, 알기 쉬운",
+        "synonyms": [
+          "lucid",
+          "limpid",
+          "pellucid",
+          "clear",
+          "comprehensible"
+        ],
+        "examples": [
+          {
+            "text": "The lawyer's perspicuous explanation made the complex statute easy for jurors to follow.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "spec",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 perspicuus '속이 환히 보이는'에서 왔습니다. 꿰뚫어 볼 수 있을 만큼 명료하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pert",
+    "score": 35,
+    "zipf": 2.59,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by a lightly pert and exuberant quality",
+        "ko": "건방진, 당돌한",
+        "synonyms": [
+          "saucy",
+          "impertinent",
+          "cheeky",
+          "jaunty"
+        ],
+        "examples": [
+          {
+            "text": "The pert young waitress answered every complaint with a cheeky remark.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 apert '열린, 숨김없는'의 앞부분이 떨어져 나간 말입니다. 거침없이 나서는 당돌함이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pertinacious",
+    "score": 38,
+    "zipf": 1.07,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "stubbornly unyielding",
+        "ko": "끈질긴, 완강한",
+        "synonyms": [
+          "tenacious",
+          "dogged",
+          "obstinate",
+          "persistent",
+          "unyielding"
+        ],
+        "examples": [
+          {
+            "text": "The pertinacious reporter pursued the story despite repeated threats from officials.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "ten(잡다)",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 pertinax '아주 꽉 붙잡고 놓지 않는'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pertinent",
+    "score": 43,
+    "zipf": 3.36,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having precise or logical relevance to the matter at hand",
+        "ko": "적절한, 관련 있는",
+        "synonyms": [
+          "relevant",
+          "germane",
+          "apposite",
+          "applicable"
+        ],
+        "examples": [
+          {
+            "text": "a list of articles pertinent to the discussion",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "ten(잡다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 pertinēns '~에 닿는, 속하는'에서 왔습니다. 어떤 일에 닿아 있다는 데서 관련 있다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "perturb",
+    "score": 30,
+    "zipf": 1.9,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "disturb in mind or make uneasy or cause to be worried or alarmed",
+        "ko": "불안하게 하다, 동요시키다",
+        "synonyms": [
+          "disquiet",
+          "trouble",
+          "unsettle",
+          "agitate",
+          "disturb"
+        ],
+        "examples": [
+          {
+            "text": "She was rather perturbed by the news that her father was seriously ill",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "throw into great confusion or disorder",
+        "ko": "혼란에 빠뜨리다, 교란하다",
+        "synonyms": [
+          "derange",
+          "disrupt",
+          "upset"
+        ],
+        "examples": [
+          {
+            "text": "Fundamentalists threaten to perturb the social order",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "turb"
+    ],
+    "origin": {
+      "ko": "라틴어 perturbāre '완전히 어지럽히다'에서 왔고, turbō는 '휘젓다'입니다. 마음을 휘저어 불안하게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "peruse",
+    "score": 50,
+    "zipf": 2.73,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "examine or consider with attention and in detail",
+        "ko": "정독하다, 꼼꼼히 살피다",
+        "synonyms": [
+          "scrutinize",
+          "study",
+          "examine",
+          "read"
+        ],
+        "examples": [
+          {
+            "text": "Please peruse this report at your leisure",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "us"
+    ],
+    "origin": {
+      "ko": "per-(철저히)와 use(쓰다)를 합친 말로, 원래 '다 써서 닳게 하다'였습니다. 속속들이 꼼꼼히 살핀다는 뜻만 남았습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pervade",
+    "score": 33,
+    "zipf": 2.17,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "spread or diffuse through",
+        "ko": "구석구석 퍼지다, 만연하다",
+        "synonyms": [
+          "permeate",
+          "penetrate",
+          "suffuse",
+          "imbue"
+        ],
+        "examples": [
+          {
+            "text": "Cruel wars pervade history.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "vad"
+    ],
+    "origin": {
+      "ko": "라틴어 pervādō '구석구석 지나가다'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pervasive",
+    "score": 59,
+    "zipf": 3.39,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "spreading or spread throughout",
+        "ko": "널리 퍼진, 만연한",
+        "synonyms": [
+          "widespread",
+          "ubiquitous",
+          "prevalent",
+          "permeating"
+        ],
+        "examples": [
+          {
+            "text": "the pervasive odor of garlic",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "vad",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "라틴어 pervādō '구석구석 지나가다'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "petulant",
+    "score": 82,
+    "zipf": 2.73,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Childishly irritable.",
+        "ko": "심술궂은, 걸핏하면 화내는",
+        "synonyms": [
+          "peevish",
+          "sulky",
+          "irritable",
+          "querulous",
+          "churlish"
+        ],
+        "examples": [
+          {
+            "text": "Lack of sleep is causing Dave's recent petulant behavior.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pet",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 petulāns '건방진'에서 왔고, petō '요구하다'와 가까운 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "word": "toady",
+    "score": 48,
+    "zipf": 2.14,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who tries to please someone in order to gain a personal advantage",
+        "ko": "아첨꾼, 알랑쇠",
+        "synonyms": [
+          "sycophant",
+          "flatterer",
+          "lackey",
+          "bootlicker",
+          "yes-man"
+        ],
+        "examples": [
+          {
+            "text": "The senator was surrounded by toadies who laughed at every joke and never questioned his policies.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "try to gain favor by cringing or flattering",
+        "ko": "아첨하다, 비위를 맞추다",
+        "synonyms": [
+          "fawn",
+          "grovel",
+          "kowtow",
+          "truckle",
+          "bootlick"
+        ],
+        "examples": [
+          {
+            "text": "Ambitious aides toady to the director, laughing at his jokes and echoing every opinion he offers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "toadeater('두꺼비 먹는 사람')를 줄인 말입니다. 비위를 맞추려 역겨운 것도 삼키는 사람의 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "toil",
+    "score": 31,
+    "zipf": 3.03,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "work hard",
+        "ko": "힘들게 일하다, 고생하다",
+        "synonyms": [
+          "labor",
+          "drudge",
+          "slave",
+          "grind",
+          "travail"
+        ],
+        "examples": [
+          {
+            "text": "Farmers toiled from dawn to dusk to bring in the harvest before the rains arrived.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Labour, work, especially of a grueling nature.",
+        "ko": "고된 노동, 수고",
+        "synonyms": [
+          "drudgery",
+          "labor",
+          "exertion",
+          "sweat"
+        ],
+        "examples": [
+          {
+            "text": "Years of unrelenting toil in the mines left him with scarcely any savings and failing health.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "앵글로노르만어 toiller('휘젓다')와 영어 tilyen('일하다')이 뒤섞인 것으로 보입니다. 휘젓듯 몸을 써서 일하는 모습이 '고생하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "token",
+    "score": 23,
+    "zipf": 3.82,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "insignificantly small; a matter of form only (‘tokenish’ is informal)",
+        "ko": "명목상의, 형식적인",
+        "synonyms": [
+          "nominal",
+          "symbolic",
+          "perfunctory",
+          "minimal"
+        ],
+        "examples": [
+          {
+            "text": "The council offered only a token apology, which did nothing to address residents' real complaints.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Something serving as an expression of something else.",
+        "ko": "표시, 증표",
+        "synonyms": [
+          "sign",
+          "symbol",
+          "pledge",
+          "mark",
+          "emblem"
+        ],
+        "examples": [
+          {
+            "text": "According to the Bible, the rainbow is a token of God's covenant with Noah.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 tācn('표시, 상징')에서 왔습니다. 실질 없이 표시만 하는 것이 '명목상의'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tome",
+    "score": 45,
+    "zipf": 3.21,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A large or scholarly book.",
+        "ko": "두꺼운 책, 학술서",
+        "synonyms": [
+          "volume",
+          "opus",
+          "treatise"
+        ],
+        "examples": [
+          {
+            "text": "The professor pulled a dusty old tome from the bookshelf.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tom"
+    ],
+    "origin": {
+      "ko": "그리스어 tómos('잘라 낸 한 부분, 두루마리')에서 왔습니다. 큰 저작의 한 권이 '두꺼운 책'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "torpid",
+    "score": 28,
+    "zipf": 1.73,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "slow and apathetic",
+        "ko": "무기력한, 둔한",
+        "synonyms": [
+          "sluggish",
+          "lethargic",
+          "inert",
+          "languid",
+          "apathetic"
+        ],
+        "examples": [
+          {
+            "text": "After the heavy lunch, the torpid committee could barely keep its eyes open during the budget review.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "in a condition of biological rest or suspended animation",
+        "ko": "동면 상태의, 휴면 중인",
+        "synonyms": [
+          "dormant",
+          "hibernating",
+          "inactive"
+        ],
+        "examples": [
+          {
+            "text": "Through the winter the frogs lie torpid in the mud at the bottom of the pond.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "torp",
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 torpidus('마비된, 지친')에서 왔습니다. 감각이 무뎌진 상태가 '무기력한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "torpor",
+    "score": 67,
+    "zipf": 2.37,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "inactivity resulting from lethargy and lack of vigor or energy",
+        "ko": "무기력, 활력 없음",
+        "synonyms": [
+          "lethargy",
+          "listlessness",
+          "sluggishness",
+          "inertia",
+          "languor"
+        ],
+        "examples": [
+          {
+            "text": "A summer torpor settled over the town, and nobody seemed willing to start any work before evening.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A state similar to hibernation characterised by energy-conserving, very deep sleep.",
+        "ko": "(동물의) 휴면 상태",
+        "synonyms": [
+          "dormancy",
+          "hibernation"
+        ],
+        "examples": [
+          {
+            "text": "Hummingbirds enter torpor on cold nights to conserve energy when food is scarce.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "torp",
+      "-or"
+    ],
+    "origin": {
+      "ko": "라틴어 torpor('마비, 무감각')에서 왔습니다. 몸이 굳어 둔해진 상태가 '무기력'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "torrid",
+    "score": 35,
+    "zipf": 2.64,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "extremely hot and dry",
+        "ko": "타는 듯이 더운, 불볕의",
+        "synonyms": [
+          "scorching",
+          "sweltering",
+          "scorched",
+          "blistering"
+        ],
+        "examples": [
+          {
+            "text": "the torrid heat of the noonday sun",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "characterized by intense emotion",
+        "ko": "열렬한, 정열적인",
+        "synonyms": [
+          "ardent",
+          "passionate",
+          "fervid",
+          "impassioned",
+          "fiery"
+        ],
+        "examples": [
+          {
+            "text": "The novelist's torrid romance with a married diplomat scandalized polite society for a decade.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "torr",
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 torridus는 torreō('바싹 말리다, 태우다')에서 왔습니다. 땅이 타듯 뜨거운 날씨를 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tortuous",
+    "score": 67,
+    "zipf": 2.65,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by repeated turns and bends",
+        "ko": "구불구불한",
+        "synonyms": [
+          "winding",
+          "twisting",
+          "serpentine",
+          "sinuous",
+          "meandering"
+        ],
+        "examples": [
+          {
+            "text": "A tortuous road climbed the mountain, doubling back on itself every few hundred meters.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "highly complex or intricate and occasionally devious",
+        "ko": "복잡하게 얽힌, 우회적인",
+        "synonyms": [
+          "convoluted",
+          "labyrinthine",
+          "byzantine",
+          "roundabout",
+          "involved"
+        ],
+        "examples": [
+          {
+            "text": "The lawyer's tortuous reasoning left the jury unsure what she was actually asking them to conclude.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tort",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 tortuōsus('꼬불꼬불한')에서 왔고 tortus('비틂')와 이어집니다. 비틀려 굽이진 길의 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tour",
+    "score": 16,
+    "zipf": 4.99,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a journey or route all the way around a particular place or area",
+        "ko": "순회 여행, 견학",
+        "synonyms": [
+          "circuit",
+          "excursion",
+          "trip",
+          "round"
+        ],
+        "examples": [
+          {
+            "text": "On our last holiday to Spain we took a tour of the wine-growing regions.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a period of time spent in military service",
+        "ko": "(군) 복무 기간",
+        "synonyms": [
+          "tour of duty",
+          "hitch",
+          "enlistment"
+        ],
+        "examples": [
+          {
+            "text": "After completing his second tour overseas, the sergeant retired and opened a small hardware store.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 tour('돌기')에서 왔습니다. 한 바퀴 빙 도는 여정이 '순회 여행'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tout",
+    "score": 61,
+    "zipf": 3.18,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To flaunt, to publicize/publicise; to boast or brag about; to promote.",
+        "ko": "크게 선전하다, 극찬하다",
+        "synonyms": [
+          "promote",
+          "trumpet",
+          "extol",
+          "hype",
+          "champion"
+        ],
+        "examples": [
+          {
+            "text": "Mary has been touted as a potential successor to the current CEO.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Someone advertising for customers in an aggressive way.",
+        "ko": "호객꾼, 암표상",
+        "synonyms": [
+          "barker",
+          "pitchman",
+          "solicitor"
+        ],
+        "examples": [
+          {
+            "text": "Be careful of the ticket touts outside the arena; they are famed for selling counterfeits.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 touten('튀어나오다, 엿보다')에서 왔습니다. 손님을 엿보며 호객하던 데서 '크게 선전하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

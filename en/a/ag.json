@@ -1,0 +1,259 @@
+[
+  {
+    "word": "aggrandize",
+    "score": 58,
+    "zipf": 1.52,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To make great or greater in power, rank, honor, or wealth (applied to persons, countries, etc.).",
+        "ko": "(권력·지위를) 확대하다, 키우다",
+        "synonyms": [
+          "enlarge",
+          "exalt",
+          "elevate",
+          "magnify",
+          "promote"
+        ],
+        "examples": [
+          {
+            "text": "The king used every conquest to aggrandize his family at the expense of neighboring states.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "grand",
+      "-ize"
+    ],
+    "origin": {
+      "ko": "프랑스어 agrandir(크게 하다)에서 왔습니다. 힘이나 지위를 더 크게 키운다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aggregate",
+    "score": 22,
+    "zipf": 3.94,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the whole amount",
+        "ko": "총계, 합계",
+        "synonyms": [
+          "total",
+          "sum",
+          "whole",
+          "totality"
+        ],
+        "examples": [
+          {
+            "text": "In the aggregate, the small donations exceeded what any single wealthy donor had given.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "formed of separate units gathered into a mass or whole",
+        "ko": "집합적인, 총합의",
+        "synonyms": [
+          "collective",
+          "combined",
+          "cumulative",
+          "total",
+          "composite"
+        ],
+        "examples": [
+          {
+            "text": "The aggregate income of the three households barely covered the cost of the new school.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "greg",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 aggregare(무리로 모으다)에서 왔고 grex(양 떼)와 연결됩니다. 흩어진 것을 한 무리로 모은 것이 '총계'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aggrieve",
+    "score": 22,
+    "zipf": 1.09,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause to feel sorrow",
+        "ko": "슬프게 하다, 괴롭히다",
+        "synonyms": [
+          "grieve",
+          "distress",
+          "afflict",
+          "wrong"
+        ],
+        "examples": [
+          {
+            "text": "The workers felt aggrieved by the sudden change in their contracts and filed a formal complaint.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "infringe on the rights of",
+        "ko": "(권리를) 침해하다",
+        "synonyms": [
+          "wrong",
+          "oppress",
+          "injure",
+          "infringe"
+        ],
+        "examples": [
+          {
+            "text": "Any party aggrieved by the ruling may appeal to a higher court within thirty days.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "grav"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 agrever(짐을 지우다)에서 왔고 라틴어 gravis(무거운)에서 나왔습니다. 무거운 짐을 얹듯 마음을 괴롭힙니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aghast",
+    "score": 35,
+    "zipf": 2.64,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "struck with fear, dread, or consternation",
+        "ko": "질겁한, 경악한",
+        "synonyms": [
+          "appalled",
+          "horrified",
+          "dismayed",
+          "shocked",
+          "stunned"
+        ],
+        "examples": [
+          {
+            "text": "Residents stood aghast as the flood swept away the footbridge they had crossed for decades.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 agasten(겁먹게 하다)에서 왔습니다. 공포로 그 자리에 얼어붙은 모습이 '질겁한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "agitate",
+    "score": 35,
+    "zipf": 2.64,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "try to stir up public opinion",
+        "ko": "선동하다, 여론을 일으키다",
+        "synonyms": [
+          "campaign",
+          "foment",
+          "crusade",
+          "stir up",
+          "press"
+        ],
+        "examples": [
+          {
+            "text": "Reformers agitated for years to win the vote for women in the province.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cause to be agitated, excited, or roused",
+        "ko": "동요시키다, 불안하게 하다",
+        "synonyms": [
+          "disturb",
+          "perturb",
+          "unsettle",
+          "rouse",
+          "fluster"
+        ],
+        "examples": [
+          {
+            "text": "The unexpected news agitated the crowd, and murmurs spread quickly through the hall.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ag",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 agitare(계속 몰아대다)에서 왔습니다. 사람들을 흔들어 움직이게 하는 데서 '선동하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

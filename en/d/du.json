@@ -1,0 +1,312 @@
+[
+  {
+    "word": "dubious",
+    "score": 58,
+    "zipf": 3.49,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "open to doubt or suspicion",
+        "ko": "의심스러운, 미심쩍은",
+        "synonyms": [
+          "questionable",
+          "suspect",
+          "doubtful",
+          "dodgy"
+        ],
+        "examples": [
+          {
+            "text": "After he made some dubious claims about the company, fewer people trusted him.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not convinced",
+        "ko": "확신하지 못하는, 반신반의하는",
+        "synonyms": [
+          "skeptical",
+          "doubtful",
+          "unsure",
+          "hesitant"
+        ],
+        "examples": [
+          {
+            "text": "they admitted the force of my argument but remained dubious",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "du",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 dubius(둘 사이에서 망설이는)에서 왔고 duo(둘)와 이어집니다. 두 갈래 사이에서 확신 못하는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dulcet",
+    "score": 32,
+    "zipf": 2.09,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "pleasing to the ear",
+        "ko": "(소리가) 감미로운, 듣기 좋은",
+        "synonyms": [
+          "mellifluous",
+          "melodious",
+          "honeyed",
+          "sweet"
+        ],
+        "examples": [
+          {
+            "text": "the dulcet tones of the cello",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dulc",
+      "-et"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 doucet에서 왔고 라틴어 dulcis(달콤한)에 축소 접미사가 붙었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dupe",
+    "score": 81,
+    "zipf": 2.78,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "fool or hoax",
+        "ko": "속이다, 기만하다",
+        "synonyms": [
+          "deceive",
+          "trick",
+          "hoodwink",
+          "swindle",
+          "gull"
+        ],
+        "examples": [
+          {
+            "text": "The immigrant was duped because he trusted everyone",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a person who is tricked or swindled",
+        "ko": "잘 속는 사람, 속은 사람",
+        "synonyms": [
+          "victim",
+          "gull",
+          "pawn",
+          "sucker"
+        ],
+        "examples": [
+          {
+            "text": "It would vex me, indeed, to see you again the dupe of Miss Bingley's pretended regard.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 duper에서 왔고 huppe(후투티)의 변형으로 봅니다. 쉽게 속는 새에 빗댄 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "duplicitous",
+    "score": 35,
+    "zipf": 2.41,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by deliberate deceptiveness especially by pretending one set of feelings and acting under the influence of another",
+        "ko": "표리부동한, 이중적인",
+        "synonyms": [
+          "deceitful",
+          "two-faced",
+          "double-dealing",
+          "treacherous"
+        ],
+        "examples": [
+          {
+            "text": "The duplicitous adviser praised the plan in public while quietly working to sabotage it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "du",
+      "plic",
+      "-ous"
+    ]
+  },
+  {
+    "word": "duplicity",
+    "score": 52,
+    "zipf": 2.51,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Intentional deceptiveness; double-dealing.",
+        "ko": "표리부동, 이중성",
+        "synonyms": [
+          "deceit",
+          "double-dealing",
+          "treachery",
+          "dishonesty"
+        ],
+        "examples": [
+          {
+            "text": "The diplomat's duplicity came to light when leaked cables revealed his secret promises to both sides.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "du",
+      "plic",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 duplicare(두 겹으로 하다)에서 왔습니다. 말과 속마음이 두 겹인 '이중성'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "duress",
+    "score": 47,
+    "zipf": 3.02,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "compulsory force or threat",
+        "ko": "강박, 협박, 강요",
+        "synonyms": [
+          "coercion",
+          "compulsion",
+          "constraint",
+          "pressure"
+        ],
+        "examples": [
+          {
+            "text": "confessed under duress",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dur"
+    ],
+    "origin": {
+      "ko": "라틴어 dūritia(단단함, 가혹함)에서 왔고 dūrus(단단한)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dutiful",
+    "score": 35,
+    "zipf": 2.63,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "willingly obedient out of a sense of duty and respect",
+        "ko": "본분을 다하는, 충실한",
+        "synonyms": [
+          "obedient",
+          "conscientious",
+          "respectful",
+          "devoted"
+        ],
+        "examples": [
+          {
+            "text": "Ralph was a dutiful child, and took the trash out without being told.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ful"
+    ],
+    "origin": {
+      "ko": "duty(의무)에 -ful이 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

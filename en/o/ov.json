@@ -1,0 +1,239 @@
+[
+  {
+    "word": "overbearing",
+    "score": 32,
+    "zipf": 2.91,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Overly bossy, domineering, arrogant, forceful, intense, or annoying.",
+        "ko": "고압적인, 거만한",
+        "synonyms": [
+          "domineering",
+          "imperious",
+          "haughty",
+          "high-handed",
+          "bossy"
+        ],
+        "examples": [
+          {
+            "text": "Her overbearing manager second-guessed every decision and rarely let anyone finish a sentence.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "overbear '위에서 짓누르다'에 -ing이 붙은 말로, 상대를 위에서 누르듯 고압적이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "overshadow",
+    "score": 34,
+    "zipf": 2.71,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be greater in significance than",
+        "ko": "빛을 잃게 하다, 무색하게 하다",
+        "synonyms": [
+          "eclipse",
+          "dominate",
+          "outshine",
+          "dwarf"
+        ],
+        "examples": [
+          {
+            "text": "The scandal overshadowed the company's record profits and dominated the news for weeks.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To obscure something by casting a shadow.",
+        "ko": "그늘을 드리우다, 어둡게 하다",
+        "synonyms": [
+          "shade",
+          "darken",
+          "cloud"
+        ],
+        "examples": [
+          {
+            "text": "Tall pines overshadowed the cottage and kept its garden in perpetual gloom.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 ofersceadwian '그늘로 덮다'에서 왔습니다. 큰 그림자가 덮어 빛을 잃게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "overt",
+    "score": 44,
+    "zipf": 3.31,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Open and not concealed or secret.",
+        "ko": "공공연한, 숨김없는",
+        "synonyms": [
+          "open",
+          "manifest",
+          "patent",
+          "plain",
+          "evident"
+        ],
+        "examples": [
+          {
+            "text": "The report found no overt discrimination, though subtler biases persisted in hiring.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 overt '열린'에서 왔고, 라틴어 aperīre '열다'가 원형입니다. 열려서 숨김없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "overweening",
+    "score": 46,
+    "zipf": 1.9,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Unduly confident; (sometimes also) arrogant.",
+        "ko": "자만하는, 오만한",
+        "synonyms": [
+          "arrogant",
+          "presumptuous",
+          "conceited",
+          "overconfident"
+        ],
+        "examples": [
+          {
+            "text": "overweening pride",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Exaggerated, excessive.",
+        "ko": "과도한, 지나친",
+        "synonyms": [
+          "immoderate",
+          "excessive",
+          "inordinate",
+          "extravagant"
+        ],
+        "examples": [
+          {
+            "text": "The film's overweening ambition collapsed under the weight of its own bloated plot.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 overweninge에서 왔습니다. 자신을 지나치게 높게 생각한다는 데서 자만하는이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "overwrought",
+    "score": 52,
+    "zipf": 2.47,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Excessively nervous, excited, tense, angry, anxious, or upset; overemotional; very uneasy.",
+        "ko": "극도로 흥분한, 신경이 곤두선",
+        "synonyms": [
+          "agitated",
+          "distraught",
+          "frantic",
+          "hysterical",
+          "keyed up"
+        ],
+        "examples": [
+          {
+            "text": "Overwrought after days without sleep, she burst into tears at the slightest criticism.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Elaborate; baroque; overdone.",
+        "ko": "지나치게 공들인, 과장된",
+        "synonyms": [
+          "overdone",
+          "ornate",
+          "florid",
+          "labored"
+        ],
+        "examples": [
+          {
+            "text": "Reviewers found the novel's overwrought prose tiresome, with every sentence straining for effect.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "overwork의 옛 과거분사로, 지나치게 혹사당해 신경이 곤두선 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

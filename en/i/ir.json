@@ -1,0 +1,377 @@
+[
+  {
+    "word": "irascible",
+    "score": 82,
+    "zipf": 2.29,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "quickly aroused to anger",
+        "ko": "화를 잘 내는, 성미가 급한",
+        "synonyms": [
+          "choleric",
+          "hot-tempered",
+          "cantankerous",
+          "quick-tempered",
+          "testy"
+        ],
+        "examples": [
+          {
+            "text": "The irascible editor berated reporters over the smallest typographical errors.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ira",
+      "-able"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 īrāscibilis에서 왔고 īrāscī '화내다'에서 나왔습니다. 화가 쉽게 나는 성미입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ire",
+    "score": 29,
+    "zipf": 3.22,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Great anger; wrath; keen resentment.",
+        "ko": "분노, 격노",
+        "synonyms": [
+          "wrath",
+          "fury",
+          "rage",
+          "anger"
+        ],
+        "examples": [
+          {
+            "text": "The senator's remarks drew the ire of voters across the district.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어를 거쳐 라틴어 īra '분노'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "irk",
+    "score": 35,
+    "zipf": 2.38,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "irritate or vex",
+        "ko": "짜증나게 하다, 귀찮게 하다",
+        "synonyms": [
+          "annoy",
+          "vex",
+          "gall",
+          "irritate",
+          "nettle"
+        ],
+        "examples": [
+          {
+            "text": "It irks me doing all this work and have someone wreck it.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 노르드어 '일하다'에서 온 중세 영어 irken '지치다'에서 왔습니다. 지치게 한다는 데서 '짜증나게 하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "irksome",
+    "score": 50,
+    "zipf": 2.33,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Marked by irritation or annoyance; disagreeable; troublesome by reason of long continuance or repetition",
+        "ko": "짜증스러운, 성가신",
+        "synonyms": [
+          "tiresome",
+          "annoying",
+          "bothersome",
+          "tedious",
+          "wearisome"
+        ],
+        "examples": [
+          {
+            "text": "He has this irksome habit of racing up to red lights, so he has to brake heavily.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-some"
+    ],
+    "origin": {
+      "ko": "irk(짜증나게 하다)에 -some이 붙은 말입니다. 지치고 귀찮게 하는 성질입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ironclad",
+    "score": 34,
+    "zipf": 2.72,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "without flaws or loopholes",
+        "ko": "빈틈없는, 반박할 수 없는",
+        "synonyms": [
+          "unassailable",
+          "watertight",
+          "airtight",
+          "bulletproof",
+          "foolproof"
+        ],
+        "examples": [
+          {
+            "text": "The suspect had an ironclad alibi for his whereabouts on the night of the crime.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "inflexibly entrenched and unchangeable",
+        "ko": "융통성 없이 굳어진, 요지부동의",
+        "synonyms": [
+          "inflexible",
+          "rigid",
+          "unyielding",
+          "entrenched"
+        ],
+        "examples": [
+          {
+            "text": "The party's ironclad traditions left no room for reform-minded newcomers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "iron(쇠)과 clad(입은)가 합쳐진 말입니다. 철갑을 두른 듯 빈틈이 없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "irrefutable",
+    "score": 34,
+    "zipf": 2.74,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "impossible to deny or disprove",
+        "ko": "반박할 수 없는, 명백한",
+        "synonyms": [
+          "incontrovertible",
+          "undeniable",
+          "indisputable",
+          "unassailable"
+        ],
+        "examples": [
+          {
+            "text": "The recovered documents provided irrefutable proof that the company had falsified its safety reports.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "re-",
+      "fut",
+      "-able"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 irrefūtābilis에서 왔습니다. 되받아 물리칠 수 없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "irresolute",
+    "score": 74,
+    "zipf": 1.49,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "uncertain how to act or proceed",
+        "ko": "우유부단한, 결단력 없는",
+        "synonyms": [
+          "indecisive",
+          "hesitant",
+          "vacillating",
+          "wavering",
+          "undecided"
+        ],
+        "examples": [
+          {
+            "text": "Irresolute about the merger, the board postponed its vote for a third time.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "re-",
+      "solv"
+    ],
+    "origin": {
+      "ko": "프랑스어 irrésolu에서 왔거나 ir-와 resolute(단호한)가 합쳐졌습니다. 마음을 정하지 못한 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "irreverent",
+    "score": 33,
+    "zipf": 2.82,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing lack of due respect or veneration",
+        "ko": "불경한, 공경심 없는",
+        "synonyms": [
+          "disrespectful",
+          "impertinent",
+          "flippant",
+          "impudent",
+          "sacrilegious"
+        ],
+        "examples": [
+          {
+            "text": "The comedian's irreverent take on national politics delighted students and infuriated officials.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "ver(두려움)"
+    ],
+    "origin": {
+      "ko": "라틴어 irreverēns에서 왔고 ir-와 reverent(경건한)가 합쳐졌습니다. 공경심이 없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "irrevocable",
+    "score": 33,
+    "zipf": 2.76,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Unable to be retracted or reversed; final.",
+        "ko": "취소할 수 없는, 돌이킬 수 없는",
+        "synonyms": [
+          "irreversible",
+          "final",
+          "unalterable",
+          "binding"
+        ],
+        "examples": [
+          {
+            "text": "Once the trust is signed, the transfer of assets is irrevocable.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "re-",
+      "voc",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 irrevocabilis에서 왔습니다. 뒤로 불러 되돌릴 수 없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "word": "ubiquitous",
+    "score": 59,
+    "zipf": 3.42,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "being present everywhere at once",
+        "ko": "어디에나 있는, 편재하는",
+        "synonyms": [
+          "omnipresent",
+          "pervasive",
+          "widespread",
+          "universal"
+        ],
+        "examples": [
+          {
+            "text": "Smartphones have become ubiquitous, appearing in the hands of nearly every commuter on the train.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ubi",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 ubīque('어디에나')에서 온 ubiquity에 -ous를 붙였습니다. 어디에나 있다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

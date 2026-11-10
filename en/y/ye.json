@@ -1,0 +1,47 @@
+[
+  {
+    "word": "yeoman",
+    "score": 34,
+    "zipf": 2.71,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "in former times was free and cultivated their own land",
+        "ko": "자영농, 독립 자작농",
+        "synonyms": [
+          "freeholder",
+          "small farmer"
+        ],
+        "examples": [
+          {
+            "text": "The English yeoman, owning his own modest farm, formed the backbone of the rural economy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A dependable, diligent, or loyal worker or someone who does a great service.",
+        "ko": "충직하고 성실한 일꾼",
+        "synonyms": [
+          "loyal servant",
+          "stalwart"
+        ],
+        "examples": [
+          {
+            "text": "She did yeoman work organizing the volunteers, and the festival ran smoothly because of her.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

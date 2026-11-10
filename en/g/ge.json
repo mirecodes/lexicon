@@ -1,0 +1,475 @@
+[
+  {
+    "word": "generate",
+    "score": 19,
+    "zipf": 4.22,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To bring into being; give rise to.",
+        "ko": "발생시키다, 만들어내다",
+        "synonyms": [
+          "produce",
+          "create",
+          "engender",
+          "spawn",
+          "cause"
+        ],
+        "examples": [
+          {
+            "text": "The discussion generated an uproar.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "produce (energy)",
+        "ko": "(에너지를) 발생시키다",
+        "synonyms": [
+          "produce",
+          "yield",
+          "create"
+        ],
+        "examples": [
+          {
+            "text": "The new wind farm will generate enough electricity to power forty thousand homes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "gen",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 generō '낳다, 만들어내다'에서 왔고, genus(종류, 가문)와 같은 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "genesis",
+    "score": 22,
+    "zipf": 3.85,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The origin, start, or point at which something comes into being.",
+        "ko": "기원, 발생",
+        "synonyms": [
+          "origin",
+          "inception",
+          "birth",
+          "beginning",
+          "source"
+        ],
+        "examples": [
+          {
+            "text": "Some point to the creation of Magna Carta as the genesis of English common law.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "gen"
+    ],
+    "origin": {
+      "ko": "그리스어 génesis '기원, 탄생'에서 라틴어를 거쳐 왔습니다. gen은 '태어나다, 낳다'를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "genial",
+    "score": 50,
+    "zipf": 2.72,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "diffusing warmth and friendliness",
+        "ko": "상냥한, 친절한",
+        "synonyms": [
+          "affable",
+          "amiable",
+          "cordial",
+          "congenial",
+          "warm"
+        ],
+        "examples": [
+          {
+            "text": "The genial innkeeper greeted every traveler as though he were an old friend.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Pleasantly mild and warm.",
+        "ko": "온화한, 쾌적한",
+        "synonyms": [
+          "mild",
+          "balmy",
+          "temperate",
+          "pleasant"
+        ],
+        "examples": [
+          {
+            "text": "The valley's genial climate allows farmers to grow citrus fruit well into November.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 geniālis '혼례의, 축제의'에서 왔고 genius(수호신)에서 나왔습니다. 잔치처럼 즐겁고 따뜻한 분위기가 '상냥한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "genteel",
+    "score": 35,
+    "zipf": 2.64,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by refinement in taste and manners",
+        "ko": "품위 있는, 점잖은",
+        "synonyms": [
+          "refined",
+          "polite",
+          "cultivated",
+          "well-bred",
+          "courteous"
+        ],
+        "examples": [
+          {
+            "text": "The genteel tea room was filled with elderly ladies in lace collars.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Affectedly proper or refined; somewhat prudish refinement; excessively polite.",
+        "ko": "고상한 척하는, 지나치게 점잔 빼는",
+        "synonyms": [
+          "prissy",
+          "prim",
+          "affected",
+          "pretentious"
+        ],
+        "examples": [
+          {
+            "text": "Their genteel horror at the slightest coarse word seemed more theater than sincere feeling.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "gent"
+    ],
+    "origin": {
+      "ko": "프랑스어 gentil에서 왔고 라틴어 gēns(씨족, 가문)가 뿌리입니다. 좋은 가문다운 품위가 '점잖은'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gentility",
+    "score": 31,
+    "zipf": 2.01,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "elegance by virtue of fineness of manner and expression",
+        "ko": "고상함, 품위",
+        "synonyms": [
+          "refinement",
+          "breeding",
+          "politeness",
+          "civility"
+        ],
+        "examples": [
+          {
+            "text": "Despite her family's lost fortune, she maintained an air of quiet gentility.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "gent",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 gentilité에서 왔습니다. 좋은 가문 출신다운 고상한 상태를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gentry",
+    "score": 29,
+    "zipf": 3.19,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "People of education and good breeding.",
+        "ko": "상류층, 신사 계급",
+        "synonyms": [
+          "aristocracy",
+          "upper class",
+          "nobility",
+          "elite"
+        ],
+        "examples": [
+          {
+            "text": "The landed gentry of the county gathered at the manor each autumn for the hunt.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "gent"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 genterie '귀족'에서 왔고, gent(좋은 가문 출신)에서 나온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "germane",
+    "score": 66,
+    "zipf": 2.33,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "relevant and appropriate",
+        "ko": "관련 있는, 적절한",
+        "synonyms": [
+          "pertinent",
+          "relevant",
+          "apposite",
+          "apt",
+          "material"
+        ],
+        "examples": [
+          {
+            "text": "The judge ruled that the defendant's past employment was not germane to the case.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "german '같은 부모에게서 난, 혈연의'의 변형입니다. 햄릿의 용례에서 '관련 있는'이라는 뜻으로 쓰였습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gerrymander",
+    "score": 32,
+    "zipf": 2.06,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "divide unfairly and to one's advantage; of voting districts",
+        "ko": "자기 당에 유리하게 선거구를 조작하다",
+        "synonyms": [
+          "rig",
+          "manipulate",
+          "redistrict"
+        ],
+        "examples": [
+          {
+            "text": "The ruling party was accused of gerrymandering districts to guarantee itself a legislative majority.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "1812년 매사추세츠 주지사 Gerry와 salamander(도롱뇽)의 합성어입니다. 새 선거구 모양이 도롱뇽 같다고 비꼰 데서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gestate",
+    "score": 28,
+    "zipf": 1.7,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To develop an idea.",
+        "ko": "(아이디어 등을) 구상하다, 서서히 발전시키다",
+        "synonyms": [
+          "incubate",
+          "conceive",
+          "develop",
+          "hatch"
+        ],
+        "examples": [
+          {
+            "text": "The novelist let the plot gestate for years before writing a single page.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "be pregnant with",
+        "ko": "임신하다, 잉태하다",
+        "synonyms": [
+          "carry",
+          "bear",
+          "expect"
+        ],
+        "examples": [
+          {
+            "text": "Elephants gestate their young for nearly two years, longer than any other land mammal.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ger",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "gestation에서 거꾸로 만든 말입니다. 아이를 배 속에 품듯 아이디어를 마음속에 품고 키운다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gestation",
+    "score": 31,
+    "zipf": 3.0,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The process of development of a plan or idea.",
+        "ko": "(계획·아이디어의) 구상 단계, 발전 과정",
+        "synonyms": [
+          "development",
+          "incubation",
+          "germination",
+          "evolution"
+        ],
+        "examples": [
+          {
+            "text": "The treaty had a long gestation, with draft proposals circulating for nearly a decade.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the period during which an embryo develops (about 266 days in humans)",
+        "ko": "임신 기간",
+        "synonyms": [
+          "pregnancy",
+          "gestation period"
+        ],
+        "examples": [
+          {
+            "text": "The gestation of a horse lasts about eleven months.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ger",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "라틴어 gestātiō에서 왔습니다. 배 속에 품고 나르는 기간이 '임신 기간, 구상 단계'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

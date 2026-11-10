@@ -1,0 +1,649 @@
+[
+  {
+    "word": "elaborate",
+    "score": 36,
+    "zipf": 4.06,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by complexity and richness of detail",
+        "ko": "정교한, 복잡하고 세부적인",
+        "synonyms": [
+          "intricate",
+          "detailed",
+          "complex",
+          "ornate",
+          "painstaking"
+        ],
+        "examples": [
+          {
+            "text": "an elaborate lace pattern",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing",
+        "ko": "상세히 설명하다, 부연하다",
+        "synonyms": [
+          "expand",
+          "expound",
+          "flesh out",
+          "enlarge",
+          "expatiate"
+        ],
+        "examples": [
+          {
+            "text": "She elaborated on the main ideas in her dissertation",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "labor",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 ēlabōrāre(공들여 만들어 내다)에서 왔습니다. 많은 노동을 들인 결과가 '정교한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "elated",
+    "score": 47,
+    "zipf": 2.97,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "exultantly proud and joyful; in high spirits",
+        "ko": "의기양양한, 매우 기뻐하는",
+        "synonyms": [
+          "jubilant",
+          "exultant",
+          "overjoyed",
+          "euphoric",
+          "gleeful"
+        ],
+        "examples": [
+          {
+            "text": "She was elated with her new car.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "lat(나르다)"
+    ],
+    "origin": {
+      "ko": "라틴어 ēlātus(들어 올려진)에서 왔습니다. 마음이 위로 들떠 오른 상태가 '의기양양'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "elegiac",
+    "score": 35,
+    "zipf": 2.41,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "expressing sorrow often for something past",
+        "ko": "애수 어린, 애상적인, 슬픔을 표현하는",
+        "synonyms": [
+          "mournful",
+          "plaintive",
+          "melancholy",
+          "sorrowful",
+          "wistful"
+        ],
+        "examples": [
+          {
+            "text": "The film's elegiac tone mourned a vanished way of rural life.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 elegeiakós에서 라틴어와 프랑스어를 거쳐 왔습니다. 애가(elegy)의 분위기를 띤다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "elegy",
+    "score": 50,
+    "zipf": 2.71,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a mournful poem; a lament for the dead",
+        "ko": "비가, 애가, 만가",
+        "synonyms": [
+          "lament",
+          "dirge",
+          "threnody",
+          "requiem"
+        ],
+        "examples": [
+          {
+            "text": "The poet composed an elegy for his friend who died at sea.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 elegeía(애도의 노래)에서 라틴어와 프랑스어를 거쳐 왔습니다. 죽은 이를 기리는 슬픈 시를 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "elementary",
+    "score": 18,
+    "zipf": 4.33,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of or being the essential or basic part",
+        "ko": "기본적인, 초보의, 근본적인",
+        "synonyms": [
+          "basic",
+          "fundamental",
+          "rudimentary",
+          "primary",
+          "essential"
+        ],
+        "examples": [
+          {
+            "text": "The lecture covered elementary principles of logic before turning to proofs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "easy and not involved or complicated",
+        "ko": "쉬운, 간단한",
+        "synonyms": [
+          "simple",
+          "easy",
+          "uncomplicated",
+          "straightforward"
+        ],
+        "examples": [
+          {
+            "text": "an elementary problem in statistics",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ary"
+    ],
+    "origin": {
+      "ko": "라틴어 elementum(기본 요소)에 -ārius가 붙었습니다. 모든 것의 기초가 되는 요소라서 '기본적인'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "elevate",
+    "score": 27,
+    "zipf": 3.38,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "raise in rank or condition",
+        "ko": "승격시키다, 높이다, 향상시키다",
+        "synonyms": [
+          "raise",
+          "promote",
+          "exalt",
+          "ennoble",
+          "uplift"
+        ],
+        "examples": [
+          {
+            "text": "The scandal-free decade elevated the small party from obscurity to national prominence.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To make (something or someone) more worthy or of greater value.",
+        "ko": "(가치·품격을) 끌어올리다",
+        "synonyms": [
+          "enhance",
+          "improve",
+          "refine",
+          "upgrade"
+        ],
+        "examples": [
+          {
+            "text": "A talented chef can elevate everyday ingredients into gourmet delights.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "lev",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 ēlevāre(들어 올리다)에서 왔습니다. 가볍게 해서 위로 올리는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "elicit",
+    "score": 78,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To draw out, bring out, bring forth (something latent); to obtain information from someone or something.",
+        "ko": "이끌어내다, 끌어내다, 유도하다",
+        "synonyms": [
+          "evoke",
+          "draw out",
+          "extract",
+          "educe",
+          "provoke"
+        ],
+        "examples": [
+          {
+            "text": "Fred wished to elicit the time of the meeting from Jane.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "lic(꾀다)"
+    ],
+    "origin": {
+      "ko": "라틴어 ēlicere(끌어내다)에서 왔습니다. 숨은 것을 밖으로 끌어내는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "elitist",
+    "score": 30,
+    "zipf": 3.07,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone who believes in rule by an elite group",
+        "ko": "엘리트주의자",
+        "synonyms": [
+          "snob",
+          "aristocrat",
+          "elite"
+        ],
+        "examples": [
+          {
+            "text": "Opponents branded him an elitist who distrusted the judgment of ordinary voters.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ist"
+    ],
+    "origin": {
+      "ko": "elite(엘리트)에 그리스어 계열 접미사 -ist가 붙었습니다. 엘리트가 다스려야 한다고 믿는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ellipsis",
+    "score": 35,
+    "zipf": 2.43,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "omission or suppression of parts of words or sentences",
+        "ko": "생략, 생략법",
+        "synonyms": [
+          "omission",
+          "elision"
+        ],
+        "examples": [
+          {
+            "text": "The writer's use of ellipsis forced readers to infer what the characters left unsaid.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "linqu"
+    ],
+    "origin": {
+      "ko": "그리스어 élleipsis(빠뜨림, 생략)에서 왔습니다. 말의 일부가 빠진 것을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "eloquent",
+    "score": 61,
+    "zipf": 3.21,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Fluently persuasive and articulate.",
+        "ko": "웅변의, 달변인, 설득력 있는",
+        "synonyms": [
+          "articulate",
+          "fluent",
+          "persuasive",
+          "silver-tongued",
+          "expressive"
+        ],
+        "examples": [
+          {
+            "text": "an eloquent writer",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "loqu",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 ēloquī(말을 쏟아내다)에서 왔습니다. 생각을 밖으로 막힘없이 말하는 '달변'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "elucidate",
+    "score": 66,
+    "zipf": 2.7,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make clear and (more) comprehensible",
+        "ko": "명료하게 하다, 설명하다, 해명하다",
+        "synonyms": [
+          "clarify",
+          "explain",
+          "illuminate",
+          "explicate",
+          "clear up"
+        ],
+        "examples": [
+          {
+            "text": "The footnotes elucidate several obscure references in the poet's late work.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "luc",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 ēlūcidāre(밝게 하다)에서 왔습니다. 어둠에 빛을 비추듯 '명료하게 설명하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "elude",
+    "score": 49,
+    "zipf": 2.78,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "escape, either physically or mentally",
+        "ko": "피하다, 교묘히 빠져나가다",
+        "synonyms": [
+          "evade",
+          "escape",
+          "dodge",
+          "avoid"
+        ],
+        "examples": [
+          {
+            "text": "The thief eluded the police",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "be incomprehensible to; escape understanding by",
+        "ko": "이해되지 않다, 기억나지 않다",
+        "synonyms": [
+          "escape",
+          "baffle",
+          "confound"
+        ],
+        "examples": [
+          {
+            "text": "I get algebra, but calculus eludes me.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "lud"
+    ],
+    "origin": {
+      "ko": "라틴어 ēlūdere(놀리며 빠져나가다)에서 왔습니다. 상대를 속이며 슬쩍 벗어나는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "elusive",
+    "score": 26,
+    "zipf": 3.47,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "difficult to detect or grasp by the mind or analyze",
+        "ko": "파악하기 어려운, 잡히지 않는",
+        "synonyms": [
+          "intangible",
+          "subtle",
+          "evasive",
+          "slippery",
+          "indefinable"
+        ],
+        "examples": [
+          {
+            "text": "A precise definition of diarrhea is elusive",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "skillful at eluding capture",
+        "ko": "잡기 어려운, 교묘히 피하는",
+        "synonyms": [
+          "evasive",
+          "slippery",
+          "fugitive"
+        ],
+        "examples": [
+          {
+            "text": "The elusive criminal was arrested",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "lud",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "라틴어 ēlūdere(피하다, 속이다)의 분사 ēlūsus에서 왔습니다. 자꾸 빠져나가 잡기 어렵다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "elysian",
+    "score": 36,
+    "zipf": 2.46,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "being of such surpassing excellence as to suggest inspiration by the gods",
+        "ko": "천상의, 더없이 행복한, 극락의",
+        "synonyms": [
+          "divine",
+          "heavenly",
+          "blissful",
+          "paradisiacal",
+          "celestial"
+        ],
+        "examples": [
+          {
+            "text": "They spent an elysian week on the quiet island, free of every worry.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

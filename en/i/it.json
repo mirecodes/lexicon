@@ -1,0 +1,84 @@
+[
+  {
+    "word": "itinerant",
+    "score": 81,
+    "zipf": 2.82,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Habitually travelling from place to place.",
+        "ko": "떠돌아다니는, 순회하는",
+        "synonyms": [
+          "nomadic",
+          "wandering",
+          "peripatetic",
+          "roving",
+          "traveling"
+        ],
+        "examples": [
+          {
+            "text": "an itinerant preacher or peddler",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "iter(길)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 itinerantem '여행하는'에서 왔고 iter(길)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "itinerary",
+    "score": 29,
+    "zipf": 3.23,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A route or proposed route of a journey.",
+        "ko": "여행 일정, 여정",
+        "synonyms": [
+          "route",
+          "schedule",
+          "journey plan",
+          "course"
+        ],
+        "examples": [
+          {
+            "text": "The senator's itinerary includes stops in six cities over the course of a single week.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "iter(길)",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "라틴어 itinerārium '여행 기록, 길 안내서'에서 왔고 iter(길)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

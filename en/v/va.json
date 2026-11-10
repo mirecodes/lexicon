@@ -1,0 +1,743 @@
+[
+  {
+    "word": "vacate",
+    "score": 30,
+    "zipf": 3.14,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cancel officially",
+        "ko": "취소하다, 무효로 하다",
+        "synonyms": [
+          "annul",
+          "revoke",
+          "rescind",
+          "overturn",
+          "nullify"
+        ],
+        "examples": [
+          {
+            "text": "The appeals court vacated the earlier ruling after finding that the trial judge had misapplied the law.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "leave behind empty; move out of",
+        "ko": "비우다, 떠나다",
+        "synonyms": [
+          "evacuate",
+          "abandon",
+          "leave"
+        ],
+        "examples": [
+          {
+            "text": "You must vacate your office by tonight",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To leave an office or position.",
+        "ko": "직위에서 물러나다",
+        "synonyms": [
+          "resign",
+          "step down",
+          "quit"
+        ],
+        "examples": [
+          {
+            "text": "He vacated his coaching position because of the corruption scandal.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vac",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 vacō('비어 있다')에서 왔습니다. 법에서 '무효로 하다'로 쓰이다가 '비우다'로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vacillate",
+    "score": 77,
+    "zipf": 1.77,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To swing indecisively from one course of action or opinion to another.",
+        "ko": "우유부단하게 흔들리다, 망설이다",
+        "synonyms": [
+          "waver",
+          "hesitate",
+          "dither",
+          "oscillate",
+          "equivocate"
+        ],
+        "examples": [
+          {
+            "text": "Though it is vital to be alert for circumstances which require a change of plan, it is fatal to vacillate.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 vacillō('흔들리다')에서 왔습니다. 이리저리 비틀거리듯 마음이 오가는 것이 '망설이다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vacuous",
+    "score": 52,
+    "zipf": 2.54,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "devoid of significance or force",
+        "ko": "내용 없는, 공허한",
+        "synonyms": [
+          "empty",
+          "hollow",
+          "meaningless",
+          "inane"
+        ],
+        "examples": [
+          {
+            "text": "The candidate's speech was full of vacuous slogans that said nothing about actual policy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "devoid of intelligence or thought",
+        "ko": "멍청한, 생각 없는",
+        "synonyms": [
+          "vacant",
+          "mindless",
+          "blank",
+          "fatuous"
+        ],
+        "examples": [
+          {
+            "text": "A vacuous smile spread across his face as the lecturer went on.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vac",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 vacuus('텅 빈')에 -ous를 붙였습니다. 속이 비어 '내용 없는'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vagary",
+    "score": 23,
+    "zipf": 1.17,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an unexpected and inexplicable change in something (in a situation or a person's behavior, etc.)",
+        "ko": "예측 불가한 변덕, 뜻밖의 변화",
+        "synonyms": [
+          "whim",
+          "caprice",
+          "quirk",
+          "fluctuation"
+        ],
+        "examples": [
+          {
+            "text": "Farmers must plan around the vagaries of the weather, which can ruin a harvest overnight.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vag"
+    ],
+    "origin": {
+      "ko": "라틴어 vagārī('떠돌다')에서 왔습니다. 정처 없이 떠돌듯 종잡을 수 없는 변화입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vain",
+    "score": 24,
+    "zipf": 3.74,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Effecting no purpose; pointless, futile.",
+        "ko": "헛된, 소용없는",
+        "synonyms": [
+          "futile",
+          "fruitless",
+          "pointless",
+          "ineffectual"
+        ],
+        "examples": [
+          {
+            "text": "Rescuers made a vain attempt to reach the stranded climbers before the storm closed in.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Overly proud of oneself, especially concerning appearance; having a high opinion of one's own accomplishments with slight reason.",
+        "ko": "허영심 많은, 자만하는",
+        "synonyms": [
+          "conceited",
+          "narcissistic",
+          "egotistical",
+          "proud"
+        ],
+        "examples": [
+          {
+            "text": "Every writer is a narcissist. This does not mean that he is vain; it only means that he is hopelessly self-absorbed.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "van"
+    ],
+    "origin": {
+      "ko": "라틴어 vānus('텅 빈')에서 왔습니다. 속이 비어 '헛된'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vainglorious",
+    "score": 30,
+    "zipf": 1.92,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Possessing excessive vanity or unwarranted pride.",
+        "ko": "허영에 찬, 과시적으로 자만하는",
+        "synonyms": [
+          "boastful",
+          "arrogant",
+          "conceited",
+          "swaggering"
+        ],
+        "examples": [
+          {
+            "text": "The vainglorious king commissioned a hundred statues of himself to celebrate a minor victory.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "van",
+      "glor",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 vānus('빈')와 glōriōsus('영광스러운')의 결합입니다. 알맹이 없는 영광을 뽐내는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "valor",
+    "score": 29,
+    "zipf": 3.23,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle)",
+        "ko": "용맹, 용기",
+        "synonyms": [
+          "courage",
+          "bravery",
+          "heroism",
+          "gallantry",
+          "valiance"
+        ],
+        "examples": [
+          {
+            "text": "he received a medal for valor",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "val"
+    ]
+  },
+  {
+    "word": "vanguard",
+    "score": 26,
+    "zipf": 3.53,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the position of greatest importance or advancement; the leading position in any movement or field",
+        "ko": "선봉, 최첨단",
+        "synonyms": [
+          "forefront",
+          "cutting edge",
+          "avant-garde",
+          "spearhead"
+        ],
+        "examples": [
+          {
+            "text": "The laboratory has remained in the vanguard of research on renewable energy for two decades.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The leading units at the front of an army or fleet.",
+        "ko": "전위 부대, 선발대",
+        "synonyms": [
+          "van",
+          "advance guard"
+        ],
+        "examples": [
+          {
+            "text": "The army's vanguard crossed the river at dawn, well ahead of the main force.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 avant('앞')와 garde('경비')의 결합입니다. 맨 앞에서 지키는 부대가 '선봉'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vanquish",
+    "score": 51,
+    "zipf": 2.62,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To defeat (someone); to overcome.",
+        "ko": "정복하다, 완파하다, 극복하다",
+        "synonyms": [
+          "conquer",
+          "defeat",
+          "overcome",
+          "subdue",
+          "rout"
+        ],
+        "examples": [
+          {
+            "text": "After years of struggle, the young champion finally vanquished her long-time rival in the final match.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vinc"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 veincre에서 왔고 라틴어 vincō('이기다')와 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vapid",
+    "score": 52,
+    "zipf": 2.5,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking significance or liveliness or spirit or zest",
+        "ko": "생기 없는, 따분한",
+        "synonyms": [
+          "insipid",
+          "dull",
+          "lifeless",
+          "banal",
+          "uninspired"
+        ],
+        "examples": [
+          {
+            "text": "The talk show host's vapid chatter filled the hour without offering a single memorable idea.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "lacking taste or flavor or tang",
+        "ko": "맛이 없는, 김빠진",
+        "synonyms": [
+          "bland",
+          "flavorless",
+          "flat",
+          "insipid"
+        ],
+        "examples": [
+          {
+            "text": "The vapid soup tasted of nothing but warm water and a hint of salt.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vap",
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 vapidus('김빠진')에서 왔습니다. 맛이 빠진 음료처럼 생기 없는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "variance",
+    "score": 26,
+    "zipf": 3.45,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a difference between conflicting facts or claims or opinions",
+        "ko": "불일치, 차이, 상충",
+        "synonyms": [
+          "discrepancy",
+          "disagreement",
+          "divergence"
+        ],
+        "examples": [
+          {
+            "text": "The witness's account was at variance with the security footage, which raised doubts about her testimony.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the second moment around the mean; the expected value of the square of the deviations of a random variable from its mean value",
+        "ko": "분산",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "A larger variance means the data points are spread more widely around the average value.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an official dispensation to act contrary to a rule or regulation (typically a building regulation)",
+        "ko": "규정의 예외 허가",
+        "synonyms": [
+          "exemption",
+          "dispensation"
+        ],
+        "examples": [
+          {
+            "text": "a zoning variance",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vari",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "라틴어 variantia에서 왔고 vary에 -ance를 붙인 형태입니다. 서로 달라서 '불일치'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "variegated",
+    "score": 35,
+    "zipf": 2.62,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Streaked, spotted, or otherwise marked with a variety of color.",
+        "ko": "얼룩덜룩한, 여러 색의 무늬가 있는",
+        "synonyms": [
+          "mottled",
+          "dappled",
+          "motley",
+          "multicolored",
+          "streaked"
+        ],
+        "examples": [
+          {
+            "text": "The garden was bordered by variegated leaves splashed with cream and green.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Varied, heterogeneous, motley",
+        "ko": "다양한, 잡다한",
+        "synonyms": [
+          "diverse",
+          "varied",
+          "heterogeneous"
+        ],
+        "examples": [
+          {
+            "text": "The city's variegated population includes immigrants from dozens of countries.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vari",
+      "-ate"
+    ]
+  },
+  {
+    "word": "vassal",
+    "score": 32,
+    "zipf": 2.92,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person holding a fief; a person who owes allegiance and service to a feudal lord",
+        "ko": "봉신, 가신",
+        "synonyms": [
+          "feudatory",
+          "liegeman",
+          "retainer"
+        ],
+        "examples": [
+          {
+            "text": "Each vassal swore loyalty to the duke and pledged knights for his wars in exchange for land.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Any subordinate bound by similar close ties.",
+        "ko": "종속된 자, 부하",
+        "synonyms": [
+          "subordinate",
+          "underling",
+          "servant"
+        ],
+        "examples": [
+          {
+            "text": "The smaller nation was little more than a vassal of its powerful neighbor.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 라틴어 vassallus('하인')에서 왔고 켈트어 계통의 '젊은이, 종'에서 나왔습니다. 주군을 섬기는 '봉신'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vat",
+    "score": 26,
+    "zipf": 3.54,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a large open vessel for holding or storing liquids",
+        "ko": "큰 통, 대형 용기",
+        "synonyms": [
+          "tub",
+          "tank",
+          "cistern"
+        ],
+        "examples": [
+          {
+            "text": "a vat of liquid",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 fæt('통, 그릇')의 방언형 vat에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vaunt",
+    "score": 25,
+    "zipf": 1.39,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "show off",
+        "ko": "자랑하다, 과시하다",
+        "synonyms": [
+          "boast",
+          "brag",
+          "flaunt",
+          "parade"
+        ],
+        "examples": [
+          {
+            "text": "The company vaunted its record profits while quietly cutting hundreds of jobs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "van"
+    ],
+    "origin": {
+      "ko": "라틴어 vānus('헛된, 허풍 떠는')에서 온 고대 프랑스어 vanter에서 왔습니다. 속 빈 말로 뽐내는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

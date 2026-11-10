@@ -1,0 +1,799 @@
+[
+  {
+    "word": "crabbed",
+    "score": 26,
+    "zipf": 1.54,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Bad-tempered or cantankerous.",
+        "ko": "심술궂은, 까다로운",
+        "synonyms": [
+          "cantankerous",
+          "irritable",
+          "peevish",
+          "grouchy"
+        ],
+        "examples": [
+          {
+            "text": "The crabbed old librarian scowled at every student who dared to whisper between the stacks.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Crowded together and difficult to read.",
+        "ko": "빽빽해서 읽기 어려운, 난해한",
+        "synonyms": [
+          "cramped",
+          "illegible",
+          "indecipherable"
+        ],
+        "examples": [
+          {
+            "text": "Her crabbed handwriting forced the archivist to spend hours deciphering a single page of the diary.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "crab(게)에 -ed가 붙은 말입니다. 게처럼 까칠한 성미를 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "crafty",
+    "score": 29,
+    "zipf": 3.21,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by skill in deception",
+        "ko": "교활한, 간교한",
+        "synonyms": [
+          "cunning",
+          "wily",
+          "sly",
+          "foxy",
+          "guileful"
+        ],
+        "examples": [
+          {
+            "text": "The crafty negotiator concealed his true aims until the other side had already conceded the key points.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-y"
+    ],
+    "origin": {
+      "ko": "고대 영어 cræftiġ에서 왔고 craft(힘, 기술)에 -y가 붙었습니다. 원래 '힘센, 재주 있는'이었다가 '교활한'으로 기울었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "craven",
+    "score": 93,
+    "zipf": 3.19,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking even the rudiments of courage; abjectly fearful",
+        "ko": "겁 많은, 비겁한",
+        "synonyms": [
+          "cowardly",
+          "pusillanimous",
+          "spineless",
+          "recreant"
+        ],
+        "examples": [
+          {
+            "text": "the craven fellow turned and ran",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an abject coward",
+        "ko": "겁쟁이, 비겁자",
+        "synonyms": [
+          "poltroon",
+          "coward",
+          "recreant"
+        ],
+        "examples": [
+          {
+            "text": "Critics branded the senator a craven who abandoned his principles at the first sign of public pressure.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 cravanté(패배한)에서 온 것으로 봅니다. 패배한 자의 모습에서 '겁쟁이'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "credence",
+    "score": 46,
+    "zipf": 3.08,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Acceptance of a belief or claim as true, especially on the basis of evidence.",
+        "ko": "신빙성, 믿음",
+        "synonyms": [
+          "belief",
+          "acceptance",
+          "faith",
+          "trust"
+        ],
+        "examples": [
+          {
+            "text": "Based on the scientific data, I give credence to this hypothesis.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cred",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "라틴어 crēdō(믿다)에서 중세 라틴어 crēdentia(믿음)로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "credibility",
+    "score": 22,
+    "zipf": 3.88,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the quality of being believable or trustworthy",
+        "ko": "신뢰성, 신빙성",
+        "synonyms": [
+          "believability",
+          "trustworthiness",
+          "plausibility"
+        ],
+        "examples": [
+          {
+            "text": "The newspaper lost much of its credibility after it published the fabricated interview.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cred",
+      "-able",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "credible에 -ity가 붙은 말로, 라틴어 crēdō(믿다)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "credible",
+    "score": 39,
+    "zipf": 3.77,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "capable of being believed",
+        "ko": "믿을 만한, 그럴듯한",
+        "synonyms": [
+          "believable",
+          "plausible",
+          "convincing"
+        ],
+        "examples": [
+          {
+            "text": "The defense offered no credible explanation for why the documents had been shredded.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Dependable, trustworthy, or reliable.",
+        "ko": "신뢰할 수 있는, 믿음직한",
+        "synonyms": [
+          "reliable",
+          "trustworthy",
+          "dependable"
+        ],
+        "examples": [
+          {
+            "text": "credible sources",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cred",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 crēdibilis(믿을 만한)에서 왔고, crēdō(믿다)에서 나온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "creditable",
+    "score": 36,
+    "zipf": 2.52,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "worthy of often limited commendation",
+        "ko": "칭찬할 만한, 훌륭하진 않아도 괜찮은",
+        "synonyms": [
+          "commendable",
+          "praiseworthy",
+          "respectable",
+          "laudable"
+        ],
+        "examples": [
+          {
+            "text": "the student's effort on the essay — though not outstanding — was creditable",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cred",
+      "-able"
+    ]
+  },
+  {
+    "word": "credo",
+    "score": 33,
+    "zipf": 2.77,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "any system of principles or beliefs",
+        "ko": "신조, 신념 체계",
+        "synonyms": [
+          "creed",
+          "doctrine",
+          "tenet",
+          "belief"
+        ],
+        "examples": [
+          {
+            "text": "The company's credo, printed on every wall, insisted that employees put customers before profit.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cred"
+    ],
+    "origin": {
+      "ko": "라틴어 crēdō '나는 믿는다'를 그대로 가져왔습니다. 신앙 고백의 첫 말이 '신조'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "credulity",
+    "score": 34,
+    "zipf": 2.33,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "tendency to believe readily",
+        "ko": "쉽게 믿는 성향, 경신",
+        "synonyms": [
+          "gullibility",
+          "credulousness",
+          "naivety"
+        ],
+        "examples": [
+          {
+            "text": "a tall story that strains credulity",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cred",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 crēdulitās에서 왔고 credulous에 -ity가 붙은 형태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "credulous",
+    "score": 34,
+    "zipf": 2.29,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "disposed to believe on little evidence",
+        "ko": "쉽게 믿는, 속기 쉬운",
+        "synonyms": [
+          "gullible",
+          "naive",
+          "unsuspecting"
+        ],
+        "examples": [
+          {
+            "text": "the gimmick would convince none but the most credulous",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cred",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 crēdulus(쉽게 믿는)에서 왔고 crēdō(나는 믿는다)에서 나온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "crescendo",
+    "score": 65,
+    "zipf": 2.83,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A gradual increase of anything, especially to a dramatic climax.",
+        "ko": "점차 고조됨, 절정",
+        "synonyms": [
+          "climax",
+          "peak",
+          "culmination"
+        ],
+        "examples": [
+          {
+            "text": "Their fighting rose in a fearsome crescendo.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "grow louder",
+        "ko": "점점 세지다, 고조되다",
+        "synonyms": [
+          "swell",
+          "intensify",
+          "build"
+        ],
+        "examples": [
+          {
+            "text": "The protests crescendoed through the summer until the government finally agreed to negotiate.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cresc"
+    ],
+    "origin": {
+      "ko": "이탈리아어 crescere(자라다, 커지다)의 현재분사에서 왔습니다. 소리가 점점 커지는 음악 용어였습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "crestfallen",
+    "score": 49,
+    "zipf": 2.16,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Sad because of a disappointment.",
+        "ko": "풀이 죽은, 낙담한",
+        "synonyms": [
+          "dejected",
+          "dispirited",
+          "disheartened",
+          "deflated"
+        ],
+        "examples": [
+          {
+            "text": "The crestfallen candidate watched the returns come in and knew the election was lost.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "crest(볏, 머리장식)와 fallen의 합성어입니다. 패배한 말이 목을 떨구거나 수탉이 볏을 늘어뜨린 모습에서 '풀 죽은'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "crevice",
+    "score": 35,
+    "zipf": 2.62,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A narrow crack or fissure, as in a rock or wall.",
+        "ko": "갈라진 틈, 균열",
+        "synonyms": [
+          "crack",
+          "fissure",
+          "cleft",
+          "cranny"
+        ],
+        "examples": [
+          {
+            "text": "Lichen clung to every crevice of the cliff face, surviving on rainwater and wind-blown dust.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 crepō(갈라지다, 터지다)에서 고대 프랑스어 crevace를 거쳐 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "crew",
+    "score": 16,
+    "zipf": 4.7,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A group of people working together on a task.",
+        "ko": "작업반, 일단의 사람들",
+        "synonyms": [
+          "team",
+          "gang",
+          "squad"
+        ],
+        "examples": [
+          {
+            "text": "A road crew worked through the night to repair the bridge before the morning commute.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A close group of friends.",
+        "ko": "친구 무리, 패거리",
+        "synonyms": [
+          "gang",
+          "crowd",
+          "clique"
+        ],
+        "examples": [
+          {
+            "text": "I’d look out for that whole crew down at Jack’s.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cresc"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 creue(증원군)에서 왔고 라틴어 crescere(자라다)와 이어집니다. 불어난 인원이 '일단의 사람들'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "crone",
+    "score": 35,
+    "zipf": 2.6,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An ugly, evil-looking, or frightening old woman; a hag.",
+        "ko": "추한 노파, 마귀할멈",
+        "synonyms": [
+          "hag",
+          "witch",
+          "beldam"
+        ],
+        "examples": [
+          {
+            "text": "In the fairy tale, a toothless crone offers the lost children a poisoned apple.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "앵글로노르만어 carogne(썩은 고기, 늙은 암양)에서 왔습니다. 시체에 빗댄 욕설이 '추한 노파'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "croon",
+    "score": 33,
+    "zipf": 2.2,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "sing softly",
+        "ko": "나직이 노래하다, 감상적으로 부르다",
+        "synonyms": [
+          "hum",
+          "warble",
+          "sing softly"
+        ],
+        "examples": [
+          {
+            "text": "She crooned a lullaby to the baby until his eyelids finally drooped and closed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 네덜란드어 crônen(신음하다, 한탄하다)에서 왔다고 봅니다. 낮게 웅얼대는 소리가 '나직이 노래하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cryptic",
+    "score": 45,
+    "zipf": 3.23,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having a secret or hidden meaning",
+        "ko": "숨은 뜻이 있는, 수수께끼 같은",
+        "synonyms": [
+          "enigmatic",
+          "mysterious",
+          "obscure",
+          "inscrutable"
+        ],
+        "examples": [
+          {
+            "text": "cryptic writings",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having a puzzling terseness",
+        "ko": "간결해서 모호한, 알쏭달쏭한",
+        "synonyms": [
+          "terse",
+          "puzzling",
+          "elliptical"
+        ],
+        "examples": [
+          {
+            "text": "a cryptic note",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "crypt",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 krúptō(숨기다)에서 kruptós(숨은)를 거쳐 왔습니다. 숨겨진 뜻이 있다는 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "crystallize",
+    "score": 34,
+    "zipf": 2.35,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To give a definite or precise form to (something).",
+        "ko": "구체화하다, 명확한 형태를 갖추게 하다",
+        "synonyms": [
+          "solidify",
+          "clarify",
+          "formalize"
+        ],
+        "examples": [
+          {
+            "text": "After some thought, I crystallized my ideas for the paper.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To take a definite form.",
+        "ko": "구체화되다, 뚜렷해지다",
+        "synonyms": [
+          "take shape",
+          "jell",
+          "solidify"
+        ],
+        "examples": [
+          {
+            "text": "My ideas crystallized overnight.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ize"
+    ],
+    "origin": {
+      "ko": "crystal에 -ize가 붙은 말입니다. 그리스어 krústallos(얼음, 수정)에서 왔고, 흐릿한 것이 결정처럼 뚜렷해진다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "word": "rubric",
+    "score": 34,
+    "zipf": 2.75,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A title of a category or a class.",
+        "ko": "항목, 분류 명칭",
+        "synonyms": [
+          "category",
+          "heading",
+          "title"
+        ],
+        "examples": [
+          {
+            "text": "That would fall under the rubric of things we can ignore for now.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an authoritative rule of conduct or procedure",
+        "ko": "규정, 지침",
+        "synonyms": [
+          "guideline",
+          "rule",
+          "protocol"
+        ],
+        "examples": [
+          {
+            "text": "Under the university's rubric, any plagiarized assignment must be reported to the dean.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A set of scoring criteria for evaluating student work and for giving feedback.",
+        "ko": "평가 기준표",
+        "synonyms": [
+          "scoring guide",
+          "criteria"
+        ],
+        "examples": [
+          {
+            "text": "We refer to the rubric when marking oral examinations.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "rubr"
+    ],
+    "origin": {
+      "ko": "라틴어 rubrica(붉은 흙)에서 왔습니다. 붉은 글씨로 쓴 제목이 항목, 분류명이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rudiment",
+    "score": 24,
+    "zipf": 1.27,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A fundamental principle or skill, especially in a field of learning.",
+        "ko": "기본 원리, 기초",
+        "synonyms": [
+          "basics",
+          "fundamentals",
+          "essentials",
+          "elements"
+        ],
+        "examples": [
+          {
+            "text": "We'll be learning the rudiments of thermodynamics next week.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A form that lacks full or complex development.",
+        "ko": "초기 단계, 미발달 형태",
+        "synonyms": [
+          "embryo",
+          "germ",
+          "beginning"
+        ],
+        "examples": [
+          {
+            "text": "I have the rudiments of an escape plan.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the remains of a body part that was functional at an earlier stage of life",
+        "ko": "퇴화 기관, 흔적 기관",
+        "synonyms": [
+          "vestige"
+        ],
+        "examples": [
+          {
+            "text": "The whale's pelvic bones are the rudiments of limbs its ancestors once used for walking.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "rud",
+      "-ment"
+    ],
+    "origin": {
+      "ko": "라틴어 rudimentum(첫 시도)에서 왔습니다. 아직 다듬어지지 않은 기초라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rudimentary",
+    "score": 61,
+    "zipf": 3.17,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Basic; minimal; with less than, or only the minimum, necessary.",
+        "ko": "기초적인, 초보적인",
+        "synonyms": [
+          "basic",
+          "elementary",
+          "primitive",
+          "crude"
+        ],
+        "examples": [
+          {
+            "text": "I have only a rudimentary grasp of chemistry.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "being in the earliest stages of development",
+        "ko": "초기 단계의, 미발달의",
+        "synonyms": [
+          "undeveloped",
+          "embryonic",
+          "immature"
+        ],
+        "examples": [
+          {
+            "text": "rudimentary plans",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not fully developed in mature animals",
+        "ko": "퇴화한, 흔적만 남은",
+        "synonyms": [
+          "vestigial"
+        ],
+        "examples": [
+          {
+            "text": "rudimentary wings",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "rud",
+      "-ment",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "rudiment에 -ary가 붙은 말로, 아직 다듬어지지 않은 초보적인 상태를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rue",
+    "score": 25,
+    "zipf": 3.56,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To repent of or regret (some past action or event); to wish that a past action or event had not taken place.",
+        "ko": "후회하다, 한탄하다",
+        "synonyms": [
+          "regret",
+          "repent",
+          "lament",
+          "deplore"
+        ],
+        "examples": [
+          {
+            "text": "I rued the day I crossed paths with her.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "sadness associated with some wrong done or some disappointment",
+        "ko": "후회, 회한",
+        "synonyms": [
+          "sorrow",
+          "regret",
+          "remorse",
+          "ruefulness"
+        ],
+        "examples": [
+          {
+            "text": "He accepted the verdict with quiet rue, wishing he had spoken up years earlier.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 hrēow(슬픔, 뉘우침)에서 왔습니다. 마음의 아픔이 지난 일을 후회하는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ruminate",
+    "score": 49,
+    "zipf": 2.17,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "reflect deeply on a subject",
+        "ko": "곰곰이 생각하다, 숙고하다",
+        "synonyms": [
+          "ponder",
+          "muse",
+          "meditate",
+          "contemplate",
+          "mull"
+        ],
+        "examples": [
+          {
+            "text": "She would ruminate for days over a single decision, weighing every possible consequence.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "chew the cuds",
+        "ko": "되새김질하다",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "cows ruminate",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 rūminor(되새김질하다)에서 왔습니다. 소가 되새김하듯 생각을 되씹는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ruse",
+    "score": 29,
+    "zipf": 3.16,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An action intended to deceive; a trick.",
+        "ko": "책략, 계략, 속임수",
+        "synonyms": [
+          "ploy",
+          "stratagem",
+          "artifice",
+          "subterfuge",
+          "trick"
+        ],
+        "examples": [
+          {
+            "text": "The charity call was merely a ruse to obtain the elderly woman's bank details.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어에서 온 말로, 쫓기는 짐승이 사냥꾼을 따돌리려 이리저리 피하는 동작을 뜻했습니다. 거기서 속임수가 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rustic",
+    "score": 43,
+    "zipf": 3.37,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characteristic of rural life",
+        "ko": "시골풍의, 소박한",
+        "synonyms": [
+          "rural",
+          "pastoral",
+          "countrified",
+          "bucolic"
+        ],
+        "examples": [
+          {
+            "text": "The inn's rustic charm, with its stone walls and wooden beams, drew tourists from the city.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "awkwardly simple and provincial",
+        "ko": "촌스러운, 세련되지 못한",
+        "synonyms": [
+          "unsophisticated",
+          "provincial",
+          "uncouth"
+        ],
+        "examples": [
+          {
+            "text": "The city snobs mocked his rustic manners, though he was far shrewder than he appeared.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "rus",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "라틴어 rūsticus(시골의)에서 왔습니다. 시골의 소박한 모습을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

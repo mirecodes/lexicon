@@ -1,0 +1,4100 @@
+[
+  {
+    "word": "dearth",
+    "score": 80,
+    "zipf": 2.92,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Scarcity; a lack or short supply.",
+        "ko": "부족, 결핍",
+        "synonyms": [
+          "scarcity",
+          "paucity",
+          "shortage",
+          "lack"
+        ],
+        "examples": [
+          {
+            "text": "A dearth of signalmen and the high cost of labour is hastening an elimination process that already was well under way before the second world war.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "dear(귀한)에 -th가 붙은 말입니다. 물건이 귀해지는 것, 곧 '부족'을 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "debacle",
+    "score": 29,
+    "zipf": 3.21,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a sudden and violent collapse",
+        "ko": "참패, 총체적 붕괴",
+        "synonyms": [
+          "fiasco",
+          "catastrophe",
+          "rout",
+          "disaster"
+        ],
+        "examples": [
+          {
+            "text": "The merger turned into a financial debacle that cost thousands of employees their jobs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-"
+    ],
+    "origin": {
+      "ko": "프랑스어 débâcler(빗장을 풀다)에서 왔습니다. 막아둔 것이 풀려 쏟아지듯 '총체적 붕괴'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "debase",
+    "score": 64,
+    "zipf": 2.1,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To lower in character, quality, or value; to degrade.",
+        "ko": "품위를 떨어뜨리다, 질을 저하시키다",
+        "synonyms": [
+          "degrade",
+          "demean",
+          "cheapen",
+          "adulterate"
+        ],
+        "examples": [
+          {
+            "text": "Critics argued that constant sensationalism had debased the quality of public debate on television.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To lower the value of (a currency) by reducing the amount of valuable metal in the coins.",
+        "ko": "(화폐의) 품위를 낮추다, 질 낮은 금속을 섞다",
+        "synonyms": [
+          "alloy",
+          "adulterate"
+        ],
+        "examples": [
+          {
+            "text": "Roman emperors repeatedly debased the silver denarius to pay for their costly military campaigns.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "base"
+    ],
+    "origin": {
+      "ko": "de-와 base(낮은)를 합친 말입니다. 질을 낮은 쪽으로 끌어내린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "debilitating",
+    "score": 29,
+    "zipf": 3.19,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "impairing the strength and vitality",
+        "ko": "쇠약하게 만드는, 힘을 빼앗는",
+        "synonyms": [
+          "enfeebling",
+          "weakening",
+          "draining",
+          "crippling"
+        ],
+        "examples": [
+          {
+            "text": "She suffered from a debilitating illness that left her too weak to climb stairs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "bil(힘)"
+    ]
+  },
+  {
+    "word": "debonair",
+    "score": 34,
+    "zipf": 2.33,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having a sophisticated charm",
+        "ko": "세련되고 매력적인, 말쑥한",
+        "synonyms": [
+          "suave",
+          "urbane",
+          "charming",
+          "dapper"
+        ],
+        "examples": [
+          {
+            "text": "The debonair host greeted each guest by name and kept every conversation effortlessly alive.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 de bon aire '좋은 혈통의'에서 왔습니다. 품위 있는 사람의 태도가 '세련된'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "debunk",
+    "score": 82,
+    "zipf": 2.68,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To discredit, or expose to ridicule the falsehood or the exaggerated claims of something; to refute.",
+        "ko": "허위를 폭로하다, 거짓임을 밝히다",
+        "synonyms": [
+          "expose",
+          "refute",
+          "discredit",
+          "disprove"
+        ],
+        "examples": [
+          {
+            "text": "The physicist debunked the psychic's claims",
+            "source": "oewn"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-"
+    ],
+    "origin": {
+      "ko": "de-(제거)에 bunk(헛소리)를 합친 1923년의 말입니다. 헛소리를 걷어내니 '허위를 폭로하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "debutante",
+    "score": 36,
+    "zipf": 2.52,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A young woman who makes her first formal appearance in society.",
+        "ko": "사교계에 처음 나서는 젊은 여성",
+        "synonyms": [
+          "deb"
+        ],
+        "examples": [
+          {
+            "text": "The debutante curtsied to the guests at the ball her family had hosted in her honor.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 débutante에서 왔고 debut(첫 등장)에 -ante가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "decadence",
+    "score": 32,
+    "zipf": 2.86,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the state of being degenerate in mental or moral qualities",
+        "ko": "퇴폐, 타락",
+        "synonyms": [
+          "degeneracy",
+          "decay",
+          "degeneration",
+          "dissolution"
+        ],
+        "examples": [
+          {
+            "text": "Historians often cite the decadence of the late empire as a cause of its eventual fall.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "With a positive connotation: the quality of being luxuriously enjoyable or self-indulgent, especially of food; luxuriousness, richness.",
+        "ko": "사치스러운 탐닉, 호화로움",
+        "synonyms": [
+          "luxuriousness",
+          "indulgence",
+          "opulence"
+        ],
+        "examples": [
+          {
+            "text": "the decadence of a five-star hotel",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "cad",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 decadentia에서 왔고 '아래로 떨어짐'이 어원입니다. 쇠퇴하는 상태가 '퇴폐'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "decadent",
+    "score": 31,
+    "zipf": 3.04,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by excessive self-indulgence and moral decay",
+        "ko": "퇴폐적인, 타락한",
+        "synonyms": [
+          "degenerate",
+          "corrupt",
+          "dissolute",
+          "debauched"
+        ],
+        "examples": [
+          {
+            "text": "a decadent life of excessive money and no sense of responsibility",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "luxuriously self-indulgent",
+        "ko": "호화롭게 탐닉하는, 사치스러운",
+        "synonyms": [
+          "indulgent",
+          "luxurious",
+          "sybaritic",
+          "hedonistic"
+        ],
+        "examples": [
+          {
+            "text": "I spent a decadent day at a spa",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "cad",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 dēcadere(아래로 떨어지다)에서 왔습니다. 몰락해 가는 상태를 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "decimation",
+    "score": 34,
+    "zipf": 2.35,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The killing or destruction of any large portion of a population.",
+        "ko": "대량 살상, 대규모 파괴",
+        "synonyms": [
+          "devastation",
+          "slaughter",
+          "annihilation",
+          "carnage"
+        ],
+        "examples": [
+          {
+            "text": "The plague caused the decimation of villages across the valley within a single winter.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "decim",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "라틴어 decimātiō에서 왔습니다. 로마군이 열 명 중 한 명을 처형한 벌에서 '대량 살상'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "decipher",
+    "score": 30,
+    "zipf": 3.14,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To read text that is almost illegible or obscure.",
+        "ko": "(알아보기 힘든 글을) 판독하다",
+        "synonyms": [
+          "decode",
+          "make out",
+          "read",
+          "puzzle out"
+        ],
+        "examples": [
+          {
+            "text": "The archivist spent weeks trying to decipher the faded handwriting in the soldier's letters.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To convert a code or cipher to plain text.",
+        "ko": "암호를 해독하다",
+        "synonyms": [
+          "decode",
+          "decrypt",
+          "crack"
+        ],
+        "examples": [
+          {
+            "text": "Wartime analysts worked around the clock to decipher the enemy's intercepted radio messages.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "cipher"
+    ],
+    "origin": {
+      "ko": "de-와 cipher(암호)를 합친 말입니다. 암호를 풀어 '판독하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "declaim",
+    "score": 27,
+    "zipf": 1.57,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "speak against in an impassioned manner",
+        "ko": "열변을 토하며 비난하다",
+        "synonyms": [
+          "inveigh",
+          "rail",
+          "fulminate",
+          "protest"
+        ],
+        "examples": [
+          {
+            "text": "he declaimed against the wasteful ways of modern society",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "recite in elocution",
+        "ko": "웅변조로 낭송하다",
+        "synonyms": [
+          "recite",
+          "orate",
+          "hold forth",
+          "pronounce"
+        ],
+        "examples": [
+          {
+            "text": "The actor declaimed the famous soliloquy to a hushed and attentive theater.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "clam"
+    ],
+    "origin": {
+      "ko": "라틴어 dēclāmō(큰 소리로 연설하다)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "declivity",
+    "score": 56,
+    "zipf": 1.27,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a downward slope or bend",
+        "ko": "내리막, 경사면",
+        "synonyms": [
+          "descent",
+          "slope",
+          "decline",
+          "downgrade"
+        ],
+        "examples": [
+          {
+            "text": "The path followed a steep declivity into the valley, where a stream wound between the trees.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "clin",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 dēclīvis(아래로 기운)에서 왔고 clīvus(비탈)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "decorous",
+    "score": 47,
+    "zipf": 1.98,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by propriety and dignity and good taste in manners and conduct",
+        "ko": "예의 바른, 품위 있는",
+        "synonyms": [
+          "seemly",
+          "proper",
+          "dignified",
+          "decent",
+          "becoming"
+        ],
+        "examples": [
+          {
+            "text": "The guests maintained a decorous silence throughout the long and solemn ceremony.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "decor",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 decōrus(어울리는, 알맞은)에서 왔고 decor(품위)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "decorum",
+    "score": 80,
+    "zipf": 2.87,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "propriety in manners and conduct",
+        "ko": "예의, 품위 있는 행동",
+        "synonyms": [
+          "propriety",
+          "etiquette",
+          "decency",
+          "politeness"
+        ],
+        "examples": [
+          {
+            "text": "The judge demanded decorum in the courtroom and warned the spectators against further outbursts.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "decor"
+    ],
+    "origin": {
+      "ko": "라틴어 decōrum(어울리는 것)에서 왔습니다. 상황에 맞는 행동이 '예의'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "decree",
+    "score": 23,
+    "zipf": 3.82,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An edict or law.",
+        "ko": "포고령, 법령",
+        "synonyms": [
+          "edict",
+          "ordinance",
+          "fiat",
+          "mandate"
+        ],
+        "examples": [
+          {
+            "text": "The king issued a decree banning all public gatherings after the riots.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "decide with authority",
+        "ko": "명하다, 공포하다",
+        "synonyms": [
+          "ordain",
+          "rule",
+          "order",
+          "dictate"
+        ],
+        "examples": [
+          {
+            "text": "The King decreed that all firstborn males should be killed",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cret"
+    ],
+    "origin": {
+      "ko": "라틴어 dēcrētum(결정된 것)에서 고대 프랑스어를 거쳐 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "decry",
+    "score": 51,
+    "zipf": 2.6,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "express strong disapproval of",
+        "ko": "공공연히 비난하다",
+        "synonyms": [
+          "condemn",
+          "denounce",
+          "censure",
+          "deplore",
+          "excoriate"
+        ],
+        "examples": [
+          {
+            "text": "Environmental groups decried the decision to open the protected wetlands to commercial development.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "cry"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 descrier(소리치다)에서 왔습니다. 외쳐서 가치를 깎아내리는 뜻으로 발전했습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deduce",
+    "score": 31,
+    "zipf": 2.97,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To reach (a conclusion) by applying rules of logic or other forms of reasoning to given premises or known facts.",
+        "ko": "추론하다, 연역하다",
+        "synonyms": [
+          "infer",
+          "conclude",
+          "derive",
+          "reason"
+        ],
+        "examples": [
+          {
+            "text": "From the muddy footprints, the detective deduced that the intruder had entered through the garden.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "duc"
+    ],
+    "origin": {
+      "ko": "라틴어 dēdūcere(끌어내다)에서 왔습니다. 전제에서 결론을 끌어내니 '추론하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deem",
+    "score": 28,
+    "zipf": 3.34,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To hold in belief or estimation; to adjudge as a conclusion; to regard as being; to evaluate according to one's beliefs; to account.",
+        "ko": "~로 여기다, 간주하다",
+        "synonyms": [
+          "consider",
+          "regard",
+          "judge",
+          "hold",
+          "think"
+        ],
+        "examples": [
+          {
+            "text": "She deemed his efforts insufficient.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 dēman(판단하다, 선고하다)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deface",
+    "score": 34,
+    "zipf": 2.32,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "mar or spoil the appearance of",
+        "ko": "외관을 훼손하다, 흉하게 만들다",
+        "synonyms": [
+          "disfigure",
+          "vandalize",
+          "mar",
+          "blemish"
+        ],
+        "examples": [
+          {
+            "text": "Vandals defaced the memorial overnight, spraying slogans across its marble base.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "fac(얼굴)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 desfacier(훼손하다)에서 왔습니다. 얼굴(face)을 지워 버린다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "default",
+    "score": 18,
+    "zipf": 4.29,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To fail to fulfill a financial obligation.",
+        "ko": "채무를 이행하지 못하다",
+        "synonyms": [
+          "fail to pay",
+          "renege",
+          "welsh"
+        ],
+        "examples": [
+          {
+            "text": "to default on a loan",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A selection made in the absence of an alternative.",
+        "ko": "기본값, 부재 시 자동 선택",
+        "synonyms": [
+          "fallback",
+          "standard",
+          "norm"
+        ],
+        "examples": [
+          {
+            "text": "With no other candidate willing to run, she won the chairmanship by default.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "fall"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 defaute(결함, 부족)에서 왔고, 라틴어 fallo(속이다)와 이어집니다. 채무를 못 갚는 '불이행'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deference",
+    "score": 63,
+    "zipf": 2.96,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Great respect.",
+        "ko": "존경, 경의",
+        "synonyms": [
+          "respect",
+          "reverence",
+          "regard",
+          "esteem"
+        ],
+        "examples": [
+          {
+            "text": "The children treated their elders with deference.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a disposition or tendency to yield to the will of others",
+        "ko": "남의 뜻에 따르는 태도, 순응",
+        "synonyms": [
+          "compliance",
+          "submission",
+          "complaisance",
+          "obligingness"
+        ],
+        "examples": [
+          {
+            "text": "The young associate showed such deference to the partners that she rarely voiced her own opinions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "fer",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "프랑스어 déférence에서 왔고 defer(따르다)에 -ence가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deferential",
+    "score": 35,
+    "zipf": 2.38,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Respectful and considerate; showing deference.",
+        "ko": "공손한, 경의를 표하는",
+        "synonyms": [
+          "respectful",
+          "courteous",
+          "submissive",
+          "dutiful"
+        ],
+        "examples": [
+          {
+            "text": "The deferential intern spoke only when invited and thanked everyone for their time.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "fer",
+      "-al"
+    ],
+    "origin": {
+      "ko": "deference에 -al이 붙은 말로, 월터 스콧이 만들었다고 합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deflect",
+    "score": 45,
+    "zipf": 3.17,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To make (something) deviate from its original path or position.",
+        "ko": "방향을 틀게 하다, 빗나가게 하다",
+        "synonyms": [
+          "divert",
+          "turn aside",
+          "redirect",
+          "parry"
+        ],
+        "examples": [
+          {
+            "text": "A thin metal shield deflected the blast away from the control room.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To avoid addressing (questions, criticism, etc.).",
+        "ko": "(질문·비판을) 회피하다, 피해 가다",
+        "synonyms": [
+          "evade",
+          "sidestep",
+          "dodge",
+          "elude"
+        ],
+        "examples": [
+          {
+            "text": "The Prime Minister deflected some increasingly pointed questions by claiming he had an appointment.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "flect"
+    ],
+    "origin": {
+      "ko": "라틴어 deflectō에서 왔습니다. 가던 길에서 휘어 벗어나게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "defray",
+    "score": 51,
+    "zipf": 2.38,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To pay or discharge (a debt, expense etc.); to meet (the cost of something).",
+        "ko": "(비용을) 부담하다, 지불하다",
+        "synonyms": [
+          "pay",
+          "cover",
+          "finance",
+          "offset"
+        ],
+        "examples": [
+          {
+            "text": "A small grant from the foundation helped defray the cost of the students' research trip.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-"
+    ],
+    "origin": {
+      "ko": "프랑스어 défrayer에서 왔고 고대 프랑스어 fraier(쓰다)와 이어집니다. 비용을 대신 쓴다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deft",
+    "score": 48,
+    "zipf": 2.87,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "skillful in physical movements; especially of the hands",
+        "ko": "능숙한, 솜씨 좋은",
+        "synonyms": [
+          "dexterous",
+          "adroit",
+          "nimble",
+          "skillful",
+          "adept"
+        ],
+        "examples": [
+          {
+            "text": "With a few deft strokes of the brush, the artist captured the old man's weary expression.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 dæfte(온화한, 알맞은)에서 왔습니다. '적절한'에서 '솜씨 좋은'으로 의미가 이동했습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "degrade",
+    "score": 28,
+    "zipf": 3.28,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To lower in value or social position.",
+        "ko": "품위를 떨어뜨리다, 강등시키다",
+        "synonyms": [
+          "demean",
+          "debase",
+          "humiliate",
+          "disgrace",
+          "abase"
+        ],
+        "examples": [
+          {
+            "text": "Fred degrades himself by his behaviour.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To reduce in quality or purity.",
+        "ko": "질이 떨어지다, 열화시키다",
+        "synonyms": [
+          "deteriorate",
+          "erode",
+          "worsen",
+          "impair"
+        ],
+        "examples": [
+          {
+            "text": "The DNA sample has degraded.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "grad"
+    ],
+    "origin": {
+      "ko": "프랑스어 dégrader에서 왔습니다. 단계를 아래로 내린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deify",
+    "score": 45,
+    "zipf": 1.82,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To regard as being like a deity; to treat as worthy of worship; to exalt.",
+        "ko": "신격화하다, 우상화하다",
+        "synonyms": [
+          "idolize",
+          "exalt",
+          "worship",
+          "venerate",
+          "apotheosize"
+        ],
+        "examples": [
+          {
+            "text": "Admirers deified the founder, treating his every casual remark as sacred wisdom.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "div(신)",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "라틴어 deus(신)에서 deificāre를 거쳐 왔습니다. 신으로 만든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deign",
+    "score": 50,
+    "zipf": 2.26,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "do something that one considers to be below one's dignity",
+        "ko": "황송하게도 ~해 주시다, 체면을 굽혀 ~하다",
+        "synonyms": [
+          "condescend",
+          "stoop",
+          "vouchsafe"
+        ],
+        "examples": [
+          {
+            "text": "He didn’t even deign to give us a nod of the head; he thought us that far beneath him.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dign"
+    ],
+    "origin": {
+      "ko": "라틴어 dignāre(~할 만하다고 여기다)에서 왔습니다. 자기 품위에 맞는다고 여겨 '황송하게 ~해 주다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deject",
+    "score": 22,
+    "zipf": 1.11,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "lower someone's spirits; make downhearted",
+        "ko": "낙담시키다, 기를 꺾다",
+        "synonyms": [
+          "depress",
+          "dishearten",
+          "dispirit",
+          "discourage",
+          "demoralize"
+        ],
+        "examples": [
+          {
+            "text": "The team's third straight loss dejected the players and silenced the locker room.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "ject"
+    ],
+    "origin": {
+      "ko": "라틴어 dēicere(아래로 던지다)에서 왔습니다. 기분을 아래로 내던지니 '낙담시키다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "delegate",
+    "score": 24,
+    "zipf": 3.7,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To commit (a task or responsibility) to someone, especially a subordinate.",
+        "ko": "(업무·권한을) 위임하다",
+        "synonyms": [
+          "entrust",
+          "assign",
+          "hand over",
+          "depute"
+        ],
+        "examples": [
+          {
+            "text": "A good manager learns to delegate routine tasks so that she can focus on strategy.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A person authorized to act as representative for another; a deputy.",
+        "ko": "대표, 대리인",
+        "synonyms": [
+          "representative",
+          "deputy",
+          "envoy",
+          "emissary"
+        ],
+        "examples": [
+          {
+            "text": "Each state sent a delegate to the convention to vote on the proposed treaty.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "leg(보내다)"
+    ],
+    "origin": {
+      "ko": "라틴어 dēlēgāre(보내다, 맡기다)에서 왔습니다. 일을 맡겨 보내는 데서 '위임하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deleterious",
+    "score": 82,
+    "zipf": 2.72,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Harmful, often in a subtle or unexpected way.",
+        "ko": "해로운, 유해한",
+        "synonyms": [
+          "harmful",
+          "injurious",
+          "detrimental",
+          "pernicious",
+          "noxious"
+        ],
+        "examples": [
+          {
+            "text": "deleterious to someone's health",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ous"
+    ],
+    "origin": {
+      "ko": "그리스어 dēlētḗrios(해로운)에서 왔습니다. 'delete'와는 관련이 없습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deliberate",
+    "score": 39,
+    "zipf": 3.82,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by conscious design or purpose",
+        "ko": "고의적인, 의도적인",
+        "synonyms": [
+          "intentional",
+          "purposeful",
+          "calculated",
+          "premeditated"
+        ],
+        "examples": [
+          {
+            "text": "a deliberate attempt to cover up his crime",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "unhurried and with care and dignity",
+        "ko": "신중한, 느긋하고 차분한",
+        "synonyms": [
+          "measured",
+          "careful",
+          "unhurried",
+          "methodical"
+        ],
+        "examples": [
+          {
+            "text": "with all deliberate speed",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "think about carefully; weigh",
+        "ko": "숙고하다, 심의하다",
+        "synonyms": [
+          "consider",
+          "ponder",
+          "weigh",
+          "mull over",
+          "debate"
+        ],
+        "examples": [
+          {
+            "text": "The jury deliberated for two days before reaching a unanimous verdict.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "lib",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 dēlīberāre(저울질하다)에서 왔습니다. 저울에 달 듯 따져보고 한 일이라 '고의적인'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "delicacy",
+    "score": 29,
+    "zipf": 3.18,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Tact and propriety; the need for such tact.",
+        "ko": "섬세한 배려, 신중을 요하는 성질",
+        "synonyms": [
+          "tact",
+          "discretion",
+          "finesse",
+          "sensitivity"
+        ],
+        "examples": [
+          {
+            "text": "The ambassador handled the diplomatic crisis with great delicacy, avoiding any word that might offend.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Something appealing, usually a pleasing food, especially a choice dish of a certain culture suggesting rarity and refinement.",
+        "ko": "진미, 별미",
+        "synonyms": [
+          "treat",
+          "dainty",
+          "luxury",
+          "titbit"
+        ],
+        "examples": [
+          {
+            "text": "a Chinese delicacy",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Frailty of health or fitness.",
+        "ko": "허약함, 연약함",
+        "synonyms": [
+          "fragility",
+          "frailty",
+          "weakness"
+        ],
+        "examples": [
+          {
+            "text": "The delicacy of the premature infant's lungs required constant monitoring in the hospital.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-acy"
+    ],
+    "origin": {
+      "ko": "중세 영어 delicat(섬세한)에서 왔고 delicate에 -acy가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "delimit",
+    "score": 31,
+    "zipf": 2.02,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "set, mark, or draw the boundaries of something",
+        "ko": "경계를 정하다, 한계를 긋다",
+        "synonyms": [
+          "demarcate",
+          "define",
+          "bound",
+          "delimitate"
+        ],
+        "examples": [
+          {
+            "text": "The treaty delimited the border between the two nations along the course of the river.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "limit"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 dēlīmitō(경계를 표시하다)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "delineate",
+    "score": 83,
+    "zipf": 2.56,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "show the form or outline of",
+        "ko": "윤곽을 그리다, 묘사하다",
+        "synonyms": [
+          "outline",
+          "sketch",
+          "depict",
+          "portray",
+          "trace"
+        ],
+        "examples": [
+          {
+            "text": "The sketch delineated the building's silhouette against the evening sky with a few bold lines.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "describe in vivid detail",
+        "ko": "상세히 서술하다, 명확히 밝히다",
+        "synonyms": [
+          "describe",
+          "specify",
+          "set out",
+          "define"
+        ],
+        "examples": [
+          {
+            "text": "The report delineates the responsibilities of each department so that no duties are overlooked.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "lin",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 dēlīneāre(선으로 그려내다)에서 왔습니다. 선으로 윤곽을 그려 보인다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "delusion",
+    "score": 27,
+    "zipf": 3.37,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a mistaken or unfounded opinion or idea",
+        "ko": "망상, 근거 없는 믿음",
+        "synonyms": [
+          "misconception",
+          "fallacy",
+          "illusion",
+          "fantasy"
+        ],
+        "examples": [
+          {
+            "text": "he has delusions of competence",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "lud",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 dēlūsiō(속임)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "delve",
+    "score": 30,
+    "zipf": 3.14,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To search thoroughly and carefully for information, research, dig into, penetrate, fathom, trace out",
+        "ko": "깊이 파고들다, 철저히 조사하다",
+        "synonyms": [
+          "probe",
+          "investigate",
+          "research",
+          "dig",
+          "explore"
+        ],
+        "examples": [
+          {
+            "text": "The biographer delved into decades of letters to understand the poet's troubled final years.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 delfan(땅을 파다)에서 왔습니다. 땅을 파듯 깊이 파고든다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "demagogue",
+    "score": 52,
+    "zipf": 2.48,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a political leader who seeks support by appealing to popular passions and prejudices",
+        "ko": "선동 정치가, 대중 선동가",
+        "synonyms": [
+          "rabble-rouser",
+          "agitator",
+          "firebrand",
+          "populist"
+        ],
+        "examples": [
+          {
+            "text": "The demagogue stoked fears about immigrants to win votes rather than offering any workable policy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dem",
+      "agog"
+    ],
+    "origin": {
+      "ko": "그리스어 dēmagōgós '민중의 지도자'에서 왔습니다. 민중을 이끄는 사람이 '선동가'로 변했습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "demarcate",
+    "score": 31,
+    "zipf": 2.04,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "set, mark, or draw the boundaries of something",
+        "ko": "경계를 짓다, 구분하다",
+        "synonyms": [
+          "delimit",
+          "delineate",
+          "mark off",
+          "separate"
+        ],
+        "examples": [
+          {
+            "text": "Low stone walls demarcate the monastery's land from the neighboring farms.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "marg"
+    ],
+    "origin": {
+      "ko": "demarcation에서 만들어진 말입니다. 경계를 표시한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "demean",
+    "score": 35,
+    "zipf": 2.58,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "reduce in worth or character, usually verbally",
+        "ko": "품위를 떨어뜨리다, 비하하다",
+        "synonyms": [
+          "degrade",
+          "belittle",
+          "humiliate",
+          "debase",
+          "disparage"
+        ],
+        "examples": [
+          {
+            "text": "A good teacher never demeans a student for asking a question, however basic it may seem.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-"
+    ],
+    "origin": {
+      "ko": "de-와 mean(천한)을 합친 1595년의 말입니다. 품위를 낮은 데로 끌어내린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "demonstrable",
+    "score": 35,
+    "zipf": 2.63,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "capable of being demonstrated or proved",
+        "ko": "입증할 수 있는, 증명 가능한",
+        "synonyms": [
+          "provable",
+          "verifiable",
+          "verifiable",
+          "evident",
+          "attestable"
+        ],
+        "examples": [
+          {
+            "text": "It is easily demonstrable that water extinguishes fire.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "monstr",
+      "-able"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어에서 왔고 라틴어 mōnstrāre(보여주다)가 뿌리입니다. 보여줄 수 있어 '입증 가능한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "demonstrative",
+    "score": 35,
+    "zipf": 2.63,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "given to or marked by the open expression of emotion",
+        "ko": "감정 표현이 솔직한, 감정을 드러내는",
+        "synonyms": [
+          "expressive",
+          "effusive",
+          "affectionate",
+          "emotional"
+        ],
+        "examples": [
+          {
+            "text": "an affectionate and demonstrative family",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "serving to demonstrate",
+        "ko": "입증하는, 보여 주는",
+        "synonyms": [
+          "illustrative",
+          "indicative",
+          "probative"
+        ],
+        "examples": [
+          {
+            "text": "demonstrative evidence",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "monstr",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "라틴어 dēmōnstrātīvus에서 왔습니다. 감정을 겉으로 드러내 보인다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "demoralize",
+    "score": 33,
+    "zipf": 2.2,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To destroy the morale of; to dishearten.",
+        "ko": "사기를 꺾다, 의욕을 잃게 하다",
+        "synonyms": [
+          "dishearten",
+          "dispirit",
+          "discourage",
+          "deject",
+          "daunt"
+        ],
+        "examples": [
+          {
+            "text": "Constant layoffs and unclear leadership demoralized the staff and drove the best engineers away.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "mor(관습)",
+      "-ize"
+    ],
+    "origin": {
+      "ko": "프랑스어 démoraliser에서 왔습니다. 사기(morale)를 없앤다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "demur",
+    "score": 77,
+    "zipf": 1.78,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "Chiefly followed by to, and sometimes by at or on: to object or be reluctant; to balk, to take exception.",
+        "ko": "이의를 제기하다, 난색을 표하다",
+        "synonyms": [
+          "object",
+          "balk",
+          "protest",
+          "take exception",
+          "scruple"
+        ],
+        "examples": [
+          {
+            "text": "The personnel demurred at the management’s new scheme.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "mor(지체)"
+    ],
+    "origin": {
+      "ko": "라틴어 dēmorārī(지체하다)에서 왔습니다. 선뜻 응하지 않고 미적대다가 '이의를 제기하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "demure",
+    "score": 35,
+    "zipf": 2.56,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Modest, quiet, reserved, or serious.",
+        "ko": "얌전한, 조신한",
+        "synonyms": [
+          "modest",
+          "reserved",
+          "shy",
+          "sedate",
+          "retiring"
+        ],
+        "examples": [
+          {
+            "text": "She is a demure young lady.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "affectedly modest or shy especially in a playful or provocative way",
+        "ko": "내숭을 떠는, 얌전한 척하는",
+        "synonyms": [
+          "coy",
+          "overmodest",
+          "prim"
+        ],
+        "examples": [
+          {
+            "text": "Behind her demure smile lay a sharp wit that she deployed only when the moment was right.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "앵글로노르만어 de mure port '성숙한 태도로'에서 왔다고 봅니다. 차분하고 얌전한 태도를 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "denigrate",
+    "score": 67,
+    "zipf": 2.59,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To criticize so as to besmirch; traduce, disparage or defame.",
+        "ko": "깎아내리다, 명예를 훼손하다",
+        "synonyms": [
+          "disparage",
+          "defame",
+          "slander",
+          "besmirch",
+          "malign"
+        ],
+        "examples": [
+          {
+            "text": "Rival candidates tried to denigrate her record by distorting her votes on key bills.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To treat as worthless; belittle, degrade or disparage.",
+        "ko": "경시하다, 얕보다",
+        "synonyms": [
+          "belittle",
+          "deprecate",
+          "minimize",
+          "run down"
+        ],
+        "examples": [
+          {
+            "text": "You have no right to denigrate people and things that you have no personal experience with.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "nigr",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 dēnigrāre(검게 칠하다)에서 왔습니다. 남을 검게 칠해 평판을 더럽힌다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "denote",
+    "score": 44,
+    "zipf": 3.29,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be a sign or indication of",
+        "ko": "나타내다, 표시하다",
+        "synonyms": [
+          "indicate",
+          "signify",
+          "mark",
+          "betoken"
+        ],
+        "examples": [
+          {
+            "text": "The yellow blazes denote the trail.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "have as a meaning",
+        "ko": "~의 뜻이다, 의미하다",
+        "synonyms": [
+          "mean",
+          "signify",
+          "designate",
+          "refer to"
+        ],
+        "examples": [
+          {
+            "text": "The prefix pre- denotes \"before\", as in preview.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "not"
+    ],
+    "origin": {
+      "ko": "라틴어 denotare(표시하다)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "denouement",
+    "score": 51,
+    "zipf": 2.42,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the final resolution of the main complication of a literary or dramatic work",
+        "ko": "(작품의) 결말, 대단원",
+        "synonyms": [
+          "resolution",
+          "conclusion",
+          "outcome",
+          "finale"
+        ],
+        "examples": [
+          {
+            "text": "The film's denouement ties up every loose thread, revealing who was behind the theft.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the outcome of a complex sequence of events",
+        "ko": "(사건의) 결말, 귀결",
+        "synonyms": [
+          "outcome",
+          "upshot",
+          "result",
+          "culmination"
+        ],
+        "examples": [
+          {
+            "text": "The denouement of the long negotiations surprised even the diplomats who had arranged them.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-"
+    ]
+  },
+  {
+    "word": "denounce",
+    "score": 29,
+    "zipf": 3.24,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to accuse or condemn or openly or formally or brand as disgraceful",
+        "ko": "공공연히 비난하다, 규탄하다",
+        "synonyms": [
+          "condemn",
+          "censure",
+          "decry",
+          "excoriate",
+          "brand"
+        ],
+        "examples": [
+          {
+            "text": "He denounced the government action",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To announce the termination of; especially a treaty or armistice.",
+        "ko": "(조약 등의) 파기를 통고하다",
+        "synonyms": [
+          "repudiate",
+          "renounce",
+          "abrogate"
+        ],
+        "examples": [
+          {
+            "text": "The new government threatened to denounce the trade agreement unless its terms were renegotiated.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "nunc"
+    ],
+    "origin": {
+      "ko": "라틴어 dēnūntiō(알리다, 위협하다)에서 왔고 nūntius(전령)가 뿌리입니다. 공공연히 알리며 규탄하는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dense",
+    "score": 21,
+    "zipf": 3.98,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "slow to learn or understand; lacking intellectual acuity",
+        "ko": "우둔한, 이해가 느린",
+        "synonyms": [
+          "obtuse",
+          "slow",
+          "dull",
+          "thick",
+          "dim"
+        ],
+        "examples": [
+          {
+            "text": "so dense he never understands anything I say to him",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Obscure or difficult to understand.",
+        "ko": "난해한, 이해하기 어려운",
+        "synonyms": [
+          "abstruse",
+          "impenetrable",
+          "obscure",
+          "opaque"
+        ],
+        "examples": [
+          {
+            "text": "The philosopher's dense prose rewards patient readers but baffles anyone looking for a quick summary.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having component parts closely crowded together",
+        "ko": "빽빽한, 밀집한",
+        "synonyms": [
+          "thick",
+          "compact",
+          "packed",
+          "crowded"
+        ],
+        "examples": [
+          {
+            "text": "a dense population",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 dēnsus(빽빽한)에서 프랑스어를 거쳐 왔습니다. 빽빽해서 뚫고 들어가기 어려운 이미지가 '우둔한'으로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deportment",
+    "score": 32,
+    "zipf": 2.09,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Bearing; manner of presenting oneself.",
+        "ko": "태도, 몸가짐",
+        "synonyms": [
+          "bearing",
+          "demeanor",
+          "comportment",
+          "carriage"
+        ],
+        "examples": [
+          {
+            "text": "Her deportment impressed her interviewers.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "port(나르다)",
+      "-ment"
+    ],
+    "origin": {
+      "ko": "프랑스어 déportement에서 왔고 deport(처신하다)에 -ment가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "depose",
+    "score": 50,
+    "zipf": 2.67,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To remove (a leader) from (high) office without killing (them).",
+        "ko": "(지도자를) 폐위하다, 물러나게 하다",
+        "synonyms": [
+          "oust",
+          "dethrone",
+          "unseat",
+          "topple"
+        ],
+        "examples": [
+          {
+            "text": "A deposed monarch may go into exile as pretender to the lost throne, hoping to be restored in a subsequent revolution.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make a deposition; declare under oath",
+        "ko": "선서 증언하다",
+        "synonyms": [
+          "testify",
+          "swear",
+          "attest",
+          "affirm"
+        ],
+        "examples": [
+          {
+            "text": "The engineer was deposed by the plaintiff's lawyers three months before the trial began.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "pos"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 deposer에서 왔습니다. 높은 자리에서 아래로 내려놓으니 '폐위하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deprave",
+    "score": 25,
+    "zipf": 1.39,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "corrupt morally or by intemperance or sensuality",
+        "ko": "타락시키다, 도덕적으로 부패시키다",
+        "synonyms": [
+          "corrupt",
+          "pervert",
+          "debauch",
+          "debase"
+        ],
+        "examples": [
+          {
+            "text": "Moralists feared that cheap novels would deprave the young and undermine social order.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "prav"
+    ],
+    "origin": {
+      "ko": "라틴어 dēprāvāre(비틀다, 타락시키다)에서 왔고 pravus(비뚤어진)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "depravity",
+    "score": 32,
+    "zipf": 2.86,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "moral perversion; impairment of virtue and moral principles",
+        "ko": "타락, 도덕적 부패",
+        "synonyms": [
+          "corruption",
+          "degeneracy",
+          "wickedness",
+          "vice"
+        ],
+        "examples": [
+          {
+            "text": "The trial exposed the depravity of a regime that tortured its own citizens.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "prav",
+      "-ity"
+    ]
+  },
+  {
+    "word": "deprecate",
+    "score": 30,
+    "zipf": 1.88,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To express disapproval of, protest or plead against.",
+        "ko": "반대하다, 못마땅해하다",
+        "synonyms": [
+          "disapprove",
+          "deplore",
+          "decry",
+          "condemn"
+        ],
+        "examples": [
+          {
+            "text": "She deprecated any action which might disturb the peace.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To belittle, depreciate.",
+        "ko": "얕보다, 폄하하다",
+        "synonyms": [
+          "belittle",
+          "disparage",
+          "depreciate",
+          "play down"
+        ],
+        "examples": [
+          {
+            "text": "He deprecates any praise of his own merits.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "prec",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 dēprecor(재앙을 막아 달라고 빌다)에서 왔습니다. 악을 물리쳐 달라 비는 데서 '반대하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "depredation",
+    "score": 29,
+    "zipf": 1.81,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an act of plundering and pillaging and marauding",
+        "ko": "약탈, 노략질",
+        "synonyms": [
+          "plunder",
+          "pillage",
+          "looting",
+          "raid"
+        ],
+        "examples": [
+          {
+            "text": "Coastal villages suffered repeated depredations at the hands of pirates throughout the century.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "(usually plural) a destructive action",
+        "ko": "파괴 행위, 피해",
+        "synonyms": [
+          "ravage",
+          "devastation",
+          "damage"
+        ],
+        "examples": [
+          {
+            "text": "the depredations of age and disease",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "pred",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "라틴어 depraedatio에서 왔고 praeda(약탈품)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "derelict",
+    "score": 62,
+    "zipf": 3.1,
+    "lists": [
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "failing in what duty requires",
+        "ko": "직무를 태만히 하는, 책임을 다하지 않는",
+        "synonyms": [
+          "negligent",
+          "remiss",
+          "neglectful",
+          "delinquent"
+        ],
+        "examples": [
+          {
+            "text": "derelict (or delinquent) in his duty",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "forsaken by owner or inhabitants",
+        "ko": "버려진, 방치된",
+        "synonyms": [
+          "abandoned",
+          "deserted",
+          "forsaken",
+          "dilapidated"
+        ],
+        "examples": [
+          {
+            "text": "The derelict mill, long since abandoned by its owners, slowly crumbled beside the silent canal.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "re-",
+      "linqu"
+    ],
+    "origin": {
+      "ko": "라틴어 dērelictus(완전히 버려진)에서 왔습니다. 맡은 의무를 버려둔 상태가 '직무 태만'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deride",
+    "score": 83,
+    "zipf": 2.4,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To laugh at or mock (someone or something) harshly; to ridicule, to scorn.",
+        "ko": "조롱하다, 비웃다",
+        "synonyms": [
+          "mock",
+          "ridicule",
+          "scorn",
+          "jeer",
+          "scoff"
+        ],
+        "examples": [
+          {
+            "text": "Critics derided the proposal as naive, but it later became the basis of national policy.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "rid"
+    ],
+    "origin": {
+      "ko": "라틴어 dērīdēre(비웃다)에서 왔습니다. 상대를 깔보며 웃는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "derisive",
+    "score": 35,
+    "zipf": 2.36,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "abusing vocally; expressing contempt or ridicule",
+        "ko": "조롱하는, 비웃는",
+        "synonyms": [
+          "mocking",
+          "jeering",
+          "taunting",
+          "scornful",
+          "sardonic"
+        ],
+        "examples": [
+          {
+            "text": "derisive laughter",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "rid",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "라틴어 dērīdeō(비웃다)의 어간에 -ive가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "derivative",
+    "score": 73,
+    "zipf": 3.65,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Imitative of the work of someone else.",
+        "ko": "독창성이 없는, 모방적인",
+        "synonyms": [
+          "unoriginal",
+          "imitative",
+          "secondhand",
+          "plagiarized"
+        ],
+        "examples": [
+          {
+            "text": "Reviewers dismissed the novel as derivative, a pale echo of the author's more inventive early work.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Obtained by derivation; not radical, original, or fundamental.",
+        "ko": "파생된, 2차적인",
+        "synonyms": [
+          "derived",
+          "secondary",
+          "acquired"
+        ],
+        "examples": [
+          {
+            "text": "a derivative word",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a financial instrument whose value is based on another security",
+        "ko": "파생상품",
+        "synonyms": [
+          "derivative instrument"
+        ],
+        "examples": [
+          {
+            "text": "Complex derivatives tied to subprime mortgages amplified losses across the global banking system.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "riv",
+      "-ative"
+    ],
+    "origin": {
+      "ko": "라틴어 dērīvāre(물을 끌어내다)에서 왔습니다. 남의 물줄기에서 가져온 것이라 '모방적인'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "derive",
+    "score": 26,
+    "zipf": 3.51,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To obtain or receive (something) from something else.",
+        "ko": "(~로부터) 얻다, 끌어내다",
+        "synonyms": [
+          "obtain",
+          "gain",
+          "draw",
+          "extract"
+        ],
+        "examples": [
+          {
+            "text": "Reading books is the best way to derive knowledge.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To originate or stem (from).",
+        "ko": "~에서 유래하다",
+        "synonyms": [
+          "originate",
+          "stem",
+          "spring",
+          "descend"
+        ],
+        "examples": [
+          {
+            "text": "Her excellent organisation skills derive from her time as a secretary in the army.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "riv"
+    ],
+    "origin": {
+      "ko": "라틴어 dērīvō '물을 끌어내다'에서 왔고 rīvus(시내)가 뿌리입니다. 물줄기를 끌어오듯 '얻다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "derived",
+    "score": 18,
+    "zipf": 4.29,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "formed or developed from something else; not original",
+        "ko": "파생된, 독창적이지 않은",
+        "synonyms": [
+          "derivative",
+          "secondary",
+          "borrowed"
+        ],
+        "examples": [
+          {
+            "text": "The French language is derived from Latin.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "riv"
+    ],
+    "origin": {
+      "ko": "derive에 -ed가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "derogative",
+    "score": 24,
+    "zipf": 1.25,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "expressive of low opinion",
+        "ko": "경멸적인, 폄하하는",
+        "synonyms": [
+          "derogatory",
+          "disparaging",
+          "belittling",
+          "pejorative"
+        ],
+        "examples": [
+          {
+            "text": "derogatory comments",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "rog",
+      "-ative"
+    ]
+  },
+  {
+    "word": "descry",
+    "score": 24,
+    "zipf": 1.32,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To see, especially from afar; to discover (a distant or obscure object) by the eye; to espy; to discern or detect.",
+        "ko": "멀리서 알아보다, 발견하다",
+        "synonyms": [
+          "espy",
+          "spot",
+          "discern",
+          "glimpse",
+          "sight"
+        ],
+        "examples": [
+          {
+            "text": "From the crow's nest, the lookout could just descry a faint line of land on the horizon.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 descrier(외쳐 알리다)에서 왔다고 봅니다. decry와 같은 계열의 이중어입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "desecrate",
+    "score": 34,
+    "zipf": 2.3,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To profane or violate the sacredness or sanctity of something.",
+        "ko": "신성을 더럽히다, 모독하다",
+        "synonyms": [
+          "profane",
+          "defile",
+          "violate",
+          "blaspheme"
+        ],
+        "examples": [
+          {
+            "text": "Vandals desecrated the ancient cemetery, overturning headstones and scrawling slogans across the chapel walls.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "sacr",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "de-와 consecrate(봉헌하다)의 어간을 합친 말입니다. 신성함을 벗겨낸다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "desiccate",
+    "score": 57,
+    "zipf": 1.38,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To remove moisture from; to dry; (sometimes) to dry to an extreme degree.",
+        "ko": "건조시키다, 바싹 말리다",
+        "synonyms": [
+          "dehydrate",
+          "parch",
+          "dry out",
+          "dry up"
+        ],
+        "examples": [
+          {
+            "text": "Months of relentless sun and wind desiccated the soil until it crumbled into dust.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "lacking vitality or spirit; lifeless",
+        "ko": "생기 없는, 활력이 없는",
+        "synonyms": [
+          "arid",
+          "lifeless",
+          "dry",
+          "sterile"
+        ],
+        "examples": [
+          {
+            "text": "The pianist gave a technically flawless but desiccate rendering, devoid of any warmth or feeling.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "sicc",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 dēsiccāre(완전히 말리다)에서 왔고 siccus(마른)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "desiccated",
+    "score": 35,
+    "zipf": 2.38,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "thoroughly dried out",
+        "ko": "바싹 마른, 건조된",
+        "synonyms": [
+          "dehydrated",
+          "parched",
+          "withered",
+          "arid"
+        ],
+        "examples": [
+          {
+            "text": "old boxes of desiccated Cuban cigars",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "lacking vitality or spirit; lifeless",
+        "ko": "생기 없는, 무미건조한",
+        "synonyms": [
+          "arid",
+          "lifeless",
+          "sterile",
+          "dry"
+        ],
+        "examples": [
+          {
+            "text": "The professor's desiccated lectures drained all the excitement from what should have been a vivid subject.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "sicc",
+      "-ate"
+    ]
+  },
+  {
+    "word": "desideratum",
+    "score": 26,
+    "zipf": 1.47,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Something that is wished for, or considered desirable, particularly when thought to be essential.",
+        "ko": "절실히 요구되는 것, 필수 요건",
+        "synonyms": [
+          "requirement",
+          "necessity",
+          "prerequisite",
+          "need"
+        ],
+        "examples": [
+          {
+            "text": "For the committee, transparency was the chief desideratum in any new funding procedure.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "sider"
+    ],
+    "origin": {
+      "ko": "라틴어 dēsīderātum '바라던 것'에서 왔습니다. 별(sīdus)에서 왔다는 설이 있지만 불확실합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "despair",
+    "score": 23,
+    "zipf": 3.82,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Loss of hope; utter hopelessness; complete despondency.",
+        "ko": "절망, 낙담",
+        "synonyms": [
+          "hopelessness",
+          "desperation",
+          "despondency",
+          "anguish"
+        ],
+        "examples": [
+          {
+            "text": "He turned around in despair, aware that he was not going to survive.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "abandon hope; give up hope; lose heart",
+        "ko": "절망하다, 희망을 버리다",
+        "synonyms": [
+          "lose hope",
+          "give up",
+          "despond"
+        ],
+        "examples": [
+          {
+            "text": "Don't despair — help is on the way!",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "sper(희망)"
+    ],
+    "origin": {
+      "ko": "라틴어 dēspērāre(희망을 잃다)에서 고대 프랑스어를 거쳐 왔습니다. 희망(esperer)이 없는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "despoil",
+    "score": 27,
+    "zipf": 1.58,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To plunder; to pillage; take spoil from.",
+        "ko": "약탈하다, 빼앗다",
+        "synonyms": [
+          "plunder",
+          "pillage",
+          "loot",
+          "ransack",
+          "rob"
+        ],
+        "examples": [
+          {
+            "text": "Invading armies despoiled the countryside, carrying off grain, livestock, and church treasures.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "spoil"
+    ],
+    "origin": {
+      "ko": "라틴어 dēspoliāre에서 왔고 spolium(벗긴 가죽, 전리품)이 뿌리입니다. 빼앗아 벗긴다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "despoiler",
+    "score": 23,
+    "zipf": 1.17,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone who takes spoils or plunder (as in war)",
+        "ko": "약탈자",
+        "synonyms": [
+          "plunderer",
+          "pillager",
+          "looter",
+          "raider"
+        ],
+        "examples": [
+          {
+            "text": "The chronicler cursed the despoiler who had stripped the abbey of its gold and manuscripts.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "spoil",
+      "-er"
+    ],
+    "origin": {
+      "ko": "despoil에 -er이 붙어 약탈하는 사람을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "despot",
+    "score": 50,
+    "zipf": 2.68,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a cruel and oppressive dictator",
+        "ko": "폭군, 독재자",
+        "synonyms": [
+          "tyrant",
+          "autocrat",
+          "dictator",
+          "oppressor"
+        ],
+        "examples": [
+          {
+            "text": "The despot silenced his critics, jailed journalists, and ruled the country for three decades.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 despótēs(주인, 주군)에서 왔습니다. 집안의 주인이 절대 권력자인 '폭군'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "despotic",
+    "score": 35,
+    "zipf": 2.57,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characteristic of an absolute ruler or absolute rule; having absolute sovereignty",
+        "ko": "독재적인, 전제적인",
+        "synonyms": [
+          "tyrannical",
+          "autocratic",
+          "authoritarian",
+          "dictatorial",
+          "oppressive"
+        ],
+        "examples": [
+          {
+            "text": "The despotic ruler abolished the parliament and imprisoned anyone who questioned his decrees.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 despotikós에서 왔고 despot(절대 군주)에 -ic이 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "destitute",
+    "score": 46,
+    "zipf": 3.07,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "poor enough to need help from others",
+        "ko": "극빈한, 빈곤한",
+        "synonyms": [
+          "impoverished",
+          "indigent",
+          "penniless",
+          "needy",
+          "poverty-stricken"
+        ],
+        "examples": [
+          {
+            "text": "The war left thousands of families destitute and dependent on charity for food.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "completely wanting or lacking",
+        "ko": "~이 전혀 없는, 결여된",
+        "synonyms": [
+          "devoid",
+          "bereft",
+          "barren",
+          "lacking"
+        ],
+        "examples": [
+          {
+            "text": "young recruits destitute of experience",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "st"
+    ],
+    "origin": {
+      "ko": "라틴어 dēstitūtus(버려진, 남겨진)에서 왔습니다. 의지할 것 없이 내버려진 상태가 '극빈'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "desultory",
+    "score": 64,
+    "zipf": 2.1,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by lack of definite plan or regularity or purpose; jumping from one thing to another",
+        "ko": "두서없는, 산만한",
+        "synonyms": [
+          "aimless",
+          "random",
+          "haphazard",
+          "erratic",
+          "disconnected"
+        ],
+        "examples": [
+          {
+            "text": "the desultory conversation characteristic of cocktail parties",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "sal",
+      "-ory"
+    ],
+    "origin": {
+      "ko": "라틴어 dēsultor(달리는 말에서 다른 말로 뛰어 옮겨 타는 곡마사)에서 왔습니다. 이리저리 옮겨 다니니 '두서없는'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "detached",
+    "score": 23,
+    "zipf": 3.79,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing lack of emotional involvement",
+        "ko": "초연한, 감정에 휘둘리지 않는",
+        "synonyms": [
+          "aloof",
+          "dispassionate",
+          "objective",
+          "impartial",
+          "uninvolved"
+        ],
+        "examples": [
+          {
+            "text": "The surgeon spoke in a calm, detached tone, as though describing a problem in engineering.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "no longer connected or joined",
+        "ko": "분리된, 떨어진",
+        "synonyms": [
+          "separate",
+          "disconnected",
+          "unattached"
+        ],
+        "examples": [
+          {
+            "text": "a detached part",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-"
+    ]
+  },
+  {
+    "word": "detente",
+    "score": 33,
+    "zipf": 2.22,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the easing of tensions or strained relations (especially between nations)",
+        "ko": "(국가 간) 긴장 완화, 데탕트",
+        "synonyms": [
+          "thaw",
+          "rapprochement",
+          "easing",
+          "relaxation"
+        ],
+        "examples": [
+          {
+            "text": "The two superpowers entered a period of detente that reduced the risk of open conflict.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-"
+    ]
+  },
+  {
+    "word": "deter",
+    "score": 26,
+    "zipf": 3.48,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "turn away from by persuasion",
+        "ko": "단념시키다, 못 하게 막다",
+        "synonyms": [
+          "dissuade",
+          "discourage",
+          "dishearten",
+          "put off"
+        ],
+        "examples": [
+          {
+            "text": "The steep entry fee was enough to deter most casual visitors from attending the exhibition.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To prevent something from happening.",
+        "ko": "저지하다, 억제하다",
+        "synonyms": [
+          "prevent",
+          "inhibit",
+          "check",
+          "forestall"
+        ],
+        "examples": [
+          {
+            "text": "Heavy fines are intended to deter companies from dumping waste into the river.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "terr(겁주다)"
+    ],
+    "origin": {
+      "ko": "라틴어 dēterreō(겁주어 쫓다)에서 왔습니다. 겁을 줘서 하려던 일을 단념시킨다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deterrent",
+    "score": 28,
+    "zipf": 3.33,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Something that deters.",
+        "ko": "억제책, 방해물",
+        "synonyms": [
+          "disincentive",
+          "hindrance",
+          "check",
+          "impediment"
+        ],
+        "examples": [
+          {
+            "text": "Along with trial by ordeal, hanging was the most effective deterrent that could be devised in an age without police or prisons.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "tending to deter",
+        "ko": "억제하는, 단념시키는",
+        "synonyms": [
+          "dissuasive",
+          "discouraging",
+          "preventive"
+        ],
+        "examples": [
+          {
+            "text": "the deterrent effects of high prices",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "terr(겁주다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 dēterrēns(겁주어 막는)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "detrimental",
+    "score": 26,
+    "zipf": 3.55,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Causing damage or harm.",
+        "ko": "해로운, 불리한",
+        "synonyms": [
+          "harmful",
+          "damaging",
+          "injurious",
+          "deleterious",
+          "adverse"
+        ],
+        "examples": [
+          {
+            "text": "Smoking tobacco can be detrimental to your health.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "ter",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 dētrīmentum(손해)에서 왔고 dēterō(닳게 문지르다)가 뿌리입니다. 닳아 없어지는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "deviate",
+    "score": 30,
+    "zipf": 3.06,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To fall outside of, or part from, some norm; to stray.",
+        "ko": "(규범에서) 벗어나다, 일탈하다",
+        "synonyms": [
+          "diverge",
+          "depart",
+          "stray",
+          "vary",
+          "digress"
+        ],
+        "examples": [
+          {
+            "text": "His exhibition of nude paintings deviated from the norm.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "turn aside; turn away from",
+        "ko": "방향을 틀다, 빗나가다",
+        "synonyms": [
+          "veer",
+          "swerve",
+          "divert",
+          "turn aside"
+        ],
+        "examples": [
+          {
+            "text": "The pilot deviated from the planned route to avoid a line of thunderstorms.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "vi(길)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 dēviāre(길에서 벗어나다)에서 왔습니다. 정해진 길을 벗어난다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "device",
+    "score": 16,
+    "zipf": 4.67,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "something in an artistic work designed to achieve a particular effect",
+        "ko": "(문학·예술의) 기법, 장치",
+        "synonyms": [
+          "technique",
+          "strategy",
+          "trope",
+          "artifice"
+        ],
+        "examples": [
+          {
+            "text": "Foreshadowing is a common literary device that hints at events yet to unfold in the story.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "any clever maneuver",
+        "ko": "계책, 술책",
+        "synonyms": [
+          "ploy",
+          "stratagem",
+          "gimmick",
+          "contrivance",
+          "scheme"
+        ],
+        "examples": [
+          {
+            "text": "he would stoop to any device to win a point",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an instrumentality invented for a particular purpose",
+        "ko": "장치, 기구",
+        "synonyms": [
+          "gadget",
+          "apparatus",
+          "instrument",
+          "mechanism"
+        ],
+        "examples": [
+          {
+            "text": "a device intended to conserve water",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "vid(나누다)"
+    ],
+    "origin": {
+      "ko": "라틴어 dīvidō(나누다)의 과거분사에서 고대 프랑스어 devis로 이어졌습니다. 계획하고 배치한 것이 '장치, 기법'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "devolve",
+    "score": 49,
+    "zipf": 2.78,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "pass on or delegate to another",
+        "ko": "(권한·책임을) 이양하다, 넘기다",
+        "synonyms": [
+          "delegate",
+          "transfer",
+          "hand down",
+          "pass on"
+        ],
+        "examples": [
+          {
+            "text": "Many legislative powers devolved to the new Scottish parliament in 1999.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "grow progressively worse",
+        "ko": "악화되다, 퇴보하다",
+        "synonyms": [
+          "deteriorate",
+          "degenerate",
+          "decline",
+          "degrade"
+        ],
+        "examples": [
+          {
+            "text": "A discussion about politics may devolve into a shouting match.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "be inherited by",
+        "ko": "(재산·의무가) 넘어가다, 귀속되다",
+        "synonyms": [
+          "pass",
+          "fall",
+          "revert"
+        ],
+        "examples": [
+          {
+            "text": "On the earl's death, the estate devolved upon his nephew, who sold the land within a year.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "volv"
+    ],
+    "origin": {
+      "ko": "라틴어 dēvolvō(굴려 내리다)에서 왔습니다. 책임이 아래로 굴러 내려가는 데서 '이양하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

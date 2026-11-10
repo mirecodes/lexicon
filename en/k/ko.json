@@ -1,0 +1,38 @@
+[
+  {
+    "word": "kowtow",
+    "score": 33,
+    "zipf": 2.16,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "try to gain favor by cringing or flattering",
+        "ko": "굽실거리다, 아첨하다",
+        "synonyms": [
+          "fawn",
+          "toady",
+          "grovel",
+          "truckle",
+          "bootlick"
+        ],
+        "examples": [
+          {
+            "text": "He is always kowtowing to his boss",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중국어 叩頭(kòutóu)에서 왔습니다. 글자 그대로 '머리를 두드리다', 곧 머리를 땅에 조아리는 절입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "word": "nuance",
+    "score": 78,
+    "zipf": 3.09,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a subtle difference in meaning or opinion or attitude",
+        "ko": "미묘한 차이, 뉘앙스",
+        "synonyms": [
+          "subtlety",
+          "shade",
+          "nicety",
+          "refinement"
+        ],
+        "examples": [
+          {
+            "text": "Translators struggle to preserve every nuance of the poet's tone when rendering it into another language.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 nuance '색조, 농담'에서 왔습니다. 구름(라틴어 nūbēs)처럼 번지는 미묘한 색의 차이를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nullify",
+    "score": 32,
+    "zipf": 2.85,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To make legally invalid.",
+        "ko": "(법적으로) 무효화하다",
+        "synonyms": [
+          "annul",
+          "void",
+          "invalidate",
+          "quash",
+          "revoke"
+        ],
+        "examples": [
+          {
+            "text": "The court moved to nullify the contract after discovering that the signatures had been forged.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To make of no use or value; to cancel out.",
+        "ko": "무효로 만들다, 상쇄하다",
+        "synonyms": [
+          "negate",
+          "neutralize",
+          "cancel out",
+          "counteract"
+        ],
+        "examples": [
+          {
+            "text": "Rising inflation threatened to nullify the benefits of the wage increase.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "null",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "라틴어 nullus '아무것도 아닌'에 -ify가 붙은 말로, 효력을 없는 것으로 만든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "numinous",
+    "score": 31,
+    "zipf": 2.0,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Evoking a sense of the mystical, sublime, or transcendent; awe-inspiring.",
+        "ko": "신비로운, 영묘한",
+        "synonyms": [
+          "mystical",
+          "transcendent",
+          "awe-inspiring",
+          "sublime"
+        ],
+        "examples": [
+          {
+            "text": "Hikers described the silent, mist-filled valley at dawn as a numinous place.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "evincing the presence of a deity",
+        "ko": "신령한, 신의 존재를 느끼게 하는",
+        "synonyms": [
+          "divine",
+          "spiritual",
+          "holy"
+        ],
+        "examples": [
+          {
+            "text": "a numinous wood",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "numin",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 nūmen '신의 뜻, 신성'에서 왔습니다. 고개를 끄덕이는 신의 뜻이라는 데서 신비로운 기운을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "numismatic",
+    "score": 36,
+    "zipf": 2.5,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Of or pertaining to currency, especially to coins.",
+        "ko": "화폐의, 주화 수집의",
+        "synonyms": [
+          "monetary"
+        ],
+        "examples": [
+          {
+            "text": "The museum's numismatic collection includes rare coins minted under the Roman Empire.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 numismatique에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

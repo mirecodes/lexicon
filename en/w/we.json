@@ -1,0 +1,196 @@
+[
+  {
+    "word": "weary",
+    "score": 25,
+    "zipf": 3.61,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "physically and mentally fatigued",
+        "ko": "지친, 피곤한",
+        "synonyms": [
+          "tired",
+          "exhausted",
+          "fatigued",
+          "spent"
+        ],
+        "examples": [
+          {
+            "text": "A weary traveller knocked at the door.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "lose interest or become bored with something or somebody",
+        "ko": "싫증나다, 지겨워지다",
+        "synonyms": [
+          "tire",
+          "pall",
+          "bore"
+        ],
+        "examples": [
+          {
+            "text": "The audience began to weary of the speaker's endless anecdotes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 wēriġ('지친')에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "weigh",
+    "score": 21,
+    "zipf": 3.99,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "show consideration for; take into account",
+        "ko": "고려하다, 따져 보다",
+        "synonyms": [
+          "consider",
+          "assess",
+          "evaluate",
+          "ponder"
+        ],
+        "examples": [
+          {
+            "text": "The committee must weigh the benefits of the merger against its long-term risks.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "to be oppressive or burdensome",
+        "ko": "무겁게 짓누르다",
+        "synonyms": [
+          "press",
+          "burden",
+          "oppress"
+        ],
+        "examples": [
+          {
+            "text": "The unanswered letters weighed heavily on her conscience for months.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 wegan('옮기다, 달다')에서 왔습니다. 저울에 달듯 따져 보는 것이 '고려하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "welt",
+    "score": 32,
+    "zipf": 2.87,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a raised mark on the skin (as produced by the blow of a whip); characteristic of many allergic reactions",
+        "ko": "(맞은 자국으로 부어오른) 줄무늬, 부은 자국",
+        "synonyms": [
+          "wheal",
+          "weal",
+          "bruise",
+          "lump"
+        ],
+        "examples": [
+          {
+            "text": "The mosquito bites left itchy red welts along his arm.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "원래 구두 제작 용어였고, 1800년경 '피부에 솟은 자국'의 뜻이 생겼습니다. 어원은 불확실합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "welter",
+    "score": 36,
+    "zipf": 2.46,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a confused multitude of things",
+        "ko": "혼란, 뒤죽박죽",
+        "synonyms": [
+          "jumble",
+          "muddle",
+          "confusion",
+          "hodgepodge"
+        ],
+        "examples": [
+          {
+            "text": "They use these words to express a welter of opinions on what they think is good or bad, right or wrong, and all too readily wail ‘It's not fair!’.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "toss, roll, or rise and fall in an uncontrolled way",
+        "ko": "뒹굴다, 마구 일렁이다",
+        "synonyms": [
+          "wallow",
+          "roll",
+          "toss"
+        ],
+        "examples": [
+          {
+            "text": "The wrecked boat weltered in the heavy swell until the rescuers arrived.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 welteren('구르다')에서 왔습니다. 이리저리 뒹구는 모습이 '혼란, 뒤죽박죽'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

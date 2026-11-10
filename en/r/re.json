@@ -1,0 +1,4842 @@
+[
+  {
+    "word": "reactant",
+    "score": 34,
+    "zipf": 2.26,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a chemical substance that is present at the start of a chemical reaction",
+        "ko": "반응물",
+        "synonyms": [
+          "reagent"
+        ],
+        "examples": [
+          {
+            "text": "In the experiment, the students measured how quickly each reactant was consumed as the temperature rose.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "ag",
+      "-ant"
+    ]
+  },
+  {
+    "word": "reactionary",
+    "score": 29,
+    "zipf": 3.22,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "opposed to political or social liberalism or reform",
+        "ko": "반동적인, 보수 반동의",
+        "synonyms": [
+          "conservative",
+          "regressive",
+          "diehard"
+        ],
+        "examples": [
+          {
+            "text": "The reactionary government banned unions and censored newspapers to block any demand for reform.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an extreme conservative; an opponent of progress or liberalism",
+        "ko": "반동주의자, 수구파",
+        "synonyms": [
+          "diehard",
+          "ultraconservative"
+        ],
+        "examples": [
+          {
+            "text": "Progressives accused the reactionaries in parliament of trying to restore the privileges of the old aristocracy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "ag",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "프랑스어 réactionnaire에서 왔습니다. 프랑스 혁명에 맞서 반작용을 일으키려던 사람을 가리켰습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "readjustment",
+    "score": 33,
+    "zipf": 2.24,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the act of adjusting again (to changed circumstances)",
+        "ko": "재조정, 재적응",
+        "synonyms": [
+          "realignment",
+          "recalibration"
+        ],
+        "examples": [
+          {
+            "text": "Returning veterans faced a difficult readjustment to civilian life after years of service overseas.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "-ment"
+    ]
+  },
+  {
+    "word": "reap",
+    "score": 26,
+    "zipf": 3.53,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To obtain or receive as a reward, in a good or a bad sense.",
+        "ko": "(결과를) 거두다, 얻다",
+        "synonyms": [
+          "harvest",
+          "gain",
+          "garner"
+        ],
+        "examples": [
+          {
+            "text": "Companies that invested early in research are now reaping the rewards of their patience.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "gather, as of natural products",
+        "ko": "수확하다, 거두다",
+        "synonyms": [
+          "harvest",
+          "glean"
+        ],
+        "examples": [
+          {
+            "text": "Farmers gathered at dawn to reap the wheat before the autumn rains arrived.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 rēopan('베다')에서 왔습니다. 곡식을 베어 거두듯 결과를 거둔다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rebuke",
+    "score": 62,
+    "zipf": 3.1,
+    "lists": [
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To criticise harshly; to reprove.",
+        "ko": "꾸짖다, 질책하다",
+        "synonyms": [
+          "reprimand",
+          "reproach",
+          "admonish",
+          "chastise"
+        ],
+        "examples": [
+          {
+            "text": "The judge sharply rebuked the lawyer for repeatedly interrupting the witness during testimony.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an act or expression of criticism and censure",
+        "ko": "질책, 비난",
+        "synonyms": [
+          "reproof",
+          "reprimand",
+          "censure"
+        ],
+        "examples": [
+          {
+            "text": "The senator's speech was a stinging rebuke of the administration's foreign policy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 buchier('치다, 쪼개다')에 re-가 붙은 말입니다. 되받아 두들긴다는 데서 꾸짖는다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rebus",
+    "score": 36,
+    "zipf": 2.53,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a puzzle where you decode a message consisting of pictures representing syllables and words",
+        "ko": "그림 글자 수수께끼",
+        "synonyms": [
+          "picture puzzle"
+        ],
+        "examples": [
+          {
+            "text": "The children solved the rebus by recognizing that a picture of an eye and a sea meant 'I see'.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 rēbus('사물들로')에서 온 프랑스어에서 왔습니다. 글자 대신 사물 그림으로 말을 나타내는 수수께끼입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rebut",
+    "score": 35,
+    "zipf": 2.6,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "prove to be false or incorrect",
+        "ko": "반박하다, 논박하다",
+        "synonyms": [
+          "refute",
+          "disprove",
+          "controvert"
+        ],
+        "examples": [
+          {
+            "text": "The defense attorney rebutted the prosecution's claims with documents showing her client was abroad that night.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To deny the truth of something, especially by presenting arguments that disprove it.",
+        "ko": "반론을 제기하다",
+        "synonyms": [
+          "counter",
+          "deny",
+          "dispute"
+        ],
+        "examples": [
+          {
+            "text": "The company issued a statement rebutting allegations that it had concealed safety data.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 reboter('되밀치다')에서 왔고 butt('들이받다')와 이어집니다. 상대 주장을 되받아 밀쳐 냅니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "recalcitrant",
+    "score": 52,
+    "zipf": 2.55,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "stubbornly resistant to authority or control",
+        "ko": "고집 세고 말을 안 듣는, 반항적인",
+        "synonyms": [
+          "obstinate",
+          "refractory",
+          "fractious",
+          "unruly"
+        ],
+        "examples": [
+          {
+            "text": "The recalcitrant board members refused to approve the merger despite weeks of persuasion.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "calc",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 recalcitrāre('뒤로 걷어차다')에서 왔고 calx('발뒤꿈치')가 어원입니다. 말이 뒷발질하듯 반항합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "recant",
+    "score": 51,
+    "zipf": 2.42,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "formally reject or disavow a formerly held belief, usually under pressure",
+        "ko": "(공개적으로) 철회하다, 취소하다",
+        "synonyms": [
+          "retract",
+          "renounce",
+          "abjure",
+          "disavow"
+        ],
+        "examples": [
+          {
+            "text": "Under threat of imprisonment, the astronomer was forced to recant his claim that the earth moved.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "cant"
+    ],
+    "origin": {
+      "ko": "라틴어 recantāre('다시 노래하다, 취소하다')에서 왔습니다. 이미 부른 노래를 거꾸로 부르듯 앞말을 철회합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "recapitulate",
+    "score": 30,
+    "zipf": 1.88,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "summarize briefly",
+        "ko": "요약하다, 요점을 되풀이하다",
+        "synonyms": [
+          "summarize",
+          "recap",
+          "review",
+          "restate"
+        ],
+        "examples": [
+          {
+            "text": "Before taking questions, the lecturer recapitulated the main arguments of the previous three sessions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "cap(머리)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 recapitulāre에서 왔습니다. capitulum('머리, 요점')을 다시 짚는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "recapitulation",
+    "score": 33,
+    "zipf": 2.22,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a summary at the end that repeats the substance of a longer discussion",
+        "ko": "요약, 개요 반복",
+        "synonyms": [
+          "recap",
+          "summary",
+          "review"
+        ],
+        "examples": [
+          {
+            "text": "The final chapter offers a brief recapitulation of the book's central claims for hurried readers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "(music) the section of a composition or movement (especially in sonata form) in which musical themes that were introduced earlier are repeated",
+        "ko": "(음악) 재현부",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "In the recapitulation, the opening theme returns in the home key after a stormy development section.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "cap(머리)",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 recapitulatio('요약')에서 왔습니다. 요점을 다시 짚어 되풀이하는 일입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "recluse",
+    "score": 48,
+    "zipf": 2.92,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "one who lives in solitude",
+        "ko": "은둔자, 세상을 등진 사람",
+        "synonyms": [
+          "hermit",
+          "loner",
+          "solitary"
+        ],
+        "examples": [
+          {
+            "text": "After her husband died, the once-sociable author became a recluse and refused all interviews.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "withdrawn from society; seeking solitude",
+        "ko": "은둔하는, 속세를 떠난",
+        "synonyms": [
+          "reclusive",
+          "withdrawn",
+          "solitary"
+        ],
+        "examples": [
+          {
+            "text": "lived an unsocial reclusive life",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "clud"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 reclus('가둬진')에서 왔고 라틴어 reclūdere에서 나왔습니다. 문을 닫아걸고 홀로 사는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "reconcile",
+    "score": 42,
+    "zipf": 3.5,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make (one thing) compatible with (another)",
+        "ko": "조화시키다, 양립시키다",
+        "synonyms": [
+          "harmonize",
+          "accommodate",
+          "square",
+          "align"
+        ],
+        "examples": [
+          {
+            "text": "It is hard to reconcile the company's green slogans with its record of polluting nearby rivers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To restore a friendly relationship; to bring back or return to harmony.",
+        "ko": "화해시키다, 화해하다",
+        "synonyms": [
+          "conciliate",
+          "appease",
+          "reunite"
+        ],
+        "examples": [
+          {
+            "text": "to reconcile people who have quarrelled",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "accept as inevitable",
+        "ko": "(어쩔 수 없는 일로) 받아들이다",
+        "synonyms": [
+          "resign",
+          "submit"
+        ],
+        "examples": [
+          {
+            "text": "After years of appeals, she finally reconciled herself to the loss of the family farm.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "con-",
+      "cil"
+    ],
+    "origin": {
+      "ko": "라틴어 reconciliāre('다시 화해시키다')에서 왔습니다. 어긋난 것을 다시 맞춘다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "recondite",
+    "score": 92,
+    "zipf": 1.73,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge",
+        "ko": "난해한, 심오한",
+        "synonyms": [
+          "abstruse",
+          "arcane",
+          "esoteric",
+          "obscure"
+        ],
+        "examples": [
+          {
+            "text": "The journal publishes recondite essays on medieval logic that few readers outside the field can follow.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Little known; esoteric, secret.",
+        "ko": "잘 알려지지 않은, 비전의",
+        "synonyms": [
+          "esoteric",
+          "obscure",
+          "arcane"
+        ],
+        "examples": [
+          {
+            "text": "Her recondite knowledge of obscure dialects made her an invaluable consultant for linguists.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "con-",
+      "d"
+    ]
+  },
+  {
+    "word": "recourse",
+    "score": 44,
+    "zipf": 3.29,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "act of turning to for assistance",
+        "ko": "의지, 도움을 청함",
+        "synonyms": [
+          "resort",
+          "appeal"
+        ],
+        "examples": [
+          {
+            "text": "have recourse to the courts",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "something or someone turned to for assistance or security",
+        "ko": "의지가 되는 수단, 방편",
+        "synonyms": [
+          "refuge",
+          "resort",
+          "option"
+        ],
+        "examples": [
+          {
+            "text": "his only recourse was the police",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "cur(달리다)"
+    ],
+    "origin": {
+      "ko": "라틴어 recursus('되달려옴')에서 왔습니다. 도움을 구해 되돌아가 달려간다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "recovering",
+    "score": 23,
+    "zipf": 3.84,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "returning to health after illness or debility",
+        "ko": "회복 중인",
+        "synonyms": [
+          "convalescent",
+          "mending"
+        ],
+        "examples": [
+          {
+            "text": "The recovering patient was advised to rest for several weeks before returning to work.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-"
+    ]
+  },
+  {
+    "word": "recrimination",
+    "score": 33,
+    "zipf": 2.2,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "mutual accusations",
+        "ko": "맞고발, 서로 비난함",
+        "synonyms": [
+          "countercharge",
+          "accusation"
+        ],
+        "examples": [
+          {
+            "text": "The peace talks collapsed amid bitter recriminations over who had broken the ceasefire.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "crim",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "프랑스어 récrimination에서 왔습니다. 비난을 되받아 되돌려 서로 맞고발하는 일입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "recrudesce",
+    "score": 32,
+    "zipf": 0.0,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To recur, or break out anew after a quiescence or dormant period.",
+        "ko": "(병·분쟁이) 재발하다, 되살아나다",
+        "synonyms": [
+          "recur",
+          "flare up",
+          "resurge"
+        ],
+        "examples": [
+          {
+            "text": "Old tensions between the two communities recrudesced after the election, ending years of calm.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "crud"
+    ],
+    "origin": {
+      "ko": "라틴어 recrūdēscere('다시 날것이 되다')의 영향을 받은 말입니다. 아물던 상처가 다시 도지듯 재발한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "recrudescent",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Breaking out again or reemerging after temporary abatement or suppression.",
+        "ko": "재발하는, 다시 악화되는",
+        "synonyms": [
+          "recurring",
+          "resurgent",
+          "reviving"
+        ],
+        "examples": [
+          {
+            "text": "Officials feared a recrudescent wave of violence once the troops withdrew from the region.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "crud",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 recrūdēscō('다시 날것이 되다')에서 왔습니다. 가라앉았던 상처가 다시 생생해져 도집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "redolent",
+    "score": 34,
+    "zipf": 2.29,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "serving to bring to mind",
+        "ko": "연상시키는, 떠올리게 하는",
+        "synonyms": [
+          "evocative",
+          "reminiscent",
+          "suggestive"
+        ],
+        "examples": [
+          {
+            "text": "The film's soft colors and jazz score are redolent of postwar Paris.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "(used with ‘of’ or ‘with’) noticeably odorous",
+        "ko": "냄새가 나는, 향기로운",
+        "synonyms": [
+          "fragrant",
+          "aromatic",
+          "smelling"
+        ],
+        "examples": [
+          {
+            "text": "the hall was redolent of floor wax",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "ol",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 redolēre('냄새를 풍기다')의 현재분사에서 왔습니다. 냄새가 기억을 불러내듯 무언가를 연상시킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "redoubtable",
+    "score": 81,
+    "zipf": 2.16,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "inspiring fear",
+        "ko": "만만찮은, 두려운",
+        "synonyms": [
+          "formidable",
+          "fearsome",
+          "daunting"
+        ],
+        "examples": [
+          {
+            "text": "The challenger faced a redoubtable opponent who had not lost a debate in ten years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "worthy of respect or honor",
+        "ko": "존경할 만한, 훌륭한",
+        "synonyms": [
+          "respected",
+          "estimable"
+        ],
+        "examples": [
+          {
+            "text": "born of a redoubtable family",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "-able"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 redoter('두려워하다')에 -able이 붙은 말입니다. 두려워할 만한 상대라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "redound",
+    "score": 26,
+    "zipf": 1.45,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "have an effect for good or ill",
+        "ko": "(결과로) 이르다, 영향을 미치다",
+        "synonyms": [
+          "contribute",
+          "accrue",
+          "conduce"
+        ],
+        "examples": [
+          {
+            "text": "Her efforts will redound to the general good",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To contribute to the honour, shame etc. of a person or organisation.",
+        "ko": "(명예·불명예를) 가져오다",
+        "synonyms": [
+          "reflect",
+          "accrue"
+        ],
+        "examples": [
+          {
+            "text": "The scandal will redound to the discredit of everyone who tried to hide the facts.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "und"
+    ],
+    "origin": {
+      "ko": "라틴어 redundāre('넘쳐 흐르다')에서 왔고 unda('물결')가 어원입니다. 파도가 되돌아오듯 결과가 돌아옵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "redress",
+    "score": 62,
+    "zipf": 3.15,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make reparations or amends for",
+        "ko": "바로잡다, 보상하다",
+        "synonyms": [
+          "remedy",
+          "rectify",
+          "right",
+          "compensate"
+        ],
+        "examples": [
+          {
+            "text": "The government pledged to redress the injustices suffered by families displaced during the dam project.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "act of correcting an error or a fault or an evil",
+        "ko": "시정, 구제",
+        "synonyms": [
+          "remedy",
+          "remediation",
+          "amends"
+        ],
+        "examples": [
+          {
+            "text": "Workers who were unfairly dismissed sought redress through the labor tribunal.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 redrecier('다시 세우다')에서 왔습니다. 쓰러진 것을 바로 세우듯 잘못을 바로잡고 보상한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "refectory",
+    "score": 34,
+    "zipf": 2.29,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a communal dining-hall (usually in a monastery)",
+        "ko": "(수도원·학교의) 식당",
+        "synonyms": [
+          "dining hall",
+          "canteen"
+        ],
+        "examples": [
+          {
+            "text": "The monks gathered in the refectory each evening for a silent meal.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "fac(만들다)",
+      "-ory"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 refectorium에서 왔고 reficere('다시 만들다')에서 나왔습니다. 먹고 기운을 되찾는 식당입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "refine",
+    "score": 28,
+    "zipf": 3.28,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "improve or perfect by pruning or polishing",
+        "ko": "다듬다, 개선하다",
+        "synonyms": [
+          "polish",
+          "perfect",
+          "hone",
+          "fine-tune"
+        ],
+        "examples": [
+          {
+            "text": "refine one's style of writing",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "reduce to a fine, unmixed, or pure state; separate from extraneous matter or cleanse from impurities",
+        "ko": "정제하다, 정련하다",
+        "synonyms": [
+          "purify",
+          "distill",
+          "clarify"
+        ],
+        "examples": [
+          {
+            "text": "refine sugar",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "fin"
+    ]
+  },
+  {
+    "word": "reflect",
+    "score": 17,
+    "zipf": 4.39,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "reflect deeply on a subject",
+        "ko": "숙고하다, 곰곰이 생각하다",
+        "synonyms": [
+          "ponder",
+          "contemplate",
+          "meditate",
+          "mull"
+        ],
+        "examples": [
+          {
+            "text": "Before replying, she paused to reflect on what the committee's criticism really meant.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "give evidence of the quality of",
+        "ko": "(성격·가치를) 드러내다, 반영하다",
+        "synonyms": [
+          "indicate",
+          "reveal",
+          "demonstrate"
+        ],
+        "examples": [
+          {
+            "text": "The mess in his dorm room reflects on the student",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "to throw or bend back (from a surface)",
+        "ko": "반사하다",
+        "synonyms": [
+          "rebound",
+          "mirror"
+        ],
+        "examples": [
+          {
+            "text": "Sound is reflected well in this auditorium",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "flect"
+    ],
+    "origin": {
+      "ko": "라틴어 reflectere('뒤로 구부리다')에서 왔습니다. 빛을 되꺾어 비추듯 생각을 되돌려 숙고한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "refractory",
+    "score": 64,
+    "zipf": 2.88,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "stubbornly resistant to authority or control",
+        "ko": "다루기 힘든, 고집 센",
+        "synonyms": [
+          "unruly",
+          "recalcitrant",
+          "fractious",
+          "obstinate"
+        ],
+        "examples": [
+          {
+            "text": "The refractory mule balked at every command and would not pull the cart up the hill.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not responding to treatment",
+        "ko": "치료가 잘 듣지 않는",
+        "synonyms": [
+          "stubborn",
+          "intractable"
+        ],
+        "examples": [
+          {
+            "text": "Doctors tried three antibiotics before concluding the infection was refractory to standard treatment.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "fract",
+      "-ory"
+    ],
+    "origin": {
+      "ko": "라틴어 refractārius('고집 센')에서 왔고 refringere('부수다')와 이어집니다. 꺾이지 않고 버티는 고집입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "refulgent",
+    "score": 39,
+    "zipf": 1.22,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "radiating or as if radiating light",
+        "ko": "눈부시게 빛나는",
+        "synonyms": [
+          "radiant",
+          "effulgent",
+          "resplendent",
+          "brilliant"
+        ],
+        "examples": [
+          {
+            "text": "The refulgent dome of the cathedral glowed in the late afternoon sun.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "fulg",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 refulgēre('되비쳐 빛나다')의 현재분사에서 왔습니다. 눈부시게 빛을 내뿜는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "refute",
+    "score": 78,
+    "zipf": 3.14,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "prove to be false or incorrect",
+        "ko": "논박하다, 반증하다",
+        "synonyms": [
+          "rebut",
+          "disprove",
+          "debunk",
+          "controvert"
+        ],
+        "examples": [
+          {
+            "text": "New archaeological evidence refuted the long-held theory that the settlement was abandoned suddenly.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 refūtāre('물리치다, 반박하다')에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "regress",
+    "score": 35,
+    "zipf": 2.63,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "go back to a previous state",
+        "ko": "퇴행하다, 이전 상태로 돌아가다",
+        "synonyms": [
+          "revert",
+          "retrogress",
+          "backslide",
+          "relapse"
+        ],
+        "examples": [
+          {
+            "text": "Under stress, the toddler began to regress, refusing to walk and demanding to be carried.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "returning to a former state",
+        "ko": "퇴보, 복귀",
+        "synonyms": [
+          "regression",
+          "reversion",
+          "retrogression"
+        ],
+        "examples": [
+          {
+            "text": "Critics saw the new policy as a regress to the discredited practices of an earlier era.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "grad"
+    ],
+    "origin": {
+      "ko": "라틴어 regredī('되돌아가다')에서 왔습니다. 뒤로 걸어 이전 상태로 간다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "reiterate",
+    "score": 30,
+    "zipf": 3.13,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to say, state, or perform again",
+        "ko": "반복해서 말하다",
+        "synonyms": [
+          "repeat",
+          "restate",
+          "iterate"
+        ],
+        "examples": [
+          {
+            "text": "The spokesman reiterated that the government would not negotiate with the kidnappers under any circumstances.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "iter(다시)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 reiterāre('되풀이하다')에서 왔고 iterum('다시')에서 나왔습니다. 같은 말을 다시 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rejoinder",
+    "score": 65,
+    "zipf": 2.2,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a quick reply to a question or remark (especially a witty or critical one)",
+        "ko": "재치 있는 응답, 반박",
+        "synonyms": [
+          "retort",
+          "riposte",
+          "comeback",
+          "reply"
+        ],
+        "examples": [
+          {
+            "text": "it brought a sharp rejoinder from the teacher",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "jug"
+    ],
+    "origin": {
+      "ko": "프랑스어 rejoindre('다시 잇다')의 부정사를 명사로 쓴 말입니다. 상대 말에 되받아 이어 응답하는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "relegate",
+    "score": 84,
+    "zipf": 2.47,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "assign to a lower position; reduce in rank",
+        "ko": "강등시키다, 좌천시키다",
+        "synonyms": [
+          "demote",
+          "downgrade",
+          "consign"
+        ],
+        "examples": [
+          {
+            "text": "The once-celebrated director was relegated to making low-budget commercials after a string of failures.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "refer to another person for decision or judgment",
+        "ko": "(결정을) 넘기다, 위임하다",
+        "synonyms": [
+          "delegate",
+          "refer",
+          "pass on"
+        ],
+        "examples": [
+          {
+            "text": "She likes to relegate difficult questions to her colleagues",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "leg(보내다)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 relēgāre('쫓아 보내다, 추방하다')에서 왔습니다. 뒤로 밀어 보낸다는 데서 '강등시키다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "relent",
+    "score": 36,
+    "zipf": 2.52,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To give in or be swayed; to become less hard, harsh, or cruel; to show clemency.",
+        "ko": "누그러지다, 마음을 풀다",
+        "synonyms": [
+          "yield",
+          "soften",
+          "give way",
+          "capitulate"
+        ],
+        "examples": [
+          {
+            "text": "After weeks of protest, the mayor finally relented and agreed to reopen the community pool.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To slacken; to abate.",
+        "ko": "(기세가) 누그러지다, 잦아들다",
+        "synonyms": [
+          "abate",
+          "subside",
+          "ease"
+        ],
+        "examples": [
+          {
+            "text": "We waited for the storm to relent before we ventured outside.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "lent"
+    ],
+    "origin": {
+      "ko": "라틴어 lentus('부드러운, 유연한')에서 나온 말입니다. 굳은 마음이 다시 부드러워져 누그러진다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "relinquish",
+    "score": 30,
+    "zipf": 3.12,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "part with a possession or right",
+        "ko": "포기하다, 양도하다",
+        "synonyms": [
+          "surrender",
+          "renounce",
+          "cede",
+          "give up"
+        ],
+        "examples": [
+          {
+            "text": "The aging founder was reluctant to relinquish control of the company to his younger daughter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "release, as from one's grip",
+        "ko": "(쥐고 있던 것을) 놓다",
+        "synonyms": [
+          "release",
+          "let go"
+        ],
+        "examples": [
+          {
+            "text": "The climber slowly relinquished his grip on the rope as the rescuers took his weight.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "linqu"
+    ],
+    "origin": {
+      "ko": "라틴어 relinquere('뒤에 남기고 떠나다')에서 왔습니다. 가진 것을 두고 떠나 포기한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "relish",
+    "score": 28,
+    "zipf": 3.32,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "derive or receive pleasure from; get enjoyment from; take pleasure in",
+        "ko": "즐기다, 음미하다",
+        "synonyms": [
+          "enjoy",
+          "savor",
+          "revel in",
+          "delight in"
+        ],
+        "examples": [
+          {
+            "text": "She relished her fame and basked in her glory",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "vigorous and enthusiastic enjoyment",
+        "ko": "열렬한 즐거움, 흥미",
+        "synonyms": [
+          "gusto",
+          "zest",
+          "enthusiasm",
+          "zeal"
+        ],
+        "examples": [
+          {
+            "text": "The debater attacked her opponent's argument with obvious relish, delighting the crowd.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 reles('남은 것')에서 나온 release('냄새, 맛')의 변형입니다. 맛을 음미한다는 데서 '즐기다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "remedial",
+    "score": 46,
+    "zipf": 3.08,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "tending or intended to rectify or improve",
+        "ko": "교정의, 보충의",
+        "synonyms": [
+          "corrective",
+          "restorative"
+        ],
+        "examples": [
+          {
+            "text": "a remedial reading course",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "tending to cure or restore to health",
+        "ko": "치료의, 치유력 있는",
+        "synonyms": [
+          "curative",
+          "healing",
+          "therapeutic"
+        ],
+        "examples": [
+          {
+            "text": "The spa advertised the remedial properties of its mineral springs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "med",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 remediālis에서 왔으며 remedy('치료')에 -al이 붙은 말입니다. 부족한 것을 고쳐 주는 교육 등에 씁니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "remiss",
+    "score": 51,
+    "zipf": 2.62,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "failing in what duty requires",
+        "ko": "태만한, 소홀한",
+        "synonyms": [
+          "negligent",
+          "lax",
+          "neglectful",
+          "derelict"
+        ],
+        "examples": [
+          {
+            "text": "It would be remiss of the committee to ignore the warnings raised by the auditors.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "mit(보내다)"
+    ],
+    "origin": {
+      "ko": "라틴어 remissus('느슨해진, 게으른')에서 왔고 remittere('늦추다')의 과거분사입니다. 조여 둘 의무가 느슨해진 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "remission",
+    "score": 29,
+    "zipf": 3.19,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an abatement in intensity or degree (as in the manifestations of a disease)",
+        "ko": "(병세의) 완화, 차도",
+        "synonyms": [
+          "abatement",
+          "lull",
+          "subsidence"
+        ],
+        "examples": [
+          {
+            "text": "his cancer is in remission",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A pardon of a sin; (chiefly historical, also figuratively) the forgiveness of an offence, or relinquishment of a (legal) claim or a debt.",
+        "ko": "사면, 면제",
+        "synonyms": [
+          "pardon",
+          "absolution",
+          "forgiveness"
+        ],
+        "examples": [
+          {
+            "text": "The ancient ritual promised remission of sins to all who made the pilgrimage.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "mit(보내다)",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 remissiō에서 왔고 remittere('늦추어 보내다')와 이어집니다. 병세를 풀어 늦춘다는 '완화'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "remonstrate",
+    "score": 29,
+    "zipf": 1.81,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "argue in protest or opposition",
+        "ko": "항의하다, 이의를 제기하다",
+        "synonyms": [
+          "protest",
+          "object",
+          "expostulate"
+        ],
+        "examples": [
+          {
+            "text": "Parents gathered at the school to remonstrate with the board over the planned closure.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "monstr",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 remōnstrāre에서 왔습니다. 잘못을 되받아 지적해 보여 주며 항의한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "remote",
+    "score": 17,
+    "zipf": 4.41,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unlikely to occur",
+        "ko": "가능성이 희박한",
+        "synonyms": [
+          "slim",
+          "slight",
+          "faint",
+          "outside"
+        ],
+        "examples": [
+          {
+            "text": "Analysts said there was only a remote chance that the two rivals would agree to merge.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Emotionally detached.",
+        "ko": "냉담한, 거리를 두는",
+        "synonyms": [
+          "aloof",
+          "detached",
+          "distant",
+          "withdrawn"
+        ],
+        "examples": [
+          {
+            "text": "After the divorce, he grew remote and rarely spoke to his colleagues at lunch.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "mot"
+    ],
+    "origin": {
+      "ko": "라틴어 remōtus('멀리 치워진')에서 왔고 removēre('치우다')의 과거분사입니다. 멀리 떨어져 가능성이 희박하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "remuneration",
+    "score": 44,
+    "zipf": 3.26,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the act of paying for goods or services or to recompense for losses",
+        "ko": "보수, 보상",
+        "synonyms": [
+          "payment",
+          "compensation",
+          "recompense"
+        ],
+        "examples": [
+          {
+            "text": "adequate remuneration for his work",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "mun",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 remūnerātiō에서 왔습니다. munus('선물, 의무')를 되돌려 갚는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rend",
+    "score": 51,
+    "zipf": 2.43,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "tear or be torn violently",
+        "ko": "찢다, 갈가리 찢어지다",
+        "synonyms": [
+          "rip",
+          "tear",
+          "rive",
+          "split"
+        ],
+        "examples": [
+          {
+            "text": "The violent storm threatened to rend the old sail into ribbons before the ship reached harbor.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To violently disturb the peace of; to throw into chaos.",
+        "ko": "(평화를) 깨뜨리다, 혼란에 빠뜨리다",
+        "synonyms": [
+          "shatter",
+          "disrupt",
+          "split"
+        ],
+        "examples": [
+          {
+            "text": "A bitter dispute over succession threatened to rend the royal family apart.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 rendan('찢다')에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "render",
+    "score": 55,
+    "zipf": 3.78,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause to become",
+        "ko": "~하게 만들다",
+        "synonyms": [
+          "make",
+          "cause to be"
+        ],
+        "examples": [
+          {
+            "text": "The shot rendered her immobile",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "pass down",
+        "ko": "(판결 등을) 내리다",
+        "synonyms": [
+          "deliver",
+          "hand down",
+          "return"
+        ],
+        "examples": [
+          {
+            "text": "render a verdict",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "give an interpretation or rendition of",
+        "ko": "표현하다, 연주·번역하다",
+        "synonyms": [
+          "interpret",
+          "portray",
+          "depict"
+        ],
+        "examples": [
+          {
+            "text": "The pianist rendered the Beethoven sonata beautifully",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "d"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 rendre('되돌려 주다')에서 왔고 라틴어 reddere에서 나왔습니다. 어떤 상태로 되돌려 놓는다는 데서 '~하게 만들다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "renegade",
+    "score": 29,
+    "zipf": 3.23,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a disloyal person who betrays or deserts their cause or religion or political party or friend etc.",
+        "ko": "배신자, 변절자",
+        "synonyms": [
+          "turncoat",
+          "traitor",
+          "apostate",
+          "defector"
+        ],
+        "examples": [
+          {
+            "text": "The party denounced him as a renegade after he voted with the opposition on every key issue.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Unconventional, unorthodox.",
+        "ko": "관례를 따르지 않는, 이단적인",
+        "synonyms": [
+          "maverick",
+          "unorthodox",
+          "rebel"
+        ],
+        "examples": [
+          {
+            "text": "The renegade physicist published theories that defied nearly every assumption of his field.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "neg"
+    ],
+    "origin": {
+      "ko": "스페인어 renegado에서 왔고 라틴어 renegāre('부인하다')에서 나왔습니다. 믿음을 저버린 배신자입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "renege",
+    "score": 50,
+    "zipf": 2.26,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "fail to fulfill a promise or obligation",
+        "ko": "약속을 어기다",
+        "synonyms": [
+          "default",
+          "go back on",
+          "backslide",
+          "welsh"
+        ],
+        "examples": [
+          {
+            "text": "she reneged on her promise",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "neg"
+    ],
+    "origin": {
+      "ko": "라틴어 renegāre('부인하다')에서 왔습니다. 했던 약속을 부인하고 어긴다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "renounce",
+    "score": 45,
+    "zipf": 3.19,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "give up, such as power, as of monarchs and emperors, or duties and obligations",
+        "ko": "포기하다, 단념하다",
+        "synonyms": [
+          "abdicate",
+          "relinquish",
+          "forswear",
+          "waive"
+        ],
+        "examples": [
+          {
+            "text": "The prince renounced his claim to the throne in order to marry a commoner.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cast off",
+        "ko": "관계를 끊다, 부인하다",
+        "synonyms": [
+          "disown",
+          "repudiate",
+          "disavow",
+          "reject"
+        ],
+        "examples": [
+          {
+            "text": "She renounced her husband",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "nunc"
+    ],
+    "origin": {
+      "ko": "라틴어 renūntiāre('거절을 알리다')에서 왔습니다. 가진 권리를 내려놓겠다고 공식으로 알리는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "repast",
+    "score": 63,
+    "zipf": 1.99,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the food served and eaten at one time",
+        "ko": "식사, 한 끼",
+        "synonyms": [
+          "meal",
+          "feast",
+          "banquet"
+        ],
+        "examples": [
+          {
+            "text": "After the long journey, the travelers sat down to a modest but welcome repast.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "past"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 repastus('식사')에서 왔고 repāscere('먹이다')와 이어집니다. 기운을 되찾게 해 주는 한 끼입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "repeal",
+    "score": 22,
+    "zipf": 3.87,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cancel officially",
+        "ko": "폐지하다, 철회하다",
+        "synonyms": [
+          "revoke",
+          "rescind",
+          "annul",
+          "abolish"
+        ],
+        "examples": [
+          {
+            "text": "Parliament voted to repeal the outdated law that had restricted public gatherings for decades.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the act of abrogating; an official or legal cancellation",
+        "ko": "폐지, 무효화",
+        "synonyms": [
+          "abrogation",
+          "annulment",
+          "revocation"
+        ],
+        "examples": [
+          {
+            "text": "Lawmakers voted for the repeal of the unpopular tax after months of public pressure.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "peal"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 rapeler('불러들이다, 철회하다')에서 왔고 라틴어 repellere와 이어집니다. 이미 내린 법을 거두어들입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "repercussion",
+    "score": 34,
+    "zipf": 2.25,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a remote or indirect consequence of some action",
+        "ko": "(간접적) 영향, 반향",
+        "synonyms": [
+          "consequence",
+          "aftermath",
+          "ramification",
+          "backlash"
+        ],
+        "examples": [
+          {
+            "text": "his declaration had unforeseen repercussions",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "per-",
+      "cuss",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 repercutere('되튀게 하다')에서 왔습니다. 쳤을 때 되돌아오는 반향이 '간접적 영향'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "repertoire",
+    "score": 43,
+    "zipf": 3.43,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the entire range of skills or aptitudes or devices used in a particular field or occupation",
+        "ko": "(보유한) 기량의 범위, 레퍼토리",
+        "synonyms": [
+          "range",
+          "stock",
+          "arsenal"
+        ],
+        "examples": [
+          {
+            "text": "The negotiator's repertoire of tactics ranged from patient listening to calculated silence.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a collection of works (plays, songs, operas, ballets) that an artist or company can perform and do perform for short intervals on a regular schedule",
+        "ko": "연주 목록, 상연 목록",
+        "synonyms": [
+          "repertory",
+          "program"
+        ],
+        "examples": [
+          {
+            "text": "The opera company's repertoire includes works by Mozart and Verdi.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 repertōrium('목록, 재고')에서 온 프랑스어를 빌려 왔습니다. 공연할 수 있는 작품 목록을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "repine",
+    "score": 22,
+    "zipf": 1.07,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "express discontent",
+        "ko": "불평하다, 투덜대다",
+        "synonyms": [
+          "complain",
+          "fret",
+          "grumble",
+          "lament"
+        ],
+        "examples": [
+          {
+            "text": "Rather than repine over his lost fortune, he set about rebuilding his business from nothing.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-"
+    ],
+    "origin": {
+      "ko": "re-에 pine('애타게 그리워하다')을 붙여 만든 것으로 보입니다. 마음이 상해 불평한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "replenish",
+    "score": 31,
+    "zipf": 3.04,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "fill something that had previously been emptied",
+        "ko": "다시 채우다, 보충하다",
+        "synonyms": [
+          "refill",
+          "restock",
+          "replace",
+          "top up"
+        ],
+        "examples": [
+          {
+            "text": "The charity worked to replenish the food bank's shelves before the winter holidays.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "ple"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 replenir('다시 채우다')에서 왔고 라틴어 plenus('가득한')가 어원입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "replete",
+    "score": 64,
+    "zipf": 2.91,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(followed by ‘with’) deeply filled or permeated",
+        "ko": "가득 찬, ~이 풍부한",
+        "synonyms": [
+          "abounding",
+          "teeming",
+          "imbued",
+          "rich"
+        ],
+        "examples": [
+          {
+            "text": "The memoir is replete with vivid details of life in a wartime village.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "filled to satisfaction with food or drink",
+        "ko": "배불리 먹은, 포식한",
+        "synonyms": [
+          "full",
+          "sated",
+          "satiated",
+          "gorged"
+        ],
+        "examples": [
+          {
+            "text": "After the holiday feast, the guests lay replete and drowsy on the sofas.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "ple"
+    ],
+    "origin": {
+      "ko": "라틴어 repletus('가득 채워진')에서 왔습니다. 속이 꽉 찬 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "repose",
+    "score": 50,
+    "zipf": 2.75,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "freedom from activity (work or strain or responsibility)",
+        "ko": "휴식, 안식",
+        "synonyms": [
+          "rest",
+          "ease",
+          "relaxation"
+        ],
+        "examples": [
+          {
+            "text": "took his repose by the swimming pool",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a disposition free from stress or emotion",
+        "ko": "평온, 침착",
+        "synonyms": [
+          "calm",
+          "serenity",
+          "tranquility",
+          "placidity"
+        ],
+        "examples": [
+          {
+            "text": "Even in the middle of the crisis, the old judge maintained an air of calm repose.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "lean in a comfortable resting position",
+        "ko": "편안히 눕다, 쉬다",
+        "synonyms": [
+          "recline",
+          "rest",
+          "lie"
+        ],
+        "examples": [
+          {
+            "text": "He was reposing on the couch",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "pos"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 reposer('쉬다')에서 왔고 후기 라틴어 repausāre('쉬게 하다')와 이어집니다. 몸을 내려놓고 쉬는 안식입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "reprehensible",
+    "score": 31,
+    "zipf": 2.97,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "bringing or deserving severe rebuke or censure",
+        "ko": "비난받아 마땅한",
+        "synonyms": [
+          "deplorable",
+          "blameworthy",
+          "condemnable",
+          "culpable"
+        ],
+        "examples": [
+          {
+            "text": "The council condemned the contractor's reprehensible decision to ignore basic safety rules.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "prehend",
+      "-able"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 reprehensibilis에서 왔고 reprehendere('붙잡아 꾸짖다')와 이어집니다. 꾸짖어 마땅하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "reprisal",
+    "score": 32,
+    "zipf": 2.87,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An act of retaliation.",
+        "ko": "보복, 앙갚음",
+        "synonyms": [
+          "retaliation",
+          "revenge",
+          "retribution"
+        ],
+        "examples": [
+          {
+            "text": "Villagers feared reprisals if they cooperated with the investigators, so few agreed to testify.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "prehend"
+    ],
+    "origin": {
+      "ko": "고대 이탈리아어 ripresaglia에서 왔고 riprendere('되찾아 가다')와 이어집니다. 당한 만큼 되가져오는 보복입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "reprise",
+    "score": 31,
+    "zipf": 2.96,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A repetition of a phrase, a return to an earlier theme, or a second rendition or version of a song in a programme or musical.",
+        "ko": "(음악의) 반복, 재현",
+        "synonyms": [
+          "repetition",
+          "repeat",
+          "recapitulation"
+        ],
+        "examples": [
+          {
+            "text": "The film ends with a quiet reprise of the melody that opened the first scene.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A recurrence or resumption of an action.",
+        "ko": "재개, 되풀이",
+        "synonyms": [
+          "resumption",
+          "recurrence",
+          "renewal"
+        ],
+        "examples": [
+          {
+            "text": "The senator's speech was a reprise of arguments she had made throughout the campaign.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "prehend"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 reprendre('다시 잡다')에서 왔습니다. 앞의 주제를 다시 집어 드는 반복입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "reproach",
+    "score": 80,
+    "zipf": 2.94,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To criticize or rebuke (someone).",
+        "ko": "비난하다, 꾸짖다",
+        "synonyms": [
+          "rebuke",
+          "reprove",
+          "upbraid",
+          "admonish"
+        ],
+        "examples": [
+          {
+            "text": "She reproached herself for failing to notice the warning signs sooner.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a mild rebuke or criticism",
+        "ko": "질책, 나무람",
+        "synonyms": [
+          "rebuke",
+          "reproof",
+          "censure"
+        ],
+        "examples": [
+          {
+            "text": "words of reproach",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "disgrace or shame",
+        "ko": "불명예, 수치",
+        "synonyms": [
+          "disgrace",
+          "shame",
+          "discredit",
+          "opprobrium"
+        ],
+        "examples": [
+          {
+            "text": "he brought reproach upon his family",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 reprochier('나무라다')에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "reprobate",
+    "score": 65,
+    "zipf": 2.2,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A person with low morals or principles.",
+        "ko": "타락한 사람, 방탕아",
+        "synonyms": [
+          "scoundrel",
+          "rogue",
+          "miscreant",
+          "wretch"
+        ],
+        "examples": [
+          {
+            "text": "The village gossips called him a drunken reprobate who had squandered his family's fortune.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "deviating from what is considered moral or right or proper or good",
+        "ko": "타락한, 부도덕한",
+        "synonyms": [
+          "depraved",
+          "corrupt",
+          "dissolute",
+          "wicked"
+        ],
+        "examples": [
+          {
+            "text": "The preacher denounced the reprobate city and warned its citizens to mend their ways.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "express strong disapproval of",
+        "ko": "강력히 비난하다",
+        "synonyms": [
+          "condemn",
+          "decry",
+          "denounce",
+          "excoriate"
+        ],
+        "examples": [
+          {
+            "text": "Church leaders reprobated the spread of gambling dens near the harbor in a sharply worded letter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "prob",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 reprobātus('인정받지 못한')에서 왔습니다. 시험에서 불합격해 버림받은 타락한 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "reprobation",
+    "score": 27,
+    "zipf": 1.56,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "severe disapproval",
+        "ko": "강한 비난, 질책",
+        "synonyms": [
+          "censure",
+          "condemnation",
+          "disapproval",
+          "opprobrium"
+        ],
+        "examples": [
+          {
+            "text": "The editorial met the minister's remarks with open reprobation and called for his resignation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "prob",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "프랑스어 réprobation 또는 라틴어 reprobatio에서 왔으며 reprobate에 -ion이 붙은 말입니다. 인정하지 않고 내치는 강한 비난입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "repudiate",
+    "score": 84,
+    "zipf": 2.45,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "reject as untrue, unfounded, or unjust",
+        "ko": "부인하다, 거부하다",
+        "synonyms": [
+          "deny",
+          "reject",
+          "disavow",
+          "disclaim"
+        ],
+        "examples": [
+          {
+            "text": "She repudiated the accusations",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "refuse to acknowledge, ratify, or recognize as valid",
+        "ko": "(효력을) 인정하지 않다",
+        "synonyms": [
+          "reject",
+          "rescind",
+          "annul"
+        ],
+        "examples": [
+          {
+            "text": "The woman repudiated the divorce settlement",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To refuse to have any relation to; to disown.",
+        "ko": "의절하다, 관계를 끊다",
+        "synonyms": [
+          "disown",
+          "disavow",
+          "renounce"
+        ],
+        "examples": [
+          {
+            "text": "The movement publicly repudiated its founder after he praised violent extremists.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 repudiāre('내치다')에서 왔고 repudium('거부, 이혼')와 이어집니다. 받아들이지 않고 물리친다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "repugnant",
+    "score": 48,
+    "zipf": 2.91,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Offensive or repulsive; arousing disgust or aversion.",
+        "ko": "몹시 불쾌한, 혐오스러운",
+        "synonyms": [
+          "repulsive",
+          "abhorrent",
+          "loathsome",
+          "odious"
+        ],
+        "examples": [
+          {
+            "text": "Most citizens found the regime's treatment of prisoners morally repugnant.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Opposed or in conflict.",
+        "ko": "모순되는, 상충하는",
+        "synonyms": [
+          "inconsistent",
+          "incompatible",
+          "contradictory"
+        ],
+        "examples": [
+          {
+            "text": "a repugnant condition",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "pug",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 repugnāre('맞서 싸우다')의 현재분사에서 왔습니다. 마음이 맞서 싸울 만큼 불쾌하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "requite",
+    "score": 44,
+    "zipf": 1.73,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make repayment for or return something",
+        "ko": "보답하다, 갚다",
+        "synonyms": [
+          "repay",
+          "reciprocate",
+          "reward",
+          "avenge"
+        ],
+        "examples": [
+          {
+            "text": "He hoped one day to requite the kindness of the neighbors who had sheltered his family.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "quite"
+    ],
+    "origin": {
+      "ko": "re-에 중세 영어 quiten('갚다')이 붙은 말입니다. 받은 것을 되돌려 갚는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rescind",
+    "score": 64,
+    "zipf": 2.87,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cancel officially",
+        "ko": "철회하다, 폐지하다",
+        "synonyms": [
+          "revoke",
+          "repeal",
+          "annul",
+          "countermand"
+        ],
+        "examples": [
+          {
+            "text": "The university rescinded its offer after discovering that the applicant had falsified her credentials.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "sciss"
+    ],
+    "origin": {
+      "ko": "라틴어 rescindere('잘라 내다')에서 왔습니다. 이미 있는 것을 뒤로 잘라 없애 철회한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "reservation",
+    "score": 22,
+    "zipf": 3.95,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a statement that limits or restricts some claim",
+        "ko": "단서, 조건, 유보",
+        "synonyms": [
+          "qualification",
+          "proviso",
+          "caveat",
+          "condition"
+        ],
+        "examples": [
+          {
+            "text": "he recommended her without any reservations",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an unstated doubt that prevents you from accepting something wholeheartedly",
+        "ko": "의구심, 망설임",
+        "synonyms": [
+          "doubt",
+          "misgiving",
+          "qualm",
+          "scruple"
+        ],
+        "examples": [
+          {
+            "text": "Several members voiced private reservations about the plan even as they voted in its favor.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a district that is reserved for particular purpose",
+        "ko": "보호구역",
+        "synonyms": [
+          "reserve"
+        ],
+        "examples": [
+          {
+            "text": "The tribe's reservation covers a large stretch of arid land in the northern part of the state.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "serv",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "프랑스어 reservation에서 왔고 reserve('따로 간직하다')에 -ation이 붙었습니다. 일부를 따로 남겨 두는 단서입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "resignation",
+    "score": 21,
+    "zipf": 4.02,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An uncomplaining acceptance of something undesirable but unavoidable.",
+        "ko": "체념, 순응",
+        "synonyms": [
+          "acceptance",
+          "submission",
+          "acquiescence",
+          "fatalism"
+        ],
+        "examples": [
+          {
+            "text": "She faced the diagnosis with quiet resignation, putting her affairs in order without complaint.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the act of giving up (a claim or office or possession etc.)",
+        "ko": "사임, 사직",
+        "synonyms": [
+          "abdication",
+          "stepping down"
+        ],
+        "examples": [
+          {
+            "text": "The minister's resignation followed weeks of mounting pressure over the budget scandal.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "sign",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 resignātiō에서 왔고 resign('내놓다')에 -ation이 붙었습니다. 바꿀 수 없는 일을 그대로 받아들이는 체념입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "resilient",
+    "score": 26,
+    "zipf": 3.5,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "recovering readily from adversity, depression, or the like",
+        "ko": "회복력 있는, 탄력적인",
+        "synonyms": [
+          "tough",
+          "hardy",
+          "buoyant",
+          "adaptable"
+        ],
+        "examples": [
+          {
+            "text": "Small businesses proved resilient during the downturn, adapting quickly to the sudden change in demand.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "elastic; rebounds readily",
+        "ko": "탄성 있는, 쉽게 튀어 오르는",
+        "synonyms": [
+          "elastic",
+          "springy",
+          "flexible",
+          "supple"
+        ],
+        "examples": [
+          {
+            "text": "Rubber is valued for being a resilient material that returns to its shape after stretching.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "sal",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 resilīre('뒤로 튀어 오르다')에서 왔습니다. 눌려도 도로 튀어 오르는 회복력입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "resolute",
+    "score": 30,
+    "zipf": 3.12,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "firm in purpose or belief; characterized by firmness and determination",
+        "ko": "단호한, 굳은 결의의",
+        "synonyms": [
+          "determined",
+          "steadfast",
+          "unwavering",
+          "staunch"
+        ],
+        "examples": [
+          {
+            "text": "stood resolute against the enemy",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "solv"
+    ],
+    "origin": {
+      "ko": "라틴어 resolūtus('풀려난')에서 왔고 resolvere('풀다')의 과거분사입니다. 의문이 풀려 결심이 굳은 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "resolution",
+    "score": 16,
+    "zipf": 4.59,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A strong will; the state of being resolute.",
+        "ko": "결의, 굳은 의지",
+        "synonyms": [
+          "determination",
+          "resolve",
+          "steadfastness",
+          "firmness"
+        ],
+        "examples": [
+          {
+            "text": "The explorers faced the blizzard with a resolution that astonished even their own guides.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "finding a solution to a problem",
+        "ko": "해결",
+        "synonyms": [
+          "solution",
+          "settlement",
+          "solving"
+        ],
+        "examples": [
+          {
+            "text": "Both sides welcomed the swift resolution of the dispute over water rights.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a formal expression by a meeting; agreed to by a vote",
+        "ko": "결의안",
+        "synonyms": [
+          "declaration",
+          "motion",
+          "resolve"
+        ],
+        "examples": [
+          {
+            "text": "The assembly passed a resolution condemning the use of chemical weapons.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "solv",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 resolūtiō('풀어냄')에서 왔습니다. 갈등을 풀고 마음을 굳히는 결의입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "resolve",
+    "score": 35,
+    "zipf": 4.17,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "reach a decision",
+        "ko": "결심하다",
+        "synonyms": [
+          "decide",
+          "determine",
+          "vow"
+        ],
+        "examples": [
+          {
+            "text": "he resolved never to drink again",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "bring to an end; settle conclusively",
+        "ko": "해결하다, 매듭짓다",
+        "synonyms": [
+          "settle",
+          "decide",
+          "adjudicate",
+          "solve"
+        ],
+        "examples": [
+          {
+            "text": "The mediator helped resolve the long dispute between the neighboring towns.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the trait of being resolute",
+        "ko": "결의, 의지",
+        "synonyms": [
+          "determination",
+          "firmness",
+          "resoluteness"
+        ],
+        "examples": [
+          {
+            "text": "his resoluteness carried him through the battle",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "solv"
+    ],
+    "origin": {
+      "ko": "라틴어 resolvere('풀다, 녹이다')에서 왔습니다. 문제를 풀어 결론에 이르러 결심한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "resonant",
+    "score": 30,
+    "zipf": 3.13,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "serving to bring to mind",
+        "ko": "연상시키는, 마음에 와닿는",
+        "synonyms": [
+          "evocative",
+          "redolent",
+          "reminiscent",
+          "suggestive"
+        ],
+        "examples": [
+          {
+            "text": "The poem's simple images are resonant with memories of the poet's childhood.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "characterized by resonance",
+        "ko": "울려 퍼지는, 낭랑한",
+        "synonyms": [
+          "resounding",
+          "reverberating",
+          "sonorous"
+        ],
+        "examples": [
+          {
+            "text": "a resonant voice",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "son",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 resonāre('다시 울리다')의 현재분사에서 왔습니다. 마음에 메아리처럼 되울려 떠올리게 합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "resource",
+    "score": 17,
+    "zipf": 4.39,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the ability to deal resourcefully with unusual problems",
+        "ko": "임기응변의 재주, 수완",
+        "synonyms": [
+          "resourcefulness",
+          "ingenuity",
+          "initiative"
+        ],
+        "examples": [
+          {
+            "text": "a man of resource",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a source of aid or support that may be drawn upon when needed",
+        "ko": "지원 수단, 의지가 되는 것",
+        "synonyms": [
+          "asset",
+          "support",
+          "supply"
+        ],
+        "examples": [
+          {
+            "text": "the local library is a valuable resource",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "surg"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 resourdre('다시 솟아나다')에서 왔고 라틴어 resurgere와 이어집니다. 솟아나는 샘 같은 임기응변의 재주입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "respectively",
+    "score": 16,
+    "zipf": 4.45,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "in the order given",
+        "ko": "각각, 순서대로",
+        "synonyms": [
+          "severally",
+          "correspondingly"
+        ],
+        "examples": [
+          {
+            "text": "the brothers were called Felix and Max, respectively",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "spec",
+      "-ive"
+    ]
+  },
+  {
+    "word": "respite",
+    "score": 29,
+    "zipf": 3.18,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A brief interval of rest or relief.",
+        "ko": "잠시의 휴식, 일시적 중단",
+        "synonyms": [
+          "reprieve",
+          "lull",
+          "breather",
+          "hiatus"
+        ],
+        "examples": [
+          {
+            "text": "The rain brought a brief respite from the heat that had gripped the city for weeks.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the act of reprieving; postponing or remitting punishment",
+        "ko": "(형 집행) 유예",
+        "synonyms": [
+          "reprieve",
+          "stay",
+          "postponement"
+        ],
+        "examples": [
+          {
+            "text": "The governor granted the prisoner a respite hours before the scheduled execution.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "spec"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 respit('휴식')에서 왔고 라틴어 respectus('뒤돌아봄')와 이어집니다. 잠시 멈추어 돌아보는 쉼입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "restive",
+    "score": 83,
+    "zipf": 2.37,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "impatient especially under restriction or delay",
+        "ko": "안달하는, 초조해하는",
+        "synonyms": [
+          "restless",
+          "impatient",
+          "fidgety",
+          "uneasy"
+        ],
+        "examples": [
+          {
+            "text": "The restive crowd began to jeer as the speaker's remarks dragged on past midnight.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Resistant to control; stubborn.",
+        "ko": "다루기 힘든, 반항적인",
+        "synonyms": [
+          "unruly",
+          "refractory",
+          "rebellious",
+          "balky"
+        ],
+        "examples": [
+          {
+            "text": "The restive provinces repeatedly defied orders from the central government.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "st",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 restif('멈춰 서 있는')에서 왔고 라틴어 restāre('머물다')와 이어집니다. 명령을 안 듣고 버티던 말에서 '안달하는'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "restrained",
+    "score": 27,
+    "zipf": 3.44,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by avoidance of extravagance or extremes",
+        "ko": "절제된, 자제하는",
+        "synonyms": [
+          "moderate",
+          "measured",
+          "controlled",
+          "temperate"
+        ],
+        "examples": [
+          {
+            "text": "The prime minister gave a restrained response to the insult, avoiding any hint of anger.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not showy or obtrusive",
+        "ko": "수수한, 차분한",
+        "synonyms": [
+          "subdued",
+          "understated",
+          "quiet",
+          "tasteful"
+        ],
+        "examples": [
+          {
+            "text": "The restrained decor of the hotel, in muted grays and creams, put guests instantly at ease.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "string"
+    ]
+  },
+  {
+    "word": "resurgent",
+    "score": 51,
+    "zipf": 2.61,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "rising again as to new life and vigor",
+        "ko": "되살아나는, 재기하는",
+        "synonyms": [
+          "reviving",
+          "renascent",
+          "rejuvenated"
+        ],
+        "examples": [
+          {
+            "text": "resurgent nationalism",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "surg",
+      "-ant"
+    ]
+  },
+  {
+    "word": "retainer",
+    "score": 30,
+    "zipf": 3.12,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a fee charged in advance to retain the services of someone",
+        "ko": "(변호사 등의) 착수금, 선임료",
+        "synonyms": [
+          "advance",
+          "deposit",
+          "fee"
+        ],
+        "examples": [
+          {
+            "text": "The firm paid the consultant a monthly retainer to remain available for urgent questions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a person working in the service of another (especially in the household)",
+        "ko": "가신, 하인",
+        "synonyms": [
+          "servant",
+          "attendant",
+          "vassal"
+        ],
+        "examples": [
+          {
+            "text": "The old retainer had served the family faithfully for more than forty years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "ten(잡다)",
+      "-er"
+    ],
+    "origin": {
+      "ko": "retain('붙들어 두다')에 -er가 붙은 말입니다. 전문가를 계속 붙들어 두려고 미리 내는 선임료입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "retaliate",
+    "score": 30,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "take revenge for a perceived wrong",
+        "ko": "보복하다, 앙갚음하다",
+        "synonyms": [
+          "avenge",
+          "revenge",
+          "strike back",
+          "hit back"
+        ],
+        "examples": [
+          {
+            "text": "The country threatened to retaliate with tariffs if the trade restrictions were not lifted.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "tali",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 retāliāre('똑같이 갚다')에서 왔습니다. 당한 만큼 되돌려 갚는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "retentive",
+    "score": 33,
+    "zipf": 2.22,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "good at remembering",
+        "ko": "기억력이 좋은",
+        "synonyms": [
+          "tenacious",
+          "long",
+          "mindful"
+        ],
+        "examples": [
+          {
+            "text": "a retentive mind",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having the power, capacity, or quality of retaining water",
+        "ko": "물을 잘 머금는",
+        "synonyms": [
+          "absorbent"
+        ],
+        "examples": [
+          {
+            "text": "soils retentive of moisture",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "ten(잡다)",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 retentivus에서 왔고 라틴어 retentus('붙들린')와 이어집니다. 머릿속에 꽉 붙들어 두는 기억력입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "reticent",
+    "score": 99,
+    "zipf": 2.62,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "temperamentally disinclined to talk",
+        "ko": "말수가 적은, 과묵한",
+        "synonyms": [
+          "reserved",
+          "taciturn",
+          "uncommunicative",
+          "tight-lipped"
+        ],
+        "examples": [
+          {
+            "text": "The usually reticent scientist surprised everyone by speaking openly about her failed experiments.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "reluctant to draw attention to yourself",
+        "ko": "나서기를 꺼리는",
+        "synonyms": [
+          "self-effacing",
+          "retiring",
+          "shy",
+          "reserved"
+        ],
+        "examples": [
+          {
+            "text": "Reticent about her achievements, she let her colleagues take most of the public credit.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "tac",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 reticēre('입을 다물다')의 현재분사에서 왔습니다. 말을 아끼는 과묵함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "retinue",
+    "score": 35,
+    "zipf": 2.63,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the group following and attending to some important person",
+        "ko": "수행원 일행",
+        "synonyms": [
+          "entourage",
+          "suite",
+          "cortege",
+          "escort"
+        ],
+        "examples": [
+          {
+            "text": "The ambassador arrived with a large retinue of aides, bodyguards, and translators.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "ten(잡다)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 retenue('붙들어 둠')에서 왔고 retenir('붙들다')와 이어집니다. 높은 사람이 곁에 붙들어 두는 수행원입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "retiring",
+    "score": 55,
+    "zipf": 3.8,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "reluctant to draw attention to yourself",
+        "ko": "내성적인, 수줍어하는",
+        "synonyms": [
+          "shy",
+          "reserved",
+          "self-effacing",
+          "reticent"
+        ],
+        "examples": [
+          {
+            "text": "The retiring young scholar avoided public lectures and preferred the quiet of the archive.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of a person who has held and relinquished a position or office",
+        "ko": "퇴임하는, 물러나는",
+        "synonyms": [
+          "outgoing",
+          "departing"
+        ],
+        "examples": [
+          {
+            "text": "a retiring member of the board",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-"
+    ]
+  },
+  {
+    "word": "retort",
+    "score": 32,
+    "zipf": 2.89,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a quick reply to a question or remark (especially a witty or critical one)",
+        "ko": "재치 있는 응수, 반박",
+        "synonyms": [
+          "rejoinder",
+          "riposte",
+          "comeback",
+          "reply"
+        ],
+        "examples": [
+          {
+            "text": "Her witty retort to the heckler drew laughter and applause from the whole audience.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "answer back",
+        "ko": "되받아치다, 반박하다",
+        "synonyms": [
+          "riposte",
+          "rejoin",
+          "retaliate",
+          "snap"
+        ],
+        "examples": [
+          {
+            "text": "When accused of laziness, she retorted that nobody else had worked on the weekend.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "tort"
+    ],
+    "origin": {
+      "ko": "라틴어 retorquēre('뒤로 비틀다')에서 왔습니다. 상대 말을 되비틀어 받아치는 응수입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "retract",
+    "score": 31,
+    "zipf": 3.03,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "formally reject or disavow a formerly held belief, usually under pressure",
+        "ko": "철회하다, 취소하다",
+        "synonyms": [
+          "recant",
+          "withdraw",
+          "disavow",
+          "take back"
+        ],
+        "examples": [
+          {
+            "text": "He retracted his earlier statements about his religion",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "pull inward or towards a center",
+        "ko": "집어넣다, 움츠리다",
+        "synonyms": [
+          "withdraw",
+          "draw in",
+          "pull back"
+        ],
+        "examples": [
+          {
+            "text": "The snail slowly retracted its horns into its shell when the child touched the leaf.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "tract"
+    ],
+    "origin": {
+      "ko": "라틴어 retrahere('뒤로 끌다')에서 왔습니다. 내놓은 말을 도로 끌어당겨 철회한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "retrench",
+    "score": 29,
+    "zipf": 1.82,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "tighten one's belt; use resources carefully",
+        "ko": "긴축하다, 절약하다",
+        "synonyms": [
+          "economize",
+          "cut back",
+          "scale back"
+        ],
+        "examples": [
+          {
+            "text": "Facing falling revenue, the university was forced to retrench and freeze all new hiring.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make a reduction, as in one's workforce",
+        "ko": "(인원·경비를) 줄이다, 감원하다",
+        "synonyms": [
+          "downsize",
+          "cut",
+          "reduce"
+        ],
+        "examples": [
+          {
+            "text": "The company had to retrench",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 retranchier('잘라 내다')에서 왔습니다. 비용을 잘라 내 긴축한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "retrospective",
+    "score": 26,
+    "zipf": 3.48,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "concerned with or related to the past",
+        "ko": "과거를 돌아보는, 회고적인",
+        "synonyms": [
+          "backward-looking",
+          "retroactive"
+        ],
+        "examples": [
+          {
+            "text": "The study took a retrospective approach, examining medical records from the previous twenty years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an exhibition of a representative selection of an artist's life work",
+        "ko": "회고전",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "The museum's retrospective traced the painter's evolution from early portraits to late abstractions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "retro-",
+      "spec",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "라틴어 retrōspicere('뒤돌아보다')에서 왔습니다. 지나온 과거를 되돌아본다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "revamp",
+    "score": 29,
+    "zipf": 3.2,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To improve, renew, renovate, or revise (something).",
+        "ko": "개조하다, 쇄신하다",
+        "synonyms": [
+          "overhaul",
+          "renovate",
+          "refurbish",
+          "reorganize"
+        ],
+        "examples": [
+          {
+            "text": "The airline plans to revamp its loyalty program to attract more frequent business travelers.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-"
+    ],
+    "origin": {
+      "ko": "re-('다시')에 vamp('수선하다')를 붙인 말입니다. 낡은 것을 다시 손봐 새롭게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "revelry",
+    "score": 36,
+    "zipf": 2.5,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "unrestrained merrymaking",
+        "ko": "흥청망청 놀기, 환락",
+        "synonyms": [
+          "merrymaking",
+          "festivity",
+          "carousing",
+          "jollity"
+        ],
+        "examples": [
+          {
+            "text": "Sounds of revelry drifted from the square long after midnight on the eve of the festival.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "revel('흥청대다')에 -ry가 붙은 말입니다. 떠들썩하게 놀며 즐기는 일입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "revere",
+    "score": 30,
+    "zipf": 3.09,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of",
+        "ko": "숭배하다, 존경하다",
+        "synonyms": [
+          "venerate",
+          "worship",
+          "esteem",
+          "adore"
+        ],
+        "examples": [
+          {
+            "text": "Students revered the old professor, treating his every comment as a pearl of wisdom.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "ver(두려움)"
+    ],
+    "origin": {
+      "ko": "라틴어 revereor('경외하다')에서 온 프랑스어 révérer에서 왔습니다. 두려울 만큼 높여 숭배한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "reverent",
+    "score": 52,
+    "zipf": 2.46,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "feeling or showing profound respect or veneration",
+        "ko": "경건한, 공손한",
+        "synonyms": [
+          "respectful",
+          "reverential",
+          "worshipful",
+          "devout"
+        ],
+        "examples": [
+          {
+            "text": "maintained a reverent silence",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "ver(두려움)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 reverēns('공경하는')에서 왔으며 revere에 -ent가 붙은 말입니다. 깊은 경의를 품은 태도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "reverie",
+    "score": 35,
+    "zipf": 2.62,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "absentminded dreaming while awake",
+        "ko": "몽상, 공상",
+        "synonyms": [
+          "daydream",
+          "daydreaming",
+          "fantasy",
+          "musing"
+        ],
+        "examples": [
+          {
+            "text": "The teacher's question broke into the student's reverie about the summer holidays.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 rêverie('몽상')에서 왔고 고대 프랑스어 resver('꿈꾸다, 헛소리하다')와 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "reviler",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "one who reviles",
+        "ko": "욕하는 사람, 비방자",
+        "synonyms": [
+          "abuser",
+          "slanderer",
+          "detractor"
+        ],
+        "examples": [
+          {
+            "text": "The reviler of the new policy flooded the comment section with insults rather than arguments.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "vil",
+      "-er"
+    ],
+    "origin": {
+      "ko": "revile(욕하다)에 행위자 접미사 -er이 붙어 '욕하는 사람'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "revulsion",
+    "score": 34,
+    "zipf": 2.71,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "intense aversion",
+        "ko": "극심한 혐오감",
+        "synonyms": [
+          "repugnance",
+          "disgust",
+          "loathing",
+          "abhorrence"
+        ],
+        "examples": [
+          {
+            "text": "Readers expressed revulsion at the detailed descriptions of cruelty in the report.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "re-",
+      "vuls",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 revulsio에서 왔습니다. 몸을 '뒤로 확 잡아당기는' 반응이 강한 혐오감이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,496 @@
+[
+  {
+    "word": "brandish",
+    "score": 33,
+    "zipf": 2.2,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To move or swing a weapon back and forth, particularly if demonstrating anger, threat or skill.",
+        "ko": "(무기 등을) 휘두르다, 과시하듯 흔들다",
+        "synonyms": [
+          "wave",
+          "flourish",
+          "wield",
+          "flaunt"
+        ],
+        "examples": [
+          {
+            "text": "He brandished his sword at the pirates.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 brandir('칼을 휘두르다')에서 왔고, 프랑크어 brand(불붙은 나무토막, 검)에서 유래했습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bravado",
+    "score": 33,
+    "zipf": 2.8,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a swaggering show of courage",
+        "ko": "허세, 용기를 과시하는 척함",
+        "synonyms": [
+          "bluster",
+          "swagger",
+          "bluff",
+          "bombast"
+        ],
+        "examples": [
+          {
+            "text": "The angry customer stood in the middle of the showroom and voiced his complaints with loud bravado.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 bravata(허세)를 거쳐 프랑스어 bravade에서 왔고, bravare(자랑하다)와 bravo에서 갈라졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "brawn",
+    "score": 33,
+    "zipf": 2.76,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Physical strength; muscularity.",
+        "ko": "근력, 완력",
+        "synonyms": [
+          "muscle",
+          "strength",
+          "muscularity",
+          "sinew"
+        ],
+        "examples": [
+          {
+            "text": "The builders at the site had more brawn than brain.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 braon('살점, 근육 있는 부위')에서 왔습니다. 고기가 붙은 살덩이에서 '근력'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "brazen",
+    "score": 62,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Shameless or impudent; shocking or audacious; brash.",
+        "ko": "뻔뻔스러운, 철면피한",
+        "synonyms": [
+          "shameless",
+          "barefaced",
+          "audacious",
+          "impudent",
+          "brash"
+        ],
+        "examples": [
+          {
+            "text": "She was brazen enough to deny stealing the handbag even though she was caught on camera doing so.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "Generally followed by out or through: to carry through in a brazen manner; to act boldly despite embarrassment, risk, etc.",
+        "ko": "뻔뻔하게 밀고 나가다",
+        "synonyms": [
+          "tough out",
+          "face down"
+        ],
+        "examples": [
+          {
+            "text": "Caught in the lie, the minister tried to brazen it out rather than apologize.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 bræsen('놋쇠로 된')에서 왔습니다. 놋쇠처럼 굳은 낯짝이라 부끄러움을 모르는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bridle",
+    "score": 49,
+    "zipf": 2.78,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "anger or take offense",
+        "ko": "발끈하다, 화를 내다",
+        "synonyms": [
+          "bristle",
+          "take offense",
+          "chafe"
+        ],
+        "examples": [
+          {
+            "text": "She bridled at his suggestion to elope",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To check, restrain, or control with, or as if with, a bridle; as in bridle your tongue.",
+        "ko": "억제하다, 제어하다",
+        "synonyms": [
+          "curb",
+          "restrain",
+          "rein in",
+          "check"
+        ],
+        "examples": [
+          {
+            "text": "The new law was meant to bridle the power of the largest banks.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 brīdel('고삐')에서 왔습니다. braid(엮다)에 -le가 붙은, 엮은 끈이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bristle",
+    "score": 34,
+    "zipf": 2.75,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "react in an offended or angry manner",
+        "ko": "발끈하다, 곤두서다",
+        "synonyms": [
+          "bridle",
+          "take offense",
+          "rankle"
+        ],
+        "examples": [
+          {
+            "text": "He bristled at her suggestion that he should teach her how to use the program",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To abound, to be covered with, or to have an abundance of, something, especially something jutting out.",
+        "ko": "~로 뒤덮이다, 가득하다",
+        "synonyms": [
+          "abound",
+          "teem",
+          "swarm"
+        ],
+        "examples": [
+          {
+            "text": "The harbor bristled with masts, and cranes lined the docks as far as the eye could see.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 bristl('뻣뻣한 털')에서 왔습니다. 화가 나면 털이 곤두서듯 발끈한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "broadside",
+    "score": 32,
+    "zipf": 2.85,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a speech of violent denunciation",
+        "ko": "맹렬한 비난, 격렬한 공격",
+        "synonyms": [
+          "tirade",
+          "philippic",
+          "diatribe",
+          "attack"
+        ],
+        "examples": [
+          {
+            "text": "The columnist launched a broadside against the council, accusing it of waste and incompetence.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "broad(넓은)와 side(옆)가 합쳐진 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bromide",
+    "score": 50,
+    "zipf": 2.7,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a trite or obvious remark",
+        "ko": "상투적인 말, 진부한 이야기",
+        "synonyms": [
+          "platitude",
+          "cliché",
+          "banality",
+          "commonplace"
+        ],
+        "examples": [
+          {
+            "text": "We hoped the speech would include reassurances, but instead it was merely one bromide after another.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "화학 물질 브롬화물(bromide)에서 왔습니다. 진정제로 쓰이던 물질이라, 마음을 달래는 식상한 말을 가리키게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "brooch",
+    "score": 31,
+    "zipf": 3.04,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a decorative pin worn by women",
+        "ko": "브로치",
+        "synonyms": [
+          "pin",
+          "clasp",
+          "breastpin"
+        ],
+        "examples": [
+          {
+            "text": "She fastened a silver brooch to her coat before leaving for the ceremony.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "broach(뾰족한 핀)의 변형입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "brook",
+    "score": 72,
+    "zipf": 3.74,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To bear; endure; put up with; tolerate.",
+        "ko": "참다, 용납하다",
+        "synonyms": [
+          "tolerate",
+          "endure",
+          "stand",
+          "abide"
+        ],
+        "examples": [
+          {
+            "text": "I will not brook any disobedience.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a natural stream of water smaller than a river (and often a tributary of a river)",
+        "ko": "시내, 개울",
+        "synonyms": [
+          "creek",
+          "stream",
+          "rivulet",
+          "rill"
+        ],
+        "examples": [
+          {
+            "text": "Children waded in the shallow brook behind the farmhouse all summer.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 brūcan('즐기다, 사용하다')에서 왔습니다. 받아들여 쓰다에서 '참고 견디다'로 바뀌었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "browbeat",
+    "score": 30,
+    "zipf": 1.92,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "discourage or frighten with threats or a domineering manner; intimidate",
+        "ko": "위협하여 억누르다, 윽박지르다",
+        "synonyms": [
+          "bully",
+          "intimidate",
+          "cow",
+          "bulldoze",
+          "hector"
+        ],
+        "examples": [
+          {
+            "text": "The manager browbeat his staff into working weekends without any extra pay.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "brow(이마, 눈썹)와 beat(치다)가 합쳐진 말입니다. 매서운 눈초리로 상대를 짓누르는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "brusquely",
+    "score": 29,
+    "zipf": 1.79,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "In a brusque manner; abruptly; rudely.",
+        "ko": "퉁명스럽게, 무뚝뚝하게",
+        "synonyms": [
+          "curtly",
+          "abruptly",
+          "bluntly",
+          "gruffly"
+        ],
+        "examples": [
+          {
+            "text": "The clerk answered the question brusquely and turned back to his paperwork.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

@@ -1,0 +1,455 @@
+[
+  {
+    "word": "mulct",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "deprive of by deceit",
+        "ko": "속여서 빼앗다, 편취하다",
+        "synonyms": [
+          "swindle",
+          "defraud",
+          "fleece",
+          "cheat"
+        ],
+        "examples": [
+          {
+            "text": "The con artist mulcted elderly investors out of their retirement savings.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "impose a fine on",
+        "ko": "벌금을 부과하다",
+        "synonyms": [
+          "fine",
+          "penalize"
+        ],
+        "examples": [
+          {
+            "text": "The court mulcted the company a substantial sum for violating environmental regulations.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 mulcta '벌금'에서 왔습니다. 벌금을 물려 돈을 빼앗는 데서 속여서 빼앗다가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "multifarious",
+    "score": 48,
+    "zipf": 2.1,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having great diversity or variety; of various kinds; made up of many differing parts.",
+        "ko": "다양한, 가지각색의",
+        "synonyms": [
+          "diverse",
+          "manifold",
+          "varied",
+          "myriad",
+          "multifaceted"
+        ],
+        "examples": [
+          {
+            "text": "The mayor faced multifarious problems, from crumbling bridges to a shrinking tax base.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "multi-",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 multifārius에서 왔으며, 여러 갈래로 가지각색이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "multitude",
+    "score": 25,
+    "zipf": 3.59,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a large indefinite quantity",
+        "ko": "다수, 수많음",
+        "synonyms": [
+          "host",
+          "myriad",
+          "legion",
+          "profusion",
+          "throng"
+        ],
+        "examples": [
+          {
+            "text": "A multitude of factors contributed to the collapse of the regional economy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The mass of ordinary people; the masses, the populace.",
+        "ko": "대중, 민중",
+        "synonyms": [
+          "masses",
+          "populace",
+          "crowd",
+          "hoi polloi"
+        ],
+        "examples": [
+          {
+            "text": "The orator addressed himself to the multitude gathered below the balcony.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "multi-",
+      "-tude"
+    ],
+    "origin": {
+      "ko": "라틴어 multus '많은'에 상태를 나타내는 -tūdō가 붙은 multitūdō에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mundane",
+    "score": 91,
+    "zipf": 3.43,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "found in the ordinary course of events",
+        "ko": "평범한, 일상적인",
+        "synonyms": [
+          "everyday",
+          "routine",
+          "ordinary",
+          "banal",
+          "quotidian"
+        ],
+        "examples": [
+          {
+            "text": "The novelist found beauty in the mundane details of a commuter's daily routine.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "concerned with the world or worldly matters",
+        "ko": "세속적인, 현세의",
+        "synonyms": [
+          "worldly",
+          "earthly",
+          "terrestrial",
+          "secular"
+        ],
+        "examples": [
+          {
+            "text": "The monk tried to put aside mundane concerns such as money and reputation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mund",
+      "-ane"
+    ],
+    "origin": {
+      "ko": "라틴어 mundus '세계'에서 왔습니다. 이 속세의 평범한 일이라는 뜻으로 '일상적인'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "munificent",
+    "score": 93,
+    "zipf": 1.76,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "very generous",
+        "ko": "아낌없이 베푸는, 관대한",
+        "synonyms": [
+          "lavish",
+          "bountiful",
+          "liberal",
+          "generous",
+          "unstinting"
+        ],
+        "examples": [
+          {
+            "text": "On the hill, where kites used to be flown, stood the fine college which Mr Laurence's munificent legacy had built.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mun",
+      "fac(만들다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 mūnificentia '관대함'에서 거꾸로 만들어진 말입니다. 아낌없이 베푸는 모습을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "muse",
+    "score": 25,
+    "zipf": 3.59,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "reflect deeply on a subject",
+        "ko": "깊이 생각하다, 숙고하다",
+        "synonyms": [
+          "ponder",
+          "meditate",
+          "ruminate",
+          "contemplate",
+          "mull"
+        ],
+        "examples": [
+          {
+            "text": "She sat by the window and mused on how much the city had changed since her childhood.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the source of an artist's inspiration",
+        "ko": "예술적 영감의 원천",
+        "synonyms": [
+          "inspiration",
+          "guiding spirit"
+        ],
+        "examples": [
+          {
+            "text": "Yoko Ono was John Lennon's wife, lover, and muse.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 muser에서 왔습니다. 멍하니 생각에 잠긴다는 뜻으로 '깊이 생각하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "muster",
+    "score": 27,
+    "zipf": 3.42,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "gather or bring together",
+        "ko": "(용기·힘 등을) 모으다, 불러일으키다",
+        "synonyms": [
+          "summon",
+          "rally",
+          "marshal",
+          "gather"
+        ],
+        "examples": [
+          {
+            "text": "I couldn't muster the courage to tell him.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To collect, call or assemble together, such as troops or a group for inspection, orders, display etc.",
+        "ko": "(군대 등을) 소집하다",
+        "synonyms": [
+          "assemble",
+          "convene",
+          "mobilize"
+        ],
+        "examples": [
+          {
+            "text": "The general mustered his troops on the parade ground before dawn.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mon(일깨우다)"
+    ],
+    "origin": {
+      "ko": "라틴어 mōnstrō '보여 주다'에서 왔습니다. 병사들을 모아 점검받게 하던 데서 '모으다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "muted",
+    "score": 27,
+    "zipf": 3.42,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Not expressed strongly or openly; subdued and understated",
+        "ko": "억제된, 약한",
+        "synonyms": [
+          "subdued",
+          "restrained",
+          "understated",
+          "toned-down"
+        ],
+        "examples": [
+          {
+            "text": "The government offered only muted criticism of its ally's decision.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "being or made softer or less loud or clear",
+        "ko": "소리가 약해진, 먹먹한",
+        "synonyms": [
+          "muffled",
+          "hushed",
+          "softened",
+          "dull"
+        ],
+        "examples": [
+          {
+            "text": "Through the thick walls, the music was only a muted thump.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "mutiny",
+    "score": 28,
+    "zipf": 3.27,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An organized rebellion against a legally constituted authority, especially by seamen against their officers.",
+        "ko": "(선원·군인의) 반란, 폭동",
+        "synonyms": [
+          "rebellion",
+          "revolt",
+          "insurrection",
+          "uprising"
+        ],
+        "examples": [
+          {
+            "text": "The crew of the Bounty mutinied because of the harsh discipline of Captain Bligh.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 프랑스어 mutiner에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

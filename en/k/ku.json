@@ -1,0 +1,38 @@
+[
+  {
+    "word": "kudos",
+    "score": 26,
+    "zipf": 3.45,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an expression of approval and commendation",
+        "ko": "칭찬, 찬사",
+        "synonyms": [
+          "praise",
+          "acclaim",
+          "accolades",
+          "credit",
+          "congratulations"
+        ],
+        "examples": [
+          {
+            "text": "The young researcher earned kudos from colleagues for her meticulous, groundbreaking study.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 kûdos '찬사, 명성'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

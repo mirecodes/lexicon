@@ -1,0 +1,1134 @@
+[
+  {
+    "word": "gradation",
+    "score": 51,
+    "zipf": 2.4,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A sequence of gradual, successive stages; a systematic progression.",
+        "ko": "점진적 단계, 단계적 변화",
+        "synonyms": [
+          "progression",
+          "succession"
+        ],
+        "examples": [
+          {
+            "text": "The report traces the gradation from small village markets to a fully integrated regional economy over two centuries.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A passing by small degrees from one tone or shade, as of color, to another.",
+        "ko": "미묘한 농담 차이, 단계적 색조 변화",
+        "synonyms": [
+          "nuance",
+          "shading"
+        ],
+        "examples": [
+          {
+            "text": "The painter achieved depth through subtle gradations of blue across the canvas.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "grad",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "프랑스어 gradation에서 왔고 grade(단계)에 -ation이 붙은 말입니다. 한 걸음씩 단계를 밟는 변화입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "graft",
+    "score": 42,
+    "zipf": 3.47,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Corruption in official life.",
+        "ko": "공직 부패, 부정 이득",
+        "synonyms": [
+          "corruption",
+          "bribery",
+          "payola"
+        ],
+        "examples": [
+          {
+            "text": "The investigation uncovered years of graft in the city's construction contracts.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cause to grow together parts from different plants",
+        "ko": "접붙이다, 이식하다",
+        "synonyms": [
+          "engraft",
+          "splice",
+          "transplant"
+        ],
+        "examples": [
+          {
+            "text": "graft the cherry tree branch onto the plum tree",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "granary",
+    "score": 35,
+    "zipf": 2.57,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a storehouse for threshed grain or animal feed",
+        "ko": "곡물 창고",
+        "synonyms": [
+          "garner",
+          "silo",
+          "storehouse"
+        ],
+        "examples": [
+          {
+            "text": "The village granary was rebuilt on stilts to keep the harvest safe from floods and rats.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "gran",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "라틴어 grānārium '곡물 창고'에서 왔습니다. grain(곡식)에 장소를 뜻하는 -ary가 붙은 모양입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "grandiloquent",
+    "score": 60,
+    "zipf": 1.67,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Given to using language in a showy way by using an excessive number of difficult words to impress others; bombastic; turgid.",
+        "ko": "호언장담하는, 과장된 말투의",
+        "synonyms": [
+          "bombastic",
+          "pompous",
+          "magniloquent",
+          "turgid"
+        ],
+        "examples": [
+          {
+            "text": "The American people believe that they have a free country, and we are treated to grandiloquent speeches about our flag and our reputation for freedom and enlightenment.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "grand",
+      "loqu"
+    ],
+    "origin": {
+      "ko": "라틴어 grandiloquus에서 왔습니다. grandis(큰)와 loquor(말하다)가 합쳐져 거창하게 말한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "grandstand",
+    "score": 32,
+    "zipf": 2.89,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To behave dramatically or showily to impress an audience or observers; to pander to a crowd.",
+        "ko": "관중에게 잘 보이려고 과시하다, 인기를 끌려 하다",
+        "synonyms": [
+          "showboat",
+          "posture",
+          "play to the gallery"
+        ],
+        "examples": [
+          {
+            "text": "Many politicians prefer to grandstand on hot-button issues rather than enact tough policy changes.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "grand",
+      "stand"
+    ],
+    "origin": {
+      "ko": "grand와 stand의 합성어입니다. 큰 관람석(grandstand)의 관중에게 잘 보이려 과시하는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "grant",
+    "score": 16,
+    "zipf": 4.67,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be willing to concede",
+        "ko": "인정하다, 양보하다",
+        "synonyms": [
+          "concede",
+          "admit",
+          "yield",
+          "allow"
+        ],
+        "examples": [
+          {
+            "text": "I grant you that the plan is ambitious, but it remains financially unrealistic.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To give (permission or wish).",
+        "ko": "허락하다, 들어주다",
+        "synonyms": [
+          "bestow",
+          "confer",
+          "allow",
+          "accord"
+        ],
+        "examples": [
+          {
+            "text": "He was granted permission to attend the meeting.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The thing or property granted; a gift; a boon.",
+        "ko": "보조금, 지원금",
+        "synonyms": [
+          "subsidy",
+          "award",
+          "endowment"
+        ],
+        "examples": [
+          {
+            "text": "I got a grant from the government to study archeology in Egypt.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 granter '허락하다, 보증하다'에서 왔고, 라틴어 credere(믿다)와 연결됩니다. 상대의 말을 믿고 인정해 주는 데서 '인정하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "grapple",
+    "score": 30,
+    "zipf": 3.12,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To ponder and intensely evaluate a problem; to struggle to deal with.",
+        "ko": "(문제와) 씨름하다, 고심하다",
+        "synonyms": [
+          "wrestle",
+          "struggle",
+          "contend"
+        ],
+        "examples": [
+          {
+            "text": "Economists continue to grapple with the question of why wages have stagnated despite rising productivity.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "to grip or seize, as in a wrestling match",
+        "ko": "붙잡다, 맞붙어 싸우다",
+        "synonyms": [
+          "grip",
+          "seize",
+          "wrestle"
+        ],
+        "examples": [
+          {
+            "text": "the two men grappled with each other for several minutes",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세영어 '붙잡다'에서 왔고 grab에 -le이 붙은 모양입니다. 움켜쥐고 맞붙어 씨름하는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gratify",
+    "score": 34,
+    "zipf": 2.28,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make happy or satisfied",
+        "ko": "기쁘게 하다, 만족시키다",
+        "synonyms": [
+          "please",
+          "satisfy",
+          "gladden"
+        ],
+        "examples": [
+          {
+            "text": "It gratified the author to learn that her old novel had been reissued to critical praise.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "yield (to); give satisfaction to",
+        "ko": "(욕구를) 충족시키다, 비위를 맞추다",
+        "synonyms": [
+          "indulge",
+          "pander",
+          "appease"
+        ],
+        "examples": [
+          {
+            "text": "The company's advertising seeks to gratify consumers' every passing whim rather than meet genuine needs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "grat",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "라틴어 grātificō '호의를 베풀다'에서 왔습니다. grātus(기쁜)와 faciō(만들다)가 합쳐져 기쁘게 해 준다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "grating",
+    "score": 30,
+    "zipf": 3.14,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unpleasantly harsh or grating in sound",
+        "ko": "귀에 거슬리는, 거친",
+        "synonyms": [
+          "rasping",
+          "harsh",
+          "strident",
+          "raspy"
+        ],
+        "examples": [
+          {
+            "text": "His grating laugh echoed through the quiet library and drew annoyed glances from every table.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a barrier that has parallel or crossed bars blocking a passage but admitting air",
+        "ko": "격자, 쇠창살",
+        "synonyms": [
+          "grate",
+          "grille",
+          "lattice"
+        ],
+        "examples": [
+          {
+            "text": "A rusted grating covered the drain at the bottom of the narrow alley.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gratis",
+    "score": 32,
+    "zipf": 2.94,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "costing nothing",
+        "ko": "무료의, 공짜의",
+        "synonyms": [
+          "free",
+          "complimentary",
+          "gratuitous",
+          "costless"
+        ],
+        "examples": [
+          {
+            "text": "The museum offers gratis admission to students on the first Sunday of every month.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adv",
+        "en": "without charge",
+        "ko": "무료로, 공짜로",
+        "synonyms": [
+          "free",
+          "for free",
+          "free of charge"
+        ],
+        "examples": [
+          {
+            "text": "I'll give you this gratis",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "grat"
+    ],
+    "origin": {
+      "ko": "라틴어 grātīs '호의로'에서 왔습니다. 대가 없이 호의로 주는 것이라 '무료'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gratuitous",
+    "score": 48,
+    "zipf": 2.94,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unnecessary and unwarranted",
+        "ko": "불필요한, 정당한 이유 없는",
+        "synonyms": [
+          "unwarranted",
+          "needless",
+          "uncalled-for",
+          "unjustified"
+        ],
+        "examples": [
+          {
+            "text": "Critics complained that the film's gratuitous violence added nothing to the story.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Given freely; unearned.",
+        "ko": "무상의, 공짜로 주어진",
+        "synonyms": [
+          "free",
+          "voluntary",
+          "complimentary"
+        ],
+        "examples": [
+          {
+            "text": "The hotel offered gratuitous breakfast to guests who had endured the delayed check-in.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "grat",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 grātuītus '공짜의'에서 왔고 grātia(호의)가 뿌리입니다. 대가나 이유 없이 주어진다는 데서 '정당한 이유 없는'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gravity",
+    "score": 19,
+    "zipf": 4.21,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Of an activity, situation, words, etc.: the quality of having important or serious consequences; importance, seriousness.",
+        "ko": "중대성, 심각성",
+        "synonyms": [
+          "seriousness",
+          "severity",
+          "importance",
+          "weight"
+        ],
+        "examples": [
+          {
+            "text": "I hope you appreciate the gravity of the situation.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a manner that is serious and solemn",
+        "ko": "엄숙함, 진중함",
+        "synonyms": [
+          "solemnity",
+          "sobriety",
+          "somberness"
+        ],
+        "examples": [
+          {
+            "text": "The judge read the verdict with a gravity that silenced the entire courtroom.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "(physics) the force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface",
+        "ko": "중력",
+        "synonyms": [
+          "gravitation"
+        ],
+        "examples": [
+          {
+            "text": "The moon's weaker gravity allowed the astronauts to leap far higher than they could on Earth.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "grav",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 gravitās '무게, 엄숙함'에서 왔고 gravis(무거운)가 뿌리입니다. 무거움이 사안의 중대함으로 번졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gregarious",
+    "score": 82,
+    "zipf": 2.71,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "instinctively or temperamentally seeking and enjoying the company of others",
+        "ko": "사교적인, 어울리기 좋아하는",
+        "synonyms": [
+          "sociable",
+          "outgoing",
+          "convivial",
+          "companionable"
+        ],
+        "examples": [
+          {
+            "text": "Her gregarious nature made her the center of every party she attended.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "(of animals) tending to form a group with others of the same species",
+        "ko": "군집성의, 무리 지어 사는",
+        "synonyms": [
+          "social",
+          "herding",
+          "flocking"
+        ],
+        "examples": [
+          {
+            "text": "gregarious bird species",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "greg",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 gregārius '무리의'에서 왔습니다. greg는 '가축 떼, 무리'를 뜻하며 무리 짓기 좋아하는 성질입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "grievance",
+    "score": 30,
+    "zipf": 3.15,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a complaint about a (real or imaginary) wrong that causes resentment and is grounds for action",
+        "ko": "불만, 불평거리",
+        "synonyms": [
+          "complaint",
+          "grudge",
+          "gripe"
+        ],
+        "examples": [
+          {
+            "text": "Workers presented a list of grievances about unpaid overtime to the management.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a resentment strong enough to justify retaliation",
+        "ko": "원한, 앙심",
+        "synonyms": [
+          "grudge",
+          "resentment",
+          "animosity"
+        ],
+        "examples": [
+          {
+            "text": "He nursed a bitter grievance against his former partner for years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "grav",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 grever '괴롭히다'에서 왔고, 라틴어 gravō(짐 지우다)가 뿌리입니다. 마음을 짓누르는 부담이 '불만'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "grievous",
+    "score": 45,
+    "zipf": 3.18,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Serious, grave, dire, or dangerous.",
+        "ko": "중대한, 심각한",
+        "synonyms": [
+          "grave",
+          "severe",
+          "dire",
+          "serious"
+        ],
+        "examples": [
+          {
+            "text": "As for the captain, his wounds were grievous indeed, but not dangerous.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "causing or marked by grief or anguish",
+        "ko": "비통한, 고통스러운",
+        "synonyms": [
+          "heartbreaking",
+          "distressing",
+          "sorrowful"
+        ],
+        "examples": [
+          {
+            "text": "The sudden closure of the mill was a grievous blow to the small town.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "shockingly brutal or cruel",
+        "ko": "극악한, 잔혹한",
+        "synonyms": [
+          "atrocious",
+          "monstrous",
+          "heinous"
+        ],
+        "examples": [
+          {
+            "text": "The tribunal condemned the grievous crimes committed against civilians during the siege.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "grav",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 grever에서 왔고, 라틴어 gravō(짐 지우다)가 뿌리입니다. 무겁게 짓누른다는 데서 '심각한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gripe",
+    "score": 33,
+    "zipf": 2.81,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "complain",
+        "ko": "불평하다, 투덜대다",
+        "synonyms": [
+          "grumble",
+          "grouse",
+          "carp",
+          "whine"
+        ],
+        "examples": [
+          {
+            "text": "Commuters gripe constantly about the delays, yet few have switched to other routes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A complaint, often a petty or trivial one.",
+        "ko": "불평, 사소한 불만",
+        "synonyms": [
+          "complaint",
+          "grumble",
+          "grievance"
+        ],
+        "examples": [
+          {
+            "text": "My only gripe about the new apartment is the thin walls between units.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 grīpan '움켜쥐다'에서 왔습니다. grip과 같은 계통입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "grisly",
+    "score": 34,
+    "zipf": 2.74,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "shockingly repellent; inspiring horror",
+        "ko": "섬뜩한, 소름 끼치는",
+        "synonyms": [
+          "gruesome",
+          "ghastly",
+          "macabre",
+          "horrific"
+        ],
+        "examples": [
+          {
+            "text": "The photographs of the killings depict a grisly scene.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 grīsan '공포에 떨다'에 -lic이 붙은 grisliċ에서 왔습니다. 몸서리쳐지는 모습이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "grouse",
+    "score": 30,
+    "zipf": 3.14,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To complain or grumble.",
+        "ko": "투덜거리다, 불평하다",
+        "synonyms": [
+          "grumble",
+          "gripe",
+          "carp",
+          "bellyache"
+        ],
+        "examples": [
+          {
+            "text": "Employees grouse about the new parking rules but rarely take their concerns to management.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "grove",
+    "score": 22,
+    "zipf": 3.94,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a small growth of trees without underbrush",
+        "ko": "작은 숲, 수풀",
+        "synonyms": [
+          "copse",
+          "thicket",
+          "orchard"
+        ],
+        "examples": [
+          {
+            "text": "A grove of ancient olive trees shaded the small stone chapel.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 grāf '작은 숲'에서 왔습니다. 게르만어 '가지, 덤불'이 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "grovel",
+    "score": 98,
+    "zipf": 2.28,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To abase oneself before another person.",
+        "ko": "굽실거리다, 비굴하게 굴다",
+        "synonyms": [
+          "cringe",
+          "fawn",
+          "cower",
+          "kowtow"
+        ],
+        "examples": [
+          {
+            "text": "She refused to grovel in front of the bully, standing her ground.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "show submission or fear",
+        "ko": "기어 엎드리다, 두려워 움츠리다",
+        "synonyms": [
+          "crawl",
+          "creep",
+          "cower"
+        ],
+        "examples": [
+          {
+            "text": "The defeated courtiers groveled before the new king, begging to keep their titles.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 노르드어 á grufu '배를 땅에 대고'에서 왔습니다. 바닥에 엎드려 기는 모습이 '굽실거리다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "grudging",
+    "score": 35,
+    "zipf": 2.41,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Unwilling or with reluctance.",
+        "ko": "마지못해 하는, 내키지 않는",
+        "synonyms": [
+          "reluctant",
+          "begrudging",
+          "unwilling"
+        ],
+        "examples": [
+          {
+            "text": "The senator offered grudging praise for the opposition's budget proposal.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "petty or reluctant in giving or spending",
+        "ko": "인색한, 쩨쩨한",
+        "synonyms": [
+          "niggardly",
+          "stingy",
+          "miserly"
+        ],
+        "examples": [
+          {
+            "text": "The grudging host gave each departing guest a single biscuit and a cold farewell.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "gruel",
+    "score": 35,
+    "zipf": 2.44,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a thin porridge (usually oatmeal or cornmeal)",
+        "ko": "묽은 죽",
+        "synonyms": [
+          "porridge",
+          "mush"
+        ],
+        "examples": [
+          {
+            "text": "The orphans were fed little more than watery gruel twice a day.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Something that lacks substance.",
+        "ko": "내용이 빈약한 것",
+        "synonyms": [
+          "pablum"
+        ],
+        "examples": [
+          {
+            "text": "Critics dismissed the committee's final report as thin gruel after months of anticipation.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 라틴어 grutum '곡식 가루'에서 고대 프랑스어 gruel을 거쳐 왔습니다. 곡식 가루를 끓인 묽은 죽입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

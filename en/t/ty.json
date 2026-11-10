@@ -1,0 +1,41 @@
+[
+  {
+    "word": "tyro",
+    "score": 82,
+    "zipf": 2.26,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone new to a field or activity",
+        "ko": "초보자, 신참",
+        "synonyms": [
+          "novice",
+          "beginner",
+          "neophyte",
+          "greenhorn",
+          "apprentice"
+        ],
+        "examples": [
+          {
+            "text": "Even a tyro at chess could see that the opening move left the king dangerously exposed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 tīrō('신병, 초심자')에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,1416 @@
+[
+  {
+    "word": "labor",
+    "score": 16,
+    "zipf": 4.77,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "strive and make an effort to reach a goal",
+        "ko": "애쓰다, 노력하다",
+        "synonyms": [
+          "strive",
+          "toil",
+          "struggle",
+          "endeavor"
+        ],
+        "examples": [
+          {
+            "text": "For years the team labored to turn a modest prototype into a commercially viable product.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "productive work (especially physical work done for wages)",
+        "ko": "노동, 수고",
+        "synonyms": [
+          "toil",
+          "work",
+          "drudgery",
+          "exertion"
+        ],
+        "examples": [
+          {
+            "text": "his labor did not require a great deal of skill",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "labor"
+    ],
+    "origin": {
+      "ko": "라틴어 labor '노동, 수고'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "laborious",
+    "score": 33,
+    "zipf": 2.8,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by effort to the point of exhaustion; especially physical effort",
+        "ko": "힘든, 고된",
+        "synonyms": [
+          "arduous",
+          "grueling",
+          "strenuous",
+          "onerous",
+          "toilsome"
+        ],
+        "examples": [
+          {
+            "text": "Compiling the dictionary by hand was a laborious process that took the editors nearly two decades.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Mentally difficult; painstaking.",
+        "ko": "공들여 하는, 면밀한",
+        "synonyms": [
+          "painstaking",
+          "meticulous",
+          "tedious",
+          "exacting"
+        ],
+        "examples": [
+          {
+            "text": "The laborious analysis of thousands of archival records finally yielded a clear pattern.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "labor",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 laboriosus에서 왔고 labor(노동)에서 나왔습니다. 수고가 많이 드는 일이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lacerate",
+    "score": 28,
+    "zipf": 1.71,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cut or tear irregularly",
+        "ko": "찢다, 찢어 상처를 입히다",
+        "synonyms": [
+          "tear",
+          "rip",
+          "gash",
+          "slash",
+          "mangle"
+        ],
+        "examples": [
+          {
+            "text": "Broken glass lacerated his palm as he reached into the wreckage.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "deeply hurt the feelings of; distress",
+        "ko": "마음에 깊은 상처를 주다, 괴롭히다",
+        "synonyms": [
+          "wound",
+          "torment",
+          "distress",
+          "anguish"
+        ],
+        "examples": [
+          {
+            "text": "Her lacerating remarks left the young actor shaken for weeks.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lacer"
+    ],
+    "origin": {
+      "ko": "라틴어 lacerō '찢다'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lachrymose",
+    "score": 60,
+    "zipf": 1.72,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Tearful, sorrowful, sad, pertaining to tears, weeping, causing tears or crying.",
+        "ko": "눈물 많은, 눈물을 자아내는",
+        "synonyms": [
+          "tearful",
+          "weepy",
+          "mournful",
+          "maudlin",
+          "doleful"
+        ],
+        "examples": [
+          {
+            "text": "The film's lachrymose finale left even the most skeptical critics reaching for tissues.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lacrim",
+      "-ose"
+    ],
+    "origin": {
+      "ko": "라틴어 lacrimōsus에서 왔고 lacrima(눈물)에서 나왔습니다. 눈물이 가득하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lackluster",
+    "score": 31,
+    "zipf": 2.99,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking brilliance or vitality",
+        "ko": "생기 없는, 활력 없는",
+        "synonyms": [
+          "dull",
+          "uninspired",
+          "flat",
+          "mediocre",
+          "lusterless"
+        ],
+        "examples": [
+          {
+            "text": "The actor gave a lackluster performance in his latest film.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "lack(부족)과 luster(광택)가 합쳐진 말입니다. 윤기가 없으니 '생기 없는'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "laconic",
+    "score": 83,
+    "zipf": 2.39,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "brief and to the point; effectively cut short",
+        "ko": "간결한, 말수가 적은",
+        "synonyms": [
+          "terse",
+          "succinct",
+          "concise",
+          "pithy",
+          "curt"
+        ],
+        "examples": [
+          {
+            "text": "The senator's laconic reply, a single sentence, ended the press conference in seconds.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 Lakōnikós '라코니아 사람의'에서 왔습니다. 스파르타인들이 말을 짧게 하기로 유명했던 데서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "laggard",
+    "score": 31,
+    "zipf": 1.97,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone who takes more time than necessary; someone who lags behind",
+        "ko": "느림보, 뒤처지는 사람",
+        "synonyms": [
+          "straggler",
+          "dawdler",
+          "slowpoke",
+          "loiterer"
+        ],
+        "examples": [
+          {
+            "text": "Regulators warned that industry laggards would face fines if they missed the compliance deadline.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "wasting time",
+        "ko": "굼뜬, 느릿느릿한",
+        "synonyms": [
+          "dilatory",
+          "slow",
+          "sluggish",
+          "tardy"
+        ],
+        "examples": [
+          {
+            "text": "Laggard progress on the bridge frustrated commuters and city officials alike.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "lag(뒤처지다)에 -ard가 붙은 말입니다. 뒤처지는 사람을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lambast",
+    "score": 29,
+    "zipf": 1.79,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "censure severely or angrily",
+        "ko": "호되게 비난하다, 질책하다",
+        "synonyms": [
+          "berate",
+          "rebuke",
+          "castigate",
+          "excoriate",
+          "scold"
+        ],
+        "examples": [
+          {
+            "text": "Editorial writers lambasted the mayor for ignoring warnings about the crumbling bridge.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "lambaste와 같은 말로, lam(때리다)과 baste(때리다)가 합쳐졌다고 추정됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lambaste",
+    "score": 28,
+    "zipf": 1.66,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To scold, reprimand or criticize harshly.",
+        "ko": "혹평하다, 호되게 꾸짖다",
+        "synonyms": [
+          "berate",
+          "castigate",
+          "excoriate",
+          "rebuke",
+          "savage"
+        ],
+        "examples": [
+          {
+            "text": "Her first novel was well and truly lambasted by the critics.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "lam(때리다)과 baste(때리다)가 합쳐졌다고 추정됩니다. 매질하듯 호되게 꾸짖는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lament",
+    "score": 61,
+    "zipf": 3.25,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "regret strongly",
+        "ko": "한탄하다, 애석해하다",
+        "synonyms": [
+          "deplore",
+          "bemoan",
+          "bewail",
+          "rue"
+        ],
+        "examples": [
+          {
+            "text": "we lamented the loss of benefits",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "express grief verbally",
+        "ko": "슬퍼하다, 애도하다",
+        "synonyms": [
+          "mourn",
+          "grieve",
+          "wail",
+          "keen"
+        ],
+        "examples": [
+          {
+            "text": "we lamented the death of the child",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a cry of sorrow and grief",
+        "ko": "비탄, 애가",
+        "synonyms": [
+          "lamentation",
+          "wail",
+          "plaint",
+          "dirge"
+        ],
+        "examples": [
+          {
+            "text": "their pitiful laments could be heard throughout the ward",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 lāmentor '통곡하다'에서 왔고 lāmentum '울부짖음'에서 나왔습니다. 소리를 흉내 낸 말로 보입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lampoon",
+    "score": 82,
+    "zipf": 2.33,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "ridicule with satire",
+        "ko": "풍자하여 조롱하다",
+        "synonyms": [
+          "satirize",
+          "ridicule",
+          "mock",
+          "parody",
+          "skewer"
+        ],
+        "examples": [
+          {
+            "text": "The magazine lampooned the minister's proposal in a cartoon that quickly went viral.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A written attack or other work ridiculing a person, group, or institution; especially, a satirical one.",
+        "ko": "풍자문, 풍자적 비방",
+        "synonyms": [
+          "satire",
+          "parody",
+          "burlesque",
+          "skit",
+          "spoof"
+        ],
+        "examples": [
+          {
+            "text": "The magazine's weekly lampoon of the royal family drew both laughter and complaints.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 lampons '마시자'라는 풍자 노래의 후렴에서 왔습니다. 그런 노래 같은 풍자글이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lancet",
+    "score": 30,
+    "zipf": 3.07,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a surgical knife with a pointed double-edged blade; used for punctures and small incisions",
+        "ko": "외과용 소형 칼, 란셋",
+        "synonyms": [
+          "scalpel",
+          "lance"
+        ],
+        "examples": [
+          {
+            "text": "The surgeon opened the abscess with a single quick stroke of the lancet.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lanc",
+      "-et"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 lancete에서 왔고 lance(창)에 작음을 뜻하는 -et이 붙었습니다. 작은 창 같은 수술칼입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "landmark",
+    "score": 22,
+    "zipf": 3.89,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an event marking a unique or important historical change of course or one on which important developments depend",
+        "ko": "획기적 사건, 이정표",
+        "synonyms": [
+          "milestone",
+          "watershed",
+          "turning point",
+          "breakthrough"
+        ],
+        "examples": [
+          {
+            "text": "The ruling was a landmark in the history of civil rights litigation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A recognizable natural or man-made feature used for navigation.",
+        "ko": "랜드마크, 지형지물",
+        "synonyms": [
+          "marker",
+          "beacon",
+          "monument",
+          "signpost"
+        ],
+        "examples": [
+          {
+            "text": "Pilots flew at relatively low altitudes to identify ground landmarks, such as railroad tracks, rivers, highways, and distinctive towns.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 landmearc '경계'에서 왔고 land(땅)와 mark(표시)가 합쳐졌습니다. 땅의 경계표에서 '이정표'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "languid",
+    "score": 100,
+    "zipf": 2.54,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking spirit or liveliness",
+        "ko": "나른한, 활기 없는",
+        "synonyms": [
+          "listless",
+          "lethargic",
+          "languorous",
+          "lackadaisical",
+          "torpid"
+        ],
+        "examples": [
+          {
+            "text": "A languid afternoon heat settled over the town, and even the dogs refused to stir.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lax",
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 languidus '기운 없는'에서 왔고 langueō '맥이 빠지다'에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "languish",
+    "score": 52,
+    "zipf": 2.55,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To live in miserable or disheartening conditions.",
+        "ko": "비참하게 지내다, 시들어 가다",
+        "synonyms": [
+          "rot",
+          "suffer",
+          "pine",
+          "wither"
+        ],
+        "examples": [
+          {
+            "text": "He languished in prison for years.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To be neglected; to make little progress, be unsuccessful.",
+        "ko": "방치되다, 진척이 없다",
+        "synonyms": [
+          "stagnate",
+          "flounder",
+          "stall",
+          "decline"
+        ],
+        "examples": [
+          {
+            "text": "The case languished for years before coming to trial.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "lose vigor, health, or flesh, as through grief",
+        "ko": "쇠약해지다, 기력을 잃다",
+        "synonyms": [
+          "pine away",
+          "waste",
+          "wilt",
+          "fade",
+          "weaken"
+        ],
+        "examples": [
+          {
+            "text": "After the factory closed, the once-thriving town slowly languished into poverty.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lax"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 languir에서 왔고 라틴어 languēre '기운이 없다'와 이어집니다. 시들어 가는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lapidary",
+    "score": 31,
+    "zipf": 2.04,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Of a piece of writing or a writing style: characteristic of or suitable for an inscription; embodying the precision and refinement of inscriptions on monuments; concise and stately.",
+        "ko": "(문체가) 간결하고 정제된, 비문 같은",
+        "synonyms": [
+          "concise",
+          "terse",
+          "succinct",
+          "polished",
+          "elegant"
+        ],
+        "examples": [
+          {
+            "text": "The obituary was a model of lapidary prose, every word chosen with care.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an expert on precious stones and the art of cutting and engraving them",
+        "ko": "보석 세공사, 보석 전문가",
+        "synonyms": [
+          "gem cutter",
+          "lapidarist",
+          "gemsmith"
+        ],
+        "examples": [
+          {
+            "text": "The lapidary spent weeks cutting the rough sapphire into a flawless oval.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lapid",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "라틴어 lapidārius '돌의, 석공'에서 왔고 lapis(돌)에서 나왔습니다. 돌에 새긴 비문처럼 간결한 문체를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "larceny",
+    "score": 32,
+    "zipf": 2.9,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the act of taking something from someone unlawfully",
+        "ko": "절도(죄), 도둑질",
+        "synonyms": [
+          "theft",
+          "stealing",
+          "thievery",
+          "pilfering",
+          "robbery"
+        ],
+        "examples": [
+          {
+            "text": "That young man already has four assaults, a DUI, and a larceny on his record.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "앵글로노르만어 larcin '절도'에서 왔고 라틴어 latrocinium '강도질'과 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "larder",
+    "score": 36,
+    "zipf": 2.53,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a small storeroom for storing foods or wines",
+        "ko": "식료품 저장실",
+        "synonyms": [
+          "pantry",
+          "storeroom",
+          "buttery"
+        ],
+        "examples": [
+          {
+            "text": "The farmhouse larder was stocked with preserves, smoked ham, and sacks of flour for the winter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "앵글로노르만어를 거쳐 라틴어 lardārium에서 왔습니다. lard(돼지기름)를 보관하던 곳입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "largess",
+    "score": 62,
+    "zipf": 1.91,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "liberality in bestowing gifts; extremely liberal and generous of spirit",
+        "ko": "후한 베풂, 관대함",
+        "synonyms": [
+          "generosity",
+          "munificence",
+          "magnanimity",
+          "bounty",
+          "openhandedness"
+        ],
+        "examples": [
+          {
+            "text": "The university's new library was built entirely through the largess of a single anonymous donor.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 largesse에서 왔고 large(넉넉한, 관대한)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "largesse",
+    "score": 50,
+    "zipf": 2.31,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The trait of being willing to donate money, resources, or time; generosity, liberality.",
+        "ko": "아낌없는 베풂, 후한 선물",
+        "synonyms": [
+          "generosity",
+          "munificence",
+          "benevolence",
+          "bounty",
+          "liberality"
+        ],
+        "examples": [
+          {
+            "text": "The museum survives chiefly on the largesse of wealthy patrons.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 largesce에서 왔고 large(넉넉한, 관대한)에서 나왔습니다. 넉넉히 베푸는 마음입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lascivious",
+    "score": 36,
+    "zipf": 2.47,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "driven by lust; preoccupied with or exhibiting lustful desires",
+        "ko": "음탕한, 호색적인",
+        "synonyms": [
+          "lewd",
+          "lustful",
+          "libidinous",
+          "salacious",
+          "lecherous"
+        ],
+        "examples": [
+          {
+            "text": "The senator's lascivious remarks at the dinner prompted an immediate ethics inquiry.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 lascīviōsus에서 왔고 lascīvia '장난기, 음탕함'에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lassitude",
+    "score": 44,
+    "zipf": 1.71,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a feeling of lack of interest or energy",
+        "ko": "권태, 나른함",
+        "synonyms": [
+          "languor",
+          "listlessness",
+          "lethargy",
+          "weariness",
+          "torpor"
+        ],
+        "examples": [
+          {
+            "text": "A deep lassitude settled over the staff after months of fruitless negotiations.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lass",
+      "-tude"
+    ],
+    "origin": {
+      "ko": "프랑스어를 거쳐 라틴어 lassitūdō '피로, 나른함'에서 왔습니다. 기운이 빠진 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "latent",
+    "score": 44,
+    "zipf": 3.27,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "potentially existing but not presently evident or realized",
+        "ko": "잠재된, 잠복해 있는",
+        "synonyms": [
+          "dormant",
+          "hidden",
+          "potential",
+          "concealed",
+          "quiescent"
+        ],
+        "examples": [
+          {
+            "text": "The program is designed to uncover latent talent among students from overlooked schools.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lat(숨다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 latēns '숨어 있는'에서 왔고 lateō '숨어 있다'에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "latitude",
+    "score": 41,
+    "zipf": 3.57,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "scope for freedom of e.g. action or thought; freedom from restriction",
+        "ko": "(행동·사고의) 자유, 재량",
+        "synonyms": [
+          "leeway",
+          "freedom",
+          "scope",
+          "liberty",
+          "discretion"
+        ],
+        "examples": [
+          {
+            "text": "His parents gave him a great deal of latitude.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an imaginary line around the Earth parallel to the equator",
+        "ko": "위도",
+        "synonyms": [
+          "parallel",
+          "line of latitude"
+        ],
+        "examples": [
+          {
+            "text": "snow showers in the northerly latitudes",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lat(넓은)",
+      "-tude"
+    ],
+    "origin": {
+      "ko": "라틴어 lātitūdō '넓이, 폭'에서 왔고 lātus(넓은)에서 나왔습니다. 폭이 넓어 여유가 있다는 데서 '재량'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "laud",
+    "score": 35,
+    "zipf": 2.6,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "praise, glorify, or honor",
+        "ko": "칭송하다, 찬양하다",
+        "synonyms": [
+          "extol",
+          "praise",
+          "commend",
+          "acclaim",
+          "exalt"
+        ],
+        "examples": [
+          {
+            "text": "Critics lauded the novel for its unflinching honesty and lyrical prose.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "laud"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어를 거쳐 라틴어 laudāre에서 왔고 laus '칭찬, 명성'에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "laudable",
+    "score": 66,
+    "zipf": 2.68,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "worthy of high praise",
+        "ko": "칭찬할 만한, 훌륭한",
+        "synonyms": [
+          "commendable",
+          "praiseworthy",
+          "admirable",
+          "creditable",
+          "meritorious"
+        ],
+        "examples": [
+          {
+            "text": "Though the goal of cutting waste is laudable, the proposed method would harm essential services.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "laud",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 laudabilis에서 왔습니다. laud(칭찬하다)에 -able이 붙어 칭찬할 만하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lavish",
+    "score": 59,
+    "zipf": 3.42,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by extravagance and profusion",
+        "ko": "호화로운, 사치스러운",
+        "synonyms": [
+          "extravagant",
+          "opulent",
+          "sumptuous",
+          "luxurious",
+          "plush"
+        ],
+        "examples": [
+          {
+            "text": "a lavish buffet",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "very generous",
+        "ko": "아낌없는, 후한",
+        "synonyms": [
+          "munificent",
+          "unstinting",
+          "bountiful",
+          "profuse",
+          "generous"
+        ],
+        "examples": [
+          {
+            "text": "the critics were lavish in their praise",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To give out extremely generously; to squander.",
+        "ko": "아낌없이 쏟다, 낭비하다",
+        "synonyms": [
+          "shower",
+          "squander",
+          "heap",
+          "bestow"
+        ],
+        "examples": [
+          {
+            "text": "They lavished money on the dinner.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 lavasse '쏟아지는 소나기'에서 왔습니다. 퍼붓듯 넘치게 쓴다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lax",
+    "score": 42,
+    "zipf": 3.54,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking in rigor or strictness",
+        "ko": "느슨한, 엄격하지 않은",
+        "synonyms": [
+          "slack",
+          "negligent",
+          "lenient",
+          "remiss",
+          "permissive"
+        ],
+        "examples": [
+          {
+            "text": "such lax and slipshod ways are no longer acceptable",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "lacking in firmness or tension; not taut",
+        "ko": "팽팽하지 않은, 늘어진",
+        "synonyms": [
+          "slack",
+          "loose",
+          "limp",
+          "flaccid"
+        ],
+        "examples": [
+          {
+            "text": "a lax rope",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lax"
+    ],
+    "origin": {
+      "ko": "라틴어 laxus '넓은, 느슨한'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "layperson",
+    "score": 34,
+    "zipf": 2.28,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "One who is not intimately familiar with a given subject or activity.",
+        "ko": "비전문가, 문외한",
+        "synonyms": [
+          "nonexpert",
+          "nonspecialist",
+          "amateur",
+          "outsider",
+          "layman"
+        ],
+        "examples": [
+          {
+            "text": "The book was written for professionals, but an intelligent layperson could understand most of it.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "someone who is not a clergyman or a professional person",
+        "ko": "평신도, 일반인",
+        "synonyms": [
+          "secular",
+          "layman",
+          "parishioner"
+        ],
+        "examples": [
+          {
+            "text": "The council includes both clergy and laypersons from each parish.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "lay(성직자가 아닌)와 person이 합쳐졌습니다. layman을 본뜬 말로 비전문가를 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

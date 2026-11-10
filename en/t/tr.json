@@ -1,0 +1,1392 @@
+[
+  {
+    "word": "tract",
+    "score": 24,
+    "zipf": 3.71,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an extended area of land",
+        "ko": "넓은 땅, 지역",
+        "synonyms": [
+          "expanse",
+          "stretch",
+          "parcel",
+          "region"
+        ],
+        "examples": [
+          {
+            "text": "The developer bought a vast tract of farmland on the edge of the city.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a brief treatise on a subject of interest; published in the form of a booklet",
+        "ko": "소책자, 팸플릿",
+        "synonyms": [
+          "pamphlet",
+          "treatise",
+          "essay",
+          "leaflet"
+        ],
+        "examples": [
+          {
+            "text": "The reformer distributed a political tract denouncing child labor in the textile mills.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tract"
+    ],
+    "origin": {
+      "ko": "라틴어 tractus('끌어 늘임')에서 왔고 trahere('끌다')와 이어집니다. 길게 뻗은 공간이 '넓은 땅'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tractable",
+    "score": 65,
+    "zipf": 2.21,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Capable of being easily led, taught, or managed.",
+        "ko": "다루기 쉬운, 순종적인",
+        "synonyms": [
+          "docile",
+          "manageable",
+          "amenable",
+          "compliant",
+          "pliant"
+        ],
+        "examples": [
+          {
+            "text": "The tractable young horse learned the commands within a week and rarely resisted its rider.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Capable of being shaped; malleable.",
+        "ko": "가공하기 쉬운, 성형 가능한",
+        "synonyms": [
+          "malleable",
+          "pliable",
+          "ductile",
+          "workable"
+        ],
+        "examples": [
+          {
+            "text": "Soft copper is a tractable metal, easily drawn into wire or hammered into sheets.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tract",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 tractābilis('다룰 수 있는')에서 왔습니다. 손으로 끌어 다룰 수 있어서 '다루기 쉬운'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "traduce",
+    "score": 23,
+    "zipf": 1.21,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To malign a person or entity by making malicious and false or defamatory statements.",
+        "ko": "중상하다, 비방하다",
+        "synonyms": [
+          "slander",
+          "defame",
+          "malign",
+          "vilify",
+          "calumniate"
+        ],
+        "examples": [
+          {
+            "text": "Rivals traduced the physician in anonymous pamphlets, accusing him of crimes he had never committed.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "trans-",
+      "duc"
+    ],
+    "origin": {
+      "ko": "라틴어 trādūcō('끌고 건너다, 구경거리로 망신 주다')에서 왔습니다. 남을 끌어내 망신 주는 모습이 '중상하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tranquil",
+    "score": 30,
+    "zipf": 3.14,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Free from emotional or mental disturbance.",
+        "ko": "평온한, 차분한",
+        "synonyms": [
+          "calm",
+          "serene",
+          "peaceful",
+          "composed",
+          "placid"
+        ],
+        "examples": [
+          {
+            "text": "After the retreat she returned to work with a tranquil mind and a clearer sense of her priorities.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "(of a body of water) free from disturbance by heavy waves",
+        "ko": "(물이) 잔잔한, 고요한",
+        "synonyms": [
+          "placid",
+          "still",
+          "smooth",
+          "unruffled"
+        ],
+        "examples": [
+          {
+            "text": "At dawn the tranquil lake reflected the surrounding hills without a single ripple.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "trans-"
+    ],
+    "origin": {
+      "ko": "라틴어 tranquillus에서 왔고 quiēs('휴식, 고요')와 이어집니다. 마음이 고요히 쉬는 상태가 '평온한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "transcend",
+    "score": 30,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To pass beyond the limits of something.",
+        "ko": "초월하다, 넘어서다",
+        "synonyms": [
+          "surmount",
+          "overstep",
+          "rise above",
+          "exceed"
+        ],
+        "examples": [
+          {
+            "text": "We cannot transcend what we refuse to face.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To surpass, as in intensity or power; to excel.",
+        "ko": "능가하다, 뛰어넘다",
+        "synonyms": [
+          "surpass",
+          "outdo",
+          "exceed",
+          "eclipse",
+          "excel"
+        ],
+        "examples": [
+          {
+            "text": "Her final performance transcended anything the critics had expected from so young a pianist.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "trans-",
+      "scend"
+    ],
+    "origin": {
+      "ko": "라틴어 transcendō('넘어 올라가다')에서 왔습니다. 벽을 타고 넘는 이미지가 '초월하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "transgression",
+    "score": 48,
+    "zipf": 2.89,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the act of transgressing; the violation of a law or a duty or moral principle",
+        "ko": "위반, 죄",
+        "synonyms": [
+          "offense",
+          "violation",
+          "wrongdoing",
+          "sin",
+          "infraction"
+        ],
+        "examples": [
+          {
+            "text": "The council punished even minor transgressions of the code of conduct with public censure.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the action of going beyond or overstepping some boundary or limit",
+        "ko": "(한계·경계의) 침범, 월경",
+        "synonyms": [
+          "trespass",
+          "encroachment",
+          "overstepping",
+          "breach"
+        ],
+        "examples": [
+          {
+            "text": "Every transgression of the border was recorded and reported to the regional commander.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "trans-",
+      "grad",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 trānsgredior('건너가다')에서 왔습니다. 선을 넘어가는 행위가 '위반, 죄'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "transient",
+    "score": 59,
+    "zipf": 3.37,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lasting a very short time",
+        "ko": "일시적인, 순간적인",
+        "synonyms": [
+          "ephemeral",
+          "fleeting",
+          "transitory",
+          "short-lived",
+          "passing"
+        ],
+        "examples": [
+          {
+            "text": "a transient pleasure",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "one who stays for only a short time",
+        "ko": "단기 체류자, 떠돌이",
+        "synonyms": [
+          "drifter",
+          "itinerant",
+          "wanderer",
+          "sojourner"
+        ],
+        "examples": [
+          {
+            "text": "The cheap hotel catered mostly to transients, who rarely stayed beyond a single night.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "trans-",
+      "it",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 trānsīre('지나가다')의 현재분사에서 왔습니다. 스쳐 지나가는 것이 '일시적인'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "transitory",
+    "score": 66,
+    "zipf": 2.68,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lasting a very short time",
+        "ko": "일시적인, 덧없는",
+        "synonyms": [
+          "ephemeral",
+          "transient",
+          "fleeting",
+          "evanescent",
+          "short-lived"
+        ],
+        "examples": [
+          {
+            "text": "The poet mourned the transitory nature of beauty, which fades almost as soon as it is noticed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "trans-",
+      "it",
+      "-ory"
+    ],
+    "origin": {
+      "ko": "라틴어 trānsitōrius('지나가는')에서 왔습니다. 잠깐 지나가 버리는 '덧없는' 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "transmute",
+    "score": 33,
+    "zipf": 2.19,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "change or alter in form, appearance, or nature",
+        "ko": "변형시키다, 탈바꿈시키다",
+        "synonyms": [
+          "transform",
+          "convert",
+          "metamorphose",
+          "transfigure"
+        ],
+        "examples": [
+          {
+            "text": "The alchemists tried to transmute base metals to gold.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "trans-",
+      "mut"
+    ],
+    "origin": {
+      "ko": "라틴어 trānsmūtāre('건너서 바꾸다')에서 왔습니다. 한 상태에서 다른 상태로 바꾸는 것이 '변형시키다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "trappings",
+    "score": 32,
+    "zipf": 2.89,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Something which gives the appearance of something.",
+        "ko": "겉치레, 외형적 표식",
+        "synonyms": [
+          "accoutrements",
+          "adornments",
+          "paraphernalia",
+          "panoply",
+          "outward signs"
+        ],
+        "examples": [
+          {
+            "text": "The president enjoyed the trappings of power, including a motorcade and a staff of two hundred.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "trap('말 장식')에서 나온 trapping의 복수형으로 보입니다. 이 사전 정보만으로는 확실히 말하기 어렵습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "travail",
+    "score": 36,
+    "zipf": 2.51,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Arduous or painful exertion; excessive labor, suffering, hardship.",
+        "ko": "고역, 고난",
+        "synonyms": [
+          "toil",
+          "hardship",
+          "tribulation",
+          "ordeal",
+          "drudgery"
+        ],
+        "examples": [
+          {
+            "text": "The memoir recounts the travail of immigrants who crossed an ocean in search of work.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "work hard",
+        "ko": "힘들게 일하다, 애쓰다",
+        "synonyms": [
+          "toil",
+          "labor",
+          "drudge",
+          "slave"
+        ],
+        "examples": [
+          {
+            "text": "She travailed for years over the translation before it finally reached publication.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 travail('고통')에서 왔고 라틴어 tripālium('고문 도구')까지 거슬러 올라갑니다. 고문 같은 고통이 '고역'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "travesty",
+    "score": 47,
+    "zipf": 3.0,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An absurd, grotesque, misrepresentative or grossly inferior likeness or imitation.",
+        "ko": "왜곡된 모방, 엉터리 (풍자 대상)",
+        "synonyms": [
+          "mockery",
+          "sham",
+          "caricature",
+          "distortion"
+        ],
+        "examples": [
+          {
+            "text": "A battlefield trial is a travesty of justice.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a composition that imitates or misrepresents somebody's style, usually in a humorous way",
+        "ko": "패러디, 희화화",
+        "synonyms": [
+          "parody",
+          "burlesque",
+          "spoof",
+          "lampoon",
+          "send-up"
+        ],
+        "examples": [
+          {
+            "text": "The comedian's travesty of the epic poem had audiences laughing at every solemn line.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vest"
+    ],
+    "origin": {
+      "ko": "이탈리아어 travestire('옷을 바꿔 입히다, 변장시키다')에서 왔습니다. 엉터리로 변장시킨 모방이 '왜곡된 모방'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "treacherous",
+    "score": 44,
+    "zipf": 3.32,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Deceitful; inclined to betray.",
+        "ko": "배신하는, 불충한",
+        "synonyms": [
+          "perfidious",
+          "traitorous",
+          "disloyal",
+          "faithless",
+          "deceitful"
+        ],
+        "examples": [
+          {
+            "text": "The treacherous adviser sold the king's secrets to the enemy for a modest sum.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "dangerously unstable and unpredictable",
+        "ko": "위험한, 믿을 수 없는",
+        "synonyms": [
+          "hazardous",
+          "perilous",
+          "unreliable",
+          "precarious"
+        ],
+        "examples": [
+          {
+            "text": "treacherous winding roads",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ous"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 trecheros('속이는')에서 왔고 treacher('배신자')에 -ous를 붙인 형태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "treacly",
+    "score": 26,
+    "zipf": 1.49,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "overly sweet",
+        "ko": "지나치게 달콤한, 느끼한",
+        "synonyms": [
+          "cloying",
+          "saccharine",
+          "syrupy",
+          "mawkish"
+        ],
+        "examples": [
+          {
+            "text": "The film's treacly ending, full of tearful reunions and swelling violins, felt manipulative rather than moving.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "tread",
+    "score": 26,
+    "zipf": 3.52,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To proceed, to behave (in a certain manner).",
+        "ko": "(조심스럽게) 행동하다, 처신하다",
+        "synonyms": [
+          "proceed",
+          "behave",
+          "step",
+          "walk"
+        ],
+        "examples": [
+          {
+            "text": "Negotiators must tread carefully when discussing the disputed border with both delegations in the room.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To crush under the foot; to trample in contempt or hatred; to subdue; to repress.",
+        "ko": "짓밟다, 억압하다",
+        "synonyms": [
+          "trample",
+          "crush",
+          "subdue",
+          "repress"
+        ],
+        "examples": [
+          {
+            "text": "The regime sought to tread down every voice of dissent in the capital.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 tredan('밟다')에서 왔습니다. 땅을 밟으며 나아가는 모습이 '처신하다'로 번졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "treatise",
+    "score": 27,
+    "zipf": 3.38,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A formal, usually lengthy, systematic discourse on some subject.",
+        "ko": "논문, 학술 논고",
+        "synonyms": [
+          "dissertation",
+          "monograph",
+          "essay",
+          "discourse"
+        ],
+        "examples": [
+          {
+            "text": "Locke's treatise on government shaped the political thinking of generations of revolutionaries.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 traitis('논고')에서 왔고 traitier('다루다')와 이어집니다. 한 주제를 다룬 글이 '논문'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "trenchant",
+    "score": 99,
+    "zipf": 2.35,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having keenness and forcefulness and penetration in thought, expression, or intellect",
+        "ko": "예리한, 날카로운",
+        "synonyms": [
+          "incisive",
+          "penetrating",
+          "keen",
+          "cutting",
+          "acute"
+        ],
+        "examples": [
+          {
+            "text": "The review offered trenchant criticism of the film's script without ignoring its visual achievements.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "characterized by or full of force and vigor",
+        "ko": "강력한, 힘 있는",
+        "synonyms": [
+          "forceful",
+          "vigorous",
+          "hard-hitting",
+          "emphatic"
+        ],
+        "examples": [
+          {
+            "text": "a trenchant argument",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 trenchier('자르다')의 현재분사에서 왔습니다. 칼처럼 베는 날카로움이 '예리한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tribulation",
+    "score": 34,
+    "zipf": 2.73,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Any adversity; a trying period or event.",
+        "ko": "시련, 고난",
+        "synonyms": [
+          "adversity",
+          "ordeal",
+          "hardship",
+          "affliction",
+          "trial"
+        ],
+        "examples": [
+          {
+            "text": "The family endured years of tribulation after the factory closed and the town lost its main employer.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ter",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "라틴어 tribulāre('짓누르다')에서 왔고 곡식 타작 도구 trībulum과 이어집니다. 짓눌리는 고통이 '시련'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tribunal",
+    "score": 22,
+    "zipf": 3.88,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An assembly including one or more judges to conduct judicial business; a court of law.",
+        "ko": "재판소, 법정",
+        "synonyms": [
+          "court",
+          "judicature",
+          "bench",
+          "forum"
+        ],
+        "examples": [
+          {
+            "text": "The international tribunal heard testimony from survivors before issuing its judgment on the wartime atrocities.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 tribūnal('재판관 단상')에서 왔고 tribus('부족')와 이어집니다. 재판하는 자리가 '법정'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "trifling",
+    "score": 50,
+    "zipf": 2.69,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not worth considering",
+        "ko": "하찮은, 사소한",
+        "synonyms": [
+          "trivial",
+          "negligible",
+          "paltry",
+          "petty",
+          "inconsequential"
+        ],
+        "examples": [
+          {
+            "text": "The company dismissed the complaint as a trifling matter, but the regulators saw a pattern.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Frivolous.",
+        "ko": "경박한, 진지하지 못한",
+        "synonyms": [
+          "frivolous",
+          "flippant",
+          "idle",
+          "shallow"
+        ],
+        "examples": [
+          {
+            "text": "The headmaster scolded the boys for their trifling attitude toward the serious examination.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "trifle('하찮은 것')에 -ing를 붙인 말입니다. 대수롭지 않은 '사소한' 것을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "trite",
+    "score": 81,
+    "zipf": 2.8,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "repeated too often; overfamiliar through overuse",
+        "ko": "진부한, 상투적인",
+        "synonyms": [
+          "banal",
+          "hackneyed",
+          "commonplace",
+          "clichéd",
+          "stale"
+        ],
+        "examples": [
+          {
+            "text": "The graduation speech relied on trite advice about following your dreams and never giving up.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ter"
+    ],
+    "origin": {
+      "ko": "라틴어 trītus('닳아빠진')에서 왔고 terō('문질러 닳게 하다')의 분사입니다. 너무 써서 닳은 표현이 '진부한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "triumvirate",
+    "score": 36,
+    "zipf": 2.55,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Any group of three joint rulers.",
+        "ko": "3두 정치, 삼인 지도 체제",
+        "synonyms": [
+          "troika",
+          "trio",
+          "triad"
+        ],
+        "examples": [
+          {
+            "text": "After the dictator's death, a triumvirate of generals governed the country for two uneasy years.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tri",
+      "vir(남자)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 triumvir('세 사람 중 한 명')에서 왔습니다. 세 사람이 함께 다스리는 체제입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "trivial",
+    "score": 24,
+    "zipf": 3.66,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of little substance or significance",
+        "ko": "사소한, 하찮은",
+        "synonyms": [
+          "insignificant",
+          "petty",
+          "superficial",
+          "minor",
+          "inconsequential"
+        ],
+        "examples": [
+          {
+            "text": "The committee wasted an hour on trivial objections while the central budget question went unanswered.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Commonplace, ordinary.",
+        "ko": "평범한, 흔한",
+        "synonyms": [
+          "commonplace",
+          "ordinary",
+          "everyday",
+          "unremarkable"
+        ],
+        "examples": [
+          {
+            "text": "For the novelist, even the most trivial incident of daily life became material for reflection.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tri",
+      "vi(길)",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 trivium('세 길이 만나는 곳')에서 왔습니다. 길거리에서 흔히 오가는 이야기라서 '사소한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "troth",
+    "score": 32,
+    "zipf": 2.14,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a solemn pledge of fidelity",
+        "ko": "서약, 맹세",
+        "synonyms": [
+          "pledge",
+          "vow",
+          "fidelity",
+          "oath"
+        ],
+        "examples": [
+          {
+            "text": "The knight plighted his troth to the king and swore never to abandon the realm.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a mutual promise to marry",
+        "ko": "약혼",
+        "synonyms": [
+          "betrothal",
+          "engagement"
+        ],
+        "examples": [
+          {
+            "text": "In the old ballad the couple plight their troth beneath an oak tree on midsummer's eve.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 trēowþ('충실, 약속')에서 왔고 true에 -th를 붙인 형태입니다. 진실을 걸고 한 약속이 '서약'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "truculence",
+    "score": 41,
+    "zipf": 1.43,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "obstreperous and defiant aggressiveness",
+        "ko": "호전성, 반항적인 공격성",
+        "synonyms": [
+          "belligerence",
+          "pugnacity",
+          "combativeness",
+          "aggressiveness",
+          "defiance"
+        ],
+        "examples": [
+          {
+            "text": "The striker's truculence toward referees earned him a reputation as the league's most disruptive player.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "trucul",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "라틴어 truculentia에서 왔고 trux('사나운')와 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "truculent",
+    "score": 63,
+    "zipf": 2.01,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "defiantly aggressive",
+        "ko": "반항적이고 공격적인, 호전적인",
+        "synonyms": [
+          "belligerent",
+          "pugnacious",
+          "combative",
+          "defiant",
+          "bellicose"
+        ],
+        "examples": [
+          {
+            "text": "The truculent defendant glared at the judge and refused to answer a single question.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Violent; rude; scathing; savage; harsh.",
+        "ko": "신랄한, 가혹한",
+        "synonyms": [
+          "scathing",
+          "caustic",
+          "harsh",
+          "vitriolic"
+        ],
+        "examples": [
+          {
+            "text": "The columnist's truculent attack on the minister left even his supporters feeling uneasy.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "trucul",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 truculentus('사납고 거친')에서 왔고 trux('사나운')와 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "truncate",
+    "score": 33,
+    "zipf": 2.24,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make shorter as if by cutting off",
+        "ko": "잘라 짧게 하다, 단축하다",
+        "synonyms": [
+          "shorten",
+          "curtail",
+          "abridge",
+          "cut short",
+          "trim"
+        ],
+        "examples": [
+          {
+            "text": "The script was truncated to leave time for commercials.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "trunc",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 truncō('줄기만 남기고 자르다')에서 왔습니다. 가지를 쳐 짧게 만드는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "truncated",
+    "score": 31,
+    "zipf": 3.03,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "cut short in duration",
+        "ko": "단축된, 줄여진",
+        "synonyms": [
+          "shortened",
+          "abbreviated",
+          "curtailed",
+          "cut short"
+        ],
+        "examples": [
+          {
+            "text": "Because of the storm, the festival ran a truncated schedule, with several performances cancelled outright.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "terminating abruptly by having or as if having an end or point cut off",
+        "ko": "끝이 잘린, 말단이 뭉툭한",
+        "synonyms": [
+          "cut off",
+          "blunt",
+          "clipped"
+        ],
+        "examples": [
+          {
+            "text": "Erosion left the volcano with a truncated summit, flat where the peak once rose.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "trunc",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 truncō('줄기만 남기고 자르다')에서 온 truncate의 분사형입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

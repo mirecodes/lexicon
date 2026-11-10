@@ -1,0 +1,86 @@
+[
+  {
+    "word": "dwell",
+    "score": 25,
+    "zipf": 3.57,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To linger (on); to remain fixated.",
+        "ko": "곰곰이 되새기다, 집착하다",
+        "synonyms": [
+          "brood",
+          "linger",
+          "harp on",
+          "ruminate"
+        ],
+        "examples": [
+          {
+            "text": "Stop dwelling on the past!",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "be an inhabitant of or reside in",
+        "ko": "거주하다, 살다",
+        "synonyms": [
+          "live",
+          "reside",
+          "inhabit",
+          "abide"
+        ],
+        "examples": [
+          {
+            "text": "The poor man dwells in a humble cottage near the hall where the lord of the domain resides.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 dwellan(헤매게 하다, 속이다)에서 왔습니다. 오래 머무르는 뜻으로 바뀌었고, 한 생각에 머물러 '곰곰이 되새기다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dwindling",
+    "score": 30,
+    "zipf": 3.09,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "declining; growing less",
+        "ko": "줄어드는, 점점 감소하는",
+        "synonyms": [
+          "diminishing",
+          "shrinking",
+          "waning",
+          "decreasing"
+        ],
+        "examples": [
+          {
+            "text": "There is dwindling support for New Labour.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

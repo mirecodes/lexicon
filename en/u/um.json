@@ -1,0 +1,45 @@
+[
+  {
+    "word": "umbrage",
+    "score": 82,
+    "zipf": 2.34,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a feeling of anger caused by being offended",
+        "ko": "불쾌감, 분개",
+        "synonyms": [
+          "offense",
+          "resentment",
+          "pique",
+          "indignation",
+          "displeasure"
+        ],
+        "examples": [
+          {
+            "text": "The ambassador took umbrage at the suggestion that his government had interfered in the election.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "umbr",
+      "-age"
+    ],
+    "origin": {
+      "ko": "라틴어 umbra('그늘')에서 왔습니다. 그늘이 드리우듯 마음에 어두운 불쾌감이 생긴 것이 '분개'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

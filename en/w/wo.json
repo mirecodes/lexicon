@@ -1,0 +1,113 @@
+[
+  {
+    "word": "woeful",
+    "score": 34,
+    "zipf": 2.69,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of very poor quality or condition",
+        "ko": "형편없는, 한심한",
+        "synonyms": [
+          "deplorable",
+          "wretched",
+          "dismal",
+          "pitiful",
+          "abysmal"
+        ],
+        "examples": [
+          {
+            "text": "The team's woeful defense allowed more goals than any other squad in the league.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "affected by or full of grief or woe",
+        "ko": "슬픔에 잠긴, 비통한",
+        "synonyms": [
+          "sorrowful",
+          "woebegone",
+          "mournful",
+          "miserable"
+        ],
+        "examples": [
+          {
+            "text": "The woeful widow stood silently at the graveside long after the others had left.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ful"
+    ],
+    "origin": {
+      "ko": "woe('비통')와 -ful의 결합입니다. 비통함이 가득하다는 뜻에서 '형편없는'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "wont",
+    "score": 20,
+    "zipf": 4.09,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Accustomed or used (to or with a thing), accustomed or apt (to do something).",
+        "ko": "~하는 버릇이 있는, ~에 익숙한",
+        "synonyms": [
+          "accustomed",
+          "apt",
+          "prone",
+          "given"
+        ],
+        "examples": [
+          {
+            "text": "He is wont to complain loudly about his job.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an established custom",
+        "ko": "관습, 습관",
+        "synonyms": [
+          "habit",
+          "custom",
+          "practice"
+        ],
+        "examples": [
+          {
+            "text": "As was his wont, the professor began the seminar with a long, rambling anecdote.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 ġewunod('익숙해진')에서 왔고 ġewunian('거주하다, 익숙해지다')의 과거분사입니다. 몸에 밴 '버릇'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

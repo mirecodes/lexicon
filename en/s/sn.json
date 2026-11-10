@@ -1,0 +1,93 @@
+[
+  {
+    "word": "snide",
+    "score": 35,
+    "zipf": 2.59,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Disparaging or derisive in an insinuative way.",
+        "ko": "빈정대는, 비꼬는",
+        "synonyms": [
+          "sneering",
+          "sarcastic",
+          "derisive",
+          "disparaging",
+          "mocking"
+        ],
+        "examples": [
+          {
+            "text": "Don't make snide remarks to me.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "'날카롭고 베는 듯한'이라는 뜻의 방언 snithe에서 왔을 것으로 봅니다. 찌르듯 비꼬는 말투입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "snub",
+    "score": 32,
+    "zipf": 2.9,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To slight, ignore or behave coldly toward someone.",
+        "ko": "무시하다, 냉대하다",
+        "synonyms": [
+          "slight",
+          "ignore",
+          "cold-shoulder",
+          "rebuff",
+          "spurn"
+        ],
+        "examples": [
+          {
+            "text": "The senator snubbed his rival by refusing to shake hands at the ceremony.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A deliberate affront or slight.",
+        "ko": "냉대, 무시",
+        "synonyms": [
+          "slight",
+          "affront",
+          "insult",
+          "rebuff"
+        ],
+        "examples": [
+          {
+            "text": "I hope the people we couldn't invite don't see it as a snub.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 노르드어 snubba(꾸짖다)에서 왔고 '잘라내다'라는 뜻이었습니다. 쌀쌀맞게 잘라 내치는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,585 @@
+[
+  {
+    "word": "boast",
+    "score": 26,
+    "zipf": 3.51,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To brag; to talk loudly in praise of oneself.",
+        "ko": "자랑하다, 뽐내다",
+        "synonyms": [
+          "brag",
+          "crow",
+          "vaunt",
+          "swagger"
+        ],
+        "examples": [
+          {
+            "text": "The young executive boasted constantly about his promotions, which tired his colleagues quickly.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To possess (a special and desirable quality).",
+        "ko": "(자랑할 만한 것을) 갖추고 있다",
+        "synonyms": [
+          "possess",
+          "feature",
+          "enjoy",
+          "sport"
+        ],
+        "examples": [
+          {
+            "text": "The hotel boasts one of the best views of the sea.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 bost('자랑, 소란')에서 왔고, 게르만어 '부풀어 오른, 우쭐한'에서 유래한 것으로 봅니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bogus",
+    "score": 43,
+    "zipf": 3.43,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Counterfeit or fake; not genuine.",
+        "ko": "가짜의, 위조된",
+        "synonyms": [
+          "fake",
+          "counterfeit",
+          "phony",
+          "spurious",
+          "sham"
+        ],
+        "examples": [
+          {
+            "text": "He was arrested for trying to cash a bogus check at the bank.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "위조 주화를 만드는 기계를 가리키던 미국 은어에서 시작됐고, 정확한 기원은 모릅니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "boisterous",
+    "score": 32,
+    "zipf": 2.86,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "noisy and lacking in restraint or discipline",
+        "ko": "소란스러운, 떠들썩한",
+        "synonyms": [
+          "rowdy",
+          "rambunctious",
+          "unruly",
+          "raucous"
+        ],
+        "examples": [
+          {
+            "text": "A boisterous crowd of fans filled the street outside the stadium long after the final whistle.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "violently agitated and turbulent",
+        "ko": "(바람·파도가) 거친, 사나운",
+        "synonyms": [
+          "stormy",
+          "turbulent",
+          "tempestuous",
+          "wild"
+        ],
+        "examples": [
+          {
+            "text": "Boisterous winds tore at the sails and forced the fishing fleet back to harbor.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 boistous('거칠고 투박한')가 바뀐 말입니다. 기원은 불확실하며 거칠고 소란스럽다는 뜻으로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bolster",
+    "score": 60,
+    "zipf": 3.31,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "support and strengthen",
+        "ko": "북돋우다, 보강하다",
+        "synonyms": [
+          "reinforce",
+          "buttress",
+          "shore up",
+          "fortify",
+          "boost"
+        ],
+        "examples": [
+          {
+            "text": "Strong earnings reports helped bolster investor confidence after months of market uncertainty.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A large cushion or pillow, usually cylindrical in shape.",
+        "ko": "긴 베개, 둥근 받침 쿠션",
+        "synonyms": [
+          "cushion",
+          "pillow"
+        ],
+        "examples": [
+          {
+            "text": "She propped the bolster behind her back and settled in to read.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 bolster('베개, 쿠션')에서 왔습니다. 베개로 받쳐 주듯 '떠받치다, 북돋우다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bolt",
+    "score": 21,
+    "zipf": 4.04,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "leave suddenly and as if in a hurry",
+        "ko": "갑자기 달아나다, 뛰쳐나가다",
+        "synonyms": [
+          "dash",
+          "flee",
+          "dart",
+          "run off"
+        ],
+        "examples": [
+          {
+            "text": "The listeners bolted when he discussed his strange ideas",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "eat hastily without proper chewing",
+        "ko": "급하게 삼키다, 게걸스럽게 먹다",
+        "synonyms": [
+          "gobble",
+          "gulp",
+          "wolf"
+        ],
+        "examples": [
+          {
+            "text": "Don't bolt your food!",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "secure or lock with a bolt",
+        "ko": "빗장을 지르다, 볼트로 고정하다",
+        "synonyms": [
+          "lock",
+          "bar",
+          "fasten"
+        ],
+        "examples": [
+          {
+            "text": "Every night the innkeeper bolted the heavy oak door and checked the shutters.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 bolt('굵은 화살')에서 왔습니다. 화살이나 번개처럼 쏜살같이 튀어 나가는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bombast",
+    "score": 34,
+    "zipf": 2.27,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "pompous or pretentious talk or writing",
+        "ko": "과장된 말, 허풍",
+        "synonyms": [
+          "grandiloquence",
+          "fustian",
+          "rant",
+          "pomposity"
+        ],
+        "examples": [
+          {
+            "text": "The candidate's speech was all bombast, with soaring phrases but not a single concrete proposal.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 bombace('목화솜')에서 왔습니다. 옷에 솜을 채워 부풀리듯 속 빈 말을 부풀린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bombastic",
+    "score": 51,
+    "zipf": 2.63,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "ostentatiously lofty in style",
+        "ko": "과장된, 허세 부리는",
+        "synonyms": [
+          "pompous",
+          "grandiloquent",
+          "turgid",
+          "inflated"
+        ],
+        "examples": [
+          {
+            "text": "The bombastic preface promised a revolution in physics but delivered only familiar ideas.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ic"
+    ],
+    "origin": {
+      "ko": "bombast(솜 채움)에 -ic가 붙은 말입니다. 속을 부풀린 과장된 말투를 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bonhomie",
+    "score": 45,
+    "zipf": 1.84,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a disposition to be friendly and approachable (easy to talk to)",
+        "ko": "붙임성, 호탕한 친근함",
+        "synonyms": [
+          "geniality",
+          "affability",
+          "amiability",
+          "cordiality"
+        ],
+        "examples": [
+          {
+            "text": "The host's easy bonhomie put nervous guests at ease within minutes of their arrival.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "bene",
+      "hom"
+    ],
+    "origin": {
+      "ko": "프랑스어 bonhomme('착한 사람', bon 좋은 + homme 사람)에서 왔습니다. 좋은 사람다운 붙임성을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "boon",
+    "score": 42,
+    "zipf": 3.45,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A good thing; a thing to be thankful for or to appreciate duly.",
+        "ko": "혜택, 고마운 것",
+        "synonyms": [
+          "blessing",
+          "benefit",
+          "windfall",
+          "godsend"
+        ],
+        "examples": [
+          {
+            "text": "Finding the dry cave was a boon to the weary travellers.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "very close and convivial",
+        "ko": "허물없는, 친한",
+        "synonyms": [
+          "convivial",
+          "close",
+          "jovial"
+        ],
+        "examples": [
+          {
+            "text": "The two old sailors remained boon companions long after they retired from the sea.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 노르드어 bón('기도, 청원')에서 왔고, '좋은'을 뜻하는 boon의 영향으로 '고마운 혜택'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "boor",
+    "score": 48,
+    "zipf": 2.12,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a crude uncouth ill-bred person lacking culture or refinement",
+        "ko": "무례하고 촌스러운 사람",
+        "synonyms": [
+          "lout",
+          "oaf",
+          "churl",
+          "philistine",
+          "vulgarian"
+        ],
+        "examples": [
+          {
+            "text": "The boor interrupted the speaker twice and then loudly answered his phone during the toast.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "네덜란드어 boer('농부')를 빌려 온 말입니다. 농사꾼을 투박한 사람으로 깔보던 데서 '무례한 사람'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "boorish",
+    "score": 50,
+    "zipf": 2.35,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "ill-mannered and coarse and contemptible in behavior or appearance",
+        "ko": "버릇없고 거친, 천박한",
+        "synonyms": [
+          "loutish",
+          "oafish",
+          "uncouth",
+          "crude",
+          "churlish"
+        ],
+        "examples": [
+          {
+            "text": "His boorish behavior at the dinner embarrassed his hosts and offended the other guests.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ish"
+    ]
+  },
+  {
+    "word": "bouillon",
+    "score": 36,
+    "zipf": 2.54,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a clear seasoned broth",
+        "ko": "맑은 육수, 부용",
+        "synonyms": [
+          "broth",
+          "stock",
+          "consommé"
+        ],
+        "examples": [
+          {
+            "text": "The chef simmered beef bones overnight to make a rich bouillon for the soup.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 bouillir('끓다')에서 왔고, 라틴어 bulla(거품)까지 거슬러 올라갑니다. 보글보글 끓인 국물입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bowdlerize",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "edit by omitting or modifying parts considered indelicate",
+        "ko": "(부적절한 부분을) 삭제·수정하다",
+        "synonyms": [
+          "expurgate",
+          "censor",
+          "sanitize",
+          "cleanse"
+        ],
+        "examples": [
+          {
+            "text": "The bowdlerized version of the novel, while free of vulgarity, was also free of flavor.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ize"
+    ],
+    "origin": {
+      "ko": "의사 Thomas Bowdler가 1818년 점잖지 못한 부분을 뺀 셰익스피어 가정판을 낸 데서 나온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,729 @@
+[
+  {
+    "word": "emaciate",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause to grow thin or weak",
+        "ko": "쇠약하게 하다, 수척하게 하다",
+        "synonyms": [
+          "waste",
+          "weaken",
+          "debilitate",
+          "wither"
+        ],
+        "examples": [
+          {
+            "text": "Months of famine emaciated the villagers until many could barely walk.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "macer"
+    ],
+    "origin": {
+      "ko": "라틴어 ēmaciāre(바싹 마르게 하다)에서 왔습니다. macer는 '마른'이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "embellish",
+    "score": 68,
+    "zipf": 2.55,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "add details to",
+        "ko": "(이야기를) 윤색하다, 과장해 꾸미다",
+        "synonyms": [
+          "embroider",
+          "exaggerate",
+          "dramatize",
+          "pad",
+          "elaborate"
+        ],
+        "examples": [
+          {
+            "text": "The witness was accused of embellishing the story to make it sound more dramatic.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To make more beautiful and attractive by adding ornamentation; to decorate.",
+        "ko": "장식하다, 아름답게 꾸미다",
+        "synonyms": [
+          "decorate",
+          "adorn",
+          "ornament",
+          "beautify",
+          "garnish"
+        ],
+        "examples": [
+          {
+            "text": "The old book cover was embellished with golden letters",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "bel"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 embellir에서 왔습니다. bel(아름다운)을 더해 꾸민다는 뜻이어서 이야기를 윤색한다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "emblazon",
+    "score": 24,
+    "zipf": 1.33,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To adorn with prominent markings.",
+        "ko": "(문장·글자 등으로) 화려하게 장식하다",
+        "synonyms": [
+          "adorn",
+          "decorate",
+          "inscribe",
+          "illuminate"
+        ],
+        "examples": [
+          {
+            "text": "The team's logo was emblazoned across the front of every jersey.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To celebrate or extol as with deeds or merit.",
+        "ko": "찬양하다, 칭송하다",
+        "synonyms": [
+          "extol",
+          "celebrate",
+          "glorify",
+          "laud"
+        ],
+        "examples": [
+          {
+            "text": "Poets sought to emblazon the heroes' deeds in verse for later generations.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ],
+    "origin": {
+      "ko": "en-에 blazon(방패 문장)이 붙었고, blazon은 고대 프랑스어 blason(방패)에서 왔습니다. 방패에 문장을 새기듯 화려하게 장식한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "emboss",
+    "score": 28,
+    "zipf": 1.67,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "raise in a relief",
+        "ko": "돋을새김하다, 양각으로 새기다",
+        "synonyms": [
+          "stamp",
+          "engrave",
+          "raise"
+        ],
+        "examples": [
+          {
+            "text": "embossed stationery",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 embocer에서 왔고, boce(혹, 부풀음)가 바탕입니다. 표면을 부풀려 도드라지게 새긴다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "embroil",
+    "score": 44,
+    "zipf": 1.72,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To cause (someone) to be drawn into or involved in a difficult situation or state of contention.",
+        "ko": "(분쟁 등에) 휘말리게 하다",
+        "synonyms": [
+          "entangle",
+          "involve",
+          "implicate",
+          "ensnare",
+          "mire"
+        ],
+        "examples": [
+          {
+            "text": "Avoid him. He will embroil you in his fights.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ],
+    "origin": {
+      "ko": "프랑스어 embrouiller(뒤얽히게 하다)에서 왔습니다. 헝클어진 상황 속으로 끌어들인다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "embroiled",
+    "score": 31,
+    "zipf": 2.97,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "deeply involved especially in something complicated",
+        "ko": "깊이 휘말린, 얽혀 있는",
+        "synonyms": [
+          "entangled",
+          "involved",
+          "enmeshed",
+          "mired"
+        ],
+        "examples": [
+          {
+            "text": "The senator became embroiled in a lengthy dispute over campaign funding.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)"
+    ]
+  },
+  {
+    "word": "embryonic",
+    "score": 29,
+    "zipf": 3.23,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "in an early stage of development",
+        "ko": "초기 단계의, 맹아적인",
+        "synonyms": [
+          "rudimentary",
+          "nascent",
+          "undeveloped",
+          "incipient",
+          "germinal"
+        ],
+        "examples": [
+          {
+            "text": "an embryonic nation, not yet self-governing",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ic"
+    ],
+    "origin": {
+      "ko": "신라틴어 embryonicus에서 왔습니다. 배아(embryo)처럼 아직 초기 단계라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "emend",
+    "score": 29,
+    "zipf": 1.79,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make improvements or corrections to",
+        "ko": "(텍스트를) 교정하다, 수정하다",
+        "synonyms": [
+          "correct",
+          "revise",
+          "amend",
+          "edit",
+          "rectify"
+        ],
+        "examples": [
+          {
+            "text": "The editor emended several misprints in the manuscript before it went to press.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "mend"
+    ],
+    "origin": {
+      "ko": "라틴어 ēmendāre(흠을 없애다)에서 왔습니다. mendum은 '흠, 오류'이며, 글의 오류를 고친다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "emetic",
+    "score": 31,
+    "zipf": 2.0,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An agent that induces vomiting.",
+        "ko": "구토제",
+        "synonyms": [
+          "vomitive",
+          "nauseant",
+          "purgative"
+        ],
+        "examples": [
+          {
+            "text": "Physicians once prescribed an emetic to rid the patient of suspected poison.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 émetos(구토)에서 프랑스어를 거쳐 왔습니다. 토하게 하는 약을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "eminent",
+    "score": 57,
+    "zipf": 3.56,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Distinguished, important, noteworthy.",
+        "ko": "저명한, 탁월한, 뛰어난",
+        "synonyms": [
+          "distinguished",
+          "illustrious",
+          "renowned",
+          "prominent",
+          "esteemed"
+        ],
+        "examples": [
+          {
+            "text": "In later years, the professor became known as an eminent historian.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "min(돌출)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 ēminēre(튀어나오다)에서 왔습니다. 다른 사람보다 우뚝 솟은 '저명한' 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "emissary",
+    "score": 33,
+    "zipf": 2.84,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone sent on a mission to represent the interests of someone else",
+        "ko": "사절, 특사, 밀사",
+        "synonyms": [
+          "envoy",
+          "delegate",
+          "agent",
+          "messenger",
+          "representative"
+        ],
+        "examples": [
+          {
+            "text": "The king dispatched an emissary to negotiate a truce with the rebel leaders.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "mit(보내다)",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "라틴어 ēmissārius(내보내진 사람, 밀사)에서 왔습니다. 임무를 띠고 밖으로 보내진 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "emollient",
+    "score": 32,
+    "zipf": 2.09,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having a softening or soothing effect especially to the skin",
+        "ko": "피부를 부드럽게 하는, 완화시키는",
+        "synonyms": [
+          "soothing",
+          "softening",
+          "demulcent",
+          "moisturizing"
+        ],
+        "examples": [
+          {
+            "text": "The emollient cream relieved the dryness of her hands in winter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Soothing or mollifying.",
+        "ko": "달래는, 누그러뜨리는",
+        "synonyms": [
+          "soothing",
+          "mollifying",
+          "conciliatory",
+          "placating"
+        ],
+        "examples": [
+          {
+            "text": "The minister adopted an emollient tone to calm the angry delegates.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "moll",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 ēmolliēns(부드럽게 하는)에서 왔습니다. mollis는 '부드러운'이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "emolument",
+    "score": 29,
+    "zipf": 1.82,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Payment for employment or an office; compensation for a job, which is usually monetary.",
+        "ko": "보수, 수당, 급료",
+        "synonyms": [
+          "compensation",
+          "remuneration",
+          "salary",
+          "fee",
+          "payment"
+        ],
+        "examples": [
+          {
+            "text": "The emoluments of the post included a house and a modest annual stipend.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 ēmolumentum에서 고대 프랑스어를 거쳐 왔습니다. 일한 대가로 받는 보수를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "empathetic",
+    "score": 32,
+    "zipf": 2.94,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing empathy or ready comprehension of others' states",
+        "ko": "공감하는, 감정이입의",
+        "synonyms": [
+          "empathic",
+          "compassionate",
+          "understanding",
+          "sympathetic",
+          "sensitive"
+        ],
+        "examples": [
+          {
+            "text": "a sensitive and empathetic school counselor",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "path",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "empathic에서 sympathetic과 소리를 맞추려고 바꾼 말입니다. 남의 감정 속으로 들어가 느낀다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "empirical",
+    "score": 57,
+    "zipf": 3.62,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "derived from experiment and observation rather than theory",
+        "ko": "경험적인, 실증적인",
+        "synonyms": [
+          "experimental",
+          "observational",
+          "experiential",
+          "evidence-based",
+          "practical"
+        ],
+        "examples": [
+          {
+            "text": "an empirical basis for an ethical theory",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "peir",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 empeiría(경험)에서 왔습니다. 이론이 아니라 직접 겪은 경험에 바탕을 둔다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "empiricism",
+    "score": 36,
+    "zipf": 2.48,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "(philosophy) the doctrine that knowledge derives from experience",
+        "ko": "경험론, 경험주의",
+        "synonyms": [
+          "empiricist philosophy",
+          "sensationalism"
+        ],
+        "examples": [
+          {
+            "text": "Hume's empiricism held that all knowledge ultimately rests on sensory experience.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "peir",
+      "-ism"
+    ],
+    "origin": {
+      "ko": "그리스어 empeiría(경험)에 -ismós가 붙었습니다. 지식은 경험에서 나온다는 입장입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "emulate",
+    "score": 75,
+    "zipf": 3.41,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "strive to equal or match, especially by imitating",
+        "ko": "모방하다, 본받다, 따라잡으려 하다",
+        "synonyms": [
+          "imitate",
+          "copy",
+          "mimic",
+          "follow",
+          "rival"
+        ],
+        "examples": [
+          {
+            "text": "He is emulating the skating skills of his older sister",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 aemulārī(겨루다, 따라잡으려 하다)에서 왔습니다. 경쟁 상대를 본받아 따라잡으려는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

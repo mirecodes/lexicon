@@ -1,0 +1,2712 @@
+[
+  {
+    "word": "exacerbate",
+    "score": 80,
+    "zipf": 2.92,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make worse",
+        "ko": "악화시키다",
+        "synonyms": [
+          "aggravate",
+          "worsen",
+          "intensify",
+          "compound",
+          "inflame"
+        ],
+        "examples": [
+          {
+            "text": "The proposed shutdown would exacerbate unemployment problems.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "acerb",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 exacerbāre(몹시 쓰게 하다, 자극하다)에서 왔습니다. 쓴맛을 더해 상황을 더 나쁘게 만든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exacting",
+    "score": 64,
+    "zipf": 2.95,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "severe and unremitting in making demands",
+        "ko": "엄격한, 요구가 까다로운",
+        "synonyms": [
+          "demanding",
+          "stern",
+          "strict",
+          "rigorous",
+          "stringent"
+        ],
+        "examples": [
+          {
+            "text": "The conductor was an exacting taskmaster who made the orchestra repeat each passage dozens of times.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "requiring precise accuracy",
+        "ko": "정밀함을 요하는, 힘든",
+        "synonyms": [
+          "exigent",
+          "rigorous",
+          "painstaking",
+          "demanding"
+        ],
+        "examples": [
+          {
+            "text": "Restoring the fresco was an exacting task that demanded years of patient, precise work.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "ag"
+    ]
+  },
+  {
+    "word": "exalt",
+    "score": 51,
+    "zipf": 2.6,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "praise, glorify, or honor",
+        "ko": "칭송하다, 찬양하다",
+        "synonyms": [
+          "extol",
+          "laud",
+          "glorify",
+          "praise",
+          "magnify"
+        ],
+        "examples": [
+          {
+            "text": "They exalted their queen.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "raise in rank, character, or status",
+        "ko": "높이다, 승격시키다",
+        "synonyms": [
+          "elevate",
+          "ennoble",
+          "dignify",
+          "promote",
+          "aggrandize"
+        ],
+        "examples": [
+          {
+            "text": "The man was exalted from a humble carpenter to a minister.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "alt"
+    ],
+    "origin": {
+      "ko": "라틴어 exaltāre(높이 들어 올리다)에서 고대 프랑스어를 거쳐 왔습니다. 높이 올려 칭송한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exasperate",
+    "score": 62,
+    "zipf": 1.9,
+    "lists": [
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To tax the patience of; irk, frustrate, vex, provoke, annoy; to make angry.",
+        "ko": "몹시 화나게 하다, 짜증나게 하다",
+        "synonyms": [
+          "infuriate",
+          "irritate",
+          "vex",
+          "irk",
+          "incense"
+        ],
+        "examples": [
+          {
+            "text": "The constant delays and contradictory instructions began to exasperate even the most patient members of the committee.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "asper",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 exasperāre(거칠게 만들다)에서 왔습니다. 신경을 거칠게 긁어 화나게 한다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exasperated",
+    "score": 32,
+    "zipf": 2.94,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "greatly annoyed; out of patience",
+        "ko": "몹시 짜증난, 화가 치민",
+        "synonyms": [
+          "irritated",
+          "vexed",
+          "infuriated",
+          "fed up",
+          "irate"
+        ],
+        "examples": [
+          {
+            "text": "Exasperated by the third cancelled flight, she demanded to speak with the airline's manager.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "asper"
+    ]
+  },
+  {
+    "word": "excise",
+    "score": 28,
+    "zipf": 3.26,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To cut out; to remove.",
+        "ko": "잘라내다, 삭제하다",
+        "synonyms": [
+          "delete",
+          "expunge",
+          "cut out",
+          "remove",
+          "edit out"
+        ],
+        "examples": [
+          {
+            "text": "Military censors have excised some details from the photographs for security reasons.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A tax charged on goods produced within the country (as opposed to customs duties, charged on goods from outside the country).",
+        "ko": "소비세, 물품세",
+        "synonyms": [
+          "excise tax",
+          "duty",
+          "levy"
+        ],
+        "examples": [
+          {
+            "text": "The government raised the excise on tobacco and alcohol to help close the budget deficit.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "cis"
+    ],
+    "origin": {
+      "ko": "라틴어 excīdere(잘라 내다)에서 프랑스어를 거쳐 왔습니다. 도려내듯 잘라 삭제한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "excoriate",
+    "score": 43,
+    "zipf": 1.64,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To strongly condemn or criticize.",
+        "ko": "통렬히 비난하다",
+        "synonyms": [
+          "denounce",
+          "censure",
+          "castigate",
+          "condemn",
+          "lambaste"
+        ],
+        "examples": [
+          {
+            "text": "The editorial excoriated the minister for ignoring repeated warnings about the unsafe bridge.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "tear or wear off the skin or make sore by abrading",
+        "ko": "피부를 벗기다, 쓸려 벗겨지게 하다",
+        "synonyms": [
+          "abrade",
+          "chafe",
+          "flay",
+          "skin"
+        ],
+        "examples": [
+          {
+            "text": "The rough harness excoriated the horse's flanks after a long day of hauling.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "cori",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 excoriāre(가죽을 벗기다)에서 왔습니다. 껍질을 벗기듯 통렬하게 비난한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "excruciating",
+    "score": 30,
+    "zipf": 3.06,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "extremely painful",
+        "ko": "극심한 고통을 주는, 견딜 수 없는",
+        "synonyms": [
+          "agonizing",
+          "harrowing",
+          "torturous",
+          "unbearable",
+          "acute"
+        ],
+        "examples": [
+          {
+            "text": "After the accident he endured weeks of excruciating pain before the surgery finally brought relief.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "cruc"
+    ],
+    "origin": {
+      "ko": "라틴어 excruciāre(고문하다)에서 왔고, cruc은 '십자가'입니다. 십자가형 같은 고통이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exculpate",
+    "score": 60,
+    "zipf": 1.65,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "pronounce not guilty of criminal charges",
+        "ko": "무죄로 하다, 혐의를 벗기다",
+        "synonyms": [
+          "exonerate",
+          "absolve",
+          "acquit",
+          "vindicate",
+          "clear"
+        ],
+        "examples": [
+          {
+            "text": "New DNA evidence exculpated the defendant after he had spent twelve years in prison.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "culp",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 exculpāre에서 왔습니다. culpa(죄)를 밖으로 내보내 혐의를 벗긴다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "execrable",
+    "score": 31,
+    "zipf": 1.99,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unequivocally detestable",
+        "ko": "혐오스러운, 지긋지긋한",
+        "synonyms": [
+          "abominable",
+          "detestable",
+          "odious",
+          "loathsome",
+          "abhorrent"
+        ],
+        "examples": [
+          {
+            "text": "Historians condemned the regime for its execrable treatment of political prisoners.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of very poor quality or condition",
+        "ko": "형편없는, 질이 극히 나쁜",
+        "synonyms": [
+          "abysmal",
+          "atrocious",
+          "wretched",
+          "deplorable",
+          "appalling"
+        ],
+        "examples": [
+          {
+            "text": "The critics agreed that the restaurant's service was execrable and its food barely edible.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "sacr",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 execrābilis에서 왔습니다. 신성한 곳에서 저주받아 쫓겨날 만한 '혐오스러운'이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "execrate",
+    "score": 39,
+    "zipf": 1.2,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "find repugnant",
+        "ko": "몹시 싫어하다, 혐오하다",
+        "synonyms": [
+          "abhor",
+          "loathe",
+          "abominate",
+          "detest"
+        ],
+        "examples": [
+          {
+            "text": "Many citizens execrated the dictator long before his regime finally collapsed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To declare to be hateful or abhorrent; to denounce.",
+        "ko": "저주하다, 맹렬히 비난하다",
+        "synonyms": [
+          "curse",
+          "denounce",
+          "damn",
+          "anathematize"
+        ],
+        "examples": [
+          {
+            "text": "The crowd gathered outside the courthouse to execrate the officials who had approved the scheme.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "sacr",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 execrārī(저주하다)에서 왔습니다. 대상을 저주받은 것으로 선언한다는 데서 몹시 혐오한다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exegesis",
+    "score": 66,
+    "zipf": 2.67,
+    "lists": [
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A critical explanation or interpretation of a text, especially a religious text.",
+        "ko": "(경전 등의) 주석, 해석",
+        "synonyms": [
+          "interpretation",
+          "explication",
+          "commentary",
+          "exposition"
+        ],
+        "examples": [
+          {
+            "text": "Her doctoral thesis offered a detailed exegesis of the book of Job.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "heg",
+      "-sis"
+    ],
+    "origin": {
+      "ko": "그리스어 exḗgēsis(설명, 해석)에서 왔습니다. 글의 뜻을 밖으로 이끌어 내는 일입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exemplar",
+    "score": 34,
+    "zipf": 2.68,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Something fit to be imitated; an ideal, a worthy model or role model: a desirable example.",
+        "ko": "모범, 본보기",
+        "synonyms": [
+          "model",
+          "paragon",
+          "ideal",
+          "archetype",
+          "epitome"
+        ],
+        "examples": [
+          {
+            "text": "Michelangelo's \"David\" is an exemplar of Renaissance sculpture.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Something typical or representative; an example that typifies its class.",
+        "ko": "전형, 대표적인 사례",
+        "synonyms": [
+          "archetype",
+          "epitome",
+          "specimen",
+          "example"
+        ],
+        "examples": [
+          {
+            "text": "The novel is often cited as an exemplar of the nineteenth-century social realism that followed.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "empt",
+      "-ar"
+    ],
+    "origin": {
+      "ko": "라틴어 exemplar(본보기)에서 왔습니다. 여러 가지 중 뽑아 놓은 견본이라 모범이 됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exemplify",
+    "score": 34,
+    "zipf": 2.73,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "clarify by giving an example of",
+        "ko": "예를 들어 설명하다",
+        "synonyms": [
+          "illustrate",
+          "demonstrate",
+          "instance"
+        ],
+        "examples": [
+          {
+            "text": "The professor used a famous court case to exemplify how precedent shapes legal reasoning.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "be typical of",
+        "ko": "전형이 되다, 대표하다",
+        "synonyms": [
+          "typify",
+          "embody",
+          "represent",
+          "epitomize"
+        ],
+        "examples": [
+          {
+            "text": "Her quiet generosity exemplifies the community spirit that the town is known for.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-fy"
+    ],
+    "origin": {
+      "ko": "라틴어 exemplum(본보기)에서 중세 프랑스어를 거쳐 왔습니다. 본보기를 들어 보인다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exert",
+    "score": 27,
+    "zipf": 3.36,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "put to use",
+        "ko": "(힘·영향력을) 행사하다",
+        "synonyms": [
+          "exercise",
+          "wield",
+          "apply",
+          "employ"
+        ],
+        "examples": [
+          {
+            "text": "He considered exerting his influence on John to gain an advantage for himself.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make a great effort at a mental or physical task",
+        "ko": "노력하다, 애쓰다",
+        "synonyms": [
+          "strive",
+          "strain",
+          "toil",
+          "labor"
+        ],
+        "examples": [
+          {
+            "text": "She exerted herself to finish the manuscript before the publisher's deadline.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "ser"
+    ],
+    "origin": {
+      "ko": "라틴어 exserere(밖으로 내밀다)에서 왔습니다. 힘을 밖으로 밀어내 쓰는 데서 '행사하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exertion",
+    "score": 32,
+    "zipf": 2.9,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "use of physical or mental energy; hard work",
+        "ko": "노력, 수고",
+        "synonyms": [
+          "effort",
+          "toil",
+          "labor",
+          "strain"
+        ],
+        "examples": [
+          {
+            "text": "The climb required such exertion that several members of the group had to turn back.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "ser",
+      "-ion"
+    ]
+  },
+  {
+    "word": "exhaustive",
+    "score": 44,
+    "zipf": 3.3,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "performed comprehensively and completely; not superficial or partial",
+        "ko": "철저한, 총망라한",
+        "synonyms": [
+          "thorough",
+          "comprehensive",
+          "all-inclusive",
+          "in-depth"
+        ],
+        "examples": [
+          {
+            "text": "The committee conducted an exhaustive review of the agency's records before issuing its findings.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "haust",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 exhaustīvus에서 왔습니다. 속을 남김없이 퍼내듯 빠짐없이 다룬다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exhilarating",
+    "score": 30,
+    "zipf": 3.12,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "making lively and cheerful",
+        "ko": "기분을 들뜨게 하는, 짜릿한",
+        "synonyms": [
+          "thrilling",
+          "invigorating",
+          "stimulating",
+          "exciting",
+          "elating"
+        ],
+        "examples": [
+          {
+            "text": "Hiking to the summit at dawn was an exhilarating experience that none of us will forget.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "hilar"
+    ],
+    "origin": {
+      "ko": "라틴어 hilaris(즐거운)에서 온 exhilarate에 -ing이 붙었습니다. 기분을 확 들뜨게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exhort",
+    "score": 49,
+    "zipf": 2.23,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To urge; to advise earnestly.",
+        "ko": "간곡히 권하다, 촉구하다",
+        "synonyms": [
+          "urge",
+          "implore",
+          "enjoin",
+          "admonish",
+          "entreat"
+        ],
+        "examples": [
+          {
+            "text": "The coach exhorted his exhausted players to give everything they had in the final quarter.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "hort"
+    ],
+    "origin": {
+      "ko": "라틴어 exhortārī(격려하다)에서 왔습니다. 곁에서 힘껏 부추겨 행동을 권한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exigency",
+    "score": 29,
+    "zipf": 1.83,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a sudden unforeseen crisis (usually involving danger) that requires immediate action",
+        "ko": "긴급 사태, 위급",
+        "synonyms": [
+          "emergency",
+          "crisis",
+          "urgency",
+          "pinch"
+        ],
+        "examples": [
+          {
+            "text": "The mayor invoked special powers to deal with the exigency created by the flood.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "that which is required in a particular situation — usually used in plural.",
+        "ko": "급박한 요구, 절박한 필요",
+        "synonyms": [
+          "demand",
+          "requirement",
+          "necessity",
+          "need"
+        ],
+        "examples": [
+          {
+            "text": "The trench maps used in the Great War resulted from the exigencies of war.",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "ag",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "라틴어 exigere(요구하다)에서 왔습니다. 당장 대처를 요구하는 긴급 상황입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exigent",
+    "score": 65,
+    "zipf": 2.19,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Urgent; pressing; needing immediate action.",
+        "ko": "긴급한, 절박한",
+        "synonyms": [
+          "urgent",
+          "pressing",
+          "critical",
+          "imperative",
+          "acute"
+        ],
+        "examples": [
+          {
+            "text": "Doctors had to act quickly because of the exigent circumstances surrounding the patient's collapse.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Demanding; requiring great effort.",
+        "ko": "까다로운, 요구가 많은",
+        "synonyms": [
+          "demanding",
+          "exacting",
+          "onerous",
+          "taxing"
+        ],
+        "examples": [
+          {
+            "text": "The exigent standards of the guild forced apprentices to practice for years before earning recognition.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "ag",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 exigere(요구하다)의 현재분사에서 왔습니다. 즉각적 행동을 요구하는 '긴급한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exiguity",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the quality of being meager",
+        "ko": "빈약함, 근소함",
+        "synonyms": [
+          "meagerness",
+          "scantiness",
+          "paucity",
+          "sparseness"
+        ],
+        "examples": [
+          {
+            "text": "The exiguity of the villagers' food supplies became obvious as the harsh winter dragged on.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "ag",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 exiguitās에서 중세 프랑스어를 거쳐 왔습니다. 아주 적고 보잘것없는 상태를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exonerate",
+    "score": 83,
+    "zipf": 2.61,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To free (someone) from accusation or blame.",
+        "ko": "혐의를 벗기다, 무죄를 입증하다",
+        "synonyms": [
+          "exculpate",
+          "acquit",
+          "absolve",
+          "vindicate",
+          "clear"
+        ],
+        "examples": [
+          {
+            "text": "The investigation exonerated the pilot, concluding that mechanical failure had caused the crash.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To free (someone) from an obligation, responsibility or task.",
+        "ko": "의무를 면제하다, 책임을 벗겨 주다",
+        "synonyms": [
+          "absolve",
+          "release",
+          "exempt",
+          "relieve"
+        ],
+        "examples": [
+          {
+            "text": "The new contract exonerated the tenants from any liability for damage caused by the storm.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "oner",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 exonerāre(짐을 내려놓다)에서 왔습니다. 죄의 짐을 벗겨 준다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exorbitant",
+    "score": 79,
+    "zipf": 3.01,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Exceeding proper limits; excessive or unduly high; extravagant.",
+        "ko": "터무니없는, 과도한",
+        "synonyms": [
+          "extortionate",
+          "excessive",
+          "inordinate",
+          "outrageous",
+          "steep"
+        ],
+        "examples": [
+          {
+            "text": "You also have to pay exorbitant interest if you have credit card debt.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "orbit",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 exorbitāre(바퀴 자국에서 벗어나다)에서 왔습니다. 정상 궤도를 벗어난 '터무니없는'이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exorcise",
+    "score": 35,
+    "zipf": 2.41,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To drive out (an evil spirit) from a person, place or thing, especially by an incantation or prayer.",
+        "ko": "악령을 쫓아내다, 퇴마하다",
+        "synonyms": [
+          "expel",
+          "cast out",
+          "banish",
+          "purge"
+        ],
+        "examples": [
+          {
+            "text": "The priest attempted to exorcise the evil spirit from the house.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-"
+    ],
+    "origin": {
+      "ko": "그리스어 exorkízō(맹세로 묶다, 악령을 쫓다)에서 왔습니다. 맹세의 힘으로 악령을 밖으로 몰아낸다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exotic",
+    "score": 22,
+    "zipf": 3.91,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "being or from or characteristic of another place or part of the world",
+        "ko": "이국적인, 외래의",
+        "synonyms": [
+          "foreign",
+          "alien",
+          "imported",
+          "outlandish"
+        ],
+        "examples": [
+          {
+            "text": "The market was filled with exotic fruits that most of the tourists had never tasted.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "strikingly strange or unusual",
+        "ko": "색다른, 이색적인",
+        "synonyms": [
+          "unusual",
+          "unfamiliar",
+          "striking",
+          "bizarre"
+        ],
+        "examples": [
+          {
+            "text": "Physicists have proposed exotic forms of matter that behave unlike anything seen in ordinary experiments.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 exōtikós(바깥에서 온)에서 왔습니다. 바깥, 곧 외국에서 온 '이국적인' 것을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "expansive",
+    "score": 27,
+    "zipf": 3.38,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Talkative and sociable.",
+        "ko": "개방적인, 말이 많은",
+        "synonyms": [
+          "effusive",
+          "outgoing",
+          "communicative",
+          "genial",
+          "gregarious"
+        ],
+        "examples": [
+          {
+            "text": "After a glass of wine the usually reserved host grew expansive and told stories for hours.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Comprehensive in scope or extent.",
+        "ko": "광범위한, 포괄적인",
+        "synonyms": [
+          "extensive",
+          "comprehensive",
+          "wide-ranging",
+          "broad"
+        ],
+        "examples": [
+          {
+            "text": "The historian's expansive study traces trade routes across three continents over a thousand years.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "pans",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "라틴어 expandere(펼치다)에서 왔습니다. 마음을 활짝 펼친 듯 개방적이고 말이 많다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "expatiate",
+    "score": 39,
+    "zipf": 1.16,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To write or speak at length; to be copious in argument or discussion.",
+        "ko": "상세히 설명하다, 장황하게 말하다",
+        "synonyms": [
+          "elaborate",
+          "expound",
+          "enlarge",
+          "dilate",
+          "descant"
+        ],
+        "examples": [
+          {
+            "text": "The professor expatiated on the causes of the war for nearly an hour without notes.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "spat",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 expatiārī(널리 거닐다)에서 왔습니다. 말이 넓게 돌아다니듯 길게 늘어놓는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "expatriate",
+    "score": 32,
+    "zipf": 2.93,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who is voluntarily absent from home or country",
+        "ko": "국외 거주자, 해외 체류자",
+        "synonyms": [
+          "expat",
+          "émigré",
+          "emigrant"
+        ],
+        "examples": [
+          {
+            "text": "Many expatriates in the city gather weekly to share news and meals from home.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "expel from a country",
+        "ko": "추방하다",
+        "synonyms": [
+          "banish",
+          "exile",
+          "deport"
+        ],
+        "examples": [
+          {
+            "text": "The regime expatriated several prominent writers who had criticized the government in print.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "patr(아버지)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 expatriāre(조국 밖으로 내보내다)에서 왔습니다. 조국(patria)을 떠나 사는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "expedient",
+    "score": 49,
+    "zipf": 2.83,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Affording short-term benefit, often at the expense of the long-term.",
+        "ko": "편의적인, 임시방편의",
+        "synonyms": [
+          "opportunistic",
+          "politic",
+          "convenient",
+          "self-serving"
+        ],
+        "examples": [
+          {
+            "text": "The council chose the expedient solution of borrowing more money rather than reforming the budget.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Suitable to effect some desired end or the purpose intended.",
+        "ko": "적절한, 유리한",
+        "synonyms": [
+          "advantageous",
+          "suitable",
+          "practical",
+          "advisable",
+          "prudent"
+        ],
+        "examples": [
+          {
+            "text": "Most people, faced with a decision, will choose the most expedient option.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a means to an end; not necessarily a principled or ethical one",
+        "ko": "방편, 수단",
+        "synonyms": [
+          "stopgap",
+          "makeshift",
+          "device",
+          "resort"
+        ],
+        "examples": [
+          {
+            "text": "Critics called the tax cut a political expedient designed to win votes before the election.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "ped(발)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 expedīre(발을 풀어 앞으로 내보내다)에서 왔습니다. 거치적거림이 없어 당장 유리하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "expedite",
+    "score": 31,
+    "zipf": 3.05,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "speed up the progress of; facilitate",
+        "ko": "신속히 처리하다, 촉진하다",
+        "synonyms": [
+          "hasten",
+          "accelerate",
+          "speed up",
+          "facilitate",
+          "quicken"
+        ],
+        "examples": [
+          {
+            "text": "He expedited the search by alphabetizing the papers.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "ped(발)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 expedīre(발의 족쇄를 풀다)에서 왔습니다. 걸림돌을 치워 일을 빠르게 진행시킨다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "expiate",
+    "score": 28,
+    "zipf": 1.7,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make amends for",
+        "ko": "속죄하다, 죄를 갚다",
+        "synonyms": [
+          "atone",
+          "redeem",
+          "make amends",
+          "pay for"
+        ],
+        "examples": [
+          {
+            "text": "He spent the rest of his life working in hospitals to expiate the guilt of his youth.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "pi",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 expiāre(속죄하다)에서 왔습니다. 잘못을 갚아 죄를 씻는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "explicable",
+    "score": 31,
+    "zipf": 1.98,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Able to be explained.",
+        "ko": "설명할 수 있는",
+        "synonyms": [
+          "explainable",
+          "accountable",
+          "understandable",
+          "intelligible"
+        ],
+        "examples": [
+          {
+            "text": "The strange readings were perfectly explicable once the technicians discovered the faulty sensor.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "plic",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 explicāre(펼치다)에서 왔습니다. 접힌 것을 펼쳐 보일 수 있으니 '설명할 수 있는'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "explicate",
+    "score": 29,
+    "zipf": 1.84,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To explain meticulously or in great detail.",
+        "ko": "상세히 해설하다",
+        "synonyms": [
+          "elucidate",
+          "expound",
+          "interpret",
+          "analyze",
+          "clarify"
+        ],
+        "examples": [
+          {
+            "text": "My homework is to explicate a poem.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "plic",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 explicāre(펼치다)에서 왔습니다. 접혀 있던 뜻을 하나하나 펼쳐 설명한다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "explicator",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "One who or that which explicates.",
+        "ko": "해설자, 설명하는 사람",
+        "synonyms": [
+          "interpreter",
+          "expositor",
+          "commentator",
+          "annotator"
+        ],
+        "examples": [
+          {
+            "text": "As an explicator of medieval poetry, she made difficult verse accessible to generations of students.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "plic",
+      "-or"
+    ]
+  },
+  {
+    "word": "explicit",
+    "score": 37,
+    "zipf": 3.96,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "precisely and clearly expressed or readily observable; leaving nothing to implication",
+        "ko": "명시적인, 분명한",
+        "synonyms": [
+          "express",
+          "unambiguous",
+          "definite",
+          "categorical",
+          "specific"
+        ],
+        "examples": [
+          {
+            "text": "I gave explicit instructions for him to stay here, but he followed me, anyway.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "plic"
+    ],
+    "origin": {
+      "ko": "라틴어 explicitus(펼쳐진, 풀린)에서 프랑스어를 거쳐 왔습니다. 접힌 곳 없이 활짝 펼쳐 분명하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exploit",
+    "score": 23,
+    "zipf": 3.83,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "draw from; make good use of",
+        "ko": "활용하다, 개발하다",
+        "synonyms": [
+          "utilize",
+          "harness",
+          "tap",
+          "capitalize on",
+          "leverage"
+        ],
+        "examples": [
+          {
+            "text": "The company hopes to exploit new markets in Southeast Asia as demand grows.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To make unfair use of someone else's labor, person, or property to one's own advantage.",
+        "ko": "착취하다, 부당하게 이용하다",
+        "synonyms": [
+          "manipulate",
+          "abuse",
+          "take advantage of",
+          "fleece"
+        ],
+        "examples": [
+          {
+            "text": "The factory owners exploited immigrant workers by paying them far less than the legal minimum wage.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a notable achievement",
+        "ko": "공훈, 위업",
+        "synonyms": [
+          "feat",
+          "deed",
+          "achievement",
+          "accomplishment"
+        ],
+        "examples": [
+          {
+            "text": "The first trek to the summit of Mount Everest was a stunning exploit.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "plic"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 esploit(성과, 이용)에서 왔고, 라틴어 explicāre(펼치다)와 이어집니다. 자원을 펼쳐 활용한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exploitation",
+    "score": 23,
+    "zipf": 3.84,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The improper use of something for selfish purposes.",
+        "ko": "착취, 부당한 이용",
+        "synonyms": [
+          "abuse",
+          "manipulation",
+          "misuse",
+          "victimization"
+        ],
+        "examples": [
+          {
+            "text": "The report documented the systematic exploitation of migrant laborers on the plantations.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the act of making some area of land or water more profitable or productive or useful",
+        "ko": "개발, 활용",
+        "synonyms": [
+          "development",
+          "utilization",
+          "harnessing"
+        ],
+        "examples": [
+          {
+            "text": "The exploitation of the region's mineral wealth transformed a sleepy village into a bustling mining town.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "plic",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "프랑스어 exploitation에서 왔고, exploit에 -ation이 붙었습니다. 남을 이용해 이익을 뽑아내는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exploitative",
+    "score": 32,
+    "zipf": 2.85,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "In the nature of exploitation; acting to exploit someone or something",
+        "ko": "착취적인",
+        "synonyms": [
+          "abusive",
+          "manipulative",
+          "predatory",
+          "unfair"
+        ],
+        "examples": [
+          {
+            "text": "We are protesting the company's exploitative policies.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "plic",
+      "-ative"
+    ]
+  },
+  {
+    "word": "exponent",
+    "score": 48,
+    "zipf": 2.95,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "One who expounds, represents or advocates.",
+        "ko": "옹호자, 대표자",
+        "synonyms": [
+          "advocate",
+          "proponent",
+          "champion",
+          "spokesperson",
+          "supporter"
+        ],
+        "examples": [
+          {
+            "text": "She was a leading exponent of free trade throughout her long political career.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a mathematical notation indicating the number of times a quantity is multiplied by itself",
+        "ko": "지수, 거듭제곱 수",
+        "synonyms": [
+          "power",
+          "index"
+        ],
+        "examples": [
+          {
+            "text": "In the expression five cubed, the exponent tells you to multiply five by itself three times.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "pos",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 expōnere(밖에 내놓다, 설명하다)에서 왔습니다. 주장을 밖에 내세워 설명하는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "expostulation",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the act of expressing earnest opposition or protest",
+        "ko": "간곡한 항의, 충고",
+        "synonyms": [
+          "remonstrance",
+          "protest",
+          "objection",
+          "reproach"
+        ],
+        "examples": [
+          {
+            "text": "Despite his father's expostulation, the young man refused to abandon his plan to sail alone.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "postul",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "라틴어 expostulāre(강하게 요구하다)에서 왔습니다. 잘못을 따져 간곡히 항의하는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "expound",
+    "score": 36,
+    "zipf": 2.49,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To set out the meaning of; to explain or discuss at length.",
+        "ko": "상세히 설명하다, 논하다",
+        "synonyms": [
+          "explain",
+          "elaborate",
+          "explicate",
+          "elucidate",
+          "set forth"
+        ],
+        "examples": [
+          {
+            "text": "Today I'll expound at length the theory propounded last week.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "pos"
+    ],
+    "origin": {
+      "ko": "라틴어 expōnere(밖에 내놓다)에서 고대 프랑스어를 거쳐 왔습니다. 뜻을 늘어놓아 설명한다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "expunge",
+    "score": 34,
+    "zipf": 2.27,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "remove by erasing or crossing out or as if by drawing a line",
+        "ko": "지우다, 삭제하다",
+        "synonyms": [
+          "erase",
+          "delete",
+          "strike out",
+          "obliterate",
+          "efface"
+        ],
+        "examples": [
+          {
+            "text": "The judge ordered the juvenile conviction expunged from the defendant's permanent record.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To eliminate completely; to annihilate.",
+        "ko": "완전히 없애다, 말살하다",
+        "synonyms": [
+          "eradicate",
+          "annihilate",
+          "obliterate",
+          "wipe out"
+        ],
+        "examples": [
+          {
+            "text": "The new regime tried to expunge every trace of the old order from public memory.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "pung"
+    ],
+    "origin": {
+      "ko": "라틴어 expungere(점을 찍어 지우다)에서 왔습니다. 고대에 지울 글자 아래 점을 찍어 표시한 데서 온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "expurgate",
+    "score": 48,
+    "zipf": 0.0,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To edit out (incorrect, offensive, or otherwise undesirable information) from a book or other publication; to cleanse; to purge.",
+        "ko": "불온한 부분을 삭제하다, 정화하다",
+        "synonyms": [
+          "bowdlerize",
+          "censor",
+          "purge",
+          "cleanse",
+          "edit"
+        ],
+        "examples": [
+          {
+            "text": "The publisher decided to expurgate the love scene from the book, to make it more child-friendly.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "purg",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 expurgāre(깨끗이 씻어 내다)에서 왔습니다. 글에서 불온한 부분을 씻어 낸다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "extant",
+    "score": 29,
+    "zipf": 3.25,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "still in existence; not extinct or destroyed or lost",
+        "ko": "현존하는, 남아 있는",
+        "synonyms": [
+          "existing",
+          "surviving",
+          "existent",
+          "living",
+          "remaining"
+        ],
+        "examples": [
+          {
+            "text": "There are many narrow-gauge systems still extant.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "st",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 extāre(밖으로 서 있다, 존재하다)에서 왔습니다. 사라지지 않고 우뚝 남아 있다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "extemporaneous",
+    "score": 47,
+    "zipf": 2.01,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "with little or no preparation or forethought",
+        "ko": "즉흥적인, 준비 없이 한",
+        "synonyms": [
+          "impromptu",
+          "unrehearsed",
+          "improvised",
+          "ad-lib",
+          "offhand"
+        ],
+        "examples": [
+          {
+            "text": "The senator abandoned her script and gave a moving extemporaneous speech to the crowd.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "tempor",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 ex tempore(그때그때)에서 후기 라틴어를 거쳐 왔습니다. 준비 없이 그 순간에 즉흥으로 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "extemporize",
+    "score": 22,
+    "zipf": 1.05,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "perform without preparation",
+        "ko": "즉흥적으로 하다, 즉석에서 연주하다",
+        "synonyms": [
+          "improvise",
+          "ad-lib"
+        ],
+        "examples": [
+          {
+            "text": "he extemporized a speech at the wedding",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "tempor",
+      "-ize"
+    ],
+    "origin": {
+      "ko": "라틴어 ex tempore(즉석에서)에 -ize가 붙었습니다. 준비 없이 즉석에서 해 낸다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "extenuate",
+    "score": 23,
+    "zipf": 1.24,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "lessen or to try to lessen the seriousness or extent of",
+        "ko": "정상을 참작하다, 경감하다",
+        "synonyms": [
+          "mitigate",
+          "palliate",
+          "lessen",
+          "soften"
+        ],
+        "examples": [
+          {
+            "text": "His lawyer argued that the defendant's youth and difficult upbringing should extenuate the offense.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "tenu",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 extenuāre(얇게 만들다)에서 왔습니다. 죄의 무게를 얇게 줄여 경감한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "extenuating",
+    "score": 51,
+    "zipf": 2.56,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "partially excusing or justifying",
+        "ko": "정상 참작이 되는, 경감하는",
+        "synonyms": [
+          "mitigating",
+          "excusing",
+          "justifying"
+        ],
+        "examples": [
+          {
+            "text": "Because of extenuating circumstances, the committee agreed to accept the application after the deadline.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "tenu"
+    ],
+    "origin": {
+      "ko": "라틴어 extenuāre(얇게 하다)의 현재분사형입니다. 사정을 참작해 책임을 줄여 준다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "extol",
+    "score": 50,
+    "zipf": 2.3,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "praise, glorify, or honor",
+        "ko": "극찬하다, 칭송하다",
+        "synonyms": [
+          "laud",
+          "exalt",
+          "praise",
+          "glorify",
+          "acclaim"
+        ],
+        "examples": [
+          {
+            "text": "Reviewers extolled the novel's elegant prose and its unflinching portrait of rural poverty.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "toll"
+    ],
+    "origin": {
+      "ko": "라틴어 extollere(높이 들어 올리다)에서 왔습니다. 높이 들어 올려 칭송한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "extort",
+    "score": 33,
+    "zipf": 2.82,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "obtain by coercion or intimidation",
+        "ko": "갈취하다, 강탈하다",
+        "synonyms": [
+          "wring",
+          "wrest",
+          "exact",
+          "squeeze"
+        ],
+        "examples": [
+          {
+            "text": "They extorted money from the executive by threatening to reveal his past to the company boss",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "tort"
+    ],
+    "origin": {
+      "ko": "라틴어 extorquēre(비틀어 짜내다)에서 왔습니다. 상대를 비틀어 억지로 빼앗아 내는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "extraneous",
+    "score": 65,
+    "zipf": 2.79,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not pertinent to the matter under consideration",
+        "ko": "무관한, 관련 없는",
+        "synonyms": [
+          "irrelevant",
+          "immaterial",
+          "impertinent",
+          "tangential"
+        ],
+        "examples": [
+          {
+            "text": "The editor deleted several extraneous details that distracted readers from the central argument.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Not essential or intrinsic.",
+        "ko": "불필요한, 본질적이지 않은",
+        "synonyms": [
+          "superfluous",
+          "inessential",
+          "unnecessary",
+          "extrinsic"
+        ],
+        "examples": [
+          {
+            "text": "The architect stripped away every extraneous ornament, leaving a clean and functional facade.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "extra",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 extrāneus(바깥에서 온)에서 왔습니다. 문제 바깥에 있어 관련이 없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "extrapolate",
+    "score": 66,
+    "zipf": 2.67,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To infer by extending known information.",
+        "ko": "추정하다, 유추하다",
+        "synonyms": [
+          "infer",
+          "project",
+          "deduce",
+          "extend",
+          "generalize"
+        ],
+        "examples": [
+          {
+            "text": "Economists extrapolated from last year's figures to predict that growth would slow considerably.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To estimate the value of a variable outside a known range from values within that range by assuming that the estimated value follows logically from the known ones",
+        "ko": "외삽하다, 범위 밖의 값을 추정하다",
+        "synonyms": [
+          "project",
+          "extend"
+        ],
+        "examples": [
+          {
+            "text": "The researchers extrapolated the trend line beyond the measured data to estimate future temperatures.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "extra",
+      "pol(다듬다)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 extrā(바깥에)와 interpolate의 -polate를 합쳐 만든 말입니다. 아는 범위 밖까지 미루어 추정한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "extravagant",
+    "score": 43,
+    "zipf": 3.4,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unrestrained, especially with regard to feelings",
+        "ko": "과도한, 터무니없는",
+        "synonyms": [
+          "excessive",
+          "immoderate",
+          "lavish",
+          "exaggerated",
+          "outrageous"
+        ],
+        "examples": [
+          {
+            "text": "The advertisement made extravagant claims about the supplement's ability to cure every known illness.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "recklessly wasteful",
+        "ko": "낭비하는, 사치스러운",
+        "synonyms": [
+          "wasteful",
+          "prodigal",
+          "profligate",
+          "spendthrift",
+          "lavish"
+        ],
+        "examples": [
+          {
+            "text": "The heir's extravagant spending soon exhausted the fortune his grandfather had spent decades building.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "extra",
+      "vag",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 extravagārī(범위 밖을 헤매다)에서 왔습니다. 적정선을 벗어나 떠돈다는 데서 '과도한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "exuberant",
+    "score": 31,
+    "zipf": 2.97,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "joyously unrestrained",
+        "ko": "활기 넘치는, 열광적인",
+        "synonyms": [
+          "ebullient",
+          "buoyant",
+          "high-spirited",
+          "exultant",
+          "effervescent"
+        ],
+        "examples": [
+          {
+            "text": "The exuberant crowd poured into the streets to celebrate the team's first championship in decades.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "produced or growing in extreme abundance",
+        "ko": "무성한, 풍성한",
+        "synonyms": [
+          "lush",
+          "luxuriant",
+          "profuse",
+          "abundant"
+        ],
+        "examples": [
+          {
+            "text": "Exuberant vines covered the walls of the abandoned house and crept across its collapsed roof.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "uber",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 exūberāre(넘쳐흐르다)에서 왔습니다. uber는 젖통을 뜻해 젖이 넘치듯 활기가 넘친다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

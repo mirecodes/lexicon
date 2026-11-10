@@ -1,0 +1,6483 @@
+[
+  {
+    "word": "coagulate",
+    "score": 30,
+    "zipf": 1.94,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "change from a liquid to a thickened or solid state",
+        "ko": "응고하다, 엉기다",
+        "synonyms": [
+          "clot",
+          "congeal",
+          "curdle",
+          "solidify"
+        ],
+        "examples": [
+          {
+            "text": "In cheese making, milk coagulates into curds that become cheese.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "ag"
+    ],
+    "origin": {
+      "ko": "라틴어 coāgulō('응고시키다')에서 왔고, cōgō(함께 몰아넣다)와 관련됩니다. 흩어진 것을 한데 몰아 굳히는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "coalesce",
+    "score": 83,
+    "zipf": 2.63,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To join into a mass or whole.",
+        "ko": "합쳐지다, 융합하다",
+        "synonyms": [
+          "merge",
+          "unite",
+          "fuse",
+          "combine",
+          "amalgamate"
+        ],
+        "examples": [
+          {
+            "text": "The droplets coalesced into a puddle.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "al"
+    ],
+    "origin": {
+      "ko": "라틴어 coalēscō에서 왔고, co-(함께)와 alēscō(자라다)가 합쳐졌습니다. 함께 자라 하나가 된다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "coast",
+    "score": 16,
+    "zipf": 4.87,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To make a minimal effort; to continue to do something in a routine way, without initiative or effort.",
+        "ko": "힘들이지 않고 해나가다, 대충 하다",
+        "synonyms": [
+          "cruise",
+          "drift",
+          "loaf"
+        ],
+        "examples": [
+          {
+            "text": "After winning the early rounds, the team coasted through the rest of the season without much effort.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "move effortlessly; by force of gravity",
+        "ko": "관성으로 나아가다, 활주하다",
+        "synonyms": [
+          "glide",
+          "slide"
+        ],
+        "examples": [
+          {
+            "text": "The cyclist stopped pedaling and coasted down the long hill toward the village.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 costa('갈비뼈, 옆구리')에서 왔고, 고대 프랑스어에서 '옆, 해안'이라는 뜻이 되었습니다. 동사는 해안을 따라 가다에서 파생됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "coax",
+    "score": 31,
+    "zipf": 2.96,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "influence or urge by gentle urging, caressing, or flattering",
+        "ko": "구슬리다, 달래다",
+        "synonyms": [
+          "wheedle",
+          "cajole",
+          "inveigle",
+          "persuade"
+        ],
+        "examples": [
+          {
+            "text": "He coaxed the horse gently into the trailer.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "1586년 은어 'make a coax of'(바보 취급하다)에서 시작됐고 기원은 불분명합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "coda",
+    "score": 34,
+    "zipf": 2.74,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A conclusion (of a statement or event, for example), final portion, tail end.",
+        "ko": "끝맺음, 종결부",
+        "synonyms": [
+          "conclusion",
+          "epilogue",
+          "finale"
+        ],
+        "examples": [
+          {
+            "text": "The memoir ends with a brief coda reflecting on how the town has changed since.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the closing section of a musical composition",
+        "ko": "코다, 악곡의 종결부",
+        "synonyms": [
+          "finale"
+        ],
+        "examples": [
+          {
+            "text": "The symphony builds to a thundering coda that leaves the audience breathless.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 coda('꼬리')에서 왔고 라틴어 cauda와 같은 어원입니다. 곡의 꼬리 부분이 '끝맺음'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "coddle",
+    "score": 34,
+    "zipf": 2.32,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "treat with excessive indulgence",
+        "ko": "과잉보호하다, 응석을 받아주다",
+        "synonyms": [
+          "pamper",
+          "mollycoddle",
+          "cosset",
+          "baby",
+          "spoil"
+        ],
+        "examples": [
+          {
+            "text": "Critics argue that universities coddle students instead of preparing them for professional criticism.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "아마 caudle에서 왔을 것으로 추정되며, 확실하지는 않습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "codicil",
+    "score": 30,
+    "zipf": 1.93,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An addition or supplement that explains, modifies, or revokes a will or part of one.",
+        "ko": "유언 보충서, 추가 조항",
+        "synonyms": [
+          "supplement",
+          "addendum",
+          "rider"
+        ],
+        "examples": [
+          {
+            "text": "She added a codicil to her will leaving the family cottage to her nephew.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 cōdicillus에서 왔고, cōdex(책)의 지소형입니다. 유언장에 덧붙이는 '작은 서판'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "coercion",
+    "score": 28,
+    "zipf": 3.27,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Actual or threatened force for the purpose of compelling action by another person; the act of coercing.",
+        "ko": "강압, 강제",
+        "synonyms": [
+          "compulsion",
+          "duress",
+          "force",
+          "intimidation"
+        ],
+        "examples": [
+          {
+            "text": "The confession was thrown out because the court found it had been obtained through coercion.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "arc"
+    ],
+    "origin": {
+      "ko": "라틴어 coërcitiō에서 왔고, coërceō는 co-와 arceō(가두다)가 합쳐졌습니다. 울타리에 가두듯 억누르는 힘입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "coffer",
+    "score": 49,
+    "zipf": 2.18,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A supply or store of money, often belonging to an organization.",
+        "ko": "재원, 자금",
+        "synonyms": [
+          "treasury",
+          "funds",
+          "purse"
+        ],
+        "examples": [
+          {
+            "text": "The new tax was intended to replenish the depleted coffers of the municipal government.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a chest especially for storing valuables",
+        "ko": "귀중품 상자, 금고",
+        "synonyms": [
+          "strongbox",
+          "chest",
+          "casket"
+        ],
+        "examples": [
+          {
+            "text": "The merchant locked the gold coins in an iron coffer beneath his bed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 cofre('상자')에서 왔고, 그리스어 kophinos(바구니)까지 거슬러 갑니다. coffin과 같은 어원입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cogent",
+    "score": 98,
+    "zipf": 2.71,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "powerfully persuasive",
+        "ko": "설득력 있는, 강력한",
+        "synonyms": [
+          "convincing",
+          "compelling",
+          "persuasive",
+          "telling"
+        ],
+        "examples": [
+          {
+            "text": "The senator presented a cogent argument that swayed several undecided colleagues.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "ag"
+    ],
+    "origin": {
+      "ko": "라틴어 cōgēns에서 왔고, cōgō('함께 몰아붙이다, 강제하다')에서 갈라졌습니다. 상대를 몰아붙이는 설득력입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cogitate",
+    "score": 25,
+    "zipf": 1.37,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To meditate, to ponder, to think deeply.",
+        "ko": "숙고하다, 깊이 생각하다",
+        "synonyms": [
+          "ponder",
+          "ruminate",
+          "deliberate",
+          "meditate",
+          "muse"
+        ],
+        "examples": [
+          {
+            "text": "He cogitated for weeks before deciding whether to leave academia for industry.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 cōgitō('생각하다')에서 왔고 1570년에 처음 기록됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cognate",
+    "score": 35,
+    "zipf": 2.62,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having the same ancestral language",
+        "ko": "같은 어원의, 동계의",
+        "synonyms": [
+          "related",
+          "kindred",
+          "allied"
+        ],
+        "examples": [
+          {
+            "text": "cognate languages",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a word is cognate with another if both derive from the same word in an ancestral language",
+        "ko": "동족어, 같은 어원의 단어",
+        "synonyms": [
+          "cognate word"
+        ],
+        "examples": [
+          {
+            "text": "The English word night and the German word Nacht are cognates descended from a common ancestor.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "nat"
+    ],
+    "origin": {
+      "ko": "라틴어 cognātus('혈연으로 이어진')에서 왔고, co-(함께)와 gnātus(태어난)가 합쳐졌습니다. 같은 뿌리에서 난 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cohere",
+    "score": 31,
+    "zipf": 1.99,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "have internal elements or parts logically connected so that aesthetic consistency results",
+        "ko": "일관성이 있다, 논리적으로 맞아떨어지다",
+        "synonyms": [
+          "hang together",
+          "unite",
+          "agree"
+        ],
+        "examples": [
+          {
+            "text": "The essay's scattered observations fail to cohere into a persuasive overall argument.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "come or be in close contact with; stick or hold together and resist separation",
+        "ko": "들러붙다, 응집하다",
+        "synonyms": [
+          "stick",
+          "adhere",
+          "cling",
+          "cleave"
+        ],
+        "examples": [
+          {
+            "text": "Wet sand coheres far better than dry sand, which is why sandcastles need water.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "her"
+    ],
+    "origin": {
+      "ko": "라틴어 cohaereō('함께 달라붙다, 일관되다')에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cohesive",
+    "score": 28,
+    "zipf": 3.31,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "cohering or tending to cohere; well integrated",
+        "ko": "결속력 있는, 일관된",
+        "synonyms": [
+          "unified",
+          "united",
+          "integrated",
+          "coherent"
+        ],
+        "examples": [
+          {
+            "text": "a team welded into a cohesive unit",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "her"
+    ],
+    "origin": {
+      "ko": "라틴어 cohaesus(cohaereō의 과거분사)에 -ive가 붙은 말입니다. 서로 달라붙어 결속된다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cohort",
+    "score": 27,
+    "zipf": 3.4,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An accomplice; abettor; associate.",
+        "ko": "공범, 동료",
+        "synonyms": [
+          "accomplice",
+          "associate",
+          "confederate",
+          "companion"
+        ],
+        "examples": [
+          {
+            "text": "He was able to plea down his sentence by revealing the names of three of his cohorts, as well as the source of the information.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a group of people having approximately the same age",
+        "ko": "동일 집단, 동년배 집단",
+        "synonyms": [
+          "age group",
+          "generation",
+          "cohort group"
+        ],
+        "examples": [
+          {
+            "text": "Researchers followed a cohort of children born in 1990 to study long-term health outcomes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 cohors에서 왔고 court와 같은 어원입니다. 로마 군대의 한 부대에서 '동료 무리'로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "coiffure",
+    "score": 31,
+    "zipf": 2.01,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the arrangement of the hair (especially a woman's hair)",
+        "ko": "머리 모양, 헤어스타일",
+        "synonyms": [
+          "hairdo",
+          "hairstyle",
+          "coif"
+        ],
+        "examples": [
+          {
+            "text": "Her elaborate coiffure required nearly two hours of work by a team of stylists.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 coiffure를 그대로 빌려 온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "coin",
+    "score": 19,
+    "zipf": 4.19,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make up a word or phrase",
+        "ko": "새 말을 만들어 내다",
+        "synonyms": [
+          "invent",
+          "originate",
+          "devise",
+          "create"
+        ],
+        "examples": [
+          {
+            "text": "The economist coined the term gig economy to describe short-term, freelance work arrangements.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 coigne('쐐기, 주화 찍는 틀')에서 왔고 라틴어 cuneus(쐐기)가 뿌리입니다. 틀로 찍어 새로 만든다는 뜻으로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "collaborate",
+    "score": 26,
+    "zipf": 3.51,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "work together on a common enterprise or project",
+        "ko": "협력하다, 공동으로 작업하다",
+        "synonyms": [
+          "cooperate",
+          "team up",
+          "join forces"
+        ],
+        "examples": [
+          {
+            "text": "Physicists and biologists increasingly collaborate on problems that span both disciplines.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cooperate as a traitor",
+        "ko": "적에게 협력하다, 부역하다",
+        "synonyms": [
+          "collude",
+          "conspire"
+        ],
+        "examples": [
+          {
+            "text": "After the war, officials who had collaborated with the occupiers were put on trial.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "labor"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 collabōrāre('함께 일하다')에서 왔고 collaborator에서 거꾸로 만들어진 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "collation",
+    "score": 35,
+    "zipf": 2.61,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "careful examination and comparison to note points of disagreement",
+        "ko": "대조, 교합",
+        "synonyms": [
+          "comparison",
+          "comparing",
+          "verification"
+        ],
+        "examples": [
+          {
+            "text": "The editor's collation of the three manuscripts revealed dozens of discrepancies in the text.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a light informal meal",
+        "ko": "간단한 식사, 가벼운 식사",
+        "synonyms": [
+          "snack",
+          "bite",
+          "light meal"
+        ],
+        "examples": [
+          {
+            "text": "A cold collation of bread, cheese, and fruit was laid out for the guests.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "lat(나르다)"
+    ],
+    "origin": {
+      "ko": "라틴어 collatiō에서 왔고 cōnferō('함께 가져오다')의 분사 어간이 뿌리입니다. 가져와 나란히 비교한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "collude",
+    "score": 52,
+    "zipf": 2.49,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "act in unison or agreement and in secret towards a deceitful or illegal purpose",
+        "ko": "공모하다, 결탁하다",
+        "synonyms": [
+          "conspire",
+          "connive",
+          "plot"
+        ],
+        "examples": [
+          {
+            "text": "Regulators accused the airlines of colluding to keep ticket prices artificially high.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "lud"
+    ],
+    "origin": {
+      "ko": "라틴어 collūdere에서 왔고, con-(함께)과 lūdere(놀다)가 합쳐졌습니다. 짜고 함께 놀아난다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "collusion",
+    "score": 43,
+    "zipf": 3.43,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "agreement on a secret plot",
+        "ko": "공모, 결탁",
+        "synonyms": [
+          "connivance",
+          "conspiracy",
+          "complicity"
+        ],
+        "examples": [
+          {
+            "text": "The inquiry found evidence of collusion between the contractors to rig the bidding process.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "lud"
+    ],
+    "origin": {
+      "ko": "라틴어 collusio('공모 행위')에서 온 고대 프랑스어 collusion에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "colossal",
+    "score": 27,
+    "zipf": 3.37,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "so great in size or force or extent as to elicit awe",
+        "ko": "거대한, 엄청난",
+        "synonyms": [
+          "gigantic",
+          "enormous",
+          "prodigious",
+          "stupendous",
+          "immense"
+        ],
+        "examples": [
+          {
+            "text": "The project proved a colossal waste of public money and years of planning.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 colossal에서 왔고, 라틴어 colossus를 거쳐 그리스어 kolossos('거대한 조각상')가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "comity",
+    "score": 32,
+    "zipf": 2.11,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a state or atmosphere of harmony or mutual civility and respect",
+        "ko": "예의, 화합",
+        "synonyms": [
+          "civility",
+          "courtesy",
+          "harmony",
+          "amity"
+        ],
+        "examples": [
+          {
+            "text": "Despite sharp disagreements, the two parties preserved a measure of comity in the chamber.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 cōmitās(공손함, 호의)에서 왔고 후기 중세 영어 comite로 들어왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "commence",
+    "score": 25,
+    "zipf": 3.59,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "take the first step or steps in carrying out an action",
+        "ko": "시작하다, 개시하다",
+        "synonyms": [
+          "begin",
+          "start",
+          "initiate"
+        ],
+        "examples": [
+          {
+            "text": "The speeches commenced three days of workshops, seminars, and cultural activities.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "init"
+    ],
+    "origin": {
+      "ko": "앵글로노르만어 comencer에서 왔고, 속라틴어 *cominitiāre(com- + initiō)가 뿌리입니다. initiate와 같은 계통입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "commendable",
+    "score": 30,
+    "zipf": 3.07,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "worthy of high praise",
+        "ko": "칭찬할 만한, 훌륭한",
+        "synonyms": [
+          "laudable",
+          "praiseworthy",
+          "admirable",
+          "creditable"
+        ],
+        "examples": [
+          {
+            "text": "The volunteers showed commendable restraint while working through the long, exhausting night.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "mand",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 commendabilis에서 왔고, commendare는 manus(손)와 dare(주다)에서 갈라졌습니다. 손에 맡길 만큼 믿음직하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "commensurate",
+    "score": 65,
+    "zipf": 2.83,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "corresponding in size or degree or extent",
+        "ko": "비례하는, 상응하는",
+        "synonyms": [
+          "proportionate",
+          "proportional",
+          "corresponding",
+          "equivalent"
+        ],
+        "examples": [
+          {
+            "text": "The rewards will be commensurate with the efforts made.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "metr"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 commēnsūrātus에서 왔고, com-(함께)과 mēnsūrō(재다)가 합쳐졌습니다. 같은 척도로 재서 맞는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "commiserate",
+    "score": 49,
+    "zipf": 2.21,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to feel or express sympathy or compassion",
+        "ko": "동정하다, 위로하다",
+        "synonyms": [
+          "sympathize",
+          "condole",
+          "empathize"
+        ],
+        "examples": [
+          {
+            "text": "Colleagues gathered to commiserate with her after the grant proposal was rejected.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "miser"
+    ],
+    "origin": {
+      "ko": "라틴어 commiseror에서 왔고, '함께 불쌍히 여기다'는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "commission",
+    "score": 16,
+    "zipf": 4.91,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A body or group of people, officially tasked with carrying out a particular function.",
+        "ko": "위원회",
+        "synonyms": [
+          "committee",
+          "board",
+          "panel"
+        ],
+        "examples": [
+          {
+            "text": "the European Commission",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A fee charged by an agent or broker for carrying out a transaction.",
+        "ko": "수수료, 중개료",
+        "synonyms": [
+          "fee",
+          "percentage",
+          "cut"
+        ],
+        "examples": [
+          {
+            "text": "a reseller's commission",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To place an order for (often a piece of art).",
+        "ko": "의뢰하다, 주문 제작을 맡기다",
+        "synonyms": [
+          "order",
+          "engage",
+          "hire"
+        ],
+        "examples": [
+          {
+            "text": "The museum commissioned a mural from a local artist to mark its centennial.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "mit(보내다)"
+    ],
+    "origin": {
+      "ko": "라틴어 commissiō('함께 보냄, 위임')에서 왔고, committō에 -tiō가 붙었습니다. 어떤 일을 맡겨 보낸 사람들의 모임이 '위원회'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "commit",
+    "score": 18,
+    "zipf": 4.33,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "give entirely to a specific person, activity, or cause",
+        "ko": "헌신하다, 전념하다",
+        "synonyms": [
+          "dedicate",
+          "devote",
+          "pledge",
+          "consecrate"
+        ],
+        "examples": [
+          {
+            "text": "She committed herself to the work of God",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To do (something bad); to perpetrate, as a crime, sin, or fault.",
+        "ko": "(죄·잘못을) 저지르다",
+        "synonyms": [
+          "perpetrate",
+          "perform"
+        ],
+        "examples": [
+          {
+            "text": "to commit murder",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To give in trust; to put into charge or keeping; to entrust; to consign; used with to or formerly unto.",
+        "ko": "맡기다, 위탁하다",
+        "synonyms": [
+          "entrust",
+          "consign",
+          "confide"
+        ],
+        "examples": [
+          {
+            "text": "The students were told to commit the formulas to memory before the exam.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "mit(보내다)"
+    ],
+    "origin": {
+      "ko": "라틴어 committō('함께 두다, 맡기다')에서 왔고, com-(함께)과 mittō(보내다)가 합쳐졌습니다. 자신을 어떤 일에 내맡긴다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "compel",
+    "score": 28,
+    "zipf": 3.28,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "force somebody to do something",
+        "ko": "강요하다, 억지로 ~하게 하다",
+        "synonyms": [
+          "force",
+          "oblige",
+          "coerce",
+          "constrain"
+        ],
+        "examples": [
+          {
+            "text": "New regulations compel companies to disclose the chemicals used in their products.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "necessitate or exact",
+        "ko": "~을 필요로 하다, 불가피하게 만들다",
+        "synonyms": [
+          "necessitate",
+          "demand",
+          "require"
+        ],
+        "examples": [
+          {
+            "text": "The severe water shortage compels strict conservation measures across the region.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "pel"
+    ],
+    "origin": {
+      "ko": "라틴어 compellere에서 왔고, com-(함께)과 pellere(몰다)가 합쳐졌습니다. 가축을 한데 몰듯 강제한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "compelling",
+    "score": 37,
+    "zipf": 3.98,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "tending to persuade by forcefulness of argument",
+        "ko": "설득력 있는, 강력한",
+        "synonyms": [
+          "convincing",
+          "persuasive",
+          "cogent",
+          "forceful"
+        ],
+        "examples": [
+          {
+            "text": "He made a compelling argument.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "very interesting; able to capture and hold one's attention",
+        "ko": "흥미를 사로잡는, 몰입시키는",
+        "synonyms": [
+          "gripping",
+          "riveting",
+          "engrossing"
+        ],
+        "examples": [
+          {
+            "text": "The novel was so compelling that I couldn't put it down.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "pel"
+    ],
+    "origin": {
+      "ko": "compel(강요하다)에 -ing가 붙은 말입니다. 마음을 몰아붙이는 설득력입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "compendium",
+    "score": 31,
+    "zipf": 3.05,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a concise but comprehensive summary of a larger work",
+        "ko": "개요, 요약서",
+        "synonyms": [
+          "summary",
+          "abstract",
+          "digest",
+          "précis"
+        ],
+        "examples": [
+          {
+            "text": "The handbook serves as a compendium of the field's major findings over the past century.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a publication containing a variety of works",
+        "ko": "집대성, 편람",
+        "synonyms": [
+          "collection",
+          "anthology"
+        ],
+        "examples": [
+          {
+            "text": "The compendium gathers essays, poems, and letters from dozens of nineteenth-century writers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "pend"
+    ],
+    "origin": {
+      "ko": "라틴어 compendium('함께 달아 본 것, 절약, 축약')에서 왔습니다. 많은 내용을 달아 추려 낸 요약본입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "competent",
+    "score": 22,
+    "zipf": 3.92,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "adequate, but not outstanding or exceptional",
+        "ko": "그럭저럭 괜찮은, 무난한",
+        "synonyms": [
+          "adequate",
+          "passable",
+          "satisfactory"
+        ],
+        "examples": [
+          {
+            "text": "The orchestra gave a competent but uninspired performance of the familiar symphony.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "properly or sufficiently qualified or capable or efficient",
+        "ko": "유능한, 자격이 있는",
+        "synonyms": [
+          "capable",
+          "able",
+          "proficient",
+          "qualified"
+        ],
+        "examples": [
+          {
+            "text": "a competent typist",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "pet"
+    ],
+    "origin": {
+      "ko": "라틴어 competens에서 왔고, competō('들어맞다, 감당할 수 있다')에서 갈라졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "complacent",
+    "score": 61,
+    "zipf": 3.19,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "contented to a fault with oneself or one's actions",
+        "ko": "자기만족에 빠진, 안주하는",
+        "synonyms": [
+          "smug",
+          "self-satisfied",
+          "self-congratulatory"
+        ],
+        "examples": [
+          {
+            "text": "The company grew complacent after years of market dominance and ignored emerging competitors.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "plac"
+    ],
+    "origin": {
+      "ko": "라틴어 complacēns('매우 기쁘게 하는')에서 왔고, com-과 placēre(기쁘게 하다)가 합쳐졌습니다. 스스로 만족해 안주한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "complaisant",
+    "score": 41,
+    "zipf": 1.36,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing a cheerful willingness to do favors for others",
+        "ko": "남의 뜻에 잘 따르는, 호의적인",
+        "synonyms": [
+          "obliging",
+          "accommodating",
+          "agreeable",
+          "amenable"
+        ],
+        "examples": [
+          {
+            "text": "The complaisant host agreed to every request his guests made, however inconvenient.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "plac"
+    ],
+    "origin": {
+      "ko": "프랑스어 complaisant('기꺼이 비위를 맞추는')에서 왔고, 라틴어 complacēre(잘 기쁘게 하다)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "complementary",
+    "score": 57,
+    "zipf": 3.56,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "acting as or providing a complement (something that completes the whole)",
+        "ko": "보완적인, 상호 보충하는",
+        "synonyms": [
+          "complemental",
+          "completing",
+          "supplementary"
+        ],
+        "examples": [
+          {
+            "text": "The two business partners had complementary abilities: one had excellent people skills, while the other had a head for figures.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "ple"
+    ],
+    "origin": {
+      "ko": "complement(보충)에 -ary가 붙은 말입니다. complimentary와 같은 어원에서 갈라졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "compliant",
+    "score": 27,
+    "zipf": 3.42,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "inclined to comply",
+        "ko": "순응하는, 따르는",
+        "synonyms": [
+          "submissive",
+          "docile",
+          "obedient",
+          "amenable"
+        ],
+        "examples": [
+          {
+            "text": "The suspect was compliant when arrested.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "ple"
+    ]
+  },
+  {
+    "word": "complicit",
+    "score": 29,
+    "zipf": 3.19,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "involved with others in an activity that is unlawful or morally wrong",
+        "ko": "공범인, 연루된",
+        "synonyms": [
+          "implicated",
+          "involved",
+          "culpable"
+        ],
+        "examples": [
+          {
+            "text": "Officials who looked the other way were seen as complicit in the fraud.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "plic"
+    ],
+    "origin": {
+      "ko": "complicity에서 거꾸로 만들어진 말이며, explicit 같은 단어의 영향을 받았다고 봅니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "comply",
+    "score": 21,
+    "zipf": 4.04,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "act in accordance with someone's rules, commands, or wishes",
+        "ko": "따르다, 준수하다",
+        "synonyms": [
+          "conform",
+          "obey",
+          "abide by",
+          "adhere"
+        ],
+        "examples": [
+          {
+            "text": "He complied with my instructions",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "ple"
+    ],
+    "origin": {
+      "ko": "라틴어 complēre('가득 채우다, 이행하다')에서 왔습니다. 요구를 빈틈없이 채워 따른다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "comport",
+    "score": 32,
+    "zipf": 2.11,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To be in agreement (with); to be of an accord.",
+        "ko": "~와 일치하다, 부합하다",
+        "synonyms": [
+          "agree",
+          "accord",
+          "conform",
+          "correspond"
+        ],
+        "examples": [
+          {
+            "text": "The new rules did not seem to comport with the spirit of the club.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To behave (in a given manner).",
+        "ko": "처신하다, 행동하다",
+        "synonyms": [
+          "behave",
+          "conduct",
+          "carry"
+        ],
+        "examples": [
+          {
+            "text": "She comported herself with grace.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "port(나르다)"
+    ],
+    "origin": {
+      "ko": "라틴어 comportare('함께 가져오다')에서 왔습니다. 함께 가져와 맞춘다는 뜻에서 '부합하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "compound",
+    "score": 19,
+    "zipf": 4.18,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make more intense, stronger, or more marked",
+        "ko": "악화시키다, 가중시키다",
+        "synonyms": [
+          "intensify",
+          "aggravate",
+          "exacerbate",
+          "heighten",
+          "worsen"
+        ],
+        "examples": [
+          {
+            "text": "The delay in sending aid only compounded the suffering of the flood victims.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a whole formed by a union of two or more elements or parts",
+        "ko": "혼합물, 복합체",
+        "synonyms": [
+          "mixture",
+          "blend",
+          "composite",
+          "amalgam"
+        ],
+        "examples": [
+          {
+            "text": "The final design was a compound of several earlier architectural styles.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "pos"
+    ],
+    "origin": {
+      "ko": "라틴어 componō('함께 놓다')에서 온 중세 프랑스어 componre에서 왔습니다. 요소를 겹쳐 쌓아 더 심하게 만든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "comprehensive",
+    "score": 17,
+    "zipf": 4.36,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "including all or everything",
+        "ko": "포괄적인, 종합적인",
+        "synonyms": [
+          "thorough",
+          "exhaustive",
+          "all-inclusive",
+          "extensive"
+        ],
+        "examples": [
+          {
+            "text": "a comprehensive history of the revolution",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "prehend"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 comprehēnsīvus에서 왔고 comprehendō(움켜쥐다)에서 갈라졌습니다. 모두 한 번에 움켜쥐는 포괄성입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "compromise",
+    "score": 19,
+    "zipf": 4.15,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "expose or make liable to danger, suspicion, or disrepute",
+        "ko": "위태롭게 하다, 손상시키다",
+        "synonyms": [
+          "jeopardize",
+          "endanger",
+          "undermine",
+          "discredit"
+        ],
+        "examples": [
+          {
+            "text": "The leak of classified files compromised the integrity of the entire investigation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an accommodation in which both sides make concessions",
+        "ko": "타협, 절충",
+        "synonyms": [
+          "accommodation",
+          "settlement",
+          "middle ground"
+        ],
+        "examples": [
+          {
+            "text": "After weeks of talks, the negotiators reached a compromise that neither side found ideal.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "pro-",
+      "mit(보내다)"
+    ],
+    "origin": {
+      "ko": "라틴어 compromittere('함께 약속하다')에서 왔고, 원래는 중재 결정을 따르겠다는 상호 약속이었습니다. 약속에 얽매여 위태로워진다는 뜻으로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "concede",
+    "score": 42,
+    "zipf": 3.48,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To admit or agree to be true; to acknowledge",
+        "ko": "인정하다, 시인하다",
+        "synonyms": [
+          "admit",
+          "acknowledge",
+          "grant",
+          "allow"
+        ],
+        "examples": [
+          {
+            "text": "The author concedes that her sample size was small but insists the trend is real.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "acknowledge defeat",
+        "ko": "패배를 인정하다, 승복하다",
+        "synonyms": [
+          "yield",
+          "surrender",
+          "capitulate"
+        ],
+        "examples": [
+          {
+            "text": "The candidate conceded after enough votes had come in to show that he would lose",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "ced"
+    ],
+    "origin": {
+      "ko": "라틴어 concēdō('양보하다')에서 왔고, con-(완전히)과 cēdō(물러나다)가 합쳐졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conceit",
+    "score": 33,
+    "zipf": 2.82,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an elaborate poetic image or a far-fetched comparison of very dissimilar things",
+        "ko": "기상(奇想), 기발한 비유",
+        "synonyms": [
+          "metaphor",
+          "figure of speech",
+          "fancy"
+        ],
+        "examples": [
+          {
+            "text": "Donne's famous conceit compares two separated lovers to the legs of a drawing compass.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "feelings of excessive pride",
+        "ko": "자만, 허영심",
+        "synonyms": [
+          "vanity",
+          "pride",
+          "arrogance",
+          "self-love"
+        ],
+        "examples": [
+          {
+            "text": "His conceit was so great that he never asked anyone for advice.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "cap(잡다)"
+    ],
+    "origin": {
+      "ko": "중세 영어 conceyte에서 왔고 conceyven(생각해 내다)에서 만들어졌습니다. concept와 같은 어원으로, 머릿속에 붙든 기발한 생각입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "concept",
+    "score": 16,
+    "zipf": 4.77,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an abstract or general idea inferred or derived from specific instances",
+        "ko": "개념",
+        "synonyms": [
+          "idea",
+          "notion",
+          "conception",
+          "construct"
+        ],
+        "examples": [
+          {
+            "text": "The concept of justice has been debated by philosophers for more than two thousand years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "cap(잡다)"
+    ],
+    "origin": {
+      "ko": "라틴어 conceptus('생각, 잉태')에서 왔고 concipiō(받아들이다)에서 갈라졌습니다. 머릿속에 붙잡아 품은 생각입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "concern",
+    "score": 16,
+    "zipf": 4.66,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be relevant to",
+        "ko": "~와 관련되다, 관계가 있다",
+        "synonyms": [
+          "pertain to",
+          "relate to",
+          "affect",
+          "involve"
+        ],
+        "examples": [
+          {
+            "text": "The new policy concerns only those employees hired after the merger.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an anxious feeling",
+        "ko": "걱정, 불안",
+        "synonyms": [
+          "worry",
+          "anxiety",
+          "care",
+          "unease"
+        ],
+        "examples": [
+          {
+            "text": "Doctors expressed concern about the rapid spread of the infection in rural areas.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "cern"
+    ],
+    "origin": {
+      "ko": "라틴어 concernō('함께 체로 치다, 섞다')에서 왔고 con-과 cernō(가려내다)가 합쳐졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conciliate",
+    "score": 44,
+    "zipf": 1.75,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause to be more favorably inclined; gain the good will of",
+        "ko": "달래다, 화해시키다",
+        "synonyms": [
+          "placate",
+          "appease",
+          "mollify",
+          "pacify"
+        ],
+        "examples": [
+          {
+            "text": "The mayor tried to conciliate angry residents by promising to reopen the community center.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 conciliō('하나로 합치다')에서 왔고 concilium(회의, 모임)에서 갈라졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conciliatory",
+    "score": 49,
+    "zipf": 2.76,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "intended to placate",
+        "ko": "달래는, 화해적인",
+        "synonyms": [
+          "placatory",
+          "appeasing",
+          "peacemaking",
+          "soothing"
+        ],
+        "examples": [
+          {
+            "text": "The minister struck a conciliatory tone in her address to the striking workers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "conclusive",
+    "score": 28,
+    "zipf": 3.3,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "forming an end or termination; especially putting an end to doubt or question",
+        "ko": "결정적인, 확실한",
+        "synonyms": [
+          "decisive",
+          "definitive",
+          "irrefutable",
+          "incontrovertible"
+        ],
+        "examples": [
+          {
+            "text": "conclusive evidence",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "clud"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 conclusivus에서 왔고, concludere(닫아 끝내다)에서 갈라졌습니다. 문을 닫아 의문을 끝낸다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "concomitant",
+    "score": 66,
+    "zipf": 2.75,
+    "lists": [
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "occurring with or following as a consequence",
+        "ko": "동시에 일어나는, 부수적인",
+        "synonyms": [
+          "attendant",
+          "accompanying",
+          "incidental",
+          "resultant"
+        ],
+        "examples": [
+          {
+            "text": "Rapid urban growth brings concomitant problems of congestion and pollution.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "comit"
+    ],
+    "origin": {
+      "ko": "라틴어 concomitor('함께 동행하다')에서 왔고, comes(동반자)가 뿌리입니다. 곁에 붙어 같이 따라오는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "concur",
+    "score": 29,
+    "zipf": 3.18,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be in accord; be in agreement",
+        "ko": "동의하다, 의견이 일치하다",
+        "synonyms": [
+          "agree",
+          "assent",
+          "accord"
+        ],
+        "examples": [
+          {
+            "text": "I do not concur that this is the best way forward.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "happen simultaneously",
+        "ko": "동시에 일어나다",
+        "synonyms": [
+          "coincide"
+        ],
+        "examples": [
+          {
+            "text": "The drought and the economic downturn concurred, making the crisis far harder to manage.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "cur(달리다)"
+    ],
+    "origin": {
+      "ko": "라틴어 concurro('함께 달리다, 의견이 일치하다')에서 왔습니다. 같은 방향으로 달려 만난다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "condone",
+    "score": 45,
+    "zipf": 3.17,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "excuse, overlook, or make allowances for; be lenient with",
+        "ko": "용서하다, 묵인하다",
+        "synonyms": [
+          "excuse",
+          "overlook",
+          "forgive",
+          "tolerate"
+        ],
+        "examples": [
+          {
+            "text": "The school does not condone cheating under any circumstances.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "don"
+    ],
+    "origin": {
+      "ko": "라틴어 condōnāre('용서하다')를 학술적으로 빌려 온 말입니다. 잘못을 선물처럼 넘겨 준다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conducive",
+    "score": 45,
+    "zipf": 3.24,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "tending to bring about; being partly responsible for",
+        "ko": "도움이 되는, 이바지하는",
+        "synonyms": [
+          "favorable",
+          "helpful",
+          "contributive",
+          "instrumental"
+        ],
+        "examples": [
+          {
+            "text": "A small, dark kitchen is not conducive to elaborate cooking.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "duc",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "라틴어 condūcere('함께 이끌다')에서 온 conduce에 -ive가 붙은 말입니다. 좋은 결과로 이끈다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conduct",
+    "score": 16,
+    "zipf": 4.52,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "manner of acting or controlling yourself",
+        "ko": "행동, 품행",
+        "synonyms": [
+          "behavior",
+          "deportment",
+          "demeanor"
+        ],
+        "examples": [
+          {
+            "text": "The committee praised the soldiers for their exemplary conduct under extreme pressure.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "direct the course of; manage or control",
+        "ko": "수행하다, 관리하다",
+        "synonyms": [
+          "manage",
+          "direct",
+          "run",
+          "carry out"
+        ],
+        "examples": [
+          {
+            "text": "The team conducted a rigorous survey of more than two thousand households.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "transmit or serve as the medium for transmission",
+        "ko": "(열·전기를) 전도하다",
+        "synonyms": [
+          "transmit",
+          "convey",
+          "carry",
+          "channel"
+        ],
+        "examples": [
+          {
+            "text": "Copper conducts electricity far more efficiently than most other common metals.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "duc"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 conductus('호위, 인도')에서 왔고, condūcō(함께 이끌다)에서 갈라졌습니다. 이끌린 대로 하는 행동이 '품행'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "confer",
+    "score": 45,
+    "zipf": 3.19,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To grant as a possession; to bestow.",
+        "ko": "수여하다, 부여하다",
+        "synonyms": [
+          "bestow",
+          "grant",
+          "award",
+          "accord"
+        ],
+        "examples": [
+          {
+            "text": "The college has conferred an honorary degree upon the visiting Prime Minister.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "have a conference in order to talk something over",
+        "ko": "협의하다, 상의하다",
+        "synonyms": [
+          "consult",
+          "deliberate",
+          "confab"
+        ],
+        "examples": [
+          {
+            "text": "We conferred about a plan of action",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "fer"
+    ],
+    "origin": {
+      "ko": "라틴어 cōnferō('함께 가져오다')에서 왔습니다. 모아서 건네준다는 뜻에서 '수여하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conflagration",
+    "score": 67,
+    "zipf": 2.57,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a very intense and uncontrolled fire",
+        "ko": "큰 화재, 대화재",
+        "synonyms": [
+          "inferno",
+          "blaze",
+          "firestorm"
+        ],
+        "examples": [
+          {
+            "text": "A single spark from the warehouse ignited a conflagration that consumed the entire block.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "flagr"
+    ],
+    "origin": {
+      "ko": "라틴어 cōnflagrātiō('완전히 불탐')에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conflate",
+    "score": 35,
+    "zipf": 2.4,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To fail to properly distinguish or keep separate (things); to mistakenly treat (them) as equivalent.",
+        "ko": "혼동하다, 동일시하다",
+        "synonyms": [
+          "confuse",
+          "mix up",
+          "lump together"
+        ],
+        "examples": [
+          {
+            "text": "Critics warn against conflating correlation with causation when interpreting the survey results.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "mix together different elements",
+        "ko": "융합하다, 합치다",
+        "synonyms": [
+          "blend",
+          "merge",
+          "fuse",
+          "combine"
+        ],
+        "examples": [
+          {
+            "text": "The film conflates two historical figures into a single character.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "fla"
+    ],
+    "origin": {
+      "ko": "라틴어 cōnflō('함께 불다, 녹여 합치다')에서 왔습니다. 풀무로 불어 두 쇳덩이를 하나로 녹여 붙이는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "confluence",
+    "score": 30,
+    "zipf": 3.12,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A convergence or combination of forces, people, or things.",
+        "ko": "합류, 집결",
+        "synonyms": [
+          "convergence",
+          "meeting",
+          "junction",
+          "union"
+        ],
+        "examples": [
+          {
+            "text": "The confluence of our skills resulted in a successful home renovation project.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a place where things merge or flow together (especially rivers)",
+        "ko": "(강의) 합류 지점",
+        "synonyms": [
+          "junction",
+          "meeting"
+        ],
+        "examples": [
+          {
+            "text": "Pittsburgh is located at the confluence of the Allegheny and Monongahela rivers",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "flu"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 cōnfluentia('함께 흐름')에서 왔습니다. 강물이 합쳐지는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "confound",
+    "score": 67,
+    "zipf": 2.65,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be confusing or perplexing to; cause to be unable to think clearly",
+        "ko": "당황하게 하다, 혼란시키다",
+        "synonyms": [
+          "bewilder",
+          "baffle",
+          "perplex",
+          "puzzle",
+          "befuddle"
+        ],
+        "examples": [
+          {
+            "text": "The unexpected results confounded researchers, who had predicted the opposite outcome.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To defeat, to frustrate, to thwart.",
+        "ko": "좌절시키다, 무너뜨리다",
+        "synonyms": [
+          "thwart",
+          "frustrate",
+          "foil"
+        ],
+        "examples": [
+          {
+            "text": "The champion confounded expectations by winning the title with a seriously injured shoulder.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "fus"
+    ],
+    "origin": {
+      "ko": "라틴어 cōnfundō('함께 붓다, 뒤섞다')에서 왔습니다. 모두 섞어 뒤죽박죽 만든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "congeal",
+    "score": 29,
+    "zipf": 1.83,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To change from a liquid to solid state, perhaps due to cold; called to freeze in nontechnical usage.",
+        "ko": "굳다, 응결하다",
+        "synonyms": [
+          "solidify",
+          "harden",
+          "freeze",
+          "set"
+        ],
+        "examples": [
+          {
+            "text": "The gravy congealed on the plate while the guests lingered over their conversation.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To make rigid or immobile.",
+        "ko": "(의견 등이) 굳어지다",
+        "synonyms": [
+          "crystallize",
+          "stiffen"
+        ],
+        "examples": [
+          {
+            "text": "We must act before opposition to our plans congeals.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "gel"
+    ],
+    "origin": {
+      "ko": "라틴어 congelare에서 왔고 프랑스어를 거쳤습니다. 완전히 얼어 굳는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "congenial",
+    "score": 51,
+    "zipf": 2.57,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Friendly or sociable.",
+        "ko": "상냥한, 마음이 맞는",
+        "synonyms": [
+          "agreeable",
+          "genial",
+          "amiable",
+          "pleasant"
+        ],
+        "examples": [
+          {
+            "text": "The congenial bartender makes the Hog’s Head an inviting place to hang out during the weekends.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "suitable to your needs",
+        "ko": "적합한, 성미에 맞는",
+        "synonyms": [
+          "suitable",
+          "fitting",
+          "compatible"
+        ],
+        "examples": [
+          {
+            "text": "The quiet library provided a congenial atmosphere for the long hours of reading.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "gen"
+    ],
+    "origin": {
+      "ko": "con-(함께)에 genial(타고난 기질의)이 붙은 말입니다. 기질이 서로 맞는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conjectural",
+    "score": 31,
+    "zipf": 2.02,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "based primarily on surmise rather than adequate evidence",
+        "ko": "추측에 의한, 억측의",
+        "synonyms": [
+          "speculative",
+          "hypothetical",
+          "suppositional",
+          "tentative"
+        ],
+        "examples": [
+          {
+            "text": "Any account of the city's earliest years remains largely conjectural because few records survive.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "ject"
+    ]
+  },
+  {
+    "word": "conjugal",
+    "score": 34,
+    "zipf": 2.65,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of or relating to marriage or to the relationship between a wife and husband",
+        "ko": "부부의, 결혼의",
+        "synonyms": [
+          "connubial",
+          "marital",
+          "matrimonial",
+          "nuptial"
+        ],
+        "examples": [
+          {
+            "text": "The prison eventually allowed conjugal visits for inmates serving long sentences.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "jug"
+    ],
+    "origin": {
+      "ko": "라틴어 coniugālis에서 왔고, con-(함께)과 iugum(멍에)이 합쳐졌습니다. 한 멍에를 함께 멘 부부의 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conjure",
+    "score": 30,
+    "zipf": 3.1,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "summon into action or bring into existence, often as if by magic",
+        "ko": "불러내다, 연상시키다",
+        "synonyms": [
+          "evoke",
+          "summon",
+          "invoke",
+          "call up"
+        ],
+        "examples": [
+          {
+            "text": "The smell of fresh bread conjured memories of her grandmother's kitchen.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "ask for or request earnestly",
+        "ko": "간청하다, 애원하다",
+        "synonyms": [
+          "beseech",
+          "entreat",
+          "implore",
+          "adjure"
+        ],
+        "examples": [
+          {
+            "text": "The old priest conjured the villagers to forgive one another before the winter began.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "jur"
+    ],
+    "origin": {
+      "ko": "라틴어 coniūrō('함께 맹세하다, 공모하다')에서 왔습니다. 주문으로 영혼을 불러내는 뜻으로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conniving",
+    "score": 35,
+    "zipf": 2.64,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "acting together in secret toward a fraudulent or illegal end",
+        "ko": "음모를 꾸미는, 간사한",
+        "synonyms": [
+          "scheming",
+          "devious",
+          "collusive",
+          "underhanded"
+        ],
+        "examples": [
+          {
+            "text": "The conniving advisor quietly steered the young king toward decisions that benefited only himself.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "connoisseur",
+    "score": 48,
+    "zipf": 2.89,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an expert able to appreciate a field; especially in the fine arts",
+        "ko": "감정가, 전문가",
+        "synonyms": [
+          "cognoscente",
+          "expert",
+          "aficionado",
+          "authority"
+        ],
+        "examples": [
+          {
+            "text": "As a connoisseur of early jazz, he owned thousands of rare recordings.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 connoisseur에서 왔고 connoître('알다')에서 갈라졌습니다. 1700년대 초에 영어로 들어왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "connotation",
+    "score": 32,
+    "zipf": 2.94,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an idea that is implied or suggested",
+        "ko": "함축, 내포된 의미",
+        "synonyms": [
+          "implication",
+          "overtone",
+          "undertone",
+          "association"
+        ],
+        "examples": [
+          {
+            "text": "The word cheap carries a negative connotation that thrifty does not.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "not"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 connotātiō에서 왔고, con-(함께)과 notō(표시하다)가 합쳐졌습니다. 본뜻 옆에 덧붙여 표시된 의미입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "connote",
+    "score": 31,
+    "zipf": 1.97,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To signify beyond its literal or principal meaning.",
+        "ko": "함축하다, 암시하다",
+        "synonyms": [
+          "imply",
+          "suggest",
+          "evoke",
+          "signify"
+        ],
+        "examples": [
+          {
+            "text": "The word \"hearth\" often connotes coziness and warmth.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "not"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 connotō('덧붙여 표시하다')에서 왔습니다. 글자 뜻 너머를 함께 가리킨다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conscientious",
+    "score": 29,
+    "zipf": 3.24,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by extreme care and great effort",
+        "ko": "성실한, 꼼꼼한",
+        "synonyms": [
+          "painstaking",
+          "scrupulous",
+          "diligent",
+          "meticulous"
+        ],
+        "examples": [
+          {
+            "text": "A conscientious editor, she checked every citation twice before the book went to print.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "guided by or in accordance with conscience or sense of right and wrong",
+        "ko": "양심적인",
+        "synonyms": [
+          "principled",
+          "ethical",
+          "honest"
+        ],
+        "examples": [
+          {
+            "text": "As a conscientious objector, he refused to take part in the war on moral grounds.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "sci",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 cōnscientiōsus에서 왔고 conscience(양심)와 같은 계통입니다. 양심에 비추어 꼼꼼하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "consecrate",
+    "score": 51,
+    "zipf": 2.42,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "render holy by means of religious rites",
+        "ko": "신성하게 하다, 봉헌하다",
+        "synonyms": [
+          "sanctify",
+          "hallow",
+          "bless"
+        ],
+        "examples": [
+          {
+            "text": "The bishop consecrated the new cathedral in a ceremony attended by thousands.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "give entirely to a specific person, activity, or cause",
+        "ko": "헌신하다, 바치다",
+        "synonyms": [
+          "dedicate",
+          "devote",
+          "commit"
+        ],
+        "examples": [
+          {
+            "text": "She consecrated her career to the cause of public health reform.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "sacr"
+    ],
+    "origin": {
+      "ko": "라틴어 cōnsecrāre에서 왔고 중세 영어 consecraten으로 들어왔습니다. 제단과 교회를 신께 바친다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "consensus",
+    "score": 20,
+    "zipf": 4.1,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "agreement in the judgment or opinion reached by a group as a whole",
+        "ko": "합의, 일치된 의견",
+        "synonyms": [
+          "agreement",
+          "accord",
+          "unanimity",
+          "concord"
+        ],
+        "examples": [
+          {
+            "text": "There is a growing scientific consensus that the underlying cause is environmental rather than genetic.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "sent"
+    ],
+    "origin": {
+      "ko": "라틴어 cōnsēnsus('일치, 합의')에서 왔고, cōnsentiō(함께 느끼다)에서 갈라졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conservatory",
+    "score": 28,
+    "zipf": 3.3,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a schoolhouse with special facilities for fine arts",
+        "ko": "음악·예술 학교",
+        "synonyms": [
+          "conservatoire",
+          "academy"
+        ],
+        "examples": [
+          {
+            "text": "She trained at a famous conservatory before joining the national symphony orchestra.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a greenhouse in which plants are arranged in a pleasing manner",
+        "ko": "온실, 식물원",
+        "synonyms": [
+          "greenhouse",
+          "hothouse",
+          "orangery"
+        ],
+        "examples": [
+          {
+            "text": "Tropical orchids bloomed year-round in the glass conservatory behind the manor.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "serv"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 cōnservātōrium에서 왔고, cōnservāre(보존하다)에서 갈라졌습니다. 재능을 보존해 가르치는 곳입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "consider",
+    "score": 16,
+    "zipf": 4.99,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "think about carefully; weigh",
+        "ko": "숙고하다, 고려하다",
+        "synonyms": [
+          "ponder",
+          "deliberate",
+          "weigh",
+          "contemplate"
+        ],
+        "examples": [
+          {
+            "text": "The board will consider several proposals before choosing a new director.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "show consideration for; take into account",
+        "ko": "참작하다, 배려하다",
+        "synonyms": [
+          "heed",
+          "respect",
+          "take into account"
+        ],
+        "examples": [
+          {
+            "text": "The judge considered the defendant's youth when deciding on a sentence.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 프랑스어 considerer와 라틴어 considerare를 거쳐 중세 영어에 들어온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "console",
+    "score": 20,
+    "zipf": 4.08,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "give moral or emotional strength to",
+        "ko": "위로하다, 달래다",
+        "synonyms": [
+          "comfort",
+          "solace",
+          "soothe",
+          "cheer"
+        ],
+        "examples": [
+          {
+            "text": "Friends tried to console her after the failure of her business.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "sol(위로)"
+    ],
+    "origin": {
+      "ko": "프랑스어 consoler와 라틴어 cōnsōlor('위로하다')에서 왔고, solace(위안)와 같은 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "consolidate",
+    "score": 26,
+    "zipf": 3.47,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make firm or secure; strengthen",
+        "ko": "공고히 하다, 강화하다",
+        "synonyms": [
+          "strengthen",
+          "reinforce",
+          "secure",
+          "solidify"
+        ],
+        "examples": [
+          {
+            "text": "The new government moved quickly to consolidate its power after the election.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "bring together into a single whole or system",
+        "ko": "통합하다, 합병하다",
+        "synonyms": [
+          "merge",
+          "unify",
+          "combine",
+          "integrate"
+        ],
+        "examples": [
+          {
+            "text": "The town and county schools are being consolidated",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "solid"
+    ],
+    "origin": {
+      "ko": "라틴어 consolidō에서 왔고, solidus(단단한)에서 갈라졌습니다. 흩어진 것을 한데 단단히 굳힌다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conspicuous",
+    "score": 92,
+    "zipf": 3.35,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "obvious to the eye or mind",
+        "ko": "눈에 띄는, 뚜렷한",
+        "synonyms": [
+          "noticeable",
+          "obvious",
+          "prominent",
+          "striking"
+        ],
+        "examples": [
+          {
+            "text": "He was conspicuous by his absence.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "without any attempt at concealment; completely obvious",
+        "ko": "노골적인, 명백한",
+        "synonyms": [
+          "blatant",
+          "flagrant",
+          "glaring"
+        ],
+        "examples": [
+          {
+            "text": "The mayor showed conspicuous disregard for the rules he had himself written.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "spec",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 conspicuus('눈에 보이는, 두드러진')에서 왔고, cōnspicere(알아채다)에서 갈라졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conspire",
+    "score": 33,
+    "zipf": 2.81,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "engage in plotting or enter into a conspiracy, swear together",
+        "ko": "음모를 꾸미다, 공모하다",
+        "synonyms": [
+          "plot",
+          "collude",
+          "scheme",
+          "connive"
+        ],
+        "examples": [
+          {
+            "text": "They conspired to overthrow the government",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To work together to bring about.",
+        "ko": "(상황이) 겹쳐 작용하다",
+        "synonyms": [
+          "combine",
+          "coincide",
+          "unite"
+        ],
+        "examples": [
+          {
+            "text": "Rain and sweat conspired to smudge her mascara.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "spir"
+    ],
+    "origin": {
+      "ko": "라틴어 conspīrō('함께 숨쉬다')에서 왔습니다. 숨결을 맞춰 몰래 뜻을 합친다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "constant",
+    "score": 16,
+    "zipf": 4.54,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "steadfast in purpose or devotion or affection",
+        "ko": "변함없는, 충실한",
+        "synonyms": [
+          "faithful",
+          "steadfast",
+          "loyal",
+          "devoted"
+        ],
+        "examples": [
+          {
+            "text": "He remained a constant friend through every hardship in her long career.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "unvarying in nature",
+        "ko": "불변의, 일정한",
+        "synonyms": [
+          "invariable",
+          "unchanging",
+          "steady",
+          "uniform"
+        ],
+        "examples": [
+          {
+            "text": "maintained a constant temperature",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "st"
+    ],
+    "origin": {
+      "ko": "라틴어 constans에서 왔고 cōnstāre('굳건히 서다')에서 갈라졌습니다. 흔들리지 않고 선다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "constituency",
+    "score": 24,
+    "zipf": 3.69,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the body of voters who elect a representative for their area",
+        "ko": "선거구민, 지지층",
+        "synonyms": [
+          "electorate",
+          "voters",
+          "district"
+        ],
+        "examples": [
+          {
+            "text": "The senator spent the recess meeting with members of her constituency across the rural counties.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "st",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "constituent(구성하는 사람)에 -ency가 붙은 말입니다. 대표를 함께 세우는 유권자 집단입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "constituent",
+    "score": 25,
+    "zipf": 3.58,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an abstract part of something",
+        "ko": "구성 요소, 성분",
+        "synonyms": [
+          "component",
+          "element",
+          "ingredient",
+          "factor"
+        ],
+        "examples": [
+          {
+            "text": "Hydrogen and oxygen are the constituents of water.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a member of a constituency; a citizen who is represented in a government by officials for whom he or she votes",
+        "ko": "유권자, 선거구민",
+        "synonyms": [
+          "voter",
+          "elector"
+        ],
+        "examples": [
+          {
+            "text": "The congresswoman answered letters from constituents worried about rising healthcare costs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "st",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 cōnstituēns에서 왔고, com-(함께)과 statuō(세우다)가 합쳐졌습니다. 함께 세워 이루는 부분입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "constitute",
+    "score": 22,
+    "zipf": 3.85,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "form or compose",
+        "ko": "구성하다, ~이 되다",
+        "synonyms": [
+          "make up",
+          "comprise",
+          "form",
+          "compose"
+        ],
+        "examples": [
+          {
+            "text": "Women constitute a majority of the students enrolled in the program.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "set up or lay the groundwork for",
+        "ko": "설립하다, 제정하다",
+        "synonyms": [
+          "establish",
+          "found",
+          "institute",
+          "create"
+        ],
+        "examples": [
+          {
+            "text": "The assembly was constituted to draft a new charter for the republic.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "st"
+    ],
+    "origin": {
+      "ko": "라틴어 cōnstituō('세우다, 확립하다')에서 왔고, con-(함께)과 statuō(세우다)가 합쳐졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "constrained",
+    "score": 27,
+    "zipf": 3.41,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking spontaneity; not natural",
+        "ko": "부자연스러운, 억지스러운",
+        "synonyms": [
+          "forced",
+          "strained",
+          "stilted",
+          "awkward"
+        ],
+        "examples": [
+          {
+            "text": "a constrained smile",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Forced; compelled.",
+        "ko": "강요된, 제약을 받는",
+        "synonyms": [
+          "compelled",
+          "restricted",
+          "limited"
+        ],
+        "examples": [
+          {
+            "text": "Constrained by a tight budget, the committee had to cancel several planned events.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "string"
+    ]
+  },
+  {
+    "word": "constraint",
+    "score": 28,
+    "zipf": 3.28,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Something that constrains; a restriction.",
+        "ko": "제약, 제한",
+        "synonyms": [
+          "restriction",
+          "limitation",
+          "restraint",
+          "curb"
+        ],
+        "examples": [
+          {
+            "text": "Budget constraints forced the museum to postpone its planned expansion.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The repression of one's feelings.",
+        "ko": "억제, 부자연스러운 태도",
+        "synonyms": [
+          "inhibition",
+          "reserve",
+          "restraint"
+        ],
+        "examples": [
+          {
+            "text": "There was a noticeable constraint between the two old friends after their quarrel.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "string"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 constreinte(constreindre의 과거분사)에서 왔고, 라틴어 cōnstringō(묶다)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "constrict",
+    "score": 34,
+    "zipf": 2.33,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "squeeze or press together",
+        "ko": "수축시키다, 조이다",
+        "synonyms": [
+          "compress",
+          "squeeze",
+          "tighten",
+          "contract"
+        ],
+        "examples": [
+          {
+            "text": "Cold temperatures cause blood vessels near the skin to constrict.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "string"
+    ],
+    "origin": {
+      "ko": "라틴어 cōnstrictus('압축된')에서 왔고, cōnstringō(함께 묶다, 조이다)에서 갈라졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "construe",
+    "score": 82,
+    "zipf": 2.32,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make sense of; assign a meaning to",
+        "ko": "해석하다, 이해하다",
+        "synonyms": [
+          "interpret",
+          "read",
+          "understand",
+          "take"
+        ],
+        "examples": [
+          {
+            "text": "Her silence was construed as agreement, though she had merely been thinking.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "stru"
+    ],
+    "origin": {
+      "ko": "라틴어 construo('함께 쌓다')에서 왔고, 후기 라틴어에서 '문법적으로 엮다'는 뜻이 되었습니다. construct와 같은 어원입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "consummate",
+    "score": 47,
+    "zipf": 3.04,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having or revealing supreme mastery or skill",
+        "ko": "완벽한 솜씨의, 능숙한",
+        "synonyms": [
+          "masterful",
+          "accomplished",
+          "virtuoso",
+          "skilled",
+          "adept"
+        ],
+        "examples": [
+          {
+            "text": "a consummate artist",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make perfect; bring to perfection",
+        "ko": "완성하다, 성취하다",
+        "synonyms": [
+          "complete",
+          "perfect",
+          "accomplish",
+          "fulfill"
+        ],
+        "examples": [
+          {
+            "text": "The treaty consummated years of delicate negotiation between the two rival nations.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "sum(합계)"
+    ],
+    "origin": {
+      "ko": "라틴어 cōnsummātus('다 합쳐 완성한')에서 왔고, summa(합계)에서 갈라졌습니다. 모든 것을 더해 끝까지 완성했다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "contempt",
+    "score": 40,
+    "zipf": 3.74,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "lack of respect accompanied by a feeling of intense dislike",
+        "ko": "경멸, 멸시",
+        "synonyms": [
+          "disdain",
+          "scorn",
+          "disrespect"
+        ],
+        "examples": [
+          {
+            "text": "She regarded the empty promises of politicians with open contempt.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a willful disobedience to or disrespect for the authority of a court or legislative body",
+        "ko": "법정 모독, 의회 모독",
+        "synonyms": [
+          "defiance",
+          "insubordination"
+        ],
+        "examples": [
+          {
+            "text": "The witness was held in contempt of court after repeatedly refusing to answer.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "temn"
+    ],
+    "origin": {
+      "ko": "라틴어 contemptus('경멸')에서 왔고, contemnō(경멸하다)에서 갈라졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "contemptuous",
+    "score": 35,
+    "zipf": 2.64,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "expressing extreme contempt",
+        "ko": "경멸하는, 깔보는",
+        "synonyms": [
+          "scornful",
+          "disdainful",
+          "derisive",
+          "sneering"
+        ],
+        "examples": [
+          {
+            "text": "Sir George burst into a loud fit of contemptuous laughter.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "temn",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 contemptus(경멸)에 -ous가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "contend",
+    "score": 57,
+    "zipf": 3.56,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "maintain or assert",
+        "ko": "주장하다",
+        "synonyms": [
+          "assert",
+          "maintain",
+          "claim",
+          "argue",
+          "allege"
+        ],
+        "examples": [
+          {
+            "text": "He contended that Communism had no future",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "compete for something; engage in a contest; measure oneself against others",
+        "ko": "겨루다, 경쟁하다",
+        "synonyms": [
+          "compete",
+          "vie",
+          "struggle",
+          "contest"
+        ],
+        "examples": [
+          {
+            "text": "Three teams are contending for the championship this season.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "tend"
+    ],
+    "origin": {
+      "ko": "라틴어 contendere('팽팽히 뻗다, 애쓰다')에서 왔습니다. 서로 팔을 뻗어 겨룬다는 뜻에서 '주장하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "contentious",
+    "score": 60,
+    "zipf": 3.31,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "inclined or showing an inclination to dispute or disagree, even to engage in law suits",
+        "ko": "논쟁을 좋아하는, 시비조의",
+        "synonyms": [
+          "argumentative",
+          "combative",
+          "disputatious",
+          "quarrelsome"
+        ],
+        "examples": [
+          {
+            "text": "His contentious temperament turned every committee meeting into a prolonged argument.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "involving or likely to cause controversy",
+        "ko": "논란의 소지가 있는",
+        "synonyms": [
+          "controversial",
+          "divisive",
+          "disputed"
+        ],
+        "examples": [
+          {
+            "text": "The council voted on a contentious proposal to rezone the historic waterfront.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "tend",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 contentiōsus('다투기 좋아하는')에서 왔고, contendere(겨루다)에서 갈라졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "contextualize",
+    "score": 33,
+    "zipf": 2.24,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To place something or someone in a particular context.",
+        "ko": "맥락 속에 놓고 보다, 맥락화하다",
+        "synonyms": [
+          "situate",
+          "frame"
+        ],
+        "examples": [
+          {
+            "text": "The curator added panels to contextualize the artifacts within the broader history of the region.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "tex",
+      "-ize"
+    ]
+  },
+  {
+    "word": "contingent",
+    "score": 24,
+    "zipf": 3.69,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "being determined by conditions or circumstances that follow",
+        "ko": "~에 달려 있는, 조건부의",
+        "synonyms": [
+          "dependent",
+          "conditional",
+          "subject to"
+        ],
+        "examples": [
+          {
+            "text": "arms sales contingent on the approval of Congress",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "possible but not certain to occur",
+        "ko": "우발적인, 일어날 수도 있는",
+        "synonyms": [
+          "possible",
+          "chance",
+          "fortuitous"
+        ],
+        "examples": [
+          {
+            "text": "The firm set aside funds for contingent expenses that might arise during construction.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a gathering of persons representative of some larger group",
+        "ko": "대표단, 파견 집단",
+        "synonyms": [
+          "delegation",
+          "group",
+          "detachment"
+        ],
+        "examples": [
+          {
+            "text": "each nation sent a contingent of athletes to the Olympics",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "tang",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 contingens('가능한, 우연한')에서 왔고, com-(함께)과 tangere(닿다)가 합쳐졌습니다. 조건에 맞닿아야 일어난다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "contract",
+    "score": 16,
+    "zipf": 4.94,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "become smaller or draw together",
+        "ko": "수축하다, 줄어들다",
+        "synonyms": [
+          "shrink",
+          "narrow",
+          "shorten",
+          "tighten"
+        ],
+        "examples": [
+          {
+            "text": "Metal contracts as it cools, which is why bridges include expansion gaps.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "be stricken by an illness, fall victim to an illness",
+        "ko": "(병에) 걸리다",
+        "synonyms": [
+          "catch",
+          "develop",
+          "get"
+        ],
+        "examples": [
+          {
+            "text": "Several of the sailors contracted malaria during the long voyage.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a binding agreement between two or more persons that is enforceable by law",
+        "ko": "계약",
+        "synonyms": [
+          "agreement",
+          "pact",
+          "covenant"
+        ],
+        "examples": [
+          {
+            "text": "Both parties signed the contract, which specified penalties for late delivery.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "tract"
+    ],
+    "origin": {
+      "ko": "라틴어 contrahere('함께 끌어당기다')에서 왔습니다. 동사는 원래 '오그라들다'였고, 계약 뜻은 나중에 생겼습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "contrary",
+    "score": 19,
+    "zipf": 4.17,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "resistant to guidance or discipline",
+        "ko": "고집 센, 삐딱한",
+        "synonyms": [
+          "obstinate",
+          "perverse",
+          "wayward",
+          "stubborn"
+        ],
+        "examples": [
+          {
+            "text": "The contrary child refused every suggestion simply because it came from an adult.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "very opposed in nature or character or purpose",
+        "ko": "정반대의, 상반되는",
+        "synonyms": [
+          "opposite",
+          "opposed",
+          "conflicting",
+          "contradictory"
+        ],
+        "examples": [
+          {
+            "text": "the facts point to a contrary conclusion",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "contra-"
+    ],
+    "origin": {
+      "ko": "라틴어 contrārius('반대의')에서 왔고 contrā(~에 맞서)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "contravene",
+    "score": 34,
+    "zipf": 2.3,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "go against, as of rules and laws",
+        "ko": "위반하다, 어기다",
+        "synonyms": [
+          "violate",
+          "breach",
+          "infringe",
+          "flout"
+        ],
+        "examples": [
+          {
+            "text": "The company's dumping of waste contravenes several environmental regulations.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "contra-",
+      "ven(오다)"
+    ],
+    "origin": {
+      "ko": "라틴어 contraveniō('맞서 오다')에서 온 중세 프랑스어 contravenir에서 왔습니다. 규칙과 정면으로 부딪친다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "contretemps",
+    "score": 29,
+    "zipf": 1.75,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an awkward clash",
+        "ko": "뜻밖의 불운, 말다툼",
+        "synonyms": [
+          "mishap",
+          "altercation",
+          "hitch",
+          "squabble"
+        ],
+        "examples": [
+          {
+            "text": "A minor contretemps over seating arrangements delayed the start of the state dinner.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 contretemps를 그대로 빌려 온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "contrite",
+    "score": 84,
+    "zipf": 2.48,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "feeling or expressing pain or sorrow for sins or offenses",
+        "ko": "뉘우치는, 참회하는",
+        "synonyms": [
+          "remorseful",
+          "penitent",
+          "repentant",
+          "rueful",
+          "sorry"
+        ],
+        "examples": [
+          {
+            "text": "The contrite executive issued a public apology and promised to repay the lost funds.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "ter"
+    ],
+    "origin": {
+      "ko": "라틴어 contrītus('산산이 갈린')에서 왔고 conterō(갈다, 짓이기다)에서 갈라졌습니다. 마음이 부서지도록 뉘우친다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "contrition",
+    "score": 35,
+    "zipf": 2.62,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The state of being contrite; sincere penitence or remorse.",
+        "ko": "뉘우침, 회개",
+        "synonyms": [
+          "remorse",
+          "penitence",
+          "repentance",
+          "compunction"
+        ],
+        "examples": [
+          {
+            "text": "Kremlin officials have shown no signs of contrition.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "ter"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 contriciun에서 왔고 라틴어 contrītiō가 뿌리입니다. contrite와 같은 계통으로 마음이 부서지는 뉘우침입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "contrive",
+    "score": 49,
+    "zipf": 2.18,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "come up with (an idea, plan, explanation, theory, or principle) after a mental effort",
+        "ko": "고안하다, 꾸며내다",
+        "synonyms": [
+          "devise",
+          "invent",
+          "concoct",
+          "engineer"
+        ],
+        "examples": [
+          {
+            "text": "The engineers contrived a clever system for recycling water on the remote research station.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 controver에서 왔고 trover('찾다')에서 갈라졌습니다. 방법을 찾아내 고안한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "contrived",
+    "score": 30,
+    "zipf": 3.15,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Unnatural, forced; artificial, or unrealistic.",
+        "ko": "부자연스러운, 억지로 꾸민",
+        "synonyms": [
+          "artificial",
+          "forced",
+          "labored",
+          "stilted"
+        ],
+        "examples": [
+          {
+            "text": "Critics found the plot contrived, with coincidences piling up to force a happy ending.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "contumacious",
+    "score": 39,
+    "zipf": 1.19,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "wilfully obstinate; stubbornly disobedient",
+        "ko": "반항적인, 완강히 불복하는",
+        "synonyms": [
+          "rebellious",
+          "defiant",
+          "insubordinate",
+          "obstinate"
+        ],
+        "examples": [
+          {
+            "text": "The contumacious witness ignored the court's summons for the third time.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 contumāx('고집 센, 완강한')에 -ious가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "contusion",
+    "score": 36,
+    "zipf": 2.45,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an injury that doesn't break the skin but results in some discoloration",
+        "ko": "타박상, 멍",
+        "synonyms": [
+          "bruise",
+          "bump"
+        ],
+        "examples": [
+          {
+            "text": "The fall left a large contusion on his thigh but no broken bones.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "tund"
+    ],
+    "origin": {
+      "ko": "중세 프랑스어 contusion에서 왔고, 라틴어 contundō('두들기다')가 뿌리입니다. 세게 두들겨 생긴 멍입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conundrum",
+    "score": 47,
+    "zipf": 3.0,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a difficult problem",
+        "ko": "난제, 수수께끼",
+        "synonyms": [
+          "riddle",
+          "enigma",
+          "puzzle",
+          "dilemma",
+          "quandary"
+        ],
+        "examples": [
+          {
+            "text": "How to expand access without raising costs remains the central conundrum of the reform.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "기원 불명의 말로, 스콜라 철학식 라틴어를 흉내 낸 장난스러운 신조어에서 인기를 얻었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "convalesce",
+    "score": 28,
+    "zipf": 1.71,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "get over an illness or shock",
+        "ko": "회복하다, 요양하다",
+        "synonyms": [
+          "recuperate",
+          "recover",
+          "heal"
+        ],
+        "examples": [
+          {
+            "text": "The patient convalesced for six months after his stroke.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "val",
+      "-esce"
+    ],
+    "origin": {
+      "ko": "라틴어 convalēscere에서 왔고, valēscere('강해지기 시작하다')에서 갈라졌습니다. 다시 튼튼해지는 과정입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "convalescent",
+    "score": 35,
+    "zipf": 2.6,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "returning to health after illness or debility",
+        "ko": "회복 중인, 요양 중인",
+        "synonyms": [
+          "recovering",
+          "recuperating",
+          "healing"
+        ],
+        "examples": [
+          {
+            "text": "She stayed in a convalescent hospital for two weeks before returning home.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "val"
+    ],
+    "origin": {
+      "ko": "프랑스어 convalescent에서 왔고 라틴어 convalēscere('강해지기 시작하다')가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "convention",
+    "score": 16,
+    "zipf": 4.5,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A practice or procedure widely observed in a group, especially to facilitate social interaction; a custom.",
+        "ko": "관습, 관례",
+        "synonyms": [
+          "custom",
+          "practice",
+          "tradition",
+          "norm"
+        ],
+        "examples": [
+          {
+            "text": "The convention of driving on the right is reinforced by law.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a large formal assembly",
+        "ko": "대회, 대표자 회의",
+        "synonyms": [
+          "assembly",
+          "conference",
+          "congress"
+        ],
+        "examples": [
+          {
+            "text": "Delegates from every state gathered at the party's national convention to choose a nominee.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "ven(오다)"
+    ],
+    "origin": {
+      "ko": "라틴어 conventiō('모임, 합의')에서 왔고, conveniō(함께 모이다)에서 갈라졌습니다. 모여서 합의한 것이 '관습'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conventional",
+    "score": 18,
+    "zipf": 4.25,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unimaginative and conformist",
+        "ko": "틀에 박힌, 평범한",
+        "synonyms": [
+          "conformist",
+          "orthodox",
+          "hidebound",
+          "unoriginal"
+        ],
+        "examples": [
+          {
+            "text": "The film's conventional plot offered few surprises to seasoned viewers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "following accepted customs and proprieties",
+        "ko": "관습적인, 전통적인",
+        "synonyms": [
+          "traditional",
+          "customary",
+          "orthodox",
+          "standard"
+        ],
+        "examples": [
+          {
+            "text": "conventional wisdom",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "ven(오다)"
+    ]
+  },
+  {
+    "word": "converge",
+    "score": 29,
+    "zipf": 3.23,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "move or draw together at a certain location",
+        "ko": "한곳으로 모이다, 수렴하다",
+        "synonyms": [
+          "meet",
+          "gather",
+          "come together",
+          "focus"
+        ],
+        "examples": [
+          {
+            "text": "The crowd converged on the movie star",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "verg"
+    ],
+    "origin": {
+      "ko": "라틴어 convergere에서 왔고, con-(함께)과 vergere(기울다)가 합쳐졌습니다. 한 점을 향해 함께 기운다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conversant",
+    "score": 35,
+    "zipf": 2.39,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(usually followed by ‘with’) well informed about or knowing thoroughly",
+        "ko": "~에 정통한, 잘 아는",
+        "synonyms": [
+          "familiar",
+          "versed",
+          "knowledgeable",
+          "well-informed"
+        ],
+        "examples": [
+          {
+            "text": "She is equally conversant with Shakespeare and the laws of physics.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "vert"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 conversant(converser의 현재분사)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "conversely",
+    "score": 26,
+    "zipf": 3.53,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "with the terms of the relation reversed",
+        "ko": "반대로, 거꾸로",
+        "synonyms": [
+          "inversely",
+          "contrariwise",
+          "vice versa"
+        ],
+        "examples": [
+          {
+            "text": "Higher taxes can reduce spending; conversely, tax cuts often stimulate it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "vert"
+    ]
+  },
+  {
+    "word": "conviction",
+    "score": 20,
+    "zipf": 4.14,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an unshakable belief in something without need for proof or evidence",
+        "ko": "확신, 신념",
+        "synonyms": [
+          "belief",
+          "certainty",
+          "persuasion",
+          "creed"
+        ],
+        "examples": [
+          {
+            "text": "She spoke with such conviction that even skeptics in the audience began to nod.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "(criminal law) a final judgment of guilty in a criminal case and the punishment that is imposed",
+        "ko": "유죄 판결",
+        "synonyms": [
+          "condemnation",
+          "sentence"
+        ],
+        "examples": [
+          {
+            "text": "the conviction came as no surprise",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "vinc"
+    ],
+    "origin": {
+      "ko": "라틴어 convictiō에서 왔고, convincō(설득하다, 유죄를 입증하다)에서 갈라졌습니다. 논쟁에서 완전히 이긴 확신입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "convince",
+    "score": 18,
+    "zipf": 4.26,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make (someone) agree, understand, or realize the truth or validity of something",
+        "ko": "설득하다, 납득시키다",
+        "synonyms": [
+          "persuade",
+          "win over",
+          "assure",
+          "satisfy"
+        ],
+        "examples": [
+          {
+            "text": "He convinced me I had talent, and persuaded me to study music.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "vinc"
+    ],
+    "origin": {
+      "ko": "라틴어 convincō('논박하다, 입증하다')에서 왔고, con-과 vincō(정복하다)가 합쳐졌습니다. 논리로 완전히 이겨 납득시킨다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "convivial",
+    "score": 51,
+    "zipf": 2.39,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "occupied with or fond of the pleasures of good company",
+        "ko": "쾌활한, 사교적인",
+        "synonyms": [
+          "sociable",
+          "jovial",
+          "genial",
+          "festive"
+        ],
+        "examples": [
+          {
+            "text": "a woman of convivial nature",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "viv"
+    ],
+    "origin": {
+      "ko": "라틴어 convīvium('잔치')에서 왔고, con-(함께)과 vīvō(살다)가 합쳐졌습니다. 함께 먹고 사는 즐거움입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "convoke",
+    "score": 27,
+    "zipf": 1.62,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "call together",
+        "ko": "소집하다",
+        "synonyms": [
+          "convene",
+          "summon",
+          "assemble",
+          "muster"
+        ],
+        "examples": [
+          {
+            "text": "The president convoked an emergency session of the council to discuss the crisis.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "voc"
+    ],
+    "origin": {
+      "ko": "라틴어 convocare에서 왔고, con-(함께)과 vocō(부르다)가 합쳐졌습니다. 사람들을 한데 불러 모은다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "convoluted",
+    "score": 78,
+    "zipf": 3.05,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "highly complex or intricate and occasionally devious",
+        "ko": "복잡하게 뒤얽힌, 난해한",
+        "synonyms": [
+          "complicated",
+          "intricate",
+          "tortuous",
+          "labyrinthine",
+          "byzantine"
+        ],
+        "examples": [
+          {
+            "text": "He gave a convoluted explanation that amounted to little more than a weak excuse for his absence.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "volv"
+    ]
+  },
+  {
+    "word": "copious",
+    "score": 62,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "large in number or quantity (especially of discourse)",
+        "ko": "풍부한, 방대한",
+        "synonyms": [
+          "abundant",
+          "plentiful",
+          "profuse",
+          "ample",
+          "voluminous"
+        ],
+        "examples": [
+          {
+            "text": "she took copious notes",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 copiosus에서 왔고, copia('풍부함')가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cordial",
+    "score": 30,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "diffusing warmth and friendliness",
+        "ko": "정중하고 따뜻한, 진심 어린",
+        "synonyms": [
+          "warm",
+          "genial",
+          "affable",
+          "amiable",
+          "friendly"
+        ],
+        "examples": [
+          {
+            "text": "Since then, though, discussions have become more collaborative and cordial.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cord"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 cordiālis('심장의')에서 왔습니다. 마음에서 우러난 따뜻함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cornucopia",
+    "score": 35,
+    "zipf": 2.56,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the property of being extremely abundant",
+        "ko": "풍부, 풍요",
+        "synonyms": [
+          "abundance",
+          "profusion",
+          "plenty",
+          "bounty"
+        ],
+        "examples": [
+          {
+            "text": "The open-air market offered a cornucopia of fruits, spices, and handmade crafts.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a goat's horn filled with grain and flowers and fruit symbolizing prosperity",
+        "ko": "풍요의 뿔",
+        "synonyms": [
+          "horn of plenty"
+        ],
+        "examples": [
+          {
+            "text": "The harvest festival poster showed a cornucopia spilling over with grapes and wheat.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "corn",
+      "cop(풍부)"
+    ],
+    "origin": {
+      "ko": "라틴어 cornūcōpia('풍요의 뿔')를 빌려 온 말입니다. 과일과 곡식이 쏟아지는 뿔 모양 장식입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "corollary",
+    "score": 34,
+    "zipf": 2.74,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a practical consequence that follows naturally",
+        "ko": "당연한 결과, 필연적 귀결",
+        "synonyms": [
+          "consequence",
+          "result",
+          "upshot",
+          "concomitant"
+        ],
+        "examples": [
+          {
+            "text": "blind jealousy is a frequent corollary of passionate love",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "(logic) an inference that follows directly from the proof of another proposition",
+        "ko": "(논리·수학) 계, 추론",
+        "synonyms": [
+          "inference",
+          "deduction"
+        ],
+        "examples": [
+          {
+            "text": "The second theorem has an immediate corollary that every such set is finite.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "후기 라틴어 corōllārium('화환 값, 덤')에서 왔고, corōlla(작은 화관)가 뿌리입니다. 덤으로 따라오는 결론이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "corporeal",
+    "score": 35,
+    "zipf": 2.63,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having material or physical form or substance",
+        "ko": "물질적인, 형체가 있는",
+        "synonyms": [
+          "material",
+          "physical",
+          "tangible",
+          "substantial"
+        ],
+        "examples": [
+          {
+            "text": "The ghost in the story had no corporeal form and passed easily through walls.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "affecting or characteristic of the body as opposed to the mind or spirit",
+        "ko": "육체의, 신체적인",
+        "synonyms": [
+          "bodily",
+          "corporal",
+          "somatic",
+          "physical"
+        ],
+        "examples": [
+          {
+            "text": "The monk renounced corporeal pleasures in pursuit of spiritual discipline.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "corp",
+      "-al"
+    ],
+    "origin": {
+      "ko": "중세 영어 corporealle에서 왔고, 라틴어 corporeus와 corpus(몸)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "corpulent",
+    "score": 48,
+    "zipf": 2.14,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "excessively fat",
+        "ko": "뚱뚱한, 비만한",
+        "synonyms": [
+          "obese",
+          "portly",
+          "stout",
+          "rotund",
+          "fat"
+        ],
+        "examples": [
+          {
+            "text": "The corpulent innkeeper wheezed as he climbed the narrow stairs with our luggage.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "corp"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 corpulent를 거친 라틴어 corpulentus(몸집이 큰)에서 왔습니다. corpus(몸)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "correlate",
+    "score": 29,
+    "zipf": 3.2,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to bear a reciprocal or mutual relation",
+        "ko": "상관관계가 있다, 서로 관련되다",
+        "synonyms": [
+          "relate",
+          "correspond",
+          "connect",
+          "coincide"
+        ],
+        "examples": [
+          {
+            "text": "Doctrine and worship correlate as theory and practice.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "re-",
+      "lat(나르다)"
+    ],
+    "origin": {
+      "ko": "cor-(함께)에 relate(관련짓다)가 붙은 말입니다. 서로를 함께 연결해 가져온다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "corroborate",
+    "score": 80,
+    "zipf": 2.92,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "establish or strengthen as with new evidence or facts",
+        "ko": "확증하다, 뒷받침하다",
+        "synonyms": [
+          "confirm",
+          "substantiate",
+          "verify",
+          "support",
+          "validate"
+        ],
+        "examples": [
+          {
+            "text": "Two independent witnesses corroborated her account of what happened that night.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "robust"
+    ],
+    "origin": {
+      "ko": "라틴어 corrōborō('강하게 하다')에서 왔고, con-과 rōbur(힘)가 합쳐졌습니다. 증거를 더해 힘을 실어 준다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cosmopolitan",
+    "score": 59,
+    "zipf": 3.36,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "composed of people from or at home in many parts of the world; especially not provincial in attitudes or interests",
+        "ko": "세계적인, 국제적 감각의",
+        "synonyms": [
+          "worldly",
+          "sophisticated",
+          "international",
+          "urbane"
+        ],
+        "examples": [
+          {
+            "text": "Lisbon has grown into a cosmopolitan city, home to residents from dozens of countries.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "growing or occurring in many parts of the world",
+        "ko": "세계 각지에 분포하는",
+        "synonyms": [
+          "widespread",
+          "worldwide",
+          "universal"
+        ],
+        "examples": [
+          {
+            "text": "a cosmopolitan herb",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cosmo-",
+      "polit",
+      "-an"
+    ],
+    "origin": {
+      "ko": "cosmopolite(세계 시민)에 -an이 붙은 말입니다. metropolitan(대도시의)과 비교됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cosset",
+    "score": 57,
+    "zipf": 1.38,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "treat with excessive indulgence",
+        "ko": "애지중지하다, 응석을 받아주다",
+        "synonyms": [
+          "pamper",
+          "coddle",
+          "mollycoddle",
+          "spoil",
+          "indulge"
+        ],
+        "examples": [
+          {
+            "text": "The car cossets its occupants in comfort.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 cotsǣta('오두막 사는 사람')에서 왔을 것으로 추정되며, 확실하지는 않습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "coterie",
+    "score": 52,
+    "zipf": 2.49,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an exclusive circle of people with a common purpose",
+        "ko": "(배타적인) 동아리, 패거리",
+        "synonyms": [
+          "clique",
+          "circle",
+          "set",
+          "inner circle"
+        ],
+        "examples": [
+          {
+            "text": "A tightly knit coterie of executive powerbrokers made all the real decisions in the company.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "coterminous",
+    "score": 31,
+    "zipf": 1.99,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "being of equal extent or scope or duration",
+        "ko": "경계·범위가 같은, 동일한 외연의",
+        "synonyms": [
+          "coextensive",
+          "conterminous",
+          "contiguous"
+        ],
+        "examples": [
+          {
+            "text": "The county's borders are coterminous with those of the old medieval parish.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "termin",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 conterminus에서 왔고, con-(함께)과 terminus(경계)가 합쳐졌습니다. 경계를 함께 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "countenance",
+    "score": 48,
+    "zipf": 2.91,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "consent to, give permission; permit",
+        "ko": "허용하다, 용인하다",
+        "synonyms": [
+          "tolerate",
+          "permit",
+          "approve",
+          "sanction",
+          "condone"
+        ],
+        "examples": [
+          {
+            "text": "The university will not countenance any form of plagiarism among its students.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the appearance conveyed by a person's face",
+        "ko": "표정, 안색",
+        "synonyms": [
+          "visage",
+          "expression",
+          "face",
+          "mien"
+        ],
+        "examples": [
+          {
+            "text": "Her calm countenance gave no hint of the anxiety she felt before the verdict.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "con-",
+      "ten(잡다)"
+    ],
+    "origin": {
+      "ko": "앵글로노르만어 countenance에서 왔고, contenir(함께 지니다)와 후기 라틴어 continentia에서 갈라졌습니다. 표정을 받아들이듯 허용한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "counterintuitive",
+    "score": 34,
+    "zipf": 2.69,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "contrary to what common sense would suggest",
+        "ko": "직관에 반하는",
+        "synonyms": [
+          "paradoxical",
+          "unexpected",
+          "surprising"
+        ],
+        "examples": [
+          {
+            "text": "It seems counterintuitive, but resting after a mild injury can slow recovery more than gentle exercise.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "contra-",
+      "intuit",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "counter-와 intuitive를 합친 말로, 1955년 노엄 촘스키가 처음 만들어 썼습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "countermand",
+    "score": 45,
+    "zipf": 1.8,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cancel officially",
+        "ko": "(명령을) 취소하다, 철회하다",
+        "synonyms": [
+          "revoke",
+          "rescind",
+          "annul",
+          "repeal",
+          "overrule"
+        ],
+        "examples": [
+          {
+            "text": "The general countermanded the order to advance after learning of the approaching storm.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "contra-",
+      "mand"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 contramandō에서 왔습니다. 앞선 명령에 '반대되는 명령'을 내리니 '취소하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "counterpoint",
+    "score": 30,
+    "zipf": 3.11,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Any similar contrasting element in a work of art.",
+        "ko": "대조를 이루는 요소",
+        "synonyms": [
+          "contrast",
+          "foil",
+          "complement"
+        ],
+        "examples": [
+          {
+            "text": "The comic scenes serve as a counterpoint to the play's otherwise grim tone.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a musical form involving the simultaneous sound of two or more melodies",
+        "ko": "대위법",
+        "synonyms": [
+          "polyphony"
+        ],
+        "examples": [
+          {
+            "text": "Bach's mastery of counterpoint allows several independent melodies to weave together seamlessly.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "contra-",
+      "point"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 contrāpūnctum에서 왔습니다. 음표(점) 맞은편에 다른 음표를 대응시킨다는 데서 '대조 요소'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "counterproductive",
+    "score": 31,
+    "zipf": 3.05,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "tending to hinder the achievement of a goal",
+        "ko": "역효과를 낳는",
+        "synonyms": [
+          "self-defeating",
+          "detrimental",
+          "harmful"
+        ],
+        "examples": [
+          {
+            "text": "Punishing students for asking questions is counterproductive and discourages genuine curiosity.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "contra-",
+      "duc",
+      "-ive"
+    ]
+  },
+  {
+    "word": "court",
+    "score": 16,
+    "zipf": 5.41,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "seek someone's favor",
+        "ko": "환심을 사려 하다, 구애하다",
+        "synonyms": [
+          "woo",
+          "cultivate",
+          "curry favor with",
+          "pursue"
+        ],
+        "examples": [
+          {
+            "text": "The candidate spent the summer courting wealthy donors in several cities.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an assembly (including one or more judges) to conduct judicial business",
+        "ko": "법원, 재판소",
+        "synonyms": [
+          "tribunal",
+          "judicature"
+        ],
+        "examples": [
+          {
+            "text": "The appeals court overturned the earlier ruling on procedural grounds.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 cohors(울타리 친 뜰)에서 고대 프랑스어를 거쳐 왔습니다. 궁정에서 군주의 환심을 사려 한 데서 '구애하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "covert",
+    "score": 42,
+    "zipf": 3.54,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "secret or hidden; not openly practiced or engaged in or shown or avowed",
+        "ko": "은밀한, 비밀의",
+        "synonyms": [
+          "secret",
+          "clandestine",
+          "furtive",
+          "surreptitious",
+          "hidden"
+        ],
+        "examples": [
+          {
+            "text": "covert operations",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 covert(덮인)에서 왔고 cover의 과거분사입니다. 덮여 있어 '은밀한' 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "covet",
+    "score": 49,
+    "zipf": 2.82,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "wish, long, or crave for (something, especially the property of another person)",
+        "ko": "탐내다, 몹시 갖고 싶어하다",
+        "synonyms": [
+          "crave",
+          "desire",
+          "envy",
+          "hanker after"
+        ],
+        "examples": [
+          {
+            "text": "Rival museums coveted the rare manuscript and made repeated offers to its owner.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 covoitier(욕망)에서 왔으며 라틴어 cupiditas(강한 욕망)와 관련됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cow",
+    "score": 20,
+    "zipf": 4.14,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "subdue, restrain, or overcome by affecting with a feeling of awe; frighten (as with threats)",
+        "ko": "위협하여 굴복시키다, 겁주다",
+        "synonyms": [
+          "intimidate",
+          "daunt",
+          "browbeat",
+          "overawe",
+          "bully"
+        ],
+        "examples": [
+          {
+            "text": "Con artists are not cowed by the law.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 노르드어 kúga(억압하다)에서 왔을 것으로 추정됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cower",
+    "score": 36,
+    "zipf": 2.55,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To crouch or cringe, or to avoid or shy away from something, in fear.",
+        "ko": "움츠러들다, 겁에 질려 웅크리다",
+        "synonyms": [
+          "cringe",
+          "quail",
+          "flinch",
+          "shrink",
+          "recoil"
+        ],
+        "examples": [
+          {
+            "text": "The villagers cowered in their cellars while the storm tore roofs from the houses.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 저지 독일어 kûren(웅크리고 숨어 기다리다) 등에서 왔다고 봅니다. 몸을 구부린 자세가 '움츠러들다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "coy",
+    "score": 46,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing marked and often playful or irritating evasiveness or reluctance to make a definite or committing statement",
+        "ko": "말을 얼버무리는, 내숭 떠는",
+        "synonyms": [
+          "evasive",
+          "reticent",
+          "noncommittal"
+        ],
+        "examples": [
+          {
+            "text": "a politician coy about his intentions",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "affectedly modest or shy especially in a playful or provocative way",
+        "ko": "수줍은 체하는, 내숭 떠는",
+        "synonyms": [
+          "demure",
+          "bashful",
+          "coquettish",
+          "overmodest"
+        ],
+        "examples": [
+          {
+            "text": "She gave a coy smile and refused to reveal who had sent the flowers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 quiētus(조용한, 쉬는)에서 고대 프랑스어 coi를 거쳐 왔습니다. 조용히 빼는 태도에서 '내숭 떠는'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cozen",
+    "score": 26,
+    "zipf": 1.52,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cheat or trick",
+        "ko": "속이다, 사기 치다",
+        "synonyms": [
+          "deceive",
+          "swindle",
+          "dupe",
+          "defraud",
+          "bamboozle"
+        ],
+        "examples": [
+          {
+            "text": "The charlatan cozened the widow out of her life savings with promises of a miracle cure.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

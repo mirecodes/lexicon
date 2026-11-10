@@ -1,0 +1,180 @@
+[
+  {
+    "word": "nicety",
+    "score": 28,
+    "zipf": 1.7,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A small detail or distinction.",
+        "ko": "세부 사항, 미묘한 차이",
+        "synonyms": [
+          "subtlety",
+          "nuance",
+          "refinement",
+          "fine point"
+        ],
+        "examples": [
+          {
+            "text": "The lawyers argued over legal niceties while the central question went unanswered.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 niceté '단순함, 어리석음'에서 왔습니다. 뜻이 바뀌어 섬세하고 미묘한 구별을 가리키게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nihilism",
+    "score": 34,
+    "zipf": 2.74,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The view that all endeavours are devoid of objective meaning.",
+        "ko": "허무주의",
+        "synonyms": [
+          "pessimism",
+          "skepticism"
+        ],
+        "examples": [
+          {
+            "text": "The novel's bleak nihilism leaves its characters with no belief in morality or purpose.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "complete denial of all established authority and institutions",
+        "ko": "(기존 권위·제도의) 전면 부정",
+        "synonyms": [
+          "anarchism"
+        ],
+        "examples": [
+          {
+            "text": "The movement's political nihilism rejected every institution, from parliament to the church.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "nihil",
+      "-ism"
+    ],
+    "origin": {
+      "ko": "라틴어 nihil '무(無)'에서 나온 말입니다. 모든 것이 무의미하다고 보는 입장입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nihilist",
+    "score": 35,
+    "zipf": 2.36,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A person who accepts or champions nihilism.",
+        "ko": "허무주의자",
+        "synonyms": [
+          "skeptic",
+          "cynic"
+        ],
+        "examples": [
+          {
+            "text": "The protagonist, a committed nihilist, scoffs at every moral principle his friends hold dear.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "nihil",
+      "-ist"
+    ],
+    "origin": {
+      "ko": "라틴어 nihil '아무것도 없음'에 -ist가 붙은 말로, 허무주의를 따르는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nimble",
+    "score": 30,
+    "zipf": 3.07,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Quick and light in movement or action.",
+        "ko": "민첩한, 날렵한",
+        "synonyms": [
+          "agile",
+          "spry",
+          "lithe",
+          "deft"
+        ],
+        "examples": [
+          {
+            "text": "He was too nimble for the assailant and easily escaped his grasp.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Quickwitted and alert.",
+        "ko": "기민한, 머리 회전이 빠른",
+        "synonyms": [
+          "quick-witted",
+          "sharp",
+          "astute"
+        ],
+        "examples": [
+          {
+            "text": "He has a nimble mind and can improvise in any situation.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 niman '잡다'에서 왔습니다. 재빨리 붙잡고 반응하는 데서 '민첩한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "word": "usurp",
+    "score": 34,
+    "zipf": 2.7,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "seize and take control without authority and possibly with force; take as one's right or possession",
+        "ko": "찬탈하다, 빼앗다, 가로채다",
+        "synonyms": [
+          "seize",
+          "arrogate",
+          "commandeer",
+          "appropriate"
+        ],
+        "examples": [
+          {
+            "text": "The general plotted to usurp the throne while the young king was abroad.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "take the place of",
+        "ko": "대체하다, 밀어내다",
+        "synonyms": [
+          "supplant",
+          "replace",
+          "displace"
+        ],
+        "examples": [
+          {
+            "text": "Streaming services have gradually usurped traditional television as the main way audiences watch films.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 ūsūrpō('사용하려고 차지하다')에서 왔습니다. 남의 자리를 빼앗아 '찬탈하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "usury",
+    "score": 52,
+    "zipf": 2.54,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an exorbitant or unlawful rate of interest",
+        "ko": "고리, 부당하게 높은 이자",
+        "synonyms": [
+          "extortion",
+          "loan-sharking"
+        ],
+        "examples": [
+          {
+            "text": "Medieval theologians condemned usury as a sin against the poor who were forced to borrow.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The practice of lending money at such rates.",
+        "ko": "고리대금업",
+        "synonyms": [
+          "loan-sharking"
+        ],
+        "examples": [
+          {
+            "text": "Many cultures have historically outlawed usury, viewing profit from lending as morally suspect.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "us",
+      "-ury"
+    ],
+    "origin": {
+      "ko": "라틴어 ūsūra('이자를 받고 빌려줌')에서 왔고 ūsus('사용')와 이어집니다. 돈을 쓰게 하고 받는 대가가 '고리'로 굳었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

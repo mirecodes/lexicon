@@ -1,0 +1,787 @@
+[
+  {
+    "word": "feasible",
+    "score": 40,
+    "zipf": 3.72,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "capable of being done with means at hand and circumstances as they are",
+        "ko": "실행 가능한",
+        "synonyms": [
+          "practicable",
+          "viable",
+          "workable",
+          "achievable",
+          "doable"
+        ],
+        "examples": [
+          {
+            "text": "Engineers concluded that building the tunnel was feasible only if the government agreed to fund it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fac(만들다)",
+      "-able"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 faisable(할 수 있는)에서 왔고 라틴어 facere(하다)가 바탕입니다. 해낼 수 있어 '실행 가능한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "feckless",
+    "score": 52,
+    "zipf": 2.48,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "generally incompetent and ineffectual",
+        "ko": "무능한, 무기력한",
+        "synonyms": [
+          "inept",
+          "ineffectual",
+          "incompetent",
+          "hapless",
+          "irresponsible"
+        ],
+        "examples": [
+          {
+            "text": "The feckless manager ignored every warning sign, and the company slid steadily toward bankruptcy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not fit to assume responsibility",
+        "ko": "무책임한, 책임감 없는",
+        "synonyms": [
+          "irresponsible",
+          "shiftless",
+          "improvident",
+          "careless"
+        ],
+        "examples": [
+          {
+            "text": "Her feckless brother borrowed money constantly and never bothered to repay any of it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-less"
+    ],
+    "origin": {
+      "ko": "스코틀랜드어 feckless에서 왔고 effect(효과)에 -less가 붙은 말입니다. 효과가 없는, 곧 무능하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fecund",
+    "score": 79,
+    "zipf": 1.97,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "intellectually productive",
+        "ko": "창의력이 풍부한, 생산적인",
+        "synonyms": [
+          "prolific",
+          "inventive",
+          "fertile",
+          "creative"
+        ],
+        "examples": [
+          {
+            "text": "The fecund imagination of the young architect produced dozens of striking designs in a single year.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "capable of producing offspring or vegetation",
+        "ko": "다산의, 비옥한",
+        "synonyms": [
+          "fertile",
+          "fruitful",
+          "prolific",
+          "productive"
+        ],
+        "examples": [
+          {
+            "text": "The river's fecund delta has supported dense farming populations for thousands of years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 fēcundus(열매 많은, 비옥한)에서 프랑스어를 거쳐 왔습니다. 땅이 비옥하듯 창의력이 풍부하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "feeble",
+    "score": 29,
+    "zipf": 3.21,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "pathetically lacking in force or effectiveness",
+        "ko": "힘없는, 설득력 없는",
+        "synonyms": [
+          "lame",
+          "weak",
+          "ineffectual",
+          "flimsy",
+          "inadequate"
+        ],
+        "examples": [
+          {
+            "text": "The minister's feeble defense of the policy did little to calm an angry public.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "lacking bodily or muscular strength or vitality",
+        "ko": "허약한, 쇠약한",
+        "synonyms": [
+          "weak",
+          "frail",
+          "infirm",
+          "decrepit",
+          "puny"
+        ],
+        "examples": [
+          {
+            "text": "Though she appeared old and feeble, she could still throw a ball.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 flēbilis(눈물 날 만한, 애처로운)에서 왔습니다. 눈물 나게 가련한 약함이 '힘없는'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "feign",
+    "score": 35,
+    "zipf": 2.58,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make believe with the intent to deceive",
+        "ko": "~인 체하다, 가장하다",
+        "synonyms": [
+          "pretend",
+          "simulate",
+          "sham",
+          "fake",
+          "affect"
+        ],
+        "examples": [
+          {
+            "text": "The pupil feigned sickness on the day of his exam.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fig"
+    ],
+    "origin": {
+      "ko": "라틴어 fingere(빚다, 꾸며내다)에서 고대 프랑스어를 거쳐 왔습니다. 없는 모습을 빚어내는 데서 '~인 체하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "feint",
+    "score": 36,
+    "zipf": 2.52,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "any distracting or deceptive maneuver (as a mock attack)",
+        "ko": "양동 작전, 속임수 동작",
+        "synonyms": [
+          "ruse",
+          "bluff",
+          "diversion",
+          "decoy",
+          "ploy"
+        ],
+        "examples": [
+          {
+            "text": "The general ordered a feint along the coast to draw the enemy away from the real landing site.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "deceive by a mock action",
+        "ko": "공격하는 척하다, 허를 찌르다",
+        "synonyms": [
+          "bluff",
+          "fake",
+          "deceive",
+          "misdirect"
+        ],
+        "examples": [
+          {
+            "text": "The fencer feinted left to lure her opponent off balance before striking from the right.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fig"
+    ],
+    "origin": {
+      "ko": "프랑스어 feinte(속임)에서 왔고 라틴어 fingere(꾸며내다)가 바탕입니다. 공격하는 척하는 속임 동작입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "felicitous",
+    "score": 62,
+    "zipf": 1.86,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Appropriate, apt, fitting.",
+        "ko": "적절한, 절묘한",
+        "synonyms": [
+          "apt",
+          "fitting",
+          "well-chosen",
+          "appropriate",
+          "happy"
+        ],
+        "examples": [
+          {
+            "text": "The novelist's felicitous phrasing captured the mood of the village in a single sentence.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "marked by good fortune",
+        "ko": "행운의, 상서로운",
+        "synonyms": [
+          "fortunate",
+          "auspicious",
+          "lucky",
+          "propitious"
+        ],
+        "examples": [
+          {
+            "text": "The two companies agreed that the merger came at a felicitous moment for both of them.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "felic",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "felicity에 -ous가 붙었습니다. 복되게 잘 들어맞는 '적절한'이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "felicity",
+    "score": 27,
+    "zipf": 3.36,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "pleasing and appropriate manner or style (especially manner or style of expression)",
+        "ko": "표현의 절묘함, 적절함",
+        "synonyms": [
+          "aptness",
+          "grace",
+          "appropriateness",
+          "elegance"
+        ],
+        "examples": [
+          {
+            "text": "The translator rendered the difficult verse with remarkable felicity, preserving both its meaning and its music.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "state of well-being characterized by emotions ranging from contentment to intense joy",
+        "ko": "더없는 행복, 기쁨",
+        "synonyms": [
+          "happiness",
+          "bliss",
+          "joy",
+          "blessedness",
+          "delight"
+        ],
+        "examples": [
+          {
+            "text": "The couple spoke of the quiet felicity of their first years together on the farm.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "felic",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 fēlīcitās(행복, 행운)에서 왔습니다. 행복이라는 뜻에서 표현이 알맞고 절묘하다는 뜻이 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fell",
+    "score": 16,
+    "zipf": 4.85,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Of a strong and cruel nature; eager and unsparing; grim; fierce; ruthless; savage.",
+        "ko": "잔혹한, 흉포한",
+        "synonyms": [
+          "cruel",
+          "savage",
+          "ruthless",
+          "ferocious",
+          "deadly"
+        ],
+        "examples": [
+          {
+            "text": "The tyrant's fell designs were halted only when his own generals turned against him.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cause to fall by or as if by delivering a blow",
+        "ko": "쓰러뜨리다, 베어 넘기다",
+        "synonyms": [
+          "cut down",
+          "strike down",
+          "topple",
+          "knock down"
+        ],
+        "examples": [
+          {
+            "text": "Loggers felled hundreds of ancient oaks before the council finally banned the practice.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "ferret",
+    "score": 31,
+    "zipf": 3.01,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "search and discover through persistent investigation",
+        "ko": "찾아내다, 캐내다",
+        "synonyms": [
+          "unearth",
+          "uncover",
+          "root out",
+          "track down",
+          "dig out"
+        ],
+        "examples": [
+          {
+            "text": "She ferreted out the truth",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "속라틴어 *furittum(족제비)에서 고대 프랑스어를 거쳐 왔고, 라틴어 fūr(도둑)의 지소형입니다. 작은 도둑 같은 동물이 굴을 뒤져 찾아내는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fervent",
+    "score": 47,
+    "zipf": 3.04,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by intense emotion",
+        "ko": "열렬한, 강렬한",
+        "synonyms": [
+          "ardent",
+          "fervid",
+          "passionate",
+          "impassioned",
+          "zealous"
+        ],
+        "examples": [
+          {
+            "text": "The candidate's fervent speech about education reform moved even her harshest critics in the audience.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ferv",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 fervēre(끓다, 뜨겁다)의 현재분사에서 왔습니다. 끓어오르는 듯한 열정을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fervid",
+    "score": 61,
+    "zipf": 1.77,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by intense emotion",
+        "ko": "열렬한, 뜨거운",
+        "synonyms": [
+          "ardent",
+          "fervent",
+          "passionate",
+          "impassioned",
+          "zealous"
+        ],
+        "examples": [
+          {
+            "text": "The fervid debate continued late into the night as delegates argued over every clause.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ferv",
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 fervidus(뜨거운)에서 왔고 fervēre(끓다)가 바탕입니다. 펄펄 끓는 듯한 열렬함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fervor",
+    "score": 31,
+    "zipf": 3.05,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "feelings of great warmth and intensity",
+        "ko": "열정, 열렬함",
+        "synonyms": [
+          "ardor",
+          "passion",
+          "zeal",
+          "fire",
+          "intensity"
+        ],
+        "examples": [
+          {
+            "text": "The coach trains his water polo team with fervor.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ferv",
+      "-or"
+    ],
+    "origin": {
+      "ko": "라틴어 fervor(끓는 열기)에서 왔습니다. 물이 끓듯 달아오른 열정을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fester",
+    "score": 33,
+    "zipf": 2.76,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To worsen, especially due to lack of attention.",
+        "ko": "곪다, 악화되다",
+        "synonyms": [
+          "rankle",
+          "smolder",
+          "deteriorate",
+          "worsen",
+          "simmer"
+        ],
+        "examples": [
+          {
+            "text": "Deal with the problem immediately; do not let it fester.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "ripen and generate pus",
+        "ko": "(상처가) 곪다",
+        "synonyms": [
+          "suppurate",
+          "maturate",
+          "ulcerate"
+        ],
+        "examples": [
+          {
+            "text": "her wounds are festering",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 fistula(관, 고름이 나는 상처)에서 고대 프랑스어를 거쳐 왔습니다. 방치된 상처가 곪아 악화되는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fete",
+    "score": 34,
+    "zipf": 2.68,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To celebrate (a person or event).",
+        "ko": "축하연을 베풀다, 성대히 대접하다",
+        "synonyms": [
+          "celebrate",
+          "honor",
+          "lionize",
+          "entertain",
+          "toast"
+        ],
+        "examples": [
+          {
+            "text": "Danielle Salamon was also four when she was feted as a musical genius in 1953.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an elaborate party (often outdoors)",
+        "ko": "축제, 야외 연회",
+        "synonyms": [
+          "feast",
+          "festival",
+          "fiesta",
+          "gala"
+        ],
+        "examples": [
+          {
+            "text": "The village held an annual summer fete with music, games and stalls selling homemade jam.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 fête(축제)에서 왔고 feast, fiesta와 같은 뿌리입니다. 축제처럼 성대히 대접한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fetid",
+    "score": 50,
+    "zipf": 2.29,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "offensively malodorous",
+        "ko": "악취가 나는",
+        "synonyms": [
+          "foul",
+          "stinking",
+          "rank",
+          "noisome",
+          "malodorous"
+        ],
+        "examples": [
+          {
+            "text": "I caught the fetid odor of dirty socks.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 fētidus(악취 나는)에서 왔고 fēteō(악취를 풍기다)가 바탕입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,765 @@
+[
+  {
+    "word": "quaff",
+    "score": 45,
+    "zipf": 1.82,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To drink or imbibe with vigour or relish; to drink copiously; to swallow in large draughts.",
+        "ko": "벌컥벌컥 마시다, 맛있게 들이켜다",
+        "synonyms": [
+          "gulp",
+          "swig",
+          "guzzle",
+          "imbibe"
+        ],
+        "examples": [
+          {
+            "text": "The weary travelers quaffed cold ale and traded stories by the fire.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "quagmire",
+    "score": 34,
+    "zipf": 2.75,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A perilous, mixed up and troubled situation; a hopeless tangle.",
+        "ko": "진퇴양난, 수렁, 헤어나기 힘든 상황",
+        "synonyms": [
+          "morass",
+          "predicament",
+          "mire",
+          "quandary"
+        ],
+        "examples": [
+          {
+            "text": "The paperwork got lost in a quagmire of bureaucracy.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a soft wet area of low-lying land that sinks underfoot",
+        "ko": "늪, 진창",
+        "synonyms": [
+          "bog",
+          "marsh",
+          "morass",
+          "mire"
+        ],
+        "examples": [
+          {
+            "text": "Heavy rain turned the battlefield into a quagmire that swallowed boots and wagon wheels.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "quag('늪')와 mire('진창')가 합쳐진 말입니다. 발이 빠지는 수렁에서 헤어나기 힘든 상황이라는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "quail",
+    "score": 46,
+    "zipf": 3.13,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "draw back, as with fear or pain",
+        "ko": "겁먹다, 움찔하다, 위축되다",
+        "synonyms": [
+          "cower",
+          "flinch",
+          "cringe",
+          "recoil",
+          "shrink"
+        ],
+        "examples": [
+          {
+            "text": "The witness quailed under the prosecutor's fierce and relentless cross-examination.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 네덜란드어 queilen('괴로워하다')에서 온 동사입니다. 고통에 움츠러드는 데서 '겁먹다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "qualify",
+    "score": 35,
+    "zipf": 4.19,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To modify, limit, restrict or moderate something; especially to add conditions or requirements for an assertion to be true.",
+        "ko": "(주장 등을) 한정하다, 완화하다",
+        "synonyms": [
+          "limit",
+          "temper",
+          "moderate",
+          "restrict"
+        ],
+        "examples": [
+          {
+            "text": "The author qualifies her claim by noting that the data cover only urban areas.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "prove capable or fit; meet requirements",
+        "ko": "자격을 갖추다, 요건을 충족하다",
+        "synonyms": [
+          "measure up",
+          "be eligible",
+          "fit"
+        ],
+        "examples": [
+          {
+            "text": "Applicants must hold a graduate degree to qualify for the fellowship.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "describe or portray the character or the qualities or peculiarities of",
+        "ko": "~로 규정하다, 특징짓다",
+        "synonyms": [
+          "characterize",
+          "describe",
+          "label"
+        ],
+        "examples": [
+          {
+            "text": "Historians qualify the early republic as a fragile experiment rather than a settled democracy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "qual",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "프랑스어 qualifier에서 왔고 quality('성질')에 -fy가 붙었습니다. 성질에 제한을 두어 한정한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "qualm",
+    "score": 46,
+    "zipf": 1.89,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A prick of the conscience; a moral scruple, a pang of guilt.",
+        "ko": "양심의 가책, 꺼림칙함",
+        "synonyms": [
+          "scruple",
+          "misgiving",
+          "compunction",
+          "twinge"
+        ],
+        "examples": [
+          {
+            "text": "This lawyer has no qualms about saving people who are on the wrong side of the law.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a mild state of nausea",
+        "ko": "메스꺼움",
+        "synonyms": [
+          "queasiness",
+          "nausea"
+        ],
+        "examples": [
+          {
+            "text": "A sudden qualm of seasickness forced her to leave the dinner table.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "quandary",
+    "score": 67,
+    "zipf": 2.6,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "state of uncertainty or perplexity especially as requiring a choice between equally unfavorable options",
+        "ko": "딜레마, 난처한 입장",
+        "synonyms": [
+          "dilemma",
+          "predicament",
+          "bind",
+          "plight"
+        ],
+        "examples": [
+          {
+            "text": "The mayor faced a quandary: raising taxes would anger voters, but cutting services would anger them more.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "quarantine",
+    "score": 25,
+    "zipf": 3.64,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "isolation to prevent the spread of infectious disease",
+        "ko": "격리, 검역",
+        "synonyms": [
+          "isolation",
+          "segregation",
+          "lockdown"
+        ],
+        "examples": [
+          {
+            "text": "Travelers arriving from the affected region were held in quarantine for two weeks.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "place into enforced isolation, as for medical reasons",
+        "ko": "격리하다",
+        "synonyms": [
+          "isolate",
+          "segregate",
+          "sequester"
+        ],
+        "examples": [
+          {
+            "text": "My dog was quarantined before he could live in England",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "quadr"
+    ],
+    "origin": {
+      "ko": "라틴어 quadrāgintā('40')에서 온 중세 라틴어 quarentena('40일')에서 왔습니다. 배를 40일 동안 격리하던 데서 나온 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "quash",
+    "score": 34,
+    "zipf": 2.75,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "declare invalid",
+        "ko": "무효로 하다, 기각하다",
+        "synonyms": [
+          "annul",
+          "nullify",
+          "void",
+          "overturn"
+        ],
+        "examples": [
+          {
+            "text": "The appeals court quashed the conviction after new evidence cast doubt on the verdict.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "put down by force or intimidation",
+        "ko": "진압하다, 억누르다",
+        "synonyms": [
+          "suppress",
+          "crush",
+          "quell",
+          "subdue"
+        ],
+        "examples": [
+          {
+            "text": "The army quashed the rebellion.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 quassāre('흔들다, 부수다')와 cassāre('무효로 하다')의 영향을 받은 고대 프랑스어에서 왔습니다. 판결을 부숴 무효로 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "quell",
+    "score": 31,
+    "zipf": 3.0,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "suppress or crush completely",
+        "ko": "진압하다, 억누르다",
+        "synonyms": [
+          "suppress",
+          "crush",
+          "subdue",
+          "squelch"
+        ],
+        "examples": [
+          {
+            "text": "Riot police moved in to quell the disturbance before it spread to other districts.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "overcome or allay",
+        "ko": "가라앉히다, 진정시키다",
+        "synonyms": [
+          "allay",
+          "calm",
+          "soothe",
+          "appease"
+        ],
+        "examples": [
+          {
+            "text": "The company's swift response did little to quell public fears about the product.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 cwellan('죽이다')에서 왔습니다. 완전히 죽이듯 억눌러 진압한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "querulous",
+    "score": 75,
+    "zipf": 1.61,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "habitually complaining",
+        "ko": "불평이 많은, 투덜거리는",
+        "synonyms": [
+          "complaining",
+          "petulant",
+          "whining",
+          "fretful"
+        ],
+        "examples": [
+          {
+            "text": "The querulous patient found fault with the food, the bed, and the nurses.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "quer(불평)",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 querulus('불평하는')에서 왔고 queror('불평하다')에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "quibble",
+    "score": 50,
+    "zipf": 2.69,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "argue over petty things",
+        "ko": "사소한 일로 따지다, 트집 잡다",
+        "synonyms": [
+          "cavil",
+          "bicker",
+          "nitpick",
+          "squabble"
+        ],
+        "examples": [
+          {
+            "text": "They are constantly quibbling over insignificant details.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an evasion of the point of an argument by raising irrelevant distinctions or objections",
+        "ko": "핑계, 사소한 트집",
+        "synonyms": [
+          "cavil",
+          "objection",
+          "evasion"
+        ],
+        "examples": [
+          {
+            "text": "Her only quibble with the proposal concerned the wording of a single footnote.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "quiescent",
+    "score": 67,
+    "zipf": 2.35,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "being quiet or still or inactive",
+        "ko": "고요한, 휴지 상태의, 정지한",
+        "synonyms": [
+          "dormant",
+          "inactive",
+          "still",
+          "latent"
+        ],
+        "examples": [
+          {
+            "text": "The volcano had been quiescent for centuries before the sudden eruption.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "qui",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 quiēscēns('쉬고 있는')에서 왔습니다. 움직임 없이 조용히 쉬는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "quip",
+    "score": 50,
+    "zipf": 2.67,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "witty remark",
+        "ko": "재치 있는 한마디, 경구",
+        "synonyms": [
+          "witticism",
+          "wisecrack",
+          "jest",
+          "epigram"
+        ],
+        "examples": [
+          {
+            "text": "The senator defused the tense hearing with a well-timed quip about the committee's coffee.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "quirky",
+    "score": 26,
+    "zipf": 3.53,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Given to quirks or idiosyncrasies; strange in a somewhat silly, awkward manner, potentially cute.",
+        "ko": "별난, 괴짜 같은",
+        "synonyms": [
+          "eccentric",
+          "offbeat",
+          "idiosyncratic",
+          "peculiar"
+        ],
+        "examples": [
+          {
+            "text": "The film's quirky humor and odd characters made it a cult favorite.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "quisling",
+    "score": 31,
+    "zipf": 2.01,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone who collaborates with an enemy occupying force",
+        "ko": "매국노, 적에게 협력하는 자",
+        "synonyms": [
+          "collaborator",
+          "traitor",
+          "turncoat"
+        ],
+        "examples": [
+          {
+            "text": "After the war, villagers shunned anyone suspected of being a quisling who had aided the occupiers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "2차 대전 중 나치에 협력한 노르웨이 정치인 비드쿤 크비슬링의 이름에서 왔습니다. 1940년에 처음 쓰였습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "quixotic",
+    "score": 82,
+    "zipf": 2.33,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not sensible about practical matters; idealistic and unrealistic",
+        "ko": "비현실적으로 이상주의적인, 돈키호테식의",
+        "synonyms": [
+          "idealistic",
+          "impractical",
+          "romantic",
+          "visionary"
+        ],
+        "examples": [
+          {
+            "text": "Critics called his plan to end poverty in a year a quixotic and hopelessly naive crusade.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "세르반테스의 소설 주인공 돈키호테(Quixote)에서 왔습니다. 풍차에 덤비는 그의 이상주의에서 '비현실적인'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "quotidian",
+    "score": 65,
+    "zipf": 2.23,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "found in the ordinary course of events",
+        "ko": "평범한, 일상적인",
+        "synonyms": [
+          "everyday",
+          "mundane",
+          "routine",
+          "commonplace"
+        ],
+        "examples": [
+          {
+            "text": "The poet finds beauty in quotidian details like laundry, traffic, and morning coffee.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Happening every day; daily.",
+        "ko": "매일 일어나는",
+        "synonyms": [
+          "daily",
+          "diurnal"
+        ],
+        "examples": [
+          {
+            "text": "Her quotidian routine began with a long walk before sunrise.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "di"
+    ],
+    "origin": {
+      "ko": "라틴어 quōtīdiānus('매일 일어나는')에서 왔습니다. '매일'이라는 뜻에서 '일상적인, 평범한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

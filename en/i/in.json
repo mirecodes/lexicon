@@ -1,0 +1,6430 @@
+[
+  {
+    "word": "inadvertent",
+    "score": 49,
+    "zipf": 2.79,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "happening by chance or unexpectedly or unintentionally",
+        "ko": "무심코 한, 고의가 아닌",
+        "synonyms": [
+          "unintentional",
+          "accidental",
+          "unwitting"
+        ],
+        "examples": [
+          {
+            "text": "We check everything because an inadvertent error could be disastrous.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "ad-",
+      "vert",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 inadvertēns에서 왔습니다. 마음을 그쪽으로 돌리지(advert) 않은 채 하는 행동이 '무심코 한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inanity",
+    "score": 30,
+    "zipf": 1.95,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "total lack of meaning or ideas",
+        "ko": "어리석음, 무의미함, 공허함",
+        "synonyms": [
+          "vacuity",
+          "senselessness",
+          "pointlessness",
+          "fatuity"
+        ],
+        "examples": [
+          {
+            "text": "The inanity of the talk show's banter left viewers wondering why they had bothered to tune in at all.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Something that is inane.",
+        "ko": "어리석은 말, 시시한 것",
+        "synonyms": [
+          "silliness",
+          "nonsense",
+          "folly"
+        ],
+        "examples": [
+          {
+            "text": "Working in any bureaucracy means being bedeviled by inanities daily.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 inānitās '텅 빈 상태'에서 프랑스어를 거쳐 왔습니다. 속이 텅 비어 '무의미함'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inarticulate",
+    "score": 34,
+    "zipf": 2.31,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "without or deprived of the use of speech or words",
+        "ko": "말을 못 하는, 분명하게 표현하지 못하는",
+        "synonyms": [
+          "speechless",
+          "tongue-tied",
+          "incoherent",
+          "mute"
+        ],
+        "examples": [
+          {
+            "text": "Overwhelmed by grief, the witness became inarticulate and could only shake his head when questioned.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "artic",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 inarticulātus에서 왔습니다. 말을 마디마디 또렷이 나누지 못해 분명히 표현하지 못합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inasmuch",
+    "score": 32,
+    "zipf": 2.87,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "In like degree; in like manner; to the same or similar degree; likewise.",
+        "ko": "~이므로, ~인 점에서 (inasmuch as)",
+        "synonyms": [
+          "since",
+          "because"
+        ],
+        "examples": [
+          {
+            "text": "The argument is persuasive inasmuch as it rests on evidence that independent researchers have repeatedly confirmed.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "in, as, much가 하나로 합쳐진 말입니다. '그만큼의 정도로'라는 뜻에서 '~인 점에서'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inborn",
+    "score": 35,
+    "zipf": 2.43,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Innate; possessed by an organism at birth.",
+        "ko": "타고난, 선천적인",
+        "synonyms": [
+          "innate",
+          "congenital",
+          "inherent",
+          "natural"
+        ],
+        "examples": [
+          {
+            "text": "inborn talent",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "in(안)과 born(태어난)의 합성어입니다. 태어날 때부터 몸 안에 갖고 있다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incandescent",
+    "score": 31,
+    "zipf": 3.02,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by ardent emotion or intensity or brilliance",
+        "ko": "열정적인, 눈부신, 빛나는",
+        "synonyms": [
+          "brilliant",
+          "dazzling",
+          "radiant",
+          "luminous"
+        ],
+        "examples": [
+          {
+            "text": "The incandescent performance enraptured the audience.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Emitting light as a result of being heated.",
+        "ko": "백열의, 열을 받아 빛을 내는",
+        "synonyms": [
+          "glowing",
+          "white-hot",
+          "luminous"
+        ],
+        "examples": [
+          {
+            "text": "The incandescent filament glowed steadily inside the glass bulb once the current reached it.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Extremely angry; furious.",
+        "ko": "격노한, 몹시 화난",
+        "synonyms": [
+          "furious",
+          "enraged",
+          "livid",
+          "seething"
+        ],
+        "examples": [
+          {
+            "text": "She is incandescent with rage because someone stole her wallet.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "cand",
+      "-escent"
+    ],
+    "origin": {
+      "ko": "라틴어 incandescō '달아오르다'에서 왔고 candidus(하얀)가 뿌리입니다. 하얗게 달아올라 빛나는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incarnadine",
+    "score": 40,
+    "zipf": 1.27,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make flesh-colored",
+        "ko": "붉게 물들이다, 핏빛으로 만들다",
+        "synonyms": [
+          "redden",
+          "crimson",
+          "blush"
+        ],
+        "examples": [
+          {
+            "text": "The setting sun seemed to incarnadine the clouds, turning the whole western sky a deep blood red.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "carn"
+    ],
+    "origin": {
+      "ko": "이탈리아어 incarnadino '살빛'에서 왔고 라틴어 carō(살)가 뿌리입니다. 살빛에서 핏빛 붉은색으로 물들이는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incendiary",
+    "score": 46,
+    "zipf": 3.05,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "arousing to action or rebellion",
+        "ko": "선동적인, 폭동을 부추기는",
+        "synonyms": [
+          "inflammatory",
+          "seditious",
+          "rabble-rousing",
+          "provocative"
+        ],
+        "examples": [
+          {
+            "text": "The senator's incendiary speech provoked angry protests outside the capitol within hours of its broadcast.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "involving deliberate burning of property",
+        "ko": "방화의, 불을 지르는",
+        "synonyms": [
+          "arson",
+          "flammable"
+        ],
+        "examples": [
+          {
+            "text": "Investigators concluded the warehouse blaze was caused by an incendiary device left near the loading dock.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "cend",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "라틴어 incendiārius '불을 지르는'에서 왔고 incendō(불붙이다)가 뿌리입니다. 불을 붙이듯 사람들을 부추기는 선동적인 말이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incense",
+    "score": 28,
+    "zipf": 3.27,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make furious",
+        "ko": "격분시키다, 몹시 화나게 하다",
+        "synonyms": [
+          "infuriate",
+          "enrage",
+          "exasperate",
+          "madden"
+        ],
+        "examples": [
+          {
+            "text": "The company's decision to cut pensions without warning incensed employees across the country.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a substance that produces a fragrant odor when burned",
+        "ko": "향, 향료",
+        "synonyms": [
+          "perfume",
+          "joss stick"
+        ],
+        "examples": [
+          {
+            "text": "The monks lit incense at dawn, and its sweet smoke drifted slowly through the stone hall.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "cens"
+    ],
+    "origin": {
+      "ko": "라틴어 incendō '불을 붙이다'에서 왔습니다. 마음에 불을 붙이듯 몹시 화나게 한다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incentive",
+    "score": 21,
+    "zipf": 3.97,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a positive motivational influence",
+        "ko": "유인, 동기, 장려책",
+        "synonyms": [
+          "inducement",
+          "motivation",
+          "stimulus",
+          "spur"
+        ],
+        "examples": [
+          {
+            "text": "Tax credits give homeowners a strong incentive to install solar panels on their roofs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "cant",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 incentīvus '곡조를 시작하는'에서 왔습니다. 노래를 선창해 분위기를 띄우듯 행동을 북돋는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incessant",
+    "score": 47,
+    "zipf": 3.03,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "uninterrupted in time and indefinitely long continuing",
+        "ko": "끊임없는, 쉴 새 없는",
+        "synonyms": [
+          "ceaseless",
+          "unremitting",
+          "perpetual",
+          "constant",
+          "relentless"
+        ],
+        "examples": [
+          {
+            "text": "The dog's incessant barking kept the girl awake all night.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "ced",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 incessāns '멈추지 않는'에서 왔습니다. 멈추지 않고 이어지는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inchoate",
+    "score": 80,
+    "zipf": 2.06,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "only partly in existence; imperfectly formed",
+        "ko": "막 시작된, 아직 형태가 갖춰지지 않은",
+        "synonyms": [
+          "incipient",
+          "rudimentary",
+          "embryonic",
+          "nascent",
+          "unformed"
+        ],
+        "examples": [
+          {
+            "text": "The inchoate plan had no budget, no timeline, and only a vague sense of purpose.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Chaotic, disordered, confused; also, incoherent, rambling.",
+        "ko": "혼란스러운, 두서없는",
+        "synonyms": [
+          "chaotic",
+          "disordered",
+          "incoherent",
+          "confused"
+        ],
+        "examples": [
+          {
+            "text": "His inchoate ramblings left the committee unsure what exactly he was proposing.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 incohātus '막 시작된, 미완성의'에서 왔고 incohō(시작하다)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incidental",
+    "score": 44,
+    "zipf": 3.31,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not of prime or central importance",
+        "ko": "부수적인, 부차적인",
+        "synonyms": [
+          "secondary",
+          "minor",
+          "nonessential",
+          "peripheral"
+        ],
+        "examples": [
+          {
+            "text": "That character, though colorful, is incidental to the overall plot.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "occurring with or following as a consequence",
+        "ko": "~에 따르는, 수반되는",
+        "synonyms": [
+          "attendant",
+          "concomitant",
+          "accompanying",
+          "resultant"
+        ],
+        "examples": [
+          {
+            "text": "Injuries are incidental to contact sports: they're going to happen.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "cad",
+      "-al"
+    ],
+    "origin": {
+      "ko": "중세 라틴어에서 왔고 라틴어 incidere(우연히 떨어지다)가 뿌리입니다. 우연히 곁들여 일어난다는 데서 '부수적인'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incipient",
+    "score": 68,
+    "zipf": 2.54,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "In an initial stage; beginning, starting, coming into existence.",
+        "ko": "초기의, 시작되는",
+        "synonyms": [
+          "nascent",
+          "budding",
+          "emerging",
+          "inchoate"
+        ],
+        "examples": [
+          {
+            "text": "After 500 years, incipient towns appeared.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "cap(잡다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 incipiēns '시작하는'에서 왔고 incipiō(시작하다)가 뿌리입니다. 막 손을 대기 시작한다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incisive",
+    "score": 49,
+    "zipf": 2.76,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having or demonstrating ability to recognize or draw fine distinctions",
+        "ko": "예리한, 날카로운",
+        "synonyms": [
+          "acute",
+          "keen",
+          "penetrating",
+          "trenchant",
+          "perceptive"
+        ],
+        "examples": [
+          {
+            "text": "The critic's incisive analysis exposed the flaw at the heart of the policy within a single paragraph.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "cis",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 incīsīvus '자르는'에서 왔고 incīdō(안으로 베다)가 뿌리입니다. 칼처럼 깊이 베어 들어가는 날카로운 통찰입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inclement",
+    "score": 49,
+    "zipf": 2.8,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(of weather or climate) severe",
+        "ko": "(날씨가) 궂은, 험악한",
+        "synonyms": [
+          "stormy",
+          "harsh",
+          "foul",
+          "severe"
+        ],
+        "examples": [
+          {
+            "text": "The marathon was postponed because of inclement weather that made the course dangerously slick.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "used of persons or behavior; showing no clemency or mercy",
+        "ko": "무자비한, 인정 없는",
+        "synonyms": [
+          "merciless",
+          "harsh",
+          "pitiless"
+        ],
+        "examples": [
+          {
+            "text": "The inclement judge handed down the harshest sentence the law allowed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "clem"
+    ],
+    "origin": {
+      "ko": "라틴어 inclēmēns '인정사정없는, 거친'에서 왔습니다. clēmēns(온화한)에 부정 접두사가 붙어 궂은 날씨를 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inclined",
+    "score": 38,
+    "zipf": 3.87,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having a tendency, preference, likelihood, or disposition.",
+        "ko": "~하는 경향이 있는, ~하고 싶은",
+        "synonyms": [
+          "disposed",
+          "prone",
+          "apt",
+          "liable"
+        ],
+        "examples": [
+          {
+            "text": "I am inclined to believe you.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "At an angle to the horizontal; slanted or sloped.",
+        "ko": "기울어진, 경사진",
+        "synonyms": [
+          "sloping",
+          "slanted",
+          "tilted"
+        ],
+        "examples": [
+          {
+            "text": "The take-off ramp was inclined at 20 degrees.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "clin"
+    ],
+    "origin": {
+      "ko": "incline(기울다)에서 온 말입니다. 마음이 어떤 쪽으로 기울어 있어 '~하는 경향이 있는'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inclusive",
+    "score": 21,
+    "zipf": 3.97,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Including (almost) everything within its scope.",
+        "ko": "포괄적인, 모든 것을 포함하는",
+        "synonyms": [
+          "comprehensive",
+          "all-embracing",
+          "sweeping",
+          "exhaustive"
+        ],
+        "examples": [
+          {
+            "text": "An inclusive study of the region's history must consider the voices of its minority communities.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Including the extremes as well as the area between.",
+        "ko": "양 끝을 포함하는",
+        "synonyms": [
+          "including"
+        ],
+        "examples": [
+          {
+            "text": "numbers 1 to 10 inclusive",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "clud",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 inclūsīvus에서 왔고 라틴어 inclūsus(안에 닫힌)가 뿌리입니다. 모든 것을 울타리 안에 넣는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incongruity",
+    "score": 33,
+    "zipf": 2.2,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the quality of disagreeing; being unsuitable and inappropriate",
+        "ko": "부조화, 어울리지 않음",
+        "synonyms": [
+          "incongruousness",
+          "discrepancy",
+          "inconsistency",
+          "disparity"
+        ],
+        "examples": [
+          {
+            "text": "The incongruity of a marble fountain in the middle of the desert amused every passing tourist.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "con-",
+      "gru",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 incongruitās에서 왔습니다. 서로 함께 맞아떨어지지 않는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incongruous",
+    "score": 66,
+    "zipf": 2.69,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking in harmony or compatibility or appropriateness",
+        "ko": "어울리지 않는, 조화되지 않는",
+        "synonyms": [
+          "incompatible",
+          "out of place",
+          "discordant",
+          "inappropriate"
+        ],
+        "examples": [
+          {
+            "text": "The glass tower looked incongruous beside the centuries-old stone cottages of the village.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "con-",
+      "gru",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 incongruus에서 왔습니다. congruus(함께 맞는)에 부정 접두사가 붙어 어울리지 않는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inconsequential",
+    "score": 48,
+    "zipf": 2.86,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking worth or importance",
+        "ko": "하찮은, 중요하지 않은",
+        "synonyms": [
+          "trivial",
+          "negligible",
+          "insignificant",
+          "trifling"
+        ],
+        "examples": [
+          {
+            "text": "The error was inconsequential and had no effect on the final results of the experiment.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not following logically as a consequence",
+        "ko": "논리적 귀결이 아닌, 앞뒤가 맞지 않는",
+        "synonyms": [
+          "illogical",
+          "irrelevant",
+          "disconnected"
+        ],
+        "examples": [
+          {
+            "text": "His conclusion was inconsequential, since it did not follow from any of the premises he had listed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "con-",
+      "sequ",
+      "-al"
+    ],
+    "origin": {
+      "ko": "consequential(결과가 따르는, 중요한)에 부정 접두사가 붙은 말입니다. 따라오는 결과가 없을 만큼 하찮다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inconstancy",
+    "score": 27,
+    "zipf": 1.57,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the quality of being changeable and variable",
+        "ko": "변덕, 변하기 쉬움",
+        "synonyms": [
+          "fickleness",
+          "changeability",
+          "volatility",
+          "capriciousness"
+        ],
+        "examples": [
+          {
+            "text": "The inconstancy of public opinion made it nearly impossible for pollsters to predict the election's outcome.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "unfaithfulness by virtue of being unreliable or treacherous",
+        "ko": "신의 없음, 불성실",
+        "synonyms": [
+          "faithlessness",
+          "disloyalty",
+          "falseness"
+        ],
+        "examples": [
+          {
+            "text": "His inconstancy in friendship left former allies unwilling to trust him again.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "con-",
+      "st"
+    ],
+    "origin": {
+      "ko": "in-(않는)에 constancy(꾸준함)가 붙은 말입니다. 한자리에 굳게 서 있지 못하는 변덕을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incontrovertible",
+    "score": 68,
+    "zipf": 2.46,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "impossible to deny or disprove",
+        "ko": "논란의 여지가 없는, 반박할 수 없는",
+        "synonyms": [
+          "irrefutable",
+          "indisputable",
+          "undeniable",
+          "unassailable"
+        ],
+        "examples": [
+          {
+            "text": "incontrovertible evidence",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "contra-",
+      "vert",
+      "-able"
+    ],
+    "origin": {
+      "ko": "controvert(반박하다)에 부정 접두사가 붙은 말입니다. 반대쪽으로 돌려세울 수 없으니 반박할 수 없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incorporate",
+    "score": 22,
+    "zipf": 3.85,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make into a whole or make part of a whole",
+        "ko": "통합하다, 포함시키다",
+        "synonyms": [
+          "integrate",
+          "include",
+          "merge",
+          "absorb"
+        ],
+        "examples": [
+          {
+            "text": "She incorporated his suggestions into her proposal",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To form into a legal company.",
+        "ko": "법인으로 만들다, 법인화하다",
+        "synonyms": [
+          "constitute",
+          "establish"
+        ],
+        "examples": [
+          {
+            "text": "The company was incorporated in 1980.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "corp",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 incorporō '몸으로 만들다'에서 왔습니다. 하나의 몸(corpus) 안으로 넣어 통합한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incorrigible",
+    "score": 68,
+    "zipf": 2.51,
+    "lists": [
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "impervious to correction by punishment",
+        "ko": "고질적인, 교정할 수 없는",
+        "synonyms": [
+          "unreformable",
+          "hardened",
+          "irredeemable",
+          "inveterate"
+        ],
+        "examples": [
+          {
+            "text": "The incorrigible prankster ignored every detention and kept scheming new tricks to play on his teachers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "difficult or impossible to manage or control",
+        "ko": "다루기 힘든, 통제 불가능한",
+        "synonyms": [
+          "unmanageable",
+          "unruly",
+          "intractable"
+        ],
+        "examples": [
+          {
+            "text": "The committee found the backlog incorrigible, since no reorganization had ever managed to tame it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "con-",
+      "rig(바로잡다)",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 incorrigibilis '고칠 수 없는'에서 왔습니다. corrigere(바로잡다)에 부정 접두사가 붙었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incredulous",
+    "score": 65,
+    "zipf": 2.81,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not disposed or willing to believe; unbelieving",
+        "ko": "믿지 않는, 의심 많은",
+        "synonyms": [
+          "skeptical",
+          "disbelieving",
+          "doubtful",
+          "unconvinced"
+        ],
+        "examples": [
+          {
+            "text": "The jury listened with incredulous expressions as the defendant described his improbable alibi.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "cred",
+      "-ulous"
+    ],
+    "origin": {
+      "ko": "라틴어 incrēdulus '믿지 않는'에서 왔습니다. 믿지(cred) 않는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inculcate",
+    "score": 66,
+    "zipf": 2.29,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "teach and impress by frequent repetitions or admonitions",
+        "ko": "(되풀이하여) 가르쳐 주입하다, 심어주다",
+        "synonyms": [
+          "instill",
+          "implant",
+          "ingrain",
+          "impress"
+        ],
+        "examples": [
+          {
+            "text": "inculcate values into the young generation",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "calc",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 inculcō '밟아 넣다, 강요하다'에서 왔고 calx(발뒤꿈치)가 뿌리입니다. 발로 꾹꾹 밟아 다지듯 되풀이해 새겨 넣는다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "incumbent",
+    "score": 23,
+    "zipf": 3.77,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "necessary (for someone) as a duty or responsibility; morally binding",
+        "ko": "~의 의무인, 의무로 지워진",
+        "synonyms": [
+          "obligatory",
+          "binding",
+          "mandatory"
+        ],
+        "examples": [
+          {
+            "text": "it is incumbent on them to pay their own debts",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "currently holding an office",
+        "ko": "현직의, 재임 중인",
+        "synonyms": [
+          "serving",
+          "sitting",
+          "officeholding"
+        ],
+        "examples": [
+          {
+            "text": "the incumbent governor",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the official who holds an office",
+        "ko": "현직자, 재임자",
+        "synonyms": [
+          "officeholder"
+        ],
+        "examples": [
+          {
+            "text": "The incumbent narrowly defeated her challenger after a bitter and expensive campaign.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "cumb",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 incumbēns '기대고 누운'에서 왔고 incumbō(위에 얹히다)가 뿌리입니다. 어깨 위에 얹힌 책임이 '의무로 지워진'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indecorous",
+    "score": 43,
+    "zipf": 1.57,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking propriety and good taste in manners and conduct",
+        "ko": "예의에 어긋나는, 품위 없는",
+        "synonyms": [
+          "improper",
+          "unseemly",
+          "indelicate",
+          "unbecoming"
+        ],
+        "examples": [
+          {
+            "text": "The guest's indecorous remarks at the funeral shocked the grieving family.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "decor",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 indecōrus에서 왔습니다. decorous(품위 있는)에 부정 접두사가 붙었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indefatigable",
+    "score": 52,
+    "zipf": 2.55,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing sustained enthusiastic action with unflagging vitality",
+        "ko": "지칠 줄 모르는, 불굴의",
+        "synonyms": [
+          "tireless",
+          "untiring",
+          "unflagging",
+          "inexhaustible",
+          "persevering"
+        ],
+        "examples": [
+          {
+            "text": "an indefatigable advocate of equal rights",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "de-",
+      "fatig",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 indēfatīgābilis '지치지 않는'에서 왔습니다. 완전히 지칠 수 없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indemnify",
+    "score": 35,
+    "zipf": 2.61,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "secure against future loss, damage, or liability; give security for",
+        "ko": "손해를 보상하기로 보증하다, 보호하다",
+        "synonyms": [
+          "insure",
+          "safeguard",
+          "protect",
+          "guarantee"
+        ],
+        "examples": [
+          {
+            "text": "The contract indemnifies the landlord against any claims arising from damage caused by tenants.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To compensate or reimburse someone for some expense or injury.",
+        "ko": "배상하다, 변상하다",
+        "synonyms": [
+          "compensate",
+          "reimburse",
+          "recompense",
+          "repay"
+        ],
+        "examples": [
+          {
+            "text": "The insurer agreed to indemnify the family for the full cost of rebuilding their flooded home.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "dam(손해)",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "indemn(다치지 않은)에 -ify가 붙은 말입니다. 손해를 입지 않은 상태로 되돌려 놓는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indeterminate",
+    "score": 32,
+    "zipf": 2.88,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not precisely determined or established; not fixed or known in advance",
+        "ko": "불확정의, 정해지지 않은",
+        "synonyms": [
+          "undetermined",
+          "undefined",
+          "unspecified",
+          "uncertain"
+        ],
+        "examples": [
+          {
+            "text": "of indeterminate age",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of uncertain or ambiguous nature",
+        "ko": "애매한, 모호한",
+        "synonyms": [
+          "ambiguous",
+          "vague",
+          "equivocal"
+        ],
+        "examples": [
+          {
+            "text": "The painting's indeterminate shapes could be read as either clouds or waves, depending on the viewer.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "de-",
+      "termin",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "determinate(경계가 정해진)에 부정 접두사가 붙은 말입니다. 경계(terminus)가 확정되지 않은 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indication",
+    "score": 20,
+    "zipf": 4.06,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "something that serves to indicate or suggest",
+        "ko": "징후, 조짐, 암시",
+        "synonyms": [
+          "sign",
+          "signal",
+          "hint",
+          "symptom",
+          "clue"
+        ],
+        "examples": [
+          {
+            "text": "There's no indication that the fire was caused by criminals.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dic",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "라틴어 indicātiō에서 왔고 indicō(가리키다)가 뿌리입니다. 손가락으로 가리켜 보여 주는 것이 '징후'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indict",
+    "score": 32,
+    "zipf": 2.85,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "accuse formally of a crime",
+        "ko": "기소하다, 고발하다",
+        "synonyms": [
+          "charge",
+          "accuse",
+          "arraign",
+          "prosecute"
+        ],
+        "examples": [
+          {
+            "text": "his former manager was indicted for fraud",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To accuse of wrongdoing; charge.",
+        "ko": "비난하다, 규탄하다",
+        "synonyms": [
+          "condemn",
+          "denounce",
+          "censure"
+        ],
+        "examples": [
+          {
+            "text": "a book that indicts modern values",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "dic"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 enditer '받아 적게 하다'에서 왔고 라틴어 dicere(말하다)가 뿌리입니다. 죄를 공식적으로 말해 선언하는 것이 '기소하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indictment",
+    "score": 24,
+    "zipf": 3.7,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an accusation of wrongdoing",
+        "ko": "비난, 규탄",
+        "synonyms": [
+          "condemnation",
+          "censure",
+          "denunciation"
+        ],
+        "examples": [
+          {
+            "text": "the book is an indictment of modern philosophy",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a formal document written for a prosecuting attorney charging a person with some offense",
+        "ko": "기소(장), 공소",
+        "synonyms": [
+          "charge",
+          "accusation",
+          "arraignment"
+        ],
+        "examples": [
+          {
+            "text": "The grand jury returned an indictment against the mayor on three counts of bribery.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "dic",
+      "-ment"
+    ],
+    "origin": {
+      "ko": "중세영어 endytement '고발 행위'에서 왔고 라틴어 dicere(말하다)가 뿌리입니다. 잘못을 공식적으로 말해 고발하는 일입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indifference",
+    "score": 28,
+    "zipf": 3.34,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the trait of lacking enthusiasm for or interest in things generally",
+        "ko": "무관심, 냉담",
+        "synonyms": [
+          "apathy",
+          "unconcern",
+          "detachment",
+          "disinterest"
+        ],
+        "examples": [
+          {
+            "text": "Voter indifference was blamed for the record-low turnout in the local election.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "unbiased impartial unconcern",
+        "ko": "공평함, 편견 없음",
+        "synonyms": [
+          "impartiality",
+          "neutrality",
+          "objectivity"
+        ],
+        "examples": [
+          {
+            "text": "The arbiter's indifference between the two parties reassured both sides that the ruling would be fair.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "dis-",
+      "fer",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 indifferentia에서 왔습니다. 둘 사이에 차이를 두지 않아 어느 쪽에도 마음이 가지 않는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indifferent",
+    "score": 27,
+    "zipf": 3.44,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing no care or concern in attitude or action",
+        "ko": "무관심한, 냉담한",
+        "synonyms": [
+          "apathetic",
+          "unconcerned",
+          "detached",
+          "aloof"
+        ],
+        "examples": [
+          {
+            "text": "indifferent to the sufferings of others",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "fairly poor to not very good",
+        "ko": "평범한, 시원찮은",
+        "synonyms": [
+          "mediocre",
+          "middling",
+          "undistinguished",
+          "so-so"
+        ],
+        "examples": [
+          {
+            "text": "has an indifferent singing voice",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "dis-",
+      "fer",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 indifferēns에서 왔습니다. 차이(different)를 두지 않아 어느 쪽에도 마음이 쏠리지 않는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indigence",
+    "score": 27,
+    "zipf": 1.57,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a state of extreme poverty or destitution",
+        "ko": "극심한 가난, 궁핍",
+        "synonyms": [
+          "poverty",
+          "penury",
+          "destitution",
+          "need"
+        ],
+        "examples": [
+          {
+            "text": "Having lost his business, he lived out his final years in indigence, relying on charity for meals.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "eg",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "라틴어 indigentia에서 왔고 indigēre(필요로 하다)가 뿌리입니다. 필요한 것이 모자란 극심한 가난입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indigenous",
+    "score": 35,
+    "zipf": 4.16,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "originating where it is found",
+        "ko": "토착의, 고유의",
+        "synonyms": [
+          "native",
+          "endemic",
+          "aboriginal",
+          "autochthonous"
+        ],
+        "examples": [
+          {
+            "text": "That style of pottery is indigenous to that region.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Innate, inborn.",
+        "ko": "타고난, 선천적인",
+        "synonyms": [
+          "innate",
+          "inborn",
+          "inherent"
+        ],
+        "examples": [
+          {
+            "text": "Her indigenous talent for languages let her pick up new tongues with almost no formal study.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "gen",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 indigenus '그 땅에서 태어난'에서 왔습니다. 안에서(indi) 태어난(gen) 토착의 존재입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indigent",
+    "score": 34,
+    "zipf": 2.68,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "poor enough to need help from others",
+        "ko": "가난한, 궁핍한",
+        "synonyms": [
+          "destitute",
+          "impoverished",
+          "needy",
+          "penniless"
+        ],
+        "examples": [
+          {
+            "text": "The clinic provides free care to indigent patients who cannot afford insurance.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "eg",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 indigēns '필요로 하는'에서 왔고 indigeō(부족하다)가 뿌리입니다. 필요한 것이 없는 가난한 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indignant",
+    "score": 64,
+    "zipf": 2.86,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "angered at something unjust or wrong",
+        "ko": "분개한, 성난",
+        "synonyms": [
+          "incensed",
+          "outraged",
+          "resentful",
+          "irate"
+        ],
+        "examples": [
+          {
+            "text": "Indignant residents packed the town hall to protest the unfair closure of their school.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "dign",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 indignor '부당하다고 여기다'에서 왔고 dignus(합당한)가 뿌리입니다. 부당하다고 느끼니 분개하는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indiscriminate",
+    "score": 31,
+    "zipf": 3.0,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "failing to make or recognize distinctions",
+        "ko": "무분별한, 닥치는 대로의",
+        "synonyms": [
+          "undiscriminating",
+          "random",
+          "haphazard",
+          "wholesale"
+        ],
+        "examples": [
+          {
+            "text": "The indiscriminate use of antibiotics has contributed to the rise of drug-resistant bacteria.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "dis-",
+      "cern",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "discriminate(구별하다)에 부정 접두사가 붙은 말입니다. 가려내지 않고 닥치는 대로 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indispensable",
+    "score": 28,
+    "zipf": 3.34,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not to be dispensed with; essential",
+        "ko": "없어서는 안 될, 필수적인",
+        "synonyms": [
+          "essential",
+          "vital",
+          "crucial",
+          "requisite"
+        ],
+        "examples": [
+          {
+            "text": "foods indispensable to good nutrition",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "dis-",
+      "pend",
+      "-able"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 indispensābilis에서 왔습니다. 빼고 나눠 줄 수 없을 만큼 꼭 있어야 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indite",
+    "score": 25,
+    "zipf": 1.42,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "produce a literary work",
+        "ko": "(글을) 쓰다, 짓다",
+        "synonyms": [
+          "compose",
+          "write",
+          "pen",
+          "draft"
+        ],
+        "examples": [
+          {
+            "text": "The poet retired to a cottage by the sea to indite a long elegy for her late mentor.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "dic"
+    ],
+    "origin": {
+      "ko": "indict의 변형으로, 후기 라틴어 indictāre에서 왔습니다. 말한 것을 글로 받아 적는 데서 '쓰다, 짓다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "indolent",
+    "score": 66,
+    "zipf": 2.26,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "disinclined to work or exertion",
+        "ko": "게으른, 나태한",
+        "synonyms": [
+          "lazy",
+          "slothful",
+          "idle",
+          "lethargic",
+          "torpid"
+        ],
+        "examples": [
+          {
+            "text": "The indolent girl resisted doing her homework.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "dol(슬픔)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 indolēns '아프지 않은'에서 왔습니다. 고통을 느끼지 않으니 애써 일하지 않는 나태함이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "industrious",
+    "score": 49,
+    "zipf": 2.79,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by hard work and perseverance",
+        "ko": "근면한, 부지런한",
+        "synonyms": [
+          "diligent",
+          "hardworking",
+          "assiduous",
+          "sedulous"
+        ],
+        "examples": [
+          {
+            "text": "He was a very industrious student at school.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 industria '부지런함'에서 후기 라틴어 industriōsus와 프랑스어를 거쳐 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ineffable",
+    "score": 51,
+    "zipf": 2.41,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "defying expression or description",
+        "ko": "말로 표현할 수 없는, 형언할 수 없는",
+        "synonyms": [
+          "indescribable",
+          "inexpressible",
+          "unutterable",
+          "unspeakable"
+        ],
+        "examples": [
+          {
+            "text": "Standing before the vast canyon at dawn, she felt an ineffable calm that no words could capture.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "ex-",
+      "fa",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 ineffābilis에서 왔습니다. 밖으로(ex) 말해 낼(fa) 수 없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ineluctable",
+    "score": 44,
+    "zipf": 1.75,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "impossible to avoid or evade",
+        "ko": "피할 수 없는, 불가피한",
+        "synonyms": [
+          "inescapable",
+          "unavoidable",
+          "inevitable",
+          "inexorable"
+        ],
+        "examples": [
+          {
+            "text": "Historians debate whether the empire's collapse was an ineluctable outcome of its economic decline.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "ex-",
+      "luct",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 inēlūctābilis에서 왔습니다. 몸부림쳐 빠져나올(ēluctor) 수 없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inequity",
+    "score": 35,
+    "zipf": 2.59,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "injustice by virtue of not conforming with rules or standards",
+        "ko": "불공평, 부당함",
+        "synonyms": [
+          "injustice",
+          "unfairness",
+          "bias",
+          "partiality"
+        ],
+        "examples": [
+          {
+            "text": "The report highlights the inequity in funding between wealthy and poor school districts.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "equ",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "in-(않는)에 equity(공평)가 붙은 말입니다. 공평하지 않은 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inert",
+    "score": 30,
+    "zipf": 3.09,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "slow and apathetic",
+        "ko": "활기 없는, 무기력한",
+        "synonyms": [
+          "sluggish",
+          "torpid",
+          "lethargic",
+          "passive"
+        ],
+        "examples": [
+          {
+            "text": "After the heavy meal, the guests lay inert on the sofas, too sleepy to continue the conversation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having only a limited ability to react chemically; chemically inactive",
+        "ko": "비활성의, 화학적으로 반응하지 않는",
+        "synonyms": [
+          "unreactive",
+          "inactive",
+          "neutral"
+        ],
+        "examples": [
+          {
+            "text": "Argon is an inert gas, so it is often used to protect metals during welding.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "unable to move or resist motion",
+        "ko": "움직일 수 없는, 정지한",
+        "synonyms": [
+          "motionless",
+          "immobile",
+          "inanimate"
+        ],
+        "examples": [
+          {
+            "text": "The inert body of the fallen tree blocked the narrow mountain road for two days.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 inerte를 거쳐 라틴어 iners '활동하지 않는'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inexorable",
+    "score": 67,
+    "zipf": 2.57,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "impervious to pleas, persuasion, requests, reason",
+        "ko": "무정한, 설득이 통하지 않는",
+        "synonyms": [
+          "relentless",
+          "implacable",
+          "adamant",
+          "unyielding"
+        ],
+        "examples": [
+          {
+            "text": "The inexorable negotiator ignored every plea for a compromise and held to his original terms.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Impossible to prevent or stop; inevitable.",
+        "ko": "막을 수 없는, 불가피한",
+        "synonyms": [
+          "inevitable",
+          "inescapable",
+          "unstoppable",
+          "ineluctable"
+        ],
+        "examples": [
+          {
+            "text": "The inexorable advance of the glacier eventually buried the village under a wall of ice.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "ex-",
+      "or(말하다)",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 inexōrābilis에서 왔고 ōs(입)가 뿌리입니다. 간청해서 마음을 움직일 수 없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "infallible",
+    "score": 47,
+    "zipf": 3.02,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "incapable of failure or error",
+        "ko": "오류가 없는, 틀림없는",
+        "synonyms": [
+          "unerring",
+          "faultless",
+          "unfailing",
+          "perfect"
+        ],
+        "examples": [
+          {
+            "text": "No scientific method is infallible, which is why findings must be replicated by independent teams.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Certain to produce the intended effect; sure.",
+        "ko": "틀림없이 효과가 있는, 확실한",
+        "synonyms": [
+          "sure",
+          "certain",
+          "foolproof",
+          "dependable"
+        ],
+        "examples": [
+          {
+            "text": "Try this infallible cure for hiccups.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "fall",
+      "-able"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 īnfallibilis에서 왔습니다. fallibilis(틀릴 수 있는)에 부정 접두사가 붙었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "infelicitous",
+    "score": 23,
+    "zipf": 1.17,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not appropriate in application; defective",
+        "ko": "부적절한, 서투른",
+        "synonyms": [
+          "inappropriate",
+          "unfortunate",
+          "awkward",
+          "ill-chosen"
+        ],
+        "examples": [
+          {
+            "text": "an infelicitous remark",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "marked by or producing unhappiness",
+        "ko": "불행한, 불운한",
+        "synonyms": [
+          "unhappy",
+          "unfortunate",
+          "unlucky"
+        ],
+        "examples": [
+          {
+            "text": "infelicitous circumstances",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "felic",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "felicitous(알맞은)에 부정 접두사가 붙은 말입니다. 라틴어 fēlix(행복한)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "infest",
+    "score": 36,
+    "zipf": 2.54,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "invade in great numbers",
+        "ko": "(해충 등이) 들끓다, 만연하다",
+        "synonyms": [
+          "overrun",
+          "plague",
+          "swarm",
+          "beset"
+        ],
+        "examples": [
+          {
+            "text": "the roaches infested our kitchen",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 īnfestus '적대적인'에서 고대 프랑스어 infester를 거쳐 왔습니다. 해로운 것이 떼로 들이닥쳐 괴롭힌다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inflammable",
+    "score": 32,
+    "zipf": 2.14,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "easily ignited",
+        "ko": "불붙기 쉬운, 가연성의",
+        "synonyms": [
+          "flammable",
+          "combustible",
+          "ignitable"
+        ],
+        "examples": [
+          {
+            "text": "Workers were warned to keep inflammable solvents away from the heaters in the storage room.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Easily excited; set off by the slightest excuse; easily enraged or inflamed.",
+        "ko": "흥분하기 쉬운, 화를 잘 내는",
+        "synonyms": [
+          "volatile",
+          "hot-headed",
+          "excitable",
+          "fiery"
+        ],
+        "examples": [
+          {
+            "text": "With tempers already inflammable after the long strike, a single insult was enough to spark a brawl.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "flamm",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 īnflammāre '불을 붙이다'에서 왔습니다. 불꽃(flamma)이 붙을 수 있다는 뜻으로, in-은 부정이 아니라 '안으로'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inflammatory",
+    "score": 24,
+    "zipf": 3.72,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "arousing to action or rebellion",
+        "ko": "선동적인, 격앙시키는",
+        "synonyms": [
+          "incendiary",
+          "provocative",
+          "rabble-rousing",
+          "seditious"
+        ],
+        "examples": [
+          {
+            "text": "Sam posted an inflammatory comment to the newsgroup.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "characterized or caused by inflammation",
+        "ko": "염증성의, 염증을 일으키는",
+        "synonyms": [
+          "swollen",
+          "irritated"
+        ],
+        "examples": [
+          {
+            "text": "Doctors prescribed a drug to reduce the inflammatory response in her damaged joints.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "flamm",
+      "-ory"
+    ],
+    "origin": {
+      "ko": "라틴어 īnflammātōrius에서 왔습니다. 마음에 불꽃을 일으켜 사람들을 격앙시킨다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inform",
+    "score": 36,
+    "zipf": 4.15,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "give character or essence to",
+        "ko": "~에 영향을 주다, 특징을 부여하다",
+        "synonyms": [
+          "influence",
+          "shape",
+          "permeate",
+          "animate"
+        ],
+        "examples": [
+          {
+            "text": "His sense of religion informs everything he writes.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "act as an informer",
+        "ko": "밀고하다, 고발하다",
+        "synonyms": [
+          "betray",
+          "denounce",
+          "snitch"
+        ],
+        "examples": [
+          {
+            "text": "She had informed on her own parents for years",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "impart knowledge of some fact, state of affairs, or event to",
+        "ko": "알리다, 통지하다",
+        "synonyms": [
+          "notify",
+          "apprise",
+          "advise",
+          "tell"
+        ],
+        "examples": [
+          {
+            "text": "I informed him of his rights",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "form"
+    ],
+    "origin": {
+      "ko": "라틴어 īnfōrmō '형태를 만들다, 가르치다'에서 왔습니다. 안에 모양(form)을 새겨 특징을 부여한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ingenious",
+    "score": 28,
+    "zipf": 3.35,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing inventiveness and skill",
+        "ko": "독창적인, 재치 있는",
+        "synonyms": [
+          "inventive",
+          "clever",
+          "resourceful",
+          "creative"
+        ],
+        "examples": [
+          {
+            "text": "That is an ingenious model of the atom.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "gen",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 ingenium '타고난 재능'에서 왔습니다. 몸 안에 타고난 재능이 있다는 데서 '독창적인'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ingenue",
+    "score": 32,
+    "zipf": 2.13,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an artless innocent young girl (especially as portrayed on the stage)",
+        "ko": "순진한 젊은 여자, 순진한 아가씨 역",
+        "synonyms": [
+          "naif",
+          "innocent"
+        ],
+        "examples": [
+          {
+            "text": "The director cast her as the wide-eyed ingenue who is gradually drawn into the city's corrupt politics.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "gen"
+    ],
+    "origin": {
+      "ko": "프랑스어 ingénu(순진한)의 여성형이고, 라틴어 ingenuus에서 왔습니다. 무대의 순진한 아가씨 역을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ingenuity",
+    "score": 29,
+    "zipf": 3.23,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the power of creative imagination",
+        "ko": "독창성, 창의력, 재간",
+        "synonyms": [
+          "inventiveness",
+          "resourcefulness",
+          "cleverness",
+          "originality"
+        ],
+        "examples": [
+          {
+            "text": "The pyramids demonstrate the ingenuity of the ancient Egyptians.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "gen",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 ingenuitās에서 왔고 genius(타고난 재능)와 가까운 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ingenuous",
+    "score": 62,
+    "zipf": 1.92,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by an inability to mask your feelings; not devious",
+        "ko": "솔직한, 꾸밈없는",
+        "synonyms": [
+          "artless",
+          "candid",
+          "guileless",
+          "open"
+        ],
+        "examples": [
+          {
+            "text": "The child's ingenuous admission that he had eaten the cake made the whole room laugh.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Naive and trusting.",
+        "ko": "순진한, 천진난만한",
+        "synonyms": [
+          "naive",
+          "innocent",
+          "trusting",
+          "unsophisticated"
+        ],
+        "examples": [
+          {
+            "text": "Only an ingenuous investor would trust a stranger who promised guaranteed returns of fifty percent.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "gen",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 ingenuus '고귀한 성품의, 솔직한'에서 왔습니다. 타고난 그대로 꾸밈이 없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ingrained",
+    "score": 62,
+    "zipf": 3.08,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(used especially of ideas or principles) deeply rooted; firmly fixed or held",
+        "ko": "깊이 배어든, 뿌리 깊은",
+        "synonyms": [
+          "deep-rooted",
+          "deep-seated",
+          "entrenched",
+          "inveterate"
+        ],
+        "examples": [
+          {
+            "text": "Habits of obedience were so ingrained in the soldiers that they hesitated even when the order was clearly mistaken.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "ingrain(깊이 스며들게 하다)에 -ed가 붙은 말입니다. 깊이 배어 뿌리 박힌 상태를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ingrate",
+    "score": 47,
+    "zipf": 1.98,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who shows no gratitude",
+        "ko": "배은망덕한 사람",
+        "synonyms": [
+          "thankless wretch",
+          "ungrateful person"
+        ],
+        "examples": [
+          {
+            "text": "After all the help he had received, he proved an ingrate who never once thanked his benefactors.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "grat"
+    ],
+    "origin": {
+      "ko": "라틴어 ingrātus '달갑지 않은'에서 왔습니다. 고마움(grat)을 모르는 사람이라는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ingratiate",
+    "score": 81,
+    "zipf": 2.24,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "gain favor with somebody by deliberate efforts",
+        "ko": "환심을 사다, 비위를 맞추다",
+        "synonyms": [
+          "curry favor",
+          "insinuate",
+          "fawn",
+          "flatter"
+        ],
+        "examples": [
+          {
+            "text": "The new intern tried to ingratiate himself with the director by praising every idea she proposed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "grat"
+    ],
+    "origin": {
+      "ko": "라틴어 in grātiam '~의 호의를 얻으려고'에서 왔습니다. 남의 호감 속으로 파고든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inherent",
+    "score": 39,
+    "zipf": 3.83,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "existing as an essential constituent or characteristic",
+        "ko": "내재하는, 본질적인",
+        "synonyms": [
+          "intrinsic",
+          "innate",
+          "built-in",
+          "essential",
+          "integral"
+        ],
+        "examples": [
+          {
+            "text": "Some risk is inherent in any investment, however carefully the portfolio is diversified.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "her"
+    ],
+    "origin": {
+      "ko": "라틴어 inhaerēre '~에 딱 붙어 있다'에서 왔습니다. 안에 붙어 떨어지지 않으니 '본질적인'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inhibit",
+    "score": 28,
+    "zipf": 3.34,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "limit, block, or decrease the action or function of",
+        "ko": "억제하다, 저해하다",
+        "synonyms": [
+          "impede",
+          "hinder",
+          "restrain",
+          "curb",
+          "suppress"
+        ],
+        "examples": [
+          {
+            "text": "inhibit the action of the enzyme",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make (someone) self-conscious and as a result unable to act naturally",
+        "ko": "위축시키다, 거리끼게 하다",
+        "synonyms": [
+          "embarrass",
+          "discourage",
+          "intimidate"
+        ],
+        "examples": [
+          {
+            "text": "Having the teacher watch from the back of the room inhibited the shy students from speaking.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "hab"
+    ],
+    "origin": {
+      "ko": "라틴어 inhibēre '붙들어 두다, 억제하다'에서 왔습니다. 안에 붙잡아 움직이지 못하게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inimical",
+    "score": 97,
+    "zipf": 2.17,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Harmful in effect.",
+        "ko": "해로운, 불리한",
+        "synonyms": [
+          "harmful",
+          "detrimental",
+          "adverse",
+          "injurious"
+        ],
+        "examples": [
+          {
+            "text": "Policies inimical to small businesses drove many shopkeepers out of the city center.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not friendly",
+        "ko": "적대적인, 비우호적인",
+        "synonyms": [
+          "hostile",
+          "unfriendly",
+          "antagonistic"
+        ],
+        "examples": [
+          {
+            "text": "The rival delegation adopted an inimical tone from the first day of the talks.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "amic",
+      "-al"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 inimīcālis '적대적인'에서 왔습니다. 친구(amicus)가 아닌 적이라는 데서 '해로운'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inimitable",
+    "score": 50,
+    "zipf": 2.67,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "defying imitation; matchless",
+        "ko": "흉내 낼 수 없는, 독보적인",
+        "synonyms": [
+          "matchless",
+          "unique",
+          "peerless",
+          "incomparable"
+        ],
+        "examples": [
+          {
+            "text": "an inimitable style",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "imit",
+      "-able"
+    ],
+    "origin": {
+      "ko": "프랑스어를 거쳐 라틴어 inimitabilis에서 왔습니다. 흉내 낼 수 없으니 '독보적인'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "iniquitous",
+    "score": 31,
+    "zipf": 2.02,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by iniquity; wicked because it is believed to be a sin",
+        "ko": "사악한, 부도덕한",
+        "synonyms": [
+          "wicked",
+          "sinful",
+          "nefarious",
+          "immoral"
+        ],
+        "examples": [
+          {
+            "text": "iniquitous deeds",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Grossly unfair or unjust.",
+        "ko": "몹시 부당한, 불공정한",
+        "synonyms": [
+          "unjust",
+          "unfair",
+          "egregious"
+        ],
+        "examples": [
+          {
+            "text": "Critics condemned the iniquitous tax, which fell hardest on the poorest families in the district.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "equ",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "iniquity에 -ous가 붙은 말입니다. 공평하지 않음(inīquus)이 사악함의 뜻으로 번졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "iniquity",
+    "score": 50,
+    "zipf": 2.72,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "morally objectionable behavior",
+        "ko": "부도덕한 행위, 사악함",
+        "synonyms": [
+          "wickedness",
+          "sin",
+          "evil",
+          "immorality",
+          "depravity"
+        ],
+        "examples": [
+          {
+            "text": "The preacher warned that the iniquity of the city's rulers would eventually bring about its downfall.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an unjust act",
+        "ko": "불의, 부당한 행위",
+        "synonyms": [
+          "injustice",
+          "unfairness",
+          "outrage"
+        ],
+        "examples": [
+          {
+            "text": "The seizure of the farmers' land without payment was widely denounced as an iniquity.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "equ",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 inīquitās '불평등, 불공정'에서 왔습니다. 고르지 않고 공정하지 못한 것이 '부도덕'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inkling",
+    "score": 32,
+    "zipf": 2.9,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a slight suggestion or vague understanding",
+        "ko": "어렴풋한 느낌, 낌새",
+        "synonyms": [
+          "hint",
+          "suspicion",
+          "intimation",
+          "glimmer",
+          "hunch"
+        ],
+        "examples": [
+          {
+            "text": "he had no inkling what was about to happen",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어에서 '암시, 귀띔'을 뜻하던 말에서 왔다고 하며, 정확한 경로는 불확실합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "innate",
+    "score": 26,
+    "zipf": 3.48,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not established by conditioning or learning",
+        "ko": "타고난, 선천적인",
+        "synonyms": [
+          "inborn",
+          "inherent",
+          "natural",
+          "instinctive",
+          "congenital"
+        ],
+        "examples": [
+          {
+            "text": "Linguists debate whether humans possess an innate capacity for grammar or acquire it purely through experience.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "nat"
+    ],
+    "origin": {
+      "ko": "라틴어 innātus '타고난'에서 왔습니다. 안에 지닌 채 태어났다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "innocuous",
+    "score": 78,
+    "zipf": 3.06,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not injurious to physical or mental health",
+        "ko": "무해한, 해가 없는",
+        "synonyms": [
+          "harmless",
+          "safe",
+          "benign",
+          "innoxious"
+        ],
+        "examples": [
+          {
+            "text": "The mushrooms looked innocuous, but several of them were in fact mildly poisonous.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not causing disapproval",
+        "ko": "무난한, 거슬리지 않는",
+        "synonyms": [
+          "inoffensive",
+          "unobjectionable",
+          "bland",
+          "anodyne"
+        ],
+        "examples": [
+          {
+            "text": "it was an innocuous remark",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "noc",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 innocuus '해가 없는'에서 왔습니다. 해치지(noc) 않으니 무해합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inordinate",
+    "score": 34,
+    "zipf": 2.66,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "beyond normal limits",
+        "ko": "과도한, 지나친",
+        "synonyms": [
+          "excessive",
+          "undue",
+          "immoderate",
+          "extreme",
+          "unreasonable"
+        ],
+        "examples": [
+          {
+            "text": "The project consumed an inordinate amount of time and money without producing any usable results.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "ord"
+    ],
+    "origin": {
+      "ko": "라틴어 inōrdinātus '정리되지 않은, 무질서한'에서 왔습니다. 질서의 한계를 벗어나 '지나친'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inquest",
+    "score": 29,
+    "zipf": 3.21,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an inquiry into the cause of an unexpected death",
+        "ko": "(사인) 심문, 검시 심리",
+        "synonyms": [
+          "inquiry",
+          "investigation",
+          "hearing"
+        ],
+        "examples": [
+          {
+            "text": "The coroner opened an inquest to determine how the hiker had died on the remote mountain trail.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "An inquiry, typically into an undesired outcome",
+        "ko": "(실패 원인의) 조사, 검토",
+        "synonyms": [
+          "postmortem",
+          "investigation",
+          "review"
+        ],
+        "examples": [
+          {
+            "text": "After the humiliating defeat, the party held a bitter inquest into what had gone wrong.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "quer(구하다)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 enqueste에서 왔고 라틴어 '묻다, 조사하다'와 이어집니다. 안을 파고들어 조사한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inquisitive",
+    "score": 31,
+    "zipf": 2.98,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing curiosity",
+        "ko": "호기심 많은, 알고 싶어 하는",
+        "synonyms": [
+          "curious",
+          "inquiring",
+          "questioning",
+          "probing"
+        ],
+        "examples": [
+          {
+            "text": "The inquisitive child took apart the old radio to see how it worked.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Too curious; overly interested; nosy.",
+        "ko": "꼬치꼬치 캐묻는, 참견하기 좋아하는",
+        "synonyms": [
+          "nosy",
+          "prying",
+          "intrusive",
+          "snoopy"
+        ],
+        "examples": [
+          {
+            "text": "Her inquisitive neighbors asked endless questions about who visited the house and why.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "quer(구하다)"
+    ],
+    "origin": {
+      "ko": "라틴어 inquirere '묻다, 조사하다'에서 왔습니다. 안을 파고들어 캐묻는 성격입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inscrutable",
+    "score": 67,
+    "zipf": 2.56,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Difficult or impossible to comprehend, fathom, or interpret.",
+        "ko": "헤아릴 수 없는, 불가해한",
+        "synonyms": [
+          "enigmatic",
+          "mysterious",
+          "impenetrable",
+          "unfathomable",
+          "cryptic"
+        ],
+        "examples": [
+          {
+            "text": "The judge's inscrutable expression gave no hint of how she would rule on the motion.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "scrut",
+      "-able"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 īnscrūtābilis '살펴볼 수 없는'에서 왔습니다. 샅샅이 조사해도 알 수 없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "insensate",
+    "score": 26,
+    "zipf": 1.52,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "without compunction or human feeling",
+        "ko": "무감각한, 냉혹한",
+        "synonyms": [
+          "unfeeling",
+          "callous",
+          "heartless",
+          "cold-blooded"
+        ],
+        "examples": [
+          {
+            "text": "The insensate tyrant ordered the village burned without a second thought for the families inside.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "devoid of feeling and consciousness and animation",
+        "ko": "감각이 없는, 생명 없는",
+        "synonyms": [
+          "inanimate",
+          "insentient",
+          "lifeless"
+        ],
+        "examples": [
+          {
+            "text": "The sculptor spoke to the insensate stone as though it could answer her.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Senseless; foolish; irrational; thoughtless.",
+        "ko": "분별없는, 어리석은",
+        "synonyms": [
+          "senseless",
+          "foolish",
+          "irrational",
+          "mindless"
+        ],
+        "examples": [
+          {
+            "text": "The mob's insensate fury destroyed the very market that fed the town.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "sent"
+    ],
+    "origin": {
+      "ko": "라틴어 īnsēnsātus에서 왔습니다. 느낌(sens)이 없으니 '무감각한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "insensible",
+    "score": 32,
+    "zipf": 2.1,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unaware of or indifferent to",
+        "ko": "~을 의식하지 못하는, 무관심한",
+        "synonyms": [
+          "oblivious",
+          "unaware",
+          "indifferent",
+          "unmoved"
+        ],
+        "examples": [
+          {
+            "text": "The CEO seemed insensible to the growing anger among employees over the sudden layoffs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "barely able to be perceived",
+        "ko": "감지하기 힘든, 미세한",
+        "synonyms": [
+          "imperceptible",
+          "indiscernible",
+          "undetectable",
+          "negligible"
+        ],
+        "examples": [
+          {
+            "text": "The change in the river's course was so gradual as to be almost insensible.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "incapable of physical sensation",
+        "ko": "감각이 없는, 의식을 잃은",
+        "synonyms": [
+          "numb",
+          "unconscious",
+          "senseless"
+        ],
+        "examples": [
+          {
+            "text": "insensible to pain",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "sent",
+      "-able"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 īnsēnsibilis에서 왔습니다. 느낄 수 없는 상태, 곧 의식하지 못함을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "insidious",
+    "score": 45,
+    "zipf": 3.24,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "working or spreading in a hidden and usually injurious way",
+        "ko": "은밀히 퍼지는, 서서히 해를 끼치는",
+        "synonyms": [
+          "stealthy",
+          "subtle",
+          "pernicious",
+          "creeping"
+        ],
+        "examples": [
+          {
+            "text": "glaucoma is an insidious disease",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Intending to entrap; alluring but harmful.",
+        "ko": "교활한, 유혹적이지만 해로운",
+        "synonyms": [
+          "treacherous",
+          "deceptive",
+          "sly",
+          "cunning"
+        ],
+        "examples": [
+          {
+            "text": "Hansel and Gretel were lured by the witch’s insidious gingerbread house.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "sed",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 īnsidiae '매복'에서 왔고 insideō '그 위에 앉다'에서 나왔습니다. 숨어서 기다리다 덮친다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "insinuate",
+    "score": 51,
+    "zipf": 2.59,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "give to understand",
+        "ko": "넌지시 비치다, 암시하다",
+        "synonyms": [
+          "imply",
+          "hint",
+          "intimate",
+          "suggest"
+        ],
+        "examples": [
+          {
+            "text": "She insinuated that her friends had betrayed her.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "introduce or insert (oneself) in a subtle manner",
+        "ko": "교묘히 파고들다, 슬며시 끼어들다",
+        "synonyms": [
+          "ingratiate",
+          "worm",
+          "infiltrate",
+          "wedge"
+        ],
+        "examples": [
+          {
+            "text": "He insinuated himself into the conversation of the people at the nearby table",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "sinu"
+    ],
+    "origin": {
+      "ko": "라틴어 īnsinuō '파고들다, 슬며시 들어가다'에서 왔습니다. 굽이진 틈으로 슬쩍 스며들듯 넌지시 비친다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "insipid",
+    "score": 83,
+    "zipf": 2.64,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking interest or significance or impact",
+        "ko": "재미없는, 활기 없는",
+        "synonyms": [
+          "vapid",
+          "dull",
+          "bland",
+          "jejune",
+          "lifeless"
+        ],
+        "examples": [
+          {
+            "text": "The critics dismissed the film as an insipid romance with flat characters and a predictable plot.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "lacking taste or flavor or tang",
+        "ko": "맛없는, 밍밍한",
+        "synonyms": [
+          "bland",
+          "tasteless",
+          "flavorless",
+          "flat"
+        ],
+        "examples": [
+          {
+            "text": "The diners were disappointed with the plain, insipid soup they were served.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "sap"
+    ],
+    "origin": {
+      "ko": "프랑스어를 거쳐 라틴어 īnsipidus '맛없는'에서 왔습니다. 맛이 없다는 데서 '재미없는'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "insist",
+    "score": 21,
+    "zipf": 4.03,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be emphatic or resolute and refuse to budge",
+        "ko": "고집하다, 강력히 요구하다",
+        "synonyms": [
+          "demand",
+          "persist",
+          "stand firm"
+        ],
+        "examples": [
+          {
+            "text": "The defendant insisted on his innocence.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "postulate positively and assertively",
+        "ko": "주장하다, 단언하다",
+        "synonyms": [
+          "assert",
+          "maintain",
+          "claim",
+          "contend"
+        ],
+        "examples": [
+          {
+            "text": "The author insists that economic growth cannot continue without limits on resource consumption.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "st"
+    ],
+    "origin": {
+      "ko": "라틴어 īnsistere '위에 서다, 버티다'에서 왔습니다. 자리를 딛고 물러서지 않는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "insolence",
+    "score": 34,
+    "zipf": 2.65,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the trait of being rude and impertinent; inclined to take liberties",
+        "ko": "무례함, 건방짐",
+        "synonyms": [
+          "impudence",
+          "impertinence",
+          "cheek",
+          "audacity",
+          "arrogance"
+        ],
+        "examples": [
+          {
+            "text": "The captain punished the sailor's insolence by taking away his shore leave for a month.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "sol(익숙)",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "라틴어 īnsolentia에서 왔습니다. 관례(익숙함)에 따르지 않는 건방진 태도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "insolent",
+    "score": 50,
+    "zipf": 2.74,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by casual disrespect",
+        "ko": "무례한, 건방진",
+        "synonyms": [
+          "impudent",
+          "impertinent",
+          "cheeky",
+          "disrespectful",
+          "brazen"
+        ],
+        "examples": [
+          {
+            "text": "The insolent clerk rolled his eyes and refused to answer the customer's polite question.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "sol(익숙)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 īnsolēns '익숙하지 않은, 오만한'에서 왔습니다. 관례를 따르지 않아 무례해졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "insolvent",
+    "score": 32,
+    "zipf": 2.86,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unable to meet or discharge financial obligations",
+        "ko": "지급 불능의, 파산한",
+        "synonyms": [
+          "bankrupt",
+          "broke",
+          "ruined",
+          "penniless"
+        ],
+        "examples": [
+          {
+            "text": "an insolvent debtor",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "solv",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "in-(아닌)과 solvent(빚을 갚을 수 있는)가 합쳐진 말입니다. 빚을 풀어낼 수 없는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "insouciance",
+    "score": 29,
+    "zipf": 1.78,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Carelessness, heedlessness, indifference, or casual unconcern.",
+        "ko": "무사태평, 태연함",
+        "synonyms": [
+          "nonchalance",
+          "unconcern",
+          "carefreeness",
+          "lightheartedness"
+        ],
+        "examples": [
+          {
+            "text": "He faced the angry board with an insouciance that only made its members angrier.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "souci"
+    ],
+    "origin": {
+      "ko": "프랑스어에서 왔고 in-(아닌)과 souciant(걱정하는)가 합쳐졌습니다. 걱정이 없는 태연함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inspire",
+    "score": 21,
+    "zipf": 4.0,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "supply the inspiration for",
+        "ko": "영감을 주다, 고무하다",
+        "synonyms": [
+          "motivate",
+          "stimulate",
+          "encourage",
+          "spur"
+        ],
+        "examples": [
+          {
+            "text": "The article about the artist inspired the exhibition of his recent work",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "serve as the inciting cause of",
+        "ko": "(감정 등을) 불러일으키다",
+        "synonyms": [
+          "prompt",
+          "instigate",
+          "provoke",
+          "arouse"
+        ],
+        "examples": [
+          {
+            "text": "The mayor's evasive answers inspired little confidence among residents worried about the flooded streets.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To draw in by the operation of breathing; to inhale.",
+        "ko": "숨을 들이쉬다, 흡입하다",
+        "synonyms": [
+          "inhale",
+          "breathe in"
+        ],
+        "examples": [
+          {
+            "text": "The patient was told to inspire deeply and hold the breath while the scan was taken.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "spir"
+    ],
+    "origin": {
+      "ko": "라틴어 īnspīrāre '숨을 불어넣다'에서 왔습니다. 안에 숨(영감)을 불어넣는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "instance",
+    "score": 16,
+    "zipf": 4.59,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an item of information that is typical of a class or group",
+        "ko": "실례, 사례",
+        "synonyms": [
+          "example",
+          "illustration",
+          "case",
+          "specimen"
+        ],
+        "examples": [
+          {
+            "text": "The company's collapse is a striking instance of what can happen when oversight is neglected.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "clarify by giving an example of",
+        "ko": "예를 들어 설명하다, 예증하다",
+        "synonyms": [
+          "exemplify",
+          "illustrate",
+          "cite"
+        ],
+        "examples": [
+          {
+            "text": "The professor instanced several famine years to show how policy failures magnify natural disasters.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "st"
+    ],
+    "origin": {
+      "ko": "라틴어 īnstantia '가까이 있음, 끈질김'에서 왔습니다. 곁에 서 있는 구체적인 '사례'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "institute",
+    "score": 16,
+    "zipf": 4.8,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "set up or lay the groundwork for",
+        "ko": "제정하다, 설립하다, 시행하다",
+        "synonyms": [
+          "establish",
+          "found",
+          "initiate",
+          "launch"
+        ],
+        "examples": [
+          {
+            "text": "The new administration moved quickly to institute reforms in the way public contracts are awarded.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an association organized to promote art or science or education",
+        "ko": "연구소, 협회, 학회",
+        "synonyms": [
+          "institution",
+          "society",
+          "academy"
+        ],
+        "examples": [
+          {
+            "text": "I work in a medical research institute.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "st"
+    ],
+    "origin": {
+      "ko": "라틴어 īnstituō '세우다, 설치하다'에서 왔습니다. 어떤 것 위에 기틀을 세운다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "insufferable",
+    "score": 33,
+    "zipf": 2.79,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unbearably arrogant or conceited",
+        "ko": "참을 수 없을 만큼 거만한",
+        "synonyms": [
+          "unbearable",
+          "intolerable",
+          "obnoxious",
+          "smug"
+        ],
+        "examples": [
+          {
+            "text": "After winning the award he became insufferable, boasting about it to anyone who would listen.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "too extreme to bear",
+        "ko": "견딜 수 없는, 극심한",
+        "synonyms": [
+          "intolerable",
+          "unendurable",
+          "unbearable"
+        ],
+        "examples": [
+          {
+            "text": "The insufferable heat of the crowded train car left passengers gasping and desperate for the next station.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "sub-",
+      "fer",
+      "-able"
+    ],
+    "origin": {
+      "ko": "in-(아닌)과 sufferable(견딜 수 있는)이 합쳐진 말입니다. 참고 견딜 수 없을 정도라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "insular",
+    "score": 63,
+    "zipf": 3.03,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "narrowly restricted in outlook or scope",
+        "ko": "편협한, 시야가 좁은",
+        "synonyms": [
+          "parochial",
+          "narrow-minded",
+          "provincial",
+          "isolated"
+        ],
+        "examples": [
+          {
+            "text": "The insular community distrusted outsiders and resisted every attempt to modernize its customs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "relating to or characteristic of or situated on an island",
+        "ko": "섬의, 섬에 있는",
+        "synonyms": [
+          "island",
+          "isolated"
+        ],
+        "examples": [
+          {
+            "text": "The insular climate of the archipelago keeps temperatures mild throughout the year.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "insul"
+    ],
+    "origin": {
+      "ko": "라틴어 īnsulāris '섬의'에서 왔습니다. 섬처럼 고립되어 시야가 좁다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "insurgent",
+    "score": 29,
+    "zipf": 3.2,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who takes part in an armed rebellion against the constituted authority (especially in the hope of improving conditions)",
+        "ko": "반란자, 반군",
+        "synonyms": [
+          "rebel",
+          "insurrectionist",
+          "revolutionary",
+          "guerrilla"
+        ],
+        "examples": [
+          {
+            "text": "Government troops pushed the insurgents out of the northern provinces after months of fighting.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Rebellious, opposing authority.",
+        "ko": "반란을 일으킨, 반항적인",
+        "synonyms": [
+          "rebellious",
+          "mutinous",
+          "seditious",
+          "revolutionary"
+        ],
+        "examples": [
+          {
+            "text": "The insurgent provinces.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "surg"
+    ],
+    "origin": {
+      "ko": "라틴어 īnsurgō '~에 맞서 일어나다'에서 왔습니다. 권력에 맞서 일어서는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "insurrection",
+    "score": 45,
+    "zipf": 3.17,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "organized opposition to authority; a conflict in which one faction tries to wrest control from another",
+        "ko": "반란, 봉기",
+        "synonyms": [
+          "rebellion",
+          "revolt",
+          "uprising",
+          "mutiny"
+        ],
+        "examples": [
+          {
+            "text": "The army crushed the insurrection within a week, but unrest simmered in the capital for months.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "surg"
+    ],
+    "origin": {
+      "ko": "라틴어 īnsurrēctiō '봉기'에서 왔고 īnsurgō '일어나다'에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "intelligible",
+    "score": 33,
+    "zipf": 2.77,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "capable of being apprehended or understood",
+        "ko": "이해할 수 있는, 알기 쉬운",
+        "synonyms": [
+          "comprehensible",
+          "understandable",
+          "clear",
+          "lucid"
+        ],
+        "examples": [
+          {
+            "text": "Italian and Spanish are partially mutually intelligible languages.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "inter-",
+      "leg(고르다)",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 intelligibilis에서 왔습니다. 사이에서 골라 읽어 낼 수 있어 '이해할 수 있는'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "intend",
+    "score": 20,
+    "zipf": 4.09,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "have in mind as a purpose",
+        "ko": "~할 작정이다, 의도하다",
+        "synonyms": [
+          "mean",
+          "plan",
+          "aim",
+          "propose"
+        ],
+        "examples": [
+          {
+            "text": "He intends to go to university.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "design or destine",
+        "ko": "~용으로 의도하다, 예정하다",
+        "synonyms": [
+          "destine",
+          "designate",
+          "earmark",
+          "mean"
+        ],
+        "examples": [
+          {
+            "text": "The fund was intended to support young researchers, not to cover the institution's running costs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "tend"
+    ],
+    "origin": {
+      "ko": "라틴어 intendere '~쪽으로 뻗다, 주의를 돌리다'에서 왔습니다. 마음을 한 방향으로 뻗는 것이 '의도하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inter",
+    "score": 35,
+    "zipf": 4.16,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "place in a grave or tomb",
+        "ko": "매장하다, 묻다",
+        "synonyms": [
+          "bury",
+          "entomb",
+          "inhume"
+        ],
+        "examples": [
+          {
+            "text": "The fallen soldiers were interred with full honors in the cemetery overlooking the valley.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "terr(땅)"
+    ],
+    "origin": {
+      "ko": "속라틴어 *interrāre '흙 속에 넣다'에서 왔습니다. 땅속에 묻는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "interchangeable",
+    "score": 28,
+    "zipf": 3.28,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "capable of replacing or changing places with something else; permitting mutual substitution without loss of function or suitability",
+        "ko": "교환 가능한, 서로 바꿔 쓸 수 있는",
+        "synonyms": [
+          "exchangeable",
+          "substitutable",
+          "equivalent",
+          "standardized"
+        ],
+        "examples": [
+          {
+            "text": "The two terms are often treated as interchangeable, though careful writers distinguish between them.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "inter-",
+      "-able"
+    ],
+    "origin": {
+      "ko": "inter-(서로)와 change(바꾸다), -able이 합쳐진 말입니다. 서로 바꿔 쓸 수 있다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "interdict",
+    "score": 34,
+    "zipf": 2.35,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "command against",
+        "ko": "금지하다, 금하다",
+        "synonyms": [
+          "forbid",
+          "prohibit",
+          "proscribe",
+          "ban"
+        ],
+        "examples": [
+          {
+            "text": "The council moved to interdict the sale of the drug until further safety tests were completed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a court order prohibiting a party from doing a certain activity",
+        "ko": "금지 명령, 법원의 금지",
+        "synonyms": [
+          "injunction",
+          "prohibition",
+          "ban"
+        ],
+        "examples": [
+          {
+            "text": "The court issued an interdict barring the factory from dumping waste into the river.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "inter-",
+      "dic"
+    ],
+    "origin": {
+      "ko": "라틴어 interdīcō '금지하다'에서 왔습니다. 사이에 끼어들어 말로 막는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "interlocutor",
+    "score": 35,
+    "zipf": 2.37,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who takes part in a conversation",
+        "ko": "대화 상대, 대담자",
+        "synonyms": [
+          "conversationalist",
+          "interviewer",
+          "partner"
+        ],
+        "examples": [
+          {
+            "text": "The diplomat was a patient interlocutor, listening carefully before answering each of the journalist's questions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "inter-",
+      "loqu",
+      "-or"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 interlocūtor에서 왔습니다. 서로 사이에서 말을 주고받는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "interminable",
+    "score": 35,
+    "zipf": 2.58,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "tiresomely long; seemingly without end",
+        "ko": "끝없이 계속되는, 지루하게 긴",
+        "synonyms": [
+          "endless",
+          "unending",
+          "ceaseless",
+          "tedious"
+        ],
+        "examples": [
+          {
+            "text": "The interminable meeting dragged on for hours while the audience quietly checked their watches.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "termin",
+      "-able"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 interminābilis에서 왔습니다. 끝낼 수 없으니 '끝없는'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "intermittent",
+    "score": 43,
+    "zipf": 3.39,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "stopping and starting at irregular intervals",
+        "ko": "간헐적인, 단속적인",
+        "synonyms": [
+          "sporadic",
+          "periodic",
+          "fitful",
+          "spasmodic",
+          "occasional"
+        ],
+        "examples": [
+          {
+            "text": "intermittent rain showers",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "inter-",
+      "mit(보내다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 intermittens '중간에 보내는'에서 왔습니다. 사이사이 끊어 내보내니 '간헐적인'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "internecine",
+    "score": 34,
+    "zipf": 2.28,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(of conflict) within a group or organization",
+        "ko": "내분의, 내부 갈등의",
+        "synonyms": [
+          "intragroup",
+          "factional",
+          "domestic"
+        ],
+        "examples": [
+          {
+            "text": "Internecine disputes among the party's factions weakened it far more than any opposition attack.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Mutually destructive; most often applied to warfare.",
+        "ko": "서로 죽이는, 공멸적인",
+        "synonyms": [
+          "mutually destructive",
+          "ruinous",
+          "bloody",
+          "deadly"
+        ],
+        "examples": [
+          {
+            "text": "The internecine struggle left both armies exhausted and the countryside in ruins.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 internecīnus '치명적인'에서 왔고 원래는 '대학살'과 관련됩니다. 영어에서 inter-(사이)로 재해석되어 '내부 갈등'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "interplay",
+    "score": 30,
+    "zipf": 3.15,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "reciprocal action and reaction",
+        "ko": "상호작용, 상호 영향",
+        "synonyms": [
+          "interaction",
+          "interrelation",
+          "give-and-take"
+        ],
+        "examples": [
+          {
+            "text": "The novel explores the subtle interplay between memory and identity across three generations of one family.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "inter-"
+    ],
+    "origin": {
+      "ko": "inter-(서로)와 play(작용)가 합쳐진 말입니다. 서로 주고받는 작용을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "interpolate",
+    "score": 31,
+    "zipf": 2.0,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "insert words into texts, often falsifying it thereby",
+        "ko": "(글에) 삽입하여 변조하다, 끼워 넣다",
+        "synonyms": [
+          "insert",
+          "interject",
+          "falsify",
+          "alter"
+        ],
+        "examples": [
+          {
+            "text": "Later copyists interpolated several passages into the manuscript, obscuring the author's original argument.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "estimate the value of something based on known values",
+        "ko": "보간하다, 중간값을 추정하다",
+        "synonyms": [
+          "estimate",
+          "infer"
+        ],
+        "examples": [
+          {
+            "text": "Analysts interpolate missing temperature readings from the values recorded at nearby weather stations.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "inter-"
+    ],
+    "origin": {
+      "ko": "라틴어 interpolō의 분사 interpolātus에서 왔습니다. 글 사이에 끼워 넣는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "interregnum",
+    "score": 49,
+    "zipf": 2.21,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the time between two reigns, governments, etc.",
+        "ko": "공위 기간, 통치 공백기",
+        "synonyms": [
+          "gap",
+          "interval",
+          "hiatus",
+          "interlude"
+        ],
+        "examples": [
+          {
+            "text": "Several rival nobles competed for power during the long interregnum that followed the king's sudden death.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "inter-",
+      "reg"
+    ],
+    "origin": {
+      "ko": "라틴어 interrēgnum에서 왔습니다. 두 왕(reign) 사이의 공백기라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "intertwine",
+    "score": 34,
+    "zipf": 2.28,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "spin, wind, or twist together",
+        "ko": "서로 얽히다, 꼬이다",
+        "synonyms": [
+          "entwine",
+          "interlace",
+          "twine",
+          "weave"
+        ],
+        "examples": [
+          {
+            "text": "intertwine the ribbons",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To become mutually involved.",
+        "ko": "긴밀히 얽히다, 밀접하게 관련되다",
+        "synonyms": [
+          "interconnect",
+          "interweave",
+          "entangle"
+        ],
+        "examples": [
+          {
+            "text": "The economies of the two nations have become so intertwined that a crisis in one affects the other.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "inter-"
+    ],
+    "origin": {
+      "ko": "inter-(서로)와 twine(꼬다)이 합쳐진 말입니다. 서로 꼬여 얽히는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "intimate",
+    "score": 52,
+    "zipf": 4.06,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by close acquaintance, association, or familiarity",
+        "ko": "친밀한, 가까운",
+        "synonyms": [
+          "close",
+          "familiar",
+          "dear",
+          "friendly"
+        ],
+        "examples": [
+          {
+            "text": "an intimate friend",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "concerning things deeply private and personal",
+        "ko": "사적인, 내밀한",
+        "synonyms": [
+          "private",
+          "personal",
+          "confidential",
+          "secret"
+        ],
+        "examples": [
+          {
+            "text": "The memoir reveals intimate details of the author's struggle with illness and her fear of failure.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 intimus '가장 안쪽의'에서 왔습니다. 가장 안쪽까지 들어올 만큼 가까운 사이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "intimation",
+    "score": 33,
+    "zipf": 2.21,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an indirect suggestion",
+        "ko": "암시, 넌지시 알림",
+        "synonyms": [
+          "hint",
+          "suggestion",
+          "insinuation",
+          "inkling"
+        ],
+        "examples": [
+          {
+            "text": "The minister gave no intimation that a resignation was being considered until the announcement itself.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 intimatio에서 왔고 intimate(안으로 넣다)와 이어집니다. 속뜻을 슬쩍 알려 주는 '암시'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "intractable",
+    "score": 48,
+    "zipf": 2.88,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not tractable; difficult to manage or mold",
+        "ko": "다루기 힘든, 고집 센",
+        "synonyms": [
+          "unmanageable",
+          "stubborn",
+          "obstinate",
+          "refractory"
+        ],
+        "examples": [
+          {
+            "text": "The intractable mule refused to move, no matter how hard the farmer pulled on the rope.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Difficult to deal with, solve, or manage. (of a problem)",
+        "ko": "해결하기 어려운, 난해한",
+        "synonyms": [
+          "insoluble",
+          "knotty",
+          "thorny",
+          "stubborn"
+        ],
+        "examples": [
+          {
+            "text": "Decades of negotiation failed to resolve the intractable conflict over the disputed border region.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "tract",
+      "-able"
+    ],
+    "origin": {
+      "ko": "in-(아닌)과 tractable(끌어 다룰 수 있는)이 합쳐졌습니다. 끌어당겨 다룰 수 없을 만큼 고집이 셉니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "intransigent",
+    "score": 82,
+    "zipf": 2.29,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "impervious to pleas, persuasion, requests, reason",
+        "ko": "타협하지 않는, 완강한",
+        "synonyms": [
+          "uncompromising",
+          "obstinate",
+          "adamant",
+          "inflexible",
+          "stubborn"
+        ],
+        "examples": [
+          {
+            "text": "The intransigent union leader rejected every compromise, and the strike entered its third month.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "trans-",
+      "ag"
+    ],
+    "origin": {
+      "ko": "스페인어를 거쳐 라틴어 trānsigō '합의를 보다'에서 왔습니다. 합의에 이르지 않으려는 완강함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "intrepid",
+    "score": 79,
+    "zipf": 3.04,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "invulnerable to fear or intimidation",
+        "ko": "두려움을 모르는, 대담한",
+        "synonyms": [
+          "fearless",
+          "dauntless",
+          "bold",
+          "courageous",
+          "undaunted"
+        ],
+        "examples": [
+          {
+            "text": "The intrepid explorers crossed the frozen plateau with little more than sled dogs and a few supplies.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "trepid"
+    ],
+    "origin": {
+      "ko": "라틴어 intrepidus에서 왔습니다. 불안해 떠는(trepidus) 일이 없으니 '두려움을 모르는'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "intrigue",
+    "score": 43,
+    "zipf": 3.36,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause to be interested or curious",
+        "ko": "호기심을 자아내다, 흥미를 끌다",
+        "synonyms": [
+          "fascinate",
+          "pique",
+          "captivate",
+          "interest"
+        ],
+        "examples": [
+          {
+            "text": "The strange symbols carved on the wall intrigued the archaeologists, who spent weeks trying to decipher them.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a crafty and involved plot to achieve your (usually sinister) ends",
+        "ko": "음모, 책략",
+        "synonyms": [
+          "conspiracy",
+          "machination",
+          "plot",
+          "scheme"
+        ],
+        "examples": [
+          {
+            "text": "The novel follows a web of political intrigue at the royal court, where every courtier plots against a rival.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어를 거쳐 라틴어 intrīcō '얽히게 하다'에서 왔습니다. 얽힌 음모에서 호기심을 끄는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "intrinsic",
+    "score": 42,
+    "zipf": 3.47,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "belonging to a thing by its very nature",
+        "ko": "본질적인, 고유한",
+        "synonyms": [
+          "inherent",
+          "innate",
+          "essential",
+          "fundamental",
+          "intrinsical"
+        ],
+        "examples": [
+          {
+            "text": "the intrinsic value of gold or silver",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 intrīnsecus '안쪽에서'에서 왔습니다. 안에 속해 있으니 '본질적인'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inundate",
+    "score": 80,
+    "zipf": 2.07,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "fill quickly beyond capacity; as with a liquid",
+        "ko": "쇄도하다, 넘치게 하다",
+        "synonyms": [
+          "swamp",
+          "overwhelm",
+          "deluge",
+          "flood"
+        ],
+        "examples": [
+          {
+            "text": "The agency was inundated with phone calls.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "fill or cover completely, usually with water",
+        "ko": "물에 잠기게 하다, 범람시키다",
+        "synonyms": [
+          "flood",
+          "submerge",
+          "drown"
+        ],
+        "examples": [
+          {
+            "text": "Heavy rains inundated the valley, forcing hundreds of families to leave their homes overnight.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "und"
+    ],
+    "origin": {
+      "ko": "라틴어 inundō '범람하다'에서 왔고 unda(물결)에서 나왔습니다. 물결이 밀려드는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inure",
+    "score": 62,
+    "zipf": 1.9,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause to accept or become hardened to; habituate",
+        "ko": "익숙하게 하다, 단련시키다",
+        "synonyms": [
+          "harden",
+          "accustom",
+          "habituate",
+          "toughen"
+        ],
+        "examples": [
+          {
+            "text": "Years of covering war zones had inured the reporter to scenes that would horrify most people.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "ure"
+    ],
+    "origin": {
+      "ko": "중세 영어에서 in-과 ure(실행하다, 단련하다)가 합쳐졌습니다. 몸에 배도록 단련시킨다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inured",
+    "score": 33,
+    "zipf": 2.21,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Accustomed to something, especially something unpleasant.",
+        "ko": "~에 익숙해진, 단련된",
+        "synonyms": [
+          "accustomed",
+          "hardened",
+          "habituated",
+          "seasoned"
+        ],
+        "examples": [
+          {
+            "text": "By now she is inured to their inanities.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "ure"
+    ],
+    "origin": {
+      "ko": "inure에 -ed가 붙은 말입니다. 단련되어 몸에 밴 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "invasive",
+    "score": 24,
+    "zipf": 3.69,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "gradually intrusive without right or permission",
+        "ko": "침해하는, 잠식하는",
+        "synonyms": [
+          "intrusive",
+          "encroaching",
+          "trespassing"
+        ],
+        "examples": [
+          {
+            "text": "Many users objected to the app's invasive tracking of their location even when it was closed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "marked by a tendency to spread especially into healthy tissue",
+        "ko": "침습성의, 퍼져 나가는",
+        "synonyms": [
+          "spreading",
+          "aggressive",
+          "infiltrating"
+        ],
+        "examples": [
+          {
+            "text": "invasive cancer cells",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "vad"
+    ],
+    "origin": {
+      "ko": "라틴어 invādō '안으로 들어가다, 침입하다'에서 왔습니다. 허락 없이 안으로 밀고 들어오는 느낌입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "invective",
+    "score": 83,
+    "zipf": 2.41,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "abusive or venomous language used to express blame or censure or bitter deep-seated ill will",
+        "ko": "욕설, 독설",
+        "synonyms": [
+          "vituperation",
+          "abuse",
+          "vitriol",
+          "diatribe",
+          "tirade"
+        ],
+        "examples": [
+          {
+            "text": "The debate degenerated into personal invective, with each candidate hurling insults at the other.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "veh"
+    ],
+    "origin": {
+      "ko": "라틴어 invehō '쏟아붓다'에서 온 invectīvus에서 왔습니다. 욕설을 상대에게 퍼붓는다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inveigle",
+    "score": 58,
+    "zipf": 1.51,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "influence or urge by gentle urging, caressing, or flattering",
+        "ko": "감언으로 꾀다, 구슬리다",
+        "synonyms": [
+          "wheedle",
+          "cajole",
+          "coax",
+          "entice"
+        ],
+        "examples": [
+          {
+            "text": "The salesman tried to inveigle the couple into buying a warranty they clearly did not need.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 '눈이 없는'에서 왔습니다. 눈을 멀게 해 속이고 꾄다는 데서 '감언으로 꾀다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "investiture",
+    "score": 52,
+    "zipf": 2.49,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the ceremonial act of clothing someone in the insignia of an office; the formal promotion of a person to an office or rank",
+        "ko": "서임식, 취임식",
+        "synonyms": [
+          "installation",
+          "inauguration",
+          "induction",
+          "investment"
+        ],
+        "examples": [
+          {
+            "text": "The investiture of the new archbishop drew thousands of worshippers to the cathedral.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "vest",
+      "-ure"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 investīre '옷을 입히다'에서 왔습니다. 관직의 예복을 입혀 주는 의식입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inveterate",
+    "score": 50,
+    "zipf": 2.34,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having had a habit (usually a bad habit) for a long time.",
+        "ko": "상습적인, 뿌리 깊은",
+        "synonyms": [
+          "chronic",
+          "hardened",
+          "habitual",
+          "confirmed",
+          "incorrigible"
+        ],
+        "examples": [
+          {
+            "text": "An inveterate gambler, he lost his savings again and again despite repeated promises to stop.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "vet"
+    ],
+    "origin": {
+      "ko": "라틴어 inveterātus '오래된, 만성이 된'에서 왔습니다. 오래 묵어 굳은 습관을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "invidious",
+    "score": 96,
+    "zipf": 2.09,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "containing or implying a slight or showing prejudice",
+        "ko": "불쾌감을 주는, 차별적인",
+        "synonyms": [
+          "discriminatory",
+          "unfair",
+          "prejudicial"
+        ],
+        "examples": [
+          {
+            "text": "Critics argued that ranking the schools by income created an invidious comparison between poor and rich districts.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Causing ill will, envy, or offense.",
+        "ko": "반감을 사는, 시기를 일으키는",
+        "synonyms": [
+          "offensive",
+          "odious",
+          "resentment-provoking",
+          "envy-provoking"
+        ],
+        "examples": [
+          {
+            "text": "The manager faced the invidious task of choosing which of two equally loyal employees to dismiss.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "vid(보다)",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 invidia '질투'에서 왔습니다. '곁눈질로 보다'에서 '시샘하다'로 뜻이 변했습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "invigorate",
+    "score": 34,
+    "zipf": 2.32,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "give life or energy to",
+        "ko": "활기를 불어넣다, 기운 나게 하다",
+        "synonyms": [
+          "energize",
+          "enliven",
+          "revitalize",
+          "refresh",
+          "animate"
+        ],
+        "examples": [
+          {
+            "text": "The cold water invigorated him",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "vig",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "새 라틴어 invigōrō에서 왔고 in-과 vigor(활력)가 합쳐졌습니다. 몸속에 힘을 불어넣는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inviolable",
+    "score": 34,
+    "zipf": 2.32,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not capable of being violated or infringed",
+        "ko": "침해할 수 없는, 불가침의",
+        "synonyms": [
+          "sacrosanct",
+          "unassailable",
+          "absolute",
+          "inalienable"
+        ],
+        "examples": [
+          {
+            "text": "The constitution declares freedom of conscience an inviolable right that no government may override.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "viol",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 inviolābilis '건드릴 수 없는'에서 왔습니다. 범할 수 없으니 '불가침의'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "inviolate",
+    "score": 46,
+    "zipf": 1.93,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Not violated; free from violation or hurt of any kind; secure against violation or impairment.",
+        "ko": "침해되지 않은, 손상되지 않은",
+        "synonyms": [
+          "intact",
+          "unbroken",
+          "pure",
+          "unspoiled"
+        ],
+        "examples": [
+          {
+            "text": "The remote valley remained inviolate, untouched by roads, mines, or the settlers who had spread elsewhere.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "viol"
+    ],
+    "origin": {
+      "ko": "라틴어 inviolātus에서 왔습니다. 침범당하지 않아 온전한 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "invocation",
+    "score": 32,
+    "zipf": 2.91,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The act or form of calling for the assistance or presence of some superior being, especially prayer offered to a divine being.",
+        "ko": "기도, 신에 대한 간청",
+        "synonyms": [
+          "prayer",
+          "supplication",
+          "appeal",
+          "entreaty"
+        ],
+        "examples": [
+          {
+            "text": "The ceremony opened with an invocation asking for guidance and blessing on the gathering.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "An act of invoking or claiming a legal right.",
+        "ko": "(법·권리의) 원용, 행사",
+        "synonyms": [
+          "citation",
+          "appeal",
+          "application"
+        ],
+        "examples": [
+          {
+            "text": "The senator's invocation of executive privilege delayed the inquiry for several months.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "voc"
+    ],
+    "origin": {
+      "ko": "라틴어 invocātiō에서 왔고 invoke(부르다)에서 나왔습니다. 신을 불러 도움을 청하는 기도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "invoke",
+    "score": 28,
+    "zipf": 3.33,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cite as an authority; resort to",
+        "ko": "(법·권위를) 원용하다, 내세우다",
+        "synonyms": [
+          "cite",
+          "appeal to",
+          "call upon",
+          "adduce"
+        ],
+        "examples": [
+          {
+            "text": "He invoked the law that would save him",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "summon into action or bring into existence, often as if by magic",
+        "ko": "불러내다, 환기하다",
+        "synonyms": [
+          "conjure",
+          "evoke",
+          "raise",
+          "summon"
+        ],
+        "examples": [
+          {
+            "text": "The candidate invoked the memory of past recessions to frighten voters away from her opponent.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "request earnestly (something from somebody); ask for aid or protection",
+        "ko": "간청하다, 기원하다",
+        "synonyms": [
+          "beseech",
+          "entreat",
+          "implore",
+          "petition"
+        ],
+        "examples": [
+          {
+            "text": "The villagers invoked the gods for rain after a third summer of failed crops.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "voc"
+    ],
+    "origin": {
+      "ko": "라틴어 invocāre '불러서 청하다'에서 왔습니다. 권위나 법을 불러내 근거로 삼는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "involved",
+    "score": 16,
+    "zipf": 5.1,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "highly complex or intricate and occasionally devious",
+        "ko": "복잡한, 뒤얽힌",
+        "synonyms": [
+          "complicated",
+          "convoluted",
+          "intricate",
+          "tangled",
+          "labyrinthine"
+        ],
+        "examples": [
+          {
+            "text": "He related an involved story about every ancestor since 1895.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "connected by participation or association or use",
+        "ko": "관련된, 연루된",
+        "synonyms": [
+          "implicated",
+          "concerned",
+          "participating"
+        ],
+        "examples": [
+          {
+            "text": "Several senior officials were found to have been involved in the scheme from its earliest stages.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "volv"
+    ],
+    "origin": {
+      "ko": "involve에 -ed가 붙은 말입니다. 안으로 돌돌 말려 얽힌 모습에서 '복잡한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

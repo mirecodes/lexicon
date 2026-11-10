@@ -1,0 +1,325 @@
+[
+  {
+    "word": "sibilant",
+    "score": 31,
+    "zipf": 2.02,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Characterized by a hissing or hushing sound such as the s or sh in sack or shack.",
+        "ko": "쉭쉭 소리가 나는, 치찰음의",
+        "synonyms": [
+          "hissing",
+          "fricative"
+        ],
+        "examples": [
+          {
+            "text": "The sibilant whisper of the audience grew louder as the lights dimmed on the stage.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sibil",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 sībilāre(쉿 소리를 내다)에서 왔습니다. 쉭쉭 하는 소리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "siege",
+    "score": 22,
+    "zipf": 3.93,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A prolonged military assault or a blockade of a city or fortress with the intent of conquering by force or attrition.",
+        "ko": "포위 공격, 공성",
+        "synonyms": [
+          "blockade",
+          "investment",
+          "encirclement"
+        ],
+        "examples": [
+          {
+            "text": "They sued for peace after the long siege.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A prolonged assault or attack.",
+        "ko": "끈질긴 공세, 집중 공격",
+        "synonyms": [
+          "onslaught",
+          "assault",
+          "barrage"
+        ],
+        "examples": [
+          {
+            "text": "The mayor, under siege from reporters and angry residents, canceled all public appearances.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sed"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 siege(자리)에서 왔고, 라틴어 sēdēs(자리)와 이어집니다. 군대가 성 앞에 '눌러앉는' 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "simper",
+    "score": 29,
+    "zipf": 1.79,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To smile in a foolish, frivolous, self-conscious, coy, obsequious, or smug manner.",
+        "ko": "어리석게 히죽 웃다, 아양 떨며 웃다",
+        "synonyms": [
+          "smirk",
+          "grin",
+          "giggle"
+        ],
+        "examples": [
+          {
+            "text": "a whimpering, simpering child",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "기원이 불확실하며 덴마크어 simper(수줍은)와 비교됩니다. 점잔 빼며 웃는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "simulacrum",
+    "score": 32,
+    "zipf": 2.13,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A thing which has the appearance or form of another thing, but not its true qualities; a thing which simulates another thing; an imitation; a semblance.",
+        "ko": "모조품, 겉모습뿐인 것",
+        "synonyms": [
+          "imitation",
+          "semblance",
+          "facsimile",
+          "replica"
+        ],
+        "examples": [
+          {
+            "text": "The theme park offered a simulacrum of a medieval village, complete with costumed actors and plastic stone walls.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a representation of a person (especially in the form of sculpture)",
+        "ko": "상, 초상",
+        "synonyms": [
+          "effigy",
+          "image",
+          "statue"
+        ],
+        "examples": [
+          {
+            "text": "The museum displayed a marble simulacrum of the emperor, carved soon after his death.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "simil"
+    ],
+    "origin": {
+      "ko": "라틴어 simulācrum(형상, 닮은 것)에서 왔습니다. 진짜를 닮았지만 알맹이가 없는 모조품입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "simultaneous",
+    "score": 26,
+    "zipf": 3.53,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "occurring or operating at the same time",
+        "ko": "동시의, 동시에 일어나는",
+        "synonyms": [
+          "concurrent",
+          "coincident",
+          "synchronous",
+          "contemporaneous"
+        ],
+        "examples": [
+          {
+            "text": "The simultaneous release of the film in forty countries broke the previous box-office record.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "simil",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 simul(함께, 동시에)에서 온 중세 라틴어 simultaneus에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sinecure",
+    "score": 94,
+    "zipf": 1.88,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A position that requires little to no work, or easy work, but still gives an ample payment; a cushy job.",
+        "ko": "한직, 일은 적고 보수는 좋은 자리",
+        "synonyms": [
+          "cushy job",
+          "soft job",
+          "easy post"
+        ],
+        "examples": [
+          {
+            "text": "A lucrative sinecure in the Excise was bestowed on Ferguson.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sine",
+      "cur(돌봄)"
+    ],
+    "origin": {
+      "ko": "라틴어 sine cūrā(돌봄 없이)에서 왔습니다. 영혼을 돌볼 의무 없이 보수만 받는 성직이 한직이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sinuous",
+    "score": 52,
+    "zipf": 2.52,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having curves in alternate directions; meandering.",
+        "ko": "구불구불한, 굽이치는",
+        "synonyms": [
+          "winding",
+          "serpentine",
+          "meandering",
+          "curving",
+          "tortuous"
+        ],
+        "examples": [
+          {
+            "text": "We followed every bend of the sinuous river.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "gracefully thin and bending and moving with ease",
+        "ko": "유연한, 나긋나긋한",
+        "synonyms": [
+          "lithe",
+          "supple",
+          "lissome",
+          "graceful"
+        ],
+        "examples": [
+          {
+            "text": "The dancer's sinuous movements held the audience spellbound for the entire performance.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "sinu",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 sinuōsus(굽이진)에서 왔습니다. 뱀처럼 구불구불한 모양입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "word": "occlude",
+    "score": 61,
+    "zipf": 1.8,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To obstruct, cover, or otherwise block (an opening, a portion of an image, etc.).",
+        "ko": "막다, 폐색하다, 가리다",
+        "synonyms": [
+          "block",
+          "obstruct",
+          "clog",
+          "obscure"
+        ],
+        "examples": [
+          {
+            "text": "His reflection is occluded by the mist on the mirror.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "clud"
+    ],
+    "origin": {
+      "ko": "라틴어 occlūdere '앞을 닫아 막다'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "occult",
+    "score": 28,
+    "zipf": 3.29,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Secret; hidden from general knowledge; undetected.",
+        "ko": "숨겨진, 비밀의",
+        "synonyms": [
+          "hidden",
+          "secret",
+          "concealed",
+          "latent"
+        ],
+        "examples": [
+          {
+            "text": "occult blood loss; occult cancer",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having an import not apparent to the senses nor obvious to the intelligence; beyond ordinary understanding",
+        "ko": "신비한, 불가해한",
+        "synonyms": [
+          "mysterious",
+          "esoteric",
+          "mystical",
+          "arcane"
+        ],
+        "examples": [
+          {
+            "text": "The scholar spent decades deciphering the occult symbols carved into the temple walls.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "supernatural practices and techniques",
+        "ko": "오컬트, 초자연적 주술",
+        "synonyms": [
+          "black magic",
+          "mysticism"
+        ],
+        "examples": [
+          {
+            "text": "He built a career writing popular histories of the occult in medieval Europe.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ob-",
+      "cul"
+    ],
+    "origin": {
+      "ko": "라틴어 occultus '숨겨진, 비밀의'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

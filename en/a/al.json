@@ -1,0 +1,503 @@
+[
+  {
+    "word": "alacrity",
+    "score": 99,
+    "zipf": 2.36,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "liveliness and eagerness",
+        "ko": "민첩함, 기꺼이 하는 열의",
+        "synonyms": [
+          "eagerness",
+          "promptness",
+          "briskness",
+          "celerity",
+          "readiness"
+        ],
+        "examples": [
+          {
+            "text": "The volunteers responded with alacrity, arriving at the shelter within an hour of the appeal.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "alacr",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 alacritas(활기)에서 왔고 alacer(민첩한)에서 나왔습니다. 팔팔하게 기꺼이 움직이는 태도를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "albeit",
+    "score": 22,
+    "zipf": 3.91,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "conj",
+        "en": "Although, despite (it) being.",
+        "ko": "비록 ~이긴 하지만",
+        "synonyms": [
+          "although",
+          "though",
+          "even though",
+          "notwithstanding"
+        ],
+        "examples": [
+          {
+            "text": "The study offers a promising result, albeit one based on a very small sample.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 al be it (that), 즉 '비록 ~라 하더라도'를 줄여 붙인 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "alchemy",
+    "score": 29,
+    "zipf": 3.21,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The causing of any sort of mysterious sudden transmutation.",
+        "ko": "신비로운 변환, 연금술적 변화",
+        "synonyms": [
+          "transmutation",
+          "transformation",
+          "magic",
+          "sorcery"
+        ],
+        "examples": [
+          {
+            "text": "Through some alchemy of timing and talent, the unknown band became a national sensation overnight.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a pseudoscientific forerunner of chemistry in medieval times",
+        "ko": "연금술",
+        "synonyms": [
+          "transmutation",
+          "hermetic art"
+        ],
+        "examples": [
+          {
+            "text": "Medieval practitioners of alchemy sought a method for turning lead into gold.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "아랍어 al-kīmiyāʔ에서 왔고 그리스어로 '금속을 합금하는 기술'입니다. 물질을 신비롭게 바꾸는 이미지로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "alcove",
+    "score": 35,
+    "zipf": 2.62,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a small recess opening off a larger room",
+        "ko": "알코브, 방에 딸린 움푹 들어간 공간",
+        "synonyms": [
+          "recess",
+          "niche",
+          "nook",
+          "bay"
+        ],
+        "examples": [
+          {
+            "text": "A narrow bed sat in an alcove beside the fireplace, hidden from the main hall.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "아랍어 al-qubba(둥근 천장의 방)에서 스페인어를 거쳐 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "alienate",
+    "score": 47,
+    "zipf": 3.03,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "arouse hostility or indifference in where there had formerly been love, affection, or friendliness",
+        "ko": "소원하게 만들다, 멀어지게 하다",
+        "synonyms": [
+          "estrange",
+          "antagonize",
+          "disaffect",
+          "isolate",
+          "repel"
+        ],
+        "examples": [
+          {
+            "text": "The senator's blunt remarks alienated many longtime supporters who had once defended him.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "transfer property or ownership",
+        "ko": "(재산을) 양도하다",
+        "synonyms": [
+          "transfer",
+          "convey",
+          "cede",
+          "relinquish"
+        ],
+        "examples": [
+          {
+            "text": "Under the old law, the heir could not alienate the estate without the consent of the family.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ali",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 alienare(남으로 만들다)에서 왔습니다. 가까운 사이를 남처럼 멀어지게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "allay",
+    "score": 34,
+    "zipf": 2.69,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "lessen the intensity of or calm",
+        "ko": "(두려움 등을) 가라앉히다, 완화하다",
+        "synonyms": [
+          "alleviate",
+          "assuage",
+          "calm",
+          "ease",
+          "soothe"
+        ],
+        "examples": [
+          {
+            "text": "The company released safety data to allay public fears about the new vaccine.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 āleċġan(내려놓다)에서 왔습니다. 두려움을 눕혀 가라앉힌다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "allege",
+    "score": 29,
+    "zipf": 3.18,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "report or maintain",
+        "ko": "(증거 없이) 주장하다",
+        "synonyms": [
+          "assert",
+          "claim",
+          "aver",
+          "contend",
+          "maintain"
+        ],
+        "examples": [
+          {
+            "text": "Prosecutors allege that the executive concealed losses from investors for several years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "leg(보내다)"
+    ],
+    "origin": {
+      "ko": "라틴어 allegare(사절로 보내다, 진술하다)에서 왔습니다. 근거를 내세워 말한다는 뜻에서 '주장하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "alleviate",
+    "score": 42,
+    "zipf": 3.52,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "provide physical relief, as from pain",
+        "ko": "덜어주다, 완화하다",
+        "synonyms": [
+          "relieve",
+          "ease",
+          "mitigate",
+          "assuage",
+          "palliate"
+        ],
+        "examples": [
+          {
+            "text": "The new medication helped alleviate the patient's chronic pain without serious side effects.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "lev",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 alleviare(가볍게 하다)에서 왔습니다. 짐을 가볍게 덜어준다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "allusive",
+    "score": 31,
+    "zipf": 2.02,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by indirect references",
+        "ko": "암시적인, 넌지시 언급하는",
+        "synonyms": [
+          "suggestive",
+          "referential",
+          "hinting",
+          "implicit"
+        ],
+        "examples": [
+          {
+            "text": "The poem is dense and allusive, echoing classical myths without ever naming them.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ad-",
+      "lud",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "라틴어 alludere(농담하듯 건드리다)에서 왔습니다. 직접 말하지 않고 슬쩍 건드려 암시합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aloof",
+    "score": 47,
+    "zipf": 2.99,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Either physically or emotionally remote: distant, standoffish.",
+        "ko": "냉담한, 거리를 두는",
+        "synonyms": [
+          "distant",
+          "standoffish",
+          "detached",
+          "reserved",
+          "remote"
+        ],
+        "examples": [
+          {
+            "text": "The professor remained aloof from campus politics, rarely attending meetings or voicing an opinion.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "뱃사람 용어로 '바람 불어오는 쪽으로 뱃머리를 돌려 멀리 피하라'는 명령에서 왔습니다. 그래서 '거리를 두는'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "altruism",
+    "score": 32,
+    "zipf": 2.94,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the quality of unselfish concern for the welfare of others",
+        "ko": "이타주의, 이타심",
+        "synonyms": [
+          "selflessness",
+          "philanthropy",
+          "benevolence",
+          "generosity",
+          "charity"
+        ],
+        "examples": [
+          {
+            "text": "The donor's altruism was evident when she gave away most of her fortune and asked for no recognition.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "alter",
+      "-ism"
+    ],
+    "origin": {
+      "ko": "1830년 콩트가 프랑스어 autrui(타인)와 -isme로 만든 말이고 라틴어 alter(다른)에서 나왔습니다. 남을 위하는 마음입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "altruistic",
+    "score": 32,
+    "zipf": 2.95,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing unselfish concern for the welfare of others",
+        "ko": "이타적인",
+        "synonyms": [
+          "selfless",
+          "unselfish",
+          "benevolent",
+          "philanthropic",
+          "humane"
+        ],
+        "examples": [
+          {
+            "text": "Biologists debate whether truly altruistic behavior exists in animals or merely serves hidden self-interest.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "alter",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "altruist에 -ic이 붙은 말로, 라틴어 alter(다른 사람)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

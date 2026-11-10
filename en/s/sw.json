@@ -1,0 +1,111 @@
+[
+  {
+    "word": "swerve",
+    "score": 32,
+    "zipf": 2.95,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "turn sharply; change direction abruptly",
+        "ko": "급히 방향을 틀다, 휙 비키다",
+        "synonyms": [
+          "veer",
+          "swing",
+          "sheer",
+          "dodge"
+        ],
+        "examples": [
+          {
+            "text": "The driver had to swerve sharply to avoid a fallen branch in the road.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To wander from any line prescribed, or from a rule or duty; to depart from what is established by law, duty, custom, or the like; to deviate.",
+        "ko": "벗어나다, 일탈하다",
+        "synonyms": [
+          "deviate",
+          "stray",
+          "depart",
+          "digress"
+        ],
+        "examples": [
+          {
+            "text": "They swerve from the strict letter of the law.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 sweorfan(문지르다, 돌아서다)에서 왔습니다. 옆으로 휙 틀어 비낀다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "swindle",
+    "score": 34,
+    "zipf": 2.67,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "deprive of by deceit",
+        "ko": "사기 치다, 속여 빼앗다",
+        "synonyms": [
+          "defraud",
+          "cheat",
+          "fleece",
+          "bilk",
+          "con"
+        ],
+        "examples": [
+          {
+            "text": "The two men swindled the company out of $160,000.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the act of swindling by some fraudulent scheme",
+        "ko": "사기, 속임수",
+        "synonyms": [
+          "fraud",
+          "scam",
+          "con",
+          "cheat"
+        ],
+        "examples": [
+          {
+            "text": "Investigators uncovered a pension swindle that had cost retirees millions of dollars.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "독일어 Schwindler(사기꾼)에서 역성된 말로, schwindeln(어지럽다, 속이다)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

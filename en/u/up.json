@@ -1,0 +1,84 @@
+[
+  {
+    "word": "upbraid",
+    "score": 90,
+    "zipf": 1.45,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To criticize severely.",
+        "ko": "호되게 꾸짖다, 질책하다",
+        "synonyms": [
+          "reproach",
+          "rebuke",
+          "scold",
+          "reprimand",
+          "censure"
+        ],
+        "examples": [
+          {
+            "text": "The captain upbraided the crew for their carelessness after the cargo was left unsecured during the storm.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "up-"
+    ],
+    "origin": {
+      "ko": "고대 영어 upbreġdan으로, up과 braid('홱 잡아채다')의 결합입니다. 잘못을 들춰내 몰아세우는 것이 '질책하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "upshot",
+    "score": 34,
+    "zipf": 2.68,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The final result, or outcome of something.",
+        "ko": "최종 결과, 결말",
+        "synonyms": [
+          "outcome",
+          "result",
+          "consequence",
+          "culmination",
+          "issue"
+        ],
+        "examples": [
+          {
+            "text": "The upshot of the long negotiations was a modest agreement that satisfied neither side completely.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "up-"
+    ],
+    "origin": {
+      "ko": "양궁 시합의 마지막 한 발에서 나온 말로 추정합니다. 마지막 결과라는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

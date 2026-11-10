@@ -1,0 +1,928 @@
+[
+  {
+    "word": "badger",
+    "score": 26,
+    "zipf": 3.48,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "annoy persistently",
+        "ko": "집요하게 괴롭히다, 졸라대다",
+        "synonyms": [
+          "pester",
+          "hound",
+          "harass",
+          "nag",
+          "bedevil"
+        ],
+        "examples": [
+          {
+            "text": "He kept badgering her about her bad habits.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "동물 오소리를 뜻하는 말로, 이마의 배지(badge) 같은 흰 줄무늬에서 이름이 붙었다고 합니다. 끈질기게 괴롭히는 동사 뜻은 여기서 파생되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "badinage",
+    "score": 27,
+    "zipf": 1.57,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "frivolous banter",
+        "ko": "희롱 섞인 농담, 놀림",
+        "synonyms": [
+          "banter",
+          "raillery",
+          "repartee",
+          "persiflage"
+        ],
+        "examples": [
+          {
+            "text": "The ministers traded badinage across the table before the formal talks began.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 badiner(농담하다)에서 왔고 옛 프로방스어 badar(입을 벌리다)와 이어집니다. 입을 헤벌리고 가볍게 장난치는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "baleful",
+    "score": 48,
+    "zipf": 2.15,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "threatening or foreshadowing evil or tragic developments",
+        "ko": "불길한, 위협적인",
+        "synonyms": [
+          "menacing",
+          "ominous",
+          "sinister",
+          "threatening",
+          "malevolent"
+        ],
+        "examples": [
+          {
+            "text": "a baleful look",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "deadly or sinister",
+        "ko": "해로운, 치명적인",
+        "synonyms": [
+          "baneful",
+          "deadly",
+          "harmful",
+          "pernicious"
+        ],
+        "examples": [
+          {
+            "text": "The baleful influence of the corrupt administration lingered long after its fall.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "bale",
+      "-ful"
+    ],
+    "origin": {
+      "ko": "고대 영어 bealuful에서 왔고 bale(재앙)에 -ful(가득한)이 붙은 말입니다. 재앙이 가득한 듯 불길하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "balk",
+    "score": 50,
+    "zipf": 2.72,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "refuse to comply",
+        "ko": "주저하다, 거부하다",
+        "synonyms": [
+          "resist",
+          "demur",
+          "shy away",
+          "recoil",
+          "baulk"
+        ],
+        "examples": [
+          {
+            "text": "balked at paying a day's wages for a pencil; he said he would buy her one, but when he saw the price, he balked",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "something immaterial that interferes with or delays action or progress",
+        "ko": "장애, 방해물",
+        "synonyms": [
+          "hindrance",
+          "impediment",
+          "obstacle",
+          "check"
+        ],
+        "examples": [
+          {
+            "text": "Bureaucratic delays proved a serious balk to the construction of the new bridge.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 balca(두둑, 칸막이)에서 왔습니다. 앞을 가로막는 장애물 때문에 멈칫하는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "balloon",
+    "score": 22,
+    "zipf": 3.9,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "become inflated",
+        "ko": "부풀다, 급증하다",
+        "synonyms": [
+          "swell",
+          "inflate",
+          "billow",
+          "expand"
+        ],
+        "examples": [
+          {
+            "text": "The city's budget deficit ballooned after the recession cut tax revenues sharply.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "large tough nonrigid bag filled with gas or heated air",
+        "ko": "기구, 풍선",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "A hot-air balloon drifted slowly over the valley at sunrise.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 pallone(큰 공)에서 왔습니다. 처음에는 큰 가죽 공으로 하던 놀이를 가리켰습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "banal",
+    "score": 96,
+    "zipf": 2.88,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "repeated too often; overfamiliar through overuse",
+        "ko": "진부한, 평범한",
+        "synonyms": [
+          "trite",
+          "hackneyed",
+          "commonplace",
+          "platitudinous",
+          "stale"
+        ],
+        "examples": [
+          {
+            "text": "banal conversation",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 banal(공동으로 쓰는)에서 왔습니다. 영주의 시설을 모두가 함께 쓰던 데서 흔해 빠진 '진부한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "banality",
+    "score": 35,
+    "zipf": 2.42,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a trite or obvious remark",
+        "ko": "상투적인 말, 진부함",
+        "synonyms": [
+          "platitude",
+          "cliche",
+          "bromide",
+          "truism"
+        ],
+        "examples": [
+          {
+            "text": "The keynote speech was a string of banalities about innovation and the future of work.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "banal",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "프랑스어 banalité에서 왔고 banal(진부한)에 -ity가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bandy",
+    "score": 36,
+    "zipf": 2.55,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "discuss lightly",
+        "ko": "(소문·이야기를) 이리저리 주고받다",
+        "synonyms": [
+          "exchange",
+          "trade",
+          "toss around",
+          "circulate"
+        ],
+        "examples": [
+          {
+            "text": "to have one's name bandied about (or around)",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To give and receive reciprocally; to exchange.",
+        "ko": "서로 주고받다",
+        "synonyms": [
+          "exchange",
+          "swap",
+          "trade"
+        ],
+        "examples": [
+          {
+            "text": "to bandy words (with somebody)",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 bander(테니스에서 공을 주고받다)에서 왔습니다. 공을 이리저리 주고받듯 말을 오가게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bane",
+    "score": 44,
+    "zipf": 3.26,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A cause of misery or ruin.",
+        "ko": "골칫거리, 화근",
+        "synonyms": [
+          "curse",
+          "scourge",
+          "blight",
+          "affliction",
+          "nemesis"
+        ],
+        "examples": [
+          {
+            "text": "the bane of one’s existence",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 bana(살인자, 죽음을 부르는 것)에서 왔습니다. 파멸의 원인이라는 뜻이 '골칫거리, 화근'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "banish",
+    "score": 46,
+    "zipf": 3.07,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "ban from a place of residence, as for punishment",
+        "ko": "추방하다, 내쫓다",
+        "synonyms": [
+          "exile",
+          "expel",
+          "deport",
+          "cast out",
+          "ostracize"
+        ],
+        "examples": [
+          {
+            "text": "He was banished from the kingdom for his crimes.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "drive away",
+        "ko": "(생각·감정을) 떨쳐 내다",
+        "synonyms": [
+          "dispel",
+          "dismiss",
+          "expel",
+          "eliminate"
+        ],
+        "examples": [
+          {
+            "text": "banish bad thoughts",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 banir(공표하다, 금지하다)에서 왔고 게르만어 어원입니다. 공식적으로 금지를 선포해 내쫓는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "banter",
+    "score": 26,
+    "zipf": 3.48,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "light teasing repartee",
+        "ko": "농담, 가벼운 주고받음",
+        "synonyms": [
+          "raillery",
+          "badinage",
+          "repartee",
+          "joshing"
+        ],
+        "examples": [
+          {
+            "text": "The easy banter between the two anchors made the evening news feel almost like a conversation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "baroque",
+    "score": 28,
+    "zipf": 3.32,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Overly and needlessly complicated.",
+        "ko": "지나치게 복잡한, 과도하게 장식적인",
+        "synonyms": [
+          "ornate",
+          "convoluted",
+          "elaborate",
+          "byzantine",
+          "florid"
+        ],
+        "examples": [
+          {
+            "text": "baroque bookkeeping in pursuit of tax dodges",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having elaborate symmetrical ornamentation",
+        "ko": "바로크풍의, 화려하게 장식된",
+        "synonyms": [
+          "ornate",
+          "florid",
+          "rococo",
+          "elaborate"
+        ],
+        "examples": [
+          {
+            "text": "The theater's baroque ceiling was crowded with gilded angels and plaster garlands.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "포르투갈어 barroco(일그러진 진주)에서 프랑스어를 거쳐 왔습니다. 찌그러진 진주처럼 과하게 꾸민 양식을 가리키게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "barrage",
+    "score": 27,
+    "zipf": 3.39,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the rapid and continuous delivery of linguistic communication (spoken or written)",
+        "ko": "(질문·비난 등의) 쇄도, 연발",
+        "synonyms": [
+          "bombardment",
+          "onslaught",
+          "torrent",
+          "fusillade",
+          "outpouring"
+        ],
+        "examples": [
+          {
+            "text": "a barrage of questions",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the heavy fire of artillery to saturate an area rather than hit a specific target",
+        "ko": "집중 포화, 탄막",
+        "synonyms": [
+          "bombardment",
+          "shelling",
+          "fusillade"
+        ],
+        "examples": [
+          {
+            "text": "they laid down a barrage in front of the advancing troops",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 barrage(장벽, 차단)를 그대로 빌려온 말입니다. 포격으로 길을 막는 데서 '쇄도'로 뜻이 넓어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "barren",
+    "score": 27,
+    "zipf": 3.4,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "completely wanting or lacking",
+        "ko": "~이 전혀 없는, 결핍된",
+        "synonyms": [
+          "devoid",
+          "destitute",
+          "bereft",
+          "lacking"
+        ],
+        "examples": [
+          {
+            "text": "writing barren of insight",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "providing no shelter or sustenance",
+        "ko": "불모의, 황량한",
+        "synonyms": [
+          "desolate",
+          "bleak",
+          "bare",
+          "infertile",
+          "arid"
+        ],
+        "examples": [
+          {
+            "text": "barren mountain tracts",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Unproductive, fruitless, unprofitable; empty, hollow, vain.",
+        "ko": "헛된, 성과 없는",
+        "synonyms": [
+          "fruitless",
+          "futile",
+          "unproductive",
+          "sterile"
+        ],
+        "examples": [
+          {
+            "text": "brilliant but barren reveries",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "앵글로노르만어 baraigne(불모의)에서 왔고 더 앞의 어원은 확실치 않습니다. 아무것도 자라지 않는 땅의 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "base",
+    "score": 48,
+    "zipf": 5.05,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not adhering to ethical or moral principles",
+        "ko": "비열한, 천한",
+        "synonyms": [
+          "ignoble",
+          "contemptible",
+          "despicable",
+          "immoral",
+          "mean"
+        ],
+        "examples": [
+          {
+            "text": "base and unpatriotic motives",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "(used of metals) consisting of or alloyed with inferior metal",
+        "ko": "(금속이) 비금속의, 저급한",
+        "synonyms": [
+          "inferior",
+          "debased",
+          "alloyed"
+        ],
+        "examples": [
+          {
+            "text": "a base metal",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 bas(낮은)에서 왔고 후기 라틴어 bassus(낮은)에서 나왔습니다. 지위나 도덕이 낮다는 데서 '비열한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bastardization",
+    "score": 26,
+    "zipf": 1.53,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an act that debases or corrupts",
+        "ko": "변질, 품질 저하",
+        "synonyms": [
+          "corruption",
+          "debasement",
+          "degradation",
+          "adulteration"
+        ],
+        "examples": [
+          {
+            "text": "Purists condemned the remake as a bastardization of the original novel's quiet moral force.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bate",
+    "score": 33,
+    "zipf": 2.76,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "moderate or restrain; lessen the force of",
+        "ko": "줄이다, 억제하다",
+        "synonyms": [
+          "abate",
+          "restrain",
+          "moderate",
+          "lessen"
+        ],
+        "examples": [
+          {
+            "text": "He bated his breath when talking about this affair",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "abate(약해지다)의 앞 글자 a가 떨어져 나간 형태입니다. 기세를 눌러 줄인다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bauble",
+    "score": 34,
+    "zipf": 2.29,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "cheap showy jewelry or ornament on clothing",
+        "ko": "값싸고 번지르르한 장신구",
+        "synonyms": [
+          "trinket",
+          "gewgaw",
+          "knickknack",
+          "bangle"
+        ],
+        "examples": [
+          {
+            "text": "The market stall was crowded with glittering baubles aimed at tourists.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Anything trivial and worthless.",
+        "ko": "하찮은 것, 쓸모없는 물건",
+        "synonyms": [
+          "trifle",
+          "triviality",
+          "plaything"
+        ],
+        "examples": [
+          {
+            "text": "She dismissed the title as a mere bauble that carried no real authority.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 babel(장신구, 아이 장난감)에서 왔습니다. 예쁘다는 뜻의 bel이 겹쳐진 말로 보입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bawdy",
+    "score": 35,
+    "zipf": 2.56,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "humorously vulgar",
+        "ko": "음란하고 익살스러운, 외설적인",
+        "synonyms": [
+          "ribald",
+          "risqué",
+          "off-color",
+          "lewd"
+        ],
+        "examples": [
+          {
+            "text": "bawdy songs",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bay",
+    "score": 16,
+    "zipf": 4.73,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "bark with prolonged noises, of dogs",
+        "ko": "(개 등이) 길게 짖다, 울부짖다",
+        "synonyms": [
+          "howl",
+          "bark",
+          "bellow",
+          "clamor"
+        ],
+        "examples": [
+          {
+            "text": "The hounds began to bay as soon as they caught the fox's scent.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an indentation of a shoreline larger than a cove but smaller than a gulf",
+        "ko": "만(灣)",
+        "synonyms": [
+          "inlet",
+          "cove",
+          "gulf"
+        ],
+        "examples": [
+          {
+            "text": "This hotel has a great view across the bay.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4647 @@
+[
+  {
+    "word": "diabolical",
+    "score": 31,
+    "zipf": 2.96,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "extremely evil or cruel; expressive of cruelty or befitting hell",
+        "ko": "극악무도한, 악마 같은",
+        "synonyms": [
+          "fiendish",
+          "demonic",
+          "satanic",
+          "infernal"
+        ],
+        "examples": [
+          {
+            "text": "The dictator's diabolical regime tortured dissidents and starved entire provinces into submission.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "showing the cunning or ingenuity or wickedness typical of a devil",
+        "ko": "악랄하게 교활한, 지독히 영리한",
+        "synonyms": [
+          "devilish",
+          "cunning",
+          "crafty"
+        ],
+        "examples": [
+          {
+            "text": "The villain devised a diabolical scheme that fooled even the most seasoned detectives.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dia-",
+      "bol",
+      "-ical"
+    ],
+    "origin": {
+      "ko": "그리스어 diábolos(악마)에서 왔고 '이간질하며 중상하는 자'라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "diadem",
+    "score": 35,
+    "zipf": 2.39,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An ornamental headband worn as a badge of royalty.",
+        "ko": "왕관, 왕권의 표시인 머리띠",
+        "synonyms": [
+          "crown",
+          "coronet",
+          "tiara"
+        ],
+        "examples": [
+          {
+            "text": "The Apollon wing of the Louvre has a set of historic crowns, diadems and sovereign jewellery.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Regal power; sovereignty; empire—considered as symbolized by the crown.",
+        "ko": "왕권, 통치권",
+        "synonyms": [
+          "sovereignty",
+          "royalty"
+        ],
+        "examples": [
+          {
+            "text": "The young prince was too eager to inherit the diadem and the burdens that came with it.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dia-",
+      "div(묶다)"
+    ],
+    "origin": {
+      "ko": "그리스어 diádēma(머리에 두르는 띠)에서 왔고 diadéō(둘러 묶다)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "diaphanous",
+    "score": 47,
+    "zipf": 1.97,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "so thin as to transmit light",
+        "ko": "속이 비칠 만큼 얇은, 투명한",
+        "synonyms": [
+          "sheer",
+          "gauzy",
+          "filmy",
+          "gossamer",
+          "transparent"
+        ],
+        "examples": [
+          {
+            "text": "The bride's diaphanous veil floated in the breeze, barely hiding her face.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dia-",
+      "phan",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "그리스어 diaphanḗs '투과해 보이는'에서 왔습니다. 빛이 통과해 비치는 얇은 천의 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "diatribe",
+    "score": 83,
+    "zipf": 2.58,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An abusive, bitter verbal or written attack, criticism or denunciation.",
+        "ko": "통렬한 비난, 독설",
+        "synonyms": [
+          "tirade",
+          "harangue",
+          "invective",
+          "fulmination"
+        ],
+        "examples": [
+          {
+            "text": "The senator was prone to diatribes which could go on for more than an hour.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dia-",
+      "trib(문지르다)"
+    ],
+    "origin": {
+      "ko": "그리스어 diatribḗ(시간을 보냄, 강론)에서 왔습니다. 닳도록 오래 이어지는 연설이 '통렬한 비난'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dichotomy",
+    "score": 46,
+    "zipf": 3.09,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "being twofold; a classification into two opposed parts or subclasses",
+        "ko": "이분법, 양분",
+        "synonyms": [
+          "duality",
+          "division",
+          "split"
+        ],
+        "examples": [
+          {
+            "text": "the dichotomy between eastern and western culture",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "di-",
+      "tom",
+      "-y"
+    ],
+    "origin": {
+      "ko": "그리스어 dikhotomía에서 왔습니다. 둘로 자른다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dictate",
+    "score": 25,
+    "zipf": 3.58,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To order, command, control.",
+        "ko": "명령하다, 좌우하다",
+        "synonyms": [
+          "command",
+          "prescribe",
+          "decree",
+          "determine"
+        ],
+        "examples": [
+          {
+            "text": "Etiquette dictates that wedding invitations should be acknowledged in writing.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a guiding principle",
+        "ko": "지침, 명령, 요구",
+        "synonyms": [
+          "precept",
+          "edict",
+          "mandate"
+        ],
+        "examples": [
+          {
+            "text": "the dictates of reason",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dic",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 dictō(되풀이해 말하다)에서 왔습니다. 말로 불러주는 데서 '명령하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dictatorial",
+    "score": 32,
+    "zipf": 2.91,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "expecting unquestioning obedience",
+        "ko": "독재적인, 권위적인",
+        "synonyms": [
+          "authoritarian",
+          "overbearing",
+          "domineering"
+        ],
+        "examples": [
+          {
+            "text": "The manager's dictatorial style left no room for questions or dissent among his staff.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "characteristic of an absolute ruler or absolute rule; having absolute sovereignty",
+        "ko": "독재자 같은, 전제적인",
+        "synonyms": [
+          "autocratic",
+          "despotic",
+          "tyrannical"
+        ],
+        "examples": [
+          {
+            "text": "The dictatorial ruler silenced the press and jailed every opponent who questioned his decrees.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dic",
+      "-al"
+    ]
+  },
+  {
+    "word": "dictum",
+    "score": 68,
+    "zipf": 2.45,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an authoritative declaration",
+        "ko": "공식 선언, 격언",
+        "synonyms": [
+          "pronouncement",
+          "maxim",
+          "edict"
+        ],
+        "examples": [
+          {
+            "text": "The coach's dictum that practice makes perfect shaped how the whole team trained.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A judicial opinion expressed by judges on points that do not necessarily arise in the case, and are not involved in it.",
+        "ko": "(판결의) 부수적 의견",
+        "synonyms": [
+          "obiter dictum"
+        ],
+        "examples": [
+          {
+            "text": "The judge's dictum on press freedom was not binding but was widely quoted in later cases.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dic"
+    ],
+    "origin": {
+      "ko": "라틴어 dictum(말해진 것, 격언)에서 왔고 dīcō(말하다)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "didactic",
+    "score": 98,
+    "zipf": 2.74,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Excessively moralizing.",
+        "ko": "훈계조의, 설교하려 드는",
+        "synonyms": [
+          "preachy",
+          "moralizing",
+          "pedantic"
+        ],
+        "examples": [
+          {
+            "text": "The novel's didactic tone made readers feel they were being lectured rather than entertained.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Instructive or intended to teach or demonstrate, especially with regard to morality.",
+        "ko": "교훈적인, 가르치려는",
+        "synonyms": [
+          "instructive",
+          "educative"
+        ],
+        "examples": [
+          {
+            "text": "didactic poetry",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 didaktikós(가르치는 데 능한)에서 왔고 didáskō(가르치다)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "differentiate",
+    "score": 25,
+    "zipf": 3.62,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To recognize as different or distinct.",
+        "ko": "구별하다, 식별하다",
+        "synonyms": [
+          "distinguish",
+          "discriminate",
+          "tell apart"
+        ],
+        "examples": [
+          {
+            "text": "How do you differentiate a fake smile from a genuine one?",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To show or be the difference or distinction between things.",
+        "ko": "차별화하다, 차이를 만들다",
+        "synonyms": [
+          "distinguish",
+          "set apart"
+        ],
+        "examples": [
+          {
+            "text": "What differentiates an alligator from a crocodile?",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "become different during development",
+        "ko": "분화하다",
+        "synonyms": [
+          "specialize"
+        ],
+        "examples": [
+          {
+            "text": "cells differentiate",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "fer",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 differentia(차이)에서 왔고 difference에서 파생한 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "diffidence",
+    "score": 29,
+    "zipf": 1.83,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "lack of self-confidence",
+        "ko": "자신 없음, 소심함",
+        "synonyms": [
+          "timidity",
+          "self-doubt",
+          "shyness",
+          "reticence"
+        ],
+        "examples": [
+          {
+            "text": "Her diffidence kept her from speaking up, even when she knew the answer.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "fid",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "라틴어 diffīdere(믿지 못하다)에서 왔습니다. 처음엔 남을 불신한다는 뜻이었고, 1650년대에 '자신을 못 믿는' 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "diffident",
+    "score": 96,
+    "zipf": 2.1,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking self-confidence",
+        "ko": "자신 없는, 소심한",
+        "synonyms": [
+          "shy",
+          "timid",
+          "unsure",
+          "reserved"
+        ],
+        "examples": [
+          {
+            "text": "stood in the doorway diffident and abashed",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "showing modest reserve",
+        "ko": "조심스러운, 겸손하게 삼가는",
+        "synonyms": [
+          "modest",
+          "reserved"
+        ],
+        "examples": [
+          {
+            "text": "she was diffident when offering a comment on the professor's lecture",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "fid",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 diffīdere(믿지 못하다)의 현재분사에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "diffuse",
+    "score": 44,
+    "zipf": 3.28,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking conciseness",
+        "ko": "장황한, 산만한",
+        "synonyms": [
+          "wordy",
+          "verbose",
+          "rambling",
+          "prolix"
+        ],
+        "examples": [
+          {
+            "text": "a diffuse historical novel",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To spread (something) over or through as in air, water, or other matter, especially by fluid motion or passive means.",
+        "ko": "퍼뜨리다, 확산시키다",
+        "synonyms": [
+          "disseminate",
+          "scatter",
+          "spread"
+        ],
+        "examples": [
+          {
+            "text": "Ideas are easily diffused with the help of technology.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "spread out; not concentrated in one place",
+        "ko": "널리 퍼진, 분산된",
+        "synonyms": [
+          "dispersed",
+          "scattered"
+        ],
+        "examples": [
+          {
+            "text": "a large diffuse organization",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "fus"
+    ],
+    "origin": {
+      "ko": "라틴어 diffundere(사방으로 쏟다)에서 왔습니다. 퍼져 흩어져서 '장황한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "digress",
+    "score": 33,
+    "zipf": 2.76,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking",
+        "ko": "주제에서 벗어나다, 곁길로 새다",
+        "synonyms": [
+          "stray",
+          "wander",
+          "divagate",
+          "deviate"
+        ],
+        "examples": [
+          {
+            "text": "She always digresses when telling a story",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "grad"
+    ],
+    "origin": {
+      "ko": "라틴어 digredi(따로 걸어가다)에서 왔습니다. 본래 길에서 옆으로 빠지는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "digression",
+    "score": 34,
+    "zipf": 2.25,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An aside, an act of straying from the main subject in speech or writing.",
+        "ko": "여담, 탈선, 주제 이탈",
+        "synonyms": [
+          "aside",
+          "tangent",
+          "excursus",
+          "divagation"
+        ],
+        "examples": [
+          {
+            "text": "The lectures included lengthy digressions on topics ranging from the professor's dog to the meaning of life.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "grad",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 dīgressiō에서 왔습니다. 주제에서 옆으로 걸어 나간다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dilapidated",
+    "score": 31,
+    "zipf": 3.05,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having fallen into a state of disrepair or deterioration, especially through neglect.",
+        "ko": "황폐한, 낡아 허물어진",
+        "synonyms": [
+          "ramshackle",
+          "decrepit",
+          "run-down",
+          "derelict"
+        ],
+        "examples": [
+          {
+            "text": "The dilapidated farmhouse had sagging beams and windows that had not been repaired in decades.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "lapid",
+      "-ate"
+    ]
+  },
+  {
+    "word": "dilate",
+    "score": 35,
+    "zipf": 2.44,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To become wider or larger; to expand.",
+        "ko": "팽창하다, 넓어지다",
+        "synonyms": [
+          "widen",
+          "expand",
+          "distend",
+          "enlarge"
+        ],
+        "examples": [
+          {
+            "text": "The eye doctor put drops in my eye to dilate the pupil so he could see the nerve better.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing",
+        "ko": "상세히 설명하다, 부연하다",
+        "synonyms": [
+          "elaborate",
+          "expatiate",
+          "expound",
+          "enlarge"
+        ],
+        "examples": [
+          {
+            "text": "The author declined to dilate on her methods, saying the appendix covered them thoroughly enough.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "lat(넓은)"
+    ],
+    "origin": {
+      "ko": "라틴어 dīlātāre(넓게 펼치다)에서 왔고 lātus(넓은)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dilatory",
+    "score": 77,
+    "zipf": 1.83,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Slow or tardy.",
+        "ko": "굼뜬, 꾸물대는",
+        "synonyms": [
+          "slow",
+          "tardy",
+          "laggard",
+          "sluggish"
+        ],
+        "examples": [
+          {
+            "text": "The dilatory contractor missed every deadline and left the renovation unfinished for months.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Intentionally delaying (someone or something), intended to cause delay, gain time, or adjourn decision.",
+        "ko": "시간을 끌려는, 지연시키는",
+        "synonyms": [
+          "delaying",
+          "stalling"
+        ],
+        "examples": [
+          {
+            "text": "a dilatory strategy",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "lat(나르다)",
+      "-ory"
+    ],
+    "origin": {
+      "ko": "라틴어 dīlātōrius(미루는)에서 왔고 differō에서 나왔습니다. delay와는 어원이 다릅니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dilettante",
+    "score": 98,
+    "zipf": 2.28,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an amateur who engages in an activity without serious intentions and who pretends to have knowledge",
+        "ko": "아마추어 애호가, 건성으로 하는 사람",
+        "synonyms": [
+          "dabbler",
+          "amateur",
+          "sciolist"
+        ],
+        "examples": [
+          {
+            "text": "The dilettante sampled painting, pottery and poetry but never mastered any of them.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "showing frivolous or superficial interest; amateurish",
+        "ko": "피상적인, 깊이 없는",
+        "synonyms": [
+          "amateurish",
+          "superficial",
+          "dilettantish"
+        ],
+        "examples": [
+          {
+            "text": "his dilettantish efforts at painting",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 dilettare(즐기다)의 현재분사에서 왔습니다. 즐기기 위해 하는 아마추어를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "diligent",
+    "score": 29,
+    "zipf": 3.23,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by care and perseverance in carrying out tasks",
+        "ko": "근면한, 성실한",
+        "synonyms": [
+          "industrious",
+          "assiduous",
+          "persevering",
+          "conscientious"
+        ],
+        "examples": [
+          {
+            "text": "a diligent search of the files",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "leg(고르다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 dīligō(아끼다, 문자대로 '골라내다')에서 왔습니다. 골라 아끼는 마음으로 정성을 들이는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "diminutive",
+    "score": 46,
+    "zipf": 3.09,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "very small",
+        "ko": "아주 작은",
+        "synonyms": [
+          "tiny",
+          "petite",
+          "minute",
+          "lilliputian"
+        ],
+        "examples": [
+          {
+            "text": "diminutive in stature",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "min(작은)",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "라틴어 dīminuere(줄이다)에서 고대 프랑스어를 거쳐 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "din",
+    "score": 25,
+    "zipf": 3.56,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a loud harsh or strident noise",
+        "ko": "시끄러운 소음, 소란",
+        "synonyms": [
+          "clamor",
+          "racket",
+          "cacophony",
+          "uproar"
+        ],
+        "examples": [
+          {
+            "text": "The din of the construction site made conversation across the street nearly impossible.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "instill (into a person) by constant repetition",
+        "ko": "되풀이해 주입하다, 귀가 따갑게 가르치다",
+        "synonyms": [
+          "drum",
+          "hammer",
+          "instill"
+        ],
+        "examples": [
+          {
+            "text": "he dinned the lessons into his students",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 dyne(소음)에서 왔고 인도유럽어 어근 '소리 내다'로 거슬러 올라갑니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dingy",
+    "score": 33,
+    "zipf": 2.82,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Shabby, squalid, uncared-for.",
+        "ko": "꾀죄죄한, 허름한",
+        "synonyms": [
+          "grimy",
+          "shabby",
+          "seedy",
+          "grubby"
+        ],
+        "examples": [
+          {
+            "text": "The dingy apartment smelled of damp and its walls were stained from years of neglect.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Dark, dull.",
+        "ko": "우중충한, 칙칙한",
+        "synonyms": [
+          "drab",
+          "gloomy",
+          "dreary",
+          "dismal"
+        ],
+        "examples": [
+          {
+            "text": "The dingy light of a winter afternoon made the office feel even more oppressive.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "켄트 방언 dingy(더러운)에서 왔다고 보며, 확실하지 않습니다. dung(똥)에서 왔을 가능성이 있습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dint",
+    "score": 34,
+    "zipf": 2.73,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "interchangeable with ‘means’ in the expression ‘by means of’",
+        "ko": "힘, 수단 (by dint of: ~의 힘으로)",
+        "synonyms": [
+          "means",
+          "force",
+          "power"
+        ],
+        "examples": [
+          {
+            "text": "By dint of sheer persistence, she finished the marathon despite a severe injury.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 dynt(타격, 일격)에서 왔습니다. 일격으로 이뤄낸 힘에서 'by dint of'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dirge",
+    "score": 67,
+    "zipf": 2.38,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A mournful poem or piece of music composed or performed as a memorial to a deceased person.",
+        "ko": "애가, 장송곡",
+        "synonyms": [
+          "lament",
+          "requiem",
+          "threnody",
+          "elegy"
+        ],
+        "examples": [
+          {
+            "text": "It was as if the night sang dirges with clenched teeth.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 dirige(인도하소서)에서 왔습니다. 장례 기도문의 첫머리 말이 그대로 '장송곡'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disabuse",
+    "score": 63,
+    "zipf": 2.01,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To free (someone) of a misconception or misapprehension; to unveil a falsehood held by (someone).",
+        "ko": "그릇된 생각을 깨우쳐 주다",
+        "synonyms": [
+          "enlighten",
+          "undeceive",
+          "correct"
+        ],
+        "examples": [
+          {
+            "text": "If we had any hopes or illusions about the National Party before they came into office, we were disabused of them quickly.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "ab-",
+      "us"
+    ],
+    "origin": {
+      "ko": "dis-와 abuse를 합친 말로, 프랑스어 désabuser와 비교됩니다. 속은 것을 풀어 준다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disaffected",
+    "score": 50,
+    "zipf": 2.75,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "discontented as toward authority",
+        "ko": "불만을 품은, 마음이 멀어진",
+        "synonyms": [
+          "alienated",
+          "discontented",
+          "malcontent",
+          "estranged"
+        ],
+        "examples": [
+          {
+            "text": "Disaffected voters stayed home, convinced that neither party would address their concerns.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "ad-",
+      "fac(만들다)"
+    ]
+  },
+  {
+    "word": "disapprobation",
+    "score": 26,
+    "zipf": 1.51,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An act or expression of condemnation or disapproval, especially on moral grounds.",
+        "ko": "불찬성, 비난",
+        "synonyms": [
+          "disapproval",
+          "censure",
+          "condemnation"
+        ],
+        "examples": [
+          {
+            "text": "The council's disapprobation of the plan was evident in the stony silence that followed.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "ad-",
+      "prob",
+      "-ation"
+    ]
+  },
+  {
+    "word": "discern",
+    "score": 29,
+    "zipf": 3.23,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To perceive, recognize, or comprehend with the mind; to descry.",
+        "ko": "알아차리다, 파악하다",
+        "synonyms": [
+          "perceive",
+          "detect",
+          "recognize",
+          "apprehend"
+        ],
+        "examples": [
+          {
+            "text": "Critics could discern a hint of irony beneath the author's earnest prose.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To distinguish something as being different from something else; to differentiate or discriminate.",
+        "ko": "구별하다, 분간하다",
+        "synonyms": [
+          "distinguish",
+          "differentiate",
+          "discriminate"
+        ],
+        "examples": [
+          {
+            "text": "He was too young to discern right from wrong.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "cern"
+    ],
+    "origin": {
+      "ko": "라틴어 discernere(갈라 구별하다)에서 왔습니다. 체로 걸러 따로 나누는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "discernible",
+    "score": 31,
+    "zipf": 2.97,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "perceptible by the senses or intellect",
+        "ko": "식별할 수 있는, 눈에 띄는",
+        "synonyms": [
+          "perceptible",
+          "detectable",
+          "noticeable",
+          "observable"
+        ],
+        "examples": [
+          {
+            "text": "the newspaper reports no discernible progress in the negotiations",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "cern",
+      "-able"
+    ],
+    "origin": {
+      "ko": "discern에 -ible이 붙은 말로, 가려낼 수 있다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "discerning",
+    "score": 31,
+    "zipf": 3.02,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having or revealing keen insight and good judgment",
+        "ko": "안목 있는, 통찰력 있는",
+        "synonyms": [
+          "perceptive",
+          "astute",
+          "judicious",
+          "shrewd"
+        ],
+        "examples": [
+          {
+            "text": "a discerning critic",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "cern"
+    ]
+  },
+  {
+    "word": "discomfit",
+    "score": 39,
+    "zipf": 1.22,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To embarrass (someone) greatly; to confuse; to perplex; to disconcert.",
+        "ko": "당황하게 하다, 쩔쩔매게 하다",
+        "synonyms": [
+          "disconcert",
+          "abash",
+          "fluster",
+          "confound"
+        ],
+        "examples": [
+          {
+            "text": "The reporter's blunt question visibly discomfited the minister, who fumbled for an answer.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "con-",
+      "fac(만들다)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 desconfit(패배한)에서 왔습니다. 원래 '무너뜨리다'였고 discomfort와 혼동되어 '당황시키다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disconcert",
+    "score": 27,
+    "zipf": 1.62,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To upset the composure of; to startle.",
+        "ko": "당황하게 하다, 불안하게 하다",
+        "synonyms": [
+          "unsettle",
+          "rattle",
+          "fluster",
+          "discomfit"
+        ],
+        "examples": [
+          {
+            "text": "The embrace disconcerted the daughter-in-law somewhat, as the caresses of old gentlemen unshorn and perfumed with tobacco might well do.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To frustrate, discomfit.",
+        "ko": "좌절시키다, 계획을 망치다",
+        "synonyms": [
+          "foil",
+          "thwart"
+        ],
+        "examples": [
+          {
+            "text": "The emperor disconcerted the plans of his enemy.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "con-",
+      "cert"
+    ],
+    "origin": {
+      "ko": "프랑스어 desconcerter에서 왔습니다. 맞춰진 조화를 흩뜨려 당황하게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disconsolate",
+    "score": 32,
+    "zipf": 2.08,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "sad beyond comforting; incapable of being consoled",
+        "ko": "위로할 수 없을 만큼 슬픈, 실의에 빠진",
+        "synonyms": [
+          "inconsolable",
+          "dejected",
+          "forlorn",
+          "despondent"
+        ],
+        "examples": [
+          {
+            "text": "For weeks after the death of her cat she was disconsolate.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "con-",
+      "sol(위로)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 discōnsōlātus(위로받지 못한)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "discord",
+    "score": 26,
+    "zipf": 3.45,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "lack of agreement or harmony",
+        "ko": "불화, 불일치",
+        "synonyms": [
+          "strife",
+          "dissension",
+          "conflict",
+          "friction"
+        ],
+        "examples": [
+          {
+            "text": "Discord among the coalition partners threatened to bring down the government before the budget vote.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a harsh mixture of sounds",
+        "ko": "불협화음",
+        "synonyms": [
+          "dissonance",
+          "cacophony"
+        ],
+        "examples": [
+          {
+            "text": "The untuned instruments produced a painful discord that made the audience wince.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "cord"
+    ],
+    "origin": {
+      "ko": "라틴어 discors(마음이 갈라진)에서 왔습니다. 마음(cor)이 따로따로이니 '불화'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "discordant",
+    "score": 35,
+    "zipf": 2.6,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not in agreement or harmony",
+        "ko": "조화되지 않는, 상충하는",
+        "synonyms": [
+          "conflicting",
+          "incongruous",
+          "inharmonious",
+          "at odds"
+        ],
+        "examples": [
+          {
+            "text": "views discordant with present-day ideas",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "lacking in harmony",
+        "ko": "불협화음의, 귀에 거슬리는",
+        "synonyms": [
+          "dissonant",
+          "jarring",
+          "harsh"
+        ],
+        "examples": [
+          {
+            "text": "The discordant notes of the out-of-tune piano echoed through the empty hall.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "cord",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 discordāre(마음이 안 맞다)의 현재분사에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "discount",
+    "score": 18,
+    "zipf": 4.35,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To disregard or regard as unimportant.",
+        "ko": "무시하다, 에누리해서 듣다",
+        "synonyms": [
+          "disregard",
+          "dismiss",
+          "ignore",
+          "downplay"
+        ],
+        "examples": [
+          {
+            "text": "Owing to his reputation, they discounted his comments.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A reduction in price.",
+        "ko": "할인",
+        "synonyms": [
+          "rebate",
+          "markdown",
+          "reduction"
+        ],
+        "examples": [
+          {
+            "text": "For the summer sale, there was 40% discount in all the stores at the mall.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "count"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 discomputō(차감하다)에서 왔습니다. 셈에서 덜어내는 데서 '대수롭지 않게 보다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "discredit",
+    "score": 27,
+    "zipf": 3.36,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To cause (an idea or piece of evidence) to seem false or unreliable.",
+        "ko": "신빙성을 떨어뜨리다, 불신하게 만들다",
+        "synonyms": [
+          "disprove",
+          "invalidate",
+          "debunk",
+          "refute"
+        ],
+        "examples": [
+          {
+            "text": "The evidence would tend to discredit such a theory.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "damage the reputation of",
+        "ko": "명예를 훼손하다, 망신시키다",
+        "synonyms": [
+          "disgrace",
+          "defame",
+          "smear"
+        ],
+        "examples": [
+          {
+            "text": "This newspaper story discredits the politicians",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "cred"
+    ],
+    "origin": {
+      "ko": "dis-와 credit(신용)을 합친 말입니다. 믿음을 없앤다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "discreet",
+    "score": 59,
+    "zipf": 3.43,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by prudence or modesty and wise self-restraint",
+        "ko": "신중한, 분별 있는",
+        "synonyms": [
+          "prudent",
+          "circumspect",
+          "tactful",
+          "judicious"
+        ],
+        "examples": [
+          {
+            "text": "his trusted discreet aide",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "cern"
+    ],
+    "origin": {
+      "ko": "라틴어 discrētus(가려낸)에서 왔습니다. 옳고 그름을 가려내는 분별에서 '신중한'이 되었습니다. discrete와 이중어입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "discrepancy",
+    "score": 44,
+    "zipf": 3.29,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An inconsistency between facts or sentiments.",
+        "ko": "불일치, 모순",
+        "synonyms": [
+          "inconsistency",
+          "disparity",
+          "divergence",
+          "variance"
+        ],
+        "examples": [
+          {
+            "text": "They found a discrepancy between the first set of test results and the second, and they're still trying to figure out why.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "crep",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "라틴어 discrepantia에서 왔고 discrepō(소리가 어긋나다)가 뿌리입니다. 소리가 맞지 않는 데서 '불일치'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "discrete",
+    "score": 41,
+    "zipf": 3.56,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "constituting a separate entity or part",
+        "ko": "별개의, 분리된",
+        "synonyms": [
+          "distinct",
+          "separate",
+          "individual",
+          "detached"
+        ],
+        "examples": [
+          {
+            "text": "a government with three discrete divisions",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "cern"
+    ],
+    "origin": {
+      "ko": "라틴어 discrētus(갈라진)에서 왔습니다. discreet와 이중어입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "discretionary",
+    "score": 28,
+    "zipf": 3.26,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having or using the ability to act or decide according to your own discretion or judgment",
+        "ko": "재량에 따른, 임의의",
+        "synonyms": [
+          "optional",
+          "elective",
+          "at one's discretion"
+        ],
+        "examples": [
+          {
+            "text": "The commission has discretionary power to award extra funds",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "cern",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "discretion(분별, 재량)에 -ary가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "discriminate",
+    "score": 26,
+    "zipf": 3.51,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To make distinctions.",
+        "ko": "구별하다, 식별하다",
+        "synonyms": [
+          "distinguish",
+          "differentiate",
+          "discern"
+        ],
+        "examples": [
+          {
+            "text": "Since he was color blind he was unable to discriminate between the blue and green bottles.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To make decisions harmful to (a person or group) based on prejudice.",
+        "ko": "차별하다",
+        "synonyms": [
+          "show bias",
+          "victimize"
+        ],
+        "examples": [
+          {
+            "text": "The law prohibits discriminating against people based on their skin color.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "cern",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 discrīmināre(갈라 구별하다)에서 왔고 discernō(가려내다)와 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "discriminating",
+    "score": 46,
+    "zipf": 3.14,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing or indicating careful judgment and discernment especially in matters of taste",
+        "ko": "안목 있는, 식별력 있는",
+        "synonyms": [
+          "discerning",
+          "refined",
+          "judicious",
+          "selective"
+        ],
+        "examples": [
+          {
+            "text": "The restaurant attracts discriminating customers who expect high-quality ingredients.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "cern"
+    ]
+  },
+  {
+    "word": "discursive",
+    "score": 52,
+    "zipf": 2.53,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects",
+        "ko": "산만한, 두서없이 이어지는",
+        "synonyms": [
+          "digressive",
+          "rambling",
+          "wandering",
+          "meandering"
+        ],
+        "examples": [
+          {
+            "text": "a rambling discursive book",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "proceeding to a conclusion by reason or argument rather than intuition",
+        "ko": "추론적인, 논증에 의한",
+        "synonyms": [
+          "analytical",
+          "rational"
+        ],
+        "examples": [
+          {
+            "text": "Philosophy proceeds by discursive reasoning rather than by flashes of intuition or revelation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "cur(달리다)",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "라틴어 discursus(이리저리 달림)에서 왔습니다. 이야기가 이곳저곳으로 뛰어다니는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disdain",
+    "score": 44,
+    "zipf": 3.33,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "lack of respect accompanied by a feeling of intense dislike",
+        "ko": "경멸, 멸시",
+        "synonyms": [
+          "contempt",
+          "scorn",
+          "derision"
+        ],
+        "examples": [
+          {
+            "text": "The cat viewed the cheap supermarket catfood with disdain and stalked away.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "reject with contempt",
+        "ko": "경멸하며 거부하다",
+        "synonyms": [
+          "spurn",
+          "scorn",
+          "reject"
+        ],
+        "examples": [
+          {
+            "text": "The critic disdained popular fiction, refusing even to review novels he considered beneath serious attention.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "dign"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 desdeignier(가치 없다고 여기다)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disembark",
+    "score": 34,
+    "zipf": 2.68,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "go ashore",
+        "ko": "하선하다, 내리다",
+        "synonyms": [
+          "debark",
+          "alight",
+          "land"
+        ],
+        "examples": [
+          {
+            "text": "The passengers disembarked at Southampton",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "in-(안으로)",
+      "bark"
+    ]
+  },
+  {
+    "word": "disenfranchise",
+    "score": 50,
+    "zipf": 2.28,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "deprive of voting rights",
+        "ko": "선거권을 박탈하다, 권리를 빼앗다",
+        "synonyms": [
+          "disfranchise",
+          "exclude"
+        ],
+        "examples": [
+          {
+            "text": "Strict identification laws could disenfranchise elderly voters who no longer hold a valid driver's license.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "in-(안으로)",
+      "franch",
+      "-ize"
+    ]
+  },
+  {
+    "word": "disentangle",
+    "score": 34,
+    "zipf": 2.27,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "free from involvement or entanglement",
+        "ko": "(얽힌 관계에서) 빼내다, 벗어나다",
+        "synonyms": [
+          "extricate",
+          "disengage",
+          "free"
+        ],
+        "examples": [
+          {
+            "text": "How can I disentangle myself from her personal affairs?",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To unravel; to separate into discrete components or units.",
+        "ko": "풀어서 가려내다, 분리해 내다",
+        "synonyms": [
+          "unravel",
+          "untangle",
+          "sort out"
+        ],
+        "examples": [
+          {
+            "text": "This overlapping is reflective of hybrid languages, where certain features (phonetic, orthographic, semantic, syntactic) are also difficult to disentangle.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "in-(안으로)",
+      "tangle"
+    ]
+  },
+  {
+    "word": "disgorge",
+    "score": 29,
+    "zipf": 1.78,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To vomit or spew, to discharge.",
+        "ko": "토해 내다, 쏟아내다",
+        "synonyms": [
+          "spew",
+          "vomit",
+          "discharge",
+          "eject"
+        ],
+        "examples": [
+          {
+            "text": "The train disgorged hundreds of commuters onto the crowded platform.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To surrender (stolen goods or money, for example) unwillingly.",
+        "ko": "(부정 이득을) 마지못해 내놓다",
+        "synonyms": [
+          "surrender",
+          "relinquish",
+          "give up"
+        ],
+        "examples": [
+          {
+            "text": "Regulators forced the firm to disgorge the profits it had made through insider trading.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "gorg"
+    ],
+    "origin": {
+      "ko": "프랑스어 desgorger에서 왔습니다. 목구멍(gorge)에서 쏟아낸다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disheartened",
+    "score": 34,
+    "zipf": 2.75,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "made less hopeful or enthusiastic",
+        "ko": "낙담한, 의기소침한",
+        "synonyms": [
+          "discouraged",
+          "dejected",
+          "demoralized",
+          "dispirited"
+        ],
+        "examples": [
+          {
+            "text": "felt discouraged by the magnitude of the problem",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "heart"
+    ],
+    "origin": {
+      "ko": "동사 hearten(용기를 북돋우다)에서 온 말입니다. 용기를 잃은 상태를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disillusion",
+    "score": 35,
+    "zipf": 2.43,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To free or deprive of illusion; to disenchant.",
+        "ko": "환상에서 깨어나게 하다, 환멸을 느끼게 하다",
+        "synonyms": [
+          "disenchant",
+          "disabuse",
+          "undeceive"
+        ],
+        "examples": [
+          {
+            "text": "Years of bureaucratic delay began to disillusion the once-idealistic young volunteers.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "lud",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "dis-와 illusion을 합친 말로, 환상을 걷어낸다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disingenuous",
+    "score": 80,
+    "zipf": 2.95,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not straightforward or candid; giving a false appearance of frankness",
+        "ko": "솔직한 척하는, 불성실한",
+        "synonyms": [
+          "insincere",
+          "artful",
+          "duplicitous",
+          "feigning"
+        ],
+        "examples": [
+          {
+            "text": "a disingenuous excuse",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "gen",
+      "-ous"
+    ]
+  },
+  {
+    "word": "disinterested",
+    "score": 64,
+    "zipf": 2.91,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having no interest or stake in the outcome, and no conflicts of interest; free of bias, impartial.",
+        "ko": "사심 없는, 공정한",
+        "synonyms": [
+          "impartial",
+          "unbiased",
+          "neutral",
+          "objective"
+        ],
+        "examples": [
+          {
+            "text": "A disinterested mediator with no stake in the dispute is needed to settle the contract.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Synonym of uninterested (“not interested; not concerned; indifferent”).",
+        "ko": "무관심한",
+        "synonyms": [
+          "uninterested",
+          "indifferent",
+          "apathetic"
+        ],
+        "examples": [
+          {
+            "text": "Robin took to wandering again, to intermittent travel from which she came back hours, days later, disinterested.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "inter-",
+      "ess"
+    ],
+    "origin": {
+      "ko": "dis-와 interested를 합친 말이거나 disinterest의 과거분사로 봅니다. 이해관계가 없다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disjointed",
+    "score": 32,
+    "zipf": 2.88,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking orderly continuity",
+        "ko": "두서없는, 일관성 없는",
+        "synonyms": [
+          "disconnected",
+          "incoherent",
+          "rambling",
+          "fragmented"
+        ],
+        "examples": [
+          {
+            "text": "The witness gave a disjointed account that jumped between events without clear order.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "jug"
+    ]
+  },
+  {
+    "word": "dismiss",
+    "score": 22,
+    "zipf": 3.85,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "bar from attention or consideration",
+        "ko": "묵살하다, 일축하다",
+        "synonyms": [
+          "disregard",
+          "brush aside",
+          "ignore",
+          "reject"
+        ],
+        "examples": [
+          {
+            "text": "She dismissed the idea as ridiculous.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "terminate the employment of; discharge from an office or position",
+        "ko": "해고하다, 해임하다",
+        "synonyms": [
+          "fire",
+          "discharge",
+          "sack",
+          "terminate"
+        ],
+        "examples": [
+          {
+            "text": "The company dismissed me after less than a year.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cease to consider; put out of judicial consideration",
+        "ko": "(소송을) 기각하다",
+        "synonyms": [
+          "throw out",
+          "reject"
+        ],
+        "examples": [
+          {
+            "text": "The court dismissed the case.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "mit(보내다)"
+    ],
+    "origin": {
+      "ko": "라틴어 dīmittō(보내 버리다)에서 왔습니다. 멀리 내보내는 이미지가 '묵살하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disparage",
+    "score": 51,
+    "zipf": 2.58,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "express a negative opinion of",
+        "ko": "깎아내리다, 폄하하다",
+        "synonyms": [
+          "belittle",
+          "denigrate",
+          "deprecate",
+          "vilify"
+        ],
+        "examples": [
+          {
+            "text": "She disparaged her student's efforts",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "par(같은)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 desparagier(신분이 맞지 않게 하다)에서 왔습니다. 동등한 지위(parage)에서 끌어내린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disparate",
+    "score": 76,
+    "zipf": 3.26,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "fundamentally different or distinct in quality or kind",
+        "ko": "본질적으로 다른, 이질적인",
+        "synonyms": [
+          "dissimilar",
+          "distinct",
+          "incongruous",
+          "divergent"
+        ],
+        "examples": [
+          {
+            "text": "such disparate attractions as grand opera and game fishing",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "par(준비)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 disparātus(갈라 놓은)에서 왔습니다. 서로 나뉘어 이질적이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dispassionate",
+    "score": 68,
+    "zipf": 2.53,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unaffected by strong emotion or prejudice",
+        "ko": "감정에 치우치지 않는, 냉정한",
+        "synonyms": [
+          "impartial",
+          "objective",
+          "detached",
+          "unemotional"
+        ],
+        "examples": [
+          {
+            "text": "a journalist should be a dispassionate reporter of fact",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "pass(겪다)",
+      "-ate"
+    ]
+  },
+  {
+    "word": "dispatch",
+    "score": 55,
+    "zipf": 3.76,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the property of being prompt and efficient",
+        "ko": "신속함, 재빠른 처리",
+        "synonyms": [
+          "promptness",
+          "speed",
+          "expedition",
+          "haste"
+        ],
+        "examples": [
+          {
+            "text": "We must act with dispatch in this matter.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "dispose of rapidly and without delay and efficiently",
+        "ko": "재빨리 처리하다",
+        "synonyms": [
+          "finish",
+          "expedite",
+          "settle"
+        ],
+        "examples": [
+          {
+            "text": "He dispatched the task he was assigned",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "send away towards a designated goal",
+        "ko": "파견하다, 발송하다",
+        "synonyms": [
+          "send",
+          "ship",
+          "forward"
+        ],
+        "examples": [
+          {
+            "text": "Scores of foreign journalists have been dispatched to Seoul to report on the growing tensions between the two Koreas and the possibility of war.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "스페인어 despachar나 이탈리아어 dispacciare에서 왔다고 보며, 자세한 기원은 불확실합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dispensation",
+    "score": 32,
+    "zipf": 2.85,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an exemption from some rule or obligation",
+        "ko": "(규칙·의무의) 면제, 특별 허가",
+        "synonyms": [
+          "exemption",
+          "exception",
+          "waiver",
+          "license"
+        ],
+        "examples": [
+          {
+            "text": "The school granted her a special dispensation to submit the thesis after the usual deadline.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the act of dispensing (giving out in portions)",
+        "ko": "분배, 배분",
+        "synonyms": [
+          "distribution",
+          "allocation"
+        ],
+        "examples": [
+          {
+            "text": "a fair dispensation of money",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "pend",
+      "-ation"
+    ],
+    "origin": {
+      "ko": "라틴어 dispēnsātiō에서 왔습니다. 저울에 달아 나누어 주는 데서 '면제, 특별 허가'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dispense",
+    "score": 30,
+    "zipf": 3.11,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "administer or bestow, as in small portions",
+        "ko": "나누어 주다, 분배하다",
+        "synonyms": [
+          "distribute",
+          "mete out",
+          "allot",
+          "dole out"
+        ],
+        "examples": [
+          {
+            "text": "He is delighted to dispense a share of it to all the company.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "grant a dispensation; grant an exemption",
+        "ko": "면제해 주다",
+        "synonyms": [
+          "exempt",
+          "excuse",
+          "absolve"
+        ],
+        "examples": [
+          {
+            "text": "I was dispensed from this terrible task",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "pend"
+    ],
+    "origin": {
+      "ko": "라틴어 dispendere(달아서 나누다)에서 왔습니다. 무게를 달아 조금씩 나누어 준다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disperse",
+    "score": 44,
+    "zipf": 3.3,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "move away from each other",
+        "ko": "흩어지다, 해산하다",
+        "synonyms": [
+          "scatter",
+          "dissipate",
+          "spread out",
+          "break up"
+        ],
+        "examples": [
+          {
+            "text": "The crowds dispersed",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "to cause to separate and go in different directions",
+        "ko": "흩뜨리다, 해산시키다",
+        "synonyms": [
+          "scatter",
+          "dispel",
+          "break up"
+        ],
+        "examples": [
+          {
+            "text": "Police used loudspeakers to disperse the protesters before the evening curfew began.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To disseminate.",
+        "ko": "퍼뜨리다, 전파하다",
+        "synonyms": [
+          "disseminate",
+          "spread",
+          "circulate"
+        ],
+        "examples": [
+          {
+            "text": "Volunteers helped disperse leaflets about the new vaccination program across the rural district.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "sper(뿌리다)"
+    ],
+    "origin": {
+      "ko": "라틴어 dispergō(흩뿌리다)에서 왔고 spargō(뿌리다)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disport",
+    "score": 24,
+    "zipf": 1.28,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To amuse oneself divertingly or playfully; in particular, to cavort or gambol.",
+        "ko": "흥겹게 놀다, 뛰놀다",
+        "synonyms": [
+          "frolic",
+          "cavort",
+          "gambol",
+          "frisk"
+        ],
+        "examples": [
+          {
+            "text": "Children disported themselves in the shallow surf while their parents dozed on the sand.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "port(나르다)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 desporter(즐겁게 놀다)에서 왔습니다. 일에서 몸을 옮겨 놀이하는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disposition",
+    "score": 42,
+    "zipf": 3.48,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Temperament, temperamental makeup or habitual mood.",
+        "ko": "기질, 성향",
+        "synonyms": [
+          "temperament",
+          "nature",
+          "temper",
+          "spirit"
+        ],
+        "examples": [
+          {
+            "text": "She has a sunny disposition.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an attitude of mind especially one that favors one alternative over others",
+        "ko": "경향, 의향",
+        "synonyms": [
+          "inclination",
+          "tendency",
+          "propensity",
+          "bent"
+        ],
+        "examples": [
+          {
+            "text": "Salt has a disposition to dissolve in water.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Final decision or settlement.",
+        "ko": "처분, 처리, 최종 결정",
+        "synonyms": [
+          "settlement",
+          "resolution",
+          "outcome"
+        ],
+        "examples": [
+          {
+            "text": "The disposition of the case will be announced tomorrow.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "pos",
+      "-ition"
+    ],
+    "origin": {
+      "ko": "라틴어 dispositiō(배치)에서 왔습니다. 마음이 놓인 상태가 '기질'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disquieting",
+    "score": 34,
+    "zipf": 2.33,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "causing mental discomfort",
+        "ko": "불안하게 하는, 마음을 어지럽히는",
+        "synonyms": [
+          "disturbing",
+          "unsettling",
+          "worrying",
+          "alarming"
+        ],
+        "examples": [
+          {
+            "text": "the disquieting sounds of nearby gunfire",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "qui"
+    ]
+  },
+  {
+    "word": "disquisition",
+    "score": 27,
+    "zipf": 1.63,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A lengthy, formal discourse that analyses or explains some topic; (loosely) a dissertation or treatise.",
+        "ko": "장황한 논설, 상세한 논문",
+        "synonyms": [
+          "treatise",
+          "dissertation",
+          "discourse",
+          "essay"
+        ],
+        "examples": [
+          {
+            "text": "The professor's disquisition on medieval trade routes ran well past the end of the seminar.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "quer(구하다)",
+      "-ition"
+    ],
+    "origin": {
+      "ko": "라틴어 disquīsītiō(탐구)에서 왔고 disquīrō(샅샅이 조사하다)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dissemble",
+    "score": 78,
+    "zipf": 1.86,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "hide under a false appearance",
+        "ko": "(감정·의도를) 숨기다, 위장하다",
+        "synonyms": [
+          "conceal",
+          "mask",
+          "cloak",
+          "disguise"
+        ],
+        "examples": [
+          {
+            "text": "He masked his disappointment",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make believe with the intent to deceive",
+        "ko": "가장하다, ~인 체하다",
+        "synonyms": [
+          "feign",
+          "pretend",
+          "sham",
+          "dissimulate"
+        ],
+        "examples": [
+          {
+            "text": "He dissembled sleep so that the guards would not question him during the long night.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "simil"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 dissembler에서 왔고 라틴어 dissimulō(숨기다)에 기원합니다. 겉모습을 다르게 꾸민다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dissembler",
+    "score": 22,
+    "zipf": 1.1,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives",
+        "ko": "위선자, 본심을 숨기는 사람",
+        "synonyms": [
+          "hypocrite",
+          "dissimulator",
+          "pretender",
+          "phony"
+        ],
+        "examples": [
+          {
+            "text": "The senator proved a skilled dissembler, smiling warmly at rivals he was quietly working to undermine.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "simil",
+      "-er"
+    ],
+    "origin": {
+      "ko": "dissemble에 -er이 붙어 본심을 숨기는 사람을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "disseminate",
+    "score": 79,
+    "zipf": 3.03,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause to become widely known",
+        "ko": "널리 퍼뜨리다, 보급하다",
+        "synonyms": [
+          "spread",
+          "circulate",
+          "propagate",
+          "broadcast",
+          "distribute"
+        ],
+        "examples": [
+          {
+            "text": "The values of the human rights movement have disseminated throughout the world.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "semin",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 dissēmināre(씨를 흩뿌리다)에서 왔습니다. 씨 뿌리듯 널리 퍼뜨린다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dissent",
+    "score": 41,
+    "zipf": 3.56,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be of different opinions",
+        "ko": "이의를 제기하다, 반대하다",
+        "synonyms": [
+          "disagree",
+          "differ",
+          "object",
+          "protest"
+        ],
+        "examples": [
+          {
+            "text": "Several Republicans dissented",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Disagreement with the ideas, doctrines, decrees, etc. of a political party, government or religion.",
+        "ko": "반대, 이견",
+        "synonyms": [
+          "disagreement",
+          "opposition",
+          "objection",
+          "protest"
+        ],
+        "examples": [
+          {
+            "text": "A system that suppresses dissent is fault-intolerant, ignorant and fragile.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "sent"
+    ],
+    "origin": {
+      "ko": "라틴어 dissentīre(다르게 느끼다)에서 왔습니다. 생각이 서로 달라 '반대하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dissident",
+    "score": 30,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who dissents from some established policy",
+        "ko": "반체제 인사, 반대자",
+        "synonyms": [
+          "dissenter",
+          "protester",
+          "objector",
+          "nonconformist"
+        ],
+        "examples": [
+          {
+            "text": "The exiled dissident continued to publish essays criticizing the government from abroad.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "disagreeing, especially with a majority",
+        "ko": "반대하는, 이견을 가진",
+        "synonyms": [
+          "dissenting",
+          "dissentient",
+          "heterodox"
+        ],
+        "examples": [
+          {
+            "text": "The dissident faction within the party voted against the leadership's proposal.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "sed",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 dissideō(떨어져 앉다)에서 왔습니다. 다수와 따로 앉은 사람이 '반체제 인사'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dissimulate",
+    "score": 22,
+    "zipf": 1.05,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "hide (feelings) from other people",
+        "ko": "(감정을) 감추다, 시치미 떼다",
+        "synonyms": [
+          "dissemble",
+          "conceal",
+          "disguise",
+          "feign"
+        ],
+        "examples": [
+          {
+            "text": "He dissimulated his anger behind a polite smile throughout the tense negotiation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "simil",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 dissimulō(숨기다, 가장하다)에서 왔고 dissimilis(닮지 않은)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dissipate",
+    "score": 32,
+    "zipf": 2.95,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "spend frivolously and unwisely",
+        "ko": "탕진하다, 낭비하다",
+        "synonyms": [
+          "squander",
+          "fritter away",
+          "waste",
+          "consume"
+        ],
+        "examples": [
+          {
+            "text": "The heir dissipated his inheritance on gambling and lavish parties within a few short years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "move away from each other",
+        "ko": "흩어져 사라지다, 소멸하다",
+        "synonyms": [
+          "disperse",
+          "scatter",
+          "vanish",
+          "evaporate"
+        ],
+        "examples": [
+          {
+            "text": "By noon the morning fog had dissipated and the valley was bright with sunlight.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "sup",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 dissipō(흩어버리다)에서 왔습니다. 흩뿌려 없애는 데서 '탕진하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dissolution",
+    "score": 41,
+    "zipf": 3.61,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "separation into component parts",
+        "ko": "분해, 붕괴",
+        "synonyms": [
+          "disintegration",
+          "decomposition",
+          "breakup"
+        ],
+        "examples": [
+          {
+            "text": "The dissolution of the empire left dozens of newly independent states in its wake.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The termination of an organized body or legislative assembly, especially a formal dismissal.",
+        "ko": "(조직·의회의) 해산, 해체",
+        "synonyms": [
+          "disbandment",
+          "abolition",
+          "termination"
+        ],
+        "examples": [
+          {
+            "text": "The dissolution of parliament triggered a snap election within six weeks.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The quality of being dissolute.",
+        "ko": "방탕, 타락",
+        "synonyms": [
+          "dissipation",
+          "debauchery",
+          "profligacy"
+        ],
+        "examples": [
+          {
+            "text": "He led a life of dissolution, drinking and gambling almost daily.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "solv",
+      "-ution"
+    ],
+    "origin": {
+      "ko": "라틴어 dissolūtiō(풀어 해체함)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "dissonance",
+    "score": 47,
+    "zipf": 3.02,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a conflict of people's opinions or actions or characters",
+        "ko": "불일치, 부조화",
+        "synonyms": [
+          "disagreement",
+          "discord",
+          "dissension",
+          "friction"
+        ],
+        "examples": [
+          {
+            "text": "Cognitive dissonance exists when a person possesses two cognitions, one of which is contradictory to the other",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A harsh, discordant combination of sounds.",
+        "ko": "불협화음",
+        "synonyms": [
+          "cacophony",
+          "discord",
+          "racket"
+        ],
+        "examples": [
+          {
+            "text": "The orchestra's deliberate dissonance unsettled listeners accustomed to more melodic compositions.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "son",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "라틴어 dissonantia에서 왔습니다. 소리가 어울리지 않는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "distaff",
+    "score": 49,
+    "zipf": 2.2,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characteristic of or peculiar to a woman",
+        "ko": "여성의, 여자 쪽의",
+        "synonyms": [
+          "female",
+          "feminine"
+        ],
+        "examples": [
+          {
+            "text": "They inherit Plantagenet blood by direct descent, and Tudor on the distaff side.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the sphere of work by women",
+        "ko": "여성의 영역, 여자의 일",
+        "synonyms": [
+          "women's work"
+        ],
+        "examples": [
+          {
+            "text": "Historians once treated the distaff as a footnote, though women's labor sustained the household economy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 distæf에서 왔고 '아마 다발'과 stæf(막대)의 합성입니다. 실 잣는 일이 여자의 몫이라 '여성의'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "distend",
+    "score": 58,
+    "zipf": 1.45,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "swell from or as if from internal pressure",
+        "ko": "부풀다, 팽창하다",
+        "synonyms": [
+          "swell",
+          "bloat",
+          "bulge",
+          "dilate"
+        ],
+        "examples": [
+          {
+            "text": "The distended bellies of the starving cows",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cause to expand as if by internal pressure",
+        "ko": "부풀리다, 팽창시키다",
+        "synonyms": [
+          "inflate",
+          "expand",
+          "stretch"
+        ],
+        "examples": [
+          {
+            "text": "The gas distended the animal's body",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "tend"
+    ]
+  },
+  {
+    "word": "distill",
+    "score": 52,
+    "zipf": 2.47,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "extract by the process of distillation",
+        "ko": "정수를 뽑아내다, 증류하다",
+        "synonyms": [
+          "extract",
+          "purify",
+          "refine",
+          "condense"
+        ],
+        "examples": [
+          {
+            "text": "The editor distilled a sprawling report into a one-page summary of its central findings.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "remove impurities from, increase the concentration of, and separate through the process of distillation",
+        "ko": "증류하여 정제하다",
+        "synonyms": [
+          "purify",
+          "refine",
+          "rectify"
+        ],
+        "examples": [
+          {
+            "text": "The plant distills seawater to produce drinking water for the island's residents.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "de-",
+      "still"
+    ]
+  },
+  {
+    "word": "distinction",
+    "score": 20,
+    "zipf": 4.1,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a distinguishing difference between similar things or people",
+        "ko": "차이, 구별",
+        "synonyms": [
+          "difference",
+          "contrast",
+          "differentiation"
+        ],
+        "examples": [
+          {
+            "text": "There is a distinction to be made between resting and slacking.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an honor awarded to someone in recognition of achievement or superiority",
+        "ko": "우수함, 영예, 탁월",
+        "synonyms": [
+          "honor",
+          "eminence",
+          "excellence",
+          "renown"
+        ],
+        "examples": [
+          {
+            "text": "She had the distinction of meeting the Queen.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "stinct",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 distinctiō(구별)에서 왔고 distinguō(구분하다)의 명사형입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "distort",
+    "score": 30,
+    "zipf": 3.08,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make false by mutilation or addition; as of a message or story",
+        "ko": "왜곡하다, 곡해하다",
+        "synonyms": [
+          "falsify",
+          "garble",
+          "misrepresent",
+          "warp",
+          "skew"
+        ],
+        "examples": [
+          {
+            "text": "In their articles, journalists sometimes distort the truth.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "twist and press out of shape",
+        "ko": "비틀다, 일그러뜨리다",
+        "synonyms": [
+          "contort",
+          "deform",
+          "warp"
+        ],
+        "examples": [
+          {
+            "text": "The old glass distorted the reflection, stretching faces into strange, wavering shapes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "tort"
+    ],
+    "origin": {
+      "ko": "라틴어 distorquēre(비틀다)에서 왔습니다. 비틀어 모양을 일그러뜨린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "distressed",
+    "score": 25,
+    "zipf": 3.57,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "afflicted with or marked by anxious uneasiness or trouble or grief",
+        "ko": "괴로워하는, 불안해하는",
+        "synonyms": [
+          "upset",
+          "anxious",
+          "disturbed",
+          "troubled"
+        ],
+        "examples": [
+          {
+            "text": "She is distressed because she can't find her keys.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "facing or experiencing financial trouble or difficulty",
+        "ko": "재정난을 겪는, 곤궁한",
+        "synonyms": [
+          "hard-pressed",
+          "struggling",
+          "bankrupt"
+        ],
+        "examples": [
+          {
+            "text": "distressed companies need loans and technical advice",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "string"
+    ]
+  },
+  {
+    "word": "dither",
+    "score": 48,
+    "zipf": 2.11,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "act nervously; be undecided; be uncertain",
+        "ko": "우물쭈물하다, 망설이다",
+        "synonyms": [
+          "vacillate",
+          "hesitate",
+          "waver",
+          "shilly-shally"
+        ],
+        "examples": [
+          {
+            "text": "While the committee dithered over the budget, the deadline for funding quietly passed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an excited state of agitation",
+        "ko": "흥분, 안절부절못함",
+        "synonyms": [
+          "flap",
+          "tizzy",
+          "fuss",
+          "pother"
+        ],
+        "examples": [
+          {
+            "text": "he was in a dither",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 dideren(떨다)에서 온 didder의 변형입니다. 떨듯 우물쭈물한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "diurnal",
+    "score": 50,
+    "zipf": 2.69,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of or belonging to or active during the day",
+        "ko": "낮에 활동하는, 주행성의",
+        "synonyms": [
+          "daytime",
+          "daily"
+        ],
+        "examples": [
+          {
+            "text": "Most birds are diurnal.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having a daily cycle or occurring every day",
+        "ko": "매일의, 하루 주기의",
+        "synonyms": [
+          "daily",
+          "quotidian",
+          "circadian"
+        ],
+        "examples": [
+          {
+            "text": "diurnal rotation of the heavens",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "di",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 diurnālis에서 왔고 diēs(날)가 뿌리입니다. journal과 이중어입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "diverge",
+    "score": 33,
+    "zipf": 2.83,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "extend in a different direction",
+        "ko": "갈라지다, 나뉘다",
+        "synonyms": [
+          "branch off",
+          "split",
+          "separate",
+          "fork"
+        ],
+        "examples": [
+          {
+            "text": "Their interests diverged",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "be at variance with; be out of line with",
+        "ko": "벗어나다, 다르다",
+        "synonyms": [
+          "deviate",
+          "depart",
+          "differ",
+          "vary"
+        ],
+        "examples": [
+          {
+            "text": "The software is pretty good, except for a few cases where its behavior diverges from user expectations.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "verg"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 dīvergō(다른 쪽으로 꺾다)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "divergent",
+    "score": 27,
+    "zipf": 3.38,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "diverging from another or from a standard",
+        "ko": "갈라지는, 상이한",
+        "synonyms": [
+          "differing",
+          "deviating",
+          "dissimilar",
+          "conflicting"
+        ],
+        "examples": [
+          {
+            "text": "a divergent opinion",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "tending to move apart in different directions",
+        "ko": "분기하는, 멀어지는",
+        "synonyms": [
+          "diverging",
+          "branching"
+        ],
+        "examples": [
+          {
+            "text": "The two research teams followed divergent paths and reached very different conclusions about the data.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "verg",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 dis-와 vergere(향하다)에 -ent가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "diversified",
+    "score": 27,
+    "zipf": 3.44,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having variety of character or form or components; or having increased variety",
+        "ko": "다양화된, 다각화된",
+        "synonyms": [
+          "varied",
+          "assorted",
+          "multifaceted"
+        ],
+        "examples": [
+          {
+            "text": "diversified farming",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "vert",
+      "-fy"
+    ]
+  },
+  {
+    "word": "divert",
+    "score": 27,
+    "zipf": 3.42,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "turn aside; turn away from",
+        "ko": "방향을 돌리다, 전환하다",
+        "synonyms": [
+          "deflect",
+          "redirect",
+          "deviate",
+          "sidetrack"
+        ],
+        "examples": [
+          {
+            "text": "The workers diverted the stream away from the road.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "occupy in an agreeable, entertaining or pleasant fashion",
+        "ko": "즐겁게 하다, 기분 전환시키다",
+        "synonyms": [
+          "amuse",
+          "entertain",
+          "distract"
+        ],
+        "examples": [
+          {
+            "text": "Street musicians diverted the waiting passengers during the long delay at the station.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "withdraw (money) and move into a different location, often secretly and with dishonest intentions",
+        "ko": "(자금을) 빼돌리다, 유용하다",
+        "synonyms": [
+          "embezzle",
+          "siphon off",
+          "misappropriate"
+        ],
+        "examples": [
+          {
+            "text": "Investigators found that the manager had diverted charity funds into his own personal accounts.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "vert"
+    ],
+    "origin": {
+      "ko": "라틴어 divertere(갈라져 돌아서다)에서 왔습니다. 방향을 돌린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "divest",
+    "score": 32,
+    "zipf": 2.88,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "take away possessions from someone",
+        "ko": "빼앗다, 박탈하다",
+        "synonyms": [
+          "deprive",
+          "strip",
+          "dispossess"
+        ],
+        "examples": [
+          {
+            "text": "He was divested of his rights and his title",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "reduce or dispose of; cease to hold (an investment)",
+        "ko": "(투자·자산을) 처분하다, 매각하다",
+        "synonyms": [
+          "sell off",
+          "dispose of",
+          "disinvest"
+        ],
+        "examples": [
+          {
+            "text": "Glasgow will become the first university in Europe to divest from fossil fuels.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "vest"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 desvestir(옷을 벗기다)에서 왔습니다. 옷을 벗기듯 소유물을 빼앗는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "divine",
+    "score": 35,
+    "zipf": 4.24,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "perceive intuitively or through some inexplicable perceptive powers",
+        "ko": "직관으로 알아채다, 예측하다",
+        "synonyms": [
+          "intuit",
+          "foresee",
+          "guess",
+          "surmise"
+        ],
+        "examples": [
+          {
+            "text": "She could divine her employer's mood from the way he closed the office door.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "emanating from God",
+        "ko": "신의, 신성한",
+        "synonyms": [
+          "godly",
+          "holy",
+          "sacred",
+          "heavenly"
+        ],
+        "examples": [
+          {
+            "text": "divine guidance",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "being of such surpassing excellence as to suggest inspiration by the gods",
+        "ko": "더없이 훌륭한, 천상의",
+        "synonyms": [
+          "sublime",
+          "exquisite",
+          "superb"
+        ],
+        "examples": [
+          {
+            "text": "her pies were simply divine",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "div(신)"
+    ],
+    "origin": {
+      "ko": "라틴어 dīvīnus(신의)에서 왔고 divus(신)가 뿌리입니다. 신의 영감으로 알아챈다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "divorced",
+    "score": 21,
+    "zipf": 4.04,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Cut off, or separated.",
+        "ko": "분리된, 단절된",
+        "synonyms": [
+          "detached",
+          "disconnected",
+          "separated",
+          "cut off"
+        ],
+        "examples": [
+          {
+            "text": "divorced from reality",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of someone whose marriage has been legally dissolved",
+        "ko": "이혼한",
+        "synonyms": [
+          "separated"
+        ],
+        "examples": [
+          {
+            "text": "Mark's parents are divorced.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "vert"
+    ]
+  },
+  {
+    "word": "divulge",
+    "score": 48,
+    "zipf": 2.93,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+        "ko": "(비밀을) 누설하다, 폭로하다",
+        "synonyms": [
+          "disclose",
+          "reveal",
+          "leak",
+          "expose"
+        ],
+        "examples": [
+          {
+            "text": "I will never divulge that secret to anyone.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "dis-",
+      "vulg"
+    ],
+    "origin": {
+      "ko": "라틴어 dīvulgō(널리 알리다)에서 왔고 vulgus(대중)가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

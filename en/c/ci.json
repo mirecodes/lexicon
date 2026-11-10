@@ -1,0 +1,378 @@
+[
+  {
+    "word": "circumlocution",
+    "score": 27,
+    "zipf": 1.62,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a style that involves indirect ways of expressing things",
+        "ko": "에둘러 말하기, 완곡한 표현법",
+        "synonyms": [
+          "periphrasis",
+          "verbosity",
+          "indirection"
+        ],
+        "examples": [
+          {
+            "text": "The spokesman answered the reporter's blunt question with so much circumlocution that no one learned anything.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an indirect way of expressing something",
+        "ko": "우회적 표현",
+        "synonyms": [
+          "roundabout expression",
+          "euphemism"
+        ],
+        "examples": [
+          {
+            "text": "Lacking the technical term, she resorted to a circumlocution to describe the missing tool.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "circum-",
+      "loqu"
+    ],
+    "origin": {
+      "ko": "라틴어 circumlocūtiō('돌려 말하기')에서 왔습니다. 핵심 둘레를 빙빙 돌며 말한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "circumscribe",
+    "score": 61,
+    "zipf": 1.75,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "restrict or confine within limits",
+        "ko": "제한하다, 한정하다",
+        "synonyms": [
+          "limit",
+          "confine",
+          "restrict",
+          "delimit"
+        ],
+        "examples": [
+          {
+            "text": "New regulations circumscribe the powers of the agency, leaving it little room to act without legislative approval.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "draw a line around",
+        "ko": "둘레에 선을 긋다, 에워싸다",
+        "synonyms": [
+          "encircle",
+          "enclose",
+          "outline"
+        ],
+        "examples": [
+          {
+            "text": "another circle is circumscribed about the square",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "circum-",
+      "scrib"
+    ],
+    "origin": {
+      "ko": "라틴어 circumscrībō에서 왔고, circum(둘레에)과 scrībō(쓰다)가 합쳐졌습니다. 둘레에 선을 그어 범위를 한정한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "circumscribed",
+    "score": 35,
+    "zipf": 2.61,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "subject to limits or subjected to limits",
+        "ko": "제한된, 한정된",
+        "synonyms": [
+          "limited",
+          "restricted",
+          "confined",
+          "constrained"
+        ],
+        "examples": [
+          {
+            "text": "Under the old regime, the role of the press was narrowly circumscribed by censorship laws.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "circum-",
+      "scrib"
+    ]
+  },
+  {
+    "word": "circumspect",
+    "score": 84,
+    "zipf": 2.46,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "heedful of potential consequences",
+        "ko": "신중한, 조심스러운",
+        "synonyms": [
+          "cautious",
+          "prudent",
+          "wary",
+          "discreet",
+          "chary"
+        ],
+        "examples": [
+          {
+            "text": "Being aware of the danger of upsetting her audience, she was somewhat circumspect in her comments.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "circum-",
+      "spec"
+    ],
+    "origin": {
+      "ko": "라틴어 circumspectō('둘러보다')에서 왔습니다. 사방을 살펴 신중하게 행동한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "circumstances",
+    "score": 16,
+    "zipf": 4.59,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person's financial situation (good or bad)",
+        "ko": "형편, 경제 사정",
+        "synonyms": [
+          "means",
+          "finances",
+          "situation"
+        ],
+        "examples": [
+          {
+            "text": "The family lived in reduced circumstances after the factory closed and the father lost his job.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "your overall circumstances or condition in life (including everything that happens to you)",
+        "ko": "처지, 운명",
+        "synonyms": [
+          "fortune",
+          "fate",
+          "destiny",
+          "lot"
+        ],
+        "examples": [
+          {
+            "text": "Whatever one's circumstances, the novel argues, a person can still choose how to respond to misfortune.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "circum-",
+      "st"
+    ]
+  },
+  {
+    "word": "circumvent",
+    "score": 46,
+    "zipf": 3.15,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+        "ko": "회피하다, 피해 가다",
+        "synonyms": [
+          "evade",
+          "dodge",
+          "bypass",
+          "skirt",
+          "elude"
+        ],
+        "examples": [
+          {
+            "text": "The company used offshore accounts to circumvent the tax regulations.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "beat through cleverness and wit",
+        "ko": "꾀로 이기다, 허를 찌르다",
+        "synonyms": [
+          "outwit",
+          "outsmart",
+          "outfox",
+          "overreach"
+        ],
+        "examples": [
+          {
+            "text": "She circumvented her rivals by securing the contract before they had even submitted a bid.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "circum-",
+      "ven(오다)"
+    ],
+    "origin": {
+      "ko": "라틴어 circumveniō('둘러 오다, 에워싸다')에서 왔습니다. 정면 대신 빙 둘러 피해 간다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cite",
+    "score": 24,
+    "zipf": 3.67,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "refer to for illustration or proof",
+        "ko": "인용하다, 예로 들다",
+        "synonyms": [
+          "quote",
+          "adduce",
+          "mention",
+          "reference"
+        ],
+        "examples": [
+          {
+            "text": "The author cites several studies to support her claim that sleep improves memory.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "commend",
+        "ko": "표창하다, 공적을 인정하다",
+        "synonyms": [
+          "commend",
+          "praise",
+          "honor"
+        ],
+        "examples": [
+          {
+            "text": "he was cited for his outstanding achievements",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To summon officially or authoritatively to appear in court.",
+        "ko": "소환하다",
+        "synonyms": [
+          "summon",
+          "subpoena"
+        ],
+        "examples": [
+          {
+            "text": "The magistrate cited the landlord to appear before the court the following Monday.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cit"
+    ],
+    "origin": {
+      "ko": "라틴어 citare('불러내다, 소환하다')에서 왔습니다. 증거를 법정에 불러내듯 '인용하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

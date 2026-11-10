@@ -1,0 +1,404 @@
+[
+  {
+    "word": "league",
+    "score": 16,
+    "zipf": 5.13,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A group or association of cooperating members.",
+        "ko": "연맹, 동맹",
+        "synonyms": [
+          "alliance",
+          "coalition",
+          "federation",
+          "confederacy",
+          "association"
+        ],
+        "examples": [
+          {
+            "text": "the League of Nations",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A class or type of people or things that are evenly matched or on the same level.",
+        "ko": "(실력·수준의) 부류, 등급",
+        "synonyms": [
+          "class",
+          "category",
+          "level",
+          "rank"
+        ],
+        "examples": [
+          {
+            "text": "Forget about dating him; he's out of your league.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lig"
+    ],
+    "origin": {
+      "ko": "이탈리아어 lega를 거쳐 라틴어 ligō '묶다'에서 왔습니다. 서로 묶여 맺은 '동맹'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "leery",
+    "score": 51,
+    "zipf": 2.58,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "openly distrustful and unwilling to confide",
+        "ko": "경계하는, 의심 많은",
+        "synonyms": [
+          "wary",
+          "suspicious",
+          "distrustful",
+          "chary",
+          "cautious"
+        ],
+        "examples": [
+          {
+            "text": "Since he was bitten by a dog when he was young, he has always been leery of animals.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "leer(곁눈질)에 -y가 붙은 것으로 추정되지만 불확실합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "legerdemain",
+    "score": 44,
+    "zipf": 1.66,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Sleight of hand; \"magic\" trickery.",
+        "ko": "손재주 마술, 속임수",
+        "synonyms": [
+          "sleight of hand",
+          "prestidigitation",
+          "conjuring",
+          "trickery"
+        ],
+        "examples": [
+          {
+            "text": "The magician's legerdemain fooled even the skeptics sitting in the front row.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A show of skill or deceitful ability.",
+        "ko": "교묘한 술책, 기만",
+        "synonyms": [
+          "deception",
+          "trickery",
+          "chicanery",
+          "subterfuge",
+          "artifice"
+        ],
+        "examples": [
+          {
+            "text": "Through accounting legerdemain, the firm concealed millions in losses from its auditors.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 léger de main '손이 가벼운'에서 왔습니다. 가벼운 손재주로 속이는 마술입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lethargic",
+    "score": 65,
+    "zipf": 2.78,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "deficient in alertness or activity",
+        "ko": "무기력한, 둔한",
+        "synonyms": [
+          "sluggish",
+          "torpid",
+          "listless",
+          "lazy",
+          "apathetic"
+        ],
+        "examples": [
+          {
+            "text": "bullfrogs became lethargic with the first cold nights",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "leth",
+      "arg"
+    ],
+    "origin": {
+      "ko": "그리스어 lēthargikós에서 왔고 lḗthē(망각)와 argós(일하지 않는)가 합쳐졌습니다. 멍하니 잊은 듯 늘어진 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "level",
+    "score": 16,
+    "zipf": 5.41,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "talk frankly with; lay it on the line",
+        "ko": "솔직하게 말하다",
+        "synonyms": [
+          "be frank",
+          "be honest",
+          "come clean"
+        ],
+        "examples": [
+          {
+            "text": "I have to level with you",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "aim at",
+        "ko": "(비난·공격을) 겨누다, 향하게 하다",
+        "synonyms": [
+          "direct",
+          "aim",
+          "point",
+          "train"
+        ],
+        "examples": [
+          {
+            "text": "level criticism or charges at somebody",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 livel에서 왔고 라틴어 libella '수준기, 저울'에서 나왔습니다. 평평한 수평에서 '솔직하게 말하다'로 번졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "levity",
+    "score": 83,
+    "zipf": 2.6,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A lightness of manner or speech, frivolity; flippancy; a lack of appropriate seriousness; an inclination to make a joke of serious matters.",
+        "ko": "경솔함, 부적절한 가벼움",
+        "synonyms": [
+          "frivolity",
+          "flippancy",
+          "facetiousness",
+          "lightheartedness"
+        ],
+        "examples": [
+          {
+            "text": "An attempt to inject a little levity into the proceedings.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lev",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 levitās '가벼움, 경박함'에서 왔고 levis(가벼운)에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "levy",
+    "score": 22,
+    "zipf": 3.85,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "impose and collect",
+        "ko": "(세금·벌금을) 부과하다, 징수하다",
+        "synonyms": [
+          "impose",
+          "exact",
+          "charge",
+          "assess"
+        ],
+        "examples": [
+          {
+            "text": "to levy a tax",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a charge imposed and collected",
+        "ko": "부과금, 세금",
+        "synonyms": [
+          "tax",
+          "duty",
+          "tariff",
+          "fee",
+          "toll"
+        ],
+        "examples": [
+          {
+            "text": "The government introduced a new levy on carbon-intensive industries to fund the transition.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cause to assemble or enlist in military",
+        "ko": "징집하다, 소집하다",
+        "synonyms": [
+          "conscript",
+          "draft",
+          "muster",
+          "recruit"
+        ],
+        "examples": [
+          {
+            "text": "The king levied a fresh army from the northern provinces before the spring campaign.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lev"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 levee에서 왔고 라틴어 lēvāre '들어올리다'에서 나왔습니다. 세금을 걷어 올린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lexicography",
+    "score": 30,
+    "zipf": 1.95,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The art or craft of compiling, writing, and editing dictionaries.",
+        "ko": "사전 편찬(학)",
+        "synonyms": [
+          "dictionary-making",
+          "lexicology"
+        ],
+        "examples": [
+          {
+            "text": "Modern lexicography relies on vast digital corpora to track how words actually change in use.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lex",
+      "graph"
+    ],
+    "origin": {
+      "ko": "lexico-(단어)와 -graphy(기록)가 합쳐진 말입니다. 단어를 적어 사전을 만드는 일입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

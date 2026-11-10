@@ -1,0 +1,364 @@
+[
+  {
+    "word": "cease",
+    "score": 21,
+    "zipf": 4.03,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "put an end to a state or an activity",
+        "ko": "중단하다, 그만두다",
+        "synonyms": [
+          "discontinue",
+          "stop",
+          "quit",
+          "halt"
+        ],
+        "examples": [
+          {
+            "text": "After a short while, it ceased to rain.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical",
+        "ko": "끝나다, 멈추다",
+        "synonyms": [
+          "end",
+          "terminate",
+          "finish",
+          "stop"
+        ],
+        "examples": [
+          {
+            "text": "The company's funding ceased abruptly once the grant expired at the end of the fiscal year.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ced"
+    ],
+    "origin": {
+      "ko": "라틴어 cessō('그만두다')에서 왔고, cēdō(가다, 물러나다)에서 갈라졌습니다. 가던 길을 멈춘다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cede",
+    "score": 48,
+    "zipf": 2.86,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "relinquish possession or control over",
+        "ko": "양도하다, 넘겨주다",
+        "synonyms": [
+          "surrender",
+          "yield",
+          "relinquish",
+          "concede"
+        ],
+        "examples": [
+          {
+            "text": "Edward decided to cede the province.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To give way.",
+        "ko": "양보하다, 굴복하다",
+        "synonyms": [
+          "yield",
+          "submit",
+          "capitulate"
+        ],
+        "examples": [
+          {
+            "text": "The senator refused to cede the floor until she had finished presenting her argument.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ced"
+    ],
+    "origin": {
+      "ko": "라틴어 cēdō('양보하다, 물러나다')에서 왔습니다. 한 발 물러서 넘겨준다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "celerity",
+    "score": 31,
+    "zipf": 1.96,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a rate that is rapid",
+        "ko": "신속함, 민첩함",
+        "synonyms": [
+          "rapidity",
+          "swiftness",
+          "alacrity",
+          "dispatch",
+          "speed"
+        ],
+        "examples": [
+          {
+            "text": "The committee acted with remarkable celerity, approving the emergency budget within a single afternoon.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "celer",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 celeritas에서 왔고 celer('빠른')가 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "censor",
+    "score": 27,
+    "zipf": 3.36,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To review for, and if necessary to remove or suppress, content from books, films, correspondence, and other media which is regarded as objectionable (for example, obscene, likely to incite violence, or sensitive).",
+        "ko": "검열하다, 삭제하다",
+        "synonyms": [
+          "expurgate",
+          "bowdlerize",
+          "redact",
+          "suppress"
+        ],
+        "examples": [
+          {
+            "text": "Occupying powers typically censor anything reeking of resistance",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "An official responsible for the removal or suppression of objectionable material (for example, if obscene or likely to incite violence) or sensitive content in books, films, correspondence, and other media.",
+        "ko": "검열관",
+        "synonyms": [
+          "examiner",
+          "expurgator"
+        ],
+        "examples": [
+          {
+            "text": "The headmaster was an even stricter censor of his boarding pupils’ correspondence than the enemy censors had been of his own when the country was occupied.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "someone who censures or condemns",
+        "ko": "비판자, 비난하는 사람",
+        "synonyms": [
+          "critic",
+          "faultfinder"
+        ],
+        "examples": [
+          {
+            "text": "As a harsh censor of her colleagues' work, she rarely offered praise without a long list of faults.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cens"
+    ],
+    "origin": {
+      "ko": "라틴어 cēnsor('판정하는 관리')에서 왔고, cēnseō(판단하다)에서 갈라졌습니다. 로마에서 시민의 품행을 평가하던 관리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "censure",
+    "score": 80,
+    "zipf": 2.94,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To criticize harshly.",
+        "ko": "강하게 비난하다, 질책하다",
+        "synonyms": [
+          "castigate",
+          "excoriate",
+          "condemn",
+          "rebuke",
+          "reprimand"
+        ],
+        "examples": [
+          {
+            "text": "The Woodwalton signalman, Rose, who was severely censured in Captain Tyler's report, behaved with great negligence.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "harsh criticism or disapproval",
+        "ko": "비난, 질책",
+        "synonyms": [
+          "condemnation",
+          "reproach",
+          "disapprobation",
+          "animadversion"
+        ],
+        "examples": [
+          {
+            "text": "Both the censure and the praise were merited.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Official reprimand.",
+        "ko": "공식 견책, 징계성 비난",
+        "synonyms": [
+          "reprimand",
+          "rebuke",
+          "sanction"
+        ],
+        "examples": [
+          {
+            "text": "The legislature issued a formal censure of the minister after the audit revealed repeated misuse of public funds.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cens"
+    ],
+    "origin": {
+      "ko": "라틴어 censūra('감찰관의 직무, 평가')에서 왔습니다. 평가해서 흠을 지적하는 일이 '비난'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "cerebral",
+    "score": 57,
+    "zipf": 3.6,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "involving intelligence rather than emotions or instinct",
+        "ko": "지적인, 이성적인",
+        "synonyms": [
+          "intellectual",
+          "analytical",
+          "highbrow",
+          "thoughtful"
+        ],
+        "examples": [
+          {
+            "text": "Certainly, “Capital” is a cerebral read and the dangers of the world Marx lived in are not all the same as ours.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of or relating to the cerebrum or brain",
+        "ko": "뇌의",
+        "synonyms": [
+          "cranial"
+        ],
+        "examples": [
+          {
+            "text": "Doctors monitored cerebral activity throughout the procedure to detect any sign of damage.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "cerebr",
+      "-al"
+    ],
+    "origin": {
+      "ko": "프랑스어 cérébral에서 왔고, 라틴어 cerebrum(뇌)에서 갈라졌습니다. 뇌를 쓰는 지적인 성질입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

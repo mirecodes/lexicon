@@ -1,0 +1,237 @@
+[
+  {
+    "word": "zeal",
+    "score": 28,
+    "zipf": 3.28,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a feeling of strong eagerness (usually in favor of a person or cause)",
+        "ko": "열정, 열의",
+        "synonyms": [
+          "ardor",
+          "fervor",
+          "passion",
+          "enthusiasm",
+          "eagerness"
+        ],
+        "examples": [
+          {
+            "text": "She extols the virtues of veganism with missionary zeal.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 zêlos('열성, 질투')에서 후기 라틴어와 고대 프랑스어를 거쳐 왔습니다. jealous와 같은 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "zealot",
+    "score": 36,
+    "zipf": 2.51,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a fervent and even militant proponent of something",
+        "ko": "열성분자, 광신자",
+        "synonyms": [
+          "fanatic",
+          "extremist",
+          "partisan",
+          "militant"
+        ],
+        "examples": [
+          {
+            "text": "The zealot rejected every compromise, insisting that only total victory would satisfy his cause.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 zēlōtḗs('열렬한 추종자')에서 왔고 zêlos('열성')와 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "zealous",
+    "score": 47,
+    "zipf": 2.99,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by active interest and enthusiasm",
+        "ko": "열성적인, 열렬한",
+        "synonyms": [
+          "ardent",
+          "fervent",
+          "avid",
+          "eager",
+          "passionate"
+        ],
+        "examples": [
+          {
+            "text": "The zealous young lawyer worked through the night to prepare her client's defense.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "zeal",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "zeal에 -ous를 붙인 말이고 jealous와 짝을 이루는 말입니다. 열성이 가득해 '열렬한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "zeitgeist",
+    "score": 33,
+    "zipf": 2.77,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the spirit of the time; the spirit characteristic of an age or generation",
+        "ko": "시대정신, 시대 풍조",
+        "synonyms": [
+          "spirit of the age",
+          "climate",
+          "mood of the times"
+        ],
+        "examples": [
+          {
+            "text": "The film captured the zeitgeist of the late sixties, when protest and idealism filled the streets.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "독일어 Zeitgeist('시대의 정신')를 그대로 빌려 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "zenith",
+    "score": 94,
+    "zipf": 3.15,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Highest point or state; peak.",
+        "ko": "정점, 절정",
+        "synonyms": [
+          "acme",
+          "apex",
+          "pinnacle",
+          "apogee",
+          "culmination"
+        ],
+        "examples": [
+          {
+            "text": "Winning the continental championship was the zenith of my career.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The point in the sky vertically above a given position or observer; the point in the celestial sphere opposite the nadir.",
+        "ko": "천정(天頂)",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "At noon in the tropics, the sun stands almost at the zenith and casts hardly any shadow.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "아랍어 samt('방향')에서 왔고 samt ar-raʔs('머리 위의 방향')가 줄어든 말입니다. 머리 바로 위가 '정점'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "zephyr",
+    "score": 48,
+    "zipf": 2.85,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a slight wind (usually refreshing)",
+        "ko": "산들바람, 미풍",
+        "synonyms": [
+          "breeze",
+          "gentle wind",
+          "waft"
+        ],
+        "examples": [
+          {
+            "text": "A cool zephyr drifted off the lake and rustled the pages on the porch table.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 Zéphuros('서풍')에서 라틴어를 거쳐 왔습니다. 서쪽에서 불어오는 부드러운 바람이 '산들바람'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

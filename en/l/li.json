@@ -1,0 +1,819 @@
+[
+  {
+    "word": "liability",
+    "score": 19,
+    "zipf": 4.16,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the quality of being something that holds you back",
+        "ko": "짐, 불리한 점",
+        "synonyms": [
+          "drawback",
+          "burden",
+          "handicap",
+          "hindrance",
+          "albatross"
+        ],
+        "examples": [
+          {
+            "text": "His habit of speaking without thinking became a serious liability during the campaign.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the state of being legally obliged and responsible",
+        "ko": "법적 책임",
+        "synonyms": [
+          "responsibility",
+          "accountability",
+          "culpability"
+        ],
+        "examples": [
+          {
+            "text": "The company denied any liability for the damage caused by the faulty wiring.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an obligation to pay money to another party",
+        "ko": "부채, 채무",
+        "synonyms": [
+          "debt",
+          "indebtedness",
+          "obligation"
+        ],
+        "examples": [
+          {
+            "text": "The firm's liabilities exceeded its assets by several million dollars.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "liberal",
+    "score": 32,
+    "zipf": 4.66,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "given or giving freely",
+        "ko": "후한, 아낌없는",
+        "synonyms": [
+          "generous",
+          "bountiful",
+          "openhanded",
+          "lavish",
+          "munificent"
+        ],
+        "examples": [
+          {
+            "text": "He was liberal with his compliments.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "showing or characterized by broad-mindedness",
+        "ko": "관대한, 편견 없는",
+        "synonyms": [
+          "tolerant",
+          "broad-minded",
+          "open-minded",
+          "permissive"
+        ],
+        "examples": [
+          {
+            "text": "Her parents had liberal ideas about child-rearing.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not literal",
+        "ko": "자유로운, 엄밀하지 않은",
+        "synonyms": [
+          "free",
+          "loose",
+          "figurative"
+        ],
+        "examples": [
+          {
+            "text": "The translator took a liberal approach, preserving the poem's spirit rather than its exact words.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "liber"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어를 거쳐 라틴어 līberālis '자유인에게 어울리는'에서 왔습니다. 자유인답게 아낌없이 베푼다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "liberate",
+    "score": 29,
+    "zipf": 3.24,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "grant freedom to; free from confinement",
+        "ko": "해방시키다, 풀어주다",
+        "synonyms": [
+          "free",
+          "release",
+          "emancipate",
+          "unshackle",
+          "deliver"
+        ],
+        "examples": [
+          {
+            "text": "Allied troops liberated the town after months of occupation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "release (gas or energy) as a result of a chemical reaction or physical decomposition",
+        "ko": "(기체·에너지를) 방출하다",
+        "synonyms": [
+          "release",
+          "emit",
+          "discharge"
+        ],
+        "examples": [
+          {
+            "text": "Since the reaction liberates a large amount of chlorine gas, a powerful ventilation system is recommended.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "liber"
+    ],
+    "origin": {
+      "ko": "라틴어 līberātus에서 왔고 līberō '자유롭게 하다'에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "libertine",
+    "score": 84,
+    "zipf": 2.51,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a dissolute person; usually a man who is morally unrestrained",
+        "ko": "방탕한 사람, 난봉꾼",
+        "synonyms": [
+          "debauchee",
+          "rake",
+          "roue",
+          "profligate",
+          "lecher"
+        ],
+        "examples": [
+          {
+            "text": "The novel's hero is a charming libertine who squanders his inheritance on gambling and seduction.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "unrestrained by convention or morality",
+        "ko": "방종한, 도덕에 구애받지 않는",
+        "synonyms": [
+          "dissolute",
+          "licentious",
+          "debauched",
+          "profligate",
+          "dissipated"
+        ],
+        "examples": [
+          {
+            "text": "The court's libertine atmosphere scandalized visiting dignitaries.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "liber"
+    ],
+    "origin": {
+      "ko": "라틴어 libertinus '해방 노예'에서 왔습니다. 속박에서 풀려난 사람이 방종한 사람을 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "libretto",
+    "score": 34,
+    "zipf": 2.65,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the words of an opera or musical play",
+        "ko": "(오페라의) 대본, 가사",
+        "synonyms": [
+          "text",
+          "lyrics",
+          "script",
+          "book"
+        ],
+        "examples": [
+          {
+            "text": "The composer rewrote the libretto twice before the opera finally reached the stage.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "libr",
+      "-etto"
+    ],
+    "origin": {
+      "ko": "이탈리아어 libro(책)에 축소 접미사가 붙은 말입니다. 오페라의 작은 책, 곧 대본입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "licentious",
+    "score": 48,
+    "zipf": 2.07,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking moral discipline; especially sexually unrestrained",
+        "ko": "방종한, 음란한",
+        "synonyms": [
+          "lewd",
+          "dissolute",
+          "debauched",
+          "libertine",
+          "promiscuous"
+        ],
+        "examples": [
+          {
+            "text": "Moralists condemned the licentious behavior of the court as a sign of national decay.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Disregarding accepted rules.",
+        "ko": "규범을 무시하는",
+        "synonyms": [
+          "lawless",
+          "unruly",
+          "unbridled",
+          "anarchic"
+        ],
+        "examples": [
+          {
+            "text": "The licentious use of quotation in the article made the argument impossible to verify.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lic(허락)",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 licentiōsus에서 왔고 licentia '허가, 자유'에서 나왔습니다. 제멋대로 허락된 듯 구는 방종입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "likewise",
+    "score": 21,
+    "zipf": 4.04,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "in like or similar manner",
+        "ko": "마찬가지로, 같은 식으로",
+        "synonyms": [
+          "similarly",
+          "equally",
+          "correspondingly",
+          "ditto"
+        ],
+        "examples": [
+          {
+            "text": "Public transportation is virtually inaccessible in this country; likewise, its hospitals are also not very user-friendly.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adv",
+        "en": "in addition",
+        "ko": "또한, 게다가",
+        "synonyms": [
+          "also",
+          "too",
+          "besides",
+          "moreover",
+          "furthermore"
+        ],
+        "examples": [
+          {
+            "text": "Margaret enjoys playing tennis on Saturdays, Jeremy likewise.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 in like wise '같은 방식으로'가 줄어든 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "limpid",
+    "score": 79,
+    "zipf": 2.04,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "transmitting light; able to be seen through with clarity",
+        "ko": "맑은, 투명한",
+        "synonyms": [
+          "transparent",
+          "clear",
+          "pellucid",
+          "crystalline",
+          "translucent"
+        ],
+        "examples": [
+          {
+            "text": "The limpid water of the mountain lake revealed every pebble on the bottom.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "(of language) transparently clear; easily understandable",
+        "ko": "(문체가) 명료한, 알기 쉬운",
+        "synonyms": [
+          "lucid",
+          "perspicuous",
+          "pellucid",
+          "clear"
+        ],
+        "examples": [
+          {
+            "text": "writes in a limpid style",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 limpide에서 왔고 라틴어 limpidus '맑은'과 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lineament",
+    "score": 28,
+    "zipf": 1.66,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the characteristic parts of a person's face: eyes and nose and mouth and chin",
+        "ko": "이목구비, 얼굴 윤곽",
+        "synonyms": [
+          "feature",
+          "contour",
+          "outline",
+          "visage"
+        ],
+        "examples": [
+          {
+            "text": "his lineaments were very regular",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a characteristic property that defines the apparent individual nature of something",
+        "ko": "특징, 개성적 성격",
+        "synonyms": [
+          "characteristic",
+          "trait",
+          "quality",
+          "attribute"
+        ],
+        "examples": [
+          {
+            "text": "Biographers trace the lineaments of the author's later style to his years in exile.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lin",
+      "-ment"
+    ],
+    "origin": {
+      "ko": "프랑스어를 거쳐 라틴어 lineamentum에서 왔고 linea(선)에서 나왔습니다. 얼굴을 이루는 선, 곧 윤곽입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lionize",
+    "score": 58,
+    "zipf": 1.5,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "assign great social importance to",
+        "ko": "명사 취급하다, 떠받들다",
+        "synonyms": [
+          "celebrate",
+          "idolize",
+          "exalt",
+          "glorify",
+          "venerate"
+        ],
+        "examples": [
+          {
+            "text": "The tenor was lionized in Vienna",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ize"
+    ],
+    "origin": {
+      "ko": "lion(사자)에 '~로 만들다'를 뜻하는 -ize가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "lissome",
+    "score": 39,
+    "zipf": 1.24,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "gracefully thin and bending and moving with ease",
+        "ko": "유연한, 날씬하고 우아한",
+        "synonyms": [
+          "lithe",
+          "supple",
+          "limber",
+          "graceful",
+          "willowy"
+        ],
+        "examples": [
+          {
+            "text": "The lissome dancer crossed the stage in three effortless leaps.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "lissom의 변형입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "listless",
+    "score": 52,
+    "zipf": 2.53,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Lacking energy, enthusiasm, or liveliness.",
+        "ko": "기운 없는, 무기력한",
+        "synonyms": [
+          "languid",
+          "lethargic",
+          "spiritless",
+          "apathetic",
+          "lackadaisical"
+        ],
+        "examples": [
+          {
+            "text": "After the long illness, she felt listless and uninterested in her usual hobbies.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "list",
+      "-less"
+    ],
+    "origin": {
+      "ko": "중세 영어 lystles에서 왔고 list(욕구)에 -less가 붙었습니다. 의욕이 없는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "litany",
+    "score": 32,
+    "zipf": 2.88,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "any long and tedious address or recital",
+        "ko": "지루하게 늘어놓는 말, 장황한 열거",
+        "synonyms": [
+          "catalog",
+          "recital",
+          "list",
+          "laundry list",
+          "refrain"
+        ],
+        "examples": [
+          {
+            "text": "a litany of failures",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A ritual liturgical prayer in which a series of prayers recited by a leader are alternated with responses from the congregation.",
+        "ko": "연도(連禱), 기도문",
+        "synonyms": [
+          "invocation",
+          "supplication",
+          "prayer"
+        ],
+        "examples": [
+          {
+            "text": "The congregation answered each line of the litany with a murmured refrain.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어와 라틴어를 거쳐 그리스어 litaneía '기도'에서 왔습니다. 끝없이 이어 외는 기도문처럼 장황한 나열입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "livelihood",
+    "score": 27,
+    "zipf": 3.42,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the financial means whereby one lives",
+        "ko": "생계, 생활 수단",
+        "synonyms": [
+          "living",
+          "subsistence",
+          "income",
+          "sustenance",
+          "support"
+        ],
+        "examples": [
+          {
+            "text": "The new dam threatened the livelihood of thousands of fishing families downstream.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 līflād '삶의 길'에서 왔습니다. līf(삶)와 lād(길)가 합쳐졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "livid",
+    "score": 31,
+    "zipf": 2.99,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "furiously angry",
+        "ko": "격분한, 몹시 화난",
+        "synonyms": [
+          "furious",
+          "enraged",
+          "incensed",
+          "irate",
+          "seething"
+        ],
+        "examples": [
+          {
+            "text": "willful stupidity makes him absolutely livid",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "anemic looking from illness or emotion",
+        "ko": "(창백하여) 잿빛의, 핏기 없는",
+        "synonyms": [
+          "ashen",
+          "pallid",
+          "pale",
+          "blanched",
+          "wan"
+        ],
+        "examples": [
+          {
+            "text": "Livid with fear, the witness gripped the rail and could barely speak.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "discolored by coagulation of blood beneath the skin",
+        "ko": "멍든, 검푸른",
+        "synonyms": [
+          "black-and-blue",
+          "bruised",
+          "purplish",
+          "discolored"
+        ],
+        "examples": [
+          {
+            "text": "livid bruises",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 līvidus '푸르죽죽한'에서 왔습니다. 멍든 빛이 분노로 새파래진 얼굴로 번졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

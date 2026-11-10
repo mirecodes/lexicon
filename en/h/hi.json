@@ -1,0 +1,175 @@
+[
+  {
+    "word": "hierarchy",
+    "score": 23,
+    "zipf": 3.78,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a series of ordered groupings of people or things within a system",
+        "ko": "계층제, 위계 질서",
+        "synonyms": [
+          "ranking",
+          "pecking order",
+          "gradation",
+          "chain of command"
+        ],
+        "examples": [
+          {
+            "text": "The monastery maintained a strict hierarchy, from novices at the bottom to the abbot at the top.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hier",
+      "arch"
+    ],
+    "origin": {
+      "ko": "그리스어 hierarkhía '대사제의 통치'에서 왔습니다. hierós(신성한)와 árkhō(다스리다)가 합쳐져 성직의 위계가 '계층제'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hinder",
+    "score": 27,
+    "zipf": 3.39,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To make difficult to accomplish; to act as an obstacle; to frustrate.",
+        "ko": "방해하다, 저해하다",
+        "synonyms": [
+          "impede",
+          "hamper",
+          "obstruct",
+          "thwart",
+          "hamstring"
+        ],
+        "examples": [
+          {
+            "text": "A drought hinders the growth of plants.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대영어 hindrian에서 왔고 hinder(뒤)와 연결됩니다. 뒤로 잡아당겨 앞으로 못 가게 하는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "hireling",
+    "score": 29,
+    "zipf": 1.82,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who works only for money",
+        "ko": "돈에 팔린 사람, 고용된 앞잡이",
+        "synonyms": [
+          "mercenary",
+          "lackey",
+          "henchman",
+          "minion"
+        ],
+        "examples": [
+          {
+            "text": "The candidate dismissed his critics as hirelings of the industry lobby, paid to spread doubt.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "hire",
+      "-ling"
+    ],
+    "origin": {
+      "ko": "고대영어 hȳrling으로 hire(고용)에 -ling이 붙은 말입니다. 돈에 고용된 사람을 얕잡아 부릅니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "histrionic",
+    "score": 66,
+    "zipf": 2.29,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Excessively dramatic or emotional, especially with the intention to draw attention.",
+        "ko": "과장되게 연극조의, 감정을 과시하는",
+        "synonyms": [
+          "melodramatic",
+          "theatrical",
+          "overwrought",
+          "stagy"
+        ],
+        "examples": [
+          {
+            "text": "Her histrionic outburst over the minor delay embarrassed everyone at the table.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "characteristic of acting or a stage performance; often affected",
+        "ko": "연극의, 연극 같은",
+        "synonyms": [
+          "theatrical",
+          "dramatic",
+          "affected"
+        ],
+        "examples": [
+          {
+            "text": "The old actor's histrionic gestures looked out of place in the intimate, naturalistic film.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "histrion",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "라틴어 histriōnicus '배우의, 연극의'에서 왔고 histriō(배우)가 뿌리입니다. 배우처럼 과장되게 감정을 드러내는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,1263 @@
+[
+  {
+    "word": "podium",
+    "score": 25,
+    "zipf": 3.63,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a platform raised above the surrounding level to give prominence to the person on it",
+        "ko": "단, 연단",
+        "synonyms": [
+          "dais",
+          "rostrum",
+          "platform",
+          "pulpit"
+        ],
+        "examples": [
+          {
+            "text": "The speaker stepped up to the podium and waited for the applause to fade.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ped(발)"
+    ],
+    "origin": {
+      "ko": "그리스어 pódion '받침, 작은 발'에서 왔고, poús는 '발'입니다. 사람을 발밑에서 받치는 단입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "poignancy",
+    "score": 34,
+    "zipf": 2.35,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a quality that arouses emotions (especially pity or sorrow)",
+        "ko": "가슴 저미는 감동, 애절함",
+        "synonyms": [
+          "pathos",
+          "sadness"
+        ],
+        "examples": [
+          {
+            "text": "The poignancy of the soldier's last letter moved even the most hardened readers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pung",
+      "-ance"
+    ]
+  },
+  {
+    "word": "poignant",
+    "score": 44,
+    "zipf": 3.27,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Evoking strong mental sensation, to the point of distress; emotionally moving.",
+        "ko": "가슴 아픈, 뭉클한, 애절한",
+        "synonyms": [
+          "moving",
+          "touching",
+          "affecting",
+          "heartrending"
+        ],
+        "examples": [
+          {
+            "text": "Flipping through his high school yearbook evoked many a poignant memory of yesteryear.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Incisive; penetrating; piercing.",
+        "ko": "날카로운, 예리한",
+        "synonyms": [
+          "incisive",
+          "piercing",
+          "keen",
+          "trenchant"
+        ],
+        "examples": [
+          {
+            "text": "His comments were poignant and witty.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pung",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 poindre '찌르다'에서 왔고, 라틴어 pungō가 원형입니다. 가슴을 콕 찌르는 듯 애절하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "poise",
+    "score": 31,
+    "zipf": 3.04,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "great coolness and composure under strain",
+        "ko": "침착, 평정, 태연함",
+        "synonyms": [
+          "composure",
+          "aplomb",
+          "self-possession",
+          "equanimity"
+        ],
+        "examples": [
+          {
+            "text": "The young diplomat answered the hostile questions with remarkable poise.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To keep (something) in equilibrium; to hold suspended or balanced.",
+        "ko": "균형을 잡다, 매달린 듯 유지하다",
+        "synonyms": [
+          "balance",
+          "suspend",
+          "hold"
+        ],
+        "examples": [
+          {
+            "text": "The rock was poised precariously on the edge of the cliff.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pend"
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 pois '무게'에서 왔고, 라틴어 pendere '무게를 달다'가 원형입니다. 저울이 균형을 이루듯 침착하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "polarize",
+    "score": 50,
+    "zipf": 2.25,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To cause a group to be divided into extremes.",
+        "ko": "양극화시키다, 대립시키다",
+        "synonyms": [
+          "divide",
+          "split"
+        ],
+        "examples": [
+          {
+            "text": "The proposed tax reform polarized the electorate and left little room for compromise.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pol(극)",
+      "-ize"
+    ],
+    "origin": {
+      "ko": "프랑스어 polariser에서 왔으며, polar(극의)에 -ize가 붙은 말입니다. 양 극단으로 갈라놓는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "polemic",
+    "score": 51,
+    "zipf": 2.64,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A strong verbal or written attack on someone or something.",
+        "ko": "논쟁적 글, 격렬한 비난, 반박문",
+        "synonyms": [
+          "diatribe",
+          "tirade",
+          "harangue",
+          "screed",
+          "philippic"
+        ],
+        "examples": [
+          {
+            "text": "Her essay was less a balanced analysis than a fierce polemic against the new curriculum.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of or involving dispute or controversy",
+        "ko": "논쟁의, 논쟁을 일으키는",
+        "synonyms": [
+          "polemical",
+          "controversial",
+          "contentious"
+        ],
+        "examples": [
+          {
+            "text": "The journal's polemic tone discouraged careful readers from trusting its conclusions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "polem",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 polemikos('전쟁의')에서 왔습니다. 말로 벌이는 전쟁, 곧 격렬한 논쟁이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "polemical",
+    "score": 84,
+    "zipf": 2.49,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Prone to causing disputes; inclined to causing the expression of opposing opinions, disputatious, contentious, edgy.",
+        "ko": "논쟁적인, 논쟁을 좋아하는",
+        "synonyms": [
+          "contentious",
+          "disputatious",
+          "argumentative",
+          "controversial"
+        ],
+        "examples": [
+          {
+            "text": "Not only are all these allegations worded in an unnecessarily polemical style, they are also simply false",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "polem",
+      "-ic",
+      "-al"
+    ],
+    "origin": {
+      "ko": "polemic에 -al이 붙은 말로, 그리스어 '전쟁'에서 나온 '논쟁을 벌이는'의 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "policy",
+    "score": 16,
+    "zipf": 5.17,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a plan of action adopted by an individual or social group",
+        "ko": "정책, 방침",
+        "synonyms": [
+          "strategy",
+          "guideline",
+          "course of action"
+        ],
+        "examples": [
+          {
+            "text": "The university adopted a strict policy against late submissions after repeated complaints from faculty.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Wise, advantageous, or politic conduct; prudence, formerly also with connotations of craftiness.",
+        "ko": "신중한 처세, 현명한 방책",
+        "synonyms": [
+          "prudence",
+          "expediency",
+          "shrewdness"
+        ],
+        "examples": [
+          {
+            "text": "Honesty is not merely a virtue but, in the long run, the best policy for any institution.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 politēs('시민')에서 나온 politeia('시민권, 국가 통치')가 라틴어와 프랑스어를 거쳐 '정책'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "politic",
+    "score": 49,
+    "zipf": 2.79,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Shrewd, prudent and expedient; showing policy.",
+        "ko": "현명한, 신중한, 득이 되는",
+        "synonyms": [
+          "prudent",
+          "shrewd",
+          "expedient",
+          "judicious",
+          "wise"
+        ],
+        "examples": [
+          {
+            "text": "It would be politic to postpone the announcement until after the negotiations conclude.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Discreet and diplomatic.",
+        "ko": "신중하고 외교적인, 재치 있는",
+        "synonyms": [
+          "diplomatic",
+          "tactful",
+          "discreet",
+          "suave"
+        ],
+        "examples": [
+          {
+            "text": "Her politic reply avoided offending either faction in the dispute.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "polit",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 politēs('시민')에서 나온 politikos('시민의')가 어원입니다. 시민 사회에서 요령 있게 처신하는 데서 '현명한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "polity",
+    "score": 32,
+    "zipf": 2.88,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Organizational structure and governance, especially of a state or a religion.",
+        "ko": "정치 체제, 통치 조직",
+        "synonyms": [
+          "government",
+          "constitution",
+          "regime"
+        ],
+        "examples": [
+          {
+            "text": "Church polity was a topic of fierce dispute in 17th-century Britain.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A politically organized unit, especially a nation of people, a class or ingroup that governs it, or the state ruled thereby.",
+        "ko": "정치 공동체, 국가",
+        "synonyms": [
+          "state",
+          "nation",
+          "commonwealth"
+        ],
+        "examples": [
+          {
+            "text": "New polities emerged in Europe after the fall of the Roman Empire.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "polit"
+    ],
+    "origin": {
+      "ko": "그리스어 politeia('시민의 국가, 통치 방식')가 라틴어와 프랑스어를 거쳐 들어왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pollyannaish",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "pleasantly (even unrealistically) optimistic",
+        "ko": "지나치게 낙천적인, 무분별하게 낙관적인",
+        "synonyms": [
+          "rosy",
+          "starry-eyed",
+          "unrealistic",
+          "naive"
+        ],
+        "examples": [
+          {
+            "text": "Analysts dismissed the forecast as Pollyannaish given the mounting evidence of an economic slowdown.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "polyglot",
+    "score": 51,
+    "zipf": 2.38,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "One who has mastered (especially when able to speak) several languages.",
+        "ko": "여러 언어에 능통한 사람",
+        "synonyms": [
+          "linguist",
+          "multilinguist"
+        ],
+        "examples": [
+          {
+            "text": "A true polyglot, the interpreter moved easily between six languages during the summit.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having a command of or composed in many languages",
+        "ko": "여러 언어를 구사하는, 여러 언어로 된",
+        "synonyms": [
+          "multilingual"
+        ],
+        "examples": [
+          {
+            "text": "a polyglot traveler",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "poly",
+      "glot"
+    ],
+    "origin": {
+      "ko": "그리스어 polyglōttos('많은 언어를 말하는')에서 왔습니다. '많은'과 '혀'가 합쳐진 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "polymath",
+    "score": 33,
+    "zipf": 2.18,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A person with extraordinarily broad and comprehensive knowledge.",
+        "ko": "박학다식한 사람, 다방면의 석학",
+        "synonyms": [
+          "polyhistor",
+          "Renaissance man",
+          "scholar",
+          "erudite"
+        ],
+        "examples": [
+          {
+            "text": "A bit of a polymath, he was crucial in the early development of the railways in this country.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "poly",
+      "math"
+    ],
+    "origin": {
+      "ko": "그리스어 polymathēs('많이 배운')에서 왔습니다. 많이 배운 사람이 곧 박학다식한 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pomp",
+    "score": 32,
+    "zipf": 2.95,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "ceremonial elegance and splendor",
+        "ko": "화려한 의식, 장엄함",
+        "synonyms": [
+          "splendor",
+          "grandeur",
+          "pageantry",
+          "magnificence"
+        ],
+        "examples": [
+          {
+            "text": "The coronation was carried out with all the pomp and pageantry the monarchy could muster.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "cheap or pretentious or vain display",
+        "ko": "허세, 과시",
+        "synonyms": [
+          "ostentation",
+          "show",
+          "display"
+        ],
+        "examples": [
+          {
+            "text": "Behind the pomp of the ministry's announcement lay a surprisingly modest set of reforms.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 pompē('보냄, 엄숙한 행렬')가 라틴어와 프랑스어를 거쳐 들어왔습니다. 행렬의 화려함이 '장엄함'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pomposity",
+    "score": 31,
+    "zipf": 2.04,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The quality of being pompous; self-importance.",
+        "ko": "거드름, 젠체함, 허세",
+        "synonyms": [
+          "self-importance",
+          "pretentiousness",
+          "grandiosity",
+          "ostentation"
+        ],
+        "examples": [
+          {
+            "text": "With their super-formal tone and heavy use of jargon, legal documents are renowned for their pomposity.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pomp",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 pompōsitās에서 왔으며 pomp에 '~한 성질'이 붙은 말입니다. 행렬처럼 거창하게 구는 태도를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ponderous",
+    "score": 68,
+    "zipf": 2.47,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "labored and dull",
+        "ko": "둔하고 지루한, 장황한",
+        "synonyms": [
+          "tedious",
+          "laborious",
+          "dull",
+          "long-winded"
+        ],
+        "examples": [
+          {
+            "text": "a ponderous speech",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Clumsy, unwieldy, or slow, especially due to weight.",
+        "ko": "육중하고 느린, 다루기 힘든",
+        "synonyms": [
+          "lumbering",
+          "unwieldy",
+          "heavy",
+          "cumbersome"
+        ],
+        "examples": [
+          {
+            "text": "The ponderous machinery groaned slowly into motion as the factory shift began.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ponder",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 ponderōsus('무게 있는')에서 왔습니다. 무겁고 둔한 느낌이 '둔하고 지루한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pontifical",
+    "score": 34,
+    "zipf": 2.68,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Pompous, dignified or dogmatic.",
+        "ko": "거만한, 독단적인, 위엄 부리는",
+        "synonyms": [
+          "pompous",
+          "dogmatic",
+          "overbearing",
+          "pretentious"
+        ],
+        "examples": [
+          {
+            "text": "His pontifical manner made even simple suggestions sound like decrees from on high.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Of or pertaining to a pope; papal.",
+        "ko": "교황의",
+        "synonyms": [
+          "papal"
+        ],
+        "examples": [
+          {
+            "text": "The pontifical decree was read aloud to the assembled bishops.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pont",
+      "fac(만들다)",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 pontifex('대제사장')의 형용사형입니다. 교황 같은 권위를 부리는 태도에서 '거만한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pontificate",
+    "score": 36,
+    "zipf": 2.51,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "talk in a dogmatic and pompous manner",
+        "ko": "독단적이고 거만하게 말하다",
+        "synonyms": [
+          "preach",
+          "sermonize",
+          "declaim",
+          "hold forth"
+        ],
+        "examples": [
+          {
+            "text": "The new professor always pontificates",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pont",
+      "fac(만들다)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 pontifex('다리를 만드는 사람', 대제사장)에서 왔습니다. 교황처럼 독단적으로 말한다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "populist",
+    "score": 27,
+    "zipf": 3.37,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone who advocates the rights of the common people over those of the elite",
+        "ko": "대중주의자, 포퓰리스트",
+        "synonyms": [
+          "demagogue",
+          "champion of the people"
+        ],
+        "examples": [
+          {
+            "text": "The populist promised to dismantle the privileges of a distant and self-serving political elite.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Put forward just because it would be popular.",
+        "ko": "대중에 영합하는, 인기를 노린",
+        "synonyms": [
+          "crowd-pleasing",
+          "demagogic"
+        ],
+        "examples": [
+          {
+            "text": "Economists criticized the subsidy as a populist measure with no long-term plan behind it.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "popul",
+      "-ist"
+    ],
+    "origin": {
+      "ko": "라틴어 populus('민중')에 -ist가 붙은 말로, 민중 편에 서는 사람을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "portend",
+    "score": 32,
+    "zipf": 2.14,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To serve as a warning or omen of.",
+        "ko": "전조가 되다, 예고하다",
+        "synonyms": [
+          "foreshadow",
+          "presage",
+          "augur",
+          "bode",
+          "herald"
+        ],
+        "examples": [
+          {
+            "text": "Dark clouds and a sudden drop in pressure portended a violent storm.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "tend"
+    ],
+    "origin": {
+      "ko": "라틴어 portendere('예고하다')에서 왔습니다. 앞쪽으로 뻗어 보여 주는 것이 곧 전조입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "portentous",
+    "score": 32,
+    "zipf": 2.14,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of momentous or ominous significance",
+        "ko": "불길한 징조의, 중대한 의미를 지닌",
+        "synonyms": [
+          "ominous",
+          "foreboding",
+          "fateful",
+          "momentous"
+        ],
+        "examples": [
+          {
+            "text": "A portentous silence settled over the chamber before the verdict was announced.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "puffed up with vanity",
+        "ko": "거드름 피우는, 과장된",
+        "synonyms": [
+          "pompous",
+          "pretentious",
+          "grandiloquent",
+          "overblown"
+        ],
+        "examples": [
+          {
+            "text": "The director's portentous narration made an ordinary documentary feel absurdly self-important.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "portent",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 portentum('전조, 괴이한 일')에서 왔습니다. 불길하고 중대한 징조를 가진 것을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "posit",
+    "score": 65,
+    "zipf": 2.76,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "take as a given; assume as a postulate or axiom",
+        "ko": "전제로 가정하다, 상정하다",
+        "synonyms": [
+          "postulate",
+          "assume",
+          "presume",
+          "hypothesize"
+        ],
+        "examples": [
+          {
+            "text": "He posited three basic laws of nature",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To propose for consideration or study; to suggest.",
+        "ko": "제안하다, 제기하다",
+        "synonyms": [
+          "propose",
+          "suggest",
+          "advance",
+          "submit"
+        ],
+        "examples": [
+          {
+            "text": "The researchers posit that sleep strengthens memory by replaying recent experience.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pos"
+    ],
+    "origin": {
+      "ko": "라틴어 pōnō('놓다')의 과거분사 positus에서 왔습니다. 논의의 바탕에 어떤 전제를 놓는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "posthumous",
+    "score": 31,
+    "zipf": 2.97,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "occurring or coming into existence after a person's death",
+        "ko": "사후의, 사후에 발표된",
+        "synonyms": [
+          "after-death",
+          "postmortem"
+        ],
+        "examples": [
+          {
+            "text": "a posthumous award",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "post-"
+    ],
+    "origin": {
+      "ko": "라틴어 postumus('가장 나중의')에서 왔습니다. 아버지가 죽은 뒤에 태어난 아이를 가리키던 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "postulate",
+    "score": 35,
+    "zipf": 2.6,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To assume as a truthful or accurate premise or axiom, especially as a basis of an argument.",
+        "ko": "가정하다, 전제로 삼다",
+        "synonyms": [
+          "posit",
+          "assume",
+          "hypothesize",
+          "presuppose"
+        ],
+        "examples": [
+          {
+            "text": "Early astronomers postulated the existence of an unseen planet to explain the irregular orbit.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "maintain or assert",
+        "ko": "주장하다",
+        "synonyms": [
+          "contend",
+          "assert",
+          "claim"
+        ],
+        "examples": [
+          {
+            "text": "The author postulates that economic decline, not invasion, ended the ancient empire.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "(logic) a proposition that is accepted as true in order to provide a basis for logical reasoning",
+        "ko": "공리, 가정, 기본 전제",
+        "synonyms": [
+          "axiom",
+          "premise",
+          "posit"
+        ],
+        "examples": [
+          {
+            "text": "The proof rests on a single postulate that the authors never bother to justify.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "postul",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 postulāre('요구하다')에서 왔습니다. 증명 없이 인정해 달라고 요구하는 전제를 세운다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "potentate",
+    "score": 46,
+    "zipf": 1.94,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A powerful leader; a monarch; a ruler.",
+        "ko": "권력자, 군주, 통치자",
+        "synonyms": [
+          "monarch",
+          "ruler",
+          "sovereign",
+          "despot",
+          "overlord"
+        ],
+        "examples": [
+          {
+            "text": "The visiting potentate arrived with a retinue of two hundred courtiers and servants.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pot",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 potēns('힘 있는')에서 나온 potentātus('통치')를 거쳤습니다. 힘을 쥔 통치자를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "powwow",
+    "score": 34,
+    "zipf": 2.27,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A short, private conference.",
+        "ko": "간단한 협의, 회합",
+        "synonyms": [
+          "huddle",
+          "conference",
+          "meeting",
+          "parley"
+        ],
+        "examples": [
+          {
+            "text": "The coaches held a quick powwow on the sideline before changing the team's strategy.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "북미 원주민 알곤킨어 계통에서 온 말로, 원래 주술사나 주술 의식을 가리켰습니다. 모임·협의를 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

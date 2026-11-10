@@ -1,0 +1,201 @@
+[
+  {
+    "word": "illiberality",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a disposition not to be liberal (generous) with money",
+        "ko": "인색함",
+        "synonyms": [
+          "stinginess",
+          "miserliness",
+          "parsimony"
+        ],
+        "examples": [
+          {
+            "text": "The patron's illiberality with funds left the young orchestra unable to afford new instruments.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The condition of being illiberal",
+        "ko": "편협함, 옹졸함",
+        "synonyms": [
+          "narrow-mindedness",
+          "intolerance",
+          "bigotry"
+        ],
+        "examples": [
+          {
+            "text": "Critics decried the illiberality of a law that silenced dissenting newspapers.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "liber",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "illiberal에 -ity가 붙은 말입니다. 후하지(liberal) 못한 상태가 '인색함'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "illicit",
+    "score": 27,
+    "zipf": 3.43,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "contrary to or forbidden by law",
+        "ko": "불법의, 금지된",
+        "synonyms": [
+          "illegal",
+          "unlawful",
+          "illegitimate",
+          "prohibited",
+          "contraband"
+        ],
+        "examples": [
+          {
+            "text": "Customs officers seized a large shipment of illicit tobacco hidden in the cargo hold.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "contrary to accepted morality (especially sexual morality) or convention",
+        "ko": "부도덕한, 통념에 어긋나는",
+        "synonyms": [
+          "improper",
+          "immoral",
+          "scandalous",
+          "forbidden"
+        ],
+        "examples": [
+          {
+            "text": "The scandal erupted when letters revealed the senator's illicit affair.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "lic(허락)"
+    ],
+    "origin": {
+      "ko": "라틴어 illicitus '허용되지 않은'에서 왔습니다. licet(허용된다)에 부정 접두사가 붙어 '금지된'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "illusory",
+    "score": 49,
+    "zipf": 2.79,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "based on or having the nature of an illusion",
+        "ko": "환상에 불과한, 착각에 근거한",
+        "synonyms": [
+          "illusive",
+          "deceptive",
+          "imaginary",
+          "unreal",
+          "delusive"
+        ],
+        "examples": [
+          {
+            "text": "The apparent stability of the market proved illusory once the banks began to fail.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "lud",
+      "-ory"
+    ],
+    "origin": {
+      "ko": "라틴어 illūsōrius '조롱하는'에서 왔습니다. 눈을 속여 놀리는 듯한 착각이라는 뜻으로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "illustrious",
+    "score": 44,
+    "zipf": 3.31,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "widely known and esteemed",
+        "ko": "저명한, 명성 높은",
+        "synonyms": [
+          "renowned",
+          "distinguished",
+          "eminent",
+          "celebrated",
+          "famed"
+        ],
+        "examples": [
+          {
+            "text": "The university boasts an illustrious roster of alumni, including three Nobel laureates.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(안으로)",
+      "luc",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 illūstris '빛나는, 저명한'에서 왔습니다. 환히 비춘다는 이미지가 이름이 널리 빛나는 '저명한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

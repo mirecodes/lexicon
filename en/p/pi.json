@@ -1,0 +1,645 @@
+[
+  {
+    "word": "picayune",
+    "score": 51,
+    "zipf": 2.41,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Of little consequence; small and of little importance; petty, trivial.",
+        "ko": "하찮은, 사소한",
+        "synonyms": [
+          "trivial",
+          "petty",
+          "piddling",
+          "paltry",
+          "insignificant"
+        ],
+        "examples": [
+          {
+            "text": "The committee wasted hours arguing over picayune details of the wording.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "남프랑스 오크어 picaioun '값싼 작은 동전'에서 왔습니다. 동전처럼 하찮다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pilfer",
+    "score": 32,
+    "zipf": 2.06,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To steal in small quantities, or articles of small value; to practise petty theft.",
+        "ko": "좀도둑질하다, 슬쩍 훔치다",
+        "synonyms": [
+          "filch",
+          "purloin",
+          "pinch",
+          "swipe"
+        ],
+        "examples": [
+          {
+            "text": "The clerk was fired for pilfering small amounts of cash from the register.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 pelfre '약탈품'에서 왔습니다. 작은 물건을 슬쩍 가져간다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pillage",
+    "score": 33,
+    "zipf": 2.76,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To loot or plunder by force, especially in time of war.",
+        "ko": "약탈하다, 노략질하다",
+        "synonyms": [
+          "plunder",
+          "loot",
+          "ransack",
+          "despoil",
+          "sack"
+        ],
+        "examples": [
+          {
+            "text": "Invading armies pillaged the countryside and left the villages in ruins.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the act of stealing valuable things from a place",
+        "ko": "약탈 행위",
+        "synonyms": [
+          "plundering",
+          "looting",
+          "sack"
+        ],
+        "examples": [
+          {
+            "text": "The pillage of the abbey left its treasury empty and its library in ashes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 piller '약탈하다'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pillory",
+    "score": 32,
+    "zipf": 2.12,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To subject to humiliation, scorn, ridicule or abuse.",
+        "ko": "공개적으로 조롱하다, 망신 주다",
+        "synonyms": [
+          "ridicule",
+          "denounce",
+          "lambaste",
+          "stigmatize"
+        ],
+        "examples": [
+          {
+            "text": "The governor was pilloried in the press for his handling of the crisis.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a wooden instrument of punishment on a post with holes for the wrists and neck; offenders were locked in and so exposed to public scorn",
+        "ko": "(옛 형벌 도구) 칼, 형틀",
+        "synonyms": [
+          "stocks"
+        ],
+        "examples": [
+          {
+            "text": "Petty thieves were once locked in the village pillory as a public lesson.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 pilori에서 왔고, 죄인을 세워 구경거리로 만들던 형틀을 뜻했습니다. 그래서 공개적으로 망신 준다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pine",
+    "score": 20,
+    "zipf": 4.1,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To long, to yearn so much that it causes suffering.",
+        "ko": "애타게 그리워하다",
+        "synonyms": [
+          "yearn",
+          "long",
+          "ache",
+          "languish"
+        ],
+        "examples": [
+          {
+            "text": "Laura was pining for Bill all the time he was gone.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 pīnian '괴롭히다'에서 왔고, 고통(pīn)이 바탕입니다. 그리움으로 괴로워한다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pinion",
+    "score": 35,
+    "zipf": 2.63,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To bind the arms of someone, so as to deprive him of their use; to disable by so binding.",
+        "ko": "팔을 묶다, 결박하다",
+        "synonyms": [
+          "shackle",
+          "bind",
+          "restrain",
+          "fetter"
+        ],
+        "examples": [
+          {
+            "text": "Guards pinioned the prisoner's arms behind his back before leading him away.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "wing of a bird",
+        "ko": "(새의) 날개",
+        "synonyms": [
+          "wing",
+          "pennon"
+        ],
+        "examples": [
+          {
+            "text": "The hawk spread its pinions and rose over the valley.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 pignon, 라틴어 penna '깃털, 날개'에서 왔습니다. 날개를 묶어 날지 못하게 하듯 팔을 결박한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pinnacle",
+    "score": 26,
+    "zipf": 3.45,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the highest level or degree attainable; the highest stage of development",
+        "ko": "절정, 정점",
+        "synonyms": [
+          "acme",
+          "zenith",
+          "peak",
+          "apex",
+          "summit"
+        ],
+        "examples": [
+          {
+            "text": "Winning the Nobel Prize was the pinnacle of her scientific career.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a lofty peak",
+        "ko": "뾰족한 산봉우리, 높은 봉우리",
+        "synonyms": [
+          "peak",
+          "summit"
+        ],
+        "examples": [
+          {
+            "text": "Climbers reached the rocky pinnacle just before sunrise.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pinn"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 pinnāculum '봉우리'에서 왔고, 라틴어 pinna와 이어집니다. 가장 높은 꼭대기를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pious",
+    "score": 76,
+    "zipf": 3.31,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Of or pertaining to piety, exhibiting piety, devout, god-fearing.",
+        "ko": "독실한, 경건한",
+        "synonyms": [
+          "devout",
+          "religious",
+          "reverent",
+          "godly"
+        ],
+        "examples": [
+          {
+            "text": "The pious villagers gathered each morning for prayer before beginning their work.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Insisting on or making a show of one's own virtue, especially in comparison to others; sanctimonious, condescending, judgmental.",
+        "ko": "독선적인, 위선적으로 경건한 척하는",
+        "synonyms": [
+          "sanctimonious",
+          "self-righteous",
+          "holier-than-thou",
+          "smug"
+        ],
+        "examples": [
+          {
+            "text": "His pious lectures about honesty irritated colleagues who knew his own record.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 pīus '독실한, 의무를 다하는'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "piquant",
+    "score": 49,
+    "zipf": 2.23,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "engagingly stimulating or provocative",
+        "ko": "흥미를 자아내는, 짜릿한",
+        "synonyms": [
+          "stimulating",
+          "provocative",
+          "racy",
+          "spirited"
+        ],
+        "examples": [
+          {
+            "text": "a piquant wit",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having an agreeably pungent taste",
+        "ko": "톡 쏘는 맛의, 알싸한",
+        "synonyms": [
+          "tangy",
+          "zesty",
+          "spicy",
+          "savory"
+        ],
+        "examples": [
+          {
+            "text": "The chef served the fish with a piquant sauce of capers and lemon.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pung",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "중세 프랑스어 piquant '찌르는 듯한'에서 왔습니다. 혀나 마음을 톡 쏘듯 자극하는 맛과 흥미를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pique",
+    "score": 32,
+    "zipf": 2.93,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To excite (someone) to action, especially by causing jealousy, resentment, etc.; also, to stimulate (an emotion or feeling, especially curiosity or interest).",
+        "ko": "(호기심·관심을) 자극하다",
+        "synonyms": [
+          "arouse",
+          "stimulate",
+          "provoke",
+          "kindle"
+        ],
+        "examples": [
+          {
+            "text": "I believe this will pique your interest.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cause to feel resentment or indignation",
+        "ko": "화나게 하다, 자존심을 상하게 하다",
+        "synonyms": [
+          "offend",
+          "irritate",
+          "nettle",
+          "vex"
+        ],
+        "examples": [
+          {
+            "text": "The senator was piqued by the suggestion that she had ignored her constituents.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a sudden outburst of anger",
+        "ko": "불쾌감, 울컥하는 성질",
+        "synonyms": [
+          "irritation",
+          "resentment",
+          "huff",
+          "umbrage"
+        ],
+        "examples": [
+          {
+            "text": "In a fit of pique, he stormed out of the meeting without a word.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pung"
+    ],
+    "origin": {
+      "ko": "프랑스어 piquer '찌르다'에서 왔습니다. 바늘로 콕 찌르듯 호기심이나 감정을 건드린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pith",
+    "score": 52,
+    "zipf": 2.46,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the choicest or most essential or most vital part of some idea or experience",
+        "ko": "핵심, 요점",
+        "synonyms": [
+          "essence",
+          "gist",
+          "core",
+          "crux",
+          "kernel"
+        ],
+        "examples": [
+          {
+            "text": "The pith of my idea is that people should choose their own work hours.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "soft spongelike central cylinder of the stems of most flowering plants",
+        "ko": "(식물 줄기의) 수, 속심",
+        "synonyms": [
+          "marrow"
+        ],
+        "examples": [
+          {
+            "text": "Cut the stem open to see the white pith at its center.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 piþa '식물의 부드러운 속'에서 왔습니다. 겉이 아닌 알맹이라는 뜻에서 핵심이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pithy",
+    "score": 99,
+    "zipf": 2.61,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "concise and full of meaning",
+        "ko": "간결하면서 핵심을 찌르는",
+        "synonyms": [
+          "concise",
+          "terse",
+          "succinct",
+          "laconic",
+          "trenchant"
+        ],
+        "examples": [
+          {
+            "text": "welcomed her pithy comments",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "pith(알맹이)에 -y가 붙은 말로, 알맹이만 꽉 찬 간결한 표현입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pittance",
+    "score": 35,
+    "zipf": 2.61,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A meagre allowance of money or wages.",
+        "ko": "쥐꼬리만 한 보수, 푼돈",
+        "synonyms": [
+          "peanuts",
+          "trifle",
+          "mite"
+        ],
+        "examples": [
+          {
+            "text": "Dad was forced to claim benefit money from the government. It was a pittance, barely enough to live on.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pi",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "라틴어 pietās '경건'에서 중세 라틴어와 옛 프랑스어를 거쳐 왔습니다. 경건의 뜻으로 베푸는 소액 몫에서 쥐꼬리만 한 보수가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

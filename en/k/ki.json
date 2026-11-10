@@ -1,0 +1,116 @@
+[
+  {
+    "word": "kindle",
+    "score": 55,
+    "zipf": 3.81,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "call forth (emotions, feelings, and responses)",
+        "ko": "(감정을) 불러일으키다, 자극하다",
+        "synonyms": [
+          "arouse",
+          "evoke",
+          "elicit",
+          "stir",
+          "spark"
+        ],
+        "examples": [
+          {
+            "text": "He kindled an enthusiasm for the project in his fellow workers.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cause to start burning",
+        "ko": "불을 붙이다, 점화하다",
+        "synonyms": [
+          "ignite",
+          "light",
+          "inflame",
+          "fire"
+        ],
+        "examples": [
+          {
+            "text": "The setting sun kindled the sky with oranges and reds",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 노르드어 kynda '불을 붙이다'에서 왔습니다. 불을 붙이듯 감정을 일으킨다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "kinetic",
+    "score": 43,
+    "zipf": 3.44,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by motion",
+        "ko": "운동의, 활발히 움직이는",
+        "synonyms": [
+          "dynamic",
+          "moving",
+          "active",
+          "energetic"
+        ],
+        "examples": [
+          {
+            "text": "modern dance has been called kinetic pantomime",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "relating to the motion of material bodies and the forces associated therewith",
+        "ko": "운동에 관한, 동역학의",
+        "synonyms": [
+          "motive",
+          "motional"
+        ],
+        "examples": [
+          {
+            "text": "kinetic energy",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "kine",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 kinētikós '움직이게 하는'에서 왔고 kinéō '움직이다'에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

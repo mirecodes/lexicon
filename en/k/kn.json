@@ -1,0 +1,178 @@
+[
+  {
+    "word": "knack",
+    "score": 28,
+    "zipf": 3.26,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a special way of doing something",
+        "ko": "요령, 재주",
+        "synonyms": [
+          "talent",
+          "gift",
+          "flair",
+          "aptitude",
+          "skill"
+        ],
+        "examples": [
+          {
+            "text": "he had a special knack for getting into trouble",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "'날카로운 소리'를 뜻하는 중세 영어 knakke에서 왔을 가능성이 있습니다. 의성어로 보이며 '재주'로 뜻이 바뀐 경로는 불확실합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "knell",
+    "score": 51,
+    "zipf": 2.59,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the sound of a bell rung slowly to announce a death or a funeral or the end of something",
+        "ko": "조종, 종말을 알리는 종소리",
+        "synonyms": [
+          "toll",
+          "peal",
+          "death knell"
+        ],
+        "examples": [
+          {
+            "text": "The merger sounded the knell for the small, family-owned shops on the street.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To ring a bell slowly, especially for a funeral; to toll.",
+        "ko": "조종을 울리다, 천천히 종을 치다",
+        "synonyms": [
+          "toll",
+          "ring",
+          "peal"
+        ],
+        "examples": [
+          {
+            "text": "The church bells knelled the peaceful ending of the day, while the purple shades of night descended sadly and majestically on the low chain of neighbouring hills.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 cnyllan '치다, 두드리다'에서 왔습니다. 종을 천천히 치는 소리를 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "knight",
+    "score": 18,
+    "zipf": 4.28,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "raise (someone) to knighthood",
+        "ko": "기사 작위를 수여하다",
+        "synonyms": [
+          "dub",
+          "ennoble"
+        ],
+        "examples": [
+          {
+            "text": "The king knighted the young squire.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A brave, chivalrous and honorable man devoted to a noble cause or love interest.",
+        "ko": "용감하고 의로운 사람, 기사",
+        "synonyms": [
+          "champion",
+          "chevalier",
+          "gallant",
+          "paladin"
+        ],
+        "examples": [
+          {
+            "text": "The journalist became a knight of press freedom, defending reporters jailed abroad.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 cniht '소년, 하인, 기사'에서 왔습니다. 젊은 시종이 점차 기사를 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "knoll",
+    "score": 32,
+    "zipf": 2.9,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a small natural hill",
+        "ko": "작은 언덕, 둔덕",
+        "synonyms": [
+          "mound",
+          "hillock",
+          "hummock",
+          "rise"
+        ],
+        "examples": [
+          {
+            "text": "Sheep grazed on the grassy knoll overlooking the valley.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 cnoll '꼭대기'에서 왔고 '덩어리'를 뜻하는 게르만어 뿌리와 이어집니다. 봉긋한 작은 언덕을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

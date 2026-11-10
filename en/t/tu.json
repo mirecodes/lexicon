@@ -1,0 +1,430 @@
+[
+  {
+    "word": "tumult",
+    "score": 34,
+    "zipf": 2.7,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a state of commotion and noise and confusion",
+        "ko": "소란, 혼란",
+        "synonyms": [
+          "uproar",
+          "commotion",
+          "din",
+          "pandemonium",
+          "turmoil"
+        ],
+        "examples": [
+          {
+            "text": "The announcement threw the trading floor into tumult as brokers shouted orders over one another.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "violent agitation",
+        "ko": "격동, 동요",
+        "synonyms": [
+          "turmoil",
+          "upheaval",
+          "agitation",
+          "ferment"
+        ],
+        "examples": [
+          {
+            "text": "She tried to calm the tumult of her emotions before facing the jury.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 tumultus('소동, 소란')에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tumultuous",
+    "score": 30,
+    "zipf": 3.06,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by unrest or disorder or insubordination",
+        "ko": "소란스러운, 격동의",
+        "synonyms": [
+          "turbulent",
+          "riotous",
+          "chaotic",
+          "disorderly",
+          "stormy"
+        ],
+        "examples": [
+          {
+            "text": "The tumultuous decade saw three governments fall and the currency lose most of its value.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Characterized by loud, confused noise.",
+        "ko": "시끄러운, 떠들썩한",
+        "synonyms": [
+          "noisy",
+          "uproarious",
+          "clamorous",
+          "boisterous"
+        ],
+        "examples": [
+          {
+            "text": "The winning goal drew a tumultuous roar from the stadium crowd.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 tumultuōsus('소란스러운')에서 왔고 tumultus에 '~이 가득한' 뜻의 접미사가 붙었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "turbid",
+    "score": 49,
+    "zipf": 2.16,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(of liquids) clouded as with sediment",
+        "ko": "(액체가) 탁한, 흐린",
+        "synonyms": [
+          "cloudy",
+          "murky",
+          "muddy",
+          "opaque"
+        ],
+        "examples": [
+          {
+            "text": "Spring floods left the river turbid, so that nothing below the surface could be seen.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Unclear; confused; obscure.",
+        "ko": "불분명한, 혼란스러운",
+        "synonyms": [
+          "muddled",
+          "confused",
+          "obscure",
+          "unclear"
+        ],
+        "examples": [
+          {
+            "text": "Those turbid emotions swirled inside him again—part frustration, part anxiety.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "turb",
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 turbidus('휘저어진')에서 왔고 turba('소란, 군중')와 이어집니다. 휘저어 흐려진 물이 '탁한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "turbulent",
+    "score": 26,
+    "zipf": 3.47,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by unrest or disorder or insubordination",
+        "ko": "혼란스러운, 격동의",
+        "synonyms": [
+          "tumultuous",
+          "riotous",
+          "unruly",
+          "unsettled",
+          "disruptive"
+        ],
+        "examples": [
+          {
+            "text": "The mid-19th century was a turbulent time in American history.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "(of a liquid) agitated vigorously; in a state of turbulence",
+        "ko": "(물 등이) 소용돌이치는, 거센",
+        "synonyms": [
+          "churning",
+          "roiling",
+          "choppy",
+          "raging"
+        ],
+        "examples": [
+          {
+            "text": "Kayakers avoided the turbulent rapids below the dam after the heavy rains.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "turb",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 turbulentus에서 왔고 turba('소란, 군중')와 이어집니다. 어수선하게 휘몰아치는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tureen",
+    "score": 30,
+    "zipf": 1.86,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "large deep serving dish with a cover; for serving soups and stews",
+        "ko": "(뚜껑 달린) 수프 그릇",
+        "synonyms": [
+          "soup bowl",
+          "serving dish"
+        ],
+        "examples": [
+          {
+            "text": "The hostess ladled steaming bisque from a silver tureen into each guest's bowl.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 terrine에서 온 terrene이 변한 말입니다. 원래 흙으로 빚은 그릇이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "turgid",
+    "score": 98,
+    "zipf": 2.34,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "ostentatiously lofty in style",
+        "ko": "과장된, 허풍스러운 (문체)",
+        "synonyms": [
+          "bombastic",
+          "pompous",
+          "grandiloquent",
+          "orotund",
+          "inflated"
+        ],
+        "examples": [
+          {
+            "text": "The senator's turgid prose buried a simple proposal beneath layers of pretentious abstraction.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "abnormally distended especially by fluids or gas",
+        "ko": "부어오른, 팽창한",
+        "synonyms": [
+          "swollen",
+          "bloated",
+          "distended",
+          "tumid"
+        ],
+        "examples": [
+          {
+            "text": "After days of rain the turgid river spilled over its banks and flooded the lower fields.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "turg",
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 turgidus('부푼')에서 왔습니다. 바람 든 풍선처럼 부풀린 문체가 '과장된'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "turpitude",
+    "score": 80,
+    "zipf": 2.08,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Inherent baseness, depravity or wickedness; corruptness and evilness.",
+        "ko": "타락, 비열함",
+        "synonyms": [
+          "depravity",
+          "wickedness",
+          "baseness",
+          "corruption",
+          "vileness"
+        ],
+        "examples": [
+          {
+            "text": "The visa was denied because the applicant had been convicted of a crime of moral turpitude.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "turp",
+      "-tude"
+    ],
+    "origin": {
+      "ko": "라틴어 turpitūdō('추함, 수치')에서 왔고 turpis('더러운')와 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tutelage",
+    "score": 33,
+    "zipf": 2.76,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Instruction; teaching; guidance; being a tutor.",
+        "ko": "지도, 가르침",
+        "synonyms": [
+          "instruction",
+          "guidance",
+          "tuition",
+          "mentorship"
+        ],
+        "examples": [
+          {
+            "text": "Under the tutelage of an exacting mentor, the young chemist mastered laboratory technique within two years.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The act of guarding, protecting, or guiding.",
+        "ko": "보호, 후견",
+        "synonyms": [
+          "guardianship",
+          "protection",
+          "care",
+          "custody"
+        ],
+        "examples": [
+          {
+            "text": "The orphaned prince remained under the tutelage of his uncle until he reached adulthood.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tu",
+      "-age"
+    ],
+    "origin": {
+      "ko": "라틴어 tūtēla('보호, 후견')에서 왔고 tuērī('지켜보다')와 이어집니다. 지켜보며 이끄는 일이 '지도'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "word": "fiasco",
+    "score": 28,
+    "zipf": 3.3,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A sudden or unexpected failure.",
+        "ko": "완전한 실패, 참패",
+        "synonyms": [
+          "debacle",
+          "failure",
+          "disaster",
+          "catastrophe",
+          "washout"
+        ],
+        "examples": [
+          {
+            "text": "His speech was a fiasco that left the audience confused.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 fiasco(병)에서 왔습니다. 극장 속어 'far fiasco(병을 만들다)'가 실패를 뜻하게 되었으나 정확한 유래는 불분명합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fickle",
+    "score": 46,
+    "zipf": 3.12,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by erratic changeableness in affections or attachments",
+        "ko": "변덕스러운, 마음이 잘 변하는",
+        "synonyms": [
+          "capricious",
+          "inconstant",
+          "mercurial",
+          "volatile",
+          "flighty"
+        ],
+        "examples": [
+          {
+            "text": "Voters proved fickle, abandoning the popular governor as soon as the economy began to weaken.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 ficol(교활한, 믿을 수 없는)에서 왔습니다. 속이기 쉽고 마음이 자주 변하는 성질을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fidelity",
+    "score": 26,
+    "zipf": 3.52,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the quality of being faithful",
+        "ko": "충실, 충성",
+        "synonyms": [
+          "faithfulness",
+          "loyalty",
+          "allegiance",
+          "constancy"
+        ],
+        "examples": [
+          {
+            "text": "The general was admired for his unwavering fidelity to the crown, even in defeat.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Accuracy, or exact correspondence, to some given fact or quality; exactness.",
+        "ko": "정확성, 충실도",
+        "synonyms": [
+          "accuracy",
+          "exactness",
+          "precision",
+          "faithfulness"
+        ],
+        "examples": [
+          {
+            "text": "The translation is praised for its fidelity to the original text, down to the smallest nuance.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fid",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 fidēlitās(충실)에서 고대 프랑스어를 거쳐 왔습니다. fidēs(믿음)가 바탕입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "figurative",
+    "score": 46,
+    "zipf": 3.12,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(used of the meanings of words or text) not literal; using figures of speech",
+        "ko": "비유적인",
+        "synonyms": [
+          "metaphorical",
+          "nonliteral",
+          "symbolic",
+          "allegorical"
+        ],
+        "examples": [
+          {
+            "text": "When the poet calls grief an ocean, she is using figurative language, not describing water.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Representing forms recognisable in life and clearly derived from real object sources, in contrast to abstract art.",
+        "ko": "구상적인, 사실적 형상을 나타내는",
+        "synonyms": [
+          "representational",
+          "figural",
+          "pictorial"
+        ],
+        "examples": [
+          {
+            "text": "After years of abstraction, the painter returned to figurative work, portraying her neighbors in quiet domestic scenes.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fig",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "중세 프랑스어 figuratif에서 왔고 figure(모양, 표현)가 바탕입니다. 글자 그대로가 아니라 비유적 표현을 쓴다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "filch",
+    "score": 31,
+    "zipf": 1.97,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To illegally take possession of (something, especially items of low value); to pilfer, to steal.",
+        "ko": "슬쩍 훔치다, 좀도둑질하다",
+        "synonyms": [
+          "pilfer",
+          "purloin",
+          "pinch",
+          "swipe",
+          "steal"
+        ],
+        "examples": [
+          {
+            "text": "Hey, someone filched my wallet!",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "finagle",
+    "score": 29,
+    "zipf": 1.76,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "achieve something by means of trickery or devious methods",
+        "ko": "속임수로 얻어내다, 교묘히 구하다",
+        "synonyms": [
+          "wangle",
+          "wheedle",
+          "contrive",
+          "swindle",
+          "maneuver"
+        ],
+        "examples": [
+          {
+            "text": "He finagled a seat on the sold-out flight by charming the gate agent with a made-up story.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "financial",
+    "score": 16,
+    "zipf": 5.08,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "involving financial matters",
+        "ko": "재정의, 금융의",
+        "synonyms": [
+          "fiscal",
+          "monetary",
+          "economic",
+          "pecuniary"
+        ],
+        "examples": [
+          {
+            "text": "For financial reasons, we're not going to be able to continue to fund this program.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fin",
+      "-al"
+    ],
+    "origin": {
+      "ko": "중세 프랑스어 finance(채무를 끝내는 지불)에서 왔습니다. 돈을 치르고 결제를 마무리하는 일에서 '재정'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "finesse",
+    "score": 29,
+    "zipf": 3.18,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "subtly skillful handling of a situation",
+        "ko": "능란한 솜씨, 수완",
+        "synonyms": [
+          "delicacy",
+          "diplomacy",
+          "tact",
+          "adroitness",
+          "skill"
+        ],
+        "examples": [
+          {
+            "text": "The negotiator handled the tense talks with such finesse that both sides left satisfied.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To handle or manage carefully or skilfully; to manipulate in a crafty way.",
+        "ko": "교묘히 처리하다, 솜씨 있게 다루다",
+        "synonyms": [
+          "maneuver",
+          "manipulate",
+          "engineer",
+          "wangle",
+          "handle"
+        ],
+        "examples": [
+          {
+            "text": "The mayor finessed the budget dispute by promising each faction a small concession.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fin"
+    ],
+    "origin": {
+      "ko": "프랑스어 finesse(섬세함)에서 왔고, fin(고운, 얇은)이 바탕입니다. 섬세하고 능란하게 다루는 솜씨를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "finicky",
+    "score": 36,
+    "zipf": 2.45,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "exacting especially about details",
+        "ko": "까다로운, 지나치게 꼼꼼한",
+        "synonyms": [
+          "fussy",
+          "picky",
+          "finical",
+          "particular",
+          "fastidious"
+        ],
+        "examples": [
+          {
+            "text": "The finicky chef sent the dish back twice because the sauce was a degree too warm.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "finick(사소한 일에 공들이다)에 -y가 붙었습니다. 세세한 것에 지나치게 신경 쓰는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "firebrand",
+    "score": 52,
+    "zipf": 2.52,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone who deliberately foments trouble",
+        "ko": "선동가, 분쟁을 일으키는 사람",
+        "synonyms": [
+          "agitator",
+          "instigator",
+          "rabble-rouser",
+          "troublemaker",
+          "incendiary"
+        ],
+        "examples": [
+          {
+            "text": "The member of the college's Communist League was a firebrand who would launch a sit-in or protest march at a moment's notice.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "fire(불)와 brand(타는 나뭇가지)가 합쳐졌습니다. 불붙은 나뭇가지처럼 분쟁에 불을 붙이는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fissure",
+    "score": 33,
+    "zipf": 2.82,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a long narrow cleft",
+        "ko": "갈라진 틈, 균열",
+        "synonyms": [
+          "crack",
+          "cleft",
+          "crevice",
+          "rift",
+          "chasm"
+        ],
+        "examples": [
+          {
+            "text": "Steam escaped from a fissure in the volcano's side, warning scientists of a possible eruption.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A state of incompatibility or disagreement.",
+        "ko": "분열, 불화",
+        "synonyms": [
+          "rift",
+          "schism",
+          "split",
+          "breach"
+        ],
+        "examples": [
+          {
+            "text": "The scandal opened a deep fissure within the party that no compromise could fully repair.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fiss",
+      "-ure"
+    ],
+    "origin": {
+      "ko": "라틴어 fissūra(갈라진 틈)에서 왔고 findere(쪼개다)가 바탕입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fitful",
+    "score": 33,
+    "zipf": 2.21,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "intermittently stopping and starting",
+        "ko": "간헐적인, 불규칙한",
+        "synonyms": [
+          "intermittent",
+          "sporadic",
+          "spasmodic",
+          "erratic",
+          "irregular"
+        ],
+        "examples": [
+          {
+            "text": "Troubled by her unfinished work, she fell into a fitful sleep.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ful"
+    ],
+    "origin": {
+      "ko": "fit(발작, 갑작스러운 움직임)에 -ful이 붙었습니다. 발작처럼 멈췄다 시작했다 하는 불규칙함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

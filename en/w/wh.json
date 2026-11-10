@@ -1,0 +1,315 @@
+[
+  {
+    "word": "wheedle",
+    "score": 45,
+    "zipf": 1.77,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To cajole or attempt to persuade by flattery.",
+        "ko": "감언으로 꾀다, 아첨하여 설득하다",
+        "synonyms": [
+          "cajole",
+          "coax",
+          "inveigle",
+          "sweet-talk",
+          "flatter"
+        ],
+        "examples": [
+          {
+            "text": "The child tried to wheedle an extra dessert out of his grandmother with sweet compliments.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "whereas",
+    "score": 17,
+    "zipf": 4.41,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "conj",
+        "en": "In contrast; whilst on the contrary; although.",
+        "ko": "~인 반면에",
+        "synonyms": [
+          "while",
+          "although",
+          "whilst"
+        ],
+        "examples": [
+          {
+            "text": "He came first in the race, whereas his brother came last.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "where와 as의 결합입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "whet",
+    "score": 51,
+    "zipf": 2.62,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make keen or more acute",
+        "ko": "(식욕·흥미 등을) 돋우다",
+        "synonyms": [
+          "stimulate",
+          "sharpen",
+          "kindle",
+          "quicken",
+          "arouse"
+        ],
+        "examples": [
+          {
+            "text": "The brief preview was enough to whet the public's appetite for the full documentary.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "sharpen by rubbing, as on a whetstone",
+        "ko": "(칼 등을) 갈다",
+        "synonyms": [
+          "sharpen",
+          "hone",
+          "grind"
+        ],
+        "examples": [
+          {
+            "text": "The old blacksmith would whet his knife on a stone before carving the roast.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 hwettan('날을 갈다')에서 왔습니다. 칼을 갈듯 식욕과 흥미를 날카롭게 하는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "whimsical",
+    "score": 78,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "determined by chance or impulse or whim rather than by necessity or reason",
+        "ko": "변덕스러운, 일시적 기분에 따른",
+        "synonyms": [
+          "capricious",
+          "impulsive",
+          "fickle",
+          "erratic"
+        ],
+        "examples": [
+          {
+            "text": "The whimsical decisions of the new owner left employees unsure what to expect each week.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Given to whimsy.",
+        "ko": "기발한, 별난",
+        "synonyms": [
+          "playful",
+          "quirky",
+          "fanciful",
+          "eccentric"
+        ],
+        "examples": [
+          {
+            "text": "The illustrator's whimsical drawings of talking teapots delighted young readers.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "whitewash",
+    "score": 33,
+    "zipf": 2.81,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cover up a misdemeanor, fault, or error",
+        "ko": "(잘못을) 덮어 감추다, 얼버무려 넘기다",
+        "synonyms": [
+          "gloss over",
+          "cover up",
+          "hush up",
+          "paper over"
+        ],
+        "examples": [
+          {
+            "text": "Critics said the official inquiry was an attempt to whitewash the agency's role in the disaster.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a specious or deceptive clearing that attempts to gloss over failings and defects",
+        "ko": "겉치레식 은폐, 눈가림",
+        "synonyms": [
+          "cover-up",
+          "gloss"
+        ],
+        "examples": [
+          {
+            "text": "The investigation proved to be a whitewash that cleared every executive without questioning a single witness.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "white와 wash의 합성어입니다. 흰 칠로 더러운 곳을 덮는 모습이 '잘못을 덮어 감추다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "whittle",
+    "score": 33,
+    "zipf": 2.83,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To reduce or gradually eliminate something (such as a debt).",
+        "ko": "점차 줄이다, 깎아 내다",
+        "synonyms": [
+          "reduce",
+          "erode",
+          "pare",
+          "trim"
+        ],
+        "examples": [
+          {
+            "text": "Months of steady payments slowly whittled the debt down to a manageable sum.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cut small bits or pare shavings from",
+        "ko": "(나무를) 깎다",
+        "synonyms": [
+          "pare",
+          "carve",
+          "shave"
+        ],
+        "examples": [
+          {
+            "text": "whittle a piece of wood",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 thwiten('깎다')에서 나온 '큰 칼'이라는 명사에서 왔습니다. 칼로 조금씩 깎아 내는 것이 '점차 줄이다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "whorl",
+    "score": 35,
+    "zipf": 2.56,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a round shape formed by a series of concentric circles (as formed by leaves or flower petals)",
+        "ko": "소용돌이 모양, 나선",
+        "synonyms": [
+          "coil",
+          "spiral",
+          "swirl",
+          "curl"
+        ],
+        "examples": [
+          {
+            "text": "The detective pointed to the distinct whorl pattern in the fingerprint on the glass.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "whirl('빙글 돌다')이 변한 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

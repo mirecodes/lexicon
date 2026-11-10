@@ -1,0 +1,632 @@
+[
+  {
+    "word": "slack",
+    "score": 24,
+    "zipf": 3.71,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking in rigor or strictness",
+        "ko": "느슨한, 해이한",
+        "synonyms": [
+          "lax",
+          "negligent",
+          "remiss",
+          "careless"
+        ],
+        "examples": [
+          {
+            "text": "Regulators criticized the bank for slack oversight that allowed the fraud to continue unnoticed for years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not tense or taut",
+        "ko": "느슨한, 팽팽하지 않은",
+        "synonyms": [
+          "loose",
+          "limp",
+          "baggy"
+        ],
+        "examples": [
+          {
+            "text": "slack and wrinkled skin",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a noticeable deterioration in performance or quality",
+        "ko": "침체, 부진",
+        "synonyms": [
+          "slump",
+          "downturn",
+          "lull",
+          "falloff"
+        ],
+        "examples": [
+          {
+            "text": "Economists warned of slack in the labor market as hiring slowed for the third straight quarter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 slæc(느슨한)에서 왔습니다. 팽팽하지 않고 풀어져 해이하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "slake",
+    "score": 47,
+    "zipf": 2.01,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To satisfy (thirst, or other desires).",
+        "ko": "(갈증·욕구를) 해소하다, 채우다",
+        "synonyms": [
+          "quench",
+          "satisfy",
+          "sate",
+          "assuage"
+        ],
+        "examples": [
+          {
+            "text": "It could not slake mine ire nor ease my heart.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make less active or intense",
+        "ko": "누그러뜨리다, 가라앉히다",
+        "synonyms": [
+          "abate",
+          "allay",
+          "ease",
+          "relieve"
+        ],
+        "examples": [
+          {
+            "text": "A cool evening breeze did little to slake the oppressive heat of the long summer day.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 sleacian에서 왔고 slack(느슨한)에서 나왔습니다. 갈증을 느슨하게 가라앉힌다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "slander",
+    "score": 28,
+    "zipf": 3.34,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "words falsely spoken that damage the reputation of another",
+        "ko": "중상, 명예훼손",
+        "synonyms": [
+          "defamation",
+          "calumny",
+          "aspersion",
+          "smear"
+        ],
+        "examples": [
+          {
+            "text": "She sued her former employer for slander after he falsely told colleagues that she had stolen from the firm.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "charge falsely or with malicious intent; attack the good name and reputation of someone",
+        "ko": "중상하다, 비방하다",
+        "synonyms": [
+          "defame",
+          "malign",
+          "smear",
+          "denigrate",
+          "vilify"
+        ],
+        "examples": [
+          {
+            "text": "Rivals slandered the candidate in pamphlets that accused him of crimes he never committed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 scandalum(걸림돌, 유혹)에서 온 고대 프랑스어에서 왔고 scandal과 같은 뿌리입니다. 남을 넘어뜨리는 험담입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "slapdash",
+    "score": 31,
+    "zipf": 2.0,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by great carelessness",
+        "ko": "엉성한, 대충 한",
+        "synonyms": [
+          "sloppy",
+          "haphazard",
+          "slipshod",
+          "careless",
+          "hasty"
+        ],
+        "examples": [
+          {
+            "text": "The slapdash renovation left the new kitchen with crooked cabinets and a leaking sink.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "slap(철썩)과 dash(내던지다)가 합쳐진 말입니다. 철썩 내던지듯 대충 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "slay",
+    "score": 28,
+    "zipf": 3.35,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To kill; to murder.",
+        "ko": "죽이다, 살해하다",
+        "synonyms": [
+          "kill",
+          "murder",
+          "slaughter",
+          "destroy"
+        ],
+        "examples": [
+          {
+            "text": "The knight slew the dragon.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To eradicate or stamp out.",
+        "ko": "근절하다, 없애다",
+        "synonyms": [
+          "eradicate",
+          "eliminate",
+          "quash",
+          "extinguish"
+        ],
+        "examples": [
+          {
+            "text": "You must slay these thoughts.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 slēan(때리다, 죽이다)에서 왔습니다. 쳐서 죽인다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "sleight",
+    "score": 34,
+    "zipf": 2.75,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "adroitness in using the hands",
+        "ko": "손재주, 능란한 솜씨",
+        "synonyms": [
+          "dexterity",
+          "deftness",
+          "skill",
+          "adroitness"
+        ],
+        "examples": [
+          {
+            "text": "The magician's sleight of hand was so smooth that no one in the audience saw the coin vanish.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "An artful trick; sly artifice; a feat so dexterous that the manner of performance escapes observation.",
+        "ko": "교묘한 속임수, 술책",
+        "synonyms": [
+          "trick",
+          "artifice",
+          "ruse",
+          "stratagem"
+        ],
+        "examples": [
+          {
+            "text": "The accountant's sleight with the figures concealed the missing funds for several years.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 노르드어 slœgð(교활함)에서 왔고 sly와 같은 뿌리입니다. 능란하고 교묘한 손재주입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "slew",
+    "score": 44,
+    "zipf": 3.34,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "(often followed by ‘of’) a large number or amount or extent",
+        "ko": "다수, 많은 양",
+        "synonyms": [
+          "lot",
+          "host",
+          "multitude",
+          "abundance"
+        ],
+        "examples": [
+          {
+            "text": "The new law drew a slew of lawsuits from businesses across the country.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "turn sharply; change direction abruptly",
+        "ko": "방향을 급히 틀다",
+        "synonyms": [
+          "swerve",
+          "veer",
+          "skid",
+          "pivot"
+        ],
+        "examples": [
+          {
+            "text": "The truck slewed across the icy lane before the driver regained control.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "slight",
+    "score": 35,
+    "zipf": 4.22,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking substance or significance",
+        "ko": "보잘것없는, 근거가 빈약한",
+        "synonyms": [
+          "flimsy",
+          "tenuous",
+          "trivial",
+          "insignificant"
+        ],
+        "examples": [
+          {
+            "text": "slight evidence",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To treat (someone or something) with disdain or neglect, usually out of prejudice, hatred, or jealousy; to ignore disrespectfully; to skimp on one's duties toward.",
+        "ko": "무시하다, 얕보다, 홀대하다",
+        "synonyms": [
+          "snub",
+          "disregard",
+          "insult",
+          "belittle"
+        ],
+        "examples": [
+          {
+            "text": "The composer felt slighted when the orchestra failed to invite him to the opening night.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a deliberate discourteous act (usually as an expression of anger or disapproval)",
+        "ko": "모욕, 무시",
+        "synonyms": [
+          "snub",
+          "affront",
+          "insult",
+          "rebuff"
+        ],
+        "examples": [
+          {
+            "text": "He took the omission of his name from the list as a deliberate slight.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "being of delicate or slender build",
+        "ko": "가냘픈, 호리호리한",
+        "synonyms": [
+          "slender",
+          "slim",
+          "petite",
+          "delicate"
+        ],
+        "examples": [
+          {
+            "text": "a slight but graceful woman",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 sliht(매끄러운, 평평한)에서 왔습니다. 매끈하고 가는 데서 보잘것없다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "slovenly",
+    "score": 33,
+    "zipf": 2.21,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having an untidy appearance; unkempt.",
+        "ko": "단정치 못한, 지저분한",
+        "synonyms": [
+          "unkempt",
+          "untidy",
+          "disheveled",
+          "messy"
+        ],
+        "examples": [
+          {
+            "text": "Which would you sooner employ, a boy who was plainly, yet neatly clad, or one who had a slovenly appearance, though dressed in fine clothes?",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Careless or negligent; sloppy.",
+        "ko": "부주의한, 엉성한",
+        "synonyms": [
+          "sloppy",
+          "careless",
+          "slipshod",
+          "negligent"
+        ],
+        "examples": [
+          {
+            "text": "The editor rejected the manuscript for its slovenly prose and its many factual errors.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ly"
+    ]
+  },
+  {
+    "word": "sluggish",
+    "score": 29,
+    "zipf": 3.25,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "slow and apathetic",
+        "ko": "굼뜬, 무기력한",
+        "synonyms": [
+          "lethargic",
+          "torpid",
+          "listless",
+          "inert"
+        ],
+        "examples": [
+          {
+            "text": "a sluggish worker",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "(of business) not active or brisk",
+        "ko": "부진한, 경기가 둔한",
+        "synonyms": [
+          "slow",
+          "stagnant",
+          "depressed",
+          "slack"
+        ],
+        "examples": [
+          {
+            "text": "Inflation has been rising despite a sluggish economy.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ish"
+    ]
+  },
+  {
+    "word": "sluice",
+    "score": 35,
+    "zipf": 2.63,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "conduit that carries a rapid flow of water controlled by a sluicegate",
+        "ko": "수문, 물길",
+        "synonyms": [
+          "floodgate",
+          "sluiceway",
+          "channel"
+        ],
+        "examples": [
+          {
+            "text": "Engineers opened the sluice to release water from the reservoir into the irrigation canals.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To wash (down or out).",
+        "ko": "물로 씻어내다",
+        "synonyms": [
+          "flush",
+          "rinse",
+          "wash",
+          "drench"
+        ],
+        "examples": [
+          {
+            "text": "And now men with a hose have come and are sluicing out the streets.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "clud"
+    ],
+    "origin": {
+      "ko": "라틴어 exclūdere(막아 내다)에서 온 말입니다. 물을 막고 여닫는 수문을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

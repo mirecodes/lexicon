@@ -1,0 +1,593 @@
+[
+  {
+    "word": "nebulous",
+    "score": 34,
+    "zipf": 2.75,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Vague or ill-defined.",
+        "ko": "모호한, 불분명한",
+        "synonyms": [
+          "vague",
+          "hazy",
+          "indistinct",
+          "amorphous"
+        ],
+        "examples": [
+          {
+            "text": "The committee's nebulous guidelines left applicants unsure what evidence would actually satisfy the review board.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "nebul",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 nebula '안개, 구름'에서 왔습니다. 안개가 낀 듯 흐릿해서 모호하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nefarious",
+    "score": 31,
+    "zipf": 3.0,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "extremely wicked",
+        "ko": "극악무도한, 사악한",
+        "synonyms": [
+          "villainous",
+          "iniquitous",
+          "vile",
+          "heinous"
+        ],
+        "examples": [
+          {
+            "text": "nefarious schemes",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ne-",
+      "fas",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 nefās '신의 법에 어긋나는 일'에서 왔습니다. 하늘의 법을 어기는 극악한 짓이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "negate",
+    "score": 31,
+    "zipf": 2.98,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make ineffective by counterbalancing the effect of",
+        "ko": "무효로 만들다, 상쇄하다",
+        "synonyms": [
+          "nullify",
+          "neutralize",
+          "cancel out"
+        ],
+        "examples": [
+          {
+            "text": "Progress on the study has been negated by the lack of funds.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To deny the existence, evidence, or truth of; to contradict.",
+        "ko": "부정하다, 반박하다",
+        "synonyms": [
+          "contradict",
+          "deny",
+          "refute",
+          "gainsay"
+        ],
+        "examples": [
+          {
+            "text": "The new data negate the earlier claim that the drug reduces symptoms in older patients.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "neg",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 negō '부인하다, 거부하다'에서 왔습니다. 부정하여 효력을 없앤다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "negligent",
+    "score": 44,
+    "zipf": 3.33,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Careless or inattentive.",
+        "ko": "태만한, 부주의한",
+        "synonyms": [
+          "careless",
+          "remiss",
+          "lax",
+          "derelict"
+        ],
+        "examples": [
+          {
+            "text": "The inspector was negligent in checking the bridge, and the cracks went unreported for years.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "neg-",
+      "leg(고르다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 neglegere '소홀히 하다'에서 왔습니다. 신경 쓰지 않는 태도가 태만함이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "negligible",
+    "score": 27,
+    "zipf": 3.39,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "so small as to be meaningless; insignificant",
+        "ko": "무시해도 될 만큼 작은, 하찮은",
+        "synonyms": [
+          "insignificant",
+          "trifling",
+          "minimal",
+          "paltry"
+        ],
+        "examples": [
+          {
+            "text": "The difference between the two groups was negligible, so the researchers drew no firm conclusions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "neg-",
+      "leg(고르다)",
+      "-able"
+    ],
+    "origin": {
+      "ko": "neglect에 해당하는 라틴어 neglegō에 -ible이 붙은 말입니다. 신경 쓰지 않아도 될 만큼 작다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "neologism",
+    "score": 47,
+    "zipf": 2.01,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A word or phrase which has recently been coined; a new word or phrase.",
+        "ko": "신조어",
+        "synonyms": [
+          "coinage",
+          "new word"
+        ],
+        "examples": [
+          {
+            "text": "Critics dismissed the term as a mere neologism, though it soon entered everyday speech.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "neo-",
+      "log",
+      "-ism"
+    ],
+    "origin": {
+      "ko": "프랑스어 néologisme에서 왔고, 그리스어 '새로운(néos) + 말(lógos)'이 바탕입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "neophyte",
+    "score": 66,
+    "zipf": 2.32,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A beginner; a person who is new to a subject, skill, or belief.",
+        "ko": "초보자, 신참",
+        "synonyms": [
+          "novice",
+          "beginner",
+          "newcomer",
+          "tyro",
+          "rookie"
+        ],
+        "examples": [
+          {
+            "text": "The neophyte lawyer was nervous about cross-examining such an experienced witness.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "neo-",
+      "phyt"
+    ],
+    "origin": {
+      "ko": "그리스어 neóphutos '새로 심은'에서 왔습니다. 갓 심은 어린 식물처럼 새로 입문한 초보자를 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "net",
+    "score": 16,
+    "zipf": 4.76,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "remaining after all deductions",
+        "ko": "순수한, 공제 후의",
+        "synonyms": [
+          "after-tax",
+          "take-home"
+        ],
+        "examples": [
+          {
+            "text": "net profit",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A trap.",
+        "ko": "덫, 함정",
+        "synonyms": [
+          "trap",
+          "snare"
+        ],
+        "examples": [
+          {
+            "text": "A man that flattereth his neighbor spreadeth a net for his feet.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "'공제 후의'라는 뜻은 라틴어 nitidus '깨끗한'에서 왔습니다. 깔끔하게 덜어내고 남은 금액이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nettle",
+    "score": 50,
+    "zipf": 2.71,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause annoyance in; disturb, especially by minor irritations",
+        "ko": "짜증나게 하다, 화나게 하다",
+        "synonyms": [
+          "irritate",
+          "annoy",
+          "vex",
+          "irk",
+          "provoke"
+        ],
+        "examples": [
+          {
+            "text": "The senator was visibly nettled by the reporter's repeated questions about his donors.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 netele '쐐기풀'에서 왔습니다. 쐐기풀에 쏘인 듯 따끔하고 짜증 나게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nettlesome",
+    "score": 54,
+    "zipf": 1.07,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Thorny; difficult to deal with, especially due to being complex or tricky.",
+        "ko": "골치 아픈, 다루기 까다로운",
+        "synonyms": [
+          "thorny",
+          "vexing",
+          "knotty",
+          "troublesome"
+        ],
+        "examples": [
+          {
+            "text": "The task of proving Fermat’s “last” theorem remains nettlesome.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "causing irritation or annoyance",
+        "ko": "짜증나게 하는, 성가신",
+        "synonyms": [
+          "irritating",
+          "annoying",
+          "irksome",
+          "bothersome"
+        ],
+        "examples": [
+          {
+            "text": "The nettlesome delays at the border frustrated even the most patient travelers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-some"
+    ],
+    "origin": {
+      "ko": "nettle(쐐기풀, 짜증 나게 하다)에 -some이 붙은 말로, 쐐기풀처럼 다루기 까다롭다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "neutralize",
+    "score": 30,
+    "zipf": 3.12,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make ineffective by counterbalancing the effect of",
+        "ko": "무력화하다, 상쇄하다",
+        "synonyms": [
+          "nullify",
+          "negate",
+          "counteract",
+          "offset"
+        ],
+        "examples": [
+          {
+            "text": "Her optimism neutralizes his gloom",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "make politically neutral and thus inoffensive",
+        "ko": "중립화하다",
+        "synonyms": [
+          "demilitarize"
+        ],
+        "examples": [
+          {
+            "text": "The treaty neutralized the small republic",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "neutr",
+      "-ize"
+    ],
+    "origin": {
+      "ko": "프랑스어 neutraliser에서 왔습니다. neutral에 -ize가 붙어 어느 쪽에도 기울지 않게 만든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nevertheless",
+    "score": 18,
+    "zipf": 4.25,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "In spite of what preceded; yet.",
+        "ko": "그럼에도 불구하고, 그래도",
+        "synonyms": [
+          "nonetheless",
+          "however",
+          "still",
+          "even so",
+          "notwithstanding"
+        ],
+        "examples": [
+          {
+            "text": "The evidence was circumstantial; nevertheless, the jury found it persuasive enough to convict.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어에서 never(결코) + the + less(덜)를 이어 붙인 말로, '그래도 덜하지 않게'라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "nexus",
+    "score": 25,
+    "zipf": 3.65,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A form or state of connection.",
+        "ko": "연결, 유대, 관계",
+        "synonyms": [
+          "link",
+          "bond",
+          "tie",
+          "connection"
+        ],
+        "examples": [
+          {
+            "text": "Scholars have long debated the nexus between economic inequality and political instability.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A centre or focus of something.",
+        "ko": "중심, 중추",
+        "synonyms": [
+          "hub",
+          "center",
+          "focal point"
+        ],
+        "examples": [
+          {
+            "text": "The old port city became a nexus of trade, rumor, and cultural exchange.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "nex"
+    ],
+    "origin": {
+      "ko": "라틴어 nectō '묶다, 잇다'에서 나온 nexus로, 묶인 상태, 즉 연결을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

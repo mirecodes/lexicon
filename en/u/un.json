@@ -1,0 +1,1931 @@
+[
+  {
+    "word": "unaffected",
+    "score": 28,
+    "zipf": 3.34,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "free of artificiality; sincere and genuine",
+        "ko": "꾸밈없는, 진솔한",
+        "synonyms": [
+          "natural",
+          "genuine",
+          "sincere",
+          "unpretentious",
+          "artless"
+        ],
+        "examples": [
+          {
+            "text": "Despite her fame, she remained warm and unaffected, chatting with stagehands as easily as with directors.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Not affected or changed.",
+        "ko": "영향받지 않은",
+        "synonyms": [
+          "unchanged",
+          "untouched",
+          "unmoved"
+        ],
+        "examples": [
+          {
+            "text": "Since I work from home, I was unaffected by the office move.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ],
+    "origin": {
+      "ko": "un-과 affected('꾸민')의 결합입니다. 꾸밈이 없으니 '진솔한'이 됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "unalloyed",
+    "score": 31,
+    "zipf": 2.03,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "free from admixture",
+        "ko": "섞인 것 없는, 순수한",
+        "synonyms": [
+          "pure",
+          "unmixed",
+          "unadulterated",
+          "utter",
+          "complete"
+        ],
+        "examples": [
+          {
+            "text": "The news of her recovery filled the family with unalloyed joy, untroubled by any lingering worry.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ]
+  },
+  {
+    "word": "unanimity",
+    "score": 36,
+    "zipf": 2.54,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The condition of agreement by all parties, the state of being unanimous.",
+        "ko": "만장일치, 전원 합의",
+        "synonyms": [
+          "consensus",
+          "concord",
+          "accord",
+          "agreement"
+        ],
+        "examples": [
+          {
+            "text": "The board reached unanimity on the merger after a single afternoon of discussion.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "uni",
+      "anim",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 ūnanimitās('한마음')에서 왔습니다. 모두가 한마음이라서 '만장일치'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "unassailable",
+    "score": 36,
+    "zipf": 2.54,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "immune to attack; incapable of being tampered with",
+        "ko": "공격할 수 없는, 난공불락의",
+        "synonyms": [
+          "impregnable",
+          "invulnerable",
+          "inviolable",
+          "impenetrable"
+        ],
+        "examples": [
+          {
+            "text": "The hilltop fortress seemed unassailable, protected on three sides by sheer cliffs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Undeniable, incontestable or incontrovertible.",
+        "ko": "반박할 수 없는, 확고한",
+        "synonyms": [
+          "incontestable",
+          "irrefutable",
+          "indisputable",
+          "undeniable"
+        ],
+        "examples": [
+          {
+            "text": "She won the debate with her unassailable logic.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-",
+      "-able"
+    ]
+  },
+  {
+    "word": "unassuming",
+    "score": 33,
+    "zipf": 2.82,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Modest and having no pretensions or ostentation.",
+        "ko": "겸손한, 잘난 체하지 않는",
+        "synonyms": [
+          "modest",
+          "humble",
+          "unpretentious",
+          "self-effacing",
+          "retiring"
+        ],
+        "examples": [
+          {
+            "text": "The unassuming scientist rarely mentioned that she had won the field's most prestigious prize.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ]
+  },
+  {
+    "word": "uncanny",
+    "score": 28,
+    "zipf": 3.33,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Strange, and mysteriously unsettling (as if supernatural); weird.",
+        "ko": "기이한, 섬뜩한",
+        "synonyms": [
+          "eerie",
+          "weird",
+          "unnatural",
+          "spooky",
+          "unsettling"
+        ],
+        "examples": [
+          {
+            "text": "He bore an uncanny resemblance to the dead sailor.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "surpassing the ordinary or normal",
+        "ko": "보통을 넘어서는, 놀라운",
+        "synonyms": [
+          "preternatural",
+          "remarkable",
+          "extraordinary",
+          "astonishing"
+        ],
+        "examples": [
+          {
+            "text": "The veteran trader had an uncanny knack for sensing a market reversal days before it happened.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ],
+    "origin": {
+      "ko": "un-과 canny의 결합으로, 낯익은 지식 바깥에 있다는 뜻입니다. 프로이트의 독일어 unheimlich를 옮긴 말이기도 합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "uncompromising",
+    "score": 30,
+    "zipf": 3.08,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Inflexible and unwilling to negotiate or make concessions.",
+        "ko": "타협하지 않는, 완고한",
+        "synonyms": [
+          "inflexible",
+          "unyielding",
+          "intransigent",
+          "rigid",
+          "obdurate"
+        ],
+        "examples": [
+          {
+            "text": "The union took an uncompromising stance, rejecting every proposal that cut pensions even slightly.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ],
+    "origin": {
+      "ko": "un-과 compromising('타협하는')의 결합입니다. 타협하지 않으니 '완고한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "unconscionable",
+    "score": 65,
+    "zipf": 2.76,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "greatly exceeding bounds of reason or moderation",
+        "ko": "터무니없는, 과도한",
+        "synonyms": [
+          "exorbitant",
+          "outrageous",
+          "excessive",
+          "extortionate",
+          "inordinate"
+        ],
+        "examples": [
+          {
+            "text": "The effective rate of interest was unconscionable, but not legally usurious.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Not conscionable; unscrupulous and lacking principles or conscience.",
+        "ko": "양심에 어긋나는, 비도덕적인",
+        "synonyms": [
+          "unscrupulous",
+          "unprincipled",
+          "immoral",
+          "unethical"
+        ],
+        "examples": [
+          {
+            "text": "Critics called it unconscionable that the firm knowingly sold the defective product for years.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ]
+  },
+  {
+    "word": "uncouth",
+    "score": 36,
+    "zipf": 2.52,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking refinement or cultivation or taste",
+        "ko": "교양 없는, 세련되지 못한",
+        "synonyms": [
+          "coarse",
+          "crude",
+          "boorish",
+          "vulgar",
+          "unrefined"
+        ],
+        "examples": [
+          {
+            "text": "I don't want to associate with uncouth people.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Clumsy, awkward.",
+        "ko": "서투른, 어색한",
+        "synonyms": [
+          "clumsy",
+          "awkward",
+          "gauche",
+          "inept"
+        ],
+        "examples": [
+          {
+            "text": "The uncouth young waiter fumbled with the tray and spilled soup across the tablecloth.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ],
+    "origin": {
+      "ko": "고대 영어 uncūþ('모르는, 낯선')에서 왔습니다. 익숙지 않아 낯설다는 뜻이 '교양 없는'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "unction",
+    "score": 31,
+    "zipf": 2.01,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "smug self-serving earnestness",
+        "ko": "가식적인 열정, 번지르르한 말투",
+        "synonyms": [
+          "unctuousness",
+          "smarminess",
+          "oiliness",
+          "fulsomeness"
+        ],
+        "examples": [
+          {
+            "text": "The candidate delivered his promises with such oily unction that few voters believed a word.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A religious or ceremonial anointing.",
+        "ko": "성유 바르기, 도유",
+        "synonyms": [
+          "anointing",
+          "consecration",
+          "chrism"
+        ],
+        "examples": [
+          {
+            "text": "The monarch's unction with sacred oil formed the central moment of the coronation.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "unctuous",
+    "score": 31,
+    "zipf": 2.03,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unpleasantly and excessively suave or ingratiating in manner or speech",
+        "ko": "아첨하는, 느끼하게 공손한",
+        "synonyms": [
+          "oily",
+          "smarmy",
+          "fawning",
+          "obsequious",
+          "oleaginous"
+        ],
+        "examples": [
+          {
+            "text": "The unctuous salesman praised every detail of the client's taste while quietly raising the price.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Having fat or oil present; fatty, greasy, oily.",
+        "ko": "기름기 있는, 기름진",
+        "synonyms": [
+          "oily",
+          "greasy",
+          "fatty",
+          "slick"
+        ],
+        "examples": [
+          {
+            "text": "The unctuous broth coated the spoon and left a rich film on the lips.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ous"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 ūnctuōsus('기름진')에서 왔고 unguō('기름을 바르다')와 이어집니다. 기름 바른 듯 번지르르한 태도가 '느끼하게 공손한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "undercut",
+    "score": 30,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To undermine.",
+        "ko": "약화시키다, 훼손하다",
+        "synonyms": [
+          "undermine",
+          "weaken",
+          "sabotage",
+          "subvert"
+        ],
+        "examples": [
+          {
+            "text": "The mayor's own remarks undercut the credibility of the report his office had commissioned.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To sell (something) at a lower price, or to work for lower wages, than a competitor.",
+        "ko": "(경쟁자보다) 싸게 팔다",
+        "synonyms": [
+          "undersell",
+          "underbid"
+        ],
+        "examples": [
+          {
+            "text": "Foreign manufacturers undercut local producers by selling the same goods at half the price.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "under와 cut의 합성어입니다. 밑을 잘라내 지탱을 약하게 만드는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "undermine",
+    "score": 57,
+    "zipf": 3.65,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To weaken or work against; to hinder, sabotage.",
+        "ko": "서서히 약화시키다, 훼손하다",
+        "synonyms": [
+          "sabotage",
+          "weaken",
+          "subvert",
+          "erode",
+          "hinder"
+        ],
+        "examples": [
+          {
+            "text": "The war efforts were undermined by the constant bickering between the allies.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To erode the base or foundation of something, e.g. by the action of water.",
+        "ko": "(밑을) 침식하다, 파 들어가다",
+        "synonyms": [
+          "erode",
+          "excavate",
+          "wear away"
+        ],
+        "examples": [
+          {
+            "text": "Floodwater slowly undermined the bridge piers until the whole span collapsed into the river.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "underscore",
+    "score": 63,
+    "zipf": 2.97,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To emphasize or draw attention to.",
+        "ko": "강조하다, 부각시키다",
+        "synonyms": [
+          "emphasize",
+          "underline",
+          "highlight",
+          "stress",
+          "accentuate"
+        ],
+        "examples": [
+          {
+            "text": "I wish to underscore the importance of proper formatting.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "under와 score('줄을 긋다')의 결합입니다. 밑줄을 그어 눈에 띄게 하는 것이 '강조하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "understated",
+    "score": 30,
+    "zipf": 3.11,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Restrained and unpretentious.",
+        "ko": "절제된, 소박한",
+        "synonyms": [
+          "subtle",
+          "restrained",
+          "unostentatious",
+          "low-key",
+          "unpretentious"
+        ],
+        "examples": [
+          {
+            "text": "The hotel's understated elegance appealed to guests who disliked gaudy displays of wealth.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "undertake",
+    "score": 24,
+    "zipf": 3.73,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To take upon oneself; to start, to embark on.",
+        "ko": "착수하다, 떠맡다",
+        "synonyms": [
+          "embark on",
+          "tackle",
+          "take on",
+          "attempt",
+          "set about"
+        ],
+        "examples": [
+          {
+            "text": "They undertook the new venture, not sure where it would lead.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To commit oneself (to an obligation, activity etc.).",
+        "ko": "~하겠다고 약속하다, 책임지다",
+        "synonyms": [
+          "promise",
+          "pledge",
+          "guarantee",
+          "commit"
+        ],
+        "examples": [
+          {
+            "text": "He undertook to exercise more in future.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 undertaken으로, under와 take의 결합입니다. 일을 자기 아래로 받아 든다는 뜻이 '떠맡다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "undertaking",
+    "score": 24,
+    "zipf": 3.72,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "any piece of work that is undertaken or attempted",
+        "ko": "사업, 과업",
+        "synonyms": [
+          "project",
+          "enterprise",
+          "venture",
+          "task",
+          "endeavor"
+        ],
+        "examples": [
+          {
+            "text": "Building the transcontinental railway was an enormous undertaking that required a decade and thousands of workers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A promise or pledge; a guarantee.",
+        "ko": "약속, 보증",
+        "synonyms": [
+          "pledge",
+          "promise",
+          "guarantee",
+          "commitment"
+        ],
+        "examples": [
+          {
+            "text": "The firm gave a formal undertaking to repay all customers who had been overcharged.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "undertake에 -ing를 붙인 말입니다. 떠맡은 일이 '사업, 과업'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "underwrite",
+    "score": 36,
+    "zipf": 2.55,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "guarantee financial support of",
+        "ko": "재정적으로 후원하다, 보증하다",
+        "synonyms": [
+          "finance",
+          "fund",
+          "sponsor",
+          "guarantee",
+          "subsidize"
+        ],
+        "examples": [
+          {
+            "text": "A philanthropic foundation agreed to underwrite the cost of the new research wing.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "protect by insurance",
+        "ko": "보험을 인수하다",
+        "synonyms": [
+          "insure",
+          "cover",
+          "indemnify"
+        ],
+        "examples": [
+          {
+            "text": "The company underwrites policies for shipping firms operating in some of the world's riskiest waters.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 underwrītan('아래에 쓰다, 서명하다')에서 왔습니다. 문서 아래에 서명해 책임진다는 뜻이 '보증하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "unearth",
+    "score": 34,
+    "zipf": 2.69,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To uncover or find; to bring out from concealment.",
+        "ko": "발굴하다, 찾아내다",
+        "synonyms": [
+          "discover",
+          "uncover",
+          "disclose",
+          "bring to light",
+          "ferret out"
+        ],
+        "examples": [
+          {
+            "text": "Investigative reporters unearthed documents showing that the contractor had falsified its safety records.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "recover through digging",
+        "ko": "파내다, 발굴하다",
+        "synonyms": [
+          "excavate",
+          "dig up",
+          "exhume"
+        ],
+        "examples": [
+          {
+            "text": "Archaeologists unearthed a cache of bronze tools beneath the floor of the ancient house.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ],
+    "origin": {
+      "ko": "un-과 earth('땅')의 결합입니다. 땅에서 파내는 모습이 '발굴하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "unequivocal",
+    "score": 48,
+    "zipf": 2.91,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion",
+        "ko": "명백한, 모호함 없는",
+        "synonyms": [
+          "unambiguous",
+          "explicit",
+          "clear-cut",
+          "definite",
+          "categorical"
+        ],
+        "examples": [
+          {
+            "text": "The ministry issued an unequivocal denial, leaving no room for speculation about its involvement.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-",
+      "equ",
+      "voc",
+      "-al"
+    ],
+    "origin": {
+      "ko": "'똑같이 불릴 수 있는' 두 뜻이 아니라 하나뿐이라는 말입니다. 그래서 '명백한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "unexceptionable",
+    "score": 23,
+    "zipf": 1.19,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "completely acceptable; not open to exception or reproach",
+        "ko": "나무랄 데 없는, 흠잡을 수 없는",
+        "synonyms": [
+          "unimpeachable",
+          "irreproachable",
+          "blameless",
+          "faultless"
+        ],
+        "examples": [
+          {
+            "text": "The candidate's record was unexceptionable, offering opponents nothing to attack.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-",
+      "-able"
+    ]
+  },
+  {
+    "word": "unfaltering",
+    "score": 29,
+    "zipf": 1.75,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by firm determination or resolution; not shakable",
+        "ko": "흔들림 없는, 단호한",
+        "synonyms": [
+          "steadfast",
+          "unwavering",
+          "resolute",
+          "firm",
+          "steady"
+        ],
+        "examples": [
+          {
+            "text": "Through months of setbacks, the coach kept an unfaltering belief that the young team would improve.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ]
+  },
+  {
+    "word": "unflappable",
+    "score": 32,
+    "zipf": 2.07,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not easily perturbed or excited or upset; marked by extreme calm and composure",
+        "ko": "침착한, 동요하지 않는",
+        "synonyms": [
+          "imperturbable",
+          "composed",
+          "cool",
+          "unruffled",
+          "calm"
+        ],
+        "examples": [
+          {
+            "text": "The unflappable pilot calmly guided the damaged aircraft to a safe landing.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-",
+      "-able"
+    ],
+    "origin": {
+      "ko": "un-, flap('동요시키다'), -able의 결합입니다. 허둥대며 파닥이지 않는다는 뜻이 '침착한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "unforthcoming",
+    "score": 23,
+    "zipf": 1.18,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Not forthcoming; laconic or uncooperative.",
+        "ko": "말을 아끼는, 비협조적인",
+        "synonyms": [
+          "reticent",
+          "uncommunicative",
+          "tight-lipped",
+          "reserved",
+          "uncooperative"
+        ],
+        "examples": [
+          {
+            "text": "The witness was unforthcoming, answering each question with a single word and offering no detail.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ]
+  },
+  {
+    "word": "ungainly",
+    "score": 35,
+    "zipf": 2.42,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking grace in movement or posture",
+        "ko": "어색한, 볼품없는 (동작)",
+        "synonyms": [
+          "clumsy",
+          "awkward",
+          "gawky",
+          "graceless",
+          "lumbering"
+        ],
+        "examples": [
+          {
+            "text": "The ungainly heron lurched into the air, its long legs trailing awkwardly behind.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "difficult to handle or manage especially because of shape",
+        "ko": "다루기 힘든, 거추장스러운",
+        "synonyms": [
+          "unwieldy",
+          "cumbersome",
+          "awkward",
+          "bulky"
+        ],
+        "examples": [
+          {
+            "text": "Movers struggled to carry the ungainly sofa up the narrow staircase.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ],
+    "origin": {
+      "ko": "un-과 gainly('우아한')의 결합이고 gain은 고대 노르드어 gegn('알맞은')에서 왔습니다. 맵시가 없다는 뜻이 '볼품없는'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "unimpeachable",
+    "score": 50,
+    "zipf": 2.26,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "beyond doubt or reproach",
+        "ko": "의심할 여지 없는, 흠잡을 데 없는",
+        "synonyms": [
+          "irreproachable",
+          "impeccable",
+          "unquestionable",
+          "beyond reproach"
+        ],
+        "examples": [
+          {
+            "text": "an unimpeachable source",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-",
+      "-able"
+    ]
+  },
+  {
+    "word": "universal",
+    "score": 16,
+    "zipf": 4.49,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "applicable to or common to all members of a group or set",
+        "ko": "보편적인, 모두에게 적용되는",
+        "synonyms": [
+          "general",
+          "widespread",
+          "common",
+          "across-the-board"
+        ],
+        "examples": [
+          {
+            "text": "The film earned universal acclaim, with critics of every persuasion praising its direction.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of worldwide scope or applicability",
+        "ko": "전 세계적인",
+        "synonyms": [
+          "worldwide",
+          "global",
+          "ecumenical",
+          "cosmopolitan"
+        ],
+        "examples": [
+          {
+            "text": "Hunger is a universal concern that crosses every national and cultural boundary.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "uni",
+      "vert",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 ūniversālis에서 왔고 universe('하나로 돌아가는 전체')에 -al을 붙인 형태입니다. 전체에 두루 적용되는 것이 '보편적인'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "unmitigated",
+    "score": 35,
+    "zipf": 2.64,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not diminished or moderated in intensity or severity; sometimes used as an intensifier",
+        "ko": "완화되지 않은, 순전한",
+        "synonyms": [
+          "utter",
+          "absolute",
+          "unqualified",
+          "sheer",
+          "complete"
+        ],
+        "examples": [
+          {
+            "text": "Their handling of the recent diplomatic crisis was an unmitigated disaster.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ]
+  },
+  {
+    "word": "unnerve",
+    "score": 30,
+    "zipf": 1.91,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "disturb the composure of",
+        "ko": "불안하게 하다, 당황시키다",
+        "synonyms": [
+          "unsettle",
+          "rattle",
+          "disconcert",
+          "faze",
+          "daunt"
+        ],
+        "examples": [
+          {
+            "text": "The sudden silence in the courtroom unnerved the young attorney in the middle of her argument.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ]
+  },
+  {
+    "word": "unprecedented",
+    "score": 55,
+    "zipf": 3.82,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Never before seen, done, or experienced; without precedent.",
+        "ko": "전례 없는, 유례없는",
+        "synonyms": [
+          "unparalleled",
+          "unheard-of",
+          "novel",
+          "unmatched"
+        ],
+        "examples": [
+          {
+            "text": "The pandemic forced governments into unprecedented spending on public health and economic relief.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-",
+      "pre-",
+      "ced"
+    ],
+    "origin": {
+      "ko": "un-과 precedent('앞서 간 선례')의 결합입니다. 앞선 사례가 없으니 '전례 없는'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "unprepossessing",
+    "score": 29,
+    "zipf": 1.78,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Unimpressive or unremarkable; dull and ordinary; nondescript.",
+        "ko": "볼품없는, 인상이 좋지 않은",
+        "synonyms": [
+          "unimpressive",
+          "unappealing",
+          "plain",
+          "nondescript",
+          "unattractive"
+        ],
+        "examples": [
+          {
+            "text": "The unprepossessing little restaurant turned out to serve the finest meal of our entire trip.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ]
+  },
+  {
+    "word": "unpropitious",
+    "score": 24,
+    "zipf": 1.29,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Not propitious; unfavourable, untimely.",
+        "ko": "불길한, 시기가 좋지 않은",
+        "synonyms": [
+          "inauspicious",
+          "unfavorable",
+          "ill-omened",
+          "untimely",
+          "unpromising"
+        ],
+        "examples": [
+          {
+            "text": "Launching a new product during a recession seemed an unpropitious moment, yet the firm proceeded.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ]
+  },
+  {
+    "word": "unruly",
+    "score": 30,
+    "zipf": 3.08,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unwilling to submit to authority",
+        "ko": "다루기 힘든, 말을 안 듣는",
+        "synonyms": [
+          "disobedient",
+          "wayward",
+          "rebellious",
+          "unmanageable",
+          "refractory"
+        ],
+        "examples": [
+          {
+            "text": "The substitute teacher struggled to control an unruly class that ignored every instruction.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "noisy and lacking in restraint or discipline",
+        "ko": "소란스러운, 무질서한",
+        "synonyms": [
+          "boisterous",
+          "rowdy",
+          "rambunctious",
+          "disorderly"
+        ],
+        "examples": [
+          {
+            "text": "Police gathered to contain the unruly mob outside the stadium after the match.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ],
+    "origin": {
+      "ko": "중세 영어 unruly('불안한')로, un-과 rule, -ly의 결합입니다. 규칙을 따르지 않아 '다루기 힘든'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "unscrupulous",
+    "score": 46,
+    "zipf": 3.07,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "without scruples or principles",
+        "ko": "비양심적인, 파렴치한",
+        "synonyms": [
+          "unprincipled",
+          "unethical",
+          "dishonest",
+          "corrupt",
+          "ruthless"
+        ],
+        "examples": [
+          {
+            "text": "Unscrupulous landlords exploited the shortage by charging desperate tenants far more than the law allowed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-",
+      "-ous"
+    ]
+  },
+  {
+    "word": "unseemly",
+    "score": 82,
+    "zipf": 2.67,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not in keeping with accepted standards of what is right or proper in polite society",
+        "ko": "보기 흉한, 어울리지 않는",
+        "synonyms": [
+          "improper",
+          "indecorous",
+          "unbecoming",
+          "inappropriate",
+          "indecent"
+        ],
+        "examples": [
+          {
+            "text": "He was drunk and made some very unseemly comments.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ],
+    "origin": {
+      "ko": "중세 영어 unsemli로, 고대 노르드어 úsǽmiligr를 본뜬 말로 봅니다. un-과 seemly('어울리는')의 결합입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "unsparing",
+    "score": 32,
+    "zipf": 2.07,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not forbearing; ruthless",
+        "ko": "가차 없는, 냉혹한",
+        "synonyms": [
+          "merciless",
+          "ruthless",
+          "relentless",
+          "harsh",
+          "severe"
+        ],
+        "examples": [
+          {
+            "text": "The critic was unsparing in her review, listing every flaw in the production without mercy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "very generous",
+        "ko": "아낌없는, 후한",
+        "synonyms": [
+          "lavish",
+          "munificent",
+          "unstinting",
+          "liberal",
+          "bountiful"
+        ],
+        "examples": [
+          {
+            "text": "The patron was unsparing in his support, funding the orchestra's tours year after year.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ]
+  },
+  {
+    "word": "unstinting",
+    "score": 29,
+    "zipf": 1.8,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Generous and tireless with one's contributions of money, time, etc.",
+        "ko": "아낌없는, 헌신적인",
+        "synonyms": [
+          "generous",
+          "lavish",
+          "munificent",
+          "unsparing",
+          "tireless"
+        ],
+        "examples": [
+          {
+            "text": "We thank her for her unstinting support of our new hospital.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ],
+    "origin": {
+      "ko": "un-과 stint('인색하게 굴다')의 결합입니다. 아끼지 않으니 '아낌없는'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "untempered",
+    "score": 25,
+    "zipf": 1.41,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not moderated or controlled",
+        "ko": "완화되지 않은, 절제되지 않은",
+        "synonyms": [
+          "unmoderated",
+          "unrestrained",
+          "unchecked",
+          "unmitigated"
+        ],
+        "examples": [
+          {
+            "text": "The young senator's untempered idealism clashed with the compromises that governing demands.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not brought to a proper consistency or hardness",
+        "ko": "단련되지 않은",
+        "synonyms": [
+          "unhardened",
+          "untreated"
+        ],
+        "examples": [
+          {
+            "text": "untempered steel",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ]
+  },
+  {
+    "word": "untenable",
+    "score": 47,
+    "zipf": 3.01,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(of theories etc.) incapable of being defended or justified",
+        "ko": "옹호할 수 없는, 지지될 수 없는",
+        "synonyms": [
+          "indefensible",
+          "unsustainable",
+          "insupportable",
+          "unjustifiable"
+        ],
+        "examples": [
+          {
+            "text": "The theory of cold fusion was untenable.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-",
+      "ten(잡다)",
+      "-able"
+    ]
+  },
+  {
+    "word": "untoward",
+    "score": 50,
+    "zipf": 2.7,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Unfavourable, adverse, or disadvantageous.",
+        "ko": "불리한, 불운한",
+        "synonyms": [
+          "adverse",
+          "unfavorable",
+          "unfortunate",
+          "inauspicious",
+          "disadvantageous"
+        ],
+        "examples": [
+          {
+            "text": "No untoward effects were reported; however, this was not a blinded or controlled study.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not in keeping with accepted standards of what is right or proper in polite society",
+        "ko": "부적절한, 온당치 못한",
+        "synonyms": [
+          "improper",
+          "unseemly",
+          "indecorous",
+          "inappropriate"
+        ],
+        "examples": [
+          {
+            "text": "Auditors found nothing untoward in the accounts, though they continued to review them carefully.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ],
+    "origin": {
+      "ko": "un-과 toward의 결합입니다. '순조롭게 향하지 않는' 데서 '불리한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "untrammeled",
+    "score": 28,
+    "zipf": 1.65,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not confined or limited",
+        "ko": "구속받지 않는, 자유로운",
+        "synonyms": [
+          "unrestricted",
+          "unfettered",
+          "unconstrained",
+          "free",
+          "unhampered"
+        ],
+        "examples": [
+          {
+            "text": "The young poet wrote with untrammeled imagination, ignoring every convention of form.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ],
+    "origin": {
+      "ko": "trammel('물고기 그물, 족쇄')에서 온 말입니다. 그물과 족쇄에 묶이지 않았다는 뜻이 '구속받지 않는'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "unviable",
+    "score": 34,
+    "zipf": 2.27,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Not viable: not capable of independent life; not practicable.",
+        "ko": "실현 불가능한, 생존할 수 없는",
+        "synonyms": [
+          "nonviable",
+          "impracticable",
+          "unworkable",
+          "unsustainable"
+        ],
+        "examples": [
+          {
+            "text": "With rising costs and falling demand, the business model had become financially unviable.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-",
+      "vi(삶)",
+      "-able"
+    ]
+  },
+  {
+    "word": "unwonted",
+    "score": 23,
+    "zipf": 1.17,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "unaccustomed or unusual",
+        "ko": "평소와 다른, 이례적인",
+        "synonyms": [
+          "unusual",
+          "uncharacteristic",
+          "unaccustomed",
+          "atypical",
+          "rare"
+        ],
+        "examples": [
+          {
+            "text": "The usually stern headmaster spoke with unwonted gentleness as he addressed the grieving students.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "un-"
+    ],
+    "origin": {
+      "ko": "un-과 wonted('습관이 된')의 결합입니다. 습관이 아니라는 뜻이 '평소와 다른'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

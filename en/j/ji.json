@@ -1,0 +1,123 @@
+[
+  {
+    "word": "jibe",
+    "score": 35,
+    "zipf": 2.44,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be compatible, similar or consistent; coincide in their characteristics",
+        "ko": "일치하다, 부합하다",
+        "synonyms": [
+          "agree",
+          "match",
+          "tally",
+          "correspond",
+          "square"
+        ],
+        "examples": [
+          {
+            "text": "That explanation doesn’t jibe with the facts.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A facetious or insulting remark; a jeer, a taunt.",
+        "ko": "조롱, 비웃음",
+        "synonyms": [
+          "taunt",
+          "jeer",
+          "gibe",
+          "dig",
+          "barb"
+        ],
+        "examples": [
+          {
+            "text": "He flung subtle jibes at her until she couldn’t bear to work with him any longer.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "jingoism",
+    "score": 65,
+    "zipf": 2.18,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Excessive patriotism or aggressive nationalism, especially with regards to foreign policy.",
+        "ko": "호전적 애국주의, 맹목적 국수주의",
+        "synonyms": [
+          "chauvinism",
+          "ultranationalism",
+          "xenophobia",
+          "militarism",
+          "flag-waving"
+        ],
+        "examples": [
+          {
+            "text": "Soviet reports today on the British victory in the Falkland Islands said a “new flare-up of jingoism” in Britain obscured the fact that the problem was far from solved.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ism"
+    ]
+  },
+  {
+    "word": "jingoist",
+    "score": 24,
+    "zipf": 1.33,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an extreme bellicose nationalist",
+        "ko": "호전적 국수주의자, 맹목적 애국주의자",
+        "synonyms": [
+          "chauvinist",
+          "jingo",
+          "hawk",
+          "ultranationalist",
+          "warmonger"
+        ],
+        "examples": [
+          {
+            "text": "The jingoist columnist demanded military action at the first sign of diplomatic trouble.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ist"
+    ]
+  }
+]

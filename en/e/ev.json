@@ -1,0 +1,282 @@
+[
+  {
+    "word": "evade",
+    "score": 27,
+    "zipf": 3.39,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+        "ko": "회피하다, 모면하다",
+        "synonyms": [
+          "dodge",
+          "elude",
+          "circumvent",
+          "skirt",
+          "sidestep"
+        ],
+        "examples": [
+          {
+            "text": "The senator evaded every direct question about the budget during the lengthy television interview.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "escape, either physically or mentally",
+        "ko": "벗어나다, 피하다",
+        "synonyms": [
+          "elude",
+          "escape",
+          "avoid"
+        ],
+        "examples": [
+          {
+            "text": "The robbers evaded the police.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "vad"
+    ],
+    "origin": {
+      "ko": "라틴어 ēvādere(빠져나가다)에서 프랑스어를 거쳐 왔습니다. 밖으로 슬쩍 걸어 나가 피한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "evanescent",
+    "score": 80,
+    "zipf": 2.15,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "tending to vanish like vapor",
+        "ko": "곧 사라지는, 덧없는",
+        "synonyms": [
+          "fleeting",
+          "ephemeral",
+          "transient",
+          "fugitive",
+          "vanishing"
+        ],
+        "examples": [
+          {
+            "text": "The evanescent glow of the sunset faded from the hills within minutes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "van",
+      "-escent"
+    ],
+    "origin": {
+      "ko": "라틴어 ēvānēscere(사라져 가다)에서 왔습니다. vānus(텅 빈)가 되어 가는 모습이 '곧 사라지는'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "evasive",
+    "score": 47,
+    "zipf": 3.04,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "deliberately vague or ambiguous",
+        "ko": "얼버무리는, 회피적인",
+        "synonyms": [
+          "equivocal",
+          "elusive",
+          "noncommittal",
+          "cagey",
+          "shifty"
+        ],
+        "examples": [
+          {
+            "text": "The spokesman gave evasive answers whenever reporters asked about the company's falling profits.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "vad",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "프랑스어 évasif에서 왔고, 라틴어 ēvādere(빠져나가다)가 바탕입니다. 질문을 슬쩍 피하는 태도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "evenhanded",
+    "score": 29,
+    "zipf": 1.8,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Fair and impartial; unbiased; just.",
+        "ko": "공평한, 공정한",
+        "synonyms": [
+          "impartial",
+          "equitable",
+          "fair",
+          "unbiased",
+          "neutral"
+        ],
+        "examples": [
+          {
+            "text": "The questioners are not evenhanded in dealing with the candidates.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "even(고른)과 handed(손을 쓰는)가 합쳐졌습니다. 양쪽에 고르게 손을 쓰는 데서 '공평한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "evident",
+    "score": 21,
+    "zipf": 3.99,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "clearly revealed to the mind or the senses or judgment",
+        "ko": "명백한, 분명한",
+        "synonyms": [
+          "apparent",
+          "manifest",
+          "patent",
+          "palpable",
+          "plain"
+        ],
+        "examples": [
+          {
+            "text": "The full extent of her injuries did not become evident until they tried to move her.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "vid(보다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 ēvidēns(눈에 훤히 보이는)에서 왔습니다. 밖으로 드러나 보이니 '명백한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "evoke",
+    "score": 28,
+    "zipf": 3.27,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "call forth (emotions, feelings, and responses)",
+        "ko": "불러일으키다, 자아내다",
+        "synonyms": [
+          "elicit",
+          "arouse",
+          "provoke",
+          "kindle",
+          "summon"
+        ],
+        "examples": [
+          {
+            "text": "The documentary evoked deep sympathy among viewers who had never heard of the region.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "call to mind",
+        "ko": "떠올리게 하다, 환기하다",
+        "synonyms": [
+          "suggest",
+          "conjure up",
+          "recall",
+          "bring to mind"
+        ],
+        "examples": [
+          {
+            "text": "Being here evokes long forgotten memories.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "voc"
+    ],
+    "origin": {
+      "ko": "라틴어 ēvocāre(불러내다)에서 프랑스어를 거쳐 왔습니다. 감정이나 기억을 밖으로 불러낸다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

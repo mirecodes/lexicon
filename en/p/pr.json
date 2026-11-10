@@ -1,0 +1,4578 @@
+[
+  {
+    "word": "practice",
+    "score": 16,
+    "zipf": 5.06,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a customary way of operation or behavior",
+        "ko": "관행, 관례, 습관적인 방식",
+        "synonyms": [
+          "custom",
+          "habit",
+          "routine",
+          "convention"
+        ],
+        "examples": [
+          {
+            "text": "It is standard practice in the industry to disclose potential conflicts of interest before publication.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Actual operation or experiment, in contrast to theory.",
+        "ko": "실제, 실행, 실천",
+        "synonyms": [
+          "application",
+          "praxis"
+        ],
+        "examples": [
+          {
+            "text": "That may work in theory, but will it work in practice?",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "systematic training by multiple repetitions",
+        "ko": "연습, 반복 훈련",
+        "synonyms": [
+          "drill",
+          "exercise",
+          "rehearsal"
+        ],
+        "examples": [
+          {
+            "text": "Mastery of a difficult instrument demands years of disciplined daily practice.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "prac"
+    ],
+    "origin": {
+      "ko": "그리스어 prassō('행하다')에서 나온 praktikos가 라틴어와 프랑스어를 거쳐 들어왔습니다. 행하는 방식이 '관행'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "practitioner",
+    "score": 25,
+    "zipf": 3.63,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A person who practices a profession or art, especially law or medicine.",
+        "ko": "(전문직) 종사자, 개업자",
+        "synonyms": [
+          "professional",
+          "specialist"
+        ],
+        "examples": [
+          {
+            "text": "Experienced practitioners of the craft often disagree about which technique is best for beginners.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "prac",
+      "-er"
+    ],
+    "origin": {
+      "ko": "그리스어 prassō('행하다')에서 나온 practician에 -er가 붙은 말입니다. 실제로 일을 행하는 사람을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pragmatic",
+    "score": 58,
+    "zipf": 3.49,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "concerned with practical matters",
+        "ko": "실용적인, 현실적인",
+        "synonyms": [
+          "practical",
+          "realistic",
+          "hardheaded",
+          "sensible"
+        ],
+        "examples": [
+          {
+            "text": "The senator took a pragmatic approach, accepting a modest compromise rather than risking the entire bill.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "prac",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 pragma('행해진 일')에서 왔습니다. 실제 일에 밝다는 뜻에서 '실용적인'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prattle",
+    "score": 65,
+    "zipf": 2.18,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To speak incessantly and in an inconsequential or childish manner; to babble.",
+        "ko": "쓸데없이 재잘거리다, 수다 떨다",
+        "synonyms": [
+          "babble",
+          "chatter",
+          "jabber"
+        ],
+        "examples": [
+          {
+            "text": "The guests prattled on about the weather while the real issues went undiscussed.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "idle or foolish and irrelevant talk",
+        "ko": "쓸데없는 수다, 허튼소리",
+        "synonyms": [
+          "babble",
+          "twaddle",
+          "chatter"
+        ],
+        "examples": [
+          {
+            "text": "The candidate dismissed her opponent's speech as empty prattle devoid of any real policy.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "prate('수다 떨다')에 반복을 나타내는 -le가 붙은 말입니다. 쉴 새 없이 재잘거리는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pre-empt",
+    "score": 34,
+    "zipf": 2.34,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "Alternative spelling of preempt.",
+        "ko": "선수를 치다, 선점하다",
+        "synonyms": [
+          "forestall",
+          "anticipate",
+          "preempt"
+        ],
+        "examples": [
+          {
+            "text": "The company moved to pre-empt criticism by publishing its own audit before regulators could.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "empt"
+    ],
+    "origin": {
+      "ko": "라틴어 prae-('먼저')와 emere('사다')가 합쳐진 말입니다. 남보다 먼저 사서 차지한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "preamble",
+    "score": 32,
+    "zipf": 2.87,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A short preliminary statement or remark, especially an explanatory introduction to a formal document or statute.",
+        "ko": "서문, 전문(前文)",
+        "synonyms": [
+          "foreword",
+          "preface",
+          "prologue",
+          "introduction"
+        ],
+        "examples": [
+          {
+            "text": "The preamble to the treaty states its purpose before listing any binding obligations.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A precursor.",
+        "ko": "전조, 서막",
+        "synonyms": [
+          "precursor",
+          "prelude"
+        ],
+        "examples": [
+          {
+            "text": "High winds are often a preamble to a winter storm.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "ambul"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 praeambulum('앞서 걷다')에서 왔습니다. 본문 앞에 먼저 걸어가는 글이 서문입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "precarious",
+    "score": 60,
+    "zipf": 3.27,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Dangerously insecure or unstable; perilous.",
+        "ko": "불안정한, 위태로운",
+        "synonyms": [
+          "unstable",
+          "shaky",
+          "perilous",
+          "tenuous"
+        ],
+        "examples": [
+          {
+            "text": "The firm's finances remained precarious after two consecutive years of falling revenue.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "prec",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 precārius('간청해서 얻은')에서 왔습니다. 남의 호의에 달려 불안정하다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "precedent",
+    "score": 23,
+    "zipf": 3.78,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A decided case which is cited or used as an example to justify a judgment in a subsequent case.",
+        "ko": "(법적) 선례, 판례",
+        "synonyms": [
+          "case law",
+          "authority"
+        ],
+        "examples": [
+          {
+            "text": "The court cited an earlier ruling as precedent when it rejected the company's appeal.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an example that is used to justify similar occurrences at a later time",
+        "ko": "선례, 전례",
+        "synonyms": [
+          "example",
+          "model",
+          "exemplar"
+        ],
+        "examples": [
+          {
+            "text": "Granting one exception could set a dangerous precedent for every future request.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "ced",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 praecēdere('앞서 가다')의 현재분사에서 왔습니다. 앞서 있었던 사례가 곧 선례입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "precept",
+    "score": 35,
+    "zipf": 2.58,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A rule or principle, especially one governing personal conduct.",
+        "ko": "교훈, 계율, 행동 지침",
+        "synonyms": [
+          "principle",
+          "maxim",
+          "tenet",
+          "canon"
+        ],
+        "examples": [
+          {
+            "text": "Precept guides, but example draws.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "cap(잡다)"
+    ],
+    "origin": {
+      "ko": "라틴어 praecipere('미리 가르치다', prae + capere)에서 왔습니다. 앞서 쥐여 주는 가르침이 교훈입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "precipitate",
+    "score": 81,
+    "zipf": 2.78,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "done with very great haste and without due deliberation",
+        "ko": "성급한, 경솔한",
+        "synonyms": [
+          "hasty",
+          "rash",
+          "impetuous",
+          "headlong"
+        ],
+        "examples": [
+          {
+            "text": "Critics warned that a precipitate withdrawal of troops would leave the region dangerously unstable.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To make something happen suddenly and quickly.",
+        "ko": "갑작스럽게 촉발하다, 재촉하다",
+        "synonyms": [
+          "trigger",
+          "hasten",
+          "accelerate",
+          "provoke"
+        ],
+        "examples": [
+          {
+            "text": "it precipitated their success",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To send violently into a certain state or condition.",
+        "ko": "(어떤 상태로) 급격히 빠뜨리다",
+        "synonyms": [
+          "plunge",
+          "hurl"
+        ],
+        "examples": [
+          {
+            "text": "we were precipitated into a conflict",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "cap(머리)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 praeceps('머리부터 거꾸로')에서 왔습니다. 머리부터 내던지듯 서두르는 데서 '성급한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "precipitous",
+    "score": 51,
+    "zipf": 2.58,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "dangerously steep",
+        "ko": "가파른, 깎아지른 듯한",
+        "synonyms": [
+          "steep",
+          "sheer",
+          "abrupt"
+        ],
+        "examples": [
+          {
+            "text": "The trail follows a precipitous ridge with a long drop on either side.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Hasty; rash; quick; sudden",
+        "ko": "성급한, 급작스러운",
+        "synonyms": [
+          "hasty",
+          "sudden",
+          "abrupt",
+          "rash"
+        ],
+        "examples": [
+          {
+            "text": "[…]humans have been responsible for a precipitous decline of elephants, from perhaps 300,000 in the early 1970s to some 10,000 today.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "cap(머리)",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 praeceps('머리부터 거꾸로')에서 왔습니다. 머리부터 곤두박질칠 만큼 가파르다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "precis",
+    "score": 48,
+    "zipf": 2.1,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a sketchy summary of the main points of an argument or theory",
+        "ko": "요약문, 개요",
+        "synonyms": [
+          "summary",
+          "synopsis",
+          "abstract",
+          "outline"
+        ],
+        "examples": [
+          {
+            "text": "Each student submitted a one-page precis of the article before the seminar began.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 précis('간결한')에서 온 말입니다. 군더더기를 잘라 낸 요약문을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "precision",
+    "score": 21,
+    "zipf": 4.01,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The state of being precise or exact; especially, both exact and accurate.",
+        "ko": "정밀함, 정확성",
+        "synonyms": [
+          "exactness",
+          "accuracy",
+          "exactitude"
+        ],
+        "examples": [
+          {
+            "text": "The surgeon worked with remarkable precision, leaving only a barely visible scar.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "cis",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "프랑스어 precision에서 왔으며 precise('정확한')에서 나왔습니다. 군더더기를 잘라 내 정확해진다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "preclude",
+    "score": 47,
+    "zipf": 3.03,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To remove the possibility of; to rule out; to prevent or exclude; to render impossible.",
+        "ko": "불가능하게 만들다, 배제하다, 막다",
+        "synonyms": [
+          "prevent",
+          "rule out",
+          "forestall",
+          "exclude"
+        ],
+        "examples": [
+          {
+            "text": "It has been raining for days, but that doesn’t preclude the skies clearing by this afternoon!",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "clud"
+    ],
+    "origin": {
+      "ko": "라틴어 praeclūdere('앞을 닫다')에서 왔습니다. 미리 문을 닫아 가능성을 막는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "precocious",
+    "score": 64,
+    "zipf": 2.86,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Characterized by exceptionally early development or maturity.",
+        "ko": "조숙한, 이른 나이에 발달한",
+        "synonyms": [
+          "advanced",
+          "gifted",
+          "premature",
+          "forward"
+        ],
+        "examples": [
+          {
+            "text": "The precocious child began reading the newspaper at age four.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "coc",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 praecox('일찍 익은')에서 왔습니다. 과일이 제철보다 먼저 익듯 일찍 성숙한 아이를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "precursor",
+    "score": 27,
+    "zipf": 3.44,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "something that precedes and indicates the approach of something or someone",
+        "ko": "선구자, 전조, 선행하는 것",
+        "synonyms": [
+          "forerunner",
+          "harbinger",
+          "herald",
+          "predecessor"
+        ],
+        "examples": [
+          {
+            "text": "Economists treated the sharp drop in orders as a precursor of the coming recession.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "cur(달리다)",
+      "-or"
+    ],
+    "origin": {
+      "ko": "라틴어 praecursor('앞서 달리는 사람')에서 왔습니다. 먼저 달려와 뒤에 올 것을 알리는 선구자입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "predecessor",
+    "score": 23,
+    "zipf": 3.82,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "one who precedes you in time (as in holding a position or office)",
+        "ko": "전임자, 선배",
+        "synonyms": [
+          "forerunner",
+          "antecedent",
+          "ancestor"
+        ],
+        "examples": [
+          {
+            "text": "The new director reversed several policies introduced by her predecessor.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "ced",
+      "-or"
+    ],
+    "origin": {
+      "ko": "라틴어 prae-('앞')와 dēcēdere('물러나다')에서 왔습니다. 먼저 물러난 자리의 사람이 전임자입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "predicament",
+    "score": 28,
+    "zipf": 3.28,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An unfortunate or trying position or condition.",
+        "ko": "곤경, 난처한 처지",
+        "synonyms": [
+          "plight",
+          "quandary",
+          "dilemma",
+          "bind"
+        ],
+        "examples": [
+          {
+            "text": "Stranded without money or a passport, the traveler found herself in a serious predicament.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "dic",
+      "-ment"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 praedicāmentum('단정된 것, 범주')에서 왔습니다. '처한 상태'라는 뜻을 거쳐 '곤경'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "predilection",
+    "score": 84,
+    "zipf": 2.52,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a strong liking",
+        "ko": "편애, 강한 선호",
+        "synonyms": [
+          "penchant",
+          "preference",
+          "fondness",
+          "partiality"
+        ],
+        "examples": [
+          {
+            "text": "The editor's predilection for long, ornate sentences often frustrated her younger colleagues.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "leg(고르다)",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 praedīlēctiō에서 왔습니다. 다른 것보다 먼저 골라 아끼는 마음을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "predisposed",
+    "score": 33,
+    "zipf": 2.81,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "made susceptible",
+        "ko": "~하기 쉬운, 성향이 있는",
+        "synonyms": [
+          "prone",
+          "susceptible",
+          "inclined",
+          "liable"
+        ],
+        "examples": [
+          {
+            "text": "Some people are genetically predisposed to heart disease regardless of their diet.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "pos"
+    ],
+    "origin": {
+      "ko": "pre-('미리')에 dispose('배치하다')의 과거분사가 붙은 말입니다. 미리 어느 쪽으로 기울어 놓였다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "preempt",
+    "score": 35,
+    "zipf": 2.44,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To prevent or beat to the punch, to forestall an expected occurrence by acting first.",
+        "ko": "선수를 쳐서 막다, 선제적으로 차단하다",
+        "synonyms": [
+          "forestall",
+          "anticipate",
+          "head off"
+        ],
+        "examples": [
+          {
+            "text": "By his statement, the Secretary-General had effectively preempted the usual frustrating debates over questions of fact and law.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "take the place of or have precedence over",
+        "ko": "대체하다, 우선하다",
+        "synonyms": [
+          "displace",
+          "supersede",
+          "supplant"
+        ],
+        "examples": [
+          {
+            "text": "Breaking news coverage preempted the regular evening programming for several hours.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "empt"
+    ],
+    "origin": {
+      "ko": "preemption에서 거꾸로 만든 말입니다. 라틴어 '먼저 사다'에서 남보다 앞서 차지한다는 뜻이 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "preemptive",
+    "score": 33,
+    "zipf": 2.8,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "designed or having the power to deter or prevent an anticipated situation or occurrence",
+        "ko": "선제의, 사전 예방적인",
+        "synonyms": [
+          "preventive",
+          "anticipatory",
+          "prophylactic"
+        ],
+        "examples": [
+          {
+            "text": "The government launched a preemptive campaign to calm investors before the announcement.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "empt",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "preempt에 -ive가 붙은 말입니다. 먼저 선수를 쳐서 막는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "preen",
+    "score": 33,
+    "zipf": 2.16,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To spend time making oneself attractive and admiring one's appearance, e.g. in front of a mirror.",
+        "ko": "몸치장하다, 외모를 가꾸다",
+        "synonyms": [
+          "primp",
+          "groom",
+          "titivate"
+        ],
+        "examples": [
+          {
+            "text": "The actor preened in front of the mirror before stepping onto the red carpet.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "pride or congratulate (oneself) for an achievement",
+        "ko": "우쭐대다, 자화자찬하다",
+        "synonyms": [
+          "congratulate",
+          "gloat",
+          "swagger"
+        ],
+        "examples": [
+          {
+            "text": "The minister preened over the modest gains as though they were a historic triumph.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 prēon('핀')에서 온 말로, 새가 부리로 깃털을 다듬는 모습과 prune의 영향을 받았습니다. 몸치장하는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "premeditate",
+    "score": 24,
+    "zipf": 1.26,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "consider, ponder, or plan (an action) beforehand",
+        "ko": "미리 계획하다, 사전에 숙고하다",
+        "synonyms": [
+          "plan",
+          "plot",
+          "contrive"
+        ],
+        "examples": [
+          {
+            "text": "Prosecutors argued that the defendant had premeditated the crime for weeks.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "medit",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 praemeditārī('미리 곰곰이 생각하다')에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "premise",
+    "score": 23,
+    "zipf": 3.82,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a statement that is assumed to be true and from which a conclusion can be drawn",
+        "ko": "전제",
+        "synonyms": [
+          "assumption",
+          "presupposition",
+          "postulate"
+        ],
+        "examples": [
+          {
+            "text": "The argument collapses because its central premise rests on an unproven generalization.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "take something as preexisting and given",
+        "ko": "전제로 삼다",
+        "synonyms": [
+          "presuppose",
+          "assume",
+          "postulate"
+        ],
+        "examples": [
+          {
+            "text": "The policy is premised on the belief that consumers will respond rationally to price changes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "mit(보내다)"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 premissa('앞에 놓인 명제')에서 왔습니다. 결론보다 앞서 내놓은 것이 전제입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prescience",
+    "score": 48,
+    "zipf": 2.1,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the power to foresee the future",
+        "ko": "선견지명, 예지력",
+        "synonyms": [
+          "foresight",
+          "foreknowledge",
+          "clairvoyance"
+        ],
+        "examples": [
+          {
+            "text": "Her essay showed remarkable prescience about the effects of social media on public debate.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "sci",
+      "-ance"
+    ],
+    "origin": {
+      "ko": "라틴어 praescientia('미리 앎')에서 왔습니다. 일이 벌어지기 전에 아는 능력입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prescient",
+    "score": 50,
+    "zipf": 2.66,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "perceiving the significance of events before they occur",
+        "ko": "선견지명이 있는, 예지적인",
+        "synonyms": [
+          "farsighted",
+          "clairvoyant",
+          "prophetic",
+          "foresighted"
+        ],
+        "examples": [
+          {
+            "text": "The report proved prescient, warning of the housing collapse years before it happened.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "sci",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 praesciēns('미리 아는')에서 왔습니다. prae-('앞')와 sciō('알다')가 합쳐진 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "presentiment",
+    "score": 27,
+    "zipf": 1.61,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a feeling of evil to come",
+        "ko": "불길한 예감, 육감",
+        "synonyms": [
+          "foreboding",
+          "premonition",
+          "misgiving"
+        ],
+        "examples": [
+          {
+            "text": "She had a vague presentiment that the meeting would end badly.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "sent",
+      "-ment"
+    ],
+    "origin": {
+      "ko": "프랑스어 pressentiment에서 왔습니다. 일이 일어나기 전에 미리 느끼는 예감입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "presumption",
+    "score": 29,
+    "zipf": 3.22,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The belief of something based upon reasonable evidence, or upon something known to be true.",
+        "ko": "추정, 가정",
+        "synonyms": [
+          "assumption",
+          "supposition",
+          "inference",
+          "presupposition"
+        ],
+        "examples": [
+          {
+            "text": "The presumption is that an event has taken place.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "audacious (even arrogant) behavior that you have no right to",
+        "ko": "주제넘음, 뻔뻔함",
+        "synonyms": [
+          "effrontery",
+          "audacity",
+          "arrogance",
+          "impudence"
+        ],
+        "examples": [
+          {
+            "text": "He had the presumption to correct the professor in front of the entire lecture hall.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "sum(취하다)",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 praesūmptiō에서 왔습니다. 증거를 다 보기 전에 먼저 취해 놓는 '추정'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "presumptive",
+    "score": 33,
+    "zipf": 2.82,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Based on presumption or conjecture; inferred, likely, presumed.",
+        "ko": "추정상의, ~로 여겨지는",
+        "synonyms": [
+          "presumed",
+          "probable",
+          "apparent"
+        ],
+        "examples": [
+          {
+            "text": "By late May, he was already considered his party’s presumptive nominee.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "affording reasonable grounds for belief or acceptance",
+        "ko": "(증거가) 믿을 만한 근거가 되는",
+        "synonyms": [
+          "persuasive",
+          "probative"
+        ],
+        "examples": [
+          {
+            "text": "presumptive evidence",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "sum(취하다)",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 praesumptivus에서 왔습니다. 먼저 그렇다고 취해 놓은 '추정상의'라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "presumptuous",
+    "score": 64,
+    "zipf": 2.86,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Making unwarranted presumptions or assumptions, often out of arrogance or excessive self-confidence, and thus exceeding appropriate or rightful limits.",
+        "ko": "주제넘은, 건방진",
+        "synonyms": [
+          "forward",
+          "arrogant",
+          "overbold",
+          "brash"
+        ],
+        "examples": [
+          {
+            "text": "It would be presumptuous of me to advise someone with so much more experience.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "sum(취하다)",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 praesūmptuōsus에서 왔습니다. 자격도 없이 앞질러 취하려 드는 '주제넘은' 태도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pretense",
+    "score": 31,
+    "zipf": 3.01,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "pretending with intention to deceive",
+        "ko": "가식, 거짓 꾸밈",
+        "synonyms": [
+          "sham",
+          "feigning",
+          "dissembling",
+          "façade"
+        ],
+        "examples": [
+          {
+            "text": "She dropped the pretense of friendliness as soon as the cameras were turned off.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a false or unsupportable quality",
+        "ko": "허식, 과시, 거짓 주장",
+        "synonyms": [
+          "pretension",
+          "affectation",
+          "ostentation"
+        ],
+        "examples": [
+          {
+            "text": "She was a plain-speaking woman without a hint of pretense.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "tend"
+    ],
+    "origin": {
+      "ko": "라틴어 praetendere('앞에 펼치다')에서 왔습니다. 진짜 앞에 가면을 펼쳐 놓는 것이 가식입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pretentious",
+    "score": 45,
+    "zipf": 3.17,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "making claim to or creating an appearance of (often undeserved) importance or distinction",
+        "ko": "허세 부리는, 가식적인",
+        "synonyms": [
+          "ostentatious",
+          "affected",
+          "showy",
+          "grandiose"
+        ],
+        "examples": [
+          {
+            "text": "Reviewers found the novel pretentious, its dense allusions serving to impress rather than illuminate.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "tend",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "프랑스어 prétentieux에서 왔고 라틴어 praetendere('앞에 내세우다')와 닿습니다. 중요한 척 내세우는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "preternatural",
+    "score": 48,
+    "zipf": 2.1,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "surpassing the ordinary or normal",
+        "ko": "비범한, 이상할 정도의",
+        "synonyms": [
+          "uncanny",
+          "extraordinary",
+          "abnormal",
+          "unearthly"
+        ],
+        "examples": [
+          {
+            "text": "The old sailor had a preternatural ability to sense a storm hours before it arrived.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "preter-",
+      "nat",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 praeter nātūram('자연을 넘어서')에서 왔습니다. 보통 자연의 범위를 넘는 이상함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prevail",
+    "score": 26,
+    "zipf": 3.55,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "prove superior",
+        "ko": "이기다, 승리하다",
+        "synonyms": [
+          "triumph",
+          "win out",
+          "succeed"
+        ],
+        "examples": [
+          {
+            "text": "The champion prevailed, though it was a hard fight",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To be current, widespread, or predominant; to have currency or prevalence.",
+        "ko": "널리 퍼지다, 우세하다",
+        "synonyms": [
+          "predominate",
+          "dominate",
+          "persist",
+          "obtain"
+        ],
+        "examples": [
+          {
+            "text": "In his day and age, such practices prevailed all over Europe.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "use persuasion successfully",
+        "ko": "설득하다",
+        "synonyms": [
+          "persuade",
+          "induce"
+        ],
+        "examples": [
+          {
+            "text": "He prevailed upon her to visit his parents",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "val"
+    ],
+    "origin": {
+      "ko": "라틴어 praevaleō('더 힘이 세다')에서 왔습니다. 남보다 힘이 앞서 이긴다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prevaricate",
+    "score": 75,
+    "zipf": 1.58,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be deliberately ambiguous or unclear in order to mislead or withhold information",
+        "ko": "얼버무리다, 둘러대다",
+        "synonyms": [
+          "equivocate",
+          "hedge",
+          "evade",
+          "tergiversate"
+        ],
+        "examples": [
+          {
+            "text": "Pressed about the missing funds, the treasurer prevaricated and changed the subject.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pre-",
+      "varic"
+    ],
+    "origin": {
+      "ko": "라틴어 praevāricārī('비뚤게 걷다')에서 왔습니다. 다리를 벌리고 비틀거리듯 말을 얼버무리게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "primacy",
+    "score": 48,
+    "zipf": 2.88,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "The state or condition of being prime or first, as in time, place, rank, preference etc.",
+        "ko": "우위, 최고의 중요성",
+        "synonyms": [
+          "preeminence",
+          "supremacy",
+          "priority"
+        ],
+        "examples": [
+          {
+            "text": "The report stresses the primacy of evidence over personal opinion in policy decisions.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "prim",
+      "-acy"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 primatia에서 왔으며 prime에 -acy가 붙은 말입니다. 첫째 자리에 있는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prime",
+    "score": 16,
+    "zipf": 4.81,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "First in importance, degree, or rank.",
+        "ko": "주요한, 최우선의",
+        "synonyms": [
+          "main",
+          "principal",
+          "chief",
+          "foremost"
+        ],
+        "examples": [
+          {
+            "text": "Our prime concern here is to keep the community safe.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the period of greatest prosperity or productivity",
+        "ko": "전성기, 한창때",
+        "synonyms": [
+          "peak",
+          "heyday",
+          "zenith",
+          "bloom"
+        ],
+        "examples": [
+          {
+            "text": "The sculptor produced her finest work in the prime of her career.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "fill with priming liquid",
+        "ko": "(사전에) 준비시키다, 미리 채워 넣다",
+        "synonyms": [
+          "prepare",
+          "ready"
+        ],
+        "examples": [
+          {
+            "text": "prime a car engine",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "prim"
+    ],
+    "origin": {
+      "ko": "라틴어 prīmus('첫째의')에서 왔습니다. 맨 앞에 있어 가장 중요하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "principled",
+    "score": 31,
+    "zipf": 3.01,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "strongly adhering to, or heedful of, guiding beliefs or moral rules",
+        "ko": "원칙을 지키는, 신념이 있는",
+        "synonyms": [
+          "high-minded",
+          "ethical",
+          "upright",
+          "scrupulous"
+        ],
+        "examples": [
+          {
+            "text": "The principled senator resigned rather than endorse a policy she considered unjust.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "prim",
+      "cap(잡다)"
+    ],
+    "origin": {
+      "ko": "principle에 -ed가 붙은 말입니다. 라틴어 principium('첫 시작, 근본')에서 나온 원칙을 지닌 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pristine",
+    "score": 76,
+    "zipf": 3.33,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Unspoiled; still with its original purity; uncorrupted or unsullied.",
+        "ko": "원래 상태 그대로의, 때 묻지 않은",
+        "synonyms": [
+          "unspoiled",
+          "immaculate",
+          "untouched",
+          "pure"
+        ],
+        "examples": [
+          {
+            "text": "The beach back is in pristine condition after a council-led cleanup.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 prīstinus('옛날의, 원래의')에서 왔습니다. 처음 상태 그대로 때 묻지 않았다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "probity",
+    "score": 83,
+    "zipf": 2.39,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "complete and confirmed integrity; having strong moral principles",
+        "ko": "청렴, 정직",
+        "synonyms": [
+          "integrity",
+          "honesty",
+          "rectitude",
+          "uprightness"
+        ],
+        "examples": [
+          {
+            "text": "The judge's probity was so well known that even her critics never questioned her rulings.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "prob",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 probitās('올곧음')에서 왔으며 probus('훌륭한, 정직한')에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "procedural",
+    "score": 26,
+    "zipf": 3.51,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Related to procedure.",
+        "ko": "절차상의, 절차적인",
+        "synonyms": [
+          "methodological",
+          "formal"
+        ],
+        "examples": [
+          {
+            "text": "The judge dismissed the case on procedural grounds: it wasn't the facts or the law, but just that they hadn't filed the correct forms.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "ced",
+      "-al"
+    ],
+    "origin": {
+      "ko": "procedure에 -al이 붙은 말입니다. 라틴어 prōcēdere('앞으로 나아가다')에서 '절차'의 뜻이 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "proceeding",
+    "score": 24,
+    "zipf": 3.66,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "(law) the institution of a sequence of steps by which legal judgments are invoked",
+        "ko": "소송 절차, 법적 조치",
+        "synonyms": [
+          "legal proceeding",
+          "lawsuit",
+          "action"
+        ],
+        "examples": [
+          {
+            "text": "The company faces criminal proceedings over its handling of customer data.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A published collection of papers presented at an academic conference, or representing the acts of a learned society.",
+        "ko": "(학회) 논문집, 회의록",
+        "synonyms": [
+          "transactions",
+          "minutes"
+        ],
+        "examples": [
+          {
+            "text": "Her paper appeared in the proceedings of the annual linguistics conference.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "ced"
+    ],
+    "origin": {
+      "ko": "proceed('앞으로 나아가다')에 -ing가 붙은 말입니다. 일을 한 단계씩 진행하는 법적 절차를 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "proceeds",
+    "score": 20,
+    "zipf": 4.05,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the income or profit arising from such transactions as the sale of land or other property",
+        "ko": "수익금, 매각 대금",
+        "synonyms": [
+          "yield",
+          "revenue",
+          "takings",
+          "return"
+        ],
+        "examples": [
+          {
+            "text": "All proceeds from the auction will be donated to a children's hospital.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "ced"
+    ],
+    "origin": {
+      "ko": "proceed('앞으로 나아가다')에서 나온 말입니다. 거래에서 앞으로 나오는 것, 곧 수익금입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "proclivity",
+    "score": 83,
+    "zipf": 2.39,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a natural inclination",
+        "ko": "성향, 경향",
+        "synonyms": [
+          "propensity",
+          "penchant",
+          "leaning",
+          "bent"
+        ],
+        "examples": [
+          {
+            "text": "The young poet showed an early proclivity for melancholy themes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "clin",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 prōclīvitās('앞으로 기울어짐')에서 왔습니다. 마음이 한쪽으로 기우는 성향입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prodigal",
+    "score": 80,
+    "zipf": 2.92,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "recklessly wasteful",
+        "ko": "낭비하는, 방탕한",
+        "synonyms": [
+          "extravagant",
+          "profligate",
+          "spendthrift",
+          "wasteful"
+        ],
+        "examples": [
+          {
+            "text": "The prodigal heir squandered the family fortune within a decade.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Yielding profusely, lavish.",
+        "ko": "아낌없이 주는, 풍성한",
+        "synonyms": [
+          "lavish",
+          "generous",
+          "liberal",
+          "bountiful"
+        ],
+        "examples": [
+          {
+            "text": "How can he be so prodigal with money on such a tight budget?",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Returning or having returned, especially repentantly, after such an abandonment.",
+        "ko": "(뉘우치고) 돌아온",
+        "synonyms": [
+          "returning",
+          "repentant"
+        ],
+        "examples": [
+          {
+            "text": "Fans welcomed the prodigal star back to the club after three years abroad.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "ag",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 prōdigus('낭비하는')에서 왔고, prōd-('앞으로')와 agō('몰다')가 합쳐졌습니다. 재산을 마구 몰아 내버린다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prodigious",
+    "score": 64,
+    "zipf": 2.92,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "so great in size or force or extent as to elicit awe",
+        "ko": "엄청난, 경이로운",
+        "synonyms": [
+          "colossal",
+          "stupendous",
+          "enormous",
+          "immense"
+        ],
+        "examples": [
+          {
+            "text": "The young pianist displayed a prodigious memory, performing entire concertos without a score.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of momentous or ominous significance",
+        "ko": "불길한, 심상치 않은",
+        "synonyms": [
+          "portentous",
+          "ominous"
+        ],
+        "examples": [
+          {
+            "text": "a prodigious vision",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 prōdigium('전조, 경이로운 일')에서 왔습니다. 불가사의할 만큼 엄청나다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prodigy",
+    "score": 29,
+    "zipf": 3.25,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an unusually gifted or intelligent (young) person; someone whose talents excite wonder and admiration",
+        "ko": "신동, 천재",
+        "synonyms": [
+          "wunderkind",
+          "genius",
+          "virtuoso"
+        ],
+        "examples": [
+          {
+            "text": "At nine, the chess prodigy was already defeating seasoned grandmasters in public exhibitions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a sign of something about to happen",
+        "ko": "전조, 징조",
+        "synonyms": [
+          "omen",
+          "portent",
+          "presage"
+        ],
+        "examples": [
+          {
+            "text": "Ancient chroniclers recorded the comet as a prodigy foretelling the king's death.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-"
+    ],
+    "origin": {
+      "ko": "라틴어 prōdigium('전조, 불가사의')에서 왔습니다. 놀라운 일이라는 뜻에서 놀라운 재능을 지닌 아이가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "proficient",
+    "score": 28,
+    "zipf": 3.29,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having or showing knowledge and skill and aptitude",
+        "ko": "능숙한, 숙달된",
+        "synonyms": [
+          "adept",
+          "skilled",
+          "competent",
+          "expert"
+        ],
+        "examples": [
+          {
+            "text": "After two years abroad, she became proficient in three languages.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "fac(만들다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 proficere('앞으로 나아가다')에서 왔습니다. 계속 진전해 숙달되었다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "profligate",
+    "score": 83,
+    "zipf": 2.37,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "recklessly wasteful",
+        "ko": "낭비가 심한, 방탕한",
+        "synonyms": [
+          "extravagant",
+          "prodigal",
+          "spendthrift",
+          "wasteful"
+        ],
+        "examples": [
+          {
+            "text": "Critics condemned the profligate spending that left the city deeply in debt.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "unrestrained by convention or morality",
+        "ko": "타락한, 도덕관념이 없는",
+        "synonyms": [
+          "dissolute",
+          "debauched",
+          "licentious",
+          "libertine"
+        ],
+        "examples": [
+          {
+            "text": "The novel portrays a profligate aristocracy indifferent to the suffering around it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "flict",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 prōflīgāre('때려눕히다')에서 왔습니다. 쓰러질 만큼 막 써 버리는 '방탕한'의 뜻으로 번졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "profound",
+    "score": 38,
+    "zipf": 3.94,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "showing intellectual penetration or emotional depth",
+        "ko": "깊이 있는, 심오한",
+        "synonyms": [
+          "deep",
+          "insightful",
+          "penetrating",
+          "weighty"
+        ],
+        "examples": [
+          {
+            "text": "a profound insight",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "far-reaching and thoroughgoing in effect especially on the nature of something",
+        "ko": "근본적인, 광범위한 영향을 미치는",
+        "synonyms": [
+          "fundamental",
+          "far-reaching",
+          "radical"
+        ],
+        "examples": [
+          {
+            "text": "The invention of printing had a profound effect on the spread of literacy across Europe.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "fund"
+    ],
+    "origin": {
+      "ko": "라틴어 profundus('깊은')에서 왔고, pro('앞으로')와 fundus('바닥')가 합쳐졌습니다. 바닥까지 닿는 깊이입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "profundity",
+    "score": 33,
+    "zipf": 2.2,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Deep intellect or insight.",
+        "ko": "깊은 통찰력, 심오함",
+        "synonyms": [
+          "depth",
+          "profoundness",
+          "wisdom",
+          "insight"
+        ],
+        "examples": [
+          {
+            "text": "Unfortunately, Andrew's colossal ego means people miss his profundity.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "fund",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 profunditās('깊음')에서 왔습니다. 바닥까지 닿는 깊이가 지적 깊이가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "profuse",
+    "score": 66,
+    "zipf": 2.29,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "abundant or generous to the point of excess; copious; volubly expressed.",
+        "ko": "아낌없는, 지나치게 많은",
+        "synonyms": [
+          "copious",
+          "lavish",
+          "abundant",
+          "effusive"
+        ],
+        "examples": [
+          {
+            "text": "The host offered profuse apologies for the delay and a second round of drinks.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "fus"
+    ],
+    "origin": {
+      "ko": "라틴어 profusus('쏟아져 나온')에서 왔습니다. 앞으로 콸콸 쏟아지듯 풍부하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "profusion",
+    "score": 36,
+    "zipf": 2.52,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the property of being extremely abundant",
+        "ko": "풍부함, 다량",
+        "synonyms": [
+          "abundance",
+          "plenitude",
+          "cornucopia",
+          "richness"
+        ],
+        "examples": [
+          {
+            "text": "Wildflowers grew in profusion along the roadside after the spring rains.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "fus",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 profusio에서 왔습니다. 쏟아져 넘치는 풍부함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "progenitor",
+    "score": 33,
+    "zipf": 2.84,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An ancestral form of a species.",
+        "ko": "조상, 선조",
+        "synonyms": [
+          "ancestor",
+          "forefather",
+          "forebear"
+        ],
+        "examples": [
+          {
+            "text": "The wolf is widely regarded as the progenitor of all domestic dog breeds.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A predecessor of something, especially if also a precursor or model.",
+        "ko": "원조, 선구가 되는 것",
+        "synonyms": [
+          "precursor",
+          "forerunner",
+          "originator"
+        ],
+        "examples": [
+          {
+            "text": "ARPANET was the progenitor of the Internet.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "gen",
+      "-or"
+    ],
+    "origin": {
+      "ko": "라틴어 prōgenitor('앞서 낳은 사람')에서 왔습니다. 후손보다 앞선 조상을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prognosticate",
+    "score": 24,
+    "zipf": 1.33,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make a prediction about; tell in advance",
+        "ko": "예측하다, 예언하다",
+        "synonyms": [
+          "predict",
+          "foretell",
+          "forecast",
+          "augur"
+        ],
+        "examples": [
+          {
+            "text": "Few analysts were willing to prognosticate about the outcome of such an unpredictable election.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "indicate, as with a sign or an omen",
+        "ko": "~의 징조가 되다",
+        "synonyms": [
+          "portend",
+          "presage",
+          "augur",
+          "foreshadow",
+          "betoken"
+        ],
+        "examples": [
+          {
+            "text": "The bluebells may prognosticate an early spring this year.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "gno",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "그리스어 prognōsis('미리 앎')에서 나온 중세 라틴어 prognosticare에서 왔습니다. 앞일을 미리 아는 것이 예측입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prognostication",
+    "score": 30,
+    "zipf": 1.85,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a statement made about the future",
+        "ko": "예측, 예언",
+        "synonyms": [
+          "prediction",
+          "forecast",
+          "prophecy"
+        ],
+        "examples": [
+          {
+            "text": "The economist's gloomy prognostication proved far too pessimistic once exports began to recover.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a sign of something about to happen",
+        "ko": "징조, 전조",
+        "synonyms": [
+          "omen",
+          "portent",
+          "presage"
+        ],
+        "examples": [
+          {
+            "text": "The fever death-rate in May and June was abnormally high, a sure prognostication of the coming storm.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "gno",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 prognosticatio에서 왔습니다. 그리스어 '미리 앎'에서 나온 말로, 미래에 대한 예측을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prohibitive",
+    "score": 32,
+    "zipf": 2.95,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Costly to the extreme; beyond budget.",
+        "ko": "(가격이) 엄두도 못 낼 만큼 비싼",
+        "synonyms": [
+          "exorbitant",
+          "extortionate",
+          "steep"
+        ],
+        "examples": [
+          {
+            "text": "I'd like to visit Europe someday, but the cost is prohibitive right now.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Tending to prohibit, preclude, or disallow.",
+        "ko": "금지하는, 억제하는",
+        "synonyms": [
+          "restrictive",
+          "prohibitory",
+          "forbidding"
+        ],
+        "examples": [
+          {
+            "text": "Prohibitive regulations discouraged small firms from entering the market.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "hab",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "라틴어 prohibēre('막다')에서 왔습니다. 가격이 너무 높아 아예 접근을 막는 정도라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "project",
+    "score": 16,
+    "zipf": 5.22,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "extend out or project in space",
+        "ko": "돌출하다, 튀어나오다",
+        "synonyms": [
+          "protrude",
+          "jut",
+          "stick out",
+          "extend"
+        ],
+        "examples": [
+          {
+            "text": "A narrow balcony projected over the street from the second floor.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To make plans for; to forecast.",
+        "ko": "예상하다, 추정하다",
+        "synonyms": [
+          "forecast",
+          "predict",
+          "estimate",
+          "foresee"
+        ],
+        "examples": [
+          {
+            "text": "The CEO is projecting the completion of the acquisition by April 2007.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To assume qualities or mindsets in others based on one's own personality.",
+        "ko": "(자신의 감정을) 타인에게 투영하다",
+        "synonyms": [
+          "attribute",
+          "transfer",
+          "externalize"
+        ],
+        "examples": [
+          {
+            "text": "Anxious people often project their own fears onto those around them.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "ject"
+    ],
+    "origin": {
+      "ko": "라틴어 prōicere('앞으로 던지다')에서 왔습니다. 앞으로 내던져 튀어나오는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "projection",
+    "score": 23,
+    "zipf": 3.79,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a prediction made by extrapolating from past observations",
+        "ko": "예측, 추정치",
+        "synonyms": [
+          "forecast",
+          "estimate",
+          "prediction"
+        ],
+        "examples": [
+          {
+            "text": "Official projections show the population doubling within the next fifty years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "(psychiatry) a defense mechanism by which your own traits and emotions are attributed to someone else",
+        "ko": "(심리) 투사",
+        "synonyms": [
+          "transference",
+          "attribution"
+        ],
+        "examples": [
+          {
+            "text": "His constant accusations of dishonesty seemed less a judgment than a projection of his own guilt.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "any solid convex shape that juts out from something",
+        "ko": "돌출부",
+        "synonyms": [
+          "protrusion",
+          "protuberance",
+          "bulge"
+        ],
+        "examples": [
+          {
+            "text": "Climbers clung to small projections in the rock face.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "ject",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 prōiectiō('앞으로 던짐')에서 왔습니다. 현재를 앞으로 던져 미래를 내다본 추정치입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "proletarian",
+    "score": 49,
+    "zipf": 2.8,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a member of the working class (not necessarily employed)",
+        "ko": "프롤레타리아, 노동자 계급",
+        "synonyms": [
+          "worker",
+          "commoner",
+          "laborer"
+        ],
+        "examples": [
+          {
+            "text": "Marx predicted that the proletarian would eventually overthrow the capitalist order.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "belonging to or characteristic of the proletariat",
+        "ko": "프롤레타리아의, 노동자 계급의",
+        "synonyms": [
+          "working-class",
+          "plebeian"
+        ],
+        "examples": [
+          {
+            "text": "The writer cultivated a proletarian image despite his comfortable upbringing.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 proletarius에서 왔고 proles('자손')와 관련됩니다. 자식 말고는 재산이 없는 가난한 시민을 가리키던 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "proliferate",
+    "score": 66,
+    "zipf": 2.69,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To increase in number or spread rapidly; to multiply.",
+        "ko": "급증하다, 확산되다",
+        "synonyms": [
+          "multiply",
+          "spread",
+          "mushroom",
+          "burgeon"
+        ],
+        "examples": [
+          {
+            "text": "The flowers proliferated rapidly all spring.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "prol",
+      "fer",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "proliferation에서 거꾸로 만든 말로, 라틴어 proles('자손')와 ferre('낳다')에서 왔습니다. 자손이 불어나듯 급증합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prolific",
+    "score": 25,
+    "zipf": 3.6,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "intellectually productive",
+        "ko": "다작의, 창작력이 왕성한",
+        "synonyms": [
+          "fecund",
+          "productive",
+          "fertile",
+          "copious"
+        ],
+        "examples": [
+          {
+            "text": "a prolific writer",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "bearing in abundance especially offspring",
+        "ko": "번식력이 강한, 열매를 많이 맺는",
+        "synonyms": [
+          "fertile",
+          "fecund",
+          "fruitful"
+        ],
+        "examples": [
+          {
+            "text": "flying foxes are extremely prolific",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "prol",
+      "fac(만들다)"
+    ],
+    "origin": {
+      "ko": "라틴어 prōlificus에서 왔으며 prōlēs('자손')와 -ficus('만드는')가 합쳐졌습니다. 자손을 많이 낳듯 작품도 많이 냅니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prolix",
+    "score": 44,
+    "zipf": 1.65,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "tediously prolonged or tending to speak or write at great length",
+        "ko": "장황한, 지루하게 긴",
+        "synonyms": [
+          "verbose",
+          "long-winded",
+          "wordy",
+          "diffuse"
+        ],
+        "examples": [
+          {
+            "text": "The judge grew impatient with the lawyer's prolix and repetitive closing argument.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 prōlixus('길게 뻗은')에서 왔습니다. 길게 늘어져 장황하다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prolixity",
+    "score": 24,
+    "zipf": 1.25,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Long-windedness, tiresome length, an excess of words.",
+        "ko": "장황함, 말이 많음",
+        "synonyms": [
+          "verbosity",
+          "wordiness",
+          "long-windedness"
+        ],
+        "examples": [
+          {
+            "text": "The prolixity of the contract made it nearly impossible for ordinary readers to understand.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 prolixitas에서 왔으며 prolix('길게 뻗은')에 -ity가 붙었습니다. 말이 쓸데없이 길다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prologue",
+    "score": 29,
+    "zipf": 3.23,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A speech or section used as an introduction, especially to a play or novel.",
+        "ko": "서막, 프롤로그, 머리말",
+        "synonyms": [
+          "preface",
+          "foreword",
+          "introduction",
+          "preamble"
+        ],
+        "examples": [
+          {
+            "text": "The novel opens with a brief prologue set several centuries before the main events.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "log"
+    ],
+    "origin": {
+      "ko": "그리스어 prologos('앞의 말')에서 왔습니다. 본 이야기에 앞서 하는 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "promiscuous",
+    "score": 32,
+    "zipf": 2.93,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Made without careful choice; indiscriminate.",
+        "ko": "무분별한, 가리지 않는",
+        "synonyms": [
+          "indiscriminate",
+          "undiscriminating",
+          "random",
+          "haphazard"
+        ],
+        "examples": [
+          {
+            "text": "The senator was criticized for his promiscuous acceptance of donations from any interested party.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Made up of various disparate elements mixed together; of disorderly composition.",
+        "ko": "뒤섞인, 잡다한",
+        "synonyms": [
+          "motley",
+          "mixed",
+          "jumbled",
+          "heterogeneous"
+        ],
+        "examples": [
+          {
+            "text": "A promiscuous crowd of merchants, soldiers, and pilgrims filled the market square.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "misc",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 prōmiscuus('뒤섞인')에서 왔습니다. 구별 없이 마구 섞인다는 뜻에서 '무분별한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "promulgate",
+    "score": 34,
+    "zipf": 2.29,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To make known or make public.",
+        "ko": "공표하다, 널리 알리다",
+        "synonyms": [
+          "proclaim",
+          "declare",
+          "publicize",
+          "disseminate"
+        ],
+        "examples": [
+          {
+            "text": "Missionaries worked for decades to promulgate the new doctrine across the region.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "put a law into effect by formal declaration",
+        "ko": "(법령을) 공포하다",
+        "synonyms": [
+          "enact",
+          "decree",
+          "proclaim"
+        ],
+        "examples": [
+          {
+            "text": "The ministry promulgated new safety regulations that take effect next year.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 prōmulgāre('공표하다')에서 왔습니다. 법령을 앞으로 내놓아 널리 알린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pronounced",
+    "score": 20,
+    "zipf": 4.06,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "strongly marked; easily noticeable",
+        "ko": "뚜렷한, 현저한",
+        "synonyms": [
+          "marked",
+          "noticeable",
+          "distinct",
+          "conspicuous"
+        ],
+        "examples": [
+          {
+            "text": "a pronounced flavor of cinnamon",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "nunc"
+    ],
+    "origin": {
+      "ko": "pronounce('선언하다')의 과거분사입니다. 분명하게 말해진 데서 '뚜렷한'이라는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "propagate",
+    "score": 46,
+    "zipf": 3.09,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause to become widely known",
+        "ko": "전파하다, 퍼뜨리다",
+        "synonyms": [
+          "disseminate",
+          "spread",
+          "circulate",
+          "broadcast"
+        ],
+        "examples": [
+          {
+            "text": "Partisan websites propagate rumors faster than fact-checkers can correct them.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "multiply sexually or asexually",
+        "ko": "번식하다, 증식시키다",
+        "synonyms": [
+          "breed",
+          "reproduce",
+          "multiply"
+        ],
+        "examples": [
+          {
+            "text": "Gardeners can propagate the shrub easily by taking cuttings in late summer.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "travel through the air",
+        "ko": "(파동이) 전파되다",
+        "synonyms": [
+          "travel",
+          "transmit"
+        ],
+        "examples": [
+          {
+            "text": "sound and light propagate in this medium",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 prōpāgāre('번식시키다')에서 왔습니다. 식물을 가지치기로 퍼뜨리듯 널리 퍼뜨린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "propensity",
+    "score": 77,
+    "zipf": 3.16,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An inclination, disposition, tendency, preference, or attraction.",
+        "ko": "성향, 경향",
+        "synonyms": [
+          "proclivity",
+          "tendency",
+          "inclination",
+          "penchant"
+        ],
+        "examples": [
+          {
+            "text": "He has a propensity for lengthy discussions of certain favorite topics.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "pend",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 propensus('기울어진')에서 나온 말입니다. 마음이 어느 쪽으로 기우는 성향입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "property",
+    "score": 16,
+    "zipf": 5.11,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An attribute or abstract quality which is characteristic of a class of objects.",
+        "ko": "속성, 특성",
+        "synonyms": [
+          "attribute",
+          "characteristic",
+          "trait",
+          "quality"
+        ],
+        "examples": [
+          {
+            "text": "Matter can have many properties, including color, mass and density.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "something owned; any tangible or intangible possession that is owned by someone",
+        "ko": "재산, 소유물",
+        "synonyms": [
+          "possession",
+          "belongings",
+          "assets",
+          "holdings"
+        ],
+        "examples": [
+          {
+            "text": "The law protects private property from seizure without fair compensation.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 proprius('자기 고유의')에서 나온 proprietās가 어원입니다. 고유한 성질, 그리고 자기 소유라는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prophetic",
+    "score": 45,
+    "zipf": 3.19,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "foretelling events as if by supernatural intervention",
+        "ko": "예언적인, 예언하는",
+        "synonyms": [
+          "predictive",
+          "prescient",
+          "oracular",
+          "visionary"
+        ],
+        "examples": [
+          {
+            "text": "Her warnings about the bank's collapse now seem almost prophetic.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "phet",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 prophētikos에서 왔으며 pro('앞')와 phēmi('말하다')에서 나왔습니다. 앞일을 미리 말한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "propitiate",
+    "score": 74,
+    "zipf": 1.53,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To conciliate, appease, or make peace with someone, particularly a god or spirit.",
+        "ko": "달래다, 화해하다",
+        "synonyms": [
+          "appease",
+          "placate",
+          "conciliate",
+          "pacify"
+        ],
+        "examples": [
+          {
+            "text": "Villagers offered grain and wine to propitiate the angry river god.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 propitiāre('호의를 얻다')에서 왔고 propitius('호의적인')와 이어집니다. 화난 신을 달래 호의를 얻는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "propitious",
+    "score": 81,
+    "zipf": 2.24,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "presenting favorable circumstances; likely to result in or show signs of success",
+        "ko": "상서로운, 유리한",
+        "synonyms": [
+          "auspicious",
+          "favorable",
+          "promising",
+          "advantageous"
+        ],
+        "examples": [
+          {
+            "text": "The calm weather made it a propitious moment to begin the voyage.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 propitius('호의적인')에서 왔습니다. 신이 호의를 보여 형편이 유리하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "proponent",
+    "score": 30,
+    "zipf": 3.15,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who pleads for a cause or propounds an idea",
+        "ko": "지지자, 옹호자",
+        "synonyms": [
+          "advocate",
+          "champion",
+          "supporter",
+          "exponent"
+        ],
+        "examples": [
+          {
+            "text": "She was an early proponent of renewable energy long before it became fashionable.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "pos",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 prōpōnere('앞에 내놓다')의 현재분사에서 왔습니다. 주장을 앞에 내놓고 지지하는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "propriety",
+    "score": 81,
+    "zipf": 2.79,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "correct or appropriate behavior",
+        "ko": "예의바름, 품위, 적절함",
+        "synonyms": [
+          "decorum",
+          "decency",
+          "correctness",
+          "seemliness"
+        ],
+        "examples": [
+          {
+            "text": "The diplomat observed every rule of propriety during the formal state dinner.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 proprietās('고유한 성질')에서 왔습니다. 자기 신분에 걸맞은 올바른 행동이라는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prosaic",
+    "score": 83,
+    "zipf": 2.6,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lacking wit or imagination",
+        "ko": "평범한, 상상력이 부족한",
+        "synonyms": [
+          "pedestrian",
+          "unimaginative",
+          "dull",
+          "humdrum"
+        ],
+        "examples": [
+          {
+            "text": "The film's prosaic dialogue failed to capture the drama of the story.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not fanciful or imaginative",
+        "ko": "산문적인, 현실적인",
+        "synonyms": [
+          "matter-of-fact",
+          "literal",
+          "straightforward"
+        ],
+        "examples": [
+          {
+            "text": "I was simply making the prosaic point that we are running late.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "vert",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "라틴어 prosa('산문')에서 왔고, prorsus('곧바로')는 pro-와 vertō('돌리다')에서 나왔습니다. 운율 없는 산문 같은 평범함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "proscribe",
+    "score": 45,
+    "zipf": 1.82,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To forbid or prohibit.",
+        "ko": "금지하다",
+        "synonyms": [
+          "forbid",
+          "prohibit",
+          "ban",
+          "outlaw"
+        ],
+        "examples": [
+          {
+            "text": "The law proscribes driving a car while intoxicated.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To banish or exclude.",
+        "ko": "추방하다, 배척하다",
+        "synonyms": [
+          "banish",
+          "exile",
+          "ostracize"
+        ],
+        "examples": [
+          {
+            "text": "Many Roman citizens were proscribed for taking part in rebellions.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "scrib"
+    ],
+    "origin": {
+      "ko": "라틴어 prōscrībere('공포하다, 추방하다')에서 왔습니다. 이름을 공개 명단에 써서 내친다는 뜻에서 '금지하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "proselytize",
+    "score": 47,
+    "zipf": 2.03,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "convert to another faith or religion",
+        "ko": "개종시키다, 포교하다",
+        "synonyms": [
+          "convert",
+          "evangelize",
+          "preach"
+        ],
+        "examples": [
+          {
+            "text": "Missionaries were forbidden to proselytize among the local population.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To advertise a non-religious belief, way of living, cause, point of view, (scientific) hypothesis, social or other position, political party, or other organization; to convince someone to join such a cause or organization or support such a position; to recruit someone.",
+        "ko": "(신념 등을) 설파하며 끌어들이다",
+        "synonyms": [
+          "advocate",
+          "recruit",
+          "campaign",
+          "evangelize"
+        ],
+        "examples": [
+          {
+            "text": "He has strong political views, and an annoying habit of proselytizing at parties.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ize"
+    ],
+    "origin": {
+      "ko": "그리스어 prosēlytos('새로 온 사람, 개종자')에서 왔습니다. 남을 자기 종교로 끌어들이는 일입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prospective",
+    "score": 38,
+    "zipf": 3.87,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Likely or expected to happen or become.",
+        "ko": "장래의, 예비의, 유망한",
+        "synonyms": [
+          "potential",
+          "future",
+          "anticipated",
+          "likely"
+        ],
+        "examples": [
+          {
+            "text": "Prospective students are those who have already applied to the university, but have yet to be admitted.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "spec",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 prospectivus에서 왔습니다. 앞을 내다본다는 뜻에서 '장래의'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "protean",
+    "score": 33,
+    "zipf": 2.2,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Exceedingly variable; readily assuming different shapes or forms.",
+        "ko": "변화무쌍한, 모습을 자유자재로 바꾸는",
+        "synonyms": [
+          "variable",
+          "mutable",
+          "multiform",
+          "chameleonic"
+        ],
+        "examples": [
+          {
+            "text": "The actor's protean talent allowed him to play a villain, a saint, and a clown in one season.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스 신화의 바다 신 프로테우스(Proteus)에서 왔습니다. 모습을 마음대로 바꿨다는 데서 '변화무쌍한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "provender",
+    "score": 27,
+    "zipf": 1.64,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Food, especially for livestock.",
+        "ko": "(가축) 사료, 식량",
+        "synonyms": [
+          "fodder",
+          "feed",
+          "provisions",
+          "victuals"
+        ],
+        "examples": [
+          {
+            "text": "The farmers stored enough provender in the barn to feed the herd through the winter.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 provendre('지급분')에서 왔고 라틴어 praebenda('지급액')로 거슬러 갑니다. 가축에게 주는 사료입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "provident",
+    "score": 34,
+    "zipf": 2.65,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "providing carefully for the future",
+        "ko": "미래를 대비하는, 선견지명 있는",
+        "synonyms": [
+          "prudent",
+          "farsighted",
+          "thrifty",
+          "foresighted"
+        ],
+        "examples": [
+          {
+            "text": "A provident family, they saved a portion of every paycheck for emergencies.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "vid(보다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 prōvidēre('미리 보다')의 현재분사에서 왔습니다. 앞일을 미리 보고 대비합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "providential",
+    "score": 48,
+    "zipf": 2.09,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "peculiarly fortunate or appropriate; as if by divine intervention",
+        "ko": "천우신조의, 운 좋은",
+        "synonyms": [
+          "fortunate",
+          "lucky",
+          "heaven-sent",
+          "opportune"
+        ],
+        "examples": [
+          {
+            "text": "A providential rainstorm arrived just in time to save the withering crops.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "vid(보다)",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 prōvidentia('미리 내다봄, 섭리')에 -al이 붙은 말입니다. 신의 섭리처럼 운 좋게 들어맞는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "provincial",
+    "score": 52,
+    "zipf": 4.08,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Not cosmopolitan; limited in outlook; narrow; illiberal.",
+        "ko": "편협한, 촌스러운",
+        "synonyms": [
+          "parochial",
+          "insular",
+          "narrow-minded",
+          "unsophisticated"
+        ],
+        "examples": [
+          {
+            "text": "Critics dismissed the mayor's views as provincial and blind to the wider world.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of or associated with a province",
+        "ko": "지방의, 지방 정부의",
+        "synonyms": [
+          "regional",
+          "local"
+        ],
+        "examples": [
+          {
+            "text": "provincial government",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 prōvincia('속주')의 형용사형 prōvinciālis에서 왔습니다. 수도에서 먼 지방 사람처럼 시야가 좁다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "provisional",
+    "score": 24,
+    "zipf": 3.66,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "under terms not final or fully worked out or agreed upon",
+        "ko": "임시의, 잠정적인",
+        "synonyms": [
+          "tentative",
+          "temporary",
+          "interim",
+          "probationary"
+        ],
+        "examples": [
+          {
+            "text": "The provisional government promised elections once order had been restored.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "vid(보다)",
+      "-al"
+    ],
+    "origin": {
+      "ko": "provision에 -al이 붙은 말입니다. 라틴어 '미리 보고 마련함'에서 왔고, 임시로 마련한 것이라는 뜻으로 쓰입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "provocative",
+    "score": 27,
+    "zipf": 3.44,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "serving or tending to provoke, excite, or stimulate; stimulating discussion or exciting controversy",
+        "ko": "도발적인, 자극적인",
+        "synonyms": [
+          "inflammatory",
+          "stimulating",
+          "controversial",
+          "incendiary"
+        ],
+        "examples": [
+          {
+            "text": "The professor's provocative lecture sparked a heated debate that lasted well past the hour.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "voc",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "라틴어 prōvocāre('불러내다')에서 왔습니다. 상대를 앞으로 불러내 반응을 끌어내는 성질입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "provoke",
+    "score": 26,
+    "zipf": 3.5,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To cause someone to become annoyed or angry.",
+        "ko": "화나게 하다, 도발하다",
+        "synonyms": [
+          "anger",
+          "irritate",
+          "incense",
+          "goad"
+        ],
+        "examples": [
+          {
+            "text": "Don't provoke the dog; it may try to bite you.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "call forth (emotions, feelings, and responses)",
+        "ko": "불러일으키다, 유발하다",
+        "synonyms": [
+          "evoke",
+          "elicit",
+          "arouse",
+          "incite"
+        ],
+        "examples": [
+          {
+            "text": "The film's final scene provoked an unexpected burst of laughter from the audience.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "voc"
+    ],
+    "origin": {
+      "ko": "라틴어 prōvocāre('불러내다')에서 왔습니다. 싸우자고 앞으로 불러내는 데서 '도발하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prowess",
+    "score": 44,
+    "zipf": 3.35,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Skillfulness or extraordinary ability in a particular area of expertise; dexterity, mastery, or proficiency.",
+        "ko": "뛰어난 기량, 솜씨",
+        "synonyms": [
+          "mastery",
+          "skill",
+          "expertise",
+          "aptitude"
+        ],
+        "examples": [
+          {
+            "text": "The young chef's culinary prowess earned her a Michelin star within three years.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Distinguished bravery or courage, especially in battle; heroism.",
+        "ko": "용맹, 무용",
+        "synonyms": [
+          "valor",
+          "bravery",
+          "heroism"
+        ],
+        "examples": [
+          {
+            "text": "The knight was celebrated throughout the kingdom for his prowess in battle.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 proesce('용맹, 훌륭함')에서 왔습니다. 전투에서의 용맹이 뛰어난 기량이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "proxy",
+    "score": 56,
+    "zipf": 3.73,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An agent or substitute authorized to act for another person.",
+        "ko": "대리인, 대행자",
+        "synonyms": [
+          "agent",
+          "surrogate",
+          "deputy",
+          "representative"
+        ],
+        "examples": [
+          {
+            "text": "Shareholders who cannot attend the meeting may appoint a proxy to vote on their behalf.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A measurement of one physical quantity that is used as an indicator of the value of another.",
+        "ko": "대리 지표, 간접 척도",
+        "synonyms": [
+          "indicator",
+          "stand-in"
+        ],
+        "examples": [
+          {
+            "text": "Researchers often use tree rings as a proxy for past climate conditions.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "cur(돌봄)"
+    ],
+    "origin": {
+      "ko": "중세 영어 procuracie('대리권')의 줄임말로, 라틴어 prōcūrāre('관리하다')에서 왔습니다. 남을 대신해 돌보는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prude",
+    "score": 35,
+    "zipf": 2.58,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A person who is or tries to be excessively proper, especially one who is easily offended by matters of a sexual nature.",
+        "ko": "점잔 빼는 사람, 지나치게 도덕적인 사람",
+        "synonyms": [
+          "puritan",
+          "prig",
+          "goody-goody"
+        ],
+        "examples": [
+          {
+            "text": "Her brother teased her as a prude whenever the conversation turned to romance.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 prude('훌륭한 여자')에서 왔습니다. 처신이 훌륭하다는 칭찬이 지나치게 점잔 빼는 사람이라는 뜻으로 변했습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prudent",
+    "score": 59,
+    "zipf": 3.41,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "careful and sensible; marked by sound judgment",
+        "ko": "신중한, 현명한",
+        "synonyms": [
+          "judicious",
+          "sensible",
+          "cautious",
+          "circumspect"
+        ],
+        "examples": [
+          {
+            "text": "It is prudent to consult a physician before beginning any new exercise regimen.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Frugal; economical; not extravagant.",
+        "ko": "검소한, 절약하는",
+        "synonyms": [
+          "frugal",
+          "thrifty",
+          "economical"
+        ],
+        "examples": [
+          {
+            "text": "Only prudent expenditure may provide quality within a restrictive budget.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "vid(보다)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 prūdēns는 prōvidēns('미리 보는')가 줄어든 말입니다. 앞일을 내다보니 신중합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "prurient",
+    "score": 33,
+    "zipf": 2.17,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by lust",
+        "ko": "음탕한, 호색적인",
+        "synonyms": [
+          "lustful",
+          "salacious",
+          "lascivious",
+          "lewd"
+        ],
+        "examples": [
+          {
+            "text": "The tabloid fed a prurient public appetite for details of the scandal.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Curious, especially inappropriately so.",
+        "ko": "부적절하게 호기심 많은, 캐기 좋아하는",
+        "synonyms": [
+          "nosy",
+          "inquisitive",
+          "voyeuristic"
+        ],
+        "examples": [
+          {
+            "text": "Neighbors showed a prurient interest in the details of the couple's divorce.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 prūriēns('가려워하는')에서 왔습니다. 근질거리는 욕망에서 '음탕한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

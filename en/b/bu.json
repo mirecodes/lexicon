@@ -1,0 +1,556 @@
+[
+  {
+    "word": "buck",
+    "score": 21,
+    "zipf": 4.01,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "resist",
+        "ko": "저항하다, 거스르다",
+        "synonyms": [
+          "oppose",
+          "defy",
+          "go against",
+          "resist"
+        ],
+        "examples": [
+          {
+            "text": "The small airline bucked the industry trend by cutting fares while its rivals raised them.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "to strive with determination",
+        "ko": "(승진 등을 위해) 열심히 노력하다",
+        "synonyms": [
+          "strive",
+          "strain",
+          "work hard"
+        ],
+        "examples": [
+          {
+            "text": "John is bucking for a promotion",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 저지 독일어 bucken('구부리다')에서 왔고, 수컷 염소를 뜻하는 buck의 영향도 받았습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bucolic",
+    "score": 99,
+    "zipf": 2.44,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(used with regard to idealized country life) idyllically rustic",
+        "ko": "전원적인, 목가적인",
+        "synonyms": [
+          "pastoral",
+          "rustic",
+          "arcadian",
+          "idyllic"
+        ],
+        "examples": [
+          {
+            "text": "Weary of the city, he retired to a bucolic village of stone cottages and sheep meadows.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 boukolikos('소 치는 사람의')를 라틴어를 거쳐 빌려 온 말입니다. 목동이 있는 전원 풍경을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "buffer",
+    "score": 23,
+    "zipf": 3.78,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a cushion-like device that reduces shock due to an impact",
+        "ko": "완충 장치, 완충재",
+        "synonyms": [
+          "cushion",
+          "bumper",
+          "shield",
+          "fender"
+        ],
+        "examples": [
+          {
+            "text": "Savings served as a buffer against sudden expenses during the family's difficult year.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "protect from impact",
+        "ko": "충격을 완화하다, 보호하다",
+        "synonyms": [
+          "cushion",
+          "soften",
+          "shield",
+          "insulate"
+        ],
+        "examples": [
+          {
+            "text": "Generous unemployment benefits helped buffer workers from the worst effects of the recession.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "옛 동사 buff('치면 둔탁한 소리가 나다')에 -er가 붙은 말입니다. 충격을 둔탁하게 받아 주는 물건입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bullion",
+    "score": 29,
+    "zipf": 3.18,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "gold or silver in bars or ingots",
+        "ko": "금괴, 은괴",
+        "synonyms": [
+          "ingots",
+          "gold",
+          "bars"
+        ],
+        "examples": [
+          {
+            "text": "The central bank stores its bullion in vaults deep beneath the city.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "앵글로노르만어 bullion에서 왔고 기원은 불분명합니다. 녹이다를 뜻하는 프랑스어 bouillon과 관련이 있을 수 있습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bulwark",
+    "score": 33,
+    "zipf": 2.76,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A defense or safeguard.",
+        "ko": "방어물, 보루",
+        "synonyms": [
+          "bastion",
+          "safeguard",
+          "defense",
+          "stronghold"
+        ],
+        "examples": [
+          {
+            "text": "An independent press is a bulwark against abuse of power in any democracy.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an embankment built around a space for defensive purposes",
+        "ko": "성벽, 방벽",
+        "synonyms": [
+          "rampart",
+          "wall",
+          "fortification"
+        ],
+        "examples": [
+          {
+            "text": "Soldiers stood along the bulwark of the old fortress, watching the road below.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 네덜란드어 bolwerk에서 왔고, bole(나무 줄기)와 work가 합쳐졌습니다. 통나무로 쌓은 방벽입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bumbling",
+    "score": 33,
+    "zipf": 2.8,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Acting in a confused or ineffectual way; incompetent or inept; showing little or no skill.",
+        "ko": "어설픈, 서툰",
+        "synonyms": [
+          "inept",
+          "clumsy",
+          "bungling",
+          "incompetent"
+        ],
+        "examples": [
+          {
+            "text": "The bumbling detective in the comedy solves every case by accident rather than skill.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "buoyant",
+    "score": 31,
+    "zipf": 2.98,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by liveliness and lightheartedness",
+        "ko": "명랑한, 활기찬",
+        "synonyms": [
+          "cheerful",
+          "lively",
+          "upbeat",
+          "jaunty"
+        ],
+        "examples": [
+          {
+            "text": "Despite the long delay, the team stayed buoyant and joked all the way to the airport.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "tending to float on a liquid or rise in air or gas",
+        "ko": "뜨는, 부력이 있는",
+        "synonyms": [
+          "floating",
+          "afloat",
+          "light"
+        ],
+        "examples": [
+          {
+            "text": "Cork is buoyant enough to support a heavy fishing net on the surface of the water.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "bureaucracy",
+    "score": 26,
+    "zipf": 3.55,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "any organization in which action is obstructed by insistence on unnecessary procedures and red tape",
+        "ko": "관료주의, 번거로운 절차",
+        "synonyms": [
+          "red tape",
+          "officialdom",
+          "bureaucratism"
+        ],
+        "examples": [
+          {
+            "text": "Entrepreneurs complained that bureaucracy delayed every permit by months and discouraged new investment.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The body of officers and administrators, especially of a government.",
+        "ko": "관료 집단, 관료제",
+        "synonyms": [
+          "civil service",
+          "administration",
+          "officialdom"
+        ],
+        "examples": [
+          {
+            "text": "The federal bureaucracy grew rapidly during the war, adding thousands of clerks and several new agencies.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-cracy"
+    ],
+    "origin": {
+      "ko": "프랑스어 bureaucratie에서 왔고, bureau(사무소)와 -cratie(지배)가 합쳐졌습니다. 책상 앞 관리들의 지배입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "burgeon",
+    "score": 92,
+    "zipf": 1.65,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "grow and flourish",
+        "ko": "급성장하다, 번성하다",
+        "synonyms": [
+          "flourish",
+          "thrive",
+          "proliferate",
+          "mushroom",
+          "boom"
+        ],
+        "examples": [
+          {
+            "text": "The city's technology sector began to burgeon once the university opened its research park.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 burjon('새싹')에서 왔습니다. 싹이 돋아 쑥쑥 자라는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "burnish",
+    "score": 79,
+    "zipf": 2.04,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "polish and make shiny",
+        "ko": "윤을 내다, 광택을 내다",
+        "synonyms": [
+          "polish",
+          "buff",
+          "shine",
+          "furbish"
+        ],
+        "examples": [
+          {
+            "text": "The silversmith burnished the bowl until it gleamed like a mirror.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To make (someone or something) appear positive and highly respected.",
+        "ko": "(평판·이미지를) 빛내다, 높이다",
+        "synonyms": [
+          "enhance",
+          "polish",
+          "improve"
+        ],
+        "examples": [
+          {
+            "text": "The charity gala helped the senator burnish his image after a damaging scandal.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 burnir('윤을 내다, 갈색으로 만들다')에서 왔습니다. 문질러 반들반들 빛내는 일입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "buttress",
+    "score": 66,
+    "zipf": 2.67,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make stronger or defensible",
+        "ko": "강화하다, 뒷받침하다",
+        "synonyms": [
+          "reinforce",
+          "bolster",
+          "support",
+          "substantiate",
+          "corroborate"
+        ],
+        "examples": [
+          {
+            "text": "New archival evidence buttressed her argument that the treaty had been signed under pressure.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a support usually of stone or brick; supports the wall of a building",
+        "ko": "버팀벽",
+        "synonyms": [
+          "prop",
+          "brace",
+          "support",
+          "counterfort"
+        ],
+        "examples": [
+          {
+            "text": "Stone buttresses along the sides of the cathedral keep its tall walls from bowing outward.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 'ars bouterez'(떠받치는 아치)에서 왔고, 어원은 '밀다'를 뜻하는 프랑크어입니다. 건물을 받치는 버팀벽입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "buxom",
+    "score": 35,
+    "zipf": 2.38,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(of a female body) healthily plump and vigorous",
+        "ko": "건강하고 포동포동한",
+        "synonyms": [
+          "plump",
+          "ample",
+          "healthy",
+          "curvaceous"
+        ],
+        "examples": [
+          {
+            "text": "The painter favored buxom, rosy-cheeked figures that celebrated rural health and abundance.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 bōcsum('구부리기 쉬운, 순종적인')에서 왔습니다. 말랑하고 유연하다는 뜻에서 포동포동한 몸을 가리키게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

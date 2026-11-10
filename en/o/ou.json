@@ -1,0 +1,160 @@
+[
+  {
+    "word": "oust",
+    "score": 32,
+    "zipf": 2.94,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "remove from a position or office",
+        "ko": "쫓아내다, 축출하다",
+        "synonyms": [
+          "expel",
+          "depose",
+          "dismiss",
+          "topple",
+          "unseat"
+        ],
+        "examples": [
+          {
+            "text": "The chairman was ousted after he misappropriated funds",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 oster '치우다'에서 왔고, 라틴어 obstāre '앞을 가로막다'가 원형입니다. 방해되는 것을 치운다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "outlandish",
+    "score": 30,
+    "zipf": 3.07,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Greatly different from common experience; bizarre, outrageous, strange.",
+        "ko": "기이한, 터무니없는",
+        "synonyms": [
+          "bizarre",
+          "eccentric",
+          "grotesque",
+          "weird",
+          "preposterous"
+        ],
+        "examples": [
+          {
+            "text": "The rock star wore black with outlandish pink and green spiked hair.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 ūtlendisc '외국의'에서 왔습니다. 자기 땅 바깥 것이라는 뜻에서 낯설고 기이하다가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "outskirts",
+    "score": 25,
+    "zipf": 3.56,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "outlying areas (as of a city or town)",
+        "ko": "변두리, 교외",
+        "synonyms": [
+          "suburbs",
+          "periphery",
+          "fringes",
+          "environs"
+        ],
+        "examples": [
+          {
+            "text": "they lived on the outskirts of Houston",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "outstrip",
+    "score": 50,
+    "zipf": 2.31,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To exceed or surpass (someone or something).",
+        "ko": "능가하다, 앞지르다",
+        "synonyms": [
+          "surpass",
+          "exceed",
+          "outdo",
+          "eclipse",
+          "outpace"
+        ],
+        "examples": [
+          {
+            "text": "This year’s production has already outstripped last year’s.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To move more quickly than (someone or something) so as to outrun or leave it behind.",
+        "ko": "(속도로) 앞지르다, 따돌리다",
+        "synonyms": [
+          "outrun",
+          "outpace",
+          "overtake",
+          "outdistance"
+        ],
+        "examples": [
+          {
+            "text": "We quickly outstripped the amateur runners.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "out(넘어서)에 옛말 strip('재빨리 지나가다')을 붙인 말로, 상대를 앞질러 지나친다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

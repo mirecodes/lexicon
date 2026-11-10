@@ -1,0 +1,101 @@
+[
+  {
+    "word": "iconoclast",
+    "score": 80,
+    "zipf": 2.15,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone who attacks cherished ideas or traditional institutions",
+        "ko": "우상 파괴자, 기존 관습에 도전하는 사람",
+        "synonyms": [
+          "maverick",
+          "rebel",
+          "nonconformist",
+          "dissenter"
+        ],
+        "examples": [
+          {
+            "text": "The young architect was an iconoclast who rejected every convention of the classical tradition.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a destroyer of images used in religious worship",
+        "ko": "성상 파괴자",
+        "synonyms": [
+          "image breaker"
+        ],
+        "examples": [
+          {
+            "text": "Medieval iconoclasts smashed the statues and defaced the paintings that filled the cathedral.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "icon",
+      "clast"
+    ],
+    "origin": {
+      "ko": "중세 그리스어 eikonoklástēs '성상 파괴자'에서 왔습니다. 형상(icon)을 부수는(clast) 사람이 기존 관습에 맞서는 사람이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "iconoclastic",
+    "score": 51,
+    "zipf": 2.37,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by attack on established beliefs or institutions",
+        "ko": "기존 통념을 타파하는, 우상 파괴적인",
+        "synonyms": [
+          "unorthodox",
+          "subversive",
+          "radical",
+          "heretical"
+        ],
+        "examples": [
+          {
+            "text": "Many of Thomas Hardy's works were considered iconoclastic in his day.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "icon",
+      "clast",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "iconoclast(성상 파괴자)의 형용사형입니다. 형상을 깨뜨리듯 기존 통념을 부순다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

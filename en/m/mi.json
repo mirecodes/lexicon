@@ -1,0 +1,831 @@
+[
+  {
+    "word": "microcosm",
+    "score": 33,
+    "zipf": 2.8,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A smaller system which is seen as representative of a larger one.",
+        "ko": "축소판, 소우주",
+        "synonyms": [
+          "epitome",
+          "model",
+          "miniature",
+          "paradigm"
+        ],
+        "examples": [
+          {
+            "text": "With a few actors at his disposition he created a microcosm of life.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "micro-",
+      "cosm"
+    ],
+    "origin": {
+      "ko": "그리스어 mikrós(작은)와 kósmos(우주)가 합쳐졌습니다. 작은 우주라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mien",
+    "score": 34,
+    "zipf": 2.31,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "dignified manner or conduct",
+        "ko": "태도, 풍모",
+        "synonyms": [
+          "bearing",
+          "demeanor",
+          "comportment",
+          "air"
+        ],
+        "examples": [
+          {
+            "text": "The retired general kept a calm, authoritative mien even in the middle of the crisis.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 mine '외모'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "milieu",
+    "score": 32,
+    "zipf": 2.93,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A social environment or setting.",
+        "ko": "(사회적) 환경, 주변 환경",
+        "synonyms": [
+          "environment",
+          "setting",
+          "surroundings",
+          "context"
+        ],
+        "examples": [
+          {
+            "text": "The novelist grew up in a literary milieu where debate and publishing were part of daily life.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 milieu에서 왔고 고대 프랑스어 mi(가운데)와 lieu(장소)가 합쳐졌습니다. 한가운데 놓인 주위 환경입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "militate",
+    "score": 43,
+    "zipf": 1.64,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "have force or influence; bring about an effect or change",
+        "ko": "(~에 불리하게) 작용하다",
+        "synonyms": [
+          "weigh",
+          "tell",
+          "operate"
+        ],
+        "examples": [
+          {
+            "text": "Trade sanctions militate against international cooperation.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "milit",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 mīlitō '군인으로 복무하다'에서 왔습니다. 맞서 싸우듯 어떤 쪽으로 작용한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mimic",
+    "score": 26,
+    "zipf": 3.49,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To imitate, especially in order to ridicule.",
+        "ko": "흉내 내다, 모방하다",
+        "synonyms": [
+          "imitate",
+          "ape",
+          "mock",
+          "parody"
+        ],
+        "examples": [
+          {
+            "text": "The comedian could mimic the senator's drawl so precisely that the audience howled.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To take on the appearance of another, for protection or camouflage.",
+        "ko": "의태하다, 위장하다",
+        "synonyms": [
+          "resemble",
+          "imitate"
+        ],
+        "examples": [
+          {
+            "text": "Several harmless butterfly species mimic the markings of poisonous ones to deter predators.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mim",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "라틴어 mīmicus에서 왔고 그리스어 mîmos '흉내 내는 사람, 배우'에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mincing",
+    "score": 34,
+    "zipf": 2.34,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "affectedly dainty or refined",
+        "ko": "점잔 빼는, 새침한",
+        "synonyms": [
+          "prim",
+          "affected",
+          "dainty",
+          "precious"
+        ],
+        "examples": [
+          {
+            "text": "He crossed the room with mincing steps, wary of scuffing his polished shoes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "minute",
+    "score": 32,
+    "zipf": 4.98,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "infinitely or immeasurably small",
+        "ko": "극히 작은, 미세한",
+        "synonyms": [
+          "tiny",
+          "infinitesimal",
+          "microscopic",
+          "minuscule"
+        ],
+        "examples": [
+          {
+            "text": "The report detected minute traces of lead in the water supply.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "characterized by painstaking care and detailed examination",
+        "ko": "상세한, 꼼꼼한",
+        "synonyms": [
+          "meticulous",
+          "detailed",
+          "exhaustive",
+          "precise"
+        ],
+        "examples": [
+          {
+            "text": "Investigators carried out a minute inspection of the wreckage before drawing any conclusions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "min(작은)"
+    ],
+    "origin": {
+      "ko": "라틴어 minūtus '작은'에서 왔고 minuō '작게 하다'에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mired",
+    "score": 33,
+    "zipf": 2.81,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "entangled or hindered as if e.g. in mire",
+        "ko": "꼼짝 못 하는, 수렁에 빠진",
+        "synonyms": [
+          "entangled",
+          "bogged down",
+          "stuck",
+          "embroiled"
+        ],
+        "examples": [
+          {
+            "text": "The negotiations remained mired in procedural disputes for months.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "mire(진창)에 -ed가 붙은 말입니다. 진창에 빠져 꼼짝 못 하는 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mirth",
+    "score": 51,
+    "zipf": 2.62,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "great merriment",
+        "ko": "즐거움, 웃음소리 나는 흥겨움",
+        "synonyms": [
+          "merriment",
+          "glee",
+          "hilarity",
+          "jollity"
+        ],
+        "examples": [
+          {
+            "text": "The old tavern rang with mirth as the travelers traded jokes late into the night.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 myrgþ '기쁨'에서 왔고 merry에 -th가 붙은 꼴입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "misanthrope",
+    "score": 81,
+    "zipf": 2.2,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone who dislikes people in general",
+        "ko": "사람을 싫어하는 사람, 염세가",
+        "synonyms": [
+          "misanthropist",
+          "cynic",
+          "recluse"
+        ],
+        "examples": [
+          {
+            "text": "The reclusive author, a confirmed misanthrope, refused every invitation to public events.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mit(미워하다)",
+      "anthrop"
+    ],
+    "origin": {
+      "ko": "그리스어 miséō '미워하다'와 ánthrōpos '사람'이 합쳐졌습니다. 사람 자체를 싫어하는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "misanthropic",
+    "score": 33,
+    "zipf": 2.2,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "hating mankind in general",
+        "ko": "인간을 혐오하는, 염세적인",
+        "synonyms": [
+          "cynical",
+          "antisocial",
+          "unsociable"
+        ],
+        "examples": [
+          {
+            "text": "His misanthropic outlook grew darker with every betrayal he suffered.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mit(미워하다)",
+      "anthrop"
+    ],
+    "origin": {
+      "ko": "misanthrope(인간 혐오자)에서 나온 형용사입니다. 그리스어 miséō(미워하다)와 ánthrōpos(사람)에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "misattribute",
+    "score": 22,
+    "zipf": 1.05,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To erroneously attribute; to falsely ascribe; used especially of authorship.",
+        "ko": "잘못 귀속시키다, 출처를 오인하다",
+        "synonyms": [
+          "misascribe",
+          "misassign"
+        ],
+        "examples": [
+          {
+            "text": "Many popular quotations are misattributed to Einstein, though he never said them.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mis-",
+      "ad-",
+      "trib(주다)"
+    ],
+    "origin": {
+      "ko": "mis-(잘못)와 attribute(~의 공으로 돌리다)가 합쳐졌습니다. 엉뚱한 사람에게 공을 돌린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "misconstrue",
+    "score": 31,
+    "zipf": 2.04,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "interpret in the wrong way",
+        "ko": "오해하다, 잘못 해석하다",
+        "synonyms": [
+          "misinterpret",
+          "misunderstand",
+          "misread",
+          "misapprehend"
+        ],
+        "examples": [
+          {
+            "text": "It’s easy to misconstrue her silence as agreement.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mis-",
+      "con-",
+      "stru"
+    ],
+    "origin": {
+      "ko": "중세 영어에서 mis-(잘못)와 construe(해석하다)가 합쳐졌습니다. 뜻을 잘못 엮어 이해한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "miscreant",
+    "score": 65,
+    "zipf": 2.15,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "One who has behaved badly, or illegally.",
+        "ko": "악당, 범법자",
+        "synonyms": [
+          "villain",
+          "wrongdoer",
+          "scoundrel",
+          "reprobate",
+          "culprit"
+        ],
+        "examples": [
+          {
+            "text": "The teacher sent the miscreants to see the school principal.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mis-",
+      "cred"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 mescreant '잘못 믿는 사람'에서 왔습니다. 이단자에서 악당으로 뜻이 변했습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "miser",
+    "score": 51,
+    "zipf": 2.56,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A person who hoards money rather than spending it; one who is cheap or extremely parsimonious.",
+        "ko": "구두쇠, 수전노",
+        "synonyms": [
+          "skinflint",
+          "niggard",
+          "penny-pincher",
+          "Scrooge"
+        ],
+        "examples": [
+          {
+            "text": "Scrooge was a typical miser: spending nothing he could save, nor enjoying his wealth.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "후기 라틴어 miser '비참한, 불쌍한'에서 왔습니다. 돈을 쌓아 두고 궁색하게 사는 사람을 가리키게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "miserly",
+    "score": 50,
+    "zipf": 2.33,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(used of persons or behavior) characterized by or indicative of lack of generosity",
+        "ko": "인색한, 구두쇠 같은",
+        "synonyms": [
+          "stingy",
+          "parsimonious",
+          "niggardly",
+          "tightfisted",
+          "penurious"
+        ],
+        "examples": [
+          {
+            "text": "The miserly landlord refused to repair the heating even in the coldest weeks of winter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "miser(구두쇠)에 -ly가 붙은 말로 1540년대부터 쓰였습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "misnomer",
+    "score": 50,
+    "zipf": 2.73,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an incorrect or unsuitable name",
+        "ko": "부적절한 명칭, 잘못된 이름",
+        "synonyms": [
+          "misnaming",
+          "misdesignation"
+        ],
+        "examples": [
+          {
+            "text": "The name Chinese checkers is a misnomer since the game has nothing to do with China.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mis-",
+      "nom(이름)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 mesnomer '이름을 잘못 부르다'에서 왔습니다. mes-(잘못)와 nommer(이름 붙이다)가 합쳐졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "misogynist",
+    "score": 32,
+    "zipf": 2.9,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "One who professes misogyny; a hater of women.",
+        "ko": "여성 혐오자",
+        "synonyms": [
+          "woman hater",
+          "chauvinist",
+          "sexist"
+        ],
+        "examples": [
+          {
+            "text": "The columnist was denounced as a misogynist after his dismissive remarks about female scientists.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mit(미워하다)",
+      "gyn",
+      "-ist"
+    ],
+    "origin": {
+      "ko": "그리스어 miséō '미워하다'와 gunḗ '여자'가 합쳐졌습니다. 여성을 싫어하는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "missive",
+    "score": 51,
+    "zipf": 2.37,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A written message; a letter, note or memo.",
+        "ko": "서신, 편지",
+        "synonyms": [
+          "letter",
+          "note",
+          "epistle",
+          "dispatch"
+        ],
+        "examples": [
+          {
+            "text": "The ambassador's carefully worded missive reached the capital within a week.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mit(보내다)"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 missīvus에서 왔고 mittō '보내다'에서 나왔습니다. 보내는 글, 곧 편지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mite",
+    "score": 30,
+    "zipf": 3.08,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a slight but appreciable amount",
+        "ko": "소량, 약간",
+        "synonyms": [
+          "touch",
+          "bit",
+          "jot",
+          "speck",
+          "soupcon"
+        ],
+        "examples": [
+          {
+            "text": "The sauce needs a mite more salt before it is ready to serve.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 mīte '작은 벌레'에서 왔습니다. 아주 작은 것이라는 데서 '소량'을 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mitigate",
+    "score": 74,
+    "zipf": 3.54,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To reduce, lessen, or decrease and thereby to make less severe or easier to bear.",
+        "ko": "완화하다, 경감하다",
+        "synonyms": [
+          "alleviate",
+          "lessen",
+          "allay",
+          "assuage",
+          "palliate"
+        ],
+        "examples": [
+          {
+            "text": "Planting trees along the river bank helps mitigate the damage caused by seasonal flooding.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mit(부드러운)"
+    ],
+    "origin": {
+      "ko": "라틴어 mītigō '부드럽게 하다, 달래다'에서 왔고 mītis(부드러운)에서 나왔습니다. 거친 정도를 누그러뜨린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,1249 @@
+[
+  {
+    "word": "via",
+    "score": 16,
+    "zipf": 5.02,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "prep",
+        "en": "By way of; passing through.",
+        "ko": "~을 경유하여, ~을 거쳐",
+        "synonyms": [
+          "through",
+          "by way of"
+        ],
+        "examples": [
+          {
+            "text": "You can enter the building via the western gate.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "prep",
+        "en": "By (means of); using.",
+        "ko": "~을 통해, ~으로",
+        "synonyms": [
+          "through",
+          "by means of",
+          "using"
+        ],
+        "examples": [
+          {
+            "text": "I'll send you the information via e-mail.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vi(길)"
+    ],
+    "origin": {
+      "ko": "라틴어 via('길')의 탈격 viā('길을 따라')에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "viable",
+    "score": 37,
+    "zipf": 3.96,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "capable of being done with means at hand and circumstances as they are",
+        "ko": "실행 가능한",
+        "synonyms": [
+          "feasible",
+          "workable",
+          "practicable",
+          "achievable"
+        ],
+        "examples": [
+          {
+            "text": "Engineers concluded that solar power was a viable option for the remote island's electricity needs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "capable of life or normal growth and development",
+        "ko": "생존 가능한, 발육 가능한",
+        "synonyms": [
+          "survivable"
+        ],
+        "examples": [
+          {
+            "text": "Only a fraction of the seeds stored in the old vault were still viable after decades.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vi(삶)",
+      "-able"
+    ],
+    "origin": {
+      "ko": "프랑스어 viable에서 왔고 라틴어 vīta('삶')와 이어집니다. 살아갈 수 있다는 뜻이 '실행 가능한'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vicarious",
+    "score": 35,
+    "zipf": 2.6,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Experienced or gained by taking in another person’s experience rather than through first-hand experience, such as through watching or reading.",
+        "ko": "간접 체험의, 대리 경험의",
+        "synonyms": [
+          "secondhand",
+          "surrogate",
+          "empathetic"
+        ],
+        "examples": [
+          {
+            "text": "People experience vicarious pleasures through watching television.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "suffered or done by one person as a substitute for another",
+        "ko": "남을 대신하는, 대리의",
+        "synonyms": [
+          "delegated",
+          "substitute"
+        ],
+        "examples": [
+          {
+            "text": "Many religions teach that a martyr's vicarious suffering can redeem the sins of others.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vic",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 vicārius('대리의')에 -ous를 붙였습니다. 남을 대신해 겪는 '간접 체험'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vicissitude",
+    "score": 56,
+    "zipf": 1.34,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a variation in circumstances or fortune at different times in your life or in the development of something",
+        "ko": "흥망성쇠, 변천, 우여곡절",
+        "synonyms": [
+          "upheaval",
+          "change",
+          "fluctuation",
+          "ups and downs"
+        ],
+        "examples": [
+          {
+            "text": "The family firm survived the vicissitudes of two wars and a depression.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vic",
+      "-tude"
+    ],
+    "origin": {
+      "ko": "라틴어 vicissitūdō('교대, 변화')에서 왔고 vicis('차례, 변화')와 이어집니다. 번갈아 바뀌는 운이 '변천'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vie",
+    "score": 28,
+    "zipf": 3.35,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "compete for something; engage in a contest; measure oneself against others",
+        "ko": "경쟁하다, 다투다",
+        "synonyms": [
+          "compete",
+          "contend",
+          "jostle",
+          "struggle"
+        ],
+        "examples": [
+          {
+            "text": "Three firms will vie for the contract to build the new stadium.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "envy를 줄인 말이고 라틴어 invītō('초대하다, 도전하다')까지 거슬러 갑니다. 서로 도전하는 것이 '경쟁하다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vigilant",
+    "score": 28,
+    "zipf": 3.34,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "carefully observant or attentive; on the lookout for possible danger",
+        "ko": "경계하는, 방심하지 않는",
+        "synonyms": [
+          "watchful",
+          "alert",
+          "wary",
+          "attentive"
+        ],
+        "examples": [
+          {
+            "text": "Be vigilant for signs of disease in your garden.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vig",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 vigilare('깨어 있다')에서 왔습니다. 잠들지 않고 지키는 모습이 '경계하는'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vilify",
+    "score": 51,
+    "zipf": 2.44,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To say defamatory things about someone or something; to speak ill of.",
+        "ko": "헐뜯다, 비방하다",
+        "synonyms": [
+          "defame",
+          "denigrate",
+          "slander",
+          "malign",
+          "revile"
+        ],
+        "examples": [
+          {
+            "text": "Opponents tried to vilify the whistleblower as a liar in order to discredit her report.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vil",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 vīlificāre에서 왔습니다. 남을 vile('천한')하게 만든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vim",
+    "score": 50,
+    "zipf": 2.69,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a healthy capacity for vigorous activity",
+        "ko": "활력, 원기",
+        "synonyms": [
+          "energy",
+          "vigor",
+          "vitality",
+          "zest",
+          "pep"
+        ],
+        "examples": [
+          {
+            "text": "The coach was amazed by the vim of the new recruits during the first morning drill.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 vīs('힘')의 대격 vim에서 왔다는 설이 있습니다. 확실하지는 않습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vindicate",
+    "score": 36,
+    "zipf": 2.54,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "clear of accusation, blame, suspicion, or doubt with supporting proof",
+        "ko": "혐의를 벗기다, 결백을 입증하다",
+        "synonyms": [
+          "exonerate",
+          "absolve",
+          "clear",
+          "acquit"
+        ],
+        "examples": [
+          {
+            "text": "New DNA evidence vindicated the prisoner after he had spent twelve years behind bars.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "show to be right by providing justification or proof",
+        "ko": "정당함을 입증하다",
+        "synonyms": [
+          "justify",
+          "confirm",
+          "validate",
+          "substantiate"
+        ],
+        "examples": [
+          {
+            "text": "The successful trial vindicated the scientist's long-ridiculed theory.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vind",
+      "dic",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 vindicō('권리를 주장하다, 해방하다')에서 왔습니다. 결백을 주장해 입증한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vindictive",
+    "score": 31,
+    "zipf": 2.98,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "disposed to seek revenge or intended for revenge",
+        "ko": "복수심에 불타는, 앙심을 품은",
+        "synonyms": [
+          "vengeful",
+          "revengeful",
+          "spiteful"
+        ],
+        "examples": [
+          {
+            "text": "The vindictive manager fired anyone who had ever questioned his decisions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vind",
+      "-ive"
+    ],
+    "origin": {
+      "ko": "라틴어 vindicta('복수')에 -ive를 붙였습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vintage",
+    "score": 19,
+    "zipf": 4.18,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having an enduring appeal; high-quality.",
+        "ko": "고전적 가치가 있는, 수준 높은",
+        "synonyms": [
+          "classic",
+          "choice",
+          "prime",
+          "outstanding"
+        ],
+        "examples": [
+          {
+            "text": "The comedian delivered a vintage performance that reminded fans why they loved his early work.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The year or place in which something is produced.",
+        "ko": "제조 연도, 연식",
+        "synonyms": [
+          "year",
+          "origin",
+          "era"
+        ],
+        "examples": [
+          {
+            "text": "The collector could date each bottle by its vintage and the vineyard on its label.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vin"
+    ],
+    "origin": {
+      "ko": "라틴어 vindēmia('포도 수확')에서 왔고 vīnum('포도주')과 이어집니다. 특정 해 수확한 좋은 포도주에서 '고전적 가치'로 번졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vintner",
+    "score": 31,
+    "zipf": 2.03,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone who makes wine",
+        "ko": "포도주 제조업자",
+        "synonyms": [
+          "winemaker"
+        ],
+        "examples": [
+          {
+            "text": "The local vintner opened his cellar to visitors every autumn after the grape harvest.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "someone who sells wine",
+        "ko": "포도주 상인",
+        "synonyms": [
+          "wine merchant"
+        ],
+        "examples": [
+          {
+            "text": "The vintner recommended a crisp white to go with the fish.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vin"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 vīnētārius('포도주 상인')에서 왔고 vīnum('포도주')과 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "virago",
+    "score": 32,
+    "zipf": 2.14,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a noisy or scolding or domineering woman",
+        "ko": "잔소리 심한 사나운 여자",
+        "synonyms": [
+          "shrew",
+          "termagant",
+          "harridan",
+          "scold"
+        ],
+        "examples": [
+          {
+            "text": "The playwright cast the landlady as a loud virago who terrorized her tenants.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vir(남자)"
+    ],
+    "origin": {
+      "ko": "라틴어 virāgō('남자 같은 여자')에서 왔고 vir('남자')와 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "virtual",
+    "score": 18,
+    "zipf": 4.32,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "being actually such in almost every respect",
+        "ko": "사실상의, 실질적인",
+        "synonyms": [
+          "practical",
+          "effective",
+          "near",
+          "de facto"
+        ],
+        "examples": [
+          {
+            "text": "The angry peasants were a virtual army as they attacked the castle.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Simulated in a computer and/or online.",
+        "ko": "가상의",
+        "synonyms": [
+          "simulated",
+          "digital",
+          "online"
+        ],
+        "examples": [
+          {
+            "text": "The virtual world of his computer game allowed character interaction.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vir(남자)",
+      "-al"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 virtuālis('힘이 있는')에서 왔고 virtūs('덕, 힘')와 이어집니다. 실제 힘을 지녔다는 뜻이 '사실상의'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "virtuoso",
+    "score": 48,
+    "zipf": 2.9,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone who is dazzlingly skilled in any field",
+        "ko": "거장, 명인",
+        "synonyms": [
+          "master",
+          "maestro",
+          "expert",
+          "genius",
+          "adept"
+        ],
+        "examples": [
+          {
+            "text": "The young violinist was hailed as a virtuoso after her flawless debut at the concert hall.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "having or revealing supreme mastery or skill",
+        "ko": "뛰어난 기교의, 명인다운",
+        "synonyms": [
+          "masterly",
+          "consummate",
+          "masterful",
+          "brilliant"
+        ],
+        "examples": [
+          {
+            "text": "The pianist gave a virtuoso performance that left even the critics speechless.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vir(남자)"
+    ],
+    "origin": {
+      "ko": "이탈리아어 virtuoso('뛰어난')에서 왔고 라틴어 virtus('탁월함')와 이어집니다. 기량이 탁월한 사람이 '거장'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "virulent",
+    "score": 48,
+    "zipf": 2.88,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "extremely poisonous or injurious; producing venom",
+        "ko": "독성이 강한, 치명적인",
+        "synonyms": [
+          "deadly",
+          "toxic",
+          "poisonous",
+          "lethal",
+          "venomous"
+        ],
+        "examples": [
+          {
+            "text": "A virulent strain of the fungus wiped out most of the region's banana crop.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Extremely hostile or malicious; intensely acrimonious.",
+        "ko": "악의에 찬, 극렬한",
+        "synonyms": [
+          "acrimonious",
+          "bitter",
+          "hostile",
+          "vicious",
+          "malevolent"
+        ],
+        "examples": [
+          {
+            "text": "The politicians were virulent in their hatred of the president.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vir(독)",
+      "-ulent"
+    ],
+    "origin": {
+      "ko": "라틴어 vīrulentus('독이 있는')에서 왔고 vīrus('독')와 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "visage",
+    "score": 33,
+    "zipf": 2.78,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the human face (‘kisser’ and ‘smiler’ and ‘mug’ are informal terms for ‘face’ and ‘phiz’ is British)",
+        "ko": "얼굴, 용모",
+        "synonyms": [
+          "face",
+          "countenance",
+          "physiognomy"
+        ],
+        "examples": [
+          {
+            "text": "The old soldier's stern visage softened when his granddaughter ran into the room.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vid(보다)",
+      "-age"
+    ],
+    "origin": {
+      "ko": "라틴어 vidēre('보다')에서 나온 vīsus('모습')에서 왔습니다. 눈에 보이는 모습이 '얼굴'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "viscid",
+    "score": 26,
+    "zipf": 1.5,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Sticky, slimy, or glutinous.",
+        "ko": "끈적끈적한, 점성이 있는",
+        "synonyms": [
+          "sticky",
+          "gluey",
+          "glutinous",
+          "viscous"
+        ],
+        "examples": [
+          {
+            "text": "The snail left a viscid trail across the stone path after the rain.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "visc",
+      "-id"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 viscidus에서 왔고 viscum('새 잡는 끈끈이')과 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "viscous",
+    "score": 64,
+    "zipf": 2.94,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having a relatively high resistance to flow",
+        "ko": "점성이 높은, 걸쭉한",
+        "synonyms": [
+          "syrupy",
+          "thick",
+          "gooey",
+          "sticky"
+        ],
+        "examples": [
+          {
+            "text": "Cold temperatures made the motor oil so viscous that the engine struggled to start.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "visc",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 viscum('새 잡는 끈끈이')에서 나온 viscōsus에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "visionary",
+    "score": 27,
+    "zipf": 3.42,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not practical or realizable; speculative",
+        "ko": "비현실적인, 공상적인",
+        "synonyms": [
+          "impractical",
+          "idealistic",
+          "utopian",
+          "fanciful"
+        ],
+        "examples": [
+          {
+            "text": "Critics dismissed the plan to colonize the ocean floor as a visionary scheme with no budget behind it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a person with unusual powers of foresight",
+        "ko": "선구자, 통찰력 있는 사람",
+        "synonyms": [
+          "seer",
+          "prophet",
+          "pioneer",
+          "dreamer"
+        ],
+        "examples": [
+          {
+            "text": "The founder was a true visionary who imagined the modern city long before it was built.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vid(보다)",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "vision에 -ary를 붙인 말입니다. 눈에 보이는 환상을 좇는다는 뜻이 '공상적인'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vitality",
+    "score": 27,
+    "zipf": 3.41,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a healthy capacity for vigorous activity",
+        "ko": "활력, 생기",
+        "synonyms": [
+          "energy",
+          "vigor",
+          "vim",
+          "liveliness"
+        ],
+        "examples": [
+          {
+            "text": "The city's vitality showed in its crowded cafes, packed theaters, and ever-changing skyline.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the property of being able to survive and grow",
+        "ko": "생명력, 존속 능력",
+        "synonyms": [
+          "viability",
+          "animation"
+        ],
+        "examples": [
+          {
+            "text": "Scientists tested the vitality of the ancient seed by planting it in warm soil.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vit",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 vitalitas('생명력')에서 왔고 vīta('삶')와 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vitiate",
+    "score": 61,
+    "zipf": 1.76,
+    "lists": [
+      "GregMat",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make imperfect",
+        "ko": "손상시키다, 망치다",
+        "synonyms": [
+          "mar",
+          "impair",
+          "spoil",
+          "undermine",
+          "debase"
+        ],
+        "examples": [
+          {
+            "text": "Flawed sampling methods vitiate the study's conclusions and render its statistics meaningless.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "take away the legal force of or render ineffective",
+        "ko": "무효로 하다",
+        "synonyms": [
+          "invalidate",
+          "void",
+          "nullify",
+          "annul"
+        ],
+        "examples": [
+          {
+            "text": "Proof of fraud would vitiate the contract and free both parties from their obligations.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "corrupt morally or by intemperance or sensuality",
+        "ko": "타락시키다",
+        "synonyms": [
+          "corrupt",
+          "pervert",
+          "debauch",
+          "debase"
+        ],
+        "examples": [
+          {
+            "text": "Moralists feared that easy wealth would vitiate the character of the young heir.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vit",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 vitiō('손상시키다')에서 왔고 vitium('악덕, 흠')과 이어집니다. 흠집을 내 망치는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vitriol",
+    "score": 48,
+    "zipf": 2.87,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "abusive or venomous language used to express blame or censure or bitter deep-seated ill will",
+        "ko": "신랄한 독설, 악담",
+        "synonyms": [
+          "invective",
+          "venom",
+          "acrimony",
+          "vituperation"
+        ],
+        "examples": [
+          {
+            "text": "The online comments section was filled with vitriol directed at anyone who disagreed with the author.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 라틴어 vitriolum('황산')에서 왔고 vitrum('유리')과 이어집니다. 유리처럼 반짝이는 부식성 물질에서 '독설'로 비유되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vitriolic",
+    "score": 51,
+    "zipf": 2.57,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "harsh or corrosive in tone",
+        "ko": "신랄한, 독설적인",
+        "synonyms": [
+          "caustic",
+          "acerbic",
+          "scathing",
+          "bitter",
+          "virulent"
+        ],
+        "examples": [
+          {
+            "text": "The critic's vitriolic review accused the director of laziness and called the film an insult to viewers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ic"
+    ],
+    "origin": {
+      "ko": "vitriol('황산')에 -ic를 붙였습니다. 산처럼 쓰라린 말투가 '신랄한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vituperate",
+    "score": 48,
+    "zipf": 0.0,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To attack (someone or something) with abusive language; to revile, to vilify.",
+        "ko": "욕설을 퍼붓다, 맹렬히 비난하다",
+        "synonyms": [
+          "revile",
+          "berate",
+          "vilify",
+          "castigate",
+          "rail"
+        ],
+        "examples": [
+          {
+            "text": "The editorial continued to vituperate the minister for weeks, calling him a coward and a fraud.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "vit",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 vituperō('꾸짖다')에서 왔고 vitium('흠')과 이어집니다. 흠을 들춰 비난하는 것입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "vivacious",
+    "score": 34,
+    "zipf": 2.68,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Lively and animated; full of life and energy.",
+        "ko": "쾌활한, 활기찬",
+        "synonyms": [
+          "lively",
+          "animated",
+          "spirited",
+          "sprightly",
+          "effervescent"
+        ],
+        "examples": [
+          {
+            "text": "The vivacious hostess moved through the crowd, drawing even the shyest guests into conversation.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "viv",
+      "-acious"
+    ],
+    "origin": {
+      "ko": "라틴어 vīvāx('활기찬')에서 왔고 vīvere('살다')와 이어집니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "word": "jargon",
+    "score": 45,
+    "zipf": 3.24,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "specialized technical terminology characteristic of a particular subject",
+        "ko": "전문 용어, 은어",
+        "synonyms": [
+          "lingo",
+          "terminology",
+          "argot",
+          "cant"
+        ],
+        "examples": [
+          {
+            "text": "Legal jargon often makes contracts nearly impenetrable to ordinary readers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Speech or language that is incomprehensible or unintelligible; gibberish.",
+        "ko": "알아들을 수 없는 말, 횡설수설",
+        "synonyms": [
+          "gibberish",
+          "babble",
+          "nonsense",
+          "gobbledygook"
+        ],
+        "examples": [
+          {
+            "text": "Cut the jargon and get to your point.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 jargon '재잘거림, 말'에서 왔습니다. 남들은 알아듣기 힘든 그들만의 말이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "jaundice",
+    "score": 34,
+    "zipf": 2.71,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "distort adversely",
+        "ko": "편견을 갖게 하다, 비뚤어지게 하다",
+        "synonyms": [
+          "embitter",
+          "prejudice",
+          "sour",
+          "bias"
+        ],
+        "examples": [
+          {
+            "text": "Jealousy had jaundiced his judgment",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A feeling of bitterness, resentment or jealousy.",
+        "ko": "냉소적 편견, 시기심",
+        "synonyms": [
+          "bitterness",
+          "resentment",
+          "envy",
+          "acrimony"
+        ],
+        "examples": [
+          {
+            "text": "Years of rejection left the critic with a jaundice that colored every review.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 jaunisse에서 왔고 jaune(노란색)에서 나왔습니다. 노란 눈으로 보듯 시각이 비뚤어진다는 뜻으로 번졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

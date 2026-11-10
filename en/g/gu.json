@@ -1,0 +1,331 @@
+[
+  {
+    "word": "guffaw",
+    "score": 31,
+    "zipf": 2.01,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a burst of deep loud hearty laughter",
+        "ko": "폭소, 껄껄 웃음",
+        "synonyms": [
+          "belly laugh",
+          "roar",
+          "hoot"
+        ],
+        "examples": [
+          {
+            "text": "His joke drew a guffaw from the back of the room that startled the speaker.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To laugh boisterously.",
+        "ko": "껄껄 웃다, 크게 웃어대다",
+        "synonyms": [
+          "roar",
+          "howl",
+          "cackle"
+        ],
+        "examples": [
+          {
+            "text": "Peter, on the contrary, threw back his head and guffawed thunderously.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "18세기 초 스코틀랜드어에서 처음 나타났고, 웃음소리를 흉내 낸 말로 봅니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "guile",
+    "score": 50,
+    "zipf": 2.75,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "shrewdness as demonstrated by being skilled in deception",
+        "ko": "교활함, 간계",
+        "synonyms": [
+          "cunning",
+          "craftiness",
+          "wiliness",
+          "deceit",
+          "artifice"
+        ],
+        "examples": [
+          {
+            "text": "The negotiator relied on guile rather than force, slowly steering the talks toward his own terms.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑크어 *wīl '계략'에서 고대 프랑스어를 거쳐 왔습니다. wile(꾀)과 같은 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "guileless",
+    "score": 30,
+    "zipf": 1.94,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Free from guile; honest but naive.",
+        "ko": "순진한, 꾸밈없고 정직한",
+        "synonyms": [
+          "artless",
+          "ingenuous",
+          "naive",
+          "candid",
+          "innocent"
+        ],
+        "examples": [
+          {
+            "text": "Her guileless questions exposed the flaws in the plan that experts had overlooked.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "guile",
+      "-less"
+    ],
+    "origin": {
+      "ko": "guile(간계)에 -less(없는)가 붙은 말입니다. 속임수가 없으니 순진하고 꾸밈없습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gullible",
+    "score": 30,
+    "zipf": 3.1,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "naive and easily deceived or tricked",
+        "ko": "잘 속는, 순진한",
+        "synonyms": [
+          "credulous",
+          "naive",
+          "trusting",
+          "easily duped"
+        ],
+        "examples": [
+          {
+            "text": "Scammers target gullible retirees with promises of guaranteed investment returns.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "gull",
+      "-able"
+    ],
+    "origin": {
+      "ko": "gull(속이다)에 -ible이 붙은 말로 봅니다. 중세영어 gull(깃털 안 난 새끼 새, 바보)에서 왔다는 설도 있습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gumption",
+    "score": 35,
+    "zipf": 2.39,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Boldness of enterprise; aggressiveness or initiative.",
+        "ko": "진취성, 배짱",
+        "synonyms": [
+          "initiative",
+          "spunk",
+          "pluck",
+          "enterprise",
+          "nerve"
+        ],
+        "examples": [
+          {
+            "text": "It took real gumption for the intern to challenge the director's forecast in front of the board.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "sound practical judgment",
+        "ko": "실용적인 분별력, 상식",
+        "synonyms": [
+          "common sense",
+          "good sense",
+          "wit",
+          "shrewdness"
+        ],
+        "examples": [
+          {
+            "text": "She had the gumption to read the contract carefully before signing anything.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "스코틀랜드어 gumption '상식, 추진력'에서 들어온 말이며, 그 이전 어원은 확실하지 않습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gustatory",
+    "score": 31,
+    "zipf": 1.97,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Of, or relating to, the sense of taste.",
+        "ko": "미각의",
+        "synonyms": [
+          "gustative",
+          "taste-related"
+        ],
+        "examples": [
+          {
+            "text": "The festival offered a gustatory tour of regional cheeses, wines, and pastries.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "gust",
+      "-ory"
+    ],
+    "origin": {
+      "ko": "라틴어 gustō '맛보다'에서 온 gustātus에 -ory가 붙은 말입니다. 맛보는 감각과 관련됩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gusto",
+    "score": 31,
+    "zipf": 3.0,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "vigorous and enthusiastic enjoyment",
+        "ko": "열정, 신나는 기분",
+        "synonyms": [
+          "zest",
+          "relish",
+          "enthusiasm",
+          "verve",
+          "zeal"
+        ],
+        "examples": [
+          {
+            "text": "He sang with more gusto than talent.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "gust"
+    ],
+    "origin": {
+      "ko": "이탈리아어 gusto에서 왔고 라틴어 gustus '맛'이 뿌리입니다. 맛보는 즐거움이 '열정, 신나는 기분'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "gusty",
+    "score": 35,
+    "zipf": 2.59,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "blowing in puffs or short intermittent blasts",
+        "ko": "돌풍이 부는, 세찬 바람의",
+        "synonyms": [
+          "blustery",
+          "windy",
+          "squally",
+          "breezy"
+        ],
+        "examples": [
+          {
+            "text": "Gusty winds forced the airline to cancel several afternoon flights along the coast.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]

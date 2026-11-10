@@ -1,0 +1,728 @@
+[
+  {
+    "word": "pucker",
+    "score": 36,
+    "zipf": 2.52,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to gather something into small wrinkles or folds",
+        "ko": "주름을 잡다, 오므리다",
+        "synonyms": [
+          "wrinkle",
+          "gather",
+          "crumple",
+          "purse"
+        ],
+        "examples": [
+          {
+            "text": "The child puckered her face at the sour taste of the lemon.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "puerile",
+    "score": 83,
+    "zipf": 2.37,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "displaying or suggesting a lack of maturity",
+        "ko": "유치한, 미숙한",
+        "synonyms": [
+          "childish",
+          "juvenile",
+          "immature",
+          "jejune"
+        ],
+        "examples": [
+          {
+            "text": "The senators' puerile name-calling embarrassed even their own supporters.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "puer",
+      "-ile"
+    ],
+    "origin": {
+      "ko": "라틴어 puerīlis('어린아이 같은')에서 왔고 puer('아이')에서 나왔습니다. 어른이 아이처럼 유치하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pugilism",
+    "score": 26,
+    "zipf": 1.55,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "fighting with the fists",
+        "ko": "권투, 주먹싸움",
+        "synonyms": [
+          "boxing",
+          "fisticuffs"
+        ],
+        "examples": [
+          {
+            "text": "Victorian crowds gathered by the thousands to watch bare-knuckle pugilism in country fields.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pug",
+      "-ism"
+    ],
+    "origin": {
+      "ko": "라틴어 pugil('주먹싸움꾼')에 -ism이 붙은 말입니다. 주먹으로 싸우는 권투를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pugilist",
+    "score": 32,
+    "zipf": 2.07,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone who fights with their fists for sport",
+        "ko": "권투 선수, 주먹 싸움꾼",
+        "synonyms": [
+          "boxer",
+          "prizefighter"
+        ],
+        "examples": [
+          {
+            "text": "The retired pugilist now trains young boxers at a gym downtown.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pug",
+      "-ist"
+    ],
+    "origin": {
+      "ko": "라틴어 pugil('주먹싸움꾼')에 -ist가 붙은 말입니다. 주먹으로 싸우는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pugnacious",
+    "score": 80,
+    "zipf": 2.14,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having a tendency to argue or fight; aggressive, combative.",
+        "ko": "싸우기 좋아하는, 호전적인",
+        "synonyms": [
+          "combative",
+          "belligerent",
+          "bellicose",
+          "aggressive"
+        ],
+        "examples": [
+          {
+            "text": "The pugnacious columnist seemed to relish every opportunity to provoke an argument.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pug",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 pugnāx('싸우기 좋아하는')에서 왔고 pugnus('주먹')와 이어집니다. 주먹부터 나가는 호전적인 성격입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "puissance",
+    "score": 30,
+    "zipf": 1.93,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "power to influence or coerce",
+        "ko": "힘, 세력, 권세",
+        "synonyms": [
+          "power",
+          "might",
+          "potency",
+          "clout"
+        ],
+        "examples": [
+          {
+            "text": "The ancient empire's puissance made neighboring kingdoms reluctant to challenge it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ance"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 puissant('힘 있는')에서 왔습니다. 라틴어 posse('할 수 있다')와 이어지며 힘을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "puissant",
+    "score": 45,
+    "zipf": 1.81,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "powerful or influential",
+        "ko": "강력한, 영향력 있는",
+        "synonyms": [
+          "powerful",
+          "mighty",
+          "potent",
+          "influential"
+        ],
+        "examples": [
+          {
+            "text": "The puissant monarch commanded armies that no rival dared to confront.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pot",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "프랑스어 pooir('할 수 있다')의 현재분사에서 왔고 라틴어 posse에서 나왔습니다. 할 수 있는 힘이 있다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pulchritude",
+    "score": 41,
+    "zipf": 1.36,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Physical beauty.",
+        "ko": "(육체적) 아름다움, 미",
+        "synonyms": [
+          "beauty",
+          "comeliness",
+          "loveliness",
+          "attractiveness"
+        ],
+        "examples": [
+          {
+            "text": "The painter was renowned for portraits that captured the pulchritude of her aristocratic subjects.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pulchr",
+      "-tude"
+    ],
+    "origin": {
+      "ko": "라틴어 pulchritūdō에서 왔으며 pulcher('아름다운')에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pummel",
+    "score": 34,
+    "zipf": 2.33,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To hit or strike heavily and repeatedly.",
+        "ko": "계속 두들기다, 마구 때리다",
+        "synonyms": [
+          "batter",
+          "pound",
+          "thrash",
+          "beat"
+        ],
+        "examples": [
+          {
+            "text": "Rain pummeled the roof.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To scornfully criticize someone or something.",
+        "ko": "맹렬히 비난하다",
+        "synonyms": [
+          "excoriate",
+          "lambaste",
+          "savage"
+        ],
+        "examples": [
+          {
+            "text": "The politician was pummeled by the media for his controversial statements.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "pommel('칼자루 머리')의 변형입니다. 칼자루 머리로 두들기던 데서 마구 때린다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "punctilious",
+    "score": 61,
+    "zipf": 1.76,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by precise accordance with details",
+        "ko": "세심한, 격식을 철저히 따지는",
+        "synonyms": [
+          "meticulous",
+          "scrupulous",
+          "fastidious",
+          "exacting"
+        ],
+        "examples": [
+          {
+            "text": "The punctilious clerk checked every figure twice before signing the final report.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pung",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "punctilio('사소한 격식')에 -ous가 붙은 말입니다. 라틴어 punctum('점')에서 나와, 작은 점 하나까지 따지는 태도입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pundit",
+    "score": 62,
+    "zipf": 3.06,
+    "lists": [
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An expert in a particular field, especially as called upon to provide comment or opinion in the media; a commentator, a critic.",
+        "ko": "평론가, 전문가 (미디어 해설자)",
+        "synonyms": [
+          "commentator",
+          "expert",
+          "critic",
+          "analyst"
+        ],
+        "examples": [
+          {
+            "text": "Television pundits disagreed sharply about what the election results meant for the party.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "힌디어 paṇḍit에서 빌려 왔고 산스크리트어 paṇḍita('학자')로 거슬러 갑니다. 박식한 사람이 전문가·평론가를 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pungent",
+    "score": 48,
+    "zipf": 2.91,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "strong and sharp",
+        "ko": "(맛·냄새가) 톡 쏘는, 자극적인",
+        "synonyms": [
+          "acrid",
+          "sharp",
+          "piquant",
+          "biting"
+        ],
+        "examples": [
+          {
+            "text": "The pungent smell of vinegar filled the kitchen as the pickles simmered.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "capable of wounding",
+        "ko": "신랄한, 날카로운",
+        "synonyms": [
+          "biting",
+          "caustic",
+          "trenchant",
+          "incisive"
+        ],
+        "examples": [
+          {
+            "text": "The critic gave a pungent review.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pung",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 pungere('찌르다')의 현재분사에서 왔습니다. 코와 혀를 찌르듯 톡 쏩니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "purport",
+    "score": 35,
+    "zipf": 2.64,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "have the often specious appearance of being, intending, or claiming",
+        "ko": "~라고 주장하다, ~인 척하다",
+        "synonyms": [
+          "claim",
+          "profess",
+          "pretend",
+          "allege"
+        ],
+        "examples": [
+          {
+            "text": "The letter purports to express people's opinion",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the intended meaning of a communication",
+        "ko": "취지, 요지",
+        "synonyms": [
+          "gist",
+          "drift",
+          "import",
+          "intent"
+        ],
+        "examples": [
+          {
+            "text": "My practice, you say, refutes my doubts. But you mistake the purport of my question.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "port(나르다)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 purporter('나르다, 담고 있다')에서 왔습니다. 겉으로 어떤 뜻을 담은 듯 내세운다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "purse",
+    "score": 22,
+    "zipf": 3.95,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "contract one's lips into a rounded shape",
+        "ko": "(입술을) 오므리다",
+        "synonyms": [
+          "pucker",
+          "tighten",
+          "compress"
+        ],
+        "examples": [
+          {
+            "text": "She pursed her lips and studied the contract with open suspicion.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a sum of money offered as a prize",
+        "ko": "상금",
+        "synonyms": [
+          "prize",
+          "winnings",
+          "award"
+        ],
+        "examples": [
+          {
+            "text": "The winner of the heavyweight bout took home a purse of two million dollars.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 purs('지갑')에서 왔고 라틴어 bursa('가죽 주머니')와 이어집니다. 주머니 입구를 오므리는 동작에서 '입술을 오므리다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "purvey",
+    "score": 27,
+    "zipf": 1.61,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To furnish or provide.",
+        "ko": "공급하다, 조달하다",
+        "synonyms": [
+          "supply",
+          "provide",
+          "furnish",
+          "provision"
+        ],
+        "examples": [
+          {
+            "text": "Those who sell their own products are distinguished from purveyors, who purvey what others produce.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pro-",
+      "vid(보다)"
+    ],
+    "origin": {
+      "ko": "라틴어 prōvidēre('미리 보다, 마련하다')에서 온 고대 프랑스어에서 왔습니다. provide의 쌍둥이 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pusillanimous",
+    "score": 61,
+    "zipf": 1.78,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Showing ignoble cowardice, or contemptible timidity.",
+        "ko": "소심한, 겁 많은",
+        "synonyms": [
+          "cowardly",
+          "craven",
+          "timorous",
+          "fainthearted"
+        ],
+        "examples": [
+          {
+            "text": "The soldier deserted his troop in a pusillanimous manner.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pusill",
+      "anim",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 pusillanimis('마음이 작은')에서 왔습니다. 담이 작아 겁이 많다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "putrefy",
+    "score": 25,
+    "zipf": 1.44,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "become putrid; decay with an offensive smell",
+        "ko": "부패하다, 썩어 악취가 나다",
+        "synonyms": [
+          "rot",
+          "decay",
+          "decompose",
+          "fester"
+        ],
+        "examples": [
+          {
+            "text": "organic matter putrefies",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "putr",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "프랑스어 putréfier에서 왔고 라틴어 putrēs('썩은')와 -fy('~되게 하다')로 이루어졌습니다. 썩어서 악취가 난다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,1149 @@
+[
+  {
+    "word": "mode",
+    "score": 16,
+    "zipf": 4.63,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "how something is done or how it happens",
+        "ko": "방식, 양식",
+        "synonyms": [
+          "manner",
+          "way",
+          "style",
+          "fashion",
+          "means"
+        ],
+        "examples": [
+          {
+            "text": "Each culture develops its own mode of expressing grief at funerals.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The most frequently occurring value in a distribution.",
+        "ko": "최빈값",
+        "synonyms": [
+          "modal value"
+        ],
+        "examples": [
+          {
+            "text": "In the exam scores, the mode was 72, higher than the median of 70.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mod"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어를 거쳐 라틴어 modus '척도, 박자'에서 왔습니다. 재는 방식이 '방식'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "modest",
+    "score": 53,
+    "zipf": 4.03,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by simplicity; having a humble opinion of yourself",
+        "ko": "겸손한, 소박한",
+        "synonyms": [
+          "humble",
+          "unassuming",
+          "unpretentious",
+          "self-effacing"
+        ],
+        "examples": [
+          {
+            "text": "Despite winning the prize, the physicist remained modest about her contribution.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "relatively moderate, limited, or small",
+        "ko": "적당한, 크지 않은",
+        "synonyms": [
+          "moderate",
+          "limited",
+          "small",
+          "unremarkable"
+        ],
+        "examples": [
+          {
+            "text": "Her latest novel was a modest success.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mod"
+    ],
+    "origin": {
+      "ko": "프랑스어를 거쳐 라틴어 modestus에서 왔고 modus(척도)에서 나왔습니다. 분수를 지켜 지나치지 않는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "modicum",
+    "score": 66,
+    "zipf": 2.71,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A modest, small, or trifling amount.",
+        "ko": "소량, 조금",
+        "synonyms": [
+          "iota",
+          "jot",
+          "bit",
+          "trace",
+          "smidgen"
+        ],
+        "examples": [
+          {
+            "text": "Unable to garner even a modicum of support for his plan, he conceded to follow the others.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mod"
+    ],
+    "origin": {
+      "ko": "라틴어 modicum '조금'에서 왔고 modus(척도, 한도)에서 나왔습니다. 한도 안의 적은 양입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "modish",
+    "score": 48,
+    "zipf": 2.13,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "in the current fashion or style",
+        "ko": "유행을 따르는, 현대풍의",
+        "synonyms": [
+          "fashionable",
+          "stylish",
+          "trendy",
+          "in vogue"
+        ],
+        "examples": [
+          {
+            "text": "The boutique stocked only modish clothing aimed at the city's younger professionals.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ish"
+    ],
+    "origin": {
+      "ko": "mode(유행)에 -ish가 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mollify",
+    "score": 79,
+    "zipf": 2.04,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To appease anger, pacify, gain the good will of.",
+        "ko": "달래다, 진정시키다",
+        "synonyms": [
+          "appease",
+          "placate",
+          "pacify",
+          "conciliate",
+          "assuage"
+        ],
+        "examples": [
+          {
+            "text": "He tried to mollify the angry customer.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "moll",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 mollificō에서 왔고 mollis(부드러운)에서 나왔습니다. 부드럽게 만들어 달랜다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "molt",
+    "score": 51,
+    "zipf": 2.37,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cast off hair, skin, horn, or feathers",
+        "ko": "허물을 벗다, 털갈이하다",
+        "synonyms": [
+          "shed",
+          "slough",
+          "moult"
+        ],
+        "examples": [
+          {
+            "text": "Birds typically molt once a year, replacing worn feathers with fresh plumage.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 melten '녹다'의 옛 활용형에서 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "moment",
+    "score": 16,
+    "zipf": 5.24,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Weight or importance.",
+        "ko": "중요성, 중대함",
+        "synonyms": [
+          "importance",
+          "consequence",
+          "significance",
+          "import"
+        ],
+        "examples": [
+          {
+            "text": "The committee postponed matters of little moment and focused on the budget crisis.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a particular point in time",
+        "ko": "순간, 시점",
+        "synonyms": [
+          "instant",
+          "juncture",
+          "point"
+        ],
+        "examples": [
+          {
+            "text": "the moment he arrived the party began",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어를 거쳐 라틴어 mōmentum에서 왔습니다. momentum, movement와 같은 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "momentary",
+    "score": 30,
+    "zipf": 3.08,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lasting for a markedly brief time",
+        "ko": "순간적인, 잠깐의",
+        "synonyms": [
+          "fleeting",
+          "transient",
+          "brief",
+          "ephemeral",
+          "fugitive"
+        ],
+        "examples": [
+          {
+            "text": "A momentary lapse in concentration cost the pianist the final bars of the piece.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mot",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "라틴어 mōmentum은 '아주 짧은 시간, 순간'이라는 뜻이고, 여기서 '순간적인'이 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "monastic",
+    "score": 46,
+    "zipf": 3.1,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of communal life sequestered from the world under religious vows",
+        "ko": "수도원의, 수도사 같은",
+        "synonyms": [
+          "cloistered",
+          "ascetic",
+          "secluded",
+          "conventual"
+        ],
+        "examples": [
+          {
+            "text": "He led a nearly monastic life, devoting his days to study and silence.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mon(하나)",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 monasticus에서 중세 프랑스어를 거쳐 들어온 말로, 세상과 떨어진 수도 생활을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "monetary",
+    "score": 20,
+    "zipf": 4.1,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Of, pertaining to, or consisting of money.",
+        "ko": "화폐의, 금전상의",
+        "synonyms": [
+          "financial",
+          "pecuniary",
+          "fiscal",
+          "economic"
+        ],
+        "examples": [
+          {
+            "text": "Although of little monetary value, Rosie treasured her late grandfather's old hunting gear.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "monet",
+      "-ary"
+    ],
+    "origin": {
+      "ko": "로마의 유노 모네타 신전에 조폐소가 있었기에 monēta가 '주화'를 뜻하게 되었고, 여기서 '화폐의'가 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "monotonous",
+    "score": 32,
+    "zipf": 2.95,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "tediously repetitious or lacking in variety",
+        "ko": "단조로운, 지루한",
+        "synonyms": [
+          "tedious",
+          "humdrum",
+          "repetitious",
+          "dull"
+        ],
+        "examples": [
+          {
+            "text": "The assembly-line work was so monotonous that employees struggled to stay alert through the shift.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Having an unvarying pitch or tone.",
+        "ko": "음조가 변하지 않는, 억양 없는",
+        "synonyms": [
+          "flat",
+          "monotone",
+          "droning"
+        ],
+        "examples": [
+          {
+            "text": "The lecturer's monotonous delivery put half the room to sleep.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mono-",
+      "ton",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "그리스어 monotonos, 즉 '한 가지 음조'에서 왔습니다. 늘 같은 가락이라 단조롭고 지루하다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "monotony",
+    "score": 34,
+    "zipf": 2.75,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Tedium as a result of repetition or a lack of variety.",
+        "ko": "단조로움, 지루함",
+        "synonyms": [
+          "tedium",
+          "sameness",
+          "dullness",
+          "humdrum"
+        ],
+        "examples": [
+          {
+            "text": "Long voyages at sea were broken only rarely from the monotony of endless grey water.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mono-",
+      "ton",
+      "-y"
+    ],
+    "origin": {
+      "ko": "그리스어 monotonía '한 가지 음조'에서 프랑스어를 거쳐 왔습니다. 변화 없는 한 가지 소리가 지루함이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "moot",
+    "score": 45,
+    "zipf": 3.23,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "open to argument or debate",
+        "ko": "논란의 여지가 있는",
+        "synonyms": [
+          "debatable",
+          "arguable",
+          "disputable",
+          "contestable"
+        ],
+        "examples": [
+          {
+            "text": "Whether the policy actually reduced crime remains a moot question among economists.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Having no practical consequence or relevance.",
+        "ko": "실질적 의미가 없는",
+        "synonyms": [
+          "irrelevant",
+          "academic",
+          "pointless"
+        ],
+        "examples": [
+          {
+            "text": "That point may make for a good discussion, but it is moot.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 mōt는 '모임'이었습니다. 모임에서 토론하던 문제라는 데서 '논란의 여지가 있는'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "morass",
+    "score": 35,
+    "zipf": 2.36,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Anything that entraps or makes progress difficult.",
+        "ko": "헤어나기 힘든 곤경, 수렁",
+        "synonyms": [
+          "quagmire",
+          "mire",
+          "tangle",
+          "muddle"
+        ],
+        "examples": [
+          {
+            "text": "The merger bogged down in a morass of regulatory paperwork.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a soft wet area of low-lying land that sinks underfoot",
+        "ko": "늪, 습지",
+        "synonyms": [
+          "quagmire",
+          "bog",
+          "marsh",
+          "mire"
+        ],
+        "examples": [
+          {
+            "text": "The army's wagons sank into the morass after three days of heavy rain.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "네덜란드어 moeras '습지, 늪'에서 왔습니다. 발이 빠져 나오기 힘든 늪이 헤어나기 힘든 곤경이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "moratorium",
+    "score": 30,
+    "zipf": 3.08,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A suspension of an ongoing activity.",
+        "ko": "일시 중지, 활동 유예",
+        "synonyms": [
+          "suspension",
+          "halt",
+          "freeze",
+          "ban"
+        ],
+        "examples": [
+          {
+            "text": "Canada may put a moratorium on cloning for research.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a legally authorized postponement before some obligation must be discharged",
+        "ko": "(채무) 지급 유예",
+        "synonyms": [
+          "postponement",
+          "deferral",
+          "stay"
+        ],
+        "examples": [
+          {
+            "text": "The government declared a moratorium on student loan payments during the economic emergency.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mor(지체)"
+    ],
+    "origin": {
+      "ko": "라틴어 mora '지체'에서 나온 말로, 어떤 일을 미루어 잠시 멈춘다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "morbid",
+    "score": 28,
+    "zipf": 3.26,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "suggesting an unhealthy mental state",
+        "ko": "병적인, 음울한",
+        "synonyms": [
+          "unhealthy",
+          "macabre",
+          "ghoulish",
+          "gruesome"
+        ],
+        "examples": [
+          {
+            "text": "Her morbid curiosity about disasters led her to collect old newspaper accounts of shipwrecks.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "caused by or altered by or manifesting disease or pathology",
+        "ko": "질병에 의한, 병리적인",
+        "synonyms": [
+          "diseased",
+          "pathological",
+          "unhealthy"
+        ],
+        "examples": [
+          {
+            "text": "The surgeon removed a morbid growth from the patient's lung.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "morb",
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 morbidus '병든'에서 왔고, morbus는 '병'입니다. 병든 듯한 음울한 상태를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mordant",
+    "score": 66,
+    "zipf": 2.25,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having or showing a sharp or critical quality.",
+        "ko": "신랄한, 비꼬는",
+        "synonyms": [
+          "biting",
+          "caustic",
+          "sarcastic",
+          "trenchant",
+          "acerbic"
+        ],
+        "examples": [
+          {
+            "text": "The critic's mordant wit left few of the season's plays unscathed.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mord",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 mordeō '물다'에서 왔습니다. 물어뜯는 듯 날카로운 말투가 신랄함이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "moreover",
+    "score": 19,
+    "zipf": 4.16,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adv",
+        "en": "In addition to what has been said.",
+        "ko": "게다가, 더욱이",
+        "synonyms": [
+          "furthermore",
+          "besides",
+          "additionally",
+          "what is more"
+        ],
+        "examples": [
+          {
+            "text": "For three years there had been pestilence, and in the last of the three a famine; moreover, there was imminence of war.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어에서 more(더)와 over(넘어서)를 붙여 만든 말로, '그 위에 더'라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mores",
+    "score": 49,
+    "zipf": 2.82,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A set of moral norms or customs derived from generally accepted practices rather than written laws.",
+        "ko": "관습, 사회적 도덕 규범",
+        "synonyms": [
+          "customs",
+          "conventions",
+          "norms",
+          "folkways"
+        ],
+        "examples": [
+          {
+            "text": "The country's traditional mores have sparked recent ideological battles, as well as a few national embarrassments.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mor(관습)"
+    ],
+    "origin": {
+      "ko": "라틴어 mōrēs '방식, 성품, 도덕'의 복수형입니다. 한 사회가 따르는 관습과 도덕 규범을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "moribund",
+    "score": 51,
+    "zipf": 2.57,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Approaching death; about to die; dying; expiring.",
+        "ko": "죽어 가는, 빈사 상태의",
+        "synonyms": [
+          "dying",
+          "expiring",
+          "failing"
+        ],
+        "examples": [
+          {
+            "text": "The moribund patient was moved to a quiet room where his family could stay beside him.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not growing or changing; without force or vitality",
+        "ko": "쇠퇴한, 활기를 잃은",
+        "synonyms": [
+          "stagnant",
+          "declining",
+          "obsolescent",
+          "defunct"
+        ],
+        "examples": [
+          {
+            "text": "The moribund steel industry could no longer support the town's dwindling population.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mor(죽음)",
+      "-bund"
+    ],
+    "origin": {
+      "ko": "라틴어 moribundus '죽어 가는'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "morose",
+    "score": 83,
+    "zipf": 2.44,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Sullen, gloomy; showing a brooding ill humour.",
+        "ko": "뚱한, 침울한",
+        "synonyms": [
+          "sullen",
+          "glum",
+          "gloomy",
+          "sulky",
+          "dour"
+        ],
+        "examples": [
+          {
+            "text": "He sat morose and silent at the table, ignoring every attempt to cheer him up.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mor(관습)",
+      "-ose"
+    ],
+    "origin": {
+      "ko": "라틴어 mōrōsus에서 왔고, mōs는 '습관, 고집'입니다. 고집 세고 까탈스러운 기질이 뚱하고 침울한 상태로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "morph",
+    "score": 30,
+    "zipf": 3.07,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To undergo dramatic change in a seamless and barely noticeable fashion.",
+        "ko": "서서히 탈바꿈하다, 변모하다",
+        "synonyms": [
+          "transform",
+          "metamorphose",
+          "evolve",
+          "shift"
+        ],
+        "examples": [
+          {
+            "text": "The small neighborhood bakery gradually morphed into a nationwide chain.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "morph"
+    ],
+    "origin": {
+      "ko": "동사 metamorphose(변신하다)가 줄어든 말입니다. 그리스어 morphḗ는 '모양'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mortify",
+    "score": 29,
+    "zipf": 1.81,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cause to feel shame; hurt the pride of",
+        "ko": "굴욕감을 주다, 창피하게 하다",
+        "synonyms": [
+          "humiliate",
+          "embarrass",
+          "chagrin",
+          "abash",
+          "shame"
+        ],
+        "examples": [
+          {
+            "text": "The senator was mortified when his offhand remark was broadcast to millions of viewers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To discipline (one's body, appetites etc.) by suppressing desires; to practise abstinence on.",
+        "ko": "금욕으로 (욕망을) 억제하다",
+        "synonyms": [
+          "subdue",
+          "discipline",
+          "deny"
+        ],
+        "examples": [
+          {
+            "text": "Some people seek sainthood by mortifying the body.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "mor(죽음)",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 mortificō '죽게 하다'에서 왔습니다. 자존심을 죽이는 듯한 일이 굴욕감을 주다가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mote",
+    "score": 35,
+    "zipf": 2.63,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A small particle; a speck.",
+        "ko": "티끌, 작은 입자",
+        "synonyms": [
+          "speck",
+          "particle",
+          "fleck",
+          "grain"
+        ],
+        "examples": [
+          {
+            "text": "Dust motes drifted lazily through the beam of afternoon light in the attic.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 mot '모래알, 티끌'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "mountebank",
+    "score": 28,
+    "zipf": 1.68,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "One who sells by deception; a con artist.",
+        "ko": "사기꾼, 돌팔이",
+        "synonyms": [
+          "charlatan",
+          "quack",
+          "fraud",
+          "swindler",
+          "impostor"
+        ],
+        "examples": [
+          {
+            "text": "The traveling mountebank promised that his bottled tonic could cure every ailment known to man.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 monta-in-banco, 즉 '벤치 위에 올라서'에서 왔습니다. 벤치에 올라 약을 팔던 돌팔이를 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

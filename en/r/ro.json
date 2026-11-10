@@ -1,0 +1,367 @@
+[
+  {
+    "word": "robust",
+    "score": 38,
+    "zipf": 3.94,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "strong enough to withstand or overcome intellectual challenges or adversity",
+        "ko": "견고한, 탄탄한, 흔들림 없는",
+        "synonyms": [
+          "resilient",
+          "sturdy",
+          "solid",
+          "vigorous"
+        ],
+        "examples": [
+          {
+            "text": "the experiment yielded robust results",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "sturdy and strong in form, constitution, or construction",
+        "ko": "튼튼한, 강건한",
+        "synonyms": [
+          "sturdy",
+          "strong",
+          "hardy",
+          "vigorous"
+        ],
+        "examples": [
+          {
+            "text": "He was a robust man of six feet four.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "robust"
+    ],
+    "origin": {
+      "ko": "라틴어 rōbustus(참나무처럼 단단한)에서 왔습니다. 굳센 참나무가 튼튼함의 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rococo",
+    "score": 67,
+    "zipf": 2.59,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having excessive asymmetrical ornamentation",
+        "ko": "과도하게 장식적인, 로코코풍의",
+        "synonyms": [
+          "ornate",
+          "baroque",
+          "florid",
+          "elaborate"
+        ],
+        "examples": [
+          {
+            "text": "The novelist's rococo prose, crowded with ornate clauses, wearied even her admirers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "fanciful but graceful asymmetric ornamentation in art and architecture that originated in France in the 18th century",
+        "ko": "로코코 양식",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "They built a rococo aedicule that stands around the Tomb today.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 rococo를 빌려온 말로, 18세기의 화려한 장식 양식을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "roil",
+    "score": 29,
+    "zipf": 1.83,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To annoy; to make angry; to throw into discord.",
+        "ko": "화나게 하다, 혼란에 빠뜨리다",
+        "synonyms": [
+          "irritate",
+          "rile",
+          "agitate",
+          "disturb"
+        ],
+        "examples": [
+          {
+            "text": "The controversial ruling continued to roil the political establishment for weeks.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "be agitated",
+        "ko": "휘몰아치다, 소용돌이치다",
+        "synonyms": [
+          "churn",
+          "boil",
+          "seethe"
+        ],
+        "examples": [
+          {
+            "text": "The harbor began to roil as the storm front moved in from the west.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To render turbid by stirring up the dregs or sediment of.",
+        "ko": "(침전물을 휘저어) 탁하게 하다",
+        "synonyms": [
+          "stir up",
+          "muddy",
+          "agitate"
+        ],
+        "examples": [
+          {
+            "text": "to roil a spring",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "어원이 확실하지 않으나 프랑스어 '녹, 진흙'과 관련된다고 봅니다. 진흙탕을 휘저어 흐리게 한다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "roseate",
+    "score": 30,
+    "zipf": 1.93,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Rosy; optimistic.",
+        "ko": "낙관적인, 장밋빛의",
+        "synonyms": [
+          "rosy",
+          "optimistic",
+          "sanguine",
+          "hopeful"
+        ],
+        "examples": [
+          {
+            "text": "Nothing could have seemed more assured and roseate than her professional future.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Like the rose flower; pink; rosy.",
+        "ko": "장밋빛의, 분홍빛의",
+        "synonyms": [
+          "pink",
+          "rosy",
+          "pinkish"
+        ],
+        "examples": [
+          {
+            "text": "The mountains glowed a roseate hue in the first light of dawn.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ros",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "장미(rose)에 -ate가 붙어 '장밋빛의'가 되었고, 거기서 낙관적이라는 뜻이 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "rout",
+    "score": 30,
+    "zipf": 3.09,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an overwhelming defeat",
+        "ko": "완패, 참패",
+        "synonyms": [
+          "drubbing",
+          "trouncing",
+          "thrashing",
+          "debacle"
+        ],
+        "examples": [
+          {
+            "text": "The election became a rout, with the incumbent party losing nearly every contested seat.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "defeat disastrously",
+        "ko": "참패시키다, 완파하다",
+        "synonyms": [
+          "trounce",
+          "crush",
+          "thrash",
+          "vanquish"
+        ],
+        "examples": [
+          {
+            "text": "The home team routed its rivals in the final, winning by more than thirty points.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "cause to flee",
+        "ko": "몰아내다, 쫓아내다",
+        "synonyms": [
+          "expel",
+          "dislodge",
+          "oust"
+        ],
+        "examples": [
+          {
+            "text": "rout out the fighters from their caves",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "rupt"
+    ],
+    "origin": {
+      "ko": "라틴어 rumpere(부수다)에서 온 프랑스어 route(패주)에서 왔습니다. 진영이 깨져 흩어지는 완패입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "row",
+    "score": 16,
+    "zipf": 4.6,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an angry dispute",
+        "ko": "말다툼, 언쟁",
+        "synonyms": [
+          "quarrel",
+          "wrangle",
+          "squabble",
+          "spat"
+        ],
+        "examples": [
+          {
+            "text": "The two neighbors had a bitter row over the boundary fence that lasted for months.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "an arrangement of objects or people side by side in a line",
+        "ko": "줄, 열",
+        "synonyms": [
+          "line",
+          "column",
+          "tier"
+        ],
+        "examples": [
+          {
+            "text": "a row of chairs",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "기원이 분명하지 않습니다. 말다툼의 row는 소란을 뜻하는 별개의 말로 보입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

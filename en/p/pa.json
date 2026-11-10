@@ -1,0 +1,2499 @@
+[
+  {
+    "word": "pacifist",
+    "score": 30,
+    "zipf": 3.07,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "someone opposed to violence as a means of settling disputes",
+        "ko": "평화주의자, 반전론자",
+        "synonyms": [
+          "dove",
+          "peacemonger"
+        ],
+        "examples": [
+          {
+            "text": "As a committed pacifist, she refused to join the army even when conscription was introduced.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pac",
+      "-ist"
+    ],
+    "origin": {
+      "ko": "프랑스어 pacifiste에서 왔으며, pacific(평화로운)에 -ist가 붙었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pacify",
+    "score": 66,
+    "zipf": 2.73,
+    "lists": [
+      "GregMat",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To mollify, placate or soothe (someone or something).",
+        "ko": "달래다, 진정시키다",
+        "synonyms": [
+          "appease",
+          "placate",
+          "mollify",
+          "assuage",
+          "conciliate"
+        ],
+        "examples": [
+          {
+            "text": "The manager offered a full refund to pacify the furious customer.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "fight violence and try to establish peace in (a location)",
+        "ko": "평정하다, 진압하다",
+        "synonyms": [
+          "subdue",
+          "quell"
+        ],
+        "examples": [
+          {
+            "text": "The U.N. troops are working to pacify Bosnia",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pac",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "중세 프랑스어 pacifier에서 왔고, 라틴어로 '평화(pāx)를 만들다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "paean",
+    "score": 35,
+    "zipf": 2.41,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An enthusiastic expression of praise.",
+        "ko": "찬가, 열렬한 찬사",
+        "synonyms": [
+          "encomium",
+          "panegyric",
+          "eulogy",
+          "tribute"
+        ],
+        "examples": [
+          {
+            "text": "The review was a paean to the novelist's gift for capturing everyday life.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 Paián은 의술의 신 아폴론에게 바치던 승전 찬가였습니다. 여기서 열렬한 찬사를 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "painstaking",
+    "score": 32,
+    "zipf": 2.93,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by extreme care and great effort",
+        "ko": "공들인, 세심한",
+        "synonyms": [
+          "meticulous",
+          "scrupulous",
+          "conscientious",
+          "assiduous"
+        ],
+        "examples": [
+          {
+            "text": "The restorers did painstaking work to repair the fragile frescoes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "pains(수고)와 taking(들이다)을 합친 말로, 수고를 아끼지 않는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "palatable",
+    "score": 46,
+    "zipf": 3.06,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Tolerable, acceptable.",
+        "ko": "받아들일 만한, 용인할 수 있는",
+        "synonyms": [
+          "acceptable",
+          "agreeable",
+          "tolerable"
+        ],
+        "examples": [
+          {
+            "text": "The agreement was palatable to both of them.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Pleasing to the taste, tasty.",
+        "ko": "맛 좋은, 입에 맞는",
+        "synonyms": [
+          "tasty",
+          "appetizing",
+          "delectable"
+        ],
+        "examples": [
+          {
+            "text": "The hospital tried to make its meals more palatable for patients.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-able"
+    ]
+  },
+  {
+    "word": "palatial",
+    "score": 67,
+    "zipf": 2.61,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "suitable for or like a palace",
+        "ko": "궁전 같은, 웅장하고 호화로운",
+        "synonyms": [
+          "magnificent",
+          "opulent",
+          "grand",
+          "sumptuous"
+        ],
+        "examples": [
+          {
+            "text": "palatial furnishings",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "palat",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 palātium '궁전'에서 왔고, 로마 팔라티누스 언덕에 황제의 궁전이 있었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "palaver",
+    "score": 33,
+    "zipf": 2.18,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "loud and confused and empty talk",
+        "ko": "쓸데없는 수다, 허튼소리",
+        "synonyms": [
+          "babble",
+          "chatter",
+          "hot air",
+          "prattle"
+        ],
+        "examples": [
+          {
+            "text": "The senator's speech was mostly palaver, offering no concrete plan for reform.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "influence or urge by gentle urging, caressing, or flattering",
+        "ko": "감언으로 구슬리다, 아첨하다",
+        "synonyms": [
+          "cajole",
+          "wheedle",
+          "coax",
+          "flatter"
+        ],
+        "examples": [
+          {
+            "text": "He palavered her into going along",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Mentally draining activity, either physical or fuss.",
+        "ko": "야단법석, 번거로운 일",
+        "synonyms": [
+          "fuss",
+          "ado",
+          "bother",
+          "rigmarole"
+        ],
+        "examples": [
+          {
+            "text": "What a palaver!",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "para-",
+      "bol"
+    ],
+    "origin": {
+      "ko": "포르투갈어 palavra '말'에서 왔고, 라틴어 parabola '비유'가 원형입니다. 선원 은어로 쓰이다가 쓸데없는 수다를 뜻하게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "palimpsest",
+    "score": 32,
+    "zipf": 2.05,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a manuscript (usually written on papyrus or parchment) on which more than one text has been written with the earlier writing incompletely erased and still visible",
+        "ko": "겹쳐 쓴 고문서, 재사용 양피지",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "Scholars used ultraviolet light to read the original prayer book beneath the medieval palimpsest.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Something bearing the traces of an earlier, erased form.",
+        "ko": "이전 흔적이 남아 있는 것",
+        "synonyms": [
+          "layered record"
+        ],
+        "examples": [
+          {
+            "text": "The old city is a palimpsest, with Roman walls still visible beneath its medieval streets.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "palin-",
+      "psest"
+    ],
+    "origin": {
+      "ko": "그리스어 palímpsēstos '다시 긁어낸'에서 왔습니다. 쓴 글을 긁어내고 다시 쓴 양피지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pall",
+    "score": 32,
+    "zipf": 2.93,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "lose strength or effectiveness; become or appear boring, insipid, or tiresome (to)",
+        "ko": "시시해지다, 싫증나다",
+        "synonyms": [
+          "cloy",
+          "tire",
+          "bore",
+          "jade"
+        ],
+        "examples": [
+          {
+            "text": "the course palled on her",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Something that covers or surrounds like a cloak; in particular, a cloud of dust, smoke, etc., or a feeling of fear, gloom, or suspicion.",
+        "ko": "어둡게 드리운 기운, 침울한 분위기",
+        "synonyms": [
+          "cloud",
+          "gloom",
+          "shroud",
+          "veil"
+        ],
+        "examples": [
+          {
+            "text": "The early election results cast a pall over what was supposed to be a celebration.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "appall(맥이 빠지게 하다)이 줄어든 말로 보입니다. 힘이 빠져 시들해지고 싫증난다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "palliate",
+    "score": 56,
+    "zipf": 1.33,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "lessen or to try to lessen the seriousness or extent of",
+        "ko": "(죄·잘못을) 경감하다, 둘러대다",
+        "synonyms": [
+          "extenuate",
+          "mitigate",
+          "gloss over",
+          "downplay"
+        ],
+        "examples": [
+          {
+            "text": "The company tried to palliate its mistake with a hasty apology.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "provide physical relief, as from pain",
+        "ko": "(증상을) 완화하다",
+        "synonyms": [
+          "alleviate",
+          "relieve",
+          "assuage",
+          "ease"
+        ],
+        "examples": [
+          {
+            "text": "The drug does not cure the disease but can palliate its worst symptoms.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "palli",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 palliō '망토로 덮다'에서 왔고, pallium은 '망토'입니다. 문제를 망토로 덮어 가볍게 보이게 한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pallid",
+    "score": 67,
+    "zipf": 2.38,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "abnormally deficient in color as suggesting physical or emotional distress",
+        "ko": "창백한, 핏기 없는",
+        "synonyms": [
+          "pale",
+          "wan",
+          "ashen",
+          "pasty"
+        ],
+        "examples": [
+          {
+            "text": "the pallid face of the invalid",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "lacking in vitality or interest or effectiveness",
+        "ko": "활기 없는, 생기 없는",
+        "synonyms": [
+          "insipid",
+          "lifeless",
+          "colorless",
+          "vapid"
+        ],
+        "examples": [
+          {
+            "text": "The sequel was a pallid imitation of the original film.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pall",
+      "-id"
+    ],
+    "origin": {
+      "ko": "라틴어 pallidus '창백한'에서 왔으며 pale과 같은 뿌리입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "palpable",
+    "score": 29,
+    "zipf": 3.19,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "clearly revealed to the mind or the senses or judgment",
+        "ko": "명백한, 뚜렷한",
+        "synonyms": [
+          "evident",
+          "manifest",
+          "obvious",
+          "patent",
+          "unmistakable"
+        ],
+        "examples": [
+          {
+            "text": "There was a palpable sense of relief in the room after the verdict.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Capable of being touched, felt or handled; touchable, tangible.",
+        "ko": "만질 수 있는, 실체가 있는",
+        "synonyms": [
+          "tangible",
+          "tactile",
+          "touchable"
+        ],
+        "examples": [
+          {
+            "text": "Osric: A hit, a very palpable hit.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "palp",
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 palpābilis에서 왔고, palpō는 '부드럽게 만지다'입니다. 손으로 만질 수 있을 만큼 뚜렷하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "palpitate",
+    "score": 24,
+    "zipf": 1.26,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "beat rapidly",
+        "ko": "두근거리다, 빠르게 뛰다",
+        "synonyms": [
+          "flutter",
+          "throb",
+          "pound"
+        ],
+        "examples": [
+          {
+            "text": "His heart palpitated",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "shake with fast, tremulous movements",
+        "ko": "떨다, 전율하다",
+        "synonyms": [
+          "quiver",
+          "quake",
+          "tremble"
+        ],
+        "examples": [
+          {
+            "text": "His nostrils palpitated",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 palpitō '떨다, 두근거리다'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "panacea",
+    "score": 65,
+    "zipf": 2.78,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A solution to all problems.",
+        "ko": "만병통치약, 만능 해결책",
+        "synonyms": [
+          "cure-all",
+          "nostrum",
+          "elixir",
+          "catholicon"
+        ],
+        "examples": [
+          {
+            "text": "A monorail will be a panacea for our traffic woes.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pan-",
+      "ace"
+    ],
+    "origin": {
+      "ko": "그리스어 panákeia '모든 것을 고치는'에서 왔습니다. 모든 병과 문제를 해결하는 만병통치약입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "panache",
+    "score": 82,
+    "zipf": 2.66,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "distinctive and stylish elegance",
+        "ko": "멋, 기세 있는 세련됨",
+        "synonyms": [
+          "flair",
+          "dash",
+          "elan",
+          "verve",
+          "style"
+        ],
+        "examples": [
+          {
+            "text": "The pianist performed the difficult concerto with remarkable panache.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어로 '투구에 꽂은 깃털 장식'이라는 뜻입니다. 깃털을 꽂은 듯 멋과 기세가 있는 모습이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "panegyric",
+    "score": 63,
+    "zipf": 2.0,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A formal speech publicly praising someone or something.",
+        "ko": "찬사, 칭송 연설",
+        "synonyms": [
+          "eulogy",
+          "encomium",
+          "paean",
+          "tribute"
+        ],
+        "examples": [
+          {
+            "text": "The biography reads less like history than a long panegyric to the founder.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "formally expressing praise",
+        "ko": "찬양하는, 칭송의",
+        "synonyms": [
+          "encomiastic",
+          "eulogistic",
+          "laudatory"
+        ],
+        "examples": [
+          {
+            "text": "The critic's panegyric tone left no room for any real criticism.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pan-",
+      "gyr",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "그리스어 panēgyrikos '대중 집회의'에서 왔습니다. 모두가 모인 자리에서 하는 칭송 연설입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "panoply",
+    "score": 50,
+    "zipf": 2.32,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a complete and impressive array",
+        "ko": "화려하고 방대한 모음, 총집합",
+        "synonyms": [
+          "array",
+          "range",
+          "display",
+          "spectrum"
+        ],
+        "examples": [
+          {
+            "text": "The festival offered a dazzling panoply of music, dance, and street food.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Something that covers and protects.",
+        "ko": "보호막, 방어 수단",
+        "synonyms": [
+          "armor",
+          "shield",
+          "protection"
+        ],
+        "examples": [
+          {
+            "text": "A panoply of legal safeguards protects whistleblowers from retaliation.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pan-",
+      "opl"
+    ],
+    "origin": {
+      "ko": "그리스어 panoplía '갑옷 한 벌'에서 왔습니다. 완전히 갖춘 장비 일체라는 뜻이 화려한 총집합으로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "parable",
+    "score": 30,
+    "zipf": 3.1,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A short narrative illustrating a lesson (usually religious/moral) by comparison or analogy.",
+        "ko": "우화, 비유담",
+        "synonyms": [
+          "fable",
+          "allegory",
+          "apologue"
+        ],
+        "examples": [
+          {
+            "text": "The teacher used a parable about a lost sheep to illustrate forgiveness.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "para-",
+      "bol"
+    ],
+    "origin": {
+      "ko": "그리스어 parabolḗ '비교'에서 왔습니다. 두 가지를 나란히 놓고 견주어 교훈을 주는 이야기입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "paradigm",
+    "score": 25,
+    "zipf": 3.61,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A pattern, a way of doing something; especially a pattern of thought, a system of beliefs, a conceptual framework.",
+        "ko": "패러다임, 사고의 틀",
+        "synonyms": [
+          "framework",
+          "model",
+          "worldview"
+        ],
+        "examples": [
+          {
+            "text": "Darwin's theory overturned the dominant paradigm of fixed species.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a standard or typical example",
+        "ko": "전형, 모범 사례",
+        "synonyms": [
+          "prototype",
+          "exemplar",
+          "archetype",
+          "epitome"
+        ],
+        "examples": [
+          {
+            "text": "The Roman Republic became a paradigm of balanced government for later political thinkers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "para-",
+      "deik"
+    ],
+    "origin": {
+      "ko": "그리스어 parádeigma '본보기'에서 왔습니다. 옆에 놓고 견주도록 보여 주는 모범 틀이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "paradigmatic",
+    "score": 33,
+    "zipf": 2.16,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of or relating to a typical example",
+        "ko": "전형적인, 모범이 되는",
+        "synonyms": [
+          "exemplary",
+          "archetypal",
+          "representative",
+          "model"
+        ],
+        "examples": [
+          {
+            "text": "Her career is paradigmatic of the struggles facing first-generation immigrants.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "para-",
+      "deik",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "프랑스어 paradigmatique에서 왔고, 그리스어 '본보기'가 원형입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "paradox",
+    "score": 41,
+    "zipf": 3.63,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A counterintuitive conclusion or outcome.",
+        "ko": "역설, 모순적인 결과",
+        "synonyms": [
+          "contradiction",
+          "anomaly",
+          "enigma"
+        ],
+        "examples": [
+          {
+            "text": "It is an interesting paradox that drinking a lot of water can often make you feel thirsty.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A person or thing having contradictory properties.",
+        "ko": "모순된 성질을 지닌 사람·사물",
+        "synonyms": [
+          "enigma",
+          "anomaly",
+          "puzzle"
+        ],
+        "examples": [
+          {
+            "text": "He is a paradox; you would not expect him in that political party.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "para-",
+      "dox"
+    ],
+    "origin": {
+      "ko": "그리스어 parádoxos '예상 밖의'에서 왔습니다. 통념에서 벗어난 의견이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "paradoxical",
+    "score": 48,
+    "zipf": 2.88,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "seemingly contradictory but nonetheless possibly true",
+        "ko": "역설적인, 모순돼 보이는",
+        "synonyms": [
+          "contradictory",
+          "self-contradictory",
+          "anomalous"
+        ],
+        "examples": [
+          {
+            "text": "it is paradoxical that standing is more tiring than walking",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "para-",
+      "dox",
+      "-ical"
+    ],
+    "origin": {
+      "ko": "paradox(통념에서 벗어난 의견)에 -ical이 붙은 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "paragon",
+    "score": 78,
+    "zipf": 3.05,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "model of excellence or perfection of a kind; one having no equal",
+        "ko": "모범, 완벽의 본보기",
+        "synonyms": [
+          "epitome",
+          "ideal",
+          "nonpareil",
+          "exemplar",
+          "model"
+        ],
+        "examples": [
+          {
+            "text": "In the novel, Constanza is a paragon of virtue who would never compromise her reputation.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 paragonare '시금석에 대어 시험하다'에서 왔습니다. 시금석에 대도 가장 뛰어난 본보기라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "paraphernalia",
+    "score": 31,
+    "zipf": 2.97,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Miscellaneous items, especially the set of equipment required for a particular activity.",
+        "ko": "(잡다한) 도구 일체, 용품",
+        "synonyms": [
+          "gear",
+          "equipment",
+          "apparatus",
+          "trappings"
+        ],
+        "examples": [
+          {
+            "text": "He has an impressive collection of bicycling paraphernalia, but he doesn't ride very often anymore.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "para-",
+      "pher"
+    ],
+    "origin": {
+      "ko": "중세 라틴어로 아내가 지참금 외에 가져오는 개인 재산을 가리켰습니다. 여기서 이런저런 개인 용품 일체가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pare",
+    "score": 33,
+    "zipf": 2.79,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To reduce, diminish or trim gradually something as if by cutting off.",
+        "ko": "줄이다, 삭감하다",
+        "synonyms": [
+          "trim",
+          "reduce",
+          "cut back",
+          "prune"
+        ],
+        "examples": [
+          {
+            "text": "Albert had to pare his options down by disregarding anything beyond his meager budget.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "remove the skin from",
+        "ko": "껍질을 벗기다",
+        "synonyms": [
+          "peel",
+          "skin"
+        ],
+        "examples": [
+          {
+            "text": "Victor pared some apples in preparation to make a tart.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 parer '다듬다'에서 왔고, 라틴어 parō '준비하다'가 원형입니다. 겉을 깎아 다듬는 데서 점차 줄이다가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "parenthetical",
+    "score": 32,
+    "zipf": 2.15,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "qualifying or explaining; placed or as if placed in parentheses",
+        "ko": "삽입적인, 부연 설명하는",
+        "synonyms": [
+          "parenthetic",
+          "incidental",
+          "aside"
+        ],
+        "examples": [
+          {
+            "text": "The author's parenthetical remarks often contain the sharpest insights in the essay.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "para-",
+      "in-(안으로)",
+      "the(놓다)",
+      "-ical"
+    ],
+    "origin": {
+      "ko": "그리스어 parénthetos '곁에 끼워 넣은'에서 왔습니다. 문장 안에 덧붙여 넣은 설명이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pariah",
+    "score": 65,
+    "zipf": 2.76,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who is rejected (from society or home)",
+        "ko": "추방자, 사회적 기피 대상",
+        "synonyms": [
+          "outcast",
+          "castaway",
+          "leper",
+          "untouchable"
+        ],
+        "examples": [
+          {
+            "text": "After the scandal, the once-admired banker became a social pariah.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "타밀어 paṟaiyar에서 왔고, 원래 북(paṟai)을 치던 낮은 신분의 사람들을 가리켰습니다. 여기서 사회에서 배척당하는 사람이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "parity",
+    "score": 27,
+    "zipf": 3.41,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Equality; comparability of strength or intensity.",
+        "ko": "동등, 동격",
+        "synonyms": [
+          "equality",
+          "equivalence",
+          "par",
+          "parallelism"
+        ],
+        "examples": [
+          {
+            "text": "Women's groups are demanding pay parity with their male colleagues.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "par(같은)",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 pār '같은, 동등한'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "parley",
+    "score": 51,
+    "zipf": 2.61,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A conference, especially one between enemies.",
+        "ko": "(적과의) 협상, 회담",
+        "synonyms": [
+          "negotiation",
+          "talks",
+          "conference",
+          "palaver"
+        ],
+        "examples": [
+          {
+            "text": "The two commanders met under a white flag for a brief parley.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "discuss, as between enemies",
+        "ko": "협상하다, 담판 짓다",
+        "synonyms": [
+          "negotiate",
+          "confer",
+          "treat"
+        ],
+        "examples": [
+          {
+            "text": "The rebels agreed to parley with government envoys before the deadline.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 parler '말하다'에서 왔습니다. 적과 마주 앉아 말로 풀어 보는 회담입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "parochial",
+    "score": 63,
+    "zipf": 3.05,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "narrowly restricted in outlook or scope",
+        "ko": "편협한, 시야가 좁은",
+        "synonyms": [
+          "insular",
+          "provincial",
+          "narrow-minded",
+          "petty"
+        ],
+        "examples": [
+          {
+            "text": "little sympathy with parochial mentality",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "relating to or supported by or located in a parish",
+        "ko": "교구의, 지방 교구에 속한",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "parochial schools",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "para-",
+      "eco",
+      "-al"
+    ],
+    "origin": {
+      "ko": "그리스어 pároikos '이웃'에서 온 교구라는 말입니다. 한 교구의 좁은 범위에 갇혀 시야가 좁다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "parody",
+    "score": 23,
+    "zipf": 3.78,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A work or performance that imitates another work or performance with ridicule or irony.",
+        "ko": "패러디, 풍자적 모방",
+        "synonyms": [
+          "spoof",
+          "lampoon",
+          "satire",
+          "burlesque",
+          "travesty"
+        ],
+        "examples": [
+          {
+            "text": "The cabaret's parody of the president's speech had the audience roaring with laughter.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To make a parody of something.",
+        "ko": "패러디하다, 풍자적으로 흉내 내다",
+        "synonyms": [
+          "spoof",
+          "lampoon",
+          "mimic",
+          "burlesque"
+        ],
+        "examples": [
+          {
+            "text": "The comedy movie parodied the entire Western genre.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "para-",
+      "od(노래)"
+    ],
+    "origin": {
+      "ko": "그리스어 parōidía '곁에서 부르는 노래'에서 왔습니다. 원작 옆에서 흉내 내어 부르며 풍자하는 작품입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "parry",
+    "score": 59,
+    "zipf": 3.44,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+        "ko": "(질문·공격을) 받아넘기다, 회피하다",
+        "synonyms": [
+          "evade",
+          "dodge",
+          "sidestep",
+          "elude",
+          "fend off"
+        ],
+        "examples": [
+          {
+            "text": "The minister parried every question about the budget deficit.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To avoid, deflect, or ward off (an attack, a blow, an argument, etc.).",
+        "ko": "막아내다, 쳐내다",
+        "synonyms": [
+          "deflect",
+          "ward off",
+          "block",
+          "repel"
+        ],
+        "examples": [
+          {
+            "text": "She parried the blow with her forearm and stepped back.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 parāre '막다, 준비하다'에서 중세 라틴어와 프랑스어를 거쳐 왔습니다. 공격을 막아 받아넘긴다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "parsimonious",
+    "score": 81,
+    "zipf": 2.18,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "excessively unwilling to spend",
+        "ko": "인색한, 지나치게 아끼는",
+        "synonyms": [
+          "stingy",
+          "penurious",
+          "miserly",
+          "niggardly",
+          "tight-fisted"
+        ],
+        "examples": [
+          {
+            "text": "The parsimonious heir counted every coin and refused to hire any household help.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Using a minimal number of assumptions, steps, or conjectures.",
+        "ko": "(가정 등이) 간결한, 최소한만 쓰는",
+        "synonyms": [
+          "economical",
+          "spare",
+          "frugal"
+        ],
+        "examples": [
+          {
+            "text": "Scientists prefer the more parsimonious explanation when two theories fit the data equally well.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 parsimonia '절약'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "partial",
+    "score": 51,
+    "zipf": 4.17,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Biased in favor of a person, side, or point of view, especially when dealing with a competition or dispute.",
+        "ko": "편파적인, 한쪽으로 치우친",
+        "synonyms": [
+          "biased",
+          "prejudiced",
+          "partisan",
+          "one-sided"
+        ],
+        "examples": [
+          {
+            "text": "God is not partial; he does not play favorites.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Existing as a part or portion; incomplete.",
+        "ko": "부분적인, 불완전한",
+        "synonyms": [
+          "incomplete",
+          "fractional",
+          "limited"
+        ],
+        "examples": [
+          {
+            "text": "So far, I have only pieced together a partial account of the incident.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Having a predilection for something.",
+        "ko": "~을 매우 좋아하는",
+        "synonyms": [
+          "fond"
+        ],
+        "examples": [
+          {
+            "text": "not partial to an ostentatious display",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "part",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 pars '부분'에서 왔습니다. 전체가 아닌 한쪽 부분만 편드는 데서 '편파적인'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "partiality",
+    "score": 35,
+    "zipf": 2.36,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "Preference, bias in favor of, tendency.",
+        "ko": "편애, 편파",
+        "synonyms": [
+          "bias",
+          "favoritism",
+          "prejudice",
+          "partisanship"
+        ],
+        "examples": [
+          {
+            "text": "The judge's partiality towards the defendant caused him to be replaced, with someone who was apparently more neutral.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a predisposition to like something",
+        "ko": "특별한 애호, 편애",
+        "synonyms": [
+          "fondness",
+          "penchant",
+          "predilection",
+          "liking"
+        ],
+        "examples": [
+          {
+            "text": "The old professor had a well-known partiality for strong black tea.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "part",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 partiālitās에서 왔으며, 부분(한쪽)만 편드는 성향을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "partisan",
+    "score": 55,
+    "zipf": 3.81,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Devoted to or biased in support of a party, group, or cause.",
+        "ko": "당파적인, 편향된",
+        "synonyms": [
+          "biased",
+          "factional",
+          "sectarian"
+        ],
+        "examples": [
+          {
+            "text": "partisan politics",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a fervent and even militant proponent of something",
+        "ko": "열성적 지지자, 광신적 옹호자",
+        "synonyms": [
+          "zealot",
+          "adherent",
+          "champion",
+          "loyalist"
+        ],
+        "examples": [
+          {
+            "text": "The senator remained a fierce partisan of tax reform throughout her career.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "part",
+      "-an"
+    ],
+    "origin": {
+      "ko": "이탈리아어 partigiano '한 편의 옹호자'에서 왔고, parte는 '부분, 편'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "parvenu",
+    "score": 27,
+    "zipf": 1.58,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person who has suddenly risen to a higher economic status but has not gained social acceptance of others in that class",
+        "ko": "벼락출세한 사람, 졸부",
+        "synonyms": [
+          "upstart",
+          "nouveau riche",
+          "arriviste"
+        ],
+        "examples": [
+          {
+            "text": "Old-money families looked down on the parvenu who had bought the estate.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "per-",
+      "ven(오다)"
+    ],
+    "origin": {
+      "ko": "프랑스어 parvenir '도달하다'의 과거분사로, 라틴어 perveniō '이르다'가 원형입니다. 갑자기 높은 자리에 올라선 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "passage",
+    "score": 18,
+    "zipf": 4.27,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a section of text; particularly a section of medium length",
+        "ko": "(글의) 구절, 대목",
+        "synonyms": [
+          "excerpt",
+          "extract",
+          "section",
+          "paragraph"
+        ],
+        "examples": [
+          {
+            "text": "The test asks students to read a short passage and summarize its central argument.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The advance of time.",
+        "ko": "(시간의) 흐름, 경과",
+        "synonyms": [
+          "passing",
+          "progress",
+          "lapse"
+        ],
+        "examples": [
+          {
+            "text": "The passage of decades has not erased the value of parental monitoring.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the passing of a law by a legislative body",
+        "ko": "(법안의) 통과",
+        "synonyms": [
+          "enactment",
+          "adoption"
+        ],
+        "examples": [
+          {
+            "text": "The company was one of the prime movers in lobbying for the passage of the act.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pass(지나가다)",
+      "-age"
+    ],
+    "origin": {
+      "ko": "옛 프랑스어 passage에서 왔고, passer '지나가다'에서 나왔습니다. 글 속을 지나가는 한 구간이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "passe",
+    "score": 36,
+    "zipf": 2.53,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "out of fashion",
+        "ko": "시대에 뒤떨어진, 한물간",
+        "synonyms": [
+          "outmoded",
+          "old-fashioned",
+          "dated",
+          "obsolete"
+        ],
+        "examples": [
+          {
+            "text": "Critics claimed that the grand narrative style had become passe by the 1980s.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 passé '지나간'에서 왔습니다. 시대가 지나간 한물간 것이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pastiche",
+    "score": 68,
+    "zipf": 2.52,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "An incongruous mixture; a hodgepodge.",
+        "ko": "뒤죽박죽 혼합물, 짜깁기",
+        "synonyms": [
+          "hodgepodge",
+          "medley",
+          "patchwork",
+          "jumble"
+        ],
+        "examples": [
+          {
+            "text": "The house failed to attract a buyer because the decor was a pastiche of Bohemian and Scandinavian styles.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a work of art that imitates the style of some previous work",
+        "ko": "모작, 양식을 모방한 작품",
+        "synonyms": [
+          "imitation",
+          "homage",
+          "takeoff"
+        ],
+        "examples": [
+          {
+            "text": "The film is a loving pastiche of 1940s detective stories.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 pasticcio '여러 재료를 섞은 파이'에서 왔습니다. 이것저것 섞은 짜깁기라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pastoral",
+    "score": 42,
+    "zipf": 3.54,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(used with regard to idealized country life) idyllically rustic",
+        "ko": "전원적인, 목가적인",
+        "synonyms": [
+          "bucolic",
+          "rustic",
+          "arcadian",
+          "idyllic"
+        ],
+        "examples": [
+          {
+            "text": "The painter's pastoral landscapes show sheep grazing beside quiet streams.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a literary work idealizing the rural life (especially the life of shepherds)",
+        "ko": "전원문학, 목가시",
+        "synonyms": [
+          "idyll",
+          "eclogue"
+        ],
+        "examples": [
+          {
+            "text": "Virgil's pastoral poems helped establish a lasting literary tradition.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "past",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 pāstōrālis '목자의'에서 왔고, pāstor는 '양치기'입니다. 양치기가 있는 목가적 전원을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "patent",
+    "score": 51,
+    "zipf": 4.18,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "clearly revealed to the mind or the senses or judgment",
+        "ko": "명백한, 분명한",
+        "synonyms": [
+          "evident",
+          "obvious",
+          "manifest",
+          "palpable",
+          "blatant"
+        ],
+        "examples": [
+          {
+            "text": "It was patent to everyone in the room that the witness was lying.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a document granting an inventor sole rights to an invention",
+        "ko": "특허(권)",
+        "synonyms": [
+          "license",
+          "copyright"
+        ],
+        "examples": [
+          {
+            "text": "The firm filed a patent for its new battery design.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pat(열림)",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 patēns '열린, 명백한'에서 왔고, pateō는 '열려 있다'입니다. 활짝 열려 누구 눈에나 분명하다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pathogenic",
+    "score": 31,
+    "zipf": 2.96,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "able to cause disease",
+        "ko": "병을 일으키는, 병원성의",
+        "synonyms": [
+          "disease-causing",
+          "infective",
+          "morbific"
+        ],
+        "examples": [
+          {
+            "text": "While the environment is teeming with bacteria and fungi, most are not pathogenic.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "patho-",
+      "gen",
+      "-ic"
+    ],
+    "origin": {
+      "ko": "patho-(병)와 -genic(~을 낳는)을 합친 말로, 병을 일으킨다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "pathological",
+    "score": 43,
+    "zipf": 3.36,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "caused by or evidencing a mentally disturbed condition",
+        "ko": "병적인, 비정상적인",
+        "synonyms": [
+          "compulsive",
+          "obsessive",
+          "morbid"
+        ],
+        "examples": [
+          {
+            "text": "a pathological liar",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "caused by or altered by or manifesting disease or pathology",
+        "ko": "질병에 의한, 병리학적인",
+        "synonyms": [
+          "diseased",
+          "morbid",
+          "pathologic"
+        ],
+        "examples": [
+          {
+            "text": "The biopsy revealed pathological changes in the liver tissue.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "patho-",
+      "log",
+      "-ical"
+    ],
+    "origin": {
+      "ko": "그리스어 páskhō '겪다'와 -logía '학문'에서 나온 말로, 병을 다루는 학문에서 병적인 상태를 가리키게 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "patriarch",
+    "score": 28,
+    "zipf": 3.31,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the male head of family or tribe",
+        "ko": "가부장, 족장",
+        "synonyms": [
+          "paterfamilias",
+          "elder",
+          "head of family"
+        ],
+        "examples": [
+          {
+            "text": "The family patriarch, aged ninety, still presided over every holiday dinner.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A founder of a political or religious movement, an organization or an enterprise.",
+        "ko": "창시자, 원로",
+        "synonyms": [
+          "founder",
+          "father",
+          "forefather"
+        ],
+        "examples": [
+          {
+            "text": "He is regarded as the patriarch of modern environmental policy.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "patri-",
+      "-arch"
+    ],
+    "origin": {
+      "ko": "그리스어 patriárkhēs '씨족의 창시자'에서 왔습니다. 아버지 같은 가문의 우두머리라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "patrician",
+    "score": 35,
+    "zipf": 2.64,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "belonging to or characteristic of the nobility or aristocracy",
+        "ko": "귀족적인, 상류층의",
+        "synonyms": [
+          "aristocratic",
+          "noble",
+          "blue-blooded",
+          "highborn"
+        ],
+        "examples": [
+          {
+            "text": "Her patrician bearing and clipped accent marked her as old money.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a member of the aristocracy",
+        "ko": "귀족",
+        "synonyms": [
+          "aristocrat",
+          "noble",
+          "blue blood"
+        ],
+        "examples": [
+          {
+            "text": "The emperor elevated several loyal families to the status of patricians.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "patr(아버지)",
+      "-an"
+    ],
+    "origin": {
+      "ko": "라틴어 patricius에서 왔고, 로마 원로원 의원 '아버지들(patrēs)'에서 나온 말입니다. 로마 귀족 계층을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "patronize",
+    "score": 66,
+    "zipf": 2.72,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To treat condescendingly; to talk down to.",
+        "ko": "깔보듯 대하다, 생색내다",
+        "synonyms": [
+          "condescend",
+          "talk down to",
+          "belittle"
+        ],
+        "examples": [
+          {
+            "text": "Please don't patronize me; I understand the contract perfectly well.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To act as a patron of; to defend, protect, or support.",
+        "ko": "후원하다, 지원하다",
+        "synonyms": [
+          "sponsor",
+          "support",
+          "back",
+          "champion"
+        ],
+        "examples": [
+          {
+            "text": "Wealthy merchants patronized the young painter and funded his studies in Rome.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To be a customer of (an establishment), especially a regular customer.",
+        "ko": "단골로 이용하다",
+        "synonyms": [
+          "frequent",
+          "shop at"
+        ],
+        "examples": [
+          {
+            "text": "Locals still patronize the old bakery on the corner every morning.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "patr(아버지)",
+      "-ize"
+    ],
+    "origin": {
+      "ko": "patron(후원자)에 -ize가 붙은 말입니다. 후원자인 양 아랫사람 대하듯 한다는 데서 깔보는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "patronizing",
+    "score": 33,
+    "zipf": 2.78,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(used of behavior or attitude) characteristic of those who treat others with condescension",
+        "ko": "생색내는, 깔보는 듯한",
+        "synonyms": [
+          "condescending",
+          "supercilious",
+          "haughty"
+        ],
+        "examples": [
+          {
+            "text": "Her patronizing tone made the junior engineers feel their ideas were worthless.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "paucity",
+    "score": 67,
+    "zipf": 2.61,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "an insufficient quantity or number",
+        "ko": "결핍, 부족",
+        "synonyms": [
+          "dearth",
+          "scarcity",
+          "shortage",
+          "paltriness"
+        ],
+        "examples": [
+          {
+            "text": "The study was criticized for the paucity of data supporting its conclusions.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "pauc",
+      "-ity"
+    ],
+    "origin": {
+      "ko": "라틴어 paucitās '소수, 부족'에서 왔고, paucus는 '적은'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "word": "ominous",
+    "score": 59,
+    "zipf": 3.4,
+    "lists": [
+      "GregMat",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "threatening or foreshadowing evil or tragic developments",
+        "ko": "불길한, 불온한",
+        "synonyms": [
+          "menacing",
+          "foreboding",
+          "sinister",
+          "baleful",
+          "portentous"
+        ],
+        "examples": [
+          {
+            "text": "Ominous clouds gathered over the harbor as the fleet prepared to leave.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "omin",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 ōminōsus '징조로 가득한'에서 왔고, ōmen은 '전조'입니다. 나쁜 일이 올 징조라는 뜻이 불길함이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "omnipresent",
+    "score": 33,
+    "zipf": 2.79,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Being everywhere simultaneously.",
+        "ko": "편재하는, 어디에나 있는",
+        "synonyms": [
+          "ubiquitous",
+          "pervasive",
+          "universal"
+        ],
+        "examples": [
+          {
+            "text": "Smartphones have become omnipresent, shaping how people work, travel, and even sleep.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "omni-",
+      "pres"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 omnipraesēns에서 왔습니다. 모든 곳에 존재한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "omniscient",
+    "score": 34,
+    "zipf": 2.71,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Having total knowledge.",
+        "ko": "전지의, 모든 것을 아는",
+        "synonyms": [
+          "all-knowing",
+          "all-seeing"
+        ],
+        "examples": [
+          {
+            "text": "The story was narrated from an omniscient point of view.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "omni-",
+      "sci",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 omnisciens '모든 것을 아는'에서 왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

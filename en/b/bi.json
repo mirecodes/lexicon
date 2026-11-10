@@ -1,0 +1,172 @@
+[
+  {
+    "word": "bifurcate",
+    "score": 44,
+    "zipf": 1.72,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "split or divide into two",
+        "ko": "둘로 갈라지다, 둘로 나누다",
+        "synonyms": [
+          "fork",
+          "divide",
+          "split"
+        ],
+        "examples": [
+          {
+            "text": "The debate began to bifurcate into two camps, one favoring reform and the other resisting it.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "resembling a fork; divided or separated into two branches",
+        "ko": "두 갈래로 갈라진",
+        "synonyms": [
+          "forked",
+          "branched",
+          "two-pronged"
+        ],
+        "examples": [
+          {
+            "text": "The bifurcate river split around the island before rejoining downstream.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "bi-",
+      "furc"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 bifurcātus에서 왔습니다. '두 갈래(포크 모양)로 나뉜'이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bilious",
+    "score": 47,
+    "zipf": 2.03,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Peevishly ill-humored, irritable or bad tempered; irascible.",
+        "ko": "성마른, 심술궂은",
+        "synonyms": [
+          "irascible",
+          "peevish",
+          "testy",
+          "splenetic",
+          "cranky"
+        ],
+        "examples": [
+          {
+            "text": "The bilious critic dismissed the entire exhibition in a single sneering paragraph.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "suffering from or suggesting a liver disorder or gastric distress",
+        "ko": "담즙 과다의, 속이 불편한",
+        "synonyms": [
+          "liverish",
+          "dyspeptic"
+        ],
+        "examples": [
+          {
+            "text": "After the heavy banquet he felt bilious and retired early to his room.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "bil(담즙)",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 bīliōsus('담즙이 가득한')에서 왔습니다. 담즙이 넘치면 성미가 까칠해진다고 보았습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "bilk",
+    "score": 48,
+    "zipf": 2.07,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cheat somebody out of what is due, especially money",
+        "ko": "속여서 빼앗다, 떼먹다",
+        "synonyms": [
+          "cheat",
+          "swindle",
+          "defraud",
+          "fleece"
+        ],
+        "examples": [
+          {
+            "text": "The contractor bilked dozens of homeowners out of their deposits and then vanished.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "hinder or prevent (the efforts, plans, or desires) of",
+        "ko": "좌절시키다, 방해하다",
+        "synonyms": [
+          "thwart",
+          "foil",
+          "frustrate",
+          "baffle"
+        ],
+        "examples": [
+          {
+            "text": "A sudden injury bilked the sprinter of her chance to defend her title.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "기원이 불확실하며 balk의 변형일 수 있다고 합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

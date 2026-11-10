@@ -1,0 +1,173 @@
+[
+  {
+    "word": "edict",
+    "score": 30,
+    "zipf": 3.1,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a formal or authoritative proclamation",
+        "ko": "포고령, 칙령, 명령",
+        "synonyms": [
+          "decree",
+          "proclamation",
+          "fiat",
+          "mandate"
+        ],
+        "examples": [
+          {
+            "text": "The emperor's edict banned all public gatherings in the capital.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ex-",
+      "dic"
+    ],
+    "origin": {
+      "ko": "라틴어 ēdictum(공포된 것)에서 왔습니다. 밖으로 말해 선포한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "edifice",
+    "score": 32,
+    "zipf": 2.93,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A building; a structure; an architectural fabric, especially a large and spectacular one.",
+        "ko": "대건축물, 웅장한 건물",
+        "synonyms": [
+          "building",
+          "structure",
+          "construction"
+        ],
+        "examples": [
+          {
+            "text": "The marble edifice dominated the skyline of the old financial district.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "An abstract structure, such as a school of thought, an argument, a theoretical position, etc.",
+        "ko": "(사상·이론의) 체계, 구조",
+        "synonyms": [
+          "system",
+          "framework",
+          "structure"
+        ],
+        "examples": [
+          {
+            "text": "The new evidence threatened to topple the entire edifice of the economist's theory.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "aedi",
+      "fac(만들다)"
+    ],
+    "origin": {
+      "ko": "라틴어 aedificium(건물)에서 왔습니다. 집을 짓는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "edify",
+    "score": 63,
+    "zipf": 1.96,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To instruct or improve morally or intellectually.",
+        "ko": "교화하다, 계몽하다, 가르쳐 향상시키다",
+        "synonyms": [
+          "enlighten",
+          "instruct",
+          "educate",
+          "uplift",
+          "improve"
+        ],
+        "examples": [
+          {
+            "text": "The museum aims to edify visitors as well as entertain them.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "aedi",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "라틴어 aedificāre(짓다)에서 왔습니다. 건물을 세우듯 마음과 지식을 쌓아 올려 '교화하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "edifying",
+    "score": 35,
+    "zipf": 2.44,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "enlightening or uplifting so as to encourage intellectual or moral improvement",
+        "ko": "교훈적인, 유익한",
+        "synonyms": [
+          "enlightening",
+          "instructive",
+          "improving",
+          "uplifting"
+        ],
+        "examples": [
+          {
+            "text": "The documentary was an edifying look at how ordinary citizens resisted the regime.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "aedi",
+      "-fy"
+    ]
+  }
+]

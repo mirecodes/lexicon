@@ -1,0 +1,649 @@
+[
+  {
+    "word": "table",
+    "score": 16,
+    "zipf": 5.05,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "hold back to a later time",
+        "ko": "보류하다, 연기하다",
+        "synonyms": [
+          "postpone",
+          "defer",
+          "shelve",
+          "delay"
+        ],
+        "examples": [
+          {
+            "text": "The committee voted to table the proposal until its next meeting.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a set of data arranged in rows and columns",
+        "ko": "표, 도표",
+        "synonyms": [
+          "chart",
+          "tabular array"
+        ],
+        "examples": [
+          {
+            "text": "The report includes a table comparing enrollment figures across the past decade.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 tabula(널빤지, 판)에서 왔습니다. 안건을 탁자 위에 올려 둔다는 데서 보류한다는 뜻이 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tacit",
+    "score": 64,
+    "zipf": 2.94,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "implied by or inferred from actions or statements",
+        "ko": "암묵적인, 무언의",
+        "synonyms": [
+          "implicit",
+          "unspoken",
+          "implied",
+          "understood"
+        ],
+        "examples": [
+          {
+            "text": "tacit consent",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tac"
+    ],
+    "origin": {
+      "ko": "라틴어 tacitus(말없이 넘어간)에서 왔고 tacere(침묵하다)와 이어집니다. 말하지 않아도 통하는 암묵적인 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "taciturn",
+    "score": 83,
+    "zipf": 2.37,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "habitually reserved and uncommunicative",
+        "ko": "과묵한, 말수가 적은",
+        "synonyms": [
+          "reticent",
+          "reserved",
+          "laconic",
+          "tight-lipped"
+        ],
+        "examples": [
+          {
+            "text": "The two sisters could hardly have been more different, one so boisterous and expressive, the other so taciturn and calm.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tac"
+    ],
+    "origin": {
+      "ko": "라틴어 taciturnus(말없는)에서 왔고 tacitus(침묵한)에서 나왔습니다. 말수가 적고 과묵한 성격입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tact",
+    "score": 46,
+    "zipf": 3.08,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "consideration in dealing with others and avoiding giving offense",
+        "ko": "요령, 눈치, 재치",
+        "synonyms": [
+          "diplomacy",
+          "discretion",
+          "delicacy",
+          "sensitivity"
+        ],
+        "examples": [
+          {
+            "text": "By the use of tact, she was able to calm her jealous husband.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tang"
+    ],
+    "origin": {
+      "ko": "라틴어 tāctus(만짐)에서 왔습니다. 섬세한 촉감처럼 남의 마음을 건드리지 않는 눈치가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tangent",
+    "score": 29,
+    "zipf": 3.19,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A course suddenly and unexpectedly divergent from one which was previously being followed (especially one embarked on before reaching the end of the previous course).",
+        "ko": "(화제의) 이탈, 탈선",
+        "synonyms": [
+          "digression",
+          "departure",
+          "aside"
+        ],
+        "examples": [
+          {
+            "text": "I believe we went off onto a tangent when we started talking about monkeys on unicycles at his retirement party.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a straight line or plane that touches a curve or curved surface at a point but does not intersect it at that point",
+        "ko": "접선",
+        "synonyms": [
+          "tangent line"
+        ],
+        "examples": [
+          {
+            "text": "A tangent to a circle meets the circle at exactly one point.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tang",
+      "-ant"
+    ],
+    "origin": {
+      "ko": "라틴어 tangēns(닿는)에서 왔습니다. 곡선에 살짝 닿고 비껴 나가는 선이라 화제 이탈이라는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tangential",
+    "score": 34,
+    "zipf": 2.73,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "of superficial relevance if any",
+        "ko": "별 관련 없는, 지엽적인",
+        "synonyms": [
+          "digressive",
+          "peripheral",
+          "incidental",
+          "irrelevant"
+        ],
+        "examples": [
+          {
+            "text": "That subject is tangential to our discussion, and we cannot let it distract us.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of or relating to or acting along or in the direction of a tangent",
+        "ko": "접선의, 접선 방향의",
+        "synonyms": [],
+        "examples": [
+          {
+            "text": "tangential forces",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tang",
+      "-ant",
+      "-al"
+    ],
+    "origin": {
+      "ko": "tangent(접선)에 -ial이 붙은 말입니다. 살짝 스치기만 하는 정도의 관련성입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tangible",
+    "score": 24,
+    "zipf": 3.66,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "capable of being perceived; especially capable of being handled or touched or felt",
+        "ko": "만져서 알 수 있는, 실체가 있는",
+        "synonyms": [
+          "palpable",
+          "touchable",
+          "tactile",
+          "concrete"
+        ],
+        "examples": [
+          {
+            "text": "The company could point to no tangible benefit from the expensive consulting project.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "capable of being treated as fact",
+        "ko": "명백한, 구체적인",
+        "synonyms": [
+          "real",
+          "concrete",
+          "actual",
+          "definite"
+        ],
+        "examples": [
+          {
+            "text": "tangible evidence",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "(of especially business assets) having physical substance and intrinsic monetary value",
+        "ko": "유형의 (자산)",
+        "synonyms": [
+          "material",
+          "physical"
+        ],
+        "examples": [
+          {
+            "text": "tangible assets such as machinery",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tang",
+      "-able"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 tangibilis에서 왔고 tangere(만지다)에서 나왔습니다. 만져서 알 수 있는 실체입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tantalizing",
+    "score": 34,
+    "zipf": 2.71,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "arousing desire or expectation for something unattainable or mockingly out of reach",
+        "ko": "감질나게 하는, 애타게 하는",
+        "synonyms": [
+          "teasing",
+          "tempting",
+          "enticing",
+          "provocative"
+        ],
+        "examples": [
+          {
+            "text": "a tantalizing taste of success",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "very pleasantly inviting",
+        "ko": "군침 도는, 매혹적인",
+        "synonyms": [
+          "tempting",
+          "alluring",
+          "appetizing"
+        ],
+        "examples": [
+          {
+            "text": "a tantalizing aroma",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ize"
+    ],
+    "origin": {
+      "ko": "그리스 신화 탄탈로스에서 왔습니다. 물과 과일이 눈앞에 있어도 닿지 못하는 벌을 받았습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tantamount",
+    "score": 48,
+    "zipf": 2.93,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "being essentially equal to something",
+        "ko": "~과 마찬가지인, 동등한",
+        "synonyms": [
+          "equivalent",
+          "equal",
+          "synonymous",
+          "akin"
+        ],
+        "examples": [
+          {
+            "text": "his statement was tantamount to an admission of guilt",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "이탈리아어 tanto montare(그만큼에 이르다)에서 왔다고 봅니다. 그만큼의 값에 해당해 마찬가지라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tarnish",
+    "score": 48,
+    "zipf": 2.85,
+    "lists": [
+      "GregMat",
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To compromise, damage, soil, or sully.",
+        "ko": "(명예 등을) 더럽히다, 손상시키다",
+        "synonyms": [
+          "sully",
+          "besmirch",
+          "taint",
+          "stain",
+          "blemish"
+        ],
+        "examples": [
+          {
+            "text": "He is afraid that she will tarnish his reputation if he disagrees with her.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To oxidize or discolor due to oxidation.",
+        "ko": "변색되다, 녹슬다",
+        "synonyms": [
+          "discolor",
+          "oxidize",
+          "dull"
+        ],
+        "examples": [
+          {
+            "text": "Careful storage of silver will prevent it from tarnishing.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 ternir(흐리게 하다)에서 왔습니다. 광택이 흐려져 얼룩진다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tarry",
+    "score": 35,
+    "zipf": 2.43,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be about a place without any apparent purpose",
+        "ko": "머뭇거리다, 어슬렁거리다",
+        "synonyms": [
+          "loiter",
+          "linger",
+          "dawdle",
+          "dally"
+        ],
+        "examples": [
+          {
+            "text": "The travelers tarried in the village square, reluctant to leave before sunset.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To delay; to be late or tardy in beginning or doing anything.",
+        "ko": "지체하다, 늦장 부리다",
+        "synonyms": [
+          "delay",
+          "dawdle",
+          "procrastinate",
+          "dilly-dally"
+        ],
+        "examples": [
+          {
+            "text": "For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 tarien(지연시키다, 괴롭히다)에서 왔습니다. 가지 않고 머뭇거린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "tawdry",
+    "score": 83,
+    "zipf": 2.44,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "tastelessly showy",
+        "ko": "번지르르한, 저속하게 화려한",
+        "synonyms": [
+          "gaudy",
+          "garish",
+          "flashy",
+          "brassy",
+          "cheap"
+        ],
+        "examples": [
+          {
+            "text": "It was all cheap and incredibly tawdry, from the festoons of paper roses on the walls to the flash of paste jewels in make-believe crowns.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "made of inferior workmanship and materials",
+        "ko": "조잡한, 싸구려의",
+        "synonyms": [
+          "shoddy",
+          "cheapjack",
+          "trashy"
+        ],
+        "examples": [
+          {
+            "text": "The tawdry souvenirs fell apart within a week of being bought.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "성 오드리(Audrey)의 장터에서 팔던 값싼 레이스 목걸이 'Saint Audrey lace'가 줄어든 말입니다. 싸구려라는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "taxing",
+    "score": 27,
+    "zipf": 3.41,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not easily borne; wearing",
+        "ko": "몹시 힘든, 부담스러운",
+        "synonyms": [
+          "burdensome",
+          "onerous",
+          "demanding",
+          "exhausting",
+          "arduous"
+        ],
+        "examples": [
+          {
+            "text": "a taxing problem",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "tax(세금)"
+    ]
+  }
+]

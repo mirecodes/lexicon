@@ -1,0 +1,260 @@
+[
+  {
+    "word": "willful",
+    "score": 30,
+    "zipf": 3.08,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "habitually disposed to disobedience and opposition",
+        "ko": "고집 센, 제멋대로인",
+        "synonyms": [
+          "headstrong",
+          "obstinate",
+          "stubborn",
+          "unruly",
+          "wayward"
+        ],
+        "examples": [
+          {
+            "text": "The willful child refused every suggestion simply because it came from an adult.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "done by design",
+        "ko": "고의적인",
+        "synonyms": [
+          "deliberate",
+          "intentional",
+          "premeditated"
+        ],
+        "examples": [
+          {
+            "text": "The company was fined for willful violations of the safety code.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ful"
+    ]
+  },
+  {
+    "word": "wily",
+    "score": 65,
+    "zipf": 2.8,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by skill in deception",
+        "ko": "교활한, 약삭빠른",
+        "synonyms": [
+          "cunning",
+          "crafty",
+          "sly",
+          "artful",
+          "guileful"
+        ],
+        "examples": [
+          {
+            "text": "The wily negotiator extracted concessions from his rivals without ever raising his voice.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "wile('꾀')에 -y를 붙인 말입니다. 꾀가 많아 '교활한'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "winnow",
+    "score": 30,
+    "zipf": 1.88,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "select desirable parts from a group or list",
+        "ko": "추려내다, 선별하다",
+        "synonyms": [
+          "sift",
+          "cull",
+          "sort out",
+          "screen"
+        ],
+        "examples": [
+          {
+            "text": "They winnowed the field to twelve.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "separate the chaff from grain by using air currents",
+        "ko": "(곡식을) 키질하여 까부르다",
+        "synonyms": [
+          "fan",
+          "sift"
+        ],
+        "examples": [
+          {
+            "text": "Farmers once winnowed the harvested wheat by tossing it into the breeze to blow away the chaff.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 windwian('바람에 까부르다')에서 왔고 wind('바람')와 이어집니다. 바람으로 쭉정이를 날려 곡식을 가리는 것이 '추려내다'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "winsome",
+    "score": 51,
+    "zipf": 2.39,
+    "lists": [
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Charming, engaging, winning; inspiring approval and trust, especially if in an innocent manner.",
+        "ko": "매력적인, 호감을 주는",
+        "synonyms": [
+          "charming",
+          "engaging",
+          "appealing",
+          "endearing",
+          "captivating"
+        ],
+        "examples": [
+          {
+            "text": "Her winsome smile put the nervous interviewee at ease within seconds.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-some"
+    ],
+    "origin": {
+      "ko": "고대 영어 wynsum('즐거운')에서 왔고 winne('기쁨')에 -some을 붙인 형태입니다. 기쁨을 주는 '매력적인' 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "wistful",
+    "score": 50,
+    "zipf": 2.71,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Full of longing or yearning.",
+        "ko": "아쉬워하는, 그리워하는",
+        "synonyms": [
+          "yearning",
+          "longing",
+          "nostalgic",
+          "melancholy"
+        ],
+        "examples": [
+          {
+            "text": "His eyes grew wistful as he recalled his university days.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ful"
+    ],
+    "origin": {
+      "ko": "whist('조용한')에 -ful을 붙인 말로 추정합니다. 말없이 그리워하는 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "wizened",
+    "score": 64,
+    "zipf": 2.11,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lean and wrinkled by shrinkage as from age or illness",
+        "ko": "쪼글쪼글한, 시든",
+        "synonyms": [
+          "shriveled",
+          "withered",
+          "shrunken",
+          "wrinkled"
+        ],
+        "examples": [
+          {
+            "text": "A wizened old fisherman sat mending his nets on the dock, his face creased by decades of sun.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 wisnian('시들다')에서 나온 wizen의 과거분사형입니다. 말라 쪼그라든 모습입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

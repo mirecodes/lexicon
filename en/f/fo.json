@@ -1,0 +1,1324 @@
+[
+  {
+    "word": "foible",
+    "score": 43,
+    "zipf": 1.56,
+    "lists": [
+      "Magoosh",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a minor flaw or shortcoming in character or behavior.",
+        "ko": "사소한 결점, 약점",
+        "synonyms": [
+          "frailty",
+          "weakness",
+          "fault",
+          "failing"
+        ],
+        "examples": [
+          {
+            "text": "The students admired their teacher despite his foibles.",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a behavioral attribute that is distinctive and peculiar to an individual",
+        "ko": "독특한 버릇, 기벽",
+        "synonyms": [
+          "idiosyncrasy",
+          "quirk",
+          "mannerism",
+          "eccentricity"
+        ],
+        "examples": [
+          {
+            "text": "Try to look past his foibles and see the friendly fellow underneath.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 foible(약한)에서 왔고 feeble과 같은 뿌리입니다. 사소한 약점이라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "foil",
+    "score": 39,
+    "zipf": 3.76,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "hinder or prevent (the efforts, plans, or desires) of",
+        "ko": "좌절시키다, 저지하다",
+        "synonyms": [
+          "thwart",
+          "frustrate",
+          "baffle",
+          "scotch",
+          "balk"
+        ],
+        "examples": [
+          {
+            "text": "Alert security officers foiled the attempted robbery before the thieves could reach the vault.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "anything that serves by contrast to call attention to another thing's good qualities",
+        "ko": "대조되어 돋보이게 하는 사람[것]",
+        "synonyms": [
+          "contrast",
+          "complement",
+          "counterpart"
+        ],
+        "examples": [
+          {
+            "text": "In the novel, the cynical sidekick serves as a foil to the idealistic hero.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "중세 영어 foilen(냄새 자취를 밟아 흐리게 하다)에서 왔습니다. 사냥감의 흔적을 밟아 지워 추적을 막는 데서 '좌절시키다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "foist",
+    "score": 32,
+    "zipf": 2.14,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "to force onto another",
+        "ko": "떠넘기다, 강요하다",
+        "synonyms": [
+          "impose",
+          "palm off",
+          "thrust",
+          "unload"
+        ],
+        "examples": [
+          {
+            "text": "Senior partners often foist unpleasant tasks on the newest associates in the firm.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "insert surreptitiously or without warrant",
+        "ko": "몰래 끼워 넣다",
+        "synonyms": [
+          "interpolate",
+          "slip in",
+          "insinuate"
+        ],
+        "examples": [
+          {
+            "text": "Lobbyists tried to foist a controversial clause into the bill at the last minute.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "옛 네덜란드어 vuisten(손에 쥐다)에서 왔다고 추정됩니다. 슬쩍 손에 쥐여 남에게 떠넘긴다는 이미지입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "foment",
+    "score": 67,
+    "zipf": 2.4,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To incite or cause troublesome acts; to encourage; to instigate.",
+        "ko": "조장하다, 선동하다",
+        "synonyms": [
+          "instigate",
+          "incite",
+          "provoke",
+          "agitate",
+          "stir up"
+        ],
+        "examples": [
+          {
+            "text": "Foreign governments have tried to foment unrest.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "후기 라틴어 fōmentāre(따뜻한 찜질을 하다)에서 왔습니다. 불씨를 덥혀 키우듯 불화를 조장한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fomentation",
+    "score": 16,
+    "zipf": 0.0,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "deliberate and intentional triggering (of trouble or discord)",
+        "ko": "선동, 조장",
+        "synonyms": [
+          "instigation",
+          "incitement",
+          "agitation"
+        ],
+        "examples": [
+          {
+            "text": "Officials blamed the fomentation of ethnic hatred on a handful of radio broadcasters.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "application of warm wet coverings to a part of the body to relieve pain and inflammation",
+        "ko": "온찜질",
+        "synonyms": [
+          "poultice",
+          "compress"
+        ],
+        "examples": [
+          {
+            "text": "The nurse recommended a warm fomentation to ease the swelling around the sprained ankle.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ation"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 fōmentātiō(찜질)에서 왔습니다. 따뜻하게 덥혀 키운다는 데서 '조장, 선동'이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "foolhardy",
+    "score": 67,
+    "zipf": 2.57,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by defiant disregard for danger or consequences",
+        "ko": "무모한, 무분별한",
+        "synonyms": [
+          "reckless",
+          "rash",
+          "heedless",
+          "headlong",
+          "daredevil"
+        ],
+        "examples": [
+          {
+            "text": "It would be foolhardy to invest your entire savings in a single speculative venture.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 fol hardi(어리석게 용감한)에서 왔습니다. fool(어리석은)과 hardy(대담한)가 합쳐진 말입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "foppish",
+    "score": 29,
+    "zipf": 1.82,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "affecting extreme elegance in dress and manner",
+        "ko": "멋쟁이 티를 내는, 겉멋 든",
+        "synonyms": [
+          "dandified",
+          "dandyish",
+          "vain",
+          "effete"
+        ],
+        "examples": [
+          {
+            "text": "The foppish courtier spent hours arranging his lace cuffs and powdered wig each morning.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "forage",
+    "score": 30,
+    "zipf": 3.12,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "collect or look around for (food)",
+        "ko": "먹이를 찾아다니다, 뒤지다",
+        "synonyms": [
+          "scavenge",
+          "scrounge",
+          "rummage",
+          "hunt"
+        ],
+        "examples": [
+          {
+            "text": "Bears forage for berries and roots throughout the autumn to build up their fat reserves.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "bulky food like grass or hay for browsing or grazing horses or cattle",
+        "ko": "꼴, 사료",
+        "synonyms": [
+          "fodder",
+          "feed",
+          "pasturage"
+        ],
+        "examples": [
+          {
+            "text": "A dry summer left the ranchers short of forage for their herds.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 fourage(마소의 먹이)에서 왔습니다. 먹이를 구하러 다니는 데서 '뒤지고 찾아다니다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "forbear",
+    "score": 31,
+    "zipf": 2.01,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "refrain from doing",
+        "ko": "삼가다, 참다",
+        "synonyms": [
+          "refrain",
+          "abstain",
+          "desist",
+          "hold back"
+        ],
+        "examples": [
+          {
+            "text": "Though deeply provoked, the senator forbore from answering his critics in public.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a person from whom you are descended",
+        "ko": "조상",
+        "synonyms": [
+          "ancestor",
+          "forefather",
+          "progenitor"
+        ],
+        "examples": [
+          {
+            "text": "Her forbears emigrated from Ireland during the great famine of the 1840s.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "for-",
+      "bear"
+    ],
+    "origin": {
+      "ko": "고대 영어 forberan(참다, 삼가다)에서 왔습니다. 하고 싶은 것을 견디며 참는다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ford",
+    "score": 48,
+    "zipf": 4.5,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "cross a river where it's shallow",
+        "ko": "얕은 곳으로 강을 건너다",
+        "synonyms": [
+          "wade",
+          "cross"
+        ],
+        "examples": [
+          {
+            "text": "The pioneers forded the swollen creek with their wagons, losing only a few barrels.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "a shallow area in a stream that can be forded",
+        "ko": "얕은 여울, 도하 지점",
+        "synonyms": [
+          "crossing",
+          "shallows"
+        ],
+        "examples": [
+          {
+            "text": "The old road led down to a ford where travelers could cross without a bridge.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 ford(얕은 건널목)에서 왔습니다. 강을 걸어서 건너는 얕은 곳입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "forebear",
+    "score": 30,
+    "zipf": 1.87,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a person from whom you are descended",
+        "ko": "조상, 선조",
+        "synonyms": [
+          "ancestor",
+          "forefather",
+          "progenitor",
+          "predecessor"
+        ],
+        "examples": [
+          {
+            "text": "The museum preserves letters written by the family's forebears more than two centuries ago.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fore-"
+    ],
+    "origin": {
+      "ko": "fore(앞의)와 beer(~로 존재하는 사람)가 합쳐졌습니다. 먼저 존재했던 사람, 곧 조상입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "foreboding",
+    "score": 33,
+    "zipf": 2.79,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a feeling of evil to come",
+        "ko": "불길한 예감",
+        "synonyms": [
+          "premonition",
+          "presentiment",
+          "misgiving",
+          "omen"
+        ],
+        "examples": [
+          {
+            "text": "a steadily escalating sense of foreboding",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "ominously prophetic",
+        "ko": "불길한, 징조를 보이는",
+        "synonyms": [
+          "ominous",
+          "portentous",
+          "fateful",
+          "baleful"
+        ],
+        "examples": [
+          {
+            "text": "Dark clouds gathered over the valley, lending the afternoon a foreboding stillness.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fore-"
+    ],
+    "origin": {
+      "ko": "fore(미리)에 bode(전조가 되다)와 -ing이 붙었습니다. 나쁜 일을 미리 알리는 불길한 예감입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "foreseeable",
+    "score": 28,
+    "zipf": 3.34,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "capable of being anticipated",
+        "ko": "예측할 수 있는",
+        "synonyms": [
+          "predictable",
+          "expected",
+          "anticipated"
+        ],
+        "examples": [
+          {
+            "text": "This project will not be finished in the foreseeable future.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fore-",
+      "-able"
+    ],
+    "origin": {
+      "ko": "foresee(미리 보다)에 -able이 붙었습니다. 미리 내다볼 수 있다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "foreshadow",
+    "score": 35,
+    "zipf": 2.39,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "indicate, as with a sign or an omen",
+        "ko": "조짐을 보이다, 예고하다",
+        "synonyms": [
+          "presage",
+          "portend",
+          "herald",
+          "augur",
+          "prefigure"
+        ],
+        "examples": [
+          {
+            "text": "The early chapters subtly foreshadow the tragedy that overtakes the family at the novel's end.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fore-"
+    ],
+    "origin": {
+      "ko": "fore(미리)에 shadow(그림자)가 붙었습니다. 일이 오기 전에 먼저 드리우는 그림자 같은 조짐입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "forestall",
+    "score": 51,
+    "zipf": 2.62,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "keep from happening or arising; make impossible",
+        "ko": "미연에 방지하다, 막다",
+        "synonyms": [
+          "prevent",
+          "preclude",
+          "avert",
+          "ward off"
+        ],
+        "examples": [
+          {
+            "text": "The central bank cut interest rates to forestall a deeper recession.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "act in advance of; deal with ahead of time",
+        "ko": "선수를 치다, 앞지르다",
+        "synonyms": [
+          "anticipate",
+          "preempt",
+          "head off"
+        ],
+        "examples": [
+          {
+            "text": "She forestalled her rivals' objections by addressing every weakness in her proposal at the outset.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fore-"
+    ],
+    "origin": {
+      "ko": "고대 영어 foresteall(앞에 서서 가로막음, 매복)에서 왔습니다. 앞질러 막아 미리 방지한다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "forfeit",
+    "score": 28,
+    "zipf": 3.32,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "lose (something) or lose the right to (something) by some error, offense, or crime",
+        "ko": "잃다, 박탈당하다",
+        "synonyms": [
+          "relinquish",
+          "surrender",
+          "sacrifice",
+          "lose"
+        ],
+        "examples": [
+          {
+            "text": "Anyone convicted of the offense forfeits the right to hold public office for ten years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "something that is lost or surrendered as a penalty",
+        "ko": "벌금, 몰수물, 상실",
+        "synonyms": [
+          "penalty",
+          "fine",
+          "forfeiture"
+        ],
+        "examples": [
+          {
+            "text": "The deposit was the forfeit he paid for cancelling the contract so late.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "foris",
+      "fac(만들다)"
+    ],
+    "origin": {
+      "ko": "고대 프랑스어 forfait(범죄)에서 왔습니다. '선을 넘어 저지른 일'이 벌로서 무언가를 잃는다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "forlorn",
+    "score": 33,
+    "zipf": 2.83,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Pitifully sad, wretched, miserable; lonely, especially from feeling abandoned, deserted, forsaken.",
+        "ko": "쓸쓸한, 버림받은 듯한",
+        "synonyms": [
+          "desolate",
+          "forsaken",
+          "dejected",
+          "lonesome",
+          "woebegone"
+        ],
+        "examples": [
+          {
+            "text": "The forlorn child waited alone at the station long after the last train had left.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "marked by or showing hopelessness",
+        "ko": "가망 없는, 절망적인",
+        "synonyms": [
+          "hopeless",
+          "desperate",
+          "futile"
+        ],
+        "examples": [
+          {
+            "text": "the last forlorn attempt",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "for-"
+    ],
+    "origin": {
+      "ko": "고대 영어 forloren(잃어버린)에서 왔고 forlēosan(잃다)의 과거분사입니다. 버려져 잃어버린 듯 쓸쓸한 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "formal",
+    "score": 16,
+    "zipf": 4.45,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "being in accord with established forms and conventions and requirements (as e.g. of formal dress)",
+        "ko": "격식을 갖춘, 정식의",
+        "synonyms": [
+          "conventional",
+          "official",
+          "ceremonious",
+          "stiff"
+        ],
+        "examples": [
+          {
+            "text": "The embassy issued a formal protest after the ambassador was publicly insulted.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Relating to the form or structure of something.",
+        "ko": "형식상의, 구조적인",
+        "synonyms": [
+          "structural",
+          "external",
+          "superficial"
+        ],
+        "examples": [
+          {
+            "text": "Formal linguistics ignores the vocabulary of languages and focuses solely on their grammar.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "form",
+      "-al"
+    ],
+    "origin": {
+      "ko": "라틴어 fōrmālis(형식의)에서 고대 프랑스어를 거쳐 왔습니다. 정해진 형식을 갖춘다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "formidable",
+    "score": 25,
+    "zipf": 3.65,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "inspiring fear",
+        "ko": "무시무시한, 만만치 않은",
+        "synonyms": [
+          "daunting",
+          "redoubtable",
+          "fearsome",
+          "intimidating"
+        ],
+        "examples": [
+          {
+            "text": "The team faced the formidable task of rebuilding the bridge before winter arrived.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "extremely impressive in strength or excellence",
+        "ko": "강력한, 대단한",
+        "synonyms": [
+          "powerful",
+          "impressive",
+          "mighty",
+          "redoubtable"
+        ],
+        "examples": [
+          {
+            "text": "a formidable opponent",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-able"
+    ],
+    "origin": {
+      "ko": "라틴어 formīdābilis(무시무시한)에서 왔고 formīdō(공포)가 바탕입니다. 두려워할 만한 상대라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "forsake",
+    "score": 48,
+    "zipf": 2.91,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To abandon, to give up, to leave (permanently), to renounce (someone or something).",
+        "ko": "버리다, 저버리다, 포기하다",
+        "synonyms": [
+          "abandon",
+          "desert",
+          "renounce",
+          "relinquish",
+          "forgo"
+        ],
+        "examples": [
+          {
+            "text": "He forsook a lucrative career in banking to devote his life to teaching.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "for-"
+    ],
+    "origin": {
+      "ko": "고대 영어 forsacan(거부하다, 포기하다)에서 왔습니다. 완전히 등을 돌려 버린다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "forthcoming",
+    "score": 24,
+    "zipf": 3.75,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Willing to co-operate or provide information; candid, frank, responsive.",
+        "ko": "솔직한, 협조적인",
+        "synonyms": [
+          "candid",
+          "open",
+          "communicative",
+          "frank"
+        ],
+        "examples": [
+          {
+            "text": "Once I explained why I needed to know, she was really forthcoming.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "available when required or as promised",
+        "ko": "(필요할 때) 제공되는, 나오는",
+        "synonyms": [
+          "available",
+          "ready",
+          "obtainable"
+        ],
+        "examples": [
+          {
+            "text": "federal funds were not forthcoming",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "of the relatively near future",
+        "ko": "다가오는, 곧 있을",
+        "synonyms": [
+          "upcoming",
+          "approaching",
+          "impending",
+          "imminent"
+        ],
+        "examples": [
+          {
+            "text": "I shall vote in the forthcoming election.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "forth(앞으로)와 coming(오는)이 합쳐졌습니다. 앞으로 나서서 협조하는 데서 '솔직한'이라는 뜻이 나왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "forthright",
+    "score": 33,
+    "zipf": 2.78,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "characterized by directness in manner or speech; without subtlety or evasion",
+        "ko": "솔직한, 직설적인",
+        "synonyms": [
+          "blunt",
+          "candid",
+          "frank",
+          "outspoken",
+          "straightforward"
+        ],
+        "examples": [
+          {
+            "text": "The witness was considered eminently credible thanks to her forthright answers.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 forþriht(곧장 앞으로)에서 왔습니다. forth(앞으로)와 right(곧은)로, 돌려 말하지 않는 직설입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fortify",
+    "score": 32,
+    "zipf": 2.9,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make strong or stronger",
+        "ko": "강화하다, 튼튼하게 하다",
+        "synonyms": [
+          "strengthen",
+          "reinforce",
+          "bolster",
+          "buttress"
+        ],
+        "examples": [
+          {
+            "text": "Regular exercise and a balanced diet fortify the body against seasonal illness.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "To support (one's or someone's opinion, statement, etc.) by producing evidence, etc.; to confirm, to corroborate.",
+        "ko": "뒷받침하다, 입증하다",
+        "synonyms": [
+          "corroborate",
+          "confirm",
+          "substantiate",
+          "bolster"
+        ],
+        "examples": [
+          {
+            "text": "New archaeological findings fortified the historian's argument that the city had been settled earlier.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "enclose by or as if by a fortification",
+        "ko": "요새화하다, 방비를 굳히다",
+        "synonyms": [
+          "garrison",
+          "embattle",
+          "entrench"
+        ],
+        "examples": [
+          {
+            "text": "The townspeople fortified the hilltop with stone walls and watchtowers against the coming invasion.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fort",
+      "-fy"
+    ],
+    "origin": {
+      "ko": "후기 라틴어 fortificāre(강하게 하다)에서 왔습니다. fortis(강한)를 더해 튼튼하게 만든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fortitude",
+    "score": 46,
+    "zipf": 3.15,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "strength of mind that enables one to endure adversity with courage",
+        "ko": "불굴의 용기, 인내력",
+        "synonyms": [
+          "courage",
+          "resilience",
+          "grit",
+          "endurance",
+          "resolve"
+        ],
+        "examples": [
+          {
+            "text": "She faced her long illness with remarkable fortitude and never complained.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fort",
+      "-tude"
+    ],
+    "origin": {
+      "ko": "라틴어 fortitūdō(용기, 강함)에서 왔습니다. 역경을 견디는 마음의 강함입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fortuitous",
+    "score": 82,
+    "zipf": 2.68,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Happening by fortune or chance; accidental, coincidental.",
+        "ko": "우연한, 뜻하지 않은",
+        "synonyms": [
+          "accidental",
+          "chance",
+          "coincidental",
+          "random",
+          "adventitious"
+        ],
+        "examples": [
+          {
+            "text": "Their meeting on the train was entirely fortuitous, yet it led to a lifelong partnership.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "occurring by happy chance",
+        "ko": "운 좋은, 행운의",
+        "synonyms": [
+          "lucky",
+          "fortunate",
+          "providential",
+          "serendipitous"
+        ],
+        "examples": [
+          {
+            "text": "profits were enhanced by a fortuitous drop in the cost of raw materials",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 fortuītus(우연히 일어난)에서 왔고 fors(우연, 운)가 바탕입니다. 뜻하지 않게 닥친 우연입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "foster",
+    "score": 34,
+    "zipf": 4.33,
+    "lists": [
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "promote the growth of",
+        "ko": "촉진하다, 육성하다",
+        "synonyms": [
+          "nurture",
+          "cultivate",
+          "encourage",
+          "further",
+          "promote"
+        ],
+        "examples": [
+          {
+            "text": "Our company fosters an appreciation for the arts.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "providing or receiving nurture or parental care though not related by blood or legal ties",
+        "ko": "수양의, 위탁 양육의",
+        "synonyms": [
+          "surrogate",
+          "adoptive"
+        ],
+        "examples": [
+          {
+            "text": "The foster family welcomed three siblings into their home during the long winter.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 fōstor(음식, 양육)에서 왔습니다. 먹여 키운다는 데서 '육성하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

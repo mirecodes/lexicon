@@ -1,0 +1,60 @@
+[
+  {
+    "word": "ulterior",
+    "score": 48,
+    "zipf": 2.89,
+    "lists": [
+      "GregMat",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "lying beyond what is openly revealed or avowed (especially being kept in the background or deliberately concealed)",
+        "ko": "숨겨진, 속셈이 있는",
+        "synonyms": [
+          "hidden",
+          "concealed",
+          "secret",
+          "undisclosed"
+        ],
+        "examples": [
+          {
+            "text": "Her generous offer made him suspect an ulterior motive, perhaps a bid to win his vote.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "beyond or outside an area of immediate interest; remote",
+        "ko": "당면 문제 밖의, 먼",
+        "synonyms": [
+          "remote",
+          "further",
+          "outlying"
+        ],
+        "examples": [
+          {
+            "text": "The committee confined itself to the immediate question and set aside every ulterior issue.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "ulter",
+      "-ior"
+    ],
+    "origin": {
+      "ko": "라틴어 ulterior('더 먼 쪽의')에서 왔습니다. 겉 너머 저편에 숨은 속셈을 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

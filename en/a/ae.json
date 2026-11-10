@@ -1,0 +1,141 @@
+[
+  {
+    "word": "aerie",
+    "score": 49,
+    "zipf": 2.17,
+    "lists": [
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "the lofty nest of a bird of prey (such as a hawk or eagle)",
+        "ko": "(맹금류의) 높은 둥지",
+        "synonyms": [
+          "eyrie",
+          "nest",
+          "roost"
+        ],
+        "examples": [
+          {
+            "text": "An eagle's aerie clung to the cliff face, far beyond the reach of any climber.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "any habitation at a high altitude",
+        "ko": "높은 곳의 거처",
+        "synonyms": [
+          "eyrie",
+          "retreat",
+          "hideaway"
+        ],
+        "examples": [
+          {
+            "text": "From her mountaintop aerie, the novelist looked down on the village lights each evening.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "aesthete",
+    "score": 30,
+    "zipf": 1.95,
+    "lists": [
+      "Magoosh"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "one who professes great sensitivity to the beauty of art and nature",
+        "ko": "탐미주의자, 심미가",
+        "synonyms": [
+          "esthete",
+          "connoisseur",
+          "art lover",
+          "dilettante"
+        ],
+        "examples": [
+          {
+            "text": "The aesthete declined the invitation, claiming that the ugly furniture would spoil his evening.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 aisthētēs(지각하는 사람)에서 왔습니다. 아름다움을 예민하게 느끼는 사람입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "aesthetic",
+    "score": 69,
+    "zipf": 4.02,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "concerning or characterized by an appreciation of beauty or good taste",
+        "ko": "미적인, 심미적인",
+        "synonyms": [
+          "artistic",
+          "tasteful",
+          "esthetic",
+          "beautiful"
+        ],
+        "examples": [
+          {
+            "text": "Planners argued that the new tower offered aesthetic value as well as practical office space.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The set of artistic motifs defining a collection of things, especially works of art; more broadly, their aura or “vibe”.",
+        "ko": "미적 양식, 미학적 분위기",
+        "synonyms": [
+          "style",
+          "sensibility",
+          "look"
+        ],
+        "examples": [
+          {
+            "text": "The studio's minimalist aesthetic runs through its posters, packaging, and even its office furniture.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "그리스어 aisthanomai(느끼다)에서 온 aisthētikos(감각의)가 어원입니다. 감각으로 아름다움을 느낀다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

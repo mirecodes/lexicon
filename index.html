@@ -1,0 +1,583 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f8f8f8">
+<title>Lexicon GRE</title>
+<style>
+:root {
+  --bg: #ffffff; --bar: #f8f8f8; --card: #ffffff; --text: #1f1f1f; --muted: #616161;
+  --border: #e5e5e5; --accent: #c2410c; --on-accent: #ffffff; --chip: #fff1e8;
+  --dawn: linear-gradient(90deg, #f59e0b, #ea580c 55%, #dc2626);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #1f1f1f; --bar: #181818; --card: #252526; --text: #e4e4e4; --muted: #a0a0a0;
+    --border: #3c3c3c; --accent: #fb923c; --on-accent: #1f1f1f; --chip: #3a2a20;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #1f1f1f; --bar: #181818; --card: #252526; --text: #e4e4e4; --muted: #a0a0a0;
+  --border: #3c3c3c; --accent: #fb923c; --on-accent: #1f1f1f; --chip: #3a2a20;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html, body { height: 100%; margin: 0; overflow: hidden; overscroll-behavior: none; -webkit-text-size-adjust: 100%; }
+body {
+  height: 100dvh; display: flex; flex-direction: column; background: var(--bg); color: var(--text);
+  font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR", "Segoe UI", sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+button, select, input { font: inherit; color: inherit; }
+button, select, a { cursor: pointer; touch-action: manipulation; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+header {
+  display: flex; align-items: center; justify-content: space-between; padding: 6px 16px;
+  padding-top: max(6px, env(safe-area-inset-top)); background: var(--bar); border-bottom: 1px solid var(--border);
+}
+h1 { font-size: 16px; margin: 0; font-weight: 600; }
+.icon {
+  width: 44px; height: 44px; display: grid; place-items: center; background: none; flex: none;
+  border: 1px solid var(--border); border-radius: 4px; transition: border-color .15s, color .15s;
+}
+.icon:disabled { opacity: .35; cursor: default; }
+svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.track { height: 3px; background: var(--border); }
+#fill { height: 100%; width: 0; background: var(--dawn); transition: width .25s ease-out; }
+main { flex: 1; min-height: 0; display: flex; width: 100%; max-width: 640px; margin: 0 auto; }
+.view { flex: 1; min-width: 0; min-height: 0; display: flex; flex-direction: column; padding: 12px 16px; gap: 12px; }
+
+/* cards */
+#pos { margin: 0; font-size: 14px; color: var(--muted); text-align: center; font-variant-numeric: tabular-nums; }
+.stage { flex: 1; min-height: 0; perspective: 1400px; touch-action: pan-y; }
+@media (pointer: coarse) { .stage { -webkit-user-select: none; user-select: none; } }
+#slide { width: 100%; height: 100%; transition: transform .16s ease-out, opacity .16s ease-out; }
+#slide.drag { transition: none; }
+#card { position: relative; width: 100%; height: 100%; transform-style: preserve-3d; transition: transform .3s ease-out; }
+#card.still { transition: none; }
+#card.flip { transform: rotateY(180deg); }
+.face {
+  position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden;
+  background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 20px;
+  overflow-y: auto; overscroll-behavior: contain; touch-action: pan-y; cursor: pointer;
+}
+.front { display: flex; flex-direction: column; align-items: center; text-align: center; }
+.front > :first-child { margin-top: auto; }
+.front > :last-child { margin-bottom: auto; }
+.front h2 { font-size: clamp(32px, 9vw, 48px); line-height: 1.15; margin-bottom: 12px; margin-top: 0; overflow-wrap: anywhere; }
+.score { color: var(--accent); font-size: 14px; font-weight: 600; margin: 0; }
+.lists { color: var(--muted); font-size: 13px; margin: 4px 0 0; }
+.hint { color: var(--muted); font-size: 13px; margin: 20px 0 0; }
+.back { transform: rotateY(180deg); }
+.back h2, .sheet h2 { font-size: 22px; margin: 0 0 8px; overflow-wrap: anywhere; }
+.sense { padding: 12px 0; border-top: 1px solid var(--border); cursor: auto; }
+.tag { color: var(--accent); font-size: 13px; font-weight: 600; }
+.ko { font-size: 18px; font-weight: 600; margin: 2px 0; }
+.en { margin: 0 0 8px; color: var(--muted); }
+.syns { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 8px; }
+.chip { min-height: 36px; padding: 0 12px; background: var(--chip); border: 0; border-radius: 4px; font-size: 14px; }
+.ex { margin: 0; font-size: 15px; padding-left: 10px; border-left: 2px solid var(--accent); }
+.meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0 0 12px; cursor: auto; }
+.part, .origin summary {
+  display: inline-flex; align-items: center; min-height: 36px; padding: 0 10px; font-size: 14px; background: none;
+  border: 1px solid var(--border); border-radius: 4px; cursor: pointer;
+}
+.part b { font-weight: 600; }
+.part span { margin-left: 6px; font-size: 13px; color: var(--muted); }
+.origin summary { color: var(--accent); font-size: 13px; font-weight: 600; list-style: none; width: max-content; }
+.origin summary::-webkit-details-marker { display: none; }
+.origin[open] { flex-basis: 100%; }
+.origin p { margin: 8px 0 0; font-size: 15px; }
+.related { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 0; }
+@media (max-height: 480px) {
+  .face { padding: 12px; }
+  .front h2 { font-size: 32px; margin-bottom: 4px; }
+  .hint { display: none; }
+}
+.controls { display: flex; gap: 8px; }
+#flip {
+  flex: 1; min-height: 44px; font-weight: 600; background: var(--accent); color: var(--on-accent);
+  border: 0; border-radius: 4px; transition: opacity .15s;
+}
+
+/* day grid and word list */
+.title { font-size: 18px; font-weight: 600; margin: 0; }
+.sub { font-size: 14px; color: var(--muted); margin: 0; }
+.scroll { flex: 1; min-height: 0; overflow-y: auto; overscroll-behavior: contain; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(96px, 1fr)); gap: 8px; align-content: start; }
+.day {
+  display: flex; flex-direction: column; justify-content: center; min-height: 64px; padding: 8px 12px;
+  color: inherit; text-decoration: none; background: var(--card); border: 1px solid var(--border); border-radius: 4px; transition: border-color .15s;
+}
+.day b { font-size: 15px; font-weight: 600; }
+.day span { font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.day.done span { color: var(--accent); font-weight: 600; }
+.day.last { border-color: var(--accent); }
+.tools { display: flex; gap: 8px; }
+.tools input { flex: 1; min-width: 0; }
+.tools input, .tools select { min-height: 44px; padding: 0 12px; background: var(--card); border: 1px solid var(--border); border-radius: 4px; }
+.row {
+  display: grid; grid-template-columns: minmax(0, 42%) minmax(0, 1fr) 28px; gap: 8px; align-items: center; width: 100%; min-height: 48px;
+  padding: 4px 0; text-align: left; background: none; border: 0; border-bottom: 1px solid var(--border);
+  content-visibility: auto; contain-intrinsic-size: auto 48px;
+}
+.row .w { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.row .m { font-size: 14px; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.row .s { font-size: 13px; color: var(--accent); text-align: right; font-variant-numeric: tabular-nums; }
+
+/* tabs */
+.tabs { display: flex; background: var(--bar); border-top: 1px solid var(--border); padding-bottom: env(safe-area-inset-bottom); }
+.tabs a {
+  flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1px;
+  min-height: 52px; color: var(--muted); font-size: 12px; text-decoration: none; transition: color .15s;
+}
+.tabs a[aria-current="page"] { color: var(--accent); font-weight: 600; }
+
+/* synonym sheet */
+dialog {
+  width: 100%; max-width: 640px; max-height: 72dvh; margin: auto auto 0; padding: 0; color: var(--text); background: var(--card);
+  border: 1px solid var(--border); border-radius: 12px 12px 0 0;
+}
+dialog[open] { display: flex; flex-direction: column; }
+dialog::backdrop { background: rgba(0, 0, 0, .45); }
+.sheet-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 8px; padding: 12px 16px 4px; }
+.sheet { overflow-y: auto; overscroll-behavior: contain; padding: 0 16px; padding-bottom: max(16px, env(safe-area-inset-bottom)); }
+.note { font-size: 13px; color: var(--muted); margin: 8px 0 0; }
+@media (min-width: 640px) { dialog { margin: auto; border-radius: 8px; } }
+@media (hover: hover) {
+  .icon:hover:not(:disabled), .tabs a:hover { border-color: var(--accent); color: var(--accent); }
+  .day:hover { border-color: var(--accent); }
+  #flip:hover { opacity: .9; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Lexicon GRE</h1>
+  <button class="icon" id="theme" aria-label="밝은 테마와 어두운 테마 전환">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 3v18a9 9 0 0 0 0-18z" fill="currentColor"/></svg>
+  </button>
+</header>
+<div class="track"><div id="fill"></div></div>
+<main>
+  <section class="view" id="view-cards" hidden>
+    <p id="pos" aria-live="polite">불러오는 중…</p>
+    <div class="stage" id="stage">
+      <div id="slide">
+        <div id="card">
+          <div class="face front" id="front"></div>
+          <div class="face back" id="back"></div>
+        </div>
+      </div>
+    </div>
+    <div class="controls">
+      <button class="icon" id="prev" aria-label="이전 단어"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg></button>
+      <button id="flip">뜻 보기</button>
+      <button class="icon" id="next" aria-label="다음 단어"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg></button>
+    </div>
+  </section>
+  <section class="view" id="view-days" hidden>
+    <p class="title">Day별 단어장</p>
+    <p class="sub">하루 50단어, 중요도가 높은 단어부터 나옵니다.</p>
+    <div class="scroll"><div class="grid" id="grid"></div></div>
+  </section>
+  <section class="view" id="view-list" hidden>
+    <div class="tools">
+      <input id="q" type="search" placeholder="단어 또는 뜻 검색" aria-label="단어 또는 뜻 검색" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <select id="sort" aria-label="정렬 기준">
+        <option value="abc">알파벳순</option>
+        <option value="score">중요도순</option>
+      </select>
+    </div>
+    <p class="sub" id="count" aria-live="polite"></p>
+    <div class="scroll" id="rows"></div>
+  </section>
+</main>
+<nav class="tabs" aria-label="주요 메뉴">
+  <a href="#/today" data-tab="today"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2v4M4.9 8.9l1.4 1.4M2 18h2M20 18h2M17.7 10.3l1.4-1.4M22 22H2M16 18a4 4 0 0 0-8 0"/></svg>오늘의 10단어</a>
+  <a href="#/days" data-tab="days"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>Day별</a>
+  <a href="#/list" data-tab="list"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/></svg>전체 단어</a>
+</nav>
+<dialog id="sheet" aria-labelledby="sheet-word">
+  <div class="sheet-head">
+    <h2 id="sheet-word"></h2>
+    <button class="icon" id="sheet-close" aria-label="닫기"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12"/></svg></button>
+  </div>
+  <div class="sheet" id="sheet-body"></div>
+</dialog>
+<script>
+const PER_DAY = 50, TODAY_COUNT = 10;
+const NAMES = { VocabCom: "Vocabulary.com" };
+const $ = (id) => document.getElementById(id);
+const store = {
+  get(k) { try { return JSON.parse(localStorage.getItem(k)); } catch { return null; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
+};
+const el = (tag, cls, text) => {
+  const n = document.createElement(tag);
+  if (cls) n.className = cls;
+  if (text != null) n.textContent = text;
+  return n;
+};
+
+let words = [], byWord = new Map(), extra = null, roots = null;
+let deck = null, idx = 0, flipped = false, busy = false;
+const calm = matchMedia("(prefers-reduced-motion: reduce)");
+const days = () => Math.ceil(words.length / PER_DAY);
+const isDone = () => idx === deck.list.length;
+const canGo = (delta) => (delta > 0 ? !isDone() : idx > 0);
+
+/* decks */
+function dayDeck(n) {
+  const list = words.slice((n - 1) * PER_DAY, n * PER_DAY);
+  const p = (store.get("prog") || {})[n];
+  const next = n < days();
+  return {
+    title: `Day ${n}`, list, start: p && !p.done ? Math.min(p.i, list.length - 1) : 0,
+    doneLabel: next ? `Day ${n + 1} 시작` : "Day 목록으로", doneHash: next ? `#/day/${n + 1}` : "#/days",
+    save(i) {
+      const all = store.get("prog") || {};
+      all[n] = { i: i >= list.length ? 0 : i, done: all[n]?.done || i >= list.length };
+      store.set("prog", all);
+      store.set("lastDay", n);
+    },
+  };
+}
+
+function fnv(s) {
+  let h = 2166136261;
+  for (let i = 0; i < s.length; i++) h = Math.imul(h ^ s.charCodeAt(i), 16777619);
+  return h >>> 0;
+}
+
+function todayDeck() {
+  const d = new Date();
+  const date = `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
+  // words is sorted by importance, so the pool is the more important half
+  const list = words.slice(0, Math.ceil(words.length / 2))
+    .map((w) => [fnv(date + w.word), w]).sort((a, b) => a[0] - b[0]).slice(0, TODAY_COUNT).map((x) => x[1]);
+  const s = store.get("today");
+  return {
+    title: "오늘의 단어", list, start: s?.date === date ? Math.min(s.i, list.length) : 0,
+    doneLabel: "Day별 학습으로", doneHash: "#/days",
+    save(i) { store.set("today", { date, i }); },
+  };
+}
+
+/* card rendering */
+function setFlip(v) {
+  flipped = v;
+  $("card").classList.toggle("flip", v);
+  $("flip").textContent = isDone() ? deck.doneLabel : v ? "단어 보기" : "뜻 보기";
+  $("front").inert = v;
+  $("back").inert = !v;
+  if (v) $("back").scrollTop = 0;
+}
+
+function toggle() {
+  if (isDone()) location.hash = deck.doneHash;
+  else setFlip(!flipped);
+}
+
+function resetFlip() {
+  const c = $("card");
+  c.classList.add("still");
+  setFlip(false);
+  void c.offsetWidth; // commit the unflipped state so the next word's back never shows mid-rotation
+  c.classList.remove("still");
+}
+
+function senseBox(s) {
+  const box = el("div", "sense");
+  box.append(el("span", "tag", s.pos));
+  if (s.ko) box.append(el("p", "ko", s.ko));
+  box.append(el("p", "en", s.en));
+  if (s.synonyms?.length) {
+    const wrap = el("div", "syns");
+    s.synonyms.forEach((x) => {
+      const b = el("button", "chip", x);
+      b.type = "button";
+      b.onclick = () => showWord(x);
+      wrap.append(b);
+    });
+    box.append(wrap);
+  }
+  (s.examples || []).slice(0, 2).forEach((x) => box.append(el("p", "ex", x.text)));
+  return box;
+}
+
+const PART_NAMES = { prefix: "접두사", root: "어근", suffix: "접미사" };
+
+function wordMeta(w) {
+  if (!w.parts?.length && !w.origin) return [];
+  const meta = el("div", "meta");
+  (w.parts || []).forEach((form) => {
+    const b = el("button", "part");
+    b.type = "button";
+    b.append(el("b", "", form.replace(/\(.*\)$/, "")));
+    if (roots?.[form]) b.append(el("span", "", roots[form].ko));
+    b.setAttribute("aria-label", `${PART_NAMES[roots?.[form]?.type] || "구성 요소"} ${form}`);
+    b.onclick = () => showPart(form);
+    meta.append(b);
+  });
+  if (w.origin) {
+    const d = el("details", "origin");
+    d.append(el("summary", "", "유래"), el("p", "", w.origin.ko));
+    meta.append(d);
+  }
+  return [meta];
+}
+
+function render() {
+  const d = deck.list, w = d[idx];
+  $("prev").disabled = !canGo(-1);
+  $("next").disabled = !canGo(1);
+  deck.save(idx);
+  const f = $("front"), b = $("back");
+  if (isDone()) {
+    $("pos").textContent = `${deck.title} 완료`;
+    $("fill").style.width = "100%";
+    f.replaceChildren(el("h2", "", `${deck.title} 완료`), el("p", "lists", `${d.length}단어를 모두 넘겼습니다.`));
+    b.replaceChildren();
+    resetFlip();
+    return;
+  }
+  $("pos").textContent = `${deck.title} · ${idx + 1} / ${d.length}`;
+  $("fill").style.width = `${((idx + 1) / d.length) * 100}%`;
+  f.replaceChildren(
+    el("h2", "", w.word),
+    el("p", "score", `중요도 ${w.score}`),
+    el("p", "lists", w.lists.map((l) => NAMES[l] || l).join(" · "))
+  );
+  if (idx === 0) f.append(el("p", "hint", "카드를 누르면 뜻이 보이고, 좌우로 밀면 넘어갑니다."));
+  b.replaceChildren(el("h2", "", w.word), ...wordMeta(w), ...w.senses.map(senseBox));
+  resetFlip();
+}
+
+function move(delta) {
+  const s = $("slide");
+  if (busy) return;
+  if (!canGo(delta)) { s.style.transform = ""; return; }
+  const step = () => { idx += delta; render(); };
+  if (calm.matches) { step(); s.style.transform = ""; return; }
+  busy = true;
+  s.style.transform = `translateX(${-delta * 110}%)`;
+  s.style.opacity = "0";
+  setTimeout(() => {
+    step();
+    s.classList.add("drag");
+    s.style.transform = `translateX(${delta * 40}%)`;
+    void s.offsetWidth;
+    s.classList.remove("drag");
+    s.style.transform = "";
+    s.style.opacity = "";
+    busy = false;
+  }, 150);
+}
+
+/* word popup */
+async function showWord(raw) {
+  const word = raw.toLowerCase(), dlg = $("sheet"), body = $("sheet-body");
+  $("sheet-word").textContent = raw;
+  body.replaceChildren();
+  if (!dlg.open) dlg.showModal();
+  const entry = byWord.get(word);
+  if (entry) {
+    body.append(el("p", "score", `중요도 ${entry.score}`), ...wordMeta(entry), ...entry.senses.map(senseBox));
+  } else {
+    body.append(el("p", "note", "불러오는 중…"));
+    if (!extra) {
+      try {
+        const r = await fetch("en/synonyms.json");
+        if (!r.ok) throw new Error(r.status);
+        extra = await r.json();
+      } catch {
+        body.replaceChildren(el("p", "note", "뜻을 불러오지 못했습니다. 잠시 후 다시 시도해 주세요."));
+        return;
+      }
+    }
+    if ($("sheet-word").textContent !== raw) return;
+    const senses = extra[word];
+    if (senses) body.replaceChildren(...senses.map(senseBox));
+    else body.replaceChildren(el("p", "note", "이 단어의 뜻 정보가 없습니다."));
+  }
+  body.scrollTop = 0;
+}
+
+function showPart(form) {
+  const dlg = $("sheet"), body = $("sheet-body");
+  $("sheet-word").textContent = form;
+  body.replaceChildren();
+  if (!dlg.open) dlg.showModal();
+  const info = roots?.[form];
+  if (info) body.append(el("span", "tag", PART_NAMES[info.type] || info.type), el("p", "ko", info.ko));
+  const others = words.filter((w) => w.parts?.includes(form)).map((w) => w.word).sort();
+  body.append(el("p", "note", `이 요소가 포함된 단어 ${others.length}개`));
+  const wrap = el("div", "related");
+  others.forEach((x) => {
+    const b = el("button", "chip", x);
+    b.type = "button";
+    b.onclick = () => showWord(x);
+    wrap.append(b);
+  });
+  body.append(wrap);
+  body.scrollTop = 0;
+}
+
+$("sheet-close").onclick = () => $("sheet").close();
+$("sheet").addEventListener("click", (e) => { if (e.target === $("sheet")) $("sheet").close(); });
+
+/* day grid */
+function renderDays() {
+  const prog = store.get("prog") || {}, last = store.get("lastDay");
+  const cells = [];
+  for (let n = 1; n <= days(); n++) {
+    const a = el("a", "day");
+    a.href = `#/day/${n}`;
+    const len = words.slice((n - 1) * PER_DAY, n * PER_DAY).length, p = prog[n];
+    if (p?.done) a.classList.add("done");
+    if (n === last) a.classList.add("last");
+    a.append(el("b", "", `Day ${n}`), el("span", "", p?.done ? "완료" : p?.i ? `${p.i + 1} / ${len}` : `${len}단어`));
+    cells.push(a);
+  }
+  $("grid").replaceChildren(...cells);
+}
+
+/* word list */
+let rows = null;
+function buildRows() {
+  rows = words.map((w) => {
+    const b = el("button", "row");
+    b.type = "button";
+    const gloss = w.senses.map((s) => s.ko || s.en).join(" / ");
+    b.append(el("span", "w", w.word), el("span", "m", gloss), el("span", "s", w.score));
+    b.onclick = () => showWord(w.word);
+    return { w, b, text: `${w.word} ${gloss}`.toLowerCase() };
+  });
+  sortRows();
+  filterRows();
+}
+
+function sortRows() {
+  const key = $("sort").value;
+  const sorted = [...rows].sort((a, b) => (key === "score" ? b.w.score - a.w.score : 0) || a.w.word.localeCompare(b.w.word));
+  $("rows").replaceChildren(...sorted.map((r) => r.b));
+  $("rows").scrollTop = 0;
+}
+
+function filterRows() {
+  const q = $("q").value.trim().toLowerCase();
+  let n = 0;
+  for (const r of rows) {
+    r.b.hidden = !!q && !r.text.includes(q);
+    n += r.b.hidden ? 0 : 1;
+  }
+  $("count").textContent = `${n.toLocaleString()}단어`;
+}
+
+$("q").addEventListener("input", filterRows);
+$("sort").addEventListener("change", sortRows);
+
+/* routing */
+function show(view, tab) {
+  for (const v of ["cards", "days", "list"]) $(`view-${v}`).hidden = v !== view;
+  document.querySelectorAll(".tabs a").forEach((a) => {
+    if (a.dataset.tab === tab) a.setAttribute("aria-current", "page");
+    else a.removeAttribute("aria-current");
+  });
+}
+
+function openDeck(d, tab) {
+  deck = d;
+  idx = d.start;
+  show("cards", tab);
+  render();
+}
+
+function route() {
+  if ($("sheet").open) $("sheet").close();
+  const parts = location.hash.replace(/^#\/?/, "").split("/");
+  $("fill").style.width = "0";
+  if (parts[0] === "days") { deck = null; renderDays(); show("days", "days"); }
+  else if (parts[0] === "list") { deck = null; if (!rows) buildRows(); show("list", "list"); }
+  else if (parts[0] === "day") openDeck(dayDeck(Math.min(Math.max(1, +parts[1] || 1), days())), "days");
+  else openDeck(todayDeck(), "today");
+}
+
+/* theme */
+function syncBar() {
+  const bar = getComputedStyle(document.documentElement).getPropertyValue("--bar").trim();
+  document.querySelector('meta[name="theme-color"]').content = bar;
+}
+const savedTheme = store.get("theme");
+if (savedTheme) document.documentElement.dataset.theme = savedTheme;
+syncBar();
+$("theme").onclick = () => {
+  const root = document.documentElement;
+  const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  root.dataset.theme = dark ? "light" : "dark";
+  store.set("theme", root.dataset.theme);
+  syncBar();
+};
+
+/* input */
+$("flip").onclick = toggle;
+$("prev").onclick = () => move(-1);
+$("next").onclick = () => move(1);
+addEventListener("hashchange", route);
+addEventListener("keydown", (e) => {
+  if (!deck || $("sheet").open || ["SELECT", "INPUT"].includes(e.target.tagName)) return;
+  if (e.key === "ArrowRight") move(1);
+  else if (e.key === "ArrowLeft") move(-1);
+  else if (e.key === " " && e.target.tagName !== "BUTTON") { e.preventDefault(); toggle(); }
+});
+
+let startX = null, startY = 0, dragging = false;
+const stage = $("stage"), slide = $("slide");
+function endDrag() {
+  startX = null;
+  dragging = false;
+  slide.classList.remove("drag");
+}
+stage.addEventListener("pointerdown", (e) => {
+  if (e.target.closest("button, summary, details")) return;
+  startX = e.clientX; startY = e.clientY; dragging = false;
+});
+stage.addEventListener("pointermove", (e) => {
+  if (startX === null || busy) return;
+  const dx = e.clientX - startX, dy = e.clientY - startY;
+  if (!dragging && Math.abs(dx) > 8 && Math.abs(dx) > Math.abs(dy)) {
+    dragging = true;
+    slide.classList.add("drag");
+    stage.setPointerCapture(e.pointerId);
+  }
+  if (dragging) slide.style.transform = `translateX(${dx}px) rotate(${dx / 50}deg)`;
+});
+stage.addEventListener("pointerup", (e) => {
+  if (startX === null) return;
+  const dx = e.clientX - startX, dy = e.clientY - startY, wasDragging = dragging;
+  endDrag();
+  if (wasDragging) {
+    if (Math.abs(dx) > 70) move(dx < 0 ? 1 : -1);
+    else slide.style.transform = "";
+  } else if (Math.abs(dx) < 10 && Math.abs(dy) < 10 && !isDone()) setFlip(!flipped);
+});
+stage.addEventListener("pointercancel", () => { endDrag(); slide.style.transform = ""; });
+
+const getJSON = (url) => fetch(url).then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); });
+Promise.all([getJSON("words.json"), getJSON("en/roots.json").catch(() => ({}))])
+  .then(([data, rootData]) => {
+    words = data;
+    roots = rootData;
+    words.forEach((w) => byWord.set(w.word, w));
+    route();
+  })
+  .catch(() => {
+    show("cards", "today");
+    $("pos").textContent = "단어 데이터를 불러오지 못했습니다. 새로고침해 주세요.";
+  });
+</script>
+</body>
+</html>

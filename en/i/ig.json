@@ -1,0 +1,145 @@
+[
+  {
+    "word": "ignoble",
+    "score": 65,
+    "zipf": 2.24,
+    "lists": [
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "completely lacking nobility in character or quality or purpose",
+        "ko": "비열한, 품위 없는",
+        "synonyms": [
+          "base",
+          "dishonorable",
+          "contemptible",
+          "despicable"
+        ],
+        "examples": [
+          {
+            "text": "Historians condemned the general's ignoble decision to abandon his wounded troops.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not of the nobility",
+        "ko": "신분이 낮은, 귀족이 아닌",
+        "synonyms": [
+          "plebeian",
+          "lowborn",
+          "common",
+          "humble"
+        ],
+        "examples": [
+          {
+            "text": "Though of ignoble birth, he rose through talent alone to become the king's chief minister.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "nob"
+    ],
+    "origin": {
+      "ko": "라틴어 ignōbilis '고귀하지 않은'에서 왔습니다. in-(아닌)과 nōbilis(고귀한)가 합쳐졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ignominious",
+    "score": 66,
+    "zipf": 2.34,
+    "lists": [
+      "Magoosh",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "(used of conduct or character) deserving or bringing disgrace or shame",
+        "ko": "수치스러운, 불명예스러운",
+        "synonyms": [
+          "disgraceful",
+          "shameful",
+          "humiliating",
+          "inglorious",
+          "dishonorable"
+        ],
+        "examples": [
+          {
+            "text": "The team suffered an ignominious defeat, losing by forty points to a squad of amateurs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "nom(이름)",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 ignōminiōsus '수치스러운'에서 왔습니다. 이름(nōmen)과 명예를 잃었다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "ignominy",
+    "score": 34,
+    "zipf": 2.3,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a state of dishonor",
+        "ko": "불명예, 치욕",
+        "synonyms": [
+          "disgrace",
+          "shame",
+          "dishonor",
+          "infamy",
+          "opprobrium"
+        ],
+        "examples": [
+          {
+            "text": "The disgraced minister retired in ignominy after the fraud was exposed.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "in-(부정)",
+      "nom(이름)"
+    ],
+    "origin": {
+      "ko": "라틴어 ignōminia '불명예'에서 왔습니다. in-(없는)과 nomen(이름, 명성)이 합쳐져 명성을 잃은 상태입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

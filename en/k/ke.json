@@ -1,0 +1,78 @@
+[
+  {
+    "word": "keen",
+    "score": 52,
+    "zipf": 4.13,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "having or demonstrating ability to recognize or draw fine distinctions",
+        "ko": "예리한, 날카로운",
+        "synonyms": [
+          "acute",
+          "incisive",
+          "penetrating",
+          "astute",
+          "perceptive"
+        ],
+        "examples": [
+          {
+            "text": "A keen observer of local politics, she predicted the election result months in advance.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Often with a prepositional phrase, or with to and an infinitive: showing a quick and ardent responsiveness or willingness; eager, enthusiastic, interested.",
+        "ko": "열정적인, 열망하는",
+        "synonyms": [
+          "eager",
+          "ardent",
+          "enthusiastic",
+          "avid"
+        ],
+        "examples": [
+          {
+            "text": "I’m keen on computers.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "intense or sharp",
+        "ko": "강렬한, 격심한",
+        "synonyms": [
+          "intense",
+          "acute",
+          "fierce",
+          "vehement"
+        ],
+        "examples": [
+          {
+            "text": "The explorers felt a keen disappointment when the summit was lost to the storm.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 cēne '용감한, 영리한'에서 왔습니다. 날카롭고 예리하다는 뜻으로 이어졌습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  }
+]

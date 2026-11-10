@@ -1,0 +1,1140 @@
+[
+  {
+    "word": "fabricate",
+    "score": 32,
+    "zipf": 2.89,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "concoct something artificial or untrue",
+        "ko": "날조하다, 꾸며내다",
+        "synonyms": [
+          "invent",
+          "concoct",
+          "make up",
+          "forge",
+          "trump up"
+        ],
+        "examples": [
+          {
+            "text": "The witness admitted that he had fabricated the entire story to protect his brother.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "put together out of artificial or natural components or parts",
+        "ko": "제작하다, 조립하다",
+        "synonyms": [
+          "manufacture",
+          "construct",
+          "assemble",
+          "build"
+        ],
+        "examples": [
+          {
+            "text": "the company fabricates plastic chairs",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fac(만들다)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "라틴어 fabricāre(만들다)에서 왔고 fabrica는 '공방'입니다. 없는 것을 만들어 내는 데서 '날조하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "facetious",
+    "score": 84,
+    "zipf": 2.51,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "Treating serious issues with (often deliberately) inappropriate humour; flippant.",
+        "ko": "경박한, 농담조의",
+        "synonyms": [
+          "flippant",
+          "jocular",
+          "tongue-in-cheek",
+          "glib",
+          "frivolous"
+        ],
+        "examples": [
+          {
+            "text": "Robbie's joke about Heather's appearance was just him being facetious.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 facētia(재치, 농담)에서 프랑스어를 거쳐 왔습니다. 진지한 자리에서 농담하는 태도를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "facile",
+    "score": 51,
+    "zipf": 2.61,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "superficially impressive, but lacking depth and attention to the true complexities of a subject",
+        "ko": "피상적인, 안이한",
+        "synonyms": [
+          "superficial",
+          "simplistic",
+          "glib",
+          "shallow",
+          "oversimplified"
+        ],
+        "examples": [
+          {
+            "text": "Critics dismissed the senator's facile explanation of the crisis as a slogan rather than an analysis.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "performing adroitly and without effort",
+        "ko": "능숙한, 수월한",
+        "synonyms": [
+          "fluent",
+          "effortless",
+          "adroit",
+          "deft",
+          "smooth"
+        ],
+        "examples": [
+          {
+            "text": "Her writing was facile and articulate.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fac(만들다)",
+      "-ile"
+    ],
+    "origin": {
+      "ko": "라틴어 facilis(하기 쉬운)에서 왔습니다. 너무 쉽게 해치운 듯 깊이 없는 '안이한'이라는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "facilitate",
+    "score": 21,
+    "zipf": 3.99,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "make easier",
+        "ko": "용이하게 하다, 촉진하다",
+        "synonyms": [
+          "ease",
+          "expedite",
+          "promote",
+          "simplify",
+          "assist"
+        ],
+        "examples": [
+          {
+            "text": "New software was introduced to facilitate communication between the firm's offices in different countries.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fac(만들다)",
+      "-ate"
+    ],
+    "origin": {
+      "ko": "프랑스어 faciliter에서 왔고 라틴어 facilis(쉬운)가 바탕입니다. 일을 쉽게 만든다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "faction",
+    "score": 39,
+    "zipf": 3.79,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A group of people, especially within a political organization, which expresses a shared belief or opinion different from people who are not part of the group.",
+        "ko": "파벌, 당파",
+        "synonyms": [
+          "clique",
+          "cabal",
+          "sect",
+          "splinter group",
+          "bloc"
+        ],
+        "examples": [
+          {
+            "text": "A radical faction within the party threatened to withdraw its support unless the leadership changed course.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Strife; discord.",
+        "ko": "불화, 내분",
+        "synonyms": [
+          "dissension",
+          "discord",
+          "strife",
+          "infighting"
+        ],
+        "examples": [
+          {
+            "text": "Years of faction and distrust left the young republic unable to agree on even basic laws.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fac(만들다)",
+      "-ion"
+    ],
+    "origin": {
+      "ko": "라틴어 factiō(함께 행동하는 무리)에서 왔습니다. 같은 일을 하는 한 패가 '파벌'입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "factious",
+    "score": 58,
+    "zipf": 1.53,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "dissenting (especially dissenting with the majority opinion)",
+        "ko": "파벌적인, 분열을 일으키는",
+        "synonyms": [
+          "divisive",
+          "partisan",
+          "contentious",
+          "quarrelsome",
+          "dissenting"
+        ],
+        "examples": [
+          {
+            "text": "The factious assembly could not agree on a single policy, and reform stalled for years.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fac(만들다)",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 factiōsus(파당을 짓는)에서 왔습니다. 파벌을 만들어 분열을 일으킨다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "factitious",
+    "score": 45,
+    "zipf": 1.76,
+    "lists": [
+      "Magoosh",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not produced by natural forces",
+        "ko": "인위적인, 꾸며낸",
+        "synonyms": [
+          "artificial",
+          "contrived",
+          "manufactured",
+          "spurious",
+          "sham"
+        ],
+        "examples": [
+          {
+            "text": "brokers created a factitious demand for stocks",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fac(만들다)",
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 factītius(인공의)에서 왔고 facere(만들다)가 바탕입니다. 사람이 만든 것이라 자연스럽지 않다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fad",
+    "score": 28,
+    "zipf": 3.26,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A phenomenon that becomes popular for a very short time.",
+        "ko": "일시적 유행",
+        "synonyms": [
+          "craze",
+          "vogue",
+          "trend",
+          "rage",
+          "mania"
+        ],
+        "examples": [
+          {
+            "text": "Critics predicted that the diet would prove a passing fad, forgotten within a single season.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fallacious",
+    "score": 67,
+    "zipf": 2.64,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "containing or based on a fallacy",
+        "ko": "오류에 근거한, 그릇된",
+        "synonyms": [
+          "erroneous",
+          "unsound",
+          "specious",
+          "invalid",
+          "misleading"
+        ],
+        "examples": [
+          {
+            "text": "The debate coach showed students how a fallacious argument can sound persuasive while proving nothing.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "involving deception",
+        "ko": "기만적인, 속이는",
+        "synonyms": [
+          "deceptive",
+          "deceitful",
+          "misleading",
+          "delusive"
+        ],
+        "examples": [
+          {
+            "text": "Regulators fined the company for fallacious advertising that hid the true cost of the loan.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fall",
+      "-ious"
+    ],
+    "origin": {
+      "ko": "라틴어 fallācia(속임)에서 고대 프랑스어를 거쳐 왔습니다. 속이는 듯한 잘못된 논리라는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fallacy",
+    "score": 29,
+    "zipf": 3.21,
+    "lists": [
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "a misconception resulting from incorrect reasoning",
+        "ko": "오류, 그릇된 추론",
+        "synonyms": [
+          "misconception",
+          "error",
+          "sophism",
+          "delusion"
+        ],
+        "examples": [
+          {
+            "text": "It is a common fallacy that correlation between two events proves one caused the other.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fall",
+      "-acy"
+    ],
+    "origin": {
+      "ko": "라틴어 fallācia(속임, 기만)에서 고대 프랑스어를 거쳐 왔습니다. fallere(속이다)가 바탕입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fallible",
+    "score": 51,
+    "zipf": 2.56,
+    "lists": [
+      "GregMat",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "likely to fail or make errors",
+        "ko": "틀리기 쉬운, 오류를 범할 수 있는",
+        "synonyms": [
+          "imperfect",
+          "erring",
+          "error-prone",
+          "unreliable"
+        ],
+        "examples": [
+          {
+            "text": "Even the most careful scientists are fallible, which is why independent replication matters.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "fall",
+      "-able"
+    ],
+    "origin": {
+      "ko": "중세 라틴어 fallibilis에서 왔고 fallere(속이다, 틀리게 하다)가 바탕입니다. 틀리기 쉬운 상태를 뜻합니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fallow",
+    "score": 81,
+    "zipf": 2.83,
+    "lists": [
+      "GregMat",
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "left unplowed and unseeded during a growing season",
+        "ko": "경작되지 않은, 휴경 중인",
+        "synonyms": [
+          "uncultivated",
+          "unplanted",
+          "unsown",
+          "idle"
+        ],
+        "examples": [
+          {
+            "text": "Farmers let the field lie fallow for a year so that the soil could recover its nutrients.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "Inactive; undeveloped.",
+        "ko": "활동하지 않는, 침체된",
+        "synonyms": [
+          "dormant",
+          "inactive",
+          "idle",
+          "latent"
+        ],
+        "examples": [
+          {
+            "text": "After a fallow period in the middle of her career, the novelist produced her finest work.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 fealh(휴경지)에서 왔습니다. 갈아엎은 채 씨를 뿌리지 않고 놀리는 땅을 가리킵니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "falter",
+    "score": 33,
+    "zipf": 2.82,
+    "lists": [
+      "GregMat"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "be unsure or weak",
+        "ko": "흔들리다, 약해지다",
+        "synonyms": [
+          "waver",
+          "flag",
+          "weaken",
+          "hesitate",
+          "flounder"
+        ],
+        "examples": [
+          {
+            "text": "Their enthusiasm is faltering",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "speak haltingly",
+        "ko": "더듬거리다, 말을 더듬다",
+        "synonyms": [
+          "stammer",
+          "stutter",
+          "hesitate",
+          "stumble"
+        ],
+        "examples": [
+          {
+            "text": "The speaker faltered when he saw his opponent enter the room",
+            "source": "oewn"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  },
+  {
+    "word": "fanatical",
+    "score": 31,
+    "zipf": 3.02,
+    "lists": [
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "marked by excessive enthusiasm for and intense devotion to a cause or idea",
+        "ko": "광신적인, 열광적인",
+        "synonyms": [
+          "zealous",
+          "fanatic",
+          "rabid",
+          "overzealous",
+          "extreme"
+        ],
+        "examples": [
+          {
+            "text": "His fanatical devotion to the cause led him to reject every compromise offered by moderates.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ical"
+    ]
+  },
+  {
+    "word": "fanciful",
+    "score": 47,
+    "zipf": 2.97,
+    "lists": [
+      "GregMat",
+      "Manhattan"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "not based on fact; existing only in the imagination",
+        "ko": "비현실적인, 상상 속의",
+        "synonyms": [
+          "imaginary",
+          "whimsical",
+          "illusory",
+          "chimerical",
+          "unreal"
+        ],
+        "examples": [
+          {
+            "text": "The explorer's fanciful tales of golden cities were soon dismissed by serious geographers.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "indulging in or influenced by fancy",
+        "ko": "공상적인, 기발한",
+        "synonyms": [
+          "whimsical",
+          "capricious",
+          "imaginative",
+          "fantastical"
+        ],
+        "examples": [
+          {
+            "text": "The children's fanciful drawings showed castles floating among clouds and dragons wearing top hats.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ful"
+    ],
+    "origin": {
+      "ko": "fancy(상상)에 -ful이 붙었습니다. 상상으로 가득해 현실과 거리가 있다는 뜻입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fancy",
+    "score": 18,
+    "zipf": 4.35,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A whim.",
+        "ko": "변덕, 일시적 기분",
+        "synonyms": [
+          "whim",
+          "caprice",
+          "impulse",
+          "notion",
+          "vagary"
+        ],
+        "examples": [
+          {
+            "text": "I had a fancy to learn to play the flute.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "The imagination.",
+        "ko": "상상력, 공상",
+        "synonyms": [
+          "imagination",
+          "fantasy",
+          "whimsy",
+          "daydream"
+        ],
+        "examples": [
+          {
+            "text": "The poet distinguished fancy, which plays lightly with images, from the deeper power of true imagination.",
+            "source": "generated"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "imagine; conceive of; see in one's mind",
+        "ko": "상상하다, 마음속에 그리다",
+        "synonyms": [
+          "imagine",
+          "envision",
+          "picture",
+          "conceive"
+        ],
+        "examples": [
+          {
+            "text": "She could hardly fancy a life without the sea after growing up in a fishing village.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "adj",
+        "en": "not plain; decorative or ornamented",
+        "ko": "화려한, 장식적인",
+        "synonyms": [
+          "ornate",
+          "elaborate",
+          "decorative",
+          "ornamental"
+        ],
+        "examples": [
+          {
+            "text": "The hotel's fancy lobby, with its gilded mirrors and marble columns, impressed every visitor.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "fantasy가 줄어든 말입니다. 그리스어 phantasía(눈에 보이게 함)에서 온 것으로, 마음속 환상이 변덕스러운 기분이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fanfare",
+    "score": 29,
+    "zipf": 3.2,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "noun",
+        "en": "A show of ceremony or celebration.",
+        "ko": "떠들썩한 환영, 요란한 행사",
+        "synonyms": [
+          "pomp",
+          "ceremony",
+          "ostentation",
+          "hoopla",
+          "publicity"
+        ],
+        "examples": [
+          {
+            "text": "The town opened the new library with fanfare and a speech from the mayor.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "A flourish of trumpets or horns as to announce; a short and lively air performed on hunting horns during the chase.",
+        "ko": "팡파르, 나팔 신호",
+        "synonyms": [
+          "flourish",
+          "tucket",
+          "trumpet call"
+        ],
+        "examples": [
+          {
+            "text": "They played a short fanfare to announce the arrival of the king.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "프랑스어 fanfare(트럼펫 소리)를 그대로 빌려 왔습니다. 요란한 나팔 소리가 떠들썩한 환영의 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fare",
+    "score": 22,
+    "zipf": 3.94,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "To experience luck, fortune or treatment (of a certain kind).",
+        "ko": "지내다, (결과를) 겪다",
+        "synonyms": [
+          "do",
+          "get along",
+          "manage",
+          "progress"
+        ],
+        "examples": [
+          {
+            "text": "Did you fare well in the exam?",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "Supplies for consumption or pleasure.",
+        "ko": "제공되는 것, 음식",
+        "synonyms": [
+          "food",
+          "provisions",
+          "diet",
+          "offerings"
+        ],
+        "examples": [
+          {
+            "text": "The television channel tended to broadcast unremarkable downmarket fare.",
+            "source": "wiktionary"
+          }
+        ],
+        "source": "wiktionary",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "noun",
+        "en": "the sum charged for riding in a public conveyance",
+        "ko": "운임, 요금",
+        "synonyms": [
+          "fee",
+          "charge",
+          "ticket price",
+          "toll"
+        ],
+        "examples": [
+          {
+            "text": "The city raised the subway fare by fifty cents to cover rising maintenance costs.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 faran(여행하다, 가다)에서 왔습니다. 길을 가며 겪는 형편이 '지내다, 겪다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fastidious",
+    "score": 83,
+    "zipf": 2.64,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "giving careful attention to detail; hard to please; excessively concerned with cleanliness",
+        "ko": "까다로운, 꼼꼼한",
+        "synonyms": [
+          "meticulous",
+          "finicky",
+          "fussy",
+          "particular",
+          "punctilious"
+        ],
+        "examples": [
+          {
+            "text": "The fastidious editor rejected the manuscript twice because of minor inconsistencies in its footnotes.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "parts": [
+      "-ous"
+    ],
+    "origin": {
+      "ko": "라틴어 fastīdiōsus(역겨워하는)에서 왔습니다. fastus(오만)와 taedium(싫증)이 합쳐진 말로, 쉽게 만족하지 않는 까다로움입니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fathom",
+    "score": 44,
+    "zipf": 3.25,
+    "lists": [
+      "Manhattan",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "come to understand",
+        "ko": "헤아리다, 이해하다",
+        "synonyms": [
+          "comprehend",
+          "grasp",
+          "understand",
+          "penetrate",
+          "divine"
+        ],
+        "examples": [
+          {
+            "text": "Investigators struggled to fathom why the experienced pilot had ignored every warning on the instrument panel.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      },
+      {
+        "pos": "verb",
+        "en": "measure the depth of (a body of water) with a sounding line",
+        "ko": "수심을 재다",
+        "synonyms": [
+          "sound",
+          "plumb",
+          "probe"
+        ],
+        "examples": [
+          {
+            "text": "Sailors used weighted ropes to fathom the harbor before guiding the large ship inside.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 fæþm(두 팔을 벌린 길이)에서 왔습니다. 두 팔로 깊이를 재듯 속을 헤아린다는 뜻이 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fatuous",
+    "score": 65,
+    "zipf": 2.23,
+    "lists": [
+      "Manhattan",
+      "PowerScore",
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "extremely silly or stupid",
+        "ko": "어리석은, 멍청한",
+        "synonyms": [
+          "asinine",
+          "inane",
+          "foolish",
+          "vacuous",
+          "silly"
+        ],
+        "examples": [
+          {
+            "text": "The candidate's fatuous remark about the economy was quoted mockingly in newspapers for weeks.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "라틴어 fatuus(어리석은, 멍청한)를 그대로 가져왔습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fawn",
+    "score": 79,
+    "zipf": 3.02,
+    "lists": [
+      "GregMat",
+      "Magoosh",
+      "Manhattan",
+      "PowerScore"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "verb",
+        "en": "try to gain favor by cringing or flattering",
+        "ko": "아첨하다, 알랑거리다",
+        "synonyms": [
+          "toady",
+          "grovel",
+          "kowtow",
+          "cringe",
+          "truckle"
+        ],
+        "examples": [
+          {
+            "text": "Aides fawned over the chairman, laughing at every joke and praising every mediocre idea.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ],
+    "origin": {
+      "ko": "고대 영어 fagnian(기뻐하다)에서 왔습니다. 기뻐하는 척 굽실대는 데서 '아첨하다'가 되었습니다.",
+      "source": "wiktionary",
+      "ko_source": "generated"
+    }
+  },
+  {
+    "word": "fawning",
+    "score": 34,
+    "zipf": 2.65,
+    "lists": [
+      "VocabCom"
+    ],
+    "curated": true,
+    "senses": [
+      {
+        "pos": "adj",
+        "en": "attempting to win favor from influential people by flattery",
+        "ko": "아첨하는, 굽실거리는",
+        "synonyms": [
+          "obsequious",
+          "sycophantic",
+          "servile",
+          "toadyish",
+          "bootlicking"
+        ],
+        "examples": [
+          {
+            "text": "The fawning courtiers competed to praise the king's every decision, however foolish.",
+            "source": "generated"
+          }
+        ],
+        "source": "oewn",
+        "ko_source": "generated"
+      }
+    ]
+  }
+]
