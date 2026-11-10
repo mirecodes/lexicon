@@ -3,20 +3,32 @@
   --border: #e5e5e5; --accent: #c2410c; --on-accent: #ffffff; --chip: #fff1e8;
   --dawn: linear-gradient(90deg, #f59e0b, #ea580c 55%, #dc2626);
   --m: #1d4ed8; --f: #be123c; --n: #15803d;
+  --thumb: #c9c9c9; --thumb-hover: #9a9a9a;
+  color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #1f1f1f; --bar: #181818; --card: #252526; --text: #e4e4e4; --muted: #a0a0a0;
     --border: #3c3c3c; --accent: #fb923c; --on-accent: #1f1f1f; --chip: #3a2a20;
     --m: #7aa2f7; --f: #f7768e; --n: #73c991;
+    --thumb: #4a4a4a; --thumb-hover: #6a6a6a;
+    color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --bg: #1f1f1f; --bar: #181818; --card: #252526; --text: #e4e4e4; --muted: #a0a0a0;
   --border: #3c3c3c; --accent: #fb923c; --on-accent: #1f1f1f; --chip: #3a2a20;
   --m: #7aa2f7; --f: #f7768e; --n: #73c991;
+  --thumb: #4a4a4a; --thumb-hover: #6a6a6a;
+  color-scheme: dark;
 }
 * { box-sizing: border-box; }
+/* thin themed scrollbars: standard properties (Chrome, Firefox) and the WebKit pseudo-elements (Safari) */
+* { scrollbar-width: thin; scrollbar-color: var(--thumb) transparent; }
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--thumb); border-radius: 8px; border: 2px solid transparent; background-clip: padding-box; }
+::-webkit-scrollbar-thumb:hover { background: var(--thumb-hover); background-clip: padding-box; }
 [hidden] { display: none !important; }
 html, body { height: 100%; margin: 0; overflow: hidden; overscroll-behavior: none; -webkit-text-size-adjust: 100%; }
 body {
