@@ -1,5 +1,6 @@
 import { Fragment, memo, useCallback, useDeferredValue, useEffect, useMemo, useRef, useState, useSyncExternalStore, type ReactNode } from "react";
 import { Cards } from "./Cards.tsx";
+import { CONSTELLATIONS, type Constellation } from "./constellations.ts";
 import {
   LANGS, PART_NAMES, TODAY_COUNT, dayDeck, getLastDay, getProgress, getTheme, gloss, grammarLine, groups, isDe, isLang,
   load, loadSynonyms, setTheme, store, todayDeck, type Loaded, type Theme,
@@ -102,6 +103,7 @@ function Days({ lang, words }: { lang: Lang; words: Word[] }) {
                 const p = prog[d.id];
                 return (
                   <a key={d.id} href={`#/${lang}/day/${d.id}`} className={["day", p?.done && "done", d.id === String(last) && "last"].filter(Boolean).join(" ")}>
+                    {lang === "en" && <Sky c={CONSTELLATIONS[(d.n - 1) % CONSTELLATIONS.length]} />}
                     <b>Day {d.n}</b>
                     <span>{p?.done ? "완료" : p?.i ? `${p.i + 1} / ${d.list.length}` : `${d.list.length}단어`}</span>
                   </a>
@@ -112,6 +114,20 @@ function Days({ lang, words }: { lang: Lang; words: Word[] }) {
         ))}
       </div>
     </section>
+  );
+}
+
+/* faint constellation behind a GRE day card; it lights up on hover and once the day is done */
+function Sky({ c }: { c: Constellation }) {
+  return (
+    <>
+      <svg className="sky" viewBox="0 0 100 100" aria-hidden="true">
+        <title>{`${c.ko} (${c.en})`}</title>
+        {c.lines.map(([a, b]) => <line key={`${a}-${b}`} x1={c.stars[a][0]} y1={c.stars[a][1]} x2={c.stars[b][0]} y2={c.stars[b][1]} />)}
+        {c.stars.map(([x, y], i) => <circle key={i} cx={x} cy={y} r="1.6" style={{ animationDelay: `${(i * 0.37) % 2}s` }} />)}
+      </svg>
+      <small className="sky-name">{c.en}</small>
+    </>
   );
 }
 

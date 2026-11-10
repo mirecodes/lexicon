@@ -36,6 +36,7 @@ npm run dev
 - 단어 선정: GregMat, Magoosh, Manhattan Prep, PowerScore, Vocabulary.com 단어장에 실렸는지를 기준으로 했습니다. 각 단어장의 내용(뜻, 예문)은 사용하지 않았습니다.
 - 영어 뜻·예문·동의어: [Open English WordNet](https://en-word.net) (CC BY 4.0), [Wiktionary](https://en.wiktionary.org) ([kaikki.org](https://kaikki.org) 추출본, CC BY-SA 4.0)
 - 사용 빈도: [wordfreq](https://github.com/rspeer/wordfreq)
+- Day별 카드의 별자리 선: [d3-celestial](https://github.com/ofrohn/d3-celestial) (BSD-3-Clause) 데이터를 투영해 `src/constellations.ts`로 만들었습니다.
 - 한글 뜻, 유래 요약, 일부 예문: Claude가 작성했으며 사람의 검수를 거치지 않았습니다.
 
 - 독일어 표제어와 레벨: Goethe-Institut 시험 단어 목록 (목록의 예문은 사용하지 않음)

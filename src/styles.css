@@ -142,8 +142,21 @@ main { flex: 1; min-height: 0; display: flex; width: 100%; max-width: 640px; mar
 }
 .day:active { transform: scale(.97); box-shadow: 0 0 18px rgba(234, 88, 12, .45); }
 .day:active::before { opacity: 1; animation: spin 1.6s linear infinite; }
-.day b { font-size: 15px; font-weight: 600; }
-.day span { font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.day b { position: relative; font-size: 15px; font-weight: 600; }
+.day span { position: relative; font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+/* constellation behind a GRE day: barely there, then glowing on hover/press and once the day is done */
+.sky { position: absolute; inset: 6%; width: 88%; height: 88%; pointer-events: none; overflow: visible; }
+.sky line { stroke: var(--muted); stroke-width: .6; opacity: .22; transition: opacity .4s, stroke .4s, filter .4s; }
+.sky circle { fill: var(--muted); stroke: none; opacity: .35; transition: opacity .4s, fill .4s, filter .4s; }
+.day:active .sky line, .day.done .sky line { stroke: var(--accent); opacity: .75; filter: drop-shadow(0 0 1.5px var(--accent)); }
+.day:active .sky circle, .day.done .sky circle {
+  fill: var(--accent); opacity: 1; filter: drop-shadow(0 0 2px var(--accent)); animation: twinkle 2s ease-in-out infinite alternate;
+}
+@keyframes twinkle { from { opacity: .55; } to { opacity: 1; } }
+.sky-name {
+  position: relative; order: 3; margin-top: 2px; font-size: 10px; letter-spacing: .04em; color: var(--muted); opacity: .6;
+  line-height: 1.15; pointer-events: none; /* two-word names wrap on phones */
+}
 .day.done span { color: var(--accent); font-weight: 600; }
 .day.last { border-color: var(--accent); }
 .tools { display: flex; gap: 8px; }
@@ -188,6 +201,8 @@ dialog::backdrop { background: rgba(0, 0, 0, .45); }
   .opt:hover { border-color: var(--accent); }
   .day:hover { border-color: transparent; transform: translateY(-2px); box-shadow: 0 6px 22px rgba(234, 88, 12, .35); }
   .day:hover::before { opacity: 1; animation: spin 1.6s linear infinite; }
+  .day:hover .sky line { stroke: var(--accent); opacity: .75; filter: drop-shadow(0 0 1.5px var(--accent)); }
+  .day:hover .sky circle { fill: var(--accent); opacity: 1; filter: drop-shadow(0 0 2px var(--accent)); animation: twinkle 2s ease-in-out infinite alternate; }
   #flip:hover { opacity: .9; }
 }
 @media (prefers-reduced-motion: reduce) { *, *::before { transition: none !important; animation: none !important; } }
