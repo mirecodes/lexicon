@@ -71,7 +71,7 @@ main { flex: 1; min-height: 0; display: flex; width: 100%; max-width: 640px; mar
 
 /* cards */
 #pos { margin: 0; font-size: 14px; color: var(--muted); text-align: center; font-variant-numeric: tabular-nums; }
-.stage { flex: 1; min-height: 0; perspective: 1400px; touch-action: pan-y; }
+.stage { flex: 1; min-height: 0; perspective: 1400px; touch-action: pan-y; container-type: size; }
 @media (pointer: coarse) { .stage { -webkit-user-select: none; user-select: none; } }
 #slide { width: 100%; height: 100%; transition: transform .16s ease-out, opacity .16s ease-out; }
 #slide.drag { transition: none; }
@@ -94,6 +94,18 @@ main { flex: 1; min-height: 0; display: flex; width: 100%; max-width: 640px; mar
 .lists { color: var(--muted); font-size: 13px; margin: 4px 0 0; }
 .hint { color: var(--muted); font-size: 13px; margin: 20px 0 0; }
 .back { transform: rotateY(180deg); }
+/* English day decks: the day's constellation on the front card, top left; turns away with the front when flipped */
+.card-sky {
+  position: absolute; top: 14px; left: 14px; width: clamp(48px, min(24cqw, 30cqh), 128px); pointer-events: none; /* cq*: the .stage */
+  backface-visibility: hidden; -webkit-backface-visibility: hidden; transform: translateZ(1px);
+  color: var(--text); --glow: rgba(255, 255, 255, .9);
+}
+:root[data-theme="light"] .card-sky { --glow: rgba(100, 116, 139, .6); }
+@media (prefers-color-scheme: light) { :root:not([data-theme="dark"]) .card-sky { --glow: rgba(100, 116, 139, .6); } }
+.card-sky svg { display: block; width: 100%; height: auto; aspect-ratio: 1; overflow: visible; filter: drop-shadow(0 0 1.5px var(--glow)); }
+/* resting look; the sweeping light is driven from CardSky in Cards.tsx */
+.card-sky line { stroke: currentColor; stroke-width: .9; opacity: .14; }
+.card-sky circle { fill: currentColor; stroke: none; opacity: .3; }
 .back h2, dialog h2 { font-size: 22px; margin: 0 0 8px; overflow-wrap: anywhere; }
 .sense { padding: 12px 0; border-top: 1px solid var(--border); cursor: auto; }
 .tag { color: var(--accent); font-size: 13px; font-weight: 600; }
@@ -140,6 +152,7 @@ main { flex: 1; min-height: 0; display: flex; width: 100%; max-width: 640px; mar
 .level { font-size: 15px; font-weight: 600; margin: 16px 0 8px; }
 .level:first-child { margin-top: 0; }
 .grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; align-content: start; padding: 4px; }
+@media (max-width: 400px) { .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; } } /* iPhone 15 (393px) and narrower */
 .day {
   position: relative; aspect-ratio: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px; padding: 8px;
   color: inherit; text-decoration: none; text-align: center; background: var(--card); border: 1px solid var(--border); border-radius: 8px;
@@ -167,19 +180,26 @@ main { flex: 1; min-height: 0; display: flex; width: 100%; max-width: 640px; mar
   fill: var(--accent); opacity: 1; filter: drop-shadow(0 0 2px var(--accent)); animation: twinkle 2s ease-in-out infinite alternate;
 }
 @keyframes twinkle { from { opacity: .55; } to { opacity: 1; } }
-/* deep-sky object behind a German day: muted colour, then full colour with a glow on hover/press and once done */
-.deep {
-  position: absolute; inset: 0; width: 100%; height: 100%; border-radius: inherit; pointer-events: none; stroke: none;
-  opacity: .3; filter: saturate(.55); transition: opacity .4s, filter .4s;
+/* photo of a solar-system body, star or nebula behind a German day: grey and dim, then lit in colour on hover/press and once done */
+.body {
+  position: absolute; inset: 0; margin: auto; width: var(--s); height: var(--s); object-fit: cover; border-radius: inherit; pointer-events: none;
+  --s: 90%;
+  -webkit-mask-image: radial-gradient(circle, #000 45%, transparent 72%); mask-image: radial-gradient(circle, #000 45%, transparent 72%);
+  opacity: .28; filter: grayscale(1) brightness(.9); transition: opacity .45s, filter .45s, transform .45s;
 }
-.day:active .deep, .day.done .deep { opacity: 1; filter: saturate(1.25) drop-shadow(0 0 3px rgba(255, 200, 150, .35)); }
-.day:active .deep .tw, .day.done .deep .tw { animation: twinkle 2s ease-in-out infinite alternate; }
+/* .webp copies already have the black sky turned transparent, so they need no edge fade */
+.body[src$=".webp"]:not(.comet) { -webkit-mask-image: none; mask-image: none; }
+.body.small { --s: 42%; }  /* asteroids, comet nuclei */
+.body.planet { --s: 62%; object-fit: contain; } /* planets and moons; contain keeps Saturn's rings */
+.body.comet { --s: 80%; object-fit: contain; }  /* comets with tails, turned so the tail points to the top right */
+.day:active .body, .day.done .body { opacity: 1; filter: grayscale(0) saturate(1.2) brightness(1.08); transform: scale(1.04); }
 .day b, .day span { text-shadow: 0 1px 3px var(--card), 0 0 6px var(--card); }
 /* name of the constellation / object at the bottom; Day and progress stay centred above it */
 .day:has(.sky-name) b { margin-top: auto; }
 .sky-name {
-  position: relative; margin-top: auto; font-size: 10px; letter-spacing: .04em; color: var(--muted); opacity: .7;
-  line-height: 1.15; pointer-events: none; text-shadow: 0 1px 3px var(--card); /* two-word names wrap on phones */
+  position: relative; margin-top: auto; max-width: 100%; font-size: 10px; letter-spacing: .04em; color: var(--muted); opacity: .7;
+  line-height: 1.15; pointer-events: none; text-shadow: 0 1px 3px var(--card);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; /* one line, so the card stays square */
 }
 .day.done span { color: var(--accent); font-weight: 600; }
 .day.last { border-color: var(--accent); }
@@ -213,6 +233,10 @@ dialog::backdrop { background: rgba(0, 0, 0, .45); }
 .sheet-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 8px; padding: 12px 16px 4px; }
 .sheet { overflow-y: auto; overscroll-behavior: contain; padding: 0 16px; padding-bottom: max(16px, env(safe-area-inset-bottom)); }
 .note { font-size: 13px; color: var(--muted); margin: 8px 0 0; }
+.credits { margin: 0 0 16px; font-size: 12px; color: var(--muted); }
+.credits summary { font-size: 13px; font-weight: 600; cursor: pointer; min-height: 32px; }
+.credits ul { margin: 4px 0 0; padding-left: 16px; }
+.credits a { color: inherit; }
 @media (min-width: 640px) { dialog { margin: auto; border-radius: 8px; } }
 @media (max-height: 480px) {
   .face { padding: 12px; }
@@ -226,8 +250,7 @@ dialog::backdrop { background: rgba(0, 0, 0, .45); }
   .day:hover { border-color: transparent; transform: translateY(-2px); box-shadow: 0 6px 22px rgba(234, 88, 12, .35); }
   .day:hover::before { opacity: 1; animation: spin 1.6s linear infinite; }
   .day:hover .sky line { stroke: var(--accent); opacity: .75; filter: drop-shadow(0 0 1.5px var(--accent)); }
-  .day:hover .deep { opacity: 1; filter: saturate(1.25) drop-shadow(0 0 3px rgba(255, 200, 150, .35)); }
-  .day:hover .deep .tw { animation: twinkle 2s ease-in-out infinite alternate; }
+  .day:hover .body { opacity: 1; filter: grayscale(0) saturate(1.2) brightness(1.08); transform: scale(1.04); }
   .day:hover .sky circle { fill: var(--accent); opacity: 1; filter: drop-shadow(0 0 2px var(--accent)); animation: twinkle 2s ease-in-out infinite alternate; }
   #flip:hover { opacity: .9; }
 }

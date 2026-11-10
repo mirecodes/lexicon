@@ -5,6 +5,7 @@ import { grammarLine, isEn, listNames } from "./lexicon.ts";
 import type { Deck } from "./lexicon.ts";
 import { GrammarTable, Headword, Reading, Senses, Stars, WordMeta } from "./words.tsx";
 import type { Word } from "./types.ts";
+import type { Constellation } from "./constellations.ts";
 
 const calm = matchMedia("(prefers-reduced-motion: reduce)");
 const Chevron = ({ d }: { d: string }) => <svg viewBox="0 0 24 24" aria-hidden="true"><path d={d} /></svg>;
@@ -21,7 +22,47 @@ function Front({ w, first }: { w: Word; first: boolean }) {
   );
 }
 
-export function Cards({ deck, setFill }: { deck: Deck; setFill(pct: number): void }) {
+/* the day's constellation in the front card's top-left corner. A band of light sweeps across it in a straight line;
+   each pass takes a new random direction. */
+const SWEEP_MS = 12000, REST_MS = 4000, BAND = 0.14;
+function CardSky({ c }: { c: Constellation }) {
+  const svg = useRef<SVGSVGElement>(null);
+  useEffect(() => {
+    if (calm.matches) return;
+    // every line and star as a point (line midpoint) in the 0-100 box
+    const els = [...svg.current!.querySelectorAll<SVGElement>("line, circle")];
+    const pts = [...c.lines.map(([a, b]) => [(c.stars[a][0] + c.stars[b][0]) / 2, (c.stars[a][1] + c.stars[b][1]) / 2]), ...c.stars];
+    let pos: number[] = [], start = 0, raf = 0;
+    const newPass = (now: number) => {
+      const a = Math.random() * Math.PI * 2, dx = Math.cos(a), dy = Math.sin(a);
+      const proj = pts.map(([x, y]) => x * dx + y * dy), lo = Math.min(...proj), hi = Math.max(...proj);
+      pos = proj.map((p) => (p - lo) / (hi - lo || 1)); // 0 where the wave enters, 1 where it leaves
+      start = now;
+    };
+    const frame = (now: number) => {
+      if (!start || now - start > SWEEP_MS + REST_MS) newPass(now);
+      const front = -BAND * 2 + ((now - start) / SWEEP_MS) * (1 + BAND * 4); // runs past both ends so the edges fade in and out
+      // opacity only: cheap to animate every frame (the glow is one fixed filter on the svg, see .card-sky svg)
+      els.forEach((el, i) => {
+        const lit = Math.exp(-(((pos[i] - front) / BAND) ** 2));
+        el.style.opacity = (el.tagName === "line" ? 0.14 + lit * 0.76 : 0.3 + lit * 0.7).toFixed(3);
+      });
+      raf = requestAnimationFrame(frame);
+    };
+    raf = requestAnimationFrame(frame);
+    return () => cancelAnimationFrame(raf);
+  }, [c]);
+  return (
+    <div className="card-sky" aria-hidden="true">
+      <svg ref={svg} viewBox="0 0 100 100">
+        {c.lines.map(([a, b]) => <line key={`${a}-${b}`} x1={c.stars[a][0]} y1={c.stars[a][1]} x2={c.stars[b][0]} y2={c.stars[b][1]} />)}
+        {c.stars.map(([x, y], i) => <circle key={i} cx={x} cy={y} r="1.8" />)}
+      </svg>
+    </div>
+  );
+}
+
+export function Cards({ deck, setFill, sky }: { deck: Deck; setFill(pct: number): void; sky?: Constellation }) {
   const [idx, setIdx] = useState(deck.start);
   const [flipped, setFlipped] = useState(false);
   const [still, setStill] = useState(false); // flip back without the rotation when the word changes
@@ -125,6 +166,7 @@ export function Cards({ deck, setFill }: { deck: Deck; setFill(pct: number): voi
                 ? <><h2>{deck.title} 완료</h2><p className="lists">{list.length}단어를 모두 넘겼습니다.</p></>
                 : <Front w={w} first={idx === 0} />}
             </div>
+            {sky && <CardSky c={sky} />}
             <div className="face back" ref={back} inert={!flipped}>
               {!done && <><h2><Headword w={w} /></h2><Reading w={w} /><GrammarTable w={w} /><WordMeta w={w} /><Senses w={w} /></>}
             </div>

@@ -38,6 +38,7 @@ npm run dev
 - 영어 뜻·예문·동의어: [Open English WordNet](https://en-word.net) (CC BY 4.0), [Wiktionary](https://en.wiktionary.org) ([kaikki.org](https://kaikki.org) 추출본, CC BY-SA 4.0)
 - 사용 빈도: [wordfreq](https://github.com/rspeer/wordfreq)
 - Day별 카드의 별자리 선: [d3-celestial](https://github.com/ofrohn/d3-celestial) (BSD-3-Clause) 데이터를 투영해 `src/constellations.ts`로 만들었습니다.
+- 독일어 Day 카드의 천체 사진: [Wikimedia Commons](https://commons.wikimedia.org)의 퍼블릭 도메인·CC 라이선스 이미지(대부분 NASA·ESA·ESO)입니다. 사진별 저작자와 라이선스는 `src/bodies.ts`와 앱의 설정 › 천체 이미지 출처에 있습니다.
 - 한글 뜻, 유래 요약, 일부 예문: Claude가 작성했으며 사람의 검수를 거치지 않았습니다.
 
 - 독일어 표제어와 레벨: Goethe-Institut 시험 단어 목록 (목록의 예문은 사용하지 않음)

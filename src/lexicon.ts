@@ -71,7 +71,7 @@ export interface Progress { i: number; done: boolean }
 export const getProgress = (lang: Lang) => store.get<Record<string, Progress>>(skey(lang, "prog")) ?? {};
 export const getLastDay = (lang: Lang) => store.get<string>(skey(lang, "lastDay"));
 
-export interface Deck { title: string; list: Word[]; start: number; doneLabel: string; doneHash: string; save(i: number): void }
+export interface Deck { title: string; list: Word[]; start: number; doneLabel: string; doneHash: string; day?: number; save(i: number): void }
 
 export function dayDeck(lang: Lang, words: Word[], id: string | undefined): Deck {
   const ds = groups(lang, words).flatMap((g) => g.days);
@@ -79,7 +79,7 @@ export function dayDeck(lang: Lang, words: Word[], id: string | undefined): Deck
   const d = ds[i], next = ds[i + 1];
   const p = getProgress(lang)[d.id];
   return {
-    title: dayTitle(d), list: d.list, start: p && !p.done ? Math.min(p.i, d.list.length - 1) : 0,
+    title: dayTitle(d), day: d.n, list: d.list, start: p && !p.done ? Math.min(p.i, d.list.length - 1) : 0,
     doneLabel: next ? `${dayTitle(next)} 시작` : "목록으로", doneHash: next ? `#/${lang}/day/${next.id}` : `#/${lang}/days`,
     save(j) {
       const all = getProgress(lang);

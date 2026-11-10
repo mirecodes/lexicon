@@ -1,7 +1,7 @@
 import { Fragment, memo, useCallback, useDeferredValue, useEffect, useMemo, useRef, useState, useSyncExternalStore, type ReactNode } from "react";
 import { Cards } from "./Cards.tsx";
 import { CONSTELLATIONS, type Constellation } from "./constellations.ts";
-import { DEEP_SKY, DeepSky } from "./DeepSky.tsx";
+import { BODIES } from "./bodies.ts";
 import {
   LANGS, PART_NAMES, TODAY_COUNT, dayDeck, getLastDay, getProgress, getTheme, gloss, grammarLine, groups, isEn, isLang,
   keyOf, levelOf, load, loadSynonyms, setTheme, sortText, store, todayDeck, type Loaded, type Theme,
@@ -92,7 +92,6 @@ function PartSheet({ partKey, data }: { partKey: string; data: Loaded }) {
 /* day grid */
 function Days({ lang, words }: { lang: Lang; words: Word[] }) {
   const prog = getProgress(lang), last = getLastDay(lang);
-  let k = 0; // running day number across levels, so each German day gets its own object
   return (
     <section className="view">
       <p className="title">{LANGS[lang].daysTitle}</p>
@@ -103,13 +102,14 @@ function Days({ lang, words }: { lang: Lang; words: Word[] }) {
             {g.lv && <p className="level">{g.lv.toUpperCase()} · {g.days.reduce((s, d) => s + d.list.length, 0)}단어</p>}
             <div className="grid">
               {g.days.map((d) => {
-                const p = prog[d.id], i = k++;
-                const c = lang === "en" ? CONSTELLATIONS[i % CONSTELLATIONS.length] : null;
-                const o = lang === "de" ? DEEP_SKY[i % DEEP_SKY.length] : null;
+                const p = prog[d.id];
+                const c = lang === "en" ? CONSTELLATIONS[(d.n - 1) % CONSTELLATIONS.length] : null;
+                const set = lang === "de" && d.lv ? BODIES[d.lv as keyof typeof BODIES] : null; // A1 small bodies, A2 planets and moons, B1 stars and nebulae
+                const o = set?.length ? set[(d.n - 1) % set.length] : null;
                 return (
                   <a key={d.id} href={`#/${lang}/day/${d.id}`} className={["day", p?.done && "done", d.id === String(last) && "last"].filter(Boolean).join(" ")}>
                     {c && <Sky c={c} />}
-                    {o && <DeepSky o={o} />}
+                    {o && <img className={`body ${o.kind}`} style={o.rotate ? { rotate: `${o.rotate}deg` } : undefined} src={`sky/${o.img}`} alt="" loading="lazy" decoding="async" title={`${o.name} · ${o.credit} (${o.license})`} />}
                     <b>Day {d.n}</b>
                     {/* words gone through so far, out of the day's total */}
                     <span>{p?.done ? d.list.length : p?.i ?? 0}/{d.list.length}</span>
@@ -200,6 +200,14 @@ function Settings({ lang, tab, onClose }: { lang: Lang; tab: Tab; onClose(): voi
           </label>
         ))}
       </fieldset>
+      <details className="credits">
+        <summary>천체 이미지 출처</summary>
+        <ul>
+          {Object.values(BODIES).flat().map((b) => (
+            <li key={b.img}><a href={b.page} target="_blank" rel="noreferrer">{b.name}</a> · {b.credit} · {b.license}</li>
+          ))}
+        </ul>
+      </details>
     </div>
   );
 }
@@ -239,7 +247,8 @@ export function App() {
   else if (!loaded) main = <section className="view"><p id="pos">불러오는 중…</p></section>;
   else if (view === "days") main = <Days lang={lang} words={loaded.words} />;
   else if (view === "list") main = <WordList key={lang} lang={lang} words={loaded.words} />;
-  else main = <Cards key={hash + lang} deck={deck!} setFill={setFill} />;
+  else main = <Cards key={hash + lang} deck={deck!} setFill={setFill}
+    sky={lang === "en" && deck?.day ? CONSTELLATIONS[(deck.day - 1) % CONSTELLATIONS.length] : undefined} />;
 
   const sheetTitle = sheet?.kind === "word"
     ? (loaded?.byWord.get(sheet.word.toLowerCase()) ? <Headword w={loaded.byWord.get(sheet.word.toLowerCase())!} /> : sheet.word)
