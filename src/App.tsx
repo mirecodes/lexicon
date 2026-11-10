@@ -1,6 +1,7 @@
 import { Fragment, memo, useCallback, useDeferredValue, useEffect, useMemo, useRef, useState, useSyncExternalStore, type ReactNode } from "react";
 import { Cards } from "./Cards.tsx";
 import { CONSTELLATIONS, type Constellation } from "./constellations.ts";
+import { DEEP_SKY, DeepSky } from "./DeepSky.tsx";
 import {
   LANGS, PART_NAMES, TODAY_COUNT, dayDeck, getLastDay, getProgress, getTheme, gloss, grammarLine, groups, isEn, isLang,
   keyOf, levelOf, load, loadSynonyms, setTheme, sortText, store, todayDeck, type Loaded, type Theme,
@@ -91,6 +92,7 @@ function PartSheet({ partKey, data }: { partKey: string; data: Loaded }) {
 /* day grid */
 function Days({ lang, words }: { lang: Lang; words: Word[] }) {
   const prog = getProgress(lang), last = getLastDay(lang);
+  let k = 0; // running day number across levels, so each German day gets its own object
   return (
     <section className="view">
       <p className="title">{LANGS[lang].daysTitle}</p>
@@ -101,12 +103,17 @@ function Days({ lang, words }: { lang: Lang; words: Word[] }) {
             {g.lv && <p className="level">{g.lv.toUpperCase()} · {g.days.reduce((s, d) => s + d.list.length, 0)}단어</p>}
             <div className="grid">
               {g.days.map((d) => {
-                const p = prog[d.id];
+                const p = prog[d.id], i = k++;
+                const c = lang === "en" ? CONSTELLATIONS[i % CONSTELLATIONS.length] : null;
+                const o = lang === "de" ? DEEP_SKY[i % DEEP_SKY.length] : null;
                 return (
                   <a key={d.id} href={`#/${lang}/day/${d.id}`} className={["day", p?.done && "done", d.id === String(last) && "last"].filter(Boolean).join(" ")}>
-                    {lang === "en" && <Sky c={CONSTELLATIONS[(d.n - 1) % CONSTELLATIONS.length]} />}
+                    {c && <Sky c={c} />}
+                    {o && <DeepSky o={o} />}
                     <b>Day {d.n}</b>
-                    <span>{p?.done ? "완료" : p?.i ? `${p.i + 1} / ${d.list.length}` : `${d.list.length}단어`}</span>
+                    {/* words gone through so far, out of the day's total */}
+                    <span>{p?.done ? d.list.length : p?.i ?? 0}/{d.list.length}</span>
+                    {(c || o) && <small className="sky-name">{c?.en ?? o?.name}</small>}
                   </a>
                 );
               })}
@@ -121,14 +128,11 @@ function Days({ lang, words }: { lang: Lang; words: Word[] }) {
 /* faint constellation behind a GRE day card; it lights up on hover and once the day is done */
 function Sky({ c }: { c: Constellation }) {
   return (
-    <>
-      <svg className="sky" viewBox="0 0 100 100" aria-hidden="true">
-        <title>{`${c.ko} (${c.en})`}</title>
-        {c.lines.map(([a, b]) => <line key={`${a}-${b}`} x1={c.stars[a][0]} y1={c.stars[a][1]} x2={c.stars[b][0]} y2={c.stars[b][1]} />)}
-        {c.stars.map(([x, y], i) => <circle key={i} cx={x} cy={y} r="1.6" style={{ animationDelay: `${(i * 0.37) % 2}s` }} />)}
-      </svg>
-      <small className="sky-name">{c.en}</small>
-    </>
+    <svg className="sky" viewBox="0 0 100 100" aria-hidden="true">
+      <title>{`${c.ko} (${c.en})`}</title>
+      {c.lines.map(([a, b]) => <line key={`${a}-${b}`} x1={c.stars[a][0]} y1={c.stars[a][1]} x2={c.stars[b][0]} y2={c.stars[b][1]} />)}
+      {c.stars.map(([x, y], i) => <circle key={i} cx={x} cy={y} r="1.6" style={{ animationDelay: `${(i * 0.37) % 2}s` }} />)}
+    </svg>
   );
 }
 
