@@ -1,11 +1,16 @@
 """Assemble de/<level>/<letter>.json and de/parts.json from Goethe lemmas + Wiktionary grammar + dcurated/*.json."""
-import collections, json, re, sys, urllib.parse
+import collections, json, re, sys, unicodedata, urllib.parse
 from pathlib import Path
 from wordfreq import zipf_frequency
 
 D, DE = Path(sys.argv[1]), Path(sys.argv[2])
-sys.path.insert(0, str(DE / "tools"))
-from validate import chapter
+
+
+def chapter(word):
+    """Letter file for a lemma: first letter with umlauts folded, Äpfel -> a (same rule as deChapter in scripts/data.ts)."""
+    s = unicodedata.normalize("NFKD", word.casefold())
+    s = re.sub("[^a-z]", "", "".join(c for c in s if not unicodedata.combining(c)))
+    return s[:1] or "_"
 
 merged = json.loads((D / "de_merged.json").read_text())
 ART = {"der": "m", "die": "f", "das": "n"}

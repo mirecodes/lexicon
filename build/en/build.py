@@ -3,8 +3,12 @@ import collections, gzip, json, sys, unicodedata, urllib.parse, xml.etree.Elemen
 from pathlib import Path
 
 D, EN = Path(sys.argv[1]), Path(sys.argv[2])
-sys.path.insert(0, str(EN / "tools"))
-from validate import chapter
+
+
+def chapter(word):
+    """Chapter file for a word: its first two letters (same rule as enChapter in scripts/data.ts)."""
+    return "".join(c for c in word if "a" <= c <= "z")[:2]
+
 
 POS = {"n": "noun", "v": "verb", "a": "adj", "s": "adj", "r": "adv"}
 SKIP_TAGS = {"obsolete", "archaic", "rare", "dialectal", "historical"}

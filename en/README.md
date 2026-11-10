@@ -9,9 +9,9 @@ en/
   a/ab.json … z/ze.json   단어 챕터: 표제어 앞 두 글자 기준, 파일 안은 알파벳순
   roots.json              어근·접두사·접미사 사전 {id: {type, ko}}
   synonyms.json           DB에 없는 동의어의 뜻 {word: [sense]}
-  tools/validate.py       무결성 검사
-  tools/bundle.py         앱용 words.json 생성 (중요도순)
 ```
+
+검사와 앱용 묶음(중요도순)은 저장소 루트의 `scripts/data.ts`가 맡습니다. 항목의 TypeScript 형식은 `src/types.ts`의 `EnEntry`입니다.
 
 ## 항목 형식
 
@@ -38,7 +38,7 @@ en/
 
 - `lists`: 이 단어가 실린 단어장
 - `zipf`: 영어 사용 빈도 ([wordfreq](https://github.com/rspeer/wordfreq), 0~8, 높을수록 흔함)
-- `score`: 중요도 0~100 = 80 × (단어장 수 / 5) + 20 × (빈도가 GRE 핵심 단어 중앙값 Zipf 2.5에 가까운 정도). 공식은 `tools/validate.py`의 `score()`
+- `score`: 중요도 0~100 = 80 × (단어장 수 / 5) + 20 × (빈도가 GRE 핵심 단어 중앙값 Zipf 2.5에 가까운 정도). 공식은 `scripts/data.ts`의 `score()`
 - `source`: 영어 뜻과 예문의 출처. `oewn`은 [Open English WordNet](https://en-word.net) (CC BY 4.0), `wiktionary`는 [Wiktionary](https://en.wiktionary.org) (CC BY-SA, [kaikki.org](https://kaikki.org) 추출본), `generated`는 Claude가 작성
 - `ko_source: generated`: 한글 뜻은 모두 Claude가 작성했습니다. 사람의 검수를 거치지 않았습니다.
 - `parts`: `roots.json`의 id. 같은 철자라도 뜻이 다른 형태소는 `in-(부정)`, `in-(안으로)`처럼 구분합니다.
@@ -48,12 +48,8 @@ en/
 
 1. 해당 챕터 파일(`b/ba.json` 등)에서 알파벳 순서를 지켜 항목을 추가하거나 고치거나 지웁니다. 새 챕터가 필요하면 `<첫 글자>/<앞 두 글자>.json` 파일을 만듭니다.
 2. `score`는 `lists`와 `zipf`로 계산한 값이어야 합니다. 검사기가 틀린 값을 알려 줍니다.
-3. 다음 두 명령으로 검사하고 앱 데이터를 다시 만듭니다.
+3. 저장소 루트에서 검사합니다. 앱 데이터는 `npm run dev`·`npm run build`가 다시 만들고, 배포 때는 GitHub Actions가 검사와 빌드를 함께 합니다.
 
 ```bash
-python3 en/tools/validate.py
-```
-
-```bash
-python3 en/tools/bundle.py
+npm run validate
 ```

@@ -9,9 +9,9 @@ de/
   a1/a.json … a1/z.json   레벨별, 첫 글자별 챕터 (Ä는 a, Ü는 u로). 파일 안은 알파벳순
   a2/…  b1/…
   parts.json              전철·어간·접미사 사전 {"an|sep": {form, type, ko}}
-  tools/validate.py       무결성 검사
-  tools/bundle.py         앱용 words-de.json 생성 (레벨순, 레벨 안에서는 빈도순)
 ```
+
+검사와 앱용 묶음(레벨순, 레벨 안에서는 빈도순)은 저장소 루트의 `scripts/data.ts`가 맡습니다. 항목의 TypeScript 형식은 `src/types.ts`의 `DeEntry`입니다.
 
 ## 항목 형식
 
@@ -59,12 +59,8 @@ de/
 
 ## 추가·수정·삭제
 
-해당 레벨·글자 파일에서 알파벳 순서를 지켜 고친 뒤, 다음 두 명령을 실행합니다.
+해당 레벨·글자 파일에서 알파벳 순서를 지켜 고친 뒤, 저장소 루트에서 검사합니다. 앱 데이터는 `npm run dev`·`npm run build`가 다시 만듭니다.
 
 ```bash
-python3 de/tools/validate.py
-```
-
-```bash
-python3 de/tools/bundle.py
+npm run validate
 ```

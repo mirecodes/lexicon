@@ -1,6 +1,6 @@
 # 데이터 빌드 파이프라인
 
-`en/`과 `de/`의 데이터를 처음부터 다시 만드는 스크립트와, 단계별로 Claude 작업자(서브에이전트)에게 준 지침입니다. 평소 단어를 고치거나 추가할 때는 이 파이프라인이 필요 없습니다. 챕터 파일을 직접 고치고 `validate.py`와 `bundle.py`만 실행하면 됩니다(`en/README.md`, `de/README.md` 참고).
+`en/`과 `de/`의 데이터를 처음부터 다시 만드는 스크립트와, 단계별로 Claude 작업자(서브에이전트)에게 준 지침입니다. 평소 단어를 고치거나 추가할 때는 이 파이프라인이 필요 없습니다. 챕터 파일을 직접 고치고 `npm run validate`만 실행하면 됩니다(`en/README.md`, `de/README.md` 참고).
 
 - `*.py`: 결정적인 단계(목록 병합, 사전 수집, 조립, 검사)
 - `*.md`: 사람의 판단이 필요한 단계(뜻 고르기, 한글 뜻, 예문, 어근, 유래)를 맡긴 작업자 지침. 묶음 하나(`NN`)마다 작업자 하나에게 "작업 폴더 W에서 X.md를 따르라"고 맡깁니다. 작업자는 검사 스크립트가 오류 0을 낼 때까지 고칩니다.
@@ -51,7 +51,7 @@ curl -L -o $W/oewn/oewn2025.xml.gz https://github.com/globalwordnet/english-word
    - 묶음마다 작업자: `ETYM.md` → `W/parts/NN.json`
    - `python3 $W/scripts/make_roots_raw.py $W`, 작업자 하나: `NORM.md` → `W/roots_norm.json`
    - `python3 $W/scripts/norm.py $W en` → `W/roots_map.json`, `en/roots.json`
-8. 최종 조립: `python3 $W/scripts/build.py $W en`, 그다음 `python3 en/tools/validate.py`, `python3 en/tools/bundle.py`
+8. 최종 조립: `python3 $W/scripts/build.py $W en`, 그다음 `npm run validate`
 
 `build/en/fixes.json`은 사람이 직접 고친 뜻풀이로, 조립할 때 큐레이션 결과 위에 덮어씁니다.
 
@@ -69,6 +69,6 @@ curl -L -o $W/oewn/oewn2025.xml.gz https://github.com/globalwordnet/english-word
    - `python3 $W/scripts/de_batches.py $W` → `W/dbatches/NN.jsonl`
    - 묶음마다 작업자: `DE.md` → `W/dcurated/NN.json`
    - 전체 검사: `python3 -I $W/scripts/check_de.py $W`
-5. 조립: `$W/venv/bin/python $W/scripts/de_build.py $W de`, 그다음 `python3 de/tools/validate.py`, `python3 de/tools/bundle.py`
+5. 조립: `$W/venv/bin/python $W/scripts/de_build.py $W de`, 그다음 `npm run validate`
 
 `de_build.py`는 활용형 항목과 고유명사를 건너뛰고, Goethe 관사와 성별이 맞는 명사를 고르는 등 `de_batches.py`보다 엄격하게 사전 항목을 고릅니다. 두 단계에서 고른 항목이 다른 단어는 작업자가 엉뚱한 뜻을 받았을 수 있습니다. 이번 빌드에서는 그런 단어 105개를 모아 다시 맡겼습니다(`dbatches/16.jsonl`, 묶음 번호가 클수록 나중에 덮어씀). 지역어 제외 목록(`REGIONAL`)과 활용형 제외 목록(`JUNK`)은 `de_build.py`에 있습니다.
