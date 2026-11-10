@@ -72,3 +72,23 @@ curl -L -o $W/oewn/oewn2025.xml.gz https://github.com/globalwordnet/english-word
 5. 조립: `$W/venv/bin/python $W/scripts/de_build.py $W de`, 그다음 `npm run validate`
 
 `de_build.py`는 활용형 항목과 고유명사를 건너뛰고, Goethe 관사와 성별이 맞는 명사를 고르는 등 `de_batches.py`보다 엄격하게 사전 항목을 고릅니다. 두 단계에서 고른 항목이 다른 단어는 작업자가 엉뚱한 뜻을 받았을 수 있습니다. 이번 빌드에서는 그런 단어 105개를 모아 다시 맡겼습니다(`dbatches/16.jsonl`, 묶음 번호가 클수록 나중에 덮어씀). 지역어 제외 목록(`REGIONAL`)과 활용형 제외 목록(`JUNK`)은 `de_build.py`에 있습니다.
+
+## 일본어 (`ja/`)
+
+준비: `mkdir -p $W/lists/yomi $W/dict && cp build/ja/*.py $W/scripts/ && cp build/ja/*.md $W/`, venv에는 `$W/venv/bin/pip install 'wordfreq[cjk]'`.
+
+1. JLPT 목록(JMdict 번호 포함) 내려받기 ([stephenmk/yomitan-jlpt-vocab](https://github.com/stephenmk/yomitan-jlpt-vocab), Waller 목록 기반)
+
+   ```bash
+   for n in 1 2 3 4 5; do gh api repos/stephenmk/yomitan-jlpt-vocab/contents/original_data/n$n.csv -H 'Accept: application/vnd.github.raw' > $W/lists/yomi/n$n.csv; done
+   ```
+
+2. JMdict·KANJIDIC2 내려받기: [jmdict-simplified 릴리스](https://github.com/scriptin/jmdict-simplified/releases/latest)의 `jmdict-eng-*.json.tgz`, `kanjidic2-en-*.json.tgz`를 `W/dict/`에 풀기
+3. 병합 → `W/ja_merged.json`, `W/jbatches/`, `W/kbatches/`: `$W/venv/bin/python $W/scripts/ja_merge.py $W` (둘째 인자로 레벨 지정, 기본 `5,4,3`. N2·N1까지는 `5,4,3,2,1`)
+4. 큐레이션
+   - 단어 묶음마다 작업자: `JA.md` → `W/jcurated/NN.json`
+   - 한자 묶음마다 작업자: `KANJI.md` → `W/kcurated/NN.json`
+   - 전체 검사: `python3 -I $W/scripts/check_ja.py $W words`, `python3 -I $W/scripts/check_ja.py $W kanji`
+5. 조립: `python3 $W/scripts/ja_build.py $W ja`, 그다음 `npm run validate`
+
+품사·동사 그룹·자타동사는 JMdict 첫 뜻의 품사 태그로 정하고(`ja_merge.py`의 `grammar`), 단어의 한자 분해도 표기에서 기계적으로 뽑습니다. 작업자는 뜻 고르기, 한글 뜻, 예문, 한자 훈만 씁니다.

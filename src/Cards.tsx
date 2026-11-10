@@ -1,9 +1,9 @@
 /* Flash cards: tap to flip, swipe or arrow keys to move. */
 import { useEffect, useLayoutEffect, useRef, useState, type PointerEvent } from "react";
 import { flushSync } from "react-dom";
-import { grammarLine, isDe, listNames } from "./lexicon.ts";
+import { grammarLine, isEn, listNames } from "./lexicon.ts";
 import type { Deck } from "./lexicon.ts";
-import { GrammarTable, Headword, Senses, Stars, WordMeta } from "./words.tsx";
+import { GrammarTable, Headword, Reading, Senses, Stars, WordMeta } from "./words.tsx";
 import type { Word } from "./types.ts";
 
 const calm = matchMedia("(prefers-reduced-motion: reduce)");
@@ -13,9 +13,9 @@ function Front({ w, first }: { w: Word; first: boolean }) {
   return (
     <>
       <h2><Headword w={w} /></h2>
-      {isDe(w)
-        ? <><p className="gline">{grammarLine(w)}</p><p className="lists">{w.level.toUpperCase()}</p></>
-        : <><Stars score={w.score} className="score" /><p className="lists">{listNames(w)}</p></>}
+      {isEn(w)
+        ? <><Stars score={w.score} className="score" /><p className="lists">{listNames(w)}</p></>
+        : <><p className="gline">{grammarLine(w)}</p><p className="lists">{w.level.toUpperCase()}</p></>}
       {first && <p className="hint">카드를 누르면 뜻이 보이고, 좌우로 밀면 넘어갑니다.</p>}
     </>
   );
@@ -126,7 +126,7 @@ export function Cards({ deck, setFill }: { deck: Deck; setFill(pct: number): voi
                 : <Front w={w} first={idx === 0} />}
             </div>
             <div className="face back" ref={back} inert={!flipped}>
-              {!done && <><h2><Headword w={w} /></h2><GrammarTable w={w} /><WordMeta w={w} /><Senses w={w} /></>}
+              {!done && <><h2><Headword w={w} /></h2><Reading w={w} /><GrammarTable w={w} /><WordMeta w={w} /><Senses w={w} /></>}
             </div>
           </div>
         </div>

@@ -109,6 +109,8 @@ main { flex: 1; min-height: 0; display: flex; width: 100%; max-width: 640px; mar
 .dot { color: var(--muted); font-weight: 400; margin: 0 .15em; }
 .refl { color: var(--muted); font-weight: 400; }
 .gline { margin: 0; font-size: 15px; color: var(--muted); }
+.reading { margin: 2px 0 6px; font-size: 18px; }
+.part.kanji b { font-size: 20px; }
 .gtable { display: grid; grid-template-columns: max-content 1fr; gap: 2px 12px; margin: 0 0 12px; font-size: 15px; cursor: auto; }
 .gtable dt { color: var(--muted); }
 .gtable dd { margin: 0; font-weight: 600; overflow-wrap: anywhere; }

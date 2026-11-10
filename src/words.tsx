@@ -1,6 +1,6 @@
 /* Pieces that show a word: headword, stars, grammar table, parts, senses. */
 import { Fragment, createContext, useContext } from "react";
-import { GENDER, PART_NAMES, grammarRows, isDe, starCount } from "./lexicon.ts";
+import { GENDER, PART_NAMES, grammarRows, isDe, isJa, starCount } from "./lexicon.ts";
 import type { Lang, Parts, Sense, Word } from "./types.ts";
 
 export interface WordCtx {
@@ -14,6 +14,12 @@ export const useWords = () => useContext(Ctx);
 
 /* square flags, drawn inline so they need no image files */
 export function Flag({ lang }: { lang: Lang }) {
+  if (lang === "ja")
+    return (
+      <svg className="flag" viewBox="0 0 3 3" aria-hidden="true">
+        <rect width="3" height="3" fill="#fff" /><circle cx="1.5" cy="1.5" r=".9" fill="#BC002D" />
+      </svg>
+    );
   if (lang === "de")
     return (
       <svg className="flag" viewBox="0 0 3 3" aria-hidden="true">
@@ -66,17 +72,25 @@ export function Headword({ w }: { w: Word }) {
   return <span>{w.word}</span>;
 }
 
+/** Japanese reading under the headword: たべる, or いる · 居る for a word usually written in kana */
+export function Reading({ w }: { w: Word }) {
+  if (!isJa(w)) return null;
+  const text = [w.reading !== w.word && w.reading, w.kanji].filter(Boolean).join(" · ");
+  return text ? <p className="reading" lang="ja">{text}</p> : null;
+}
+
 export function GrammarTable({ w }: { w: Word }) {
   const rows = grammarRows(w);
   if (!rows.length) return null;
   return <dl className="gtable">{rows.map(([k, v], i) => <Fragment key={i}><dt>{k}</dt><dd>{v}</dd></Fragment>)}</dl>;
 }
 
-export function Chips({ items, className = "syns" }: { items: string[]; className?: string }) {
+/** word buttons; `items` are word keys, `labels` (same order) the text to show when it differs */
+export function Chips({ items, labels, className = "syns" }: { items: string[]; labels?: string[]; className?: string }) {
   const { showWord } = useWords();
   return (
     <div className={className}>
-      {items.map((x) => <button key={x} type="button" className="chip" onClick={() => showWord(x)}>{x}</button>)}
+      {items.map((x, i) => <button key={x} type="button" className="chip" onClick={() => showWord(x)}>{labels?.[i] ?? x}</button>)}
     </div>
   );
 }
@@ -100,7 +114,7 @@ export function SenseBox({ s }: { s: Sense }) {
 
 export function WordMeta({ w }: { w: Word }) {
   const { parts, showPart } = useWords();
-  const origin = isDe(w) ? undefined : w.origin;
+  const origin = "origin" in w ? w.origin : undefined;
   if (!w.parts?.length && !origin) return null;
   return (
     <div className="meta">

@@ -2,10 +2,10 @@ import { Fragment, memo, useCallback, useDeferredValue, useEffect, useMemo, useR
 import { Cards } from "./Cards.tsx";
 import { CONSTELLATIONS, type Constellation } from "./constellations.ts";
 import {
-  LANGS, PART_NAMES, TODAY_COUNT, dayDeck, getLastDay, getProgress, getTheme, gloss, grammarLine, groups, isDe, isLang,
-  load, loadSynonyms, setTheme, store, todayDeck, type Loaded, type Theme,
+  LANGS, PART_NAMES, TODAY_COUNT, dayDeck, getLastDay, getProgress, getTheme, gloss, grammarLine, groups, isEn, isLang,
+  keyOf, levelOf, load, loadSynonyms, setTheme, sortText, store, todayDeck, type Loaded, type Theme,
 } from "./lexicon.ts";
-import { Chips, Ctx, Flag, GrammarTable, Headword, SenseBox, Senses, Stars, WordMeta, useWords } from "./words.tsx";
+import { Chips, Ctx, Flag, GrammarTable, Headword, Reading, SenseBox, Senses, Stars, WordMeta, useWords } from "./words.tsx";
 import type { Lang, Sense, Word } from "./types.ts";
 
 /* routing: #/<lang>/<view>[/<day id>] */
@@ -59,9 +59,9 @@ function WordSheet({ word, data }: { word: string; data: Loaded }) {
     <div className="sheet" ref={body}>
       {entry ? (
         <>
-          {isDe(entry)
-            ? <><p className="gline">{entry.level.toUpperCase()} · {grammarLine(entry)}</p><GrammarTable w={entry} /></>
-            : <Stars score={entry.score} className="score" />}
+          {isEn(entry)
+            ? <Stars score={entry.score} className="score" />
+            : <><Reading w={entry} /><p className="gline">{entry.level.toUpperCase()} · {grammarLine(entry)}</p><GrammarTable w={entry} /></>}
           <WordMeta w={entry} />
           <Senses w={entry} />
         </>
@@ -75,14 +75,15 @@ function WordSheet({ word, data }: { word: string; data: Loaded }) {
 
 function PartSheet({ partKey, data }: { partKey: string; data: Loaded }) {
   const info = data.parts[partKey];
-  const others = useMemo(() => data.words.filter((w) => w.parts?.includes(partKey)).map((w) => w.word).sort((a, b) => a.localeCompare(b)), [data, partKey]);
+  const others = useMemo(() => data.words.filter((w) => w.parts?.includes(partKey)).sort((a, b) => sortText(a).localeCompare(sortText(b))), [data, partKey]);
   return (
     <div className="sheet">
       {info && <><span className="tag">{PART_NAMES[info.type] || info.type}</span><p className="ko">{info.ko}</p></>}
+      {info?.type === "kanji" && <p className="note" lang="ja">{[info.on?.length && `음독 ${info.on.join("、")}`, info.kun?.length && `훈독 ${info.kun.join("、")}`].filter(Boolean).join(" · ")}</p>}
       {info?.type === "sep" && <p className="note">분리 전철: 문장에서 동사와 떨어져 맨 뒤로 갑니다. 예) Ich rufe dich an.</p>}
       {info?.type === "insep" && <p className="note">비분리 전철: 동사에 항상 붙어 있고, 과거분사에 ge-가 붙지 않습니다.</p>}
       <p className="note">이 요소가 포함된 단어 {others.length}개</p>
-      <Chips items={others} className="related" />
+      <Chips items={others.map(keyOf)} labels={others.map((w) => w.word)} className="related" />
     </div>
   );
 }
@@ -135,10 +136,10 @@ function Sky({ c }: { c: Constellation }) {
 const ListRow = memo(function ListRow({ w, text, hidden }: { w: Word; text: string; hidden: boolean }) {
   const { showWord } = useWords();
   return (
-    <button type="button" className="row" hidden={hidden} onClick={() => showWord(w.word)}>
+    <button type="button" className="row" hidden={hidden} onClick={() => showWord(keyOf(w))}>
       <span className="w"><Headword w={w} /></span>
       <span className="m">{text}</span>
-      {isDe(w) ? <span className="s">{w.level.toUpperCase()}</span> : <Stars score={w.score} className="s" />}
+      {isEn(w) ? <Stars score={w.score} className="s" /> : <span className="s">{levelOf(w)!.toUpperCase()}</span>}
     </button>
   );
 });
@@ -149,8 +150,8 @@ function WordList({ lang, words }: { lang: Lang; words: Word[] }) {
   const query = useDeferredValue(q.trim().toLowerCase());
   const scroll = useRef<HTMLDivElement>(null);
   const rows = useMemo(() => {
-    const r = words.map((w) => ({ w, text: gloss(w), key: `${w.word} ${gloss(w)}`.toLowerCase() }));
-    return sort === "abc" ? r.sort((a, b) => a.w.word.localeCompare(b.w.word, lang)) : r; // words come sorted by importance
+    const r = words.map((w) => ({ w, text: gloss(w), key: `${w.word} ${"reading" in w ? w.reading : ""} ${gloss(w)}`.toLowerCase() }));
+    return sort === "abc" ? r.sort((a, b) => sortText(a.w).localeCompare(sortText(b.w), lang)) : r; // words come sorted by importance
   }, [words, sort, lang]);
   useEffect(() => { scroll.current!.scrollTop = 0; }, [rows]);
   const n = query ? rows.filter((r) => r.key.includes(query)).length : rows.length;
@@ -166,7 +167,7 @@ function WordList({ lang, words }: { lang: Lang; words: Word[] }) {
       </div>
       <p className="sub" aria-live="polite">{n.toLocaleString()}단어</p>
       <div className="scroll" ref={scroll}>
-        {rows.map((r) => <ListRow key={r.w.word} w={r.w} text={r.text} hidden={!!query && !r.key.includes(query)} />)}
+        {rows.map((r) => <ListRow key={keyOf(r.w)} w={r.w} text={r.text} hidden={!!query && !r.key.includes(query)} />)}
       </div>
     </section>
   );
@@ -179,7 +180,7 @@ function Settings({ lang, tab, onClose }: { lang: Lang; tab: Tab; onClose(): voi
     <div className="sheet">
       <fieldset className="opts">
         <legend>학습 언어</legend>
-        {([["en", "English", "GRE · 2,713단어"], ["de", "Deutsch", "A1–B1 · 2,915단어"]] as const).map(([l, name, note]) => (
+        {([["en", "English", "GRE · 2,713단어"], ["de", "Deutsch", "A1–B1 · 2,915단어"], ["ja", "日本語", "N5–N3 · 2,948단어"]] as const).map(([l, name, note]) => (
           <label key={l} className="opt">
             {/* keep the same tab; day ids differ between languages, so a day deck falls back to the day list */}
             <input type="radio" name="lang" value={l} checked={lang === l} onChange={() => { onClose(); location.hash = `#/${l}/${tab}`; }} />

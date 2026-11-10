@@ -1,22 +1,23 @@
 # Lexicon
 
-GRE 영단어와 독일어 A1–B1 단어를 하루 50단어씩 카드로 넘겨 보는 학습 앱입니다.
+GRE 영단어, 독일어 A1–B1, 일본어 JLPT N5–N3 단어를 하루 50단어씩 카드로 넘겨 보는 학습 앱입니다.
 
 - 앱: https://mirecodes.github.io/lexicon/
-- 데이터와 형식 설명: [en/README.md](en/README.md), [de/README.md](de/README.md)
+- 데이터와 형식 설명: [en/README.md](en/README.md), [de/README.md](de/README.md), [ja/README.md](ja/README.md)
 
 ## 기능
 
-- 오늘의 20단어: 날마다 바뀌는 단어 20개 (영어는 중요도 상위 절반, 독일어는 전체 레벨에서)
+- 오늘의 20단어: 날마다 바뀌는 단어 20개 (영어는 중요도 상위 절반, 독일어·일본어는 전체 레벨에서)
 - Day별 단어장: 중요도순 50단어씩, 진행 상황 저장
 - 전체 단어: 검색, A–Z·중요도순 정렬
 - 카드 뒷면: 한글·영어 뜻, 뜻별 동의어, 예문, 어근·접두사·접미사, 유래
 - 동의어나 어근을 누르면 그 뜻과 같은 어근을 가진 단어를 팝업으로 보여 줍니다.
 - 독일어: 명사는 관사와 성별 색, 복수형. 동사는 변화 유형과 현재·과거·완료형, 분리동사는 `an · rufen`처럼 나눠 표시하고 전철·어간을 누르면 뜻과 같은 요소를 가진 단어를 보여 줍니다.
+- 일본어: 앞면은 표기(食べる), 뒷면은 읽기(たべる)와 뜻. 동사 그룹(1·2·3그룹)과 자·타동사, い·な형용사를 표시하고, 단어 속 한자를 누르면 훈음(먹을 식), 음독·훈독, 같은 한자를 쓰는 단어를 보여 줍니다. 레벨별 단어장은 N5 → N4 → N3 순입니다.
 
 ## 개발
 
-React + TypeScript + Vite 앱입니다(`src/`). 단어 데이터의 원본은 `en/`, `de/`의 챕터 파일이고, `scripts/data.ts`가 이를 검사한 뒤 앱이 읽는 `public/data/`로 묶습니다(커밋하지 않음). Node 24 이상이 필요합니다.
+React + TypeScript + Vite 앱입니다(`src/`). 단어 데이터의 원본은 `en/`, `de/`, `ja/`의 챕터 파일이고, `scripts/data.ts`가 이를 검사한 뒤 앱이 읽는 `public/data/`로 묶습니다(커밋하지 않음). Node 24 이상이 필요합니다.
 
 ```bash
 npm install
@@ -40,5 +41,6 @@ npm run dev
 - 한글 뜻, 유래 요약, 일부 예문: Claude가 작성했으며 사람의 검수를 거치지 않았습니다.
 
 - 독일어 표제어와 레벨: Goethe-Institut 시험 단어 목록 (목록의 예문은 사용하지 않음)
+- 일본어 단어와 레벨: Jonathan Waller의 JLPT 목록 (CC BY). 읽기·품사·영어 뜻: [JMdict](https://www.edrdg.org/jmdict/j_jmdict.html), 한자: KANJIDIC2 (EDRDG, CC BY-SA 4.0)
 
-Wiktionary 자료를 포함하므로 `en/`, `de/` 폴더와 거기서 만든 앱 데이터는 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)을 따릅니다.
+Wiktionary·JMdict 자료를 포함하므로 `en/`, `de/`, `ja/` 폴더와 거기서 만든 앱 데이터는 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)을 따릅니다.

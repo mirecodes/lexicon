@@ -1,11 +1,11 @@
-/* Check the chapter files in en/ and de/, then bundle them into public/data/ for the app.
+/* Check the chapter files in en/, de/ and ja/, then bundle them into public/data/ for the app.
    Usage: node scripts/data.ts          check and bundle
           node scripts/data.ts --check  check only
    Exits 1 if any entry is invalid. */
 import { mkdirSync, readFileSync, readdirSync, writeFileSync, copyFileSync } from "node:fs";
 import { join } from "node:path";
 import assert from "node:assert/strict";
-import type { Bundle, DeEntry, DeWord, EnEntry, EnWord, Parts } from "../src/types.ts";
+import type { Bundle, DeEntry, DeWord, EnEntry, EnWord, JaEntry, JaLevel, JaWord, Parts } from "../src/types.ts";
 
 const ROOT = join(import.meta.dirname, "..");
 const OUT = join(ROOT, "public", "data");
@@ -114,6 +114,54 @@ function bundleDe(entries: DeEntry[]): Bundle<DeWord> {
   return { words, parts: read<Parts>(join(ROOT, "de", "parts.json")) };
 }
 
+/* ---------- Japanese ---------- */
+const JA_LEVELS: JaLevel[] = ["n5", "n4", "n3", "n2", "n1"];
+const JA_SOURCES = new Set(["jmdict", "generated"]);
+const ROWS: Record<string, string> = { a: "あいうえおぁぃぅぇぉゔ", ka: "かきくけこ", sa: "さしすせそ", ta: "たちつてとっ", na: "なにぬねの",
+  ha: "はひふへほ", ma: "まみむめも", ya: "やゆよゃゅょ", ra: "らりるれろ", wa: "わをんゎ" };
+const ROW_OF = new Map(Object.entries(ROWS).flatMap(([r, cs]) => [...cs].map((c) => [c, r] as const)));
+/** katakana -> hiragana, so readings sort the same in either script */
+export const hira = (s: string) => s.replace(/[ァ-ヶ]/g, (c) => String.fromCharCode(c.charCodeAt(0) - 0x60));
+/** gojūon row file for a reading: コーヒー -> ka, ぎんこう -> ka */
+export const jaChapter = (reading: string) => ROW_OF.get(hira(reading.slice(0, 1)).normalize("NFD")[0]) ?? "_";
+const jaKey = (a: JaEntry, b: JaEntry) => cmp(hira(a.reading), hira(b.reading)) || cmp(a.word, b.word);
+
+function checkJa(): { errs: string[]; words: JaEntry[] } {
+  const dir = join(ROOT, "ja"), parts = read<Parts>(join(dir, "parts.json"));
+  const errs: string[] = [], seen = new Set<number>(), seenKey = new Set<string>(), all: JaEntry[] = [];
+  for (const { folder: level, stem: row, path } of chapters(dir, /^n[1-5]$/)) {
+    const entries = read<JaEntry[]>(path);
+    if (!entries.every((e, i) => !i || jaKey(entries[i - 1], e) <= 0)) errs.push(`${level}/${row}: not in reading order`);
+    for (const e of entries) {
+      const bad = (m: string) => errs.push(`${level}/${row}/${e.word ?? "?"}: ${m}`);
+      // the app keys words by word|reading|kanji (keyOf in src/lexicon.ts)
+      const key = [e.word, e.reading, e.kanji].filter(Boolean).join("|");
+      if (seen.has(e.id) || seenKey.has(key)) bad("duplicate id or word/reading/kanji");
+      seen.add(e.id);
+      seenKey.add(key);
+      if (!e.word || !/^[぀-ヿー]+$/.test(e.reading ?? "")) bad("needs word and a kana reading");
+      if (e.level !== level || jaChapter(e.reading ?? "") !== row) bad("wrong file");
+      if (e.grammar?.type !== e.pos) bad("grammar.type must equal pos");
+      for (const p of e.parts ?? []) if (parts[p]?.type !== "kanji") bad(`unknown part ${p}`);
+      if (!e.senses?.length) bad("no senses");
+      (e.senses ?? []).forEach((s, i) => {
+        if (!s.en || !s.ko || !JA_SOURCES.has(s.source!)) bad(`sense ${i + 1}: missing en/ko/source`);
+        if ((s.examples ?? []).some((x) => !x.text || !x.ko)) bad(`sense ${i + 1}: bad example`);
+      });
+      all.push(e);
+    }
+  }
+  return { errs, words: all };
+}
+
+/** by level (N5 first), then most frequent first */
+function bundleJa(entries: JaEntry[]): Bundle<JaWord> {
+  const lv = (e: JaEntry) => JA_LEVELS.indexOf(e.level);
+  const words = [...entries].sort((a, b) => lv(a) - lv(b) || b.zipf - a.zipf || jaKey(a, b))
+    .map((e) => pick(e, ["word", "reading", "kanji", "level", "pos", "grammar", "parts", "senses"]));
+  return { words, parts: read<Parts>(join(ROOT, "ja", "parts.json")) };
+}
+
 /* ---------- main ---------- */
 assert.equal(enChapter("status quo"), "st");
 assert.equal(enChapter("per se"), "pe");
@@ -122,10 +170,13 @@ assert.equal(score(1, 5.5), 16);
 assert.equal(deChapter("Äpfel"), "a");
 assert.equal(deChapter("anrufen"), "a");
 assert.equal(deChapter("Übung"), "u");
+assert.equal(jaChapter("コーヒー"), "ka");
+assert.equal(jaChapter("ぎんこう"), "ka");
+assert.equal(jaChapter("ぱん"), "ha");
 
-const en = checkEn(), de = checkDe();
+const en = checkEn(), de = checkDe(), ja = checkJa();
 let failed = false;
-for (const [name, r] of [["en", en], ["de", de]] as const) {
+for (const [name, r] of [["en", en], ["de", de], ["ja", ja]] as const) {
   console.log(r.errs.slice(0, 200).join("\n") || "", `${name}: ${r.words.length} entries, ${r.errs.length} errors`);
   failed ||= r.errs.length > 0;
 }
@@ -139,5 +190,6 @@ if (!process.argv.includes("--check")) {
   };
   write("en.json", bundleEn(en.words));
   write("de.json", bundleDe(de.words));
+  write("ja.json", bundleJa(ja.words));
   copyFileSync(join(ROOT, "en", "synonyms.json"), join(OUT, "en-synonyms.json"));
 }

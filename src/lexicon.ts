@@ -1,5 +1,5 @@
 /* App logic with no UI: languages, storage, decks, German grammar text. */
-import type { Bundle, DeWord, EnWord, Gender, Lang, Level, Synonyms, VerbClass, Word } from "./types.ts";
+import type { Bundle, DeWord, EnWord, Gender, JaWord, Lang, Synonyms, VerbClass, Word } from "./types.ts";
 
 export const TODAY_COUNT = 20;
 const PER_DAY = 50;
@@ -10,12 +10,23 @@ export const LANGS = {
   de: { name: "DEUTSCH", title: "Lexicon Deutsch", daysTab: "레벨별", key: "-de",
         daysTitle: "레벨별 단어장", daysSub: "하루 50단어, 레벨 안에서 자주 쓰는 단어부터 나옵니다.",
         search: "Wort oder Bedeutung suchen", sortScore: "Niveau" },
+  ja: { name: "日本語", title: "Lexicon 日本語", daysTab: "레벨별", key: "-ja",
+        daysTitle: "레벨별 단어장", daysSub: "하루 50단어, 레벨 안에서 자주 쓰는 단어부터 나옵니다.",
+        search: "単語・読み・意味で検索", sortScore: "レベル" },
 } as const;
-export const isLang = (l: unknown): l is Lang => l === "en" || l === "de";
-export const isDe = (w: Word): w is DeWord => "level" in w;
+export const isLang = (l: unknown): l is Lang => l === "en" || l === "de" || l === "ja";
+export const isJa = (w: Word): w is JaWord => "reading" in w;
+export const isDe = (w: Word): w is DeWord => "level" in w && !isJa(w);
+export const isEn = (w: Word): w is EnWord => "score" in w;
+/** Words with a level (German, Japanese) */
+export const levelOf = (w: Word): string | null => ("level" in w ? w.level : null);
+/** map key for a word: Japanese has homographs (方 かた / ほう, いる 居る / 要る), so its key adds the reading and kanji */
+export const keyOf = (w: Word) => (isJa(w) ? [w.word, w.reading, w.kanji].filter(Boolean).join("|") : w.word.toLowerCase());
+/** text to sort a word by: Japanese goes by reading (gojūon order) */
+export const sortText = (w: Word) => (isJa(w) ? w.reading.replace(/[ァ-ヶ]/g, (c) => String.fromCharCode(c.charCodeAt(0) - 0x60)) : w.word);
 
 export const NAMES: Record<string, string> = { VocabCom: "Vocabulary.com" };
-export const PART_NAMES: Record<string, string> = { prefix: "접두사", root: "어근", suffix: "접미사", sep: "분리 전철", insep: "비분리 전철", stem: "기본 단어" };
+export const PART_NAMES: Record<string, string> = { prefix: "접두사", root: "어근", suffix: "접미사", sep: "분리 전철", insep: "비분리 전철", stem: "기본 단어", kanji: "한자" };
 export const GENDER: Record<Gender, [string, string]> = { m: ["der", "남성"], f: ["die", "여성"], n: ["das", "중성"] };
 const CLASS: Record<VerbClass, string> = { weak: "규칙 변화 (약변화)", strong: "불규칙 변화 (강변화)", mixed: "혼합 변화", irregular: "불규칙 변화", modal: "화법조동사 (불규칙)" };
 const AUX: Record<string, string> = { haben: "hat", sein: "ist", "haben/sein": "hat/ist" };
@@ -34,7 +45,7 @@ const cache: Partial<Record<Lang, Promise<Loaded>>> = {};
 const getJSON = <T>(url: string): Promise<T> => fetch(url).then((r) => { if (!r.ok) throw new Error(String(r.status)); return r.json(); });
 export function load(lang: Lang): Promise<Loaded> {
   return (cache[lang] ??= getJSON<Bundle>(`data/${lang}.json`)
-    .then((b) => ({ ...b, byWord: new Map(b.words.map((w) => [w.word.toLowerCase(), w])) }))
+    .then((b) => ({ ...b, byWord: new Map(b.words.map((w) => [keyOf(w), w])) }))
     .catch((e) => { delete cache[lang]; throw e; }));
 }
 let synonyms: Promise<Synonyms> | null = null;
@@ -43,16 +54,16 @@ export const loadSynonyms = () => (synonyms ??= getJSON<Synonyms>("data/en-synon
 /* 중요도 → 별 3개 (0-40: 1, 40-60: 2, 60-80: 2 + 테두리 별, 80-100: 3) */
 export const starCount = (score: number) => (score < 40 ? 1 : score < 60 ? 2 : score < 80 ? 2.5 : 3);
 
-/* day groups: GRE is one run of days; German restarts the day count in each level */
-export interface Day { id: string; n: number; lv: Level | null; list: Word[] }
+/* day groups: GRE is one run of days; German and Japanese restart the day count in each level */
+export interface Day { id: string; n: number; lv: string | null; list: Word[] }
+const LEVELS: Record<Lang, (string | null)[]> = { en: [null], de: ["a1", "a2", "b1"], ja: ["n5", "n4", "n3", "n2", "n1"] };
 export function groups(lang: Lang, words: Word[]) {
-  const levels: (Level | null)[] = lang === "de" ? ["a1", "a2", "b1"] : [null];
-  return levels.map((lv) => {
-    const list = lv ? words.filter((w) => isDe(w) && w.level === lv) : words;
+  return LEVELS[lang].map((lv) => {
+    const list = lv ? words.filter((w) => levelOf(w) === lv) : words;
     const days: Day[] = [];
     for (let i = 0; i < list.length; i += PER_DAY) days.push({ id: `${lv ? lv + "-" : ""}${days.length + 1}`, n: days.length + 1, lv, list: list.slice(i, i + PER_DAY) });
     return { lv, days };
-  });
+  }).filter((g) => g.days.length);
 }
 const dayTitle = (d: Day) => (d.lv ? `${d.lv.toUpperCase()} Day ${d.n}` : `Day ${d.n}`);
 
@@ -88,8 +99,8 @@ function fnv(s: string) {
 export function todayDeck(lang: Lang, words: Word[]): Deck {
   const d = new Date();
   const date = `${d.getFullYear()}-${d.getMonth() + 1}-${d.getDate()}`;
-  // German: any level. English: the more important half (words is sorted by importance)
-  const pool = lang === "de" ? words : words.slice(0, Math.ceil(words.length / 2));
+  // German, Japanese: any level. English: the more important half (words is sorted by importance)
+  const pool = lang === "en" ? words.slice(0, Math.ceil(words.length / 2)) : words;
   const list = pool.map((w) => [fnv(date + w.word), w] as const).sort((a, b) => a[0] - b[0]).slice(0, TODAY_COUNT).map((x) => x[1]);
   const s = store.get<{ date: string; i: number }>(skey(lang, "today"));
   return {
@@ -99,8 +110,20 @@ export function todayDeck(lang: Lang, words: Word[]): Deck {
   };
 }
 
+/* Japanese grammar text */
+const JA_POS: Record<string, string> = { noun: "명사", verb: "동사", adv: "부사", conj: "접속사", pron: "대명사", num: "수사", interj: "감탄사",
+  expr: "표현", counter: "조수사", suffix: "접미사", prefix: "접두사", adnominal: "연체사", aux: "조동사", particle: "조사" };
+const JA_CLASS: Record<string, string> = { godan: "1그룹 동사 (5단)", ichidan: "2그룹 동사 (1단)", suru: "3그룹 동사 (する)", kuru: "3그룹 동사 (来る)",
+  i: "い형용사", na: "な형용사" };
+function jaLine(w: JaWord) {
+  const g = w.grammar;
+  return [(g.class && JA_CLASS[g.class]) || JA_POS[g.type] || (g.type === "adj" ? "형용사" : ""),
+    g.transitive === true ? "타동사" : g.transitive === false ? "자동사" : null, g.suru ? "する를 붙여 동사로" : null].filter(Boolean).join(" · ");
+}
+
 /* German grammar text */
-export function grammarLine(w: DeWord) {
+export function grammarLine(w: DeWord | JaWord) {
+  if (isJa(w)) return jaLine(w);
   const g = w.grammar ?? { type: "" };
   if (g.type === "noun") {
     if (g.number === "pl") return "복수형으로만 씀";
