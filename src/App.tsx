@@ -2,6 +2,7 @@ import { Fragment, memo, useCallback, useDeferredValue, useEffect, useMemo, useR
 import { Cards } from "./Cards.tsx";
 import { CONSTELLATIONS, type Constellation } from "./constellations.ts";
 import { BODIES } from "./bodies.ts";
+import { FISH } from "./fish.ts";
 import {
   LANGS, PART_NAMES, TODAY_COUNT, dayDeck, getLastDay, getProgress, getTheme, gloss, grammarLine, groups, isEn, isLang,
   keyOf, levelOf, load, loadSynonyms, setTheme, sortText, store, todayDeck, type Loaded, type Theme,
@@ -106,14 +107,17 @@ function Days({ lang, words }: { lang: Lang; words: Word[] }) {
                 const c = lang === "en" ? CONSTELLATIONS[(d.n - 1) % CONSTELLATIONS.length] : null;
                 const set = lang === "de" && d.lv ? BODIES[d.lv as keyof typeof BODIES] : null; // A1 small bodies, A2 planets and moons, B1 stars and nebulae
                 const o = set?.length ? set[(d.n - 1) % set.length] : null;
+                const school = lang === "ja" && d.lv ? FISH[d.lv as keyof typeof FISH] : null; // N5 tropical fish, N4 fish of Korea, N3 large species
+                const f = school?.length ? school[(d.n - 1) % school.length] : null;
                 return (
                   <a key={d.id} href={`#/${lang}/day/${d.id}`} className={["day", p?.done && "done", d.id === String(last) && "last"].filter(Boolean).join(" ")}>
                     {c && <Sky c={c} />}
                     {o && <img className={`body ${o.kind}`} style={o.rotate ? { rotate: `${o.rotate}deg` } : undefined} src={`sky/${o.img}`} alt="" loading="lazy" decoding="async" title={`${o.name} · ${o.credit} (${o.license})`} />}
+                    {f && <span className="fish" style={{ ["--img" as string]: `url(fish/${f.img})` }} title={`${f.name} (${f.en})`} />}
                     <b>Day {d.n}</b>
                     {/* words gone through so far, out of the day's total */}
                     <span>{p?.done ? d.list.length : p?.i ?? 0}/{d.list.length}</span>
-                    {(c || o) && <small className="sky-name">{c?.en ?? o?.name}</small>}
+                    {(c || o || f) && <small className="sky-name">{c?.en ?? o?.name ?? f?.name}</small>}
                   </a>
                 );
               })}
@@ -211,6 +215,14 @@ function Settings({ lang, tab, onClose }: { lang: Lang; tab: Tab; onClose(): voi
           </label>
         ))}
       </fieldset>
+      <details className="credits">
+        <summary>물고기 그림의 참고 사진</summary>
+        <ul>
+          {Object.values(FISH).flat().map((f) => (
+            <li key={f.img}><a href={f.page} target="_blank" rel="noreferrer">{f.name}</a> · {f.credit} · {f.license}</li>
+          ))}
+        </ul>
+      </details>
     </div>
   );
 }

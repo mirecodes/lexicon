@@ -1,0 +1,442 @@
+{
+ "ocellaris-clownfish": {
+  "title": "Ocellaris clownfish",
+  "ko": "흰동가리",
+  "level": "n5",
+  "file": "File:Amphiprion ocellaris (Clown anemonefish) Nemo.jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 3.0",
+  "credit": "Nhobgood Nick Hobgood",
+  "page": "https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_(Clown_anemonefish)_Nemo.jpg"
+ },
+ "blue-tang": {
+  "title": "Blue tang",
+  "ko": "블루탱",
+  "level": "n5",
+  "file": "File:Blue tang (Paracanthurus hepatus) 02.jpg",
+  "ext": "jpg",
+  "license": "CC BY 2.5",
+  "credit": "Tewy",
+  "page": "https://commons.wikimedia.org/wiki/File:Blue_tang_(Paracanthurus_hepatus)_02.jpg"
+ },
+ "moorish-idol": {
+  "title": "Moorish idol",
+  "ko": "깃대돔",
+  "level": "n5",
+  "file": "File:Ídolo_moro_(Zanclus_cornutus),_Anilao,_Filipinas,_2023-08-25,_DD_233.jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 4.0",
+  "credit": "Diego Delso",
+  "page": "https://commons.wikimedia.org/wiki/File:%C3%8Ddolo_moro_(Zanclus_cornutus),_Anilao,_Filipinas,_2023-08-25,_DD_233.jpg"
+ },
+ "mandarinfish": {
+  "title": "Mandarinfish",
+  "ko": "만다린피시",
+  "level": "n5",
+  "file": "File:Synchiropus splendidus 2 Luc Viatour.jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 3.0",
+  "credit": "Luc Viatour",
+  "page": "https://commons.wikimedia.org/wiki/File:Synchiropus_splendidus_2_Luc_Viatour.jpg"
+ },
+ "royal-gramma": {
+  "title": "Royal gramma",
+  "ko": "로열그라마",
+  "level": "n5",
+  "file": "File:Gramma loreto 01.jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 3.0",
+  "credit": "H. Zell",
+  "page": "https://commons.wikimedia.org/wiki/File:Gramma_loreto_01.jpg"
+ },
+ "siamese-fighting-fish": {
+  "title": "Siamese fighting fish",
+  "ko": "베타",
+  "level": "n5",
+  "file": "File:HM_Orange_M_Sarawut.jpg",
+  "ext": "jpg",
+  "license": "CC BY 2.0",
+  "credit": "Daniella Vereeken",
+  "page": "https://commons.wikimedia.org/wiki/File:HM_Orange_M_Sarawut.jpg"
+ },
+ "neon-tetra": {
+  "title": "Neon tetra",
+  "ko": "네온테트라",
+  "level": "n5",
+  "file": "File:Neonsalmler_Paracheirodon_innesi.jpg",
+  "ext": "jpg",
+  "license": "CC BY 3.0",
+  "credit": "Holger Krisp",
+  "page": "https://commons.wikimedia.org/wiki/File:Neonsalmler_Paracheirodon_innesi.jpg"
+ },
+ "guppy": {
+  "title": "Guppy",
+  "ko": "구피",
+  "level": "n5",
+  "file": "File:Guppy_pho_0048.jpg",
+  "ext": "jpg",
+  "license": "CC BY 3.0",
+  "credit": "Per Harald Olsen",
+  "page": "https://commons.wikimedia.org/wiki/File:Guppy_pho_0048.jpg"
+ },
+ "discus-fish": {
+  "title": "Discus (fish)",
+  "ko": "디스커스",
+  "level": "n5",
+  "file": "File:Blue_Discus.jpg",
+  "ext": "jpg",
+  "license": "Public domain",
+  "credit": "Patrick Farrelly",
+  "page": "https://commons.wikimedia.org/wiki/File:Blue_Discus.jpg"
+ },
+ "pterophyllum-scalare": {
+  "title": "Pterophyllum scalare",
+  "ko": "엔젤피시",
+  "level": "n5",
+  "file": "File:Pterophyllum scalare 03.jpg",
+  "ext": "jpg",
+  "license": "CC BY 4.0",
+  "credit": "Versions111",
+  "page": "https://commons.wikimedia.org/wiki/File:Pterophyllum_scalare_03.jpg"
+ },
+ "yellow-tang": {
+  "title": "Yellow tang",
+  "ko": "옐로탱",
+  "level": "n5",
+  "file": "File:Zebrasoma_flavescens_Luc_Viatour.jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 3.0",
+  "credit": "Luc Viatour",
+  "page": "https://commons.wikimedia.org/wiki/File:Zebrasoma_flavescens_Luc_Viatour.jpg"
+ },
+ "emperor-angelfish": {
+  "title": "Emperor angelfish",
+  "ko": "황제엔젤피시",
+  "level": "n5",
+  "file": "File:Emperor_Angelfish,_Western_form_-_Pomacanthus_imperator_1.jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 2.0",
+  "credit": "Francois Libert",
+  "page": "https://commons.wikimedia.org/wiki/File:Emperor_Angelfish,_Western_form_-_Pomacanthus_imperator_1.jpg"
+ },
+ "red-lionfish": {
+  "title": "Red lionfish",
+  "ko": "쏠배감펭",
+  "level": "n5",
+  "file": "File:Common lion fish Pterois volitans.jpg",
+  "ext": "jpg",
+  "license": "CC BY 3.0",
+  "credit": "Michael Gäbler",
+  "page": "https://commons.wikimedia.org/wiki/File:Common_lion_fish_Pterois_volitans.jpg"
+ },
+ "copperband-butterflyfish": {
+  "title": "Copperband butterflyfish",
+  "ko": "두동가리돔",
+  "level": "n5",
+  "file": "File:Chelmon_rostratus_Luc_Viatour.jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 3.0",
+  "credit": "Luc Viatour",
+  "page": "https://commons.wikimedia.org/wiki/File:Chelmon_rostratus_Luc_Viatour.jpg"
+ },
+ "chub-mackerel": {
+  "title": "Chub mackerel",
+  "ko": "고등어",
+  "level": "n4",
+  "file": "File:Scomber_japonicus.png",
+  "ext": "png",
+  "license": "Public domain",
+  "credit": "Unknown authorUnknown author",
+  "page": "https://commons.wikimedia.org/wiki/File:Scomber_japonicus.png"
+ },
+ "largehead-hairtail": {
+  "title": "Largehead hairtail",
+  "ko": "갈치",
+  "level": "n4",
+  "file": "File:Trichiurus lepturus mangaluru.jpg",
+  "ext": "jpg",
+  "license": "CC0",
+  "credit": "Hariprasad Shetty10",
+  "page": "https://commons.wikimedia.org/wiki/File:Trichiurus_lepturus_mangaluru.jpg"
+ },
+ "small-yellow-croaker": {
+  "title": "Small yellow croaker",
+  "ko": "참조기",
+  "level": "n4",
+  "file": "File:Larimichthys_polyactis.jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 2.0 kr",
+  "credit": "국립국어원",
+  "page": "https://commons.wikimedia.org/wiki/File:Larimichthys_polyactis.jpg"
+ },
+ "alaska-pollock": {
+  "title": "Alaska pollock",
+  "ko": "명태",
+  "level": "n4",
+  "file": "File:Walleye pollock.jpg",
+  "ext": "jpg",
+  "license": "Public domain",
+  "credit": "National Oceanic and Atmospheric Administration",
+  "page": "https://commons.wikimedia.org/wiki/File:Walleye_pollock.jpg"
+ },
+ "olive-flounder": {
+  "title": "Olive flounder",
+  "ko": "넙치 (광어)",
+  "level": "n4",
+  "file": "File:Paralichthys olivaceus Umigatari.jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 4.0",
+  "credit": "Totti",
+  "page": "https://commons.wikimedia.org/wiki/File:Paralichthys_olivaceus_Umigatari.jpg"
+ },
+ "korean-rockfish": {
+  "title": "Korean rockfish",
+  "ko": "조피볼락 (우럭)",
+  "level": "n4",
+  "file": "File:Sebastes schlegelii Hilgendorf, 1880.jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 2.1 jp",
+  "credit": "Tomarin",
+  "page": "https://commons.wikimedia.org/wiki/File:Sebastes_schlegelii_Hilgendorf,_1880.jpg"
+ },
+ "red-seabream": {
+  "title": "Red seabream",
+  "ko": "참돔",
+  "level": "n4",
+  "file": "File:Pagrus major Red seabream ja01.jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 3.0",
+  "credit": "Miya",
+  "page": "https://commons.wikimedia.org/wiki/File:Pagrus_major_Red_seabream_ja01.jpg"
+ },
+ "flathead-grey-mullet": {
+  "title": "Flathead grey mullet",
+  "ko": "숭어",
+  "level": "n4",
+  "file": "File:Mújol_(Mugil_cephalus),_Parque_natural_de_la_Arrábida,_Portugal,_2021-09-09,_DD_25.jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 4.0",
+  "credit": "Diego Delso",
+  "page": "https://commons.wikimedia.org/wiki/File:M%C3%BAjol_(Mugil_cephalus),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2021-09-09,_DD_25.jpg"
+ },
+ "ayu-sweetfish": {
+  "title": "Ayu sweetfish",
+  "ko": "은어",
+  "level": "n4",
+  "file": "File:Sweetfish, Plecoglossus altivelis.jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 3.0",
+  "credit": "OAS at Japanese Wikipedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Sweetfish,_Plecoglossus_altivelis.jpg"
+ },
+ "siniperca-scherzeri": {
+  "title": "Siniperca scherzeri",
+  "ko": "쏘가리",
+  "level": "n4",
+  "file": "File:Siniperca scherzeri.jpg",
+  "ext": "jpg",
+  "license": "Public domain",
+  "credit": "JeongAhn",
+  "page": "https://commons.wikimedia.org/wiki/File:Siniperca_scherzeri.jpg"
+ },
+ "coreoleuciscus-splendidus": {
+  "title": "Coreoleuciscus splendidus",
+  "ko": "쉬리",
+  "level": "n4",
+  "file": "File:Coreoleuciscus splendidus (swiri), animalloTV, 1.jpg",
+  "ext": "jpg",
+  "license": "CC BY 3.0",
+  "credit": "애니몰로TV",
+  "page": "https://commons.wikimedia.org/wiki/File:Coreoleuciscus_splendidus_(swiri),_animalloTV,_1.jpg"
+ },
+ "common-carp": {
+  "title": "Common carp",
+  "ko": "잉어",
+  "level": "n4",
+  "file": "File:Cyprinus_carpio_2008_G1_(cropped).jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 3.0",
+  "credit": "George Chernilevsky",
+  "page": "https://commons.wikimedia.org/wiki/File:Cyprinus_carpio_2008_G1_(cropped).jpg"
+ },
+ "amur-catfish": {
+  "title": "Amur catfish",
+  "ko": "메기",
+  "level": "n4",
+  "file": "File:Silurus.jpg",
+  "ext": "jpg",
+  "license": "CC BY 2.0",
+  "credit": "rhosoi",
+  "page": "https://commons.wikimedia.org/wiki/File:Silurus.jpg"
+ },
+ "atlantic-bluefin-tuna": {
+  "title": "Atlantic bluefin tuna",
+  "ko": "참다랑어",
+  "level": "n3",
+  "file": "File:Bluefin-big.jpg",
+  "ext": "jpg",
+  "license": "Public domain",
+  "credit": "Unknown authorUnknown author",
+  "page": "https://commons.wikimedia.org/wiki/File:Bluefin-big.jpg"
+ },
+ "yellowfin-tuna": {
+  "title": "Yellowfin tuna",
+  "ko": "황다랑어",
+  "level": "n3",
+  "file": "File:Thon albacore (Thunnus albacares) (Ifremer 00764-87616).jpg",
+  "ext": "jpg",
+  "license": "CC BY 4.0",
+  "credit": "Hugues Evano (IFREMER, Délégation océan Indien (DOI), Département Ressources Biologiques et Environnement (RBE), F-97420 Le Port, France)",
+  "page": "https://commons.wikimedia.org/wiki/File:Thon_albacore_(Thunnus_albacares)_(Ifremer_00764-87616).jpg"
+ },
+ "swordfish": {
+  "title": "Swordfish",
+  "ko": "황새치",
+  "level": "n3",
+  "file": "File:Xiphias_gladius_Linnaeus,_1758_2599925021.jpg",
+  "ext": "jpg",
+  "license": "CC0",
+  "credit": "Naturalis Biodiversity Center",
+  "page": "https://commons.wikimedia.org/wiki/File:Xiphias_gladius_Linnaeus,_1758_2599925021.jpg"
+ },
+ "atlantic-blue-marlin": {
+  "title": "Atlantic blue marlin",
+  "ko": "청새치",
+  "level": "n3",
+  "file": "File:Blue marlin (Duane Raver).png",
+  "ext": "png",
+  "license": "Public domain",
+  "credit": "Raver Duane, U.S. Fish and Wildlife Service",
+  "page": "https://commons.wikimedia.org/wiki/File:Blue_marlin_(Duane_Raver).png"
+ },
+ "sailfish": {
+  "title": "Sailfish",
+  "ko": "돛새치",
+  "level": "n3",
+  "file": "File:Naturalis_Biodiversity_Center_-_RMNH.ART.194_-_Istiophorus_platypterus_(Shaw_and_Nodder)_-_Kawahara_Keiga_-_1823_-_1829_-_Siebold_Collection_-_new_version.jpeg",
+  "ext": "jpeg",
+  "license": "Public domain",
+  "credit": "Kawahara Keiga",
+  "page": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.ART.194_-_Istiophorus_platypterus_(Shaw_and_Nodder)_-_Kawahara_Keiga_-_1823_-_1829_-_Siebold_Collection_-_new_version.jpeg"
+ },
+ "whale-shark": {
+  "title": "Whale shark",
+  "ko": "고래상어",
+  "level": "n3",
+  "file": "File:Rhincodon typus fgbnms.jpg",
+  "ext": "jpg",
+  "license": "Public domain",
+  "credit": "FGBNMS/Eckert",
+  "page": "https://commons.wikimedia.org/wiki/File:Rhincodon_typus_fgbnms.jpg"
+ },
+ "great-white-shark": {
+  "title": "Great white shark",
+  "ko": "백상아리",
+  "level": "n3",
+  "file": "File:White_shark.jpg",
+  "ext": "jpg",
+  "license": "CC BY 2.5",
+  "credit": "Pterantula (Terry Goss) at en.wikipedia",
+  "page": "https://commons.wikimedia.org/wiki/File:White_shark.jpg"
+ },
+ "giant-oceanic-manta-ray": {
+  "title": "Giant oceanic manta ray",
+  "ko": "쥐가오리",
+  "level": "n3",
+  "file": "File:Manta_birostris-Thailand4.jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 2.0",
+  "credit": "jon hanson from london, UK",
+  "page": "https://commons.wikimedia.org/wiki/File:Manta_birostris-Thailand4.jpg"
+ },
+ "ocean-sunfish": {
+  "title": "Ocean sunfish",
+  "ko": "개복치",
+  "level": "n3",
+  "file": "File:Mola_mola.jpg",
+  "ext": "jpg",
+  "license": "Public domain",
+  "credit": "U.S. National Oceanic and Atmospheric Administration",
+  "page": "https://commons.wikimedia.org/wiki/File:Mola_mola.jpg"
+ },
+ "giant-grouper": {
+  "title": "Giant grouper",
+  "ko": "대왕바리",
+  "level": "n3",
+  "file": "File:Epinephelus_lanceolatus_(uShaka).jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 2.0",
+  "credit": "Bernard DUPONT",
+  "page": "https://commons.wikimedia.org/wiki/File:Epinephelus_lanceolatus_(uShaka).jpg"
+ },
+ "humphead-wrasse": {
+  "title": "Humphead wrasse",
+  "ko": "나폴레옹피시",
+  "level": "n3",
+  "file": "File:Cheilinus_undulatus_Maldives.JPG",
+  "ext": "jpg",
+  "license": "CC BY-SA 4.0",
+  "credit": "Julien Bidet for MDC Seamarc",
+  "page": "https://commons.wikimedia.org/wiki/File:Cheilinus_undulatus_Maldives.JPG"
+ },
+ "mahi-mahi": {
+  "title": "Mahi-mahi",
+  "ko": "만새기",
+  "level": "n3",
+  "file": "File:Common_Dolphinfish_Monterey_Bay.jpg",
+  "ext": "jpg",
+  "license": "CC0",
+  "credit": "gendereuphorbia",
+  "page": "https://commons.wikimedia.org/wiki/File:Common_Dolphinfish_Monterey_Bay.jpg"
+ },
+ "giant-trevally": {
+  "title": "Giant trevally",
+  "ko": "무명갈전갱이",
+  "level": "n3",
+  "file": "File:Caranx_ignobilis.jpg",
+  "ext": "jpg",
+  "license": "Public domain",
+  "credit": "Dr. Dwayne Meadows, NOAA/NMFS/OPR",
+  "page": "https://commons.wikimedia.org/wiki/File:Caranx_ignobilis.jpg"
+ },
+ "arapaima": {
+  "title": "Arapaima",
+  "ko": "피라루쿠",
+  "level": "n3",
+  "file": "File:Arapaima_gigas_at_Beijing_aquarium.JPG",
+  "ext": "jpg",
+  "license": "CC BY-SA 3.0",
+  "credit": "Shizhao",
+  "page": "https://commons.wikimedia.org/wiki/File:Arapaima_gigas_at_Beijing_aquarium.JPG"
+ },
+ "beluga-sturgeon": {
+  "title": "Beluga (sturgeon)",
+  "ko": "벨루가 철갑상어",
+  "level": "n3",
+  "file": "File:Білуга_(Huso_huso).jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 4.0",
+  "credit": "Максим Яковлєв",
+  "page": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%96%D0%BB%D1%83%D0%B3%D0%B0_(Huso_huso).jpg"
+ },
+ "great-hammerhead": {
+  "title": "Great hammerhead",
+  "ko": "큰귀상어",
+  "level": "n3",
+  "file": "File:Great_hammerhead2.jpg",
+  "ext": "jpg",
+  "license": "CC BY-SA 4.0",
+  "credit": "Albert kok",
+  "page": "https://commons.wikimedia.org/wiki/File:Great_hammerhead2.jpg"
+ },
+ "giant-oarfish": {
+  "title": "Giant oarfish",
+  "ko": "산갈치",
+  "level": "n3",
+  "file": "File:Regalecus_glesne,_Naturhistorisches_Museum_Wien.jpg",
+  "ext": "jpg",
+  "license": "CC BY 3.0",
+  "credit": "Sandstein",
+  "page": "https://commons.wikimedia.org/wiki/File:Regalecus_glesne,_Naturhistorisches_Museum_Wien.jpg"
+ }
+}

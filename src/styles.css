@@ -193,6 +193,13 @@ main { flex: 1; min-height: 0; display: flex; width: 100%; max-width: 640px; mar
 .body.planet { --s: 62%; object-fit: contain; } /* planets and moons; contain keeps Saturn's rings */
 .body.comet { --s: 80%; object-fit: contain; }  /* comets with tails, turned so the tail points to the top right */
 .day:active .body, .day.done .body { opacity: 1; filter: grayscale(0) saturate(1.2) brightness(1.08); transform: scale(1.04); }
+/* pen sketch of a fish behind a Japanese day: the image is a mask, so the lines take the theme colour */
+.day .fish {
+  position: absolute; inset: 4%; pointer-events: none; background: var(--text);
+  -webkit-mask: var(--img) center / contain no-repeat; mask: var(--img) center / contain no-repeat;
+  opacity: .42; transition: opacity .45s, background-color .45s, transform .45s;
+}
+.day:active .fish, .day.done .fish { background: var(--accent); opacity: .95; transform: scale(1.04); }
 .day b, .day span { text-shadow: 0 1px 3px var(--card), 0 0 6px var(--card); }
 /* name of the constellation / object at the bottom; Day and progress stay centred above it */
 .day:has(.sky-name) b { margin-top: auto; }
@@ -260,6 +267,7 @@ dialog::backdrop { background: rgba(0, 0, 0, .45); }
   .day:hover::before { opacity: 1; animation: spin 1.6s linear infinite; }
   .day:hover .sky line { stroke: var(--accent); opacity: .75; filter: drop-shadow(0 0 1.5px var(--accent)); }
   .day:hover .body { opacity: 1; filter: grayscale(0) saturate(1.2) brightness(1.08); transform: scale(1.04); }
+  .day:hover .fish { background: var(--accent); opacity: .95; transform: scale(1.04); }
   .day:hover .sky circle { fill: var(--accent); opacity: 1; filter: drop-shadow(0 0 2px var(--accent)); animation: twinkle 2s ease-in-out infinite alternate; }
   #flip:hover { opacity: .9; }
 }

@@ -92,3 +92,12 @@ curl -L -o $W/oewn/oewn2025.xml.gz https://github.com/globalwordnet/english-word
 5. 조립: `python3 $W/scripts/ja_build.py $W ja`, 그다음 `npm run validate`
 
 품사·동사 그룹·자타동사는 JMdict 첫 뜻의 품사 태그로 정하고(`ja_merge.py`의 `grammar`), 단어의 한자 분해도 표기에서 기계적으로 뽑습니다. 작업자는 뜻 고르기, 한글 뜻, 예문, 한자 훈만 씁니다.
+
+### Day 카드의 물고기 그림 (`build/ja/fish/`)
+
+N5 열대어, N4 한국 물고기, N3 대형종 44종을 펜 해칭 소묘로 그린 그림이에요. 위키미디어 공용의 자유 라이선스 사진을 참고 사진으로 쓰고, 사진 자체는 앱에 넣지 않아요. 준비: `python3 -m venv $W/fvenv && $W/fvenv/bin/pip install "rembg[cpu]" pillow opencv-python-headless certifi`, `W/fish`를 작업 폴더로.
+
+1. 참고 사진: `fetch.py <dir> ["종 제목=File:..." ...]` → `raw/`, `meta.json`(고른 파일·라이선스·출처). 지금 고른 사진은 `meta.json`에 있으니 그대로 다시 받으려면 `"제목=File:..."`로 넘겨요. 후보 고르기는 `cands.py <dir> slug="검색어"`
+2. 배경 제거: `trace.py <dir> [slug ...]` → `cut/`. 머리를 왼쪽으로 돌릴 종은 `flips.json`, 먼저 잘라 내거나 GrabCut을 쓸 종은 `crops.json`
+3. 소묘: `sketch.py <dir> [slug ...]` → `sk/`. 짧은 해칭 선으로만 명암을 표현하고(점·면 없음), 지느러미 줄기와 매끈한 윤곽선을 그려요
+4. 게시: `fish_build.py <dir> .` → `public/fish/*.webp`(선은 알파 채널, CSS 마스크로 테마 색을 따름), `src/fish.ts`

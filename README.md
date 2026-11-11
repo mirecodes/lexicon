@@ -43,5 +43,6 @@ npm run dev
 
 - 독일어 표제어와 레벨: Goethe-Institut 시험 단어 목록 (목록의 예문은 사용하지 않음)
 - 일본어 단어와 레벨: Jonathan Waller의 JLPT 목록 (CC BY). 읽기·품사·영어 뜻: [JMdict](https://www.edrdg.org/jmdict/j_jmdict.html), 한자: KANJIDIC2 (EDRDG, CC BY-SA 4.0)
+- 일본어 Day 카드의 물고기 그림: 위키미디어 공용의 자유 라이선스 사진을 참고해 펜 해칭 소묘로 렌더링했습니다(`build/ja/fish/`). 참고 사진의 출처는 앱 설정 화면에 있습니다.
 
 Wiktionary·JMdict 자료를 포함하므로 `en/`, `de/`, `ja/` 폴더와 거기서 만든 앱 데이터는 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)을 따릅니다.
