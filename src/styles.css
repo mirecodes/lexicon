@@ -187,9 +187,9 @@ main { flex: 1; min-height: 0; display: flex; width: 100%; max-width: 640px; mar
   -webkit-mask-image: radial-gradient(circle, #000 45%, transparent 72%); mask-image: radial-gradient(circle, #000 45%, transparent 72%);
   opacity: .28; filter: grayscale(1) brightness(.9); transition: opacity .45s, filter .45s, transform .45s;
 }
-/* .webp copies already have the black sky turned transparent, so they need no edge fade */
-.body[src$=".webp"]:not(.comet) { -webkit-mask-image: none; mask-image: none; }
-.body.small { --s: 42%; }  /* asteroids, comet nuclei */
+/* .webp copies have the black sky turned transparent and their frame edges faded, so they need no mask */
+.body[src$=".webp"] { -webkit-mask-image: none; mask-image: none; }
+.body.small { --s: 42%; object-fit: contain; }  /* asteroids, comet nuclei; contain keeps long shapes whole */
 .body.planet { --s: 62%; object-fit: contain; } /* planets and moons; contain keeps Saturn's rings */
 .body.comet { --s: 80%; object-fit: contain; }  /* comets with tails, turned so the tail points to the top right */
 .day:active .body, .day.done .body { opacity: 1; filter: grayscale(0) saturate(1.2) brightness(1.08); transform: scale(1.04); }
