@@ -113,7 +113,8 @@ function Days({ lang, words }: { lang: Lang; words: Word[] }) {
                   <a key={d.id} href={`#/${lang}/day/${d.id}`} className={["day", p?.done && "done", d.id === String(last) && "last"].filter(Boolean).join(" ")}>
                     {c && <Sky c={c} />}
                     {o && <img className={`body ${o.kind}`} style={o.rotate ? { rotate: `${o.rotate}deg` } : undefined} src={`sky/${o.img}`} alt="" loading="lazy" decoding="async" title={`${o.name} · ${o.credit} (${o.license})`} />}
-                    {f && <span className="fish" style={{ ["--img" as string]: `url(fish/${f.img})` }} title={`${f.name} (${f.en})`} />}
+                    {/* absolute URL: a relative url() inside a custom property resolves against the built stylesheet (assets/), not the page */}
+                    {f && <span className="fish" style={{ ["--img" as string]: `url("${new URL(`fish/${f.img}`, document.baseURI)}")` }} title={`${f.name} (${f.en})`} />}
                     <b>Day {d.n}</b>
                     {/* words gone through so far, out of the day's total */}
                     <span>{p?.done ? d.list.length : p?.i ?? 0}/{d.list.length}</span>
