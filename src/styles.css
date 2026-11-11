@@ -237,6 +237,15 @@ dialog::backdrop { background: rgba(0, 0, 0, .45); }
 .credits summary { font-size: 13px; font-weight: 600; cursor: pointer; min-height: 32px; }
 .credits ul { margin: 4px 0 0; padding-left: 16px; }
 .credits a { color: inherit; }
+.sky-credits { margin: 20px 4px 8px; font-size: 11px; opacity: .75; }
+.sky-credits summary { font-size: 11px; font-weight: 500; min-height: 28px; }
+/* German object photos, their names and credits: dark theme only; light cards keep just Day and progress */
+:root[data-theme="light"] :is(.body, .sky-credits, .day:has(.body) .sky-name) { display: none; }
+:root[data-theme="light"] .day:has(.body) b { margin-top: 0; }
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) :is(.body, .sky-credits, .day:has(.body) .sky-name) { display: none; }
+  :root:not([data-theme="dark"]) .day:has(.body) b { margin-top: 0; }
+}
 @media (min-width: 640px) { dialog { margin: auto; border-radius: 8px; } }
 @media (max-height: 480px) {
   .face { padding: 12px; }

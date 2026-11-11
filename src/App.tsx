@@ -120,6 +120,17 @@ function Days({ lang, words }: { lang: Lang; words: Word[] }) {
             </div>
           </Fragment>
         ))}
+        {lang === "de" && (
+          // the photos show on the dark theme only, and so do their credits (see .sky-credits in styles.css)
+          <details className="credits sky-credits">
+            <summary>천체 이미지 출처</summary>
+            <ul>
+              {Object.values(BODIES).flat().map((b) => (
+                <li key={b.img}><a href={b.page} target="_blank" rel="noreferrer">{b.name}</a> · {b.credit} · {b.license}</li>
+              ))}
+            </ul>
+          </details>
+        )}
       </div>
     </section>
   );
@@ -200,14 +211,6 @@ function Settings({ lang, tab, onClose }: { lang: Lang; tab: Tab; onClose(): voi
           </label>
         ))}
       </fieldset>
-      <details className="credits">
-        <summary>천체 이미지 출처</summary>
-        <ul>
-          {Object.values(BODIES).flat().map((b) => (
-            <li key={b.img}><a href={b.page} target="_blank" rel="noreferrer">{b.name}</a> · {b.credit} · {b.license}</li>
-          ))}
-        </ul>
-      </details>
     </div>
   );
 }

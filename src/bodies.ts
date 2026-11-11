@@ -1,6 +1,6 @@
 /* Photos behind the German day cards: A1 small solar-system bodies, A2 planets and moons, B1 stars and nebulae.
    Lead images of the English Wikipedia articles, kept only when the Commons licence is public domain or CC;
-   240px copies in public/sky/. Generated; credits are shown in Settings. */
+   240px copies in public/sky/. Generated; credits are listed under the German day grid (dark theme only). */
 /** kind sets the drawn size: small bodies small, planets medium, stars and nebulae nearly the whole card; rotate turns comet tails to the top right */
 export interface Body { name: string; img: string; kind: "small" | "comet" | "planet" | "deep"; rotate?: number; credit: string; license: string; page: string }
 
@@ -38,7 +38,7 @@ export const BODIES: Record<"a1" | "a2" | "b1", Body[]> = {
   b1: [
     {"name":"Sun","img":"sun.webp","kind":"deep","credit":"NASA/SDO (AIA)","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg"},
     {"name":"Betelgeuse","img":"betelgeuse.webp","kind":"deep","credit":"ALMA (ESO/NAOJ/NRAO)/E. O’Gorman/P. Kervella","license":"CC BY 4.0","page":"https://commons.wikimedia.org/wiki/File:Betelgeuse_captured_by_ALMA.jpg"},
-    {"name":"WR 140","img":"wr-140.jpg","kind":"deep","credit":"NASA, ESA, CSA JWST MIRI &amp; Ryan Lau et al.; Processed by Meli thev","license":"CC BY-SA 4.0","page":"https://commons.wikimedia.org/wiki/File:WR140.png"},
+    {"name":"WR 140","img":"wr-140.jpg","kind":"deep","credit":"NASA, ESA, CSA JWST MIRI & Ryan Lau et al.; Processed by Meli thev","license":"CC BY-SA 4.0","page":"https://commons.wikimedia.org/wiki/File:WR140.png"},
     {"name":"RS Puppis","img":"rs-puppis.jpg","kind":"deep","credit":"NASA, ESA, and the Hubble Heritage Team (STScI/AURA)-Hubble/Europe Collaboration; Acknowledgment: H. Bond (STScI and Penn State University)","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:Heic1323a_-1243686232.jpg"},
     {"name":"Pistol Star","img":"pistol-star.jpg","kind":"deep","credit":"Don F. Figer (UCLA) and NASA","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:Pistol_star_and_nebula.jpg"},
     {"name":"WR 124","img":"wr-124.jpg","kind":"deep","credit":"NASA, ESA, CSA, STScI, Webb ERO Production Team","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:Wolf-Rayet_124_(NIRCam_and_MIRI_composite_image).tif"},
@@ -49,7 +49,7 @@ export const BODIES: Record<"a1" | "a2" | "b1", Body[]> = {
     {"name":"Pillars of Creation","img":"pillars-of-creation.jpg","kind":"deep","credit":"SCIENCE: NASA, ESA, CSA, STScI; IMAGE PROCESSING: Joseph DePasquale (STScI), Anton M. Koekemoer (STScI), Alyssa Pagan (STScI)","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:Pillars_of_Creation_(NIRCam_Image).jpg"},
     {"name":"Ring Nebula","img":"ring-nebula.jpg","kind":"deep","credit":"ESA/Webb, NASA, CSA, M. Barlow, N. Cox, R. Wesson","license":"CC BY 4.0","page":"https://commons.wikimedia.org/wiki/File:Webb_captures_detailed_beauty_of_Ring_Nebula_(NIRCam_image)_(weic2320b).jpg"},
     {"name":"Helix Nebula","img":"helix-nebula.jpg","kind":"deep","credit":"NASA, ESA, C.R. O'Dell (Vanderbilt University), M. Meixner and P. McCullough (STScI)","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:NGC7293_(2004).jpg"},
-    {"name":"Cat's Eye Nebula","img":"cat-s-eye-nebula.jpg","kind":"deep","credit":"ESA/Hubble &amp; NASA, Z. Tsvetanov","license":"CC BY 4.0","page":"https://commons.wikimedia.org/wiki/File:Looking_at_the_Cat%E2%80%99s_Eye_Nebula_with_Hubble_(potm2602b).jpg"},
+    {"name":"Cat's Eye Nebula","img":"cat-s-eye-nebula.jpg","kind":"deep","credit":"ESA/Hubble & NASA, Z. Tsvetanov","license":"CC BY 4.0","page":"https://commons.wikimedia.org/wiki/File:Looking_at_the_Cat%E2%80%99s_Eye_Nebula_with_Hubble_(potm2602b).jpg"},
     {"name":"Horsehead Nebula","img":"horsehead-nebula.jpg","kind":"deep","credit":"ESO","license":"CC BY 4.0","page":"https://commons.wikimedia.org/wiki/File:Nebulosa_testa_di_cavallo_con_SPECULOOS.jpg"},
     {"name":"Lagoon Nebula","img":"lagoon-nebula.jpg","kind":"deep","credit":"ESO/VPHAS+ team","license":"CC BY 4.0","page":"https://commons.wikimedia.org/wiki/File:VST_images_the_Lagoon_Nebula.jpg"},
     {"name":"Trifid Nebula","img":"trifid-nebula.jpg","kind":"deep","credit":"RubinObs/NOIRLab/SLAC/NSF/DOE/AURA","license":"CC BY 4.0","page":"https://commons.wikimedia.org/wiki/File:Trifid_Nebula_(noirlab2521ah).jpg"},
@@ -66,7 +66,7 @@ export const BODIES: Record<"a1" | "a2" | "b1", Body[]> = {
     {"name":"Pleiades","img":"pleiades.jpg","kind":"deep","credit":"NASA, ESA, AURA/Caltech, Palomar Observatory The science team consists of: D. Soderblom and E. Nelan (STScI), F. Benedict and B. Arthur (U. Texas), and B. Jones","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:Pleiades_large.jpg"},
     {"name":"Boomerang Nebula","img":"boomerang-nebula.jpg","kind":"deep","credit":"ESA/NASA","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:Boomerang_nebula.jpg"},
     {"name":"Cone Nebula","img":"cone-nebula.jpg","kind":"deep","credit":"NASA, H. Ford (JHU), G. Illingworth (UCSC/LO), M.Clampin (STScI), G. Hartig (STScI), the ACS Science Team, and ESA The ACS Science Team: H. Ford, G. Illingworth","license":"CC BY 4.0","page":"https://commons.wikimedia.org/wiki/File:Cone_Nebula_(NGC_2264)_Star-Forming_Pillar_of_Gas_and_Dust.jpg"},
-    {"name":"Ant Nebula","img":"ant-nebula.jpg","kind":"deep","credit":"NASA, ESA &amp; the Hubble Heritage Team (STScI/AURA). Acknowledgment: R. Sahai (Jet Propulsion Lab), B. Balick (University of Washington","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:Ant_Nebula.jpg"},
+    {"name":"Ant Nebula","img":"ant-nebula.jpg","kind":"deep","credit":"NASA, ESA & the Hubble Heritage Team (STScI/AURA). Acknowledgment: R. Sahai (Jet Propulsion Lab), B. Balick (University of Washington","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:Ant_Nebula.jpg"},
     {"name":"Red Rectangle","img":"red-rectangle.jpg","kind":"deep","credit":"The original uploader was Mgmirkin at English Wikipedia.","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:Redrectangle_hst_full.jpg"},
     {"name":"Heart Nebula","img":"heart-nebula.jpg","kind":"deep","credit":"Ram samudrala","license":"CC BY 4.0","page":"https://commons.wikimedia.org/wiki/File:Heart_Nebula_(2020-08-11).jpg"},
     {"name":"Eagle Nebula","img":"eagle-nebula.jpg","kind":"deep","credit":"ESO","license":"CC BY 4.0","page":"https://commons.wikimedia.org/wiki/File:Eagle_Nebula_from_ESO.jpg"},
