@@ -38,7 +38,7 @@ export const BODIES: Record<"a1" | "a2" | "b1", Body[]> = {
   b1: [
     {"name":"Sun","img":"sun.webp","kind":"deep","credit":"NASA/SDO (AIA)","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg"},
     {"name":"Betelgeuse","img":"betelgeuse.webp","kind":"deep","credit":"ALMA (ESO/NAOJ/NRAO)/E. O’Gorman/P. Kervella","license":"CC BY 4.0","page":"https://commons.wikimedia.org/wiki/File:Betelgeuse_captured_by_ALMA.jpg"},
-    {"name":"Eta Carinae","img":"eta-carinae.webp","kind":"deep","credit":"Jon Morse (University of Colorado) &amp; NASA Hubble Space Telescope","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:Eta_Carinae.jpg"},
+    {"name":"WR 140","img":"wr-140.jpg","kind":"deep","credit":"NASA, ESA, CSA JWST MIRI &amp; Ryan Lau et al.; Processed by Meli thev","license":"CC BY-SA 4.0","page":"https://commons.wikimedia.org/wiki/File:WR140.png"},
     {"name":"RS Puppis","img":"rs-puppis.jpg","kind":"deep","credit":"NASA, ESA, and the Hubble Heritage Team (STScI/AURA)-Hubble/Europe Collaboration; Acknowledgment: H. Bond (STScI and Penn State University)","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:Heic1323a_-1243686232.jpg"},
     {"name":"Pistol Star","img":"pistol-star.jpg","kind":"deep","credit":"Don F. Figer (UCLA) and NASA","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:Pistol_star_and_nebula.jpg"},
     {"name":"WR 124","img":"wr-124.jpg","kind":"deep","credit":"NASA, ESA, CSA, STScI, Webb ERO Production Team","license":"Public domain","page":"https://commons.wikimedia.org/wiki/File:Wolf-Rayet_124_(NIRCam_and_MIRI_composite_image).tif"},
