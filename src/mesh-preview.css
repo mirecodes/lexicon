@@ -1,0 +1,5 @@
+/* temporary: the .mesh rules, to be moved into styles.css */
+.mesh { position: absolute; inset: 0; margin: auto; width: var(--s); height: var(--s); pointer-events: none; --s: 92%;
+  opacity: .35; filter: grayscale(1); transition: opacity .45s, filter .45s; }
+.mesh.small { --s: 50%; } .mesh.planet { --s: 66%; } .mesh.comet { --s: 84%; }
+.mesh.lit, .c:hover .mesh { opacity: 1; filter: none; }

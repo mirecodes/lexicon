@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><title>mesh preview (temporary)</title>
+<style>
+  body { margin: 0; padding: 16px; background: #1f1f1f; color: #e4e4e4; font: 12px sans-serif; }
+  body.light { background: #fff; color: #1f1f1f; }
+  .g { display: grid; grid-template-columns: repeat(6, 150px); gap: 10px; }
+  .c { position: relative; width: 150px; height: 150px; border: 1px solid #3c3c3c; border-radius: 8px; background: #252526; display: flex; align-items: flex-end; justify-content: center; }
+  body.light .c { background: #fff; border-color: #e5e5e5; }
+  .c small { position: relative; padding: 4px; }
+</style>
+<link rel="stylesheet" href="/src/mesh-preview.css">
+</head><body><button onclick="document.body.classList.toggle('light')">theme</button> <label><input type="checkbox" id="lit" checked> lit</label><div class="g" id="g"></div>
+<script type="module">
+  import { createElement as h } from "react";
+  import { createRoot } from "react-dom/client";
+  import { BODIES } from "/src/bodies.ts";
+  import { SkyMesh } from "/src/SkyMesh.tsx";
+  const all = Object.values(BODIES).flat();
+  const root = createRoot(document.getElementById("g"));
+  const draw = () => root.render(all.map((b) => h("div", { className: "c", key: b.img }, h(SkyMesh, { img: b.img, kind: b.kind, rotate: b.rotate, done: document.getElementById("lit").checked }), h("small", null, b.name))));
+  document.getElementById("lit").onchange = draw;
+  draw();
+</script>
+</body></html>
