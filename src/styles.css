@@ -198,6 +198,7 @@ main { flex: 1; min-height: 0; display: flex; width: 100%; max-width: 640px; mar
   position: absolute; inset: 4%; pointer-events: none; background: var(--text);
   -webkit-mask: var(--img) center / contain no-repeat; mask: var(--img) center / contain no-repeat;
   opacity: .42; transition: opacity .45s, background-color .45s, transform .45s;
+  scale: var(--fs, 1); /* by the fish's real length (src/fishSize.ts): a guppy small, a whale shark the whole card */
 }
 .day:active .fish, .day.done .fish { background: var(--accent); opacity: .95; transform: scale(1.04); }
 .day b, .day span { text-shadow: 0 1px 3px var(--card), 0 0 6px var(--card); }

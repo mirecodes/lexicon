@@ -3,6 +3,7 @@ import { Cards } from "./Cards.tsx";
 import { CONSTELLATIONS, type Constellation } from "./constellations.ts";
 import { BODIES } from "./bodies.ts";
 import { FISH } from "./fish.ts";
+import { fishScale } from "./fishSize.ts";
 import {
   LANGS, PART_NAMES, TODAY_COUNT, dayDeck, getLastDay, getProgress, getTheme, gloss, grammarLine, groups, isEn, isLang,
   keyOf, levelOf, load, loadSynonyms, setTheme, sortText, store, todayDeck, type Loaded, type Theme,
@@ -114,7 +115,7 @@ function Days({ lang, words }: { lang: Lang; words: Word[] }) {
                     {c && <Sky c={c} />}
                     {o && <img className={`body ${o.kind}`} style={o.rotate ? { rotate: `${o.rotate}deg` } : undefined} src={`sky/${o.img}`} alt="" loading="lazy" decoding="async" title={`${o.name} · ${o.credit} (${o.license})`} />}
                     {/* absolute URL: a relative url() inside a custom property resolves against the built stylesheet (assets/), not the page */}
-                    {f && <span className="fish" style={{ ["--img" as string]: `url("${new URL(`fish/${f.img}`, document.baseURI)}")` }} title={`${f.name} (${f.en})`} />}
+                    {f && <span className="fish" style={{ ["--img" as string]: `url("${new URL(`fish/${f.img}`, document.baseURI)}")`, ["--fs" as string]: fishScale(f.img) }} title={`${f.name} (${f.en})`} />}
                     <b>Day {d.n}</b>
                     {/* words gone through so far, out of the day's total */}
                     <span>{p?.done ? d.list.length : p?.i ?? 0}/{d.list.length}</span>
